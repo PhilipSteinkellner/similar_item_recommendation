@@ -3,16 +3,41 @@
 
 
  {% block content %}
-<h1>
-    Result
-</h1>
 
-<p>
-    {{ output }}
-</p>
+<div id="main" >
 
-<p>
-    {{ poster }}
-</p>
+    <div id="content">
+
+        <div class="box" style="min-height: 250px">
+            <div class="head">
+              <h2>Same Actors</h2>
+
+            </div>
+            {% for pic in poster %}
+
+            <div class="movie">
+
+                <div class="movie-image">
+                    <span class="play" style="display: none;">
+                         <span class="name">X-MAN</span>
+                    </span>
+
+                     <a href="#"><img src='https://image.tmdb.org/t/p/w1280{{ pic }} ' alt=""></a>
+
+                </div>
+
+
+
+            </div>
+            {% endfor %}
+
+
+        </div>
+
+    </div>
+
+</div>
+
+
 
 {% endblock %}
