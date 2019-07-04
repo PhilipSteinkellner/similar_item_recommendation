@@ -1,29 +1,26 @@
 import json
 import pandas as pd
-#only for django else without the dot
+# only for django else without the dot
 from . import Util
 from django.urls import path
 
+import os
+import os
 
-import os
-import os
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 file_path = os.path.join(BASE_DIR, 'Recommender/ml-1m/movies.dat')
 
-class Recommender:
 
-    #pfad = path()
-    #print(pfad )
+class Recommender:
+    # pfad = path()
+    # print(pfad )
 
     extractedpath = os.path.join(BASE_DIR, 'Recommender/extracted_content_ml-latest/')
-
 
     # All Movies
     movies = pd.read_csv(file_path, header=None, encoding="ISO-8859-1", sep="::",
                          names=["MovieID", "Title", "Genres"], engine='python')
-
-
 
     # All movies of movielens 20M
     # movies_big = pd.read_csv('./ml-20m/movies.csv', header=None, encoding="ISO-8859-1", sep=",",
@@ -32,7 +29,6 @@ class Recommender:
     def __init__(self, username):
 
         self.username = username
-
 
     def same_actors(self, movie_id):
 
@@ -61,7 +57,7 @@ class Recommender:
 
             # check if json file exists for the given movie, if not skip this movie
             try:
-                with open( self.extractedpath + str(movie_id_2) + '.json', encoding="utf8") as json_file:
+                with open(self.extractedpath + str(movie_id_2) + '.json', encoding="utf8") as json_file:
                     data = json.load(json_file)
                     actors_2 = data['movielens']['actors']
                     popularity = data['movielens']['numRatings']
@@ -89,9 +85,8 @@ class Recommender:
         for key, row in similar_movies.head(5).iterrows():
             list.append(int(row['MovieID']))
 
-        print(similar_movies.head(5))
+        #print(similar_movies.head(5))
         return list
-
 
     def same_directors(self, movie_id):
 
@@ -100,7 +95,7 @@ class Recommender:
 
         # check if json file exists for the given movie, if not return an empty list
         try:
-            with open( self.extractedpath + str(movie_id) + '.json', encoding="utf8") as json_file:
+            with open(self.extractedpath + str(movie_id) + '.json', encoding="utf8") as json_file:
                 data = json.load(json_file)
                 directors = data['movielens']['directors']
         except FileNotFoundError:
@@ -120,7 +115,7 @@ class Recommender:
 
             # check if json file exists for the given movie, if not skip this movie
             try:
-                with open( self.extractedpath + str(movie_id_2) + '.json', encoding="utf8") as json_file:
+                with open(self.extractedpath + str(movie_id_2) + '.json', encoding="utf8") as json_file:
                     data = json.load(json_file)
                     directors_2 = data['movielens']['directors']
                     popularity = data['movielens']['numRatings']
@@ -158,14 +153,13 @@ class Recommender:
         print(similar_movies.head(5))
         return list
 
-
     def same_genres(self, movie_id):
         # series to store movies with their similarity score
         similar_movies = pd.DataFrame(columns=['MovieID', 'Score', 'Popularity'])
 
         # check if json file exists for the given movie, if not return an empty list
         try:
-            with open( self.extractedpath + str(movie_id) + '.json', encoding="utf8") as json_file:
+            with open(self.extractedpath + str(movie_id) + '.json', encoding="utf8") as json_file:
                 data = json.load(json_file)
                 genres = data['movielens']['genres']
         except FileNotFoundError:
@@ -185,7 +179,7 @@ class Recommender:
 
             # check if json file exists for the given movie, if not skip this movie
             try:
-                with open( self.extractedpath + str(movie_id_2) + '.json', encoding="utf8") as json_file:
+                with open(self.extractedpath + str(movie_id_2) + '.json', encoding="utf8") as json_file:
                     data = json.load(json_file)
                     genres_2 = data['movielens']['genres']
                     popularity = data['movielens']['numRatings']
@@ -223,19 +217,17 @@ class Recommender:
         print(similar_movies.head(5))
         return list
 
-
     def same_genres2(self, movie_id):
         # series to store movies with their similarity score
         similar_movies = pd.Series()
 
         # check if json file exists for the given movie, if not return an empty list
         try:
-            with open( self.extractedpath + str(movie_id) + '.json', encoding="utf8") as json_file:
+            with open(self.extractedpath + str(movie_id) + '.json', encoding="utf8") as json_file:
                 data = json.load(json_file)
                 genres = data['movielens']['genres']
         except FileNotFoundError:
             return []
-
 
         # for all movies
         features = [(movie_id, 1)]
@@ -243,19 +235,18 @@ class Recommender:
             # movieID of the current movie
             movie_id_2 = row['MovieID']
 
-
             print("analyzing movie: " + str(movie_id_2))
             # if the current movie is the same movie as the movie for which the similarity values are computed,
             # ignore this movie
-            if str(movie_id)  == str(movie_id_2):
+            if str(movie_id) == str(movie_id_2):
                 continue
 
             # check if json file exists for the given movie, if not skip this movie
             try:
-                with open( self.extractedpath + str(movie_id_2) + '.json', encoding="utf8") as json_file:
+                with open(self.extractedpath + str(movie_id_2) + '.json', encoding="utf8") as json_file:
                     data = json.load(json_file)
                     genres_2 = data['movielens']['genres']
-                    #avg_rate_2 = data['movielens']['avgRating']
+                    # avg_rate_2 = data['movielens']['avgRating']
                     if not genres_2: continue
             except FileNotFoundError:
                 continue
@@ -272,7 +263,6 @@ class Recommender:
         # sort the series, the movie with the highest score being on top
         similarities = sorted(features, key=lambda k: k[1], reverse=True)
 
-
         # return the 5 most similar movies
         list = []
         for elem in similarities[1:6]:
@@ -280,34 +270,31 @@ class Recommender:
 
         return list
 
-
     def similar_plot_description(self, movie_id):
         # check if json file exists for the given movie, if not return an empty list
         try:
-            with open( self.extractedpath + str(movie_id) + '.json', encoding="utf8") as json_file:
+            with open(self.extractedpath + str(movie_id) + '.json', encoding="utf8") as json_file:
                 data = json.load(json_file)
                 plot = data['movielens']['plotSummary']
                 genres = data['movielens']['genres']
         except FileNotFoundError:
             return []
 
-
         # for all movies
-        features = [(movie_id,plot,1,1)]
+        features = [(movie_id, plot, 1, 1)]
         for key, row in self.movies.iterrows():
             # movieID of the current movie
             movie_id_2 = row['MovieID']
 
-
             print("analyzing movie: " + str(movie_id_2))
             # if the current movie is the same movie as the movie for which the similarity values are computed,
             # ignore this movie
-            if str(movie_id)  == str(movie_id_2):
+            if str(movie_id) == str(movie_id_2):
                 continue
 
             # check if json file exists for the given movie, if not skip this movie
             try:
-                with open( self.extractedpath + str(movie_id_2) + '.json', encoding="utf8") as json_file:
+                with open(self.extractedpath + str(movie_id_2) + '.json', encoding="utf8") as json_file:
                     data = json.load(json_file)
                     plot_2 = data['movielens']['plotSummary']
                     genres_2 = data['movielens']['genres']
@@ -353,27 +340,68 @@ class Recommender:
 
         return list
 
-
     def similar_keywords(self, movie_id):
         return []
 
     def echo(self, somestring):
-        #print(somestring + " 3" )
+        # print(somestring + " 3" )
         return somestring + " 3"
+
+    # returns id
+    def get_id(self, name):
+
+        id = -1
+
+        for key, row in self.movies.iterrows():
+
+            title = row['Title']
+            title = title[:-6].strip()
+
+            print(title)
+            print(name)
+
+            print(title == name)
+
+
+            if title == name:
+
+                print(key)
+                id = row['MovieID']
+
+            else:
+                continue
+
+        return id
+
+    def get_name(self, id):
+        name = "No Name"
+        for key, row in self.movies.iterrows():
+
+            m_id = row['MovieID']
+
+            #print(m_id == name)
+
+            if id == m_id:
+                #print(key)
+                name = row['Title']
+
+            else:
+                continue
+
+        return name
 
 
 if __name__ == '__main__':
-
     recommender = Recommender("CARL")
 
     result = recommender.same_actors(1)
     result2 = recommender.same_directors(1)
-    #result = same_genres(1)
-    #result = similar_plot_description(1)
-    print( '+++++')
+    # result = same_genres(1)
+    # result = similar_plot_description(1)
+    print('+++++')
     print(result)
-    print ('**************')
-    #print(result2)
+    print('**************')
+    # print(result2)
 
     '''for key, row in movies.iterrows():
         try:

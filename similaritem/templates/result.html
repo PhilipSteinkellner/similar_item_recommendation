@@ -10,19 +10,45 @@
 
         <div class="box" style="min-height: 250px">
             <div class="head">
-              <h2>Same Actors</h2>
+              <h1>Same Actors</h1>
 
             </div>
-            {% for pic in poster %}
+            {% for movie in sameactor %}
 
             <div class="movie">
 
                 <div class="movie-image">
                     <span class="play" style="display: none;">
-                         <span class="name">X-MAN</span>
+                         <span class="name">{{ movie.1 }}</span>
                     </span>
 
-                     <a href="#"><img src='https://image.tmdb.org/t/p/w1280{{ pic }} ' alt=""></a>
+                     <a href="#"><img src='https://image.tmdb.org/t/p/w1280{{ movie.0 }} ' alt=""></a>
+
+                </div>
+
+
+
+            </div>
+            {% endfor %}
+
+
+        </div>
+
+         <div class="box" style="min-height: 250px">
+            <div class="head">
+              <h1>Same Director</h1>
+
+            </div>
+            {% for movie in samedirector %}
+
+            <div class="movie">
+
+                <div class="movie-image">
+                    <span class="play" style="display: none;">
+                         <span class="name">{{ movie.1 }}</span>
+                    </span>
+
+                     <a href="#"><img src='https://image.tmdb.org/t/p/w1280{{ movie.0 }} ' alt=""></a>
 
                 </div>
 

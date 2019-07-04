@@ -15,13 +15,13 @@
 <div id="shell">
 
     <div id="header" style="min-height:10em">
-    <h1 id="logo"><a href="#">best recommender</a></h1>
+    <h1 id="logo"><a href=" ">best recommender</a></h1>
 
     <div id="sub-navigation" style="padding: 2em">
       <div id="search" >
-        <form action="#" method="get" accept-charset="utf-8">
+        <form action="result" method="POST" accept-charset="utf-8">  {% csrf_token %}
           <label for="search-field">Let us inspire you! Tell us what you like </label>
-          <input type="text" name="search field" value="Toy Story" id="search-field" class="blink search-field">
+          <input type="text" name="search field" placeholder="Movie" id="search-field" class="blink search-field">
           <input type="submit" value="GO!" class="search-button">
         </form>
       </div>
