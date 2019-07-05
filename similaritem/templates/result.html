@@ -8,6 +8,7 @@
 
     <div id="content">
 
+        <!--same actors-->
         <div class="box" style="min-height: 250px">
             <div class="head">
               <h1>Same Actors</h1>
@@ -34,7 +35,8 @@
 
         </div>
 
-         <div class="box" style="min-height: 250px">
+        <!--same directors-->
+        <div class="box" style="min-height: 250px">
             <div class="head">
               <h1>Same Director</h1>
 
@@ -59,6 +61,62 @@
 
 
         </div>
+
+        <!--same genre-->
+        <div class="box" style="min-height: 250px">
+            <div class="head">
+              <h1>Same Genre</h1>
+
+            </div>
+            {% for movie in samegenre %}
+
+            <div class="movie">
+
+                <div class="movie-image">
+                    <span class="play" style="display: none;">
+                         <span class="name">{{ movie.1 }}</span>
+                    </span>
+
+                     <a href="#"><img src='https://image.tmdb.org/t/p/w1280{{ movie.0 }} ' alt=""></a>
+
+                </div>
+
+
+
+            </div>
+            {% endfor %}
+
+
+        </div>
+
+        <!--similarplot-->
+        <div class="box" style="min-height: 250px">
+            <div class="head">
+              <h1>similar plot</h1>
+
+            </div>
+            {% for movie in similarplot %}
+
+            <div class="movie">
+
+                <div class="movie-image">
+                    <span class="play" style="display: none;">
+                         <span class="name">{{ movie.1 }}</span>
+                    </span>
+
+                     <a href="#"><img src='https://image.tmdb.org/t/p/w1280{{ movie.0 }} ' alt=""></a>
+
+                </div>
+
+
+
+            </div>
+            {% endfor %}
+
+
+        </div>
+
+
 
     </div>
 

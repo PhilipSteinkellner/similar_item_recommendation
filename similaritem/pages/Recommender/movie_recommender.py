@@ -214,7 +214,7 @@ class Recommender:
         for key, row in similar_movies.head(5).iterrows():
             list.append(int(row['MovieID']))
 
-        print(similar_movies.head(5))
+        #print(similar_movies.head(5))
         return list
 
     def same_genres2(self, movie_id):
@@ -340,6 +340,7 @@ class Recommender:
 
         return list
 
+    #not finished
     def similar_keywords(self, movie_id):
         return []
 
