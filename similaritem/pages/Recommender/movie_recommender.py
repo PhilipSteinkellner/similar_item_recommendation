@@ -542,14 +542,14 @@ class Recommender:
             title = row['Title']
             title = title[:-6].strip()
 
-            print(title)
-            print(name)
+            #print(title)
+            #print(name)
 
-            print(title == name)
+            #print(title == name)
 
-            if title == name:
+            if title.lower() == name.lower():
 
-                print(key)
+                #print(key)
                 id = row['MovieID']
 
             else:
