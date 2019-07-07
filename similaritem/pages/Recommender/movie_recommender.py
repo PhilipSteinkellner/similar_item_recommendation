@@ -2,14 +2,16 @@ import json
 import pandas as pd
 # only for django else without the dot
 from . import Util
+from sklearn.preprocessing import MinMaxScaler
 from django.urls import path
-
+import numpy as np
 import os
 import os
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 file_path = os.path.join(BASE_DIR, 'Recommender/ml-1m/movies.dat')
+file_path_big = os.path.join(BASE_DIR, 'Recommender/ml-20m/movies.csv')
 
 
 class Recommender:
@@ -23,8 +25,8 @@ class Recommender:
                          names=["MovieID", "Title", "Genres"], engine='python')
 
     # All movies of movielens 20M
-    # movies_big = pd.read_csv('./ml-20m/movies.csv', header=None, encoding="ISO-8859-1", sep=",",
-    #                     names=["MovieID", "Title", "Genres"], engine='python')
+    movies_big = pd.read_csv(file_path_big, header=None, encoding="ISO-8859-1", sep=",",
+                       names=["MovieID", "Title", "Genres"], engine='python')
 
     def __init__(self, username):
 
@@ -44,7 +46,7 @@ class Recommender:
             return []
 
         # for all movies
-        for key, row in self.movies.iterrows():
+        for key, row in self.movies_big.iterrows():
             # movieID of the current movie
             movie_id_2 = row['MovieID']
             # if the current movie is the same movie as the movie for which the similarity values are computed,
@@ -85,7 +87,7 @@ class Recommender:
         for key, row in similar_movies.head(5).iterrows():
             list.append(int(row['MovieID']))
 
-        #print(similar_movies.head(5))
+        # print(similar_movies.head(5))
         return list
 
     def same_directors(self, movie_id):
@@ -102,7 +104,7 @@ class Recommender:
             return []
 
         # for all movies
-        for key, row in self.movies.iterrows():
+        for key, row in self.movies_big.iterrows():
             # movieID of the current movie
             movie_id_2 = row['MovieID']
             # if the current movie is the same movie as the movie for which the similarity values are computed,
@@ -166,7 +168,7 @@ class Recommender:
             return []
 
         # for all movies
-        for key, row in self.movies.iterrows():
+        for key, row in self.movies_big.iterrows():
             # movieID of the current movie
             movie_id_2 = row['MovieID']
             # if the current movie is the same movie as the movie for which the similarity values are computed,
@@ -214,7 +216,7 @@ class Recommender:
         for key, row in similar_movies.head(5).iterrows():
             list.append(int(row['MovieID']))
 
-        #print(similar_movies.head(5))
+        # print(similar_movies.head(5))
         return list
 
     def same_genres2(self, movie_id):
@@ -231,7 +233,7 @@ class Recommender:
 
         # for all movies
         features = [(movie_id, 1)]
-        for key, row in self.movies.iterrows():
+        for key, row in self.movies_big.iterrows():
             # movieID of the current movie
             movie_id_2 = row['MovieID']
 
@@ -276,17 +278,18 @@ class Recommender:
             with open(self.extractedpath + str(movie_id) + '.json', encoding="utf8") as json_file:
                 data = json.load(json_file)
                 plot = data['movielens']['plotSummary']
-                genres = data['movielens']['genres']
+                genres = data['imdb']['genres']
+                movie_title = data['movielens']['originalTitle']
         except FileNotFoundError:
             return []
 
         # for all movies
-        features = [(movie_id, plot, 1, 1)]
-        for key, row in self.movies.iterrows():
+        features = [(movie_id, plot, 1, 1, 0)]
+        for key, row in self.movies_big.iterrows():
             # movieID of the current movie
             movie_id_2 = row['MovieID']
 
-            print("analyzing movie: " + str(movie_id_2))
+            # print("analyzing movie: " + str(movie_id_2))
             # if the current movie is the same movie as the movie for which the similarity values are computed,
             # ignore this movie
             if str(movie_id) == str(movie_id_2):
@@ -294,11 +297,14 @@ class Recommender:
 
             # check if json file exists for the given movie, if not skip this movie
             try:
-                with open(self.extractedpath + str(movie_id_2) + '.json', encoding="utf8") as json_file:
+                with open('./extracted_content_ml-latest/' + str(movie_id_2) + '.json', encoding="utf8") as json_file:
                     data = json.load(json_file)
+                    if "tmdb" not in data: continue
                     plot_2 = data['movielens']['plotSummary']
                     genres_2 = data['movielens']['genres']
                     avg_rate_2 = data['movielens']['avgRating']
+                    movie_title = data['movielens']['originalTitle']
+                    popularity_2 = data["tmdb"]["popularity"]
                     if not plot_2: continue
             except FileNotFoundError:
                 continue
@@ -306,28 +312,33 @@ class Recommender:
             # number of genres the 2 movies have in common
             common_genres = len([g for g in genres if g in genres_2])
             # normalization of the number of genres in common by the number of genres for the input movie
-            genre_similarity = common_genres / len(genres)
+            genre_similarity = common_genres / len(genres_2)
             # normalized average rating for the movies
             normalized_rate = avg_rate_2 / 5.0
 
             # add the movie and the score to the series
-            features.append((movie_id_2, plot_2, genre_similarity, normalized_rate))
+            features.append((movie_title, plot_2, genre_similarity, normalized_rate, popularity_2))
 
         import numpy as np
         # mapping the movies plots to tfidf vectors
-        vectorized_plots = Util.vectorizePlots(np.array(features)[:, 1])
+        vectorized_plots = Util.tfIdfVectorize(np.array(features)[:, 1])
         similarities = []
+
+        scaler = MinMaxScaler(feature_range=(0, 1))
+        scaled_popularities = scaler.fit_transform(np.array(features)[:, 4].reshape(-1, 1))
+
         for i, elem in enumerate(features):
             # calculating the plot similarity between current and input movie based on the cosine similarity between their
             # vectorized plots
-            plot_similarity = Util.getPlotSimilarity(vectorized_plots[0], vectorized_plots[i])
+            plot_similarity = Util.getCosineSimilarity(vectorized_plots[0], vectorized_plots[i])
             # measure of genre similarity between the 2 movies
             genre_similarity = features[i][2]
             # normalized avg rate of the movie
             rate = features[i][3]
-
+            # scaled popularity
+            scaled_popularity = scaled_popularities[i]
             # final predicted score for the current movie
-            score = plot_similarity * genre_similarity * rate
+            score = plot_similarity * genre_similarity * rate * scaled_popularity
             similarities.append((features[i][0], score))
 
         # sort the series, the movie with the highest score being on top
@@ -335,14 +346,186 @@ class Recommender:
 
         # return the 5 most similar movies
         list = []
-        for elem in similarities[1:6]:
+        for elem in similarities[0:5]:
             list.append(elem[0])
 
         return list
 
-    #not finished
     def similar_keywords(self, movie_id):
-        return []
+        # check if json file exists for the given movie, if not return an empty list
+        try:
+            with open(self.extractedpath + str(movie_id) + '.json', encoding="utf8") as json_file:
+                data = json.load(json_file)
+                # extracting tmdb keywords as a single string
+                keywords = data['tmdb']['keywords']
+                keywords = [k["name"] for k in keywords]
+                keywords = ' '.join(keywords)
+                genres = data['movielens']['genres']
+                # movie_title = data['movielens']['originalTitle']
+        except FileNotFoundError:
+            return []
+
+        # for all movies
+        features = [(movie_id, keywords, 1, 1, 0)]
+        for key, row in self.movies_big.iterrows():
+            # movieID of the current movie
+            movie_id_2 = row['MovieID']
+
+            # print("analyzing movie: " + str(movie_id_2))
+            # if the current movie is the same movie as the movie for which the similarity values are computed,
+            # ignore this movie
+            if str(movie_id) == str(movie_id_2):
+                continue
+
+            # check if json file exists for the given movie, if not skip this movie
+            try:
+                with open('./extracted_content_ml-latest/' + str(movie_id_2) + '.json', encoding="utf8") as json_file:
+                    data = json.load(json_file)
+                    if "tmdb" not in data: continue
+                    # extracting keywords as a single string
+                    keywords_2 = data['tmdb']['keywords']
+                    keywords_2 = [k["name"] for k in keywords_2]
+                    keywords_2 = ' '.join(keywords_2)
+                    # extracting genres
+                    genres_2 = data['movielens']['genres']
+                    # extracting avg rate
+                    avg_rate_2 = data['movielens']['avgRating']
+                    # extracting movie title
+                    movie_title = data['movielens']['originalTitle']
+                    # extracting movie title
+                    popularity_2 = data["tmdb"]["popularity"]
+                    if not keywords_2: continue
+            except FileNotFoundError:
+                continue
+
+            # number of genres the 2 movies have in common
+            common_genres = len([g for g in genres if g in genres_2])
+            # normalization of the number of genres in common by the number of genres for the input movie
+            genre_similarity = common_genres / len(genres_2)
+            # normalized average rating for the movies
+            normalized_rate = avg_rate_2 / 5.0
+
+            # add the movie and the score to the series
+            features.append((movie_title, keywords_2, genre_similarity, normalized_rate, popularity_2))
+
+        # mapping the movies plots to tfidf vectors
+        vectorized_keywords = Util.countVectorize(np.array(features)[:, 1])
+
+        scaler = MinMaxScaler(feature_range=(0, 1))
+        scaled_popularities = scaler.fit_transform(np.array(features)[:, 4].reshape(-1, 1))
+
+        similarities = []
+        for i, elem in enumerate(features):
+            # print("evaluating:  " + str(i))
+            # calculating the plot similarity between current and input movie based on the cosine similarity between their
+            # vectorized plots
+            plot_similarity = Util.getCosineSimilarity(vectorized_keywords[0], vectorized_keywords[i])
+            # measure of genre similarity between the 2 movies
+            genre_similarity = features[i][2]
+            # normalized avg rate of the movie
+            rate = features[i][3]
+            # scaled popularity
+            scaled_popularity = scaled_popularities[i]
+            # final predicted score for the current movie
+            score = plot_similarity * genre_similarity * rate * scaled_popularity
+            similarities.append((features[i][0], score))
+
+        # sort the series, the movie with the highest score being on top
+        similarities = sorted(similarities, key=lambda k: k[1], reverse=True)
+
+        # return the 5 most similar movies
+        list = []
+        for elem in similarities[0:5]:
+            list.append(elem[0])
+
+        return list
+
+    def similar_genome(self, movie_id):
+        # check if json file exists for the given movie, if not return an empty list
+
+        import csv
+        with open("./ml-20m/genome-scores.csv", 'r') as f:  # opens PW file
+            reader = csv.reader(f)
+            # skip header
+            next(reader, None)
+            # genome_list = np.array(genome.values.tolist())
+            # values are ("last movie id" + 1, "last tag id" + 1)
+            genome = np.zeros((131171, 1129))
+            # building a genome list
+            for row in reader:
+                mov_id = int(row[0])
+                tag_id = int(row[1])
+                tag_relevance = float(row[2])
+                genome[mov_id][tag_id] = tag_relevance
+
+        genome = np.array(genome)
+        print("genome list contruction done")
+
+        try:
+            with open(self.extractedpath + str(movie_id) + '.json', encoding="utf8") as json_file:
+                data = json.load(json_file)
+                # extracting movie genres
+                genres = data['imdb']['genres']
+        except FileNotFoundError:
+            return []
+
+        # genome vector of the movie we want to get the recommendation for
+        movie_genome_vector = genome[movie_id].reshape(1, -1)
+        similarities = []
+        for key, row in self.movies_big.iterrows():
+
+            # movieID of the current movie
+            movie_id_2 = row['MovieID']
+            movie_title = row['Title']
+
+            # print(movie_id_2)
+            # print("analyzing movie: " + str(movie_id_2))
+            # if the current movie is the same movie as the movie for which the similarity values are computed,
+            # ignore this movie
+            if str(movie_id) == str(movie_id_2) or movie_id_2 > 131171:
+                continue
+
+            # building genome vector for other movies
+            movie_genome_vector_2 = genome[movie_id_2].reshape(1, -1)
+            similarity = Util.getCosineSimilarity(movie_genome_vector, movie_genome_vector_2)[0][0]
+            try:
+                with open('./extracted_content_ml-latest/' + str(movie_id_2) + '.json', encoding="utf8") as json_file:
+                    data = json.load(json_file)
+                    if "tmdb" not in data: continue
+                    # extracting genres
+                    genres_2 = data['imdb']['genres']
+                    if not genres_2: continue
+                    # extracting avg rate
+                    avg_rate_2 = data['movielens']['avgRating']
+
+            except FileNotFoundError:
+                continue
+
+            # number of genres the 2 movies have in common
+            common_genres = len([g for g in genres if g in genres_2])
+            # normalization of the number of genres in common by the number of genres for the input movie
+            genre_similarity = common_genres / len(genres_2)
+
+            # normalized average rating for the movies
+            normalized_rate = avg_rate_2 / 5.0
+            # add the movie and the score to the series
+            similarities.append((movie_title, similarity * genre_similarity))
+
+        # sort the series, the movie with the highest score being on top
+        similarities = sorted(similarities, key=lambda k: k[1], reverse=True)
+
+        # return the 5 most similar movies
+        list = []
+
+        for elem in similarities[0:5]:
+            list.append(elem[0])
+
+        return list
+
+
+
+    # ****************************************************************************
+    # methods used for django
 
     def echo(self, somestring):
         # print(somestring + " 3" )
@@ -363,7 +546,6 @@ class Recommender:
 
             print(title == name)
 
-
             if title == name:
 
                 print(key)
@@ -380,10 +562,10 @@ class Recommender:
 
             m_id = row['MovieID']
 
-            #print(m_id == name)
+            # print(m_id == name)
 
             if id == m_id:
-                #print(key)
+                # print(key)
                 name = row['Title']
 
             else:
