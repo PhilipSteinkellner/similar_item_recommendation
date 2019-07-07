@@ -13,6 +13,7 @@ import os
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 file_path = os.path.join(BASE_DIR, 'Recommender/ml-1m/movies.dat')
 file_path_big = os.path.join(BASE_DIR, 'Recommender/ml-20m/movies.csv')
+file_path_genome = os.path.join(BASE_DIR, 'Recommender/ml-20m/genome-scores.csv')
 
 
 class Recommender:
@@ -47,7 +48,7 @@ class Recommender:
             return []
 
         # for all movies
-        for key, row in self.movies_big.iterrows():
+        for key, row in self.movies.iterrows():
             # movieID of the current movie
             movie_id_2 = row['MovieID']
             # if the current movie is the same movie as the movie for which the similarity values are computed,
@@ -105,7 +106,7 @@ class Recommender:
             return []
 
         # for all movies
-        for key, row in self.movies_big.iterrows():
+        for key, row in self.movies.iterrows():
             # movieID of the current movie
             movie_id_2 = row['MovieID']
             # if the current movie is the same movie as the movie for which the similarity values are computed,
@@ -169,7 +170,7 @@ class Recommender:
             return []
 
         # for all movies
-        for key, row in self.movies_big.iterrows():
+        for key, row in self.movies.iterrows():
             # movieID of the current movie
             movie_id_2 = row['MovieID']
             # if the current movie is the same movie as the movie for which the similarity values are computed,
@@ -234,7 +235,7 @@ class Recommender:
 
         # for all movies
         features = [(movie_id, 1)]
-        for key, row in self.movies_big.iterrows():
+        for key, row in self.movies.iterrows():
             # movieID of the current movie
             movie_id_2 = row['MovieID']
 
@@ -286,7 +287,7 @@ class Recommender:
 
         # for all movies
         features = [(movie_id, plot, 1, 1, 0)]
-        for key, row in self.movies_big.iterrows():
+        for key, row in self.movies.iterrows():
             # movieID of the current movie
             movie_id_2 = row['MovieID']
 
@@ -298,7 +299,7 @@ class Recommender:
 
             # check if json file exists for the given movie, if not skip this movie
             try:
-                with open('./extracted_content_ml-latest/' + str(movie_id_2) + '.json', encoding="utf8") as json_file:
+                with open(self.extractedpath + str(movie_id_2) + '.json', encoding="utf8") as json_file:
                     data = json.load(json_file)
                     if "tmdb" not in data: continue
                     plot_2 = data['movielens']['plotSummary']
@@ -318,7 +319,7 @@ class Recommender:
             normalized_rate = avg_rate_2 / 5.0
 
             # add the movie and the score to the series
-            features.append((movie_title, plot_2, genre_similarity, normalized_rate, popularity_2))
+            features.append((movie_id_2, plot_2, genre_similarity, normalized_rate, popularity_2))
 
         import numpy as np
         # mapping the movies plots to tfidf vectors
@@ -368,7 +369,7 @@ class Recommender:
 
         # for all movies
         features = [(movie_id, keywords, 1, 1, 0)]
-        for key, row in self.movies_big.iterrows():
+        for key, row in self.movies.iterrows():
             # movieID of the current movie
             movie_id_2 = row['MovieID']
 
@@ -380,7 +381,7 @@ class Recommender:
 
             # check if json file exists for the given movie, if not skip this movie
             try:
-                with open('./extracted_content_ml-latest/' + str(movie_id_2) + '.json', encoding="utf8") as json_file:
+                with open(self.extractedpath + str(movie_id_2) + '.json', encoding="utf8") as json_file:
                     data = json.load(json_file)
                     if "tmdb" not in data: continue
                     # extracting keywords as a single string
@@ -407,7 +408,7 @@ class Recommender:
             normalized_rate = avg_rate_2 / 5.0
 
             # add the movie and the score to the series
-            features.append((movie_title, keywords_2, genre_similarity, normalized_rate, popularity_2))
+            features.append((movie_id_2, keywords_2, genre_similarity, normalized_rate, popularity_2))
 
         # mapping the movies plots to tfidf vectors
         vectorized_keywords = Util.countVectorize(np.array(features)[:, 1])
@@ -445,7 +446,7 @@ class Recommender:
         # check if json file exists for the given movie, if not return an empty list
 
         import csv
-        with open("./ml-20m/genome-scores.csv", 'r') as f:  # opens PW file
+        with open(file_path_genome, 'r') as f:  # opens PW file
             reader = csv.reader(f)
             # skip header
             next(reader, None)
@@ -473,7 +474,7 @@ class Recommender:
         # genome vector of the movie we want to get the recommendation for
         movie_genome_vector = genome[movie_id].reshape(1, -1)
         similarities = []
-        for key, row in self.movies_big.iterrows():
+        for key, row in self.movies.iterrows():
 
             # movieID of the current movie
             movie_id_2 = row['MovieID']
@@ -490,7 +491,7 @@ class Recommender:
             movie_genome_vector_2 = genome[movie_id_2].reshape(1, -1)
             similarity = Util.getCosineSimilarity(movie_genome_vector, movie_genome_vector_2)[0][0]
             try:
-                with open('./extracted_content_ml-latest/' + str(movie_id_2) + '.json', encoding="utf8") as json_file:
+                with open(self.extractedpath + str(movie_id_2) + '.json', encoding="utf8") as json_file:
                     data = json.load(json_file)
                     if "tmdb" not in data: continue
                     # extracting genres
@@ -510,7 +511,7 @@ class Recommender:
             # normalized average rating for the movies
             normalized_rate = avg_rate_2 / 5.0
             # add the movie and the score to the series
-            similarities.append((movie_title, similarity * genre_similarity))
+            similarities.append((movie_id_2, similarity * genre_similarity))
 
         # sort the series, the movie with the highest score being on top
         similarities = sorted(similarities, key=lambda k: k[1], reverse=True)
@@ -522,7 +523,6 @@ class Recommender:
             list.append(elem[0])
 
         return list
-
 
 
     # ****************************************************************************
