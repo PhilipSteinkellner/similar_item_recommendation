@@ -5,7 +5,8 @@ from . import Util
 from sklearn.preprocessing import MinMaxScaler
 from django.urls import path
 import numpy as np
-import os
+
+
 import os
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
