@@ -26,7 +26,7 @@ class Recommender:
                          names=["MovieID", "Title", "Genres"], engine='python')
 
     # All movies of movielens 20M
-    movies_big = pd.read_csv(file_path_big, header=None, encoding="ISO-8859-1", sep=",",
+    movies_big = pd.read_csv(file_path_big, skiprows=1, encoding="ISO-8859-1", sep=",",
                              names=["MovieID", "Title", "Genres"], engine='python')
 
     def __init__(self, username):
@@ -170,7 +170,7 @@ class Recommender:
             return []
 
         # for all movies
-        for key, row in self.movies_big.iterrows():
+        for key, row in self.movies.iterrows():
             # movieID of the current movie
             movie_id_2 = row['MovieID']
             # if the current movie is the same movie as the movie for which the similarity values are computed,
@@ -316,7 +316,7 @@ class Recommender:
 
         # for all movies
         features = [(movie_id, keywords, 1, 1, 0)]
-        for key, row in self.movies_big.iterrows():
+        for key, row in self.movies.iterrows():
             # movieID of the current movie
             movie_id_2 = row['MovieID']
 
@@ -391,6 +391,7 @@ class Recommender:
 
     def similar_genome(self, movie_id):
         # check if json file exists for the given movie, if not return an empty list
+
 
         import csv
         with open(file_path_genome, 'r') as f:  # opens PW file
@@ -486,7 +487,6 @@ class Recommender:
         print(name)
 
         for key, row in self.movies_big.iterrows():
-
 
             title = row['Title']
             title = title[:-6].strip()
