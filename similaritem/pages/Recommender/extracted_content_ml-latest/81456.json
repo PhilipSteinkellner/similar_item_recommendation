@@ -1,0 +1,569 @@
+{
+   "tmdb": {
+      "original_language": "fr",
+      "keywords": [
+         {
+            "name": "love triangle",
+            "id": 128
+         },
+         {
+            "name": "menage a trois",
+            "id": 3190
+         },
+         {
+            "name": "french",
+            "id": 4653
+         },
+         {
+            "name": "love",
+            "id": 9673
+         },
+         {
+            "name": "tension",
+            "id": 10481
+         }
+      ],
+      "imdb_id": "tt1600524",
+      "video": false,
+      "title": "Heartbeats",
+      "recommendations": [
+         26280,
+         110160,
+         184352,
+         265177,
+         338189,
+         285841,
+         79120,
+         65229,
+         14448,
+         11421,
+         152584,
+         336804,
+         1553,
+         99119,
+         24584,
+         132561,
+         49020,
+         100898,
+         17614,
+         221902
+      ],
+      "backdrop_path": "/g1aVwXY3xLsJCsS38a2gMKejSWp.jpg",
+      "revenue": 62985,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 3,
+               "character": "Marie",
+               "gender": 1,
+               "credit_id": "52fe47e9c3a36847f814eb0d",
+               "name": "Monia Chokri",
+               "profile_path": "/iRcgTEZ2jBgMBK4oOgFEdVpa7sz.jpg",
+               "id": 143595,
+               "order": 0
+            },
+            {
+               "cast_id": 4,
+               "character": "Nicolas",
+               "gender": 2,
+               "credit_id": "52fe47e9c3a36847f814eb11",
+               "name": "Niels Schneider",
+               "profile_path": "/4DzGw1k7KhdgpiV8iYnOBhKuwIL.jpg",
+               "id": 143596,
+               "order": 1
+            },
+            {
+               "cast_id": 5,
+               "character": "Francis",
+               "gender": 2,
+               "credit_id": "52fe47e9c3a36847f814eb15",
+               "name": "Xavier Dolan",
+               "profile_path": "/soGV3BHOhDQQRZ33SXLYK4blMw1.jpg",
+               "id": 143593,
+               "order": 2
+            },
+            {
+               "cast_id": 7,
+               "character": "Désirée",
+               "gender": 1,
+               "credit_id": "52fe47e9c3a36847f814eb1f",
+               "name": "Anne Dorval",
+               "profile_path": "/4iU4Cjkgq2ekIDK0IlOcDNcEdnC.jpg",
+               "id": 86612,
+               "order": 3
+            },
+            {
+               "cast_id": 8,
+               "character": "Jeune femme 1",
+               "gender": 1,
+               "credit_id": "52fe47e9c3a36847f814eb23",
+               "name": "Anne-Élisabeth Bossé",
+               "profile_path": "/5joY6ZGvYfwvIq3Z8T4CMtQWe78.jpg",
+               "id": 559579,
+               "order": 4
+            },
+            {
+               "cast_id": 9,
+               "character": "Jeune homme 1",
+               "gender": 2,
+               "credit_id": "52fe47e9c3a36847f814eb27",
+               "name": "Olivier Morin",
+               "profile_path": "/fG3nYMFb4G1C0pV51QbwZiYD43O.jpg",
+               "id": 559580,
+               "order": 5
+            },
+            {
+               "cast_id": 10,
+               "character": "Jeune femme 2",
+               "gender": 1,
+               "credit_id": "52fe47e9c3a36847f814eb2b",
+               "name": "Magalie Lépine-Blondeau",
+               "profile_path": "/2UvYoo8d4wzksVx399YJSHzjOep.jpg",
+               "id": 559581,
+               "order": 6
+            },
+            {
+               "cast_id": 11,
+               "character": "Jeune homme 2",
+               "gender": 2,
+               "credit_id": "52fe47e9c3a36847f814eb2f",
+               "name": "Éric Bruneau",
+               "profile_path": "/hCA1bMxIBcwNxVAnNi2qNh1qhPW.jpg",
+               "id": 559582,
+               "order": 7
+            },
+            {
+               "cast_id": 12,
+               "character": "Jeune homme 3",
+               "gender": 2,
+               "credit_id": "52fe47e9c3a36847f814eb33",
+               "name": "Gabriel Lessard",
+               "profile_path": null,
+               "id": 559583,
+               "order": 8
+            },
+            {
+               "cast_id": 13,
+               "character": "Jeune femme 3",
+               "gender": 1,
+               "credit_id": "52fe47e9c3a36847f814eb37",
+               "name": "Bénédicte Décary",
+               "profile_path": "/vgz0QzzE3kJv6YMk7F6JCj9x0kz.jpg",
+               "id": 559584,
+               "order": 9
+            },
+            {
+               "cast_id": 14,
+               "character": "Baise 1",
+               "gender": 0,
+               "credit_id": "52fe47e9c3a36847f814eb3b",
+               "name": "François Bernier",
+               "profile_path": null,
+               "id": 559585,
+               "order": 10
+            },
+            {
+               "cast_id": 15,
+               "character": "Baise 2",
+               "gender": 2,
+               "credit_id": "52fe47e9c3a36847f814eb3f",
+               "name": "Benoît McGinnis",
+               "profile_path": "/kxHwOqx0TIZbLwwlg3PyO2WthQi.jpg",
+               "id": 234025,
+               "order": 11
+            },
+            {
+               "cast_id": 16,
+               "character": "Baise 3",
+               "gender": 0,
+               "credit_id": "52fe47e9c3a36847f814eb43",
+               "name": "François-Xavier Dufour",
+               "profile_path": null,
+               "id": 559586,
+               "order": 12
+            },
+            {
+               "cast_id": 17,
+               "character": "Antonin",
+               "gender": 2,
+               "credit_id": "52fe47e9c3a36847f814eb47",
+               "name": "Anthony Huneault",
+               "profile_path": null,
+               "id": 559587,
+               "order": 13
+            },
+            {
+               "cast_id": 18,
+               "character": "Coiffeuse",
+               "gender": 1,
+               "credit_id": "52fe47e9c3a36847f814eb4b",
+               "name": "Patricia Tulasne",
+               "profile_path": "/6mAiytMLy2dlokSg1v1RIDj3SpS.jpg",
+               "id": 59616,
+               "order": 14
+            },
+            {
+               "cast_id": 31,
+               "character": "L'invité à la soirée finale",
+               "gender": 2,
+               "credit_id": "58f8a881c3a368758f00862d",
+               "name": "Louis Garrel",
+               "profile_path": "/lrGbGrTogl6f1by8OnZEsvI63kY.jpg",
+               "id": 16269,
+               "order": 15
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe47e9c3a36847f814eb09",
+               "name": "Xavier Dolan",
+               "profile_path": "/soGV3BHOhDQQRZ33SXLYK4blMw1.jpg",
+               "id": 143593,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "568f132a9251411892000420",
+               "name": "Xavier Dolan",
+               "profile_path": "/soGV3BHOhDQQRZ33SXLYK4blMw1.jpg",
+               "id": 143593,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "568f1332c3a3683244000535",
+               "name": "Carole Mondello",
+               "profile_path": null,
+               "id": 92210,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "568f1339925141189800044d",
+               "name": "Daniel Morin",
+               "profile_path": null,
+               "id": 1501270,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "568f13409251411892000426",
+               "name": "Stéphanie Anne Weber Biron",
+               "profile_path": null,
+               "id": 1372758,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "568f1347925141189b00044b",
+               "name": "Xavier Dolan",
+               "profile_path": "/soGV3BHOhDQQRZ33SXLYK4blMw1.jpg",
+               "id": 143593,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "568f134f925141188c000402",
+               "name": "Delphine Gélinas",
+               "profile_path": null,
+               "id": 1559675,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 2,
+               "credit_id": "568f1356c3a368324900056d",
+               "name": "Xavier Dolan",
+               "profile_path": "/soGV3BHOhDQQRZ33SXLYK4blMw1.jpg",
+               "id": 143593,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "568f136092514118950003fe",
+               "name": "Karl Lindsay",
+               "profile_path": null,
+               "id": 1559676,
+               "department": "Production",
+               "job": "Unit Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "568f1368c3a368323e00055f",
+               "name": "Erick Martinez",
+               "profile_path": null,
+               "id": 1559677,
+               "department": "Production",
+               "job": "Unit Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "568f1372925141188f000433",
+               "name": "Carole Mondello",
+               "profile_path": null,
+               "id": 92210,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58ee7ef19251411382002312",
+               "name": "Xavier Dolan",
+               "profile_path": "/soGV3BHOhDQQRZ33SXLYK4blMw1.jpg",
+               "id": 143593,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a861f830e0a26400b030607",
+               "name": "Brigitte Bilodeau",
+               "profile_path": null,
+               "id": 1412028,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a861f99c3a36863e702b4ea",
+               "name": "Marie-Josée Galibert",
+               "profile_path": null,
+               "id": 1559673,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a861fa70e0a26400b030644",
+               "name": "Philippe Sarfati",
+               "profile_path": null,
+               "id": 1978922,
+               "department": "Costume & Make-Up",
+               "job": "Hair Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a861fb20e0a26540c02aded",
+               "name": "Melissa Purino",
+               "profile_path": null,
+               "id": 1525208,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a861fcbc3a36863e702b532",
+               "name": "Sylvain Brassard",
+               "profile_path": null,
+               "id": 1559674,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a861fd90e0a26545302eef2",
+               "name": "François Grenon",
+               "profile_path": null,
+               "id": 92220,
+               "department": "Sound",
+               "job": "Sound"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a86228dc3a36862a702a4e3",
+               "name": "Xavier Dolan",
+               "profile_path": "/soGV3BHOhDQQRZ33SXLYK4blMw1.jpg",
+               "id": 143593,
+               "department": "Art",
+               "job": "Art Direction"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 4.932623,
+      "production_countries": [{
+         "iso_3166_1": "CA",
+         "name": "Canada"
+      }],
+      "id": 51241,
+      "vote_count": 327,
+      "budget": 0,
+      "overview": "Francis is a young gay man, Marie is a young straight woman and the two of them are best friends -- until the day the gorgeous Nicolas walks into a Montreal coffee shop. The two friends, instantly and equally infatuated, compete for Nicolas' indeterminate affections, a conflict that climaxes when the trio visit the vacation home of Nicolas' mother. The frothy comedy unfolds through narrative, fantasy sequences and confessional monologues.",
+      "similar": [
+         1628,
+         1903,
+         24420,
+         1259,
+         38,
+         1643,
+         316021,
+         13523,
+         1024,
+         339397,
+         1213,
+         50546,
+         46705,
+         13,
+         116,
+         86331,
+         28468,
+         19913,
+         329103,
+         272693
+      ],
+      "original_title": "Les amours imaginaires",
+      "runtime": 97,
+      "poster_path": "/ne84HBcScDVO9jBzgVv5qb7rZd0.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Français",
+            "iso_639_1": "fr"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": "/kcNh09qqR2Pkw1JAzRW4CommrW4.png",
+            "name": "Téléfilm Canada",
+            "id": 806,
+            "origin_country": "CA"
+         },
+         {
+            "logo_path": null,
+            "name": "Mifilifilms",
+            "id": 71833,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Canadian Film or Video Production Tax Credit Fund (CPTC)",
+            "id": 8582,
+            "origin_country": "CA"
+         },
+         {
+            "logo_path": null,
+            "name": "Radio Canada Télévision",
+            "id": 71834,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "SODEC",
+            "id": 13311,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2010-05-16",
+      "vote_average": 7.4,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": "http://www.lesamoursimaginaires.com/",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Canada",
+      "color": "Color",
+      "budgetCurrency": "CAD ",
+      "directors": ["Xavier Dolan"],
+      "runtime": 101,
+      "synopsis": null,
+      "writers": ["Xavier Dolan"],
+      "originalLanguage": "French",
+      "imdbLink": "http://www.imdb.com/title/tt1600524/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTU0MDA2NjEwNV5BMl5BanBnXkFtZTcwNTkyMzgzNA@@._V1_SY317_CR2,0,214,317_AL_.jpg",
+      "actors": ["Stars: Xavier Dolan, Monia Chokri, Niels Schneider | See full cast and crew »"],
+      "reviews": [
+         "I agree with another reviewer that love is not the real subject of the film. The characters think they're feeling love, and they're certainly looking for love, but in such a shallow and conniving way they're incapable of getting beyond mere sensuality at best. This is a film which starts out superficially, as superficial as its characters. Their lack of depth is underlined by the interviews of more interesting people that we would almost rather be following, but we're stuck with this trio of narcissists trying to impress each other through attitude, clothes, and money-- each locked within his competitive self and each masturbating in his or her own way. The director's own vanity fits in perfectly with his fetishist approach, the Wong Kar Wai-like sensual slow-motion to heighten gesture and make us take a long hard look at these high-strung game players. The viewer must be patient and wait for the second part when the film, in dealing with the repercussions from the narcissism of the first part, takes on depth. It is during the last twenty minutes that the actor/director succeeds in dealing with real emotions, not the imitation ones of the first half. Now a new tension sets in that builds to its vociferous climax where the actors are required to go beyond what they have demonstrated up to this point. Watching these neurotic Montréalians (when they finally grow up, they can be the manic-depressive characters in a Denys Arcand film), the viewer goes through the gamut of his or her own memories of attraction and rejection, bouncing around like the ping-pong balls that the expressive actors represent in their own attraction/flirtation/appeasement fluctuations. In fact, the more the film is watched with introspection, the more relevant it becomes.",
+         "Young director Xavier Dolan's most recent feature was easily the find of the London Film Festival for me. Funnily enough I almost walked out, having come from an extremely dour realist movie (Mike Leigh's Another Year) and been presented with an extremely stylised and fairly ironic confection, and thus being quite dysphoric and skeptical. But it really blossomed out to superb effect. Some critical horses have baulked at the first fence though! The film concerns young love. The two leads of the story are both searching for perfect love and attempting to create the perfect personas to market themselves. Marie is just lovable, she creates this image where she dresses in vintage fifties clothes, with hair and makeup to match, sends letters in black envelopes addressed in gold glitter pen, she reads all the right stuff, including Quebecois poet Gaston Miron, to impress boys with her intellect. Her friend, rival and sometimes lover Francis (played by Xavier Dolan himself) is 5/6ths gay (by the Kinsey scale, which is mentioned in the film) and both are after the same man, Nicolas, who has blond curls and is straight out of an erotic dream of Cocteau (shots of Cocteau drawings are edited into the movie at one point). Love here is all about style, our \"heroes\" turn up to only the most fabulous parties, where only exactly the right music plays, Moet flows generously and where only the beautiful people lounge. Have you money, looks, wit, are you fun, are you educated, these are the criteria for these young folk in their quest to get together. Although the alternate title to the film \"Love, Imagined\" is accurate in many respects, I think it underestimates the headiness and the glory of these admittedly judgemental and narcissistic love throes. The soundtrack is mostly superb and will be finding its way to my MP3 player. One thing I would criticise though is the repeated use of Bach Cello Suites played over tepid love scenes, it just comes off as odd. Dalida's Italian language version of Bang Bang (... you shot me down) is also repeatedly played and works to much better effect. Favourite party music for me would be Exactement by Vive la Fête (lyrics repeat \"Adorable Formidable\"). I like the refreshing honesty with which people talk in the movie about love and rejection, one woman saying it takes her a year to get over, which sounds about right to me (coming up on 11 months myself, with the end in sight!). Absolutely loved the ending when Nicolas walks up to Marie and Francis in the party, won't spoil it but I laughed a lot and had to suppress a whoop. Definitely a feel good movie despite subject matter that could be handled in a much more downbeat manner.",
+         "In the new film auteur sweetheart Xavier Dolan's sophomore effort we receive a stylish and vague story about a passion for love. A love shared by two friends Marie (Mona Chokri) and Francis (the all-star Xavier Dolan) towards a sumptuously corny blond-haired egotripping Adonis Nicolas (Niels Schneider) a.k.a. Nico. Set to some ear-tasty music fronted by a french Dalida sung version of \"Bang Bang\" we receive a story about the tensions, exasperations and unfulfilled promise of expectations. Intermingled occasionally by quasi-documentary tidbit lessons of love from random people strangely balancing on the edge of mockumentary territory. All the above is set as a backdrop to a plethora of homages to french New Wave, Jim Jarmusch, Audrey Hepburn and... Wong Kar-Wai. Albeit the nods to Kar-Wai are more than slight, as to an extent it basically felt like Dolan was basically attempting a quasi-farcical remake of the Asian pivotal work \"In the Mood for Love\". All inclusive. Featuring slowed-down long trailing shots, coloured cinematography, brilliantly focused sensual scenes, retro music and even an extremely overdone love poem to cigarettes and smoke. After basically ripping off Christopher Doyle's cinematography Xavier Dolan pasted together a piece of post-post-modernism, but without any of the subtle magic, power and enticement of Kar-Wai's original. The additional issue lies with the overusing of slow shots coupled with barrages of music, that lack ingenuity or class, instead bring about a repetitiveness problem and most of time seem like a tasteless parody of Doyle. Not to be too hard on Doyle even Kar-Wai himself was unable to imprint his own style into a Western film (\"The Blueberry Nights\"), which seems increasingly to prove that his solutions are specifically best made in Asia. Nonetheless I would go as far as to say that Dolan intended such strong borrowing after noticing the strong story similarities, as both movies are not about love itself, but about the longing for love. Leaving the issue of almost blatant plagiarism the movie does show a lot of promise on a purely plot level and to some extent this promise is fulfilled. After slowly plodding out the story itself it does manage to engage, even though neither Dolan or Chokri have the stage presence or impact to actually convey their emotion. Almost no tension is created between characters and I found most scenes lacking dramatically. The only actor who managed to deliver was Schneider, but his role was being an egocentric and slightly clueless love-boy, so as such he was a secondary character. The movie faces additional issues with overly worked lines with pop-cultural reference and tough words, which intend to convey a feeling of intellectuality, but are essentially unable to gloss over the fact that this seems forcibly awkward bordering on banal. Additionally other dialogues lack focus or the initially interesting idea is overused to absurdity (especially regarding people losing their head and gibbering nonsense under high emotionality). Given the movie lasts over 100 minutes with ideas for about 30-35 minutes of intriguing plotting the rest is filled with slow-motion shots with music, some uninspiring chatter and some utterly pointless forgettable side events. Despite some admirable qualities \"Les amours...\" seems a bit childish plot-wise and before anyone can really take Dolan seriously he really seriously needs to... well... grow up... To add to insult the interloping interviews, which occasionally cut into the main story, lack focus, are mostly tiresome and forcibly intellectual self-styled hipster sobbings. Save for one woman with glasses, which actually adds some interesting depth to the movie. Plus the ending three minutes or so of the movie are pointless, petty and basically are a result of the overzealous director wanting to inflict some badly focused revenge... On the positive side the use of music is perfection, whilst the cinematography is spectacularly beautiful and drenched in colour. The movie was impressive on a script level to the extent that given a bit more experience and a touch of ingenuity Dolan can actually reach the stars and make a classic movie. But this attempt is just a far cry to divinity. I am fully aware that this may be a minority opinion, but I can't gloss over the fact that watching this movie was tiresome, uneventful and had an overwhelming feeling of repetitiveness. To sum it up: Xavier Dolan is no Tony Leung, Mona Chokri is no Maggie Cheung and \"Le amours imaginaires\" will never be \"In the Mood for Love\".",
+         "21-year-old Xavier Dolan is fast becoming the star of Canadian cinema. The Quebec prodigy stormed on to the international scene with his debut J'ai tué ma mere (I killed My Mother) winning three awards at Cannes last year. His follow-up is Les Amours Imaginaires (Heartbeats in English) and centres on a three-way love triangle. Dolan himself plays Francis, a gay Montrealer who becomes infatuated with a young socialite named Nicolas, played by Niels Schneider. Instantaneously, Francis' close friend Marie, played by Monia Chokri develops feelings of her own for Nicolas. As the tumultuousness of love for Nicolas deepens for the two of them their close friendship begins to suffer. The two friends become embroiled in a struggle to please Nicolas who appears to represent Dolan's own ideal. The theme of idealization is explored notably in Alfred Hitchcock's Vertigo and Thomas Mann's Death in Venice which was made into a film by Luchino Visconti. There is a scene at a party where Marie envisions Michalangelo's David, the artist' own physical ideal when staring admirably at Nicolas. Romantic obsession begins to take hold of the two friends as they vie for the affection of someone who will never return their love. Like in I killed My Mother, his follow up is about Dolan's struggling with his own homosexuality. The film is also a meditation on the senselessness of love and why its own madness is what makes it so appealing. Dolan is undoubtedly a big talent. Monia Chokri who plays the muse of the film shines the brightest in front of the camera. Her archaic hairstyle and fashion sense would remind anyone familiar with French actress Anna Karina. And that provides a clue in who Dolan draws his cinematic inspiration from. Three-way conflicts were a hallmark of Jean-Luc Godard and other new wave directors like Francois Truffaut. Dolan may have drawn his inspiration from Truffaut's own Jules and Jim. But Les Amours Imaginaires has many more references to Godard's early work. Everything down to the scene settings, cultural references and camera shots are deliberately taken from Godard's early classics such as Breathless and Band of Outsiders. The characters too represent the remnants of the 1960s-style cultural rebellion that Godard's films often explored which still thrives in Montreal today. One final stylistic note, the film also includes a roundtable of characters not related to the main story discussing relationships. Dolan manages to make it relevant to the story and continues the tradition set by Godard in Masculine Feminine. The third sequence however does run a bit too long. Les Amours Imaginaires is already out on DVD in Canada. It will be released in theatres in the United States on February 1, 2011 so look out for it.",
+         "Les Amours Imaginaires is potently beautiful purely based on its plot and the way the story is told. Its content is universal which allows anyone to relate to the story. It speaks about love, loss, rejection, and how love is all about our individual perceptive. This complex story breaks the stereotypes of sexual identity and shows that we cannot always chose who we fall in love with. Dolans camera use and choice of colour is visually stimulating and beautiful to watch. He captures the beauty of Montreal and the culture that comes with it. The casting is incredible making the story very realistic. What is even more important is that Les Amours Imaginaires is a story of young love told from the perceptive of a young man. We often see films about youth written or directed by film makers of a different time. This is a film that has a modern perceptive on the complexities of love. If you have ever been in love, this film will be the speak to you like no other.",
+         "'Heartbeats' is a fun little film, a sort of Gallic rom-com, although don't expect the obligatory happy-ending where the two protagonists rejected in love hook up with each other. A simple story of unrequited love and ordinary obsessiveness, the film cuts to the chase in spite of its good looking characters and chic vibe: we're not all equally attractive, and we don't love another in equal amounts. The rejecter in this story doesn't even do anything particularly wrong, except treat others with a combination of openness and carelessness that is surely only natural when blessed with a certain type of good looks. The film's resolution of his hitherto ambiguous sexuality is clever, and the film as a whole is brilliantly orchestrated with a collection of popular songs, from different eras, each of which nonetheless is particularly chosen to fit a certain mood and to complement the images on screen at that time. Oddly, in spite of the emotional pain its characters are in, this film is a stylised paean to being young, beautiful and in love: the fact that it hurts only makes it sweeter.",
+         "This film is pretentious, juvenile and silly. It's the 2nd film from Xavier Dolan who did Jai tu ma Mere. Maybe he was a one-hit wonder. Two supposed adults fall for a supposed \"Adonis\" (who has absolutely no personality) and spend the whole film angsting over their shared love of him like 14 year-olds having their first crush...the problem is, they are 20-30 something adults and it just makes them look silly. The film is shot in such a way to encourage you to think it is \"deep\" and thoughtful, but in reality there is very little there. Jai tu ma Mere must have carried this film though the funding and festival phases as it seems to have lots of positive press (much more than it deserves) but it is a bit of \"The Emperors New Clothes\" syndrome going on here, where everyone gets on an empty bandwagon. This one is a miss.",
+         "This is a great little film but you have to be a little patient. The writer/director and star, Xavier Dolan, has done a masterful job in telling a simple story in a very interesting way. The writing is restrained and a study in the economy of words. I loved it. Dolan's directing is seasoned and insightful. He stages his scenes with lots of color and creative camera angles to amazing effect whether it's the color of an umbrella on a rainy day, a dress, or common inventory on a store shelf. It is visually stunning and stylish. Between Dolan and the other two leads played by Monia Chokri and Niels Schneider, you have a powerfully subtle ensemble. I wasn't so sure about Schneider until near the end when I realized how aloof his \"NIko\" had to be in order for the film to work at the end. He looks like he stepped off of a Greek coin, and at first you get the impression he's just there to look pretty. Not so. Dolan and Chokri give outstanding performances as best friends, who are not exactly single, but eschew the real people in their lives for the imaginary one they dream to snag. This is not a movie to be over analyzed. Just watch it and enjoy. There's a false ending that is adorable. The real ending, about five minutes later, just made me laugh out loud. If you like good films and enjoy watching boundless creativity on display, watch this one. It might be criticized by some for being \"slow\". It's not. It real.",
+         "I'm already a fan of Quebec film, but this is something special. While it's a simple story, the way in which it is told (the music, the fashion, the camera-work) make this much more. It's something you feel. The love triangle reminded me slightly of The Dreamers (2003) with the references to film, or even Les chansons d'amour (2007) which had a different ending. There is a nice symmetry to the film, between male and female, and beginning and end. I think the mood reminds me a bit of Almodóvar. This film is more like a wine. You have to taste it. It's seductive. It's darkly humorous. Bittersweet.",
+         "Francis is gay and his close friend Marie is straight, two little things that threaten to tear the friendship apart when at a dinner party they meet 'Adonis' like Nicholas. Both feel an instant attraction to the blond curly haired beauty who seems to exude sexuality, passion and an artistic creative side. The attraction grows as the trio becomes firm friends, spending more and more time together and Francis and Maris both try to impress Nicholas by dressing like his favorite movie stars or hanging out in places he might be and then pretending it's just chance when they meet. Nicholas though never states a defined interest in either playing ambiguously towards the two leading them to have little idea where they stand. As the friendship progress's the two sleep with partners in the hope of gaining some sexual satisfaction elsewhere when they can't have it where they really want it and all the time the pangs of jealousy grow stronger between the two as each bids for Nicholas' affections. This second feature from Canadian Xavier Dolan is a far cry from his debut (I Killed My Mother), which I found a grating and dire experience. In contrast this is a brilliant portrait of unrequited love that perhaps anyone can relate to. As a film maker, there is no doubt that Dolan had talent and in this film it really shines. The film is as frustrating though as it is funny and real; Dolan populates his film with beautiful 'trendsetters' who at times look like a bunch of espresso swilling bourgeois idiots and that I found annoying and there are times when it falters on some clichéd territory. Yet this is outweighed by fine performances, great camera work, including some nice slow motion shots and a brilliant visual impact with it's array of costumes and in some sequences bright colour. Dolan also douses his film with some vibrant and perfect musical choices that at times add to the realism of the plot. And it's that plot that works so well; everyone has felt an attraction to someone and gone out of their way to 'impress' them in the hope they might make something unrequited become less so. The ability to be able to relate makes for an at times painful but also very very funny film and whilst it does have some faults this is a really solid and wonderful film. More of my reviews at my site iheartfilm.weebly.com"
+      ],
+      "genres": [
+         "Drama",
+         "Romance"
+      ],
+      "productionCompanies": [
+         "Mifilifilms",
+         "Quebec Film and Television Tax Credit",
+         "Canadian Film or Video Production Tax Credit (CPTC)"
+      ],
+      "summaries": [
+         "In a story interspersed with interview tales of romantic pitfalls, friendship turns to romantic rivalry for gay man Francis and straight woman Marie when a veritable Adonis named Nicolas enters their lives. Sexual tensions mount as Francis and Marie await Nicolas' show of preference.",
+         "The story of three close friends who are involved in a love-triangle."
+      ],
+      "budget": 600000
+   },
+   "movielensId": 81456,
+   "movielens": {
+      "languages": [
+         "English",
+         "Français"
+      ],
+      "releaseDate": "2010-05-16",
+      "dvdReleaseDate": "2011-07-26",
+      "directors": ["Xavier Dolan"],
+      "runtime": 97,
+      "movieId": 81456,
+      "title": "Heartbeats",
+      "mpaa": "",
+      "actors": [
+         "Monia Chokri",
+         "Niels Schneider",
+         "Xavier Dolan",
+         "Anne Dorval",
+         "Anne-Élisabeth Bossé",
+         "Olivier Morin",
+         "Magalie Lépine-Blondeau",
+         "Éric Bruneau",
+         "Gabriel Lessard",
+         "Bénédicte Décary",
+         "François Bernier",
+         "Benoît McGinnis",
+         "François-Xavier Dufour",
+         "Anthony Huneault",
+         "Patricia Tulasne",
+         "Louis Garrel"
+      ],
+      "imdbMovieId": "1600524",
+      "originalTitle": "Les amours imaginaires",
+      "genres": [
+         "Drama",
+         "Romance"
+      ],
+      "youtubeTrailerIds": ["znpU_Aup-Bg"],
+      "plotSummary": "Francis is a young gay man, Marie is a young straight woman and the two of them are best friends -- until the day the gorgeous Nicolas walks into a Montreal coffee shop. The two friends, instantly and equally infatuated, compete for Nicolas' indeterminate affections, a conflict that climaxes when the trio visit the vacation home of Nicolas' mother. The frothy comedy unfolds through narrative, fantasy sequences and confessional monologues.",
+      "tmdbMovieId": 51241,
+      "avgRating": 3.6824,
+      "releaseYear": "2010",
+      "numRatings": 233,
+      "posterPath": "/ne84HBcScDVO9jBzgVv5qb7rZd0.jpg"
+   }
+}

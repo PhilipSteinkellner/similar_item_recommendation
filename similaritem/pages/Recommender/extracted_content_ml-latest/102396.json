@@ -1,0 +1,611 @@
+{
+   "tmdb": {
+      "original_language": "fr",
+      "keywords": [
+         {
+            "name": "paris",
+            "id": 90
+         },
+         {
+            "name": "poetry",
+            "id": 496
+         },
+         {
+            "name": "sex",
+            "id": 572
+         },
+         {
+            "name": "waitress",
+            "id": 828
+         },
+         {
+            "name": "letter",
+            "id": 3344
+         },
+         {
+            "name": "widow",
+            "id": 4129
+         },
+         {
+            "name": "writer",
+            "id": 13028
+         },
+         {
+            "name": "theft",
+            "id": 14604
+         },
+         {
+            "name": "divorce",
+            "id": 15160
+         },
+         {
+            "name": "monitor",
+            "id": 156641
+         },
+         {
+            "name": "translator",
+            "id": 163751
+         },
+         {
+            "name": "polish",
+            "id": 163755
+         },
+         {
+            "name": "dependency",
+            "id": 163756
+         },
+         {
+            "name": "stuffed toy",
+            "id": 163757
+         },
+         {
+            "name": "ex-husband ex-wife relationship",
+            "id": 163758
+         }
+      ],
+      "imdb_id": "tt1605777",
+      "video": false,
+      "title": "The Woman in the Fifth",
+      "recommendations": [
+         44862,
+         99254,
+         88863,
+         143942,
+         55336,
+         37970,
+         47259,
+         25594,
+         64320,
+         114994,
+         149592,
+         34601,
+         25272,
+         90324,
+         204904,
+         87293,
+         92493,
+         7351,
+         32166,
+         103707
+      ],
+      "backdrop_path": "/87XnjDQ6TVwbavE2QrtBQ7J52Bx.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 14,
+               "character": "Tom Ricks",
+               "gender": 2,
+               "credit_id": "52fe48579251416c91088f63",
+               "name": "Ethan Hawke",
+               "profile_path": "/kcby6VYk6Gb0036nUyh8chY5ZAJ.jpg",
+               "id": 569,
+               "order": 0
+            },
+            {
+               "cast_id": 10,
+               "character": "Margit",
+               "gender": 1,
+               "credit_id": "52fe48579251416c91088f5b",
+               "name": "Kristin Scott Thomas",
+               "profile_path": "/9NuZGaPn3Z1svlbF9ZkdtjgrHZo.jpg",
+               "id": 5470,
+               "order": 1
+            },
+            {
+               "cast_id": 15,
+               "character": "Ania",
+               "gender": 1,
+               "credit_id": "52fe48579251416c91088f67",
+               "name": "Joanna Kulig",
+               "profile_path": "/2IFpAnSkz7dSWJrcsfIYGwI7dGe.jpg",
+               "id": 908548,
+               "order": 2
+            },
+            {
+               "cast_id": 26,
+               "character": "Nathalie",
+               "gender": 1,
+               "credit_id": "52fe48589251416c91088fa1",
+               "name": "Delphine Chuillot",
+               "profile_path": "/xzuopcr5mtQ7fHVXSh4E3iTpHk1.jpg",
+               "id": 132182,
+               "order": 3
+            },
+            {
+               "cast_id": 13,
+               "character": "Sezer",
+               "gender": 2,
+               "credit_id": "52fe48579251416c91088f5f",
+               "name": "Samir Guesmi",
+               "profile_path": "/j0sc12uabqyFiPe2paz3XRof7Gw.jpg",
+               "id": 62447,
+               "order": 4
+            },
+            {
+               "cast_id": 27,
+               "character": "Chloé",
+               "gender": 0,
+               "credit_id": "52fe48589251416c91088fa5",
+               "name": "Julie Papillon",
+               "profile_path": null,
+               "id": 1125106,
+               "order": 5
+            },
+            {
+               "cast_id": 28,
+               "character": "Laurent",
+               "gender": 2,
+               "credit_id": "52fe48589251416c91088fa9",
+               "name": "Geoffrey Carey",
+               "profile_path": "/42OhDzzOtbylnrVPkuyg5aHwkhF.jpg",
+               "id": 134514,
+               "order": 6
+            },
+            {
+               "cast_id": 29,
+               "character": "Omar",
+               "gender": 0,
+               "credit_id": "52fe48589251416c91088fad",
+               "name": "Mamadou Minte",
+               "profile_path": null,
+               "id": 1125107,
+               "order": 7
+            },
+            {
+               "cast_id": 30,
+               "character": "Moussa",
+               "gender": 2,
+               "credit_id": "52fe48589251416c91088fb1",
+               "name": "Mohamed Aroussi",
+               "profile_path": "/tRG0gPe3X7NPgo6VVfuPqnhBoUB.jpg",
+               "id": 1125108,
+               "order": 8
+            },
+            {
+               "cast_id": 31,
+               "character": "Dumont",
+               "gender": 0,
+               "credit_id": "52fe48589251416c91088fb5",
+               "name": "Jean-Louis Cassarino",
+               "profile_path": null,
+               "id": 1125109,
+               "order": 9
+            },
+            {
+               "cast_id": 32,
+               "character": "Lorraine Lherbert",
+               "gender": 0,
+               "credit_id": "52fe48589251416c91088fb9",
+               "name": "Judith Burnett",
+               "profile_path": null,
+               "id": 324200,
+               "order": 10
+            },
+            {
+               "cast_id": 33,
+               "character": "Isabella",
+               "gender": 0,
+               "credit_id": "52fe48589251416c91088fbd",
+               "name": "Marcela Iacub",
+               "profile_path": null,
+               "id": 1125110,
+               "order": 11
+            },
+            {
+               "cast_id": 34,
+               "character": "Lieutenand Coutard",
+               "gender": 0,
+               "credit_id": "52fe48589251416c91088fc1",
+               "name": "Wilfred Benaïche",
+               "profile_path": "/dygHCuRpKzL50kC0lvoJzyxssON.jpg",
+               "id": 1125111,
+               "order": 12
+            }
+         ],
+         "crew": [
+            {
+               "gender": 1,
+               "credit_id": "52fe48579251416c91088f45",
+               "name": "Caroline Benjo",
+               "profile_path": null,
+               "id": 19931,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe48579251416c91088f4b",
+               "name": "Barbara Letellier",
+               "profile_path": null,
+               "id": 724464,
+               "department": "Production",
+               "job": "Executive In Charge Of Post Production"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe48579251416c91088f51",
+               "name": "Simon Arnal",
+               "profile_path": null,
+               "id": 17426,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe48579251416c91088f6d",
+               "name": "Carole Scotta",
+               "profile_path": null,
+               "id": 17424,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe48579251416c91088f73",
+               "name": "Douglas Kennedy",
+               "profile_path": null,
+               "id": 51669,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe48579251416c91088f79",
+               "name": "Paweł Pawlikowski",
+               "profile_path": "/byvdpzxrXE4SPm70D9K9DTr58Ux.jpg",
+               "id": 64194,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe48579251416c91088f7f",
+               "name": "Soledad Gatti-Pascual",
+               "profile_path": null,
+               "id": 993271,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe48579251416c91088f85",
+               "name": "Tessa Ross",
+               "profile_path": "/jThGwDImycWNIkHZK87qAv4uhbX.jpg",
+               "id": 465,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe48579251416c91088f8b",
+               "name": "Max de Wardener",
+               "profile_path": null,
+               "id": 928097,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe48579251416c91088f91",
+               "name": "Elsa Fernández",
+               "profile_path": null,
+               "id": 1125105,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe48589251416c91088f97",
+               "name": "Stéphane Batut",
+               "profile_path": null,
+               "id": 72324,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe48589251416c91088f9d",
+               "name": "Alexandre Nazarian",
+               "profile_path": null,
+               "id": 41024,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe48589251416c91088fc7",
+               "name": "Benoît Barouh",
+               "profile_path": null,
+               "id": 54332,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe48589251416c91088fcd",
+               "name": "Paweł Pawlikowski",
+               "profile_path": "/byvdpzxrXE4SPm70D9K9DTr58Ux.jpg",
+               "id": 64194,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe48589251416c91088fd3",
+               "name": "Ryszard Lenczewski",
+               "profile_path": null,
+               "id": 960261,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "548ccdec92514122ed0029f1",
+               "name": "David Charap",
+               "profile_path": null,
+               "id": 47204,
+               "department": "Editing",
+               "job": "Editor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Thriller",
+            "id": 53
+         },
+         {
+            "name": "Mystery",
+            "id": 9648
+         }
+      ],
+      "popularity": 3.074048,
+      "production_countries": [
+         {
+            "iso_3166_1": "FR",
+            "name": "France"
+         },
+         {
+            "iso_3166_1": "PL",
+            "name": "Poland"
+         },
+         {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+         }
+      ],
+      "id": 82501,
+      "vote_count": 32,
+      "budget": 0,
+      "overview": "An American writer moves to Paris to be closer to his daughter and finds himself falling immediately on hard times.",
+      "similar": [
+         1586,
+         521,
+         979,
+         9946,
+         9476,
+         1278,
+         9352,
+         2898,
+         51828,
+         80752,
+         258480,
+         1643,
+         37257,
+         11558,
+         1826,
+         282296,
+         192145,
+         2149,
+         1433,
+         10518
+      ],
+      "original_title": "La femme du Vème",
+      "runtime": 85,
+      "poster_path": "/k8S8Egzw9B2p1CAoZgxmdNLEvdN.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Français",
+            "iso_639_1": "fr"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Haut et Court",
+            "id": 726,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/6CLoZ59fLPG7UyxQtGTqRevjf58.png",
+            "name": "UK Film Council",
+            "id": 2452,
+            "origin_country": "GB"
+         },
+         {
+            "logo_path": null,
+            "name": "SPI International",
+            "id": 11894,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "The Bureau",
+            "id": 10441,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Canal+",
+            "id": 5358,
+            "origin_country": "FR"
+         },
+         {
+            "logo_path": null,
+            "name": "Orange Cinéma Séries",
+            "id": 11620,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Artificial Eye",
+            "id": 11895,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Memento Films International",
+            "id": 10949,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Coficup",
+            "id": 8352,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Backup Films",
+            "id": 5381,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Soficinéma 6",
+            "id": 7457,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Polish Film Institute",
+            "id": 6555,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/5uoaxZCSYuc6KEiJgEYSWzLIFAW.png",
+            "name": "Film4 Productions",
+            "id": 6705,
+            "origin_country": "GB"
+         }
+      ],
+      "release_date": "2011-11-16",
+      "vote_average": 4.9,
+      "belongs_to_collection": null,
+      "tagline": "What you can not resist, you may not survive",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "France",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Pawel Pawlikowski"],
+      "runtime": 85,
+      "synopsis": null,
+      "writers": [
+         "Douglas Kennedy",
+         "Pawel Pawlikowski"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt1605777/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTc0MDE3MDgwNV5BMl5BanBnXkFtZTcwOTg3NTA5Nw@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Ethan Hawke, Kristin Scott Thomas, Joanna Kulig | See full cast and crew »"],
+      "reviews": [
+         "Douglas Kennedy's perplexing novel THE WOMAN IN THE FIFTH has been further contorted by writer/director Pawel Pawlikowski for the film of the same name (aka La femme du Vème). If the viewer has read the novel then the confusion of the story will not be as surprising as it is to the novice viewer. In many ways this is a brilliant cinematic exploration of the fragility of the human mind, how events of the past can influence the manner in which we attempt to reconstruct a viable present. But in other ways this is a film that refuses to tell a story that is logical and will leave many viewers with some serious head scratching by movie's end. Academic professor of literature and writer Tom Hicks (Ethan Hawke) seems to be fleeing America in the wake of a scandal simply because he wants to see his six-year-old daughter Chloé (Julie Papillon): Tom's estranged wife Nathalie (Delphine Chuillot) refuses to let Tom see his daughter, has a restraining order in place and seems fearful of Tom's character (it is suggested that Tom may have been in prison for the past six years). The police are called and Tom escapes onto a bus, falls asleep and s awakened at the end of the line having been robbed of this luggage and money. He is in the sleazy part of Paris inhabited by North Africans and Moroccans and finds a degree of solace in a tiny café, the beautiful Polish waitress Ania (Joanna Kulig) offers him coffee and introduces him to the owner, Sezer (Samir Guesmi) who allows him to room in the filthy place, an offer that is accompanied by a 'job' where he will be a night watchman in a warehouse visited by shadowy figures who must give a code for Tom to allow entry. Tom uses his night jobsite to write lengthy letters to Chloé and spends his days spying on her at her school. At a bookstore he meets a fellow American who invites him to an evening reception for writers and there he encounters the very strange Margit (Kristin Scott Thomas), a bewitching but enigmatic widow of a Hungarian writer who is obviously attracted to Tom and sets meeting times and places for them to engage in a tryst (in the Fifth Arrondissement). Tom and Margit begin a tempestuous physical affair but at the same time Tom and Ania have an equally passionate affair and there is always in the background Tom's obsession to reunite with his daughter. But the story implodes with a murder, a disappearance, and a very strange change in the veracity of Margit's existence. It is at this point that the film becomes purposefully deranged and bizarre and the audience is left with merely some ideas and clues as to what has really happened. How are these incongruous events to make sense? Can they make sense? Is Tom succumbing to the same fever that kept him sheltered for many days upon his arrival in beautiful Paris? Has time somehow passed him by or is he living in an even grander deceit than he first thought? The film is basically in French with English subtitles. Ethan Hawke struggle with the French but that is credible for a 'just arrived' American. Kristin Scott Thomas offers her usual excellent skills as the strange Margit and the remainder of the cast do well with what little dialogue they are given. The dank atmospheric cinematography is by Ryszard Lenczewski and the correctly strange musical score (from an aria form a Handel opera sung by a countertenor to piano music excerpts form the Romantic era) is the work of Max de Wardener. Pawel Pawlikowski's moody, menacing, downbeat film takes something from the director's Polish compatriots Polanski and Kieslowski. It is offbeat but for those who appreciate experimental cinema this is well worth your time. Grady Harp",
+         "Well, it depends whether you think it really matters. The film works well as a dark and mysterious European thriller for the first two acts, but collapses in a series of unresolved dead ends in the third and final act. Ethan Hawke is excellent as the shabby, messed up novelist Tom Ricks, and KST vamps it up as his imaginary lover, but she really doesn't get enough screen time. The story is an enigma, the end suggests (and I haven't read the novel) that much of what has occurred is a figment of Ricks' psychosis. We know he's probably been in prison or hospital (or both) and Hawke plays him as a man on the edge, with his rage bubbling under all the time. But what is Ricks' reality is impossible to say by the end as nothing really makes sense, as there is no real denouement to the story - there is no final resolution or clarification of what has gone on or what is going on. An interesting Euro Thriller which ultimately does not satisfy.",
+         "Tom Ricks (Ethan Hawke) tells the immigration officer at the airport that he has come to Paris to live, write a novel, and take care of his daughter Chloe while his ex-wife works during the day. He probably believes these words as he says them out loud; however, the audience quickly learns Tom is not welcomed by his ex-wife and six year old Chloe thought daddy was in prison. We never learn exactly where Tom came from but it is most likely somewhere unpleasant. Through a combination of errors, Tom manages to have his luggage stolen, the police are after him for violating a restraining order, and he winds up at a seedy café/hotel conveniently located at the last stop on the bus line, never a good neighborhood. Tom Ricks has hit bottom. The title The Woman in the Fifth refers to Margit Kadara (Kristin Scott Thomas). While failing spectacularly at small talk at and upscale function for writers and their elite admirers, Tom has one of those moments where Margit is the only person in the room he sees, even though there are 50 some people in the room. They strike up a conversation where she learns he is a novelist, has had one book published which was moderately successful, but is now obviously baffled on if there will be a second book. Tom learns Margit has lived everywhere, speaks six or seven languages fluently, was a muse and translator for her late Hungarian husband, and now seems poised to volunteer to become Tom's muse. Tom falls into a job which could only be invented by a novelist. The Woman in the Fifth is adapted from the eponymous 2007 novel by Douglas Kennedy which puts Tom in a job where he is confined to a bare room for six hours every night to watch a video screen. When men appear at the door, they will say a prepared phrase, and if they say the correct phrase, Tom is to press the buzzer to open a door down the hall. He does not know who these men are, why they are coming to the door, or who they are meeting behind that door. What Tom discovers is that behind that door comes some yelling, occasional screaming, and the power fluctuates sometimes during that screaming. This is the perfect job for a novelist who can write uninterrupted for six hours a night and the perfect mysterious predicament for a novelist to place his protagonist in. Two other characters straight out of a novel populate Tom's hotel. There is the bar maid (Joanna Kulig) who takes an interest in Tom and there is his next door neighbor, Omar, who never flushes their shared toilet and takes an extra special dislike to Tom when he finds out he is American. As Tom sleepily shuffles around Paris to visit Margit, keep tabs on his ex-wife and daughter, and spend his six hours a night behind a locked door with a buzzer, it is refreshing to see him fall back to the hotel and develop a sweet rapport with the bar maid. The movie is mysterious, languid and seems to be setting the audience up for something. What that 'something' is I will not say and you will hopefully not learn before you see the film. Paris seems empty and lonely and after awhile I just wanted Tom to take a nap because as time progresses, he looks dead tired and unaware of his surroundings. Pawel Pawlikowski (My Summer of Love, Last Resort), the director and screenplay adaptor, allows time to flow by and rarely defines it. The audience loses track of how many days Tom has been in Paris or if it becomes tomorrow or the day after. Ethan Hawke does a very good job of keeping the audience on edge about Tom. He is frequently quiet and contemplative as he melts into a café booth but every now and then there are loud outbursts when a bit of news or a situation displeases him. I have seen variations of Kristin Scott Thomas as Margit before. She is confident, knows how to relax her company, and easily handles Tom when he is falling apart; she knows exactly how to put him back together. Joanna Kulig as the bar maid is a wonderful new presence on screen. She is obviously native Polish like the director, but must converse in two other languages (English and French) along with the rest of the cast. The script shows a narrative strength as I did not realize very often as it seamlessly slipped from French to English and back again. After the screening, I overheard a lot of people asking their friends to explain what happened and either agreeing with them in 'aha' moments or shaking their heads in disbelief. The Woman in the Fifth will most likely polarize the audience between those who are familiar with films such as these and those that are unfamiliar with being blindsided and bewildered. I recommend The Woman in the Fifth for both types of audience members. For the indoctrinated, you will appreciate a shadowy script with a fascinating unreliable narrator. For the untested viewer, go and enjoy an intriguing international cast and get your questions ready at the end.",
+         "A Polish director and an enigmatic movie - no surprise there then! What does surprise me is the relatively low rating that viewers have awarded, presumably because they didn't understand or attempt to understand the symbolisms. Any movie that makes you sit and think - even if your initial reaction is unfavourable - deserves a higher mark especially when you consider the unimaginative dross continually being served up by Hollywood.Ethan Hawke is very good as the confused and dishevelled writer coming to terms with life in Paris after being institutionalised and becoming estranged from his family. What had he done? With hindsight it is possible to interpret the events that follow as chapters in his mind that happen immediately after his incarceration. He is in fact never released. His wife's hostility and the loss of his luggage - a pretty obvious metaphor - represent the breaking of ties with his former life. The shabby hotel, hostile neighbour and a daily routine of watching people entering a secure area are all symbolic of life in a mental institution which he observes while attempting to write letters to his daughter that she will never receive. His daughter found wandering in a park alludes to his initial breakdown. Kristin Scott Thomas, as alluring as ever, plays one of his two sexual fantasies conjured up from his literary past. Exotic, desirable and willing she seduces him into leaving his miserable life and joining her forever: an undoubted euphemism for suicide. At least the blinding white light that followed was unmistakable. Well that's my take. You may have a different explanation altogether but it surely emphasises my initial assertion that any film that can make you think is a good film no matter what the subject matter.",
+         "It's rather difficult to say what The Woman In The Fifth is about. It's certainly not about the woman in the Fifth (arronidssement?), though she be played by the iconic Kristin Scott-Thomas. It's more to do with the writer who loves or imagines her, played by Ethan Hawke (lots of critical reaction to his non-existent French accent - well, he's an American, so he's more likely not to have one. He also speaks rather good French, which isn't mutually inclusive). There are flashes of memory or impressions - flashes across, if you like - that suggest a sort of Don't Look Now tragedy either in the past, present or fictional limbo. There are glasses and the resistance to the operation that would discard them; a dodgy night job that uses CCTV and the threats that stop him from seeing what the camera sees. And there are colours, the teal blue of his modern garret and the orange of his lovers' lamps. The red spectrum of his daughter's clothing and of his lovers (principally Scott-Thomas, but watch the dress change of the second woman). I also love the blissful, sunlight golden section of the film where the grey and rusty train tracks move across into the forest green. The success of the film is in the magnetism between characters and their emotively elastic relationships. This is a European art house film of mainstream style, digressing from its genre thriller to create vortexes of emotional realism. It's a fine, engrossing film 7/10",
+         "\"The Woman in the Fifth\" throws us into the middle of the story. Seemingly a perfect way to start, a back-story is implied begging to be told, and future events destined to unfold to eventually come together in an interesting climax and dénouement. But the back-story never was revealed and the plot elements are indiscernible to the average eye. Tom (Ethan Hawke) is an American writer moving to Paris. His first novel was a moderate success and he is most likely suffering from various creative blocks, probably not helped by the fact that his ex-wife has a restraining order against him, prohibiting him from seeing his daughter. At this point, we are driven into a world of crime � not surprising for a thriller, but we don't know what crimes yet. Broke and alone, Tom makes a deal with a shady \"businessman\", develops an affair with a mysterious worldly woman (Kristin Scott Thomas) and then develops an affair with a sweetly mysterious waitress (Joanna Kulig). For the few crimes that we do know were committed, it's awfully hard to understand why or by whom. The reality of the film and the imagination (or fantasy) element of the film are most likely impossible to separate. Almost all viewers have come up with different explanations, if they came up with any. It can be interesting watching a jarring film and deduce whatever explanation you like. It can also be disappointing if you don't come up with any explanation that you like. I'm afraid I fall into the latter group. That being said, it's nice seeing Ethan Hawke in a lead role in an indie. And speaking French no less (not perfectly, but it fits the role)! The imagery and cinematography chosen for this film were interesting and walked the thin line between thriller and horror, helped along with a slightly off-beat score. \"The Woman in the Fifth\" is off- beat, if it's anything at all.",
+         "\"The Woman in the Fifth,\" adapted from the novel by Douglas Kennedy, tells the story of an author whose crumbling personal life is second only to the decaying state of his mind. Although it has a definite sequence of events, I hesitate to say that it has a plot. The intention, so far as I could tell, was to toy with the audience's perception of reality, to intentionally raise questions without answering them. Writer/director Pawel Pawlikowski seems to operate under the assumption that a certain degree of madness goes hand in hand with the writing process. To an extent, he's probably right; it takes a special kind of person to not only conceive of fictitious people, places, and plots but to also obsess over them until the story has naturally resolved itself. The real downside is that this usually comes at the expense of a personal life. Tom Ricks (Ethan Hawke), an American literature professor with one published novel to his name, travels to Paris, desperate to reunite with his six-year-old daughter, Chloe (Julie Papillion). His estranged wife, Nathalie (Delphine Chuillot), clearly does not want him in Chloe's life; the details are not made explicitly clear, although we do know that she has already filed a restraining order against him, and it's strongly suggested that he has spent time in prison. Fleeing from Nathalie's apartment after she calls the police, he boards a bus, falls asleep, and awakens to find that his bag has been stolen. He's now lost in a city he's completely unfamiliar with. The best he has going for him is that he can speak French. He takes refuge in a seedy hostel on the outskirts of town. Because he doesn't have the money to pay for a room, he's forced to work as a night guard in a warehouse owned by Sezer (Samir Guesmin), who can never say anything without sounding sinister. The job is simple enough; all Tom has to do is buzz people in. Granted, they must speak in code if they're to be granted access, and it certainly is odd that they look rather shady and pop by at all hours of the night. Then there's the fact that neither Tom nor the audience has any idea what, if anything, they do behind the closed door of the neighboring cell. We are made aware that, every time a group of men enter the room, the light bulbs in the lamp on Tom's desk flicker. And then there's the moment Tom puts his ear against the wall in an attempt to eavesdrop; someone immediately bangs on the wall and warns Tom that, if he continues to listen in, he will be killed. As he feverishly handwrites letters to Chloe, all of which detail a magical forest located somewhere in Virginia, two women enter Tom's life. One is Ania (Joanna Kulig), a Polish waitress in Sezer's café who has a healthy interest in poetry. Her attraction to him is not adequately explained, although, given the love and affection he so desperately craves, it's easy to understand his attraction to her. The other woman is the mysterious Margit (Kristin Scott Thomas), the well- travelled translator of her late husband's Hungarian novels. She and Tom met at an upscale literary gathering hosted by an English-speaking bookshop owner. Obviously aware of his attraction to her, she gives Tom a card with her name and address on it. She makes it clear that, if they are to meet, it can only be on her terms. And so it comes to pass that he finds himself at Paris' Fifth Arrondissment, entering her apartment and immediately dropping his defenses against her bold, borderline oedipal sexual advances. Tom's attraction to her only deepens as entices him into abandoning everyone and everything he knows. This would include not only Ania, with whom Tom has also begun an affair, but also his wife and daughter. Not long after this has been being established, the plot takes a drastic turn with the inclusion of a sudden murder and an unexplainable disappearance, both of which have direct connections to Tom. Is it possible that Margit isn't quite what she seems, given the fact that she never disclosed the details of her husband's death? And what can Tom � or we, for that matter � make of an unexpected and illogical revelation about Margit? Having provided you with a plot description, having enticed with vague hints and strategically worded questions, I'm wondering why I bothered. \"The Woman in the Fifth\" is not intent on explaining itself; it's a psychological thriller told from an unreliable perspective, so in essence, it's really less of a film and more of an exercise in atmosphere and craft. There is something to be said for that. An enigmatic narrative is far more likely to stimulate the imagination and generate topics of conversation than a traditional detective story, which typically rely on both an explanation and an emotional climax. Having said that, there's a very fine line between an enigma and an underdeveloped screenplay, and at times, this movie comes dangerously close to crossing it. Still, it's an engrossing film � technically competent, structurally magnetic, and wonderfully cast. -- Chris Pandolfi (www.atatheaternearyou.net)",
+         "To say that Tom is down on his luck is an understatement. He has lost his job as a university lecturer on literature and flown to Paris in search of his young daughter, Chloe, and his wife, who has had a restraining order issued against him. His bag is stolen on the bus; he has no money, and is forced to rent a grotty room in a down-and-out Parisian café, owned by a domineering, criminal character called Sezer. Tom has also written a novel. He has no faith in it, but it clearly shows potential. His passion for literature seems to have been extinguished by the time we meet him; yet he hopes that writing a second novel will bring him some income. In the meantime, Sezer sets him up with a scary night shift in an underground bunker, where he must watch a screen for six hours each night and only allow people to enter if they know the correct 'password'. It is at a literary gathering that Tom meets Margit. From the first moment she appears, we get goosebumps. The effect she has on Tom is electric � it might not be love at first sight, but there is something cool, mysterious and effortlessly sensual about Margit that immediately captivates him. From a simple glance through a doorway, he is compelled to follow her onto the balcony. The conversation they have there is tinged with sadness and sinister undertones; she recognises something in Tom and hands him her card, telling him to call 'any time after four', before slipping away. Who is this woman? Why does she unsettle us so much? Ethan Hawke plays Tom. Critics have complained about his dodgy French accent, but try and put this into perspective. He is playing an outsider, a foreigner who is able to get by in conversation. Surely the American accent adds to the authenticity of the role, and emphasises his isolation. Give him a break � it's a fine performance. Even more impressive, though, is Kristin Scott Thomas as the ethereal Margit. It is not the details of her life or the tragedy in her past that fascinates us � these are eventually revealed, but they won't be what you remember most. It is the constant performance � the cold, removed beauty of this character that startles us. Intelligent, demure and sinister, there is a potent dread and sorrow that pervades the scenes she is in, and permeates throughout the rest of the film in ripples that seem to emanate from her presence. Consider the first time Tom visits her apartment. He is awkward, and tries to make small talk. He asks about her husband, a Hungarian writer. She indulges him for a short time, but they have no delusions. Both know very well why he is there. The shot that follows is perhaps the finest in the entire film; finally, we have found someone who understands how to film sex. It is sad to think that so many directors believe that the more you show, the more erotic the scene is. The tension in that apartment is almost unbearable, and sex does not diffuse it. Watch closely as Tom tries to kiss Margit, at what point she stops him and undoes his trousers. No detail is shown, and even the sounds of rustling material are muted. The camera focuses on their faces, in one steady, unmoving shot: Tom recoils in shock, closes his eyes, murmurs, almost disintegrating from the overwhelming emotion and physical pleasure of this act. Margit only watches, silently, smiling knowingly as if she were gazing at a small child trying to learn the alphabet. She is in complete control, and knows it. I am not sure how to describe 'The Woman In The Fifth'; the word 'strange' doesn't even scratch the surface. It is a classy movie � the aesthetics and cinematography are top notch (notice the deep reds and blacks that cling to Margit, for example), and the influence of Polish cinema is patent. Paris is an alien world � behind a romantic façade lie the gray skies, the lonely train tracks, the tragic aura of mystery and always the looming sense of danger and death. This is a movie that defies rational judgement, as the plot swings from one bizarre event to the next. The twist about two thirds of the way through had many cynics in the audience scoffing � I have to admit, I wasn't completely convinced. But we are in the hands of a director who has complete confidence in his medium, and by the end, I had a deep respect for his efforts. This movie isn't perfect, but it is nevertheless beguiling and utterly compelling. It takes some skill to blend the genres seen here so effortlessly � from domestic drama to romance to crime thriller and finally entering the realms of the supernatural, this shouldn't really work. Yet the threads between these genres and the themes on display are as tangible as those woven by spiders and serving to capture insects in the brief interludes within the film, often showing snapshots of nature in its deformed, frightening beauty, focusing in particular on a faraway woodland. Where is it? What do these images mean? It only really struck me as I left the cinema just how desperately sad this movie is. Whatever else 'The Woman In The Fifth' explores, it is primarily about suffering and loss, and our need for love and human companionship. It may not be a masterpiece � I would argue its flaws are quite substantial - but it is never pretentious. Pawel Pawlikowski is a director who has a story to tell, and does so with flair and imagination, without ever alienating his audience. Surprisingly deep, concisely expressed and including within its short running time glimpses of cinematic genius, 'The Woman In The Fifth' is an unassuming little gem. I highly recommend it.",
+         "The Woman in the Fifth (2011) Well, the reason this movie gets some pretty awful reviews is the utter confusion of the plot. And yet it's a deliberate confusion--which is no excuse. It just means this isn't quite bad filmmaking, but a bad decision or two taken too far. You see, the main character, played with ease and almost familiarity by Ethan Hawke, is mentally unstable. He seems to have two distinct realities, and these are easily confused by the viewer. And in one of these realities he does terrible things, though it isn't clear because we see those terrible things as innocently as he does (which is to say, not at all, it seems). The character, Tom Ricks, is an American in Paris, a writer ostensibly in town to find and visit his daughter. But the mother's reaction to his showing up at their house is the first clue that something is wrong. This seemingly smart and very nice fellow scares her to call to the police. We see Ricks run to save himself from arrest but we don't quite know if he's to blame or if the mother is just overreacting. The fact is the confusions in the movie are overwhelming. Maybe there was a better logic somewhere that an editor, under pressure from a producer or distributor, made much out of. Or maybe it was an artful decision to leave us bewildered, to spend time and emotional energy gathering the pieces and clues. The director, Pawel Pawlikowski, has something of a success or two behind him and so might have pretensions that got the better of things here. In a way, the movie is better than it's overall impression by the end. There are numerous scenes that show a modern Paris very far removed--and much more revealing--than the glorified city seen in both mainstream French movies and American love letters like Woody Allen's recent time-travel. And the acting is overall restrained and convincing. In its bones, this is a substantial movie. Most of all, the cinematography is superb, some of the best creative stuff I've seen recently, dependent not on creative editing but on smart visual seeing--framing, kinetics, focus, and so on. I think you could watch it on many levels with great pleasure if you knew ahead of time the overall meaning and plot were going to be a mess. Without forewarning, I'm guessing it leaves mostly frustration and bitterness.",
+         "One strives to make sense out of a film that cost £7 to sit through and two hours of precious life including adverts. There is a whiff of great promise with the wonderful Ethan Hawke and Kristin Scott Thomas - is this going to be a passionate film about a man having an affair with a mysterious older woman in her 50's? Or perhaps a crime thriller about the Arab crime gangs in Paris or some other story yet to unfold? Hawke plays a writer who is estranged from his wife and daughter and follows them to Paris, after some 'episode' which seems to indicate he has been violent to them - he seems to be wrongly accused from the feeling at the beginning. Then it all goes into lala land from here. The writer Hawke plays, falls asleep on a bus and awakes to find all his belongings stolen. Instead of being a normal person , he goes no where near a police station(is he on the run??) and ends up in an Arab quarter and takes a lousy room in exchange for his passport. Oh, and then he gets a strange job that allows him to be a security doorman for some kind of illegal activity. It is all getting VERY unbelievable by this stage and then he meet the mysterious older woman at a writer's party he just happens to get invited to. I'm not filling in on the details from then on - but it just becomes highly ridiculous, from murder accusations and god knows what. The only illuminating thing at the end of the film is that The Writer disappears from his bed in the middle of the night and this seems to coincide with his young daughter being left alone in a wood and then found by the police. I am left to surmise that The Writer is in fact in a mental asylum and all that happens are drifts of thoughts that he has while incarcerated.If i try to make sense of this film that was very silly, i may myself end up in a loony bin."
+      ],
+      "genres": [
+         "Drama",
+         "Mystery",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Haut et Court",
+         "Film4",
+         "UK Film Council"
+      ],
+      "summaries": [
+         "American writer Tom Ricks comes to Paris desperate to put his life together again and win back the love of his estranged wife and daughter. When things don't go according to plan, he ends up in a shady hotel in the suburbs, having to work as a night guard to make ends meet. Then Margit, a beautiful, mysterious stranger walks into his life and things start looking up. Their passionate and intense relationship triggers a string of inexplicable events... as if an obscure power was taking control of his life.",
+         "A college lecturer flees to Paris after a scandal costs him his job. In the City of Light, he meets a widow who might be involved in a series of murders."
+      ],
+      "budget": 0
+   },
+   "movielensId": 102396,
+   "movielens": {
+      "languages": [
+         "English",
+         "Français"
+      ],
+      "releaseDate": "2011-11-16",
+      "dvdReleaseDate": "2012-09-18",
+      "directors": ["Paweł Pawlikowski"],
+      "runtime": 85,
+      "movieId": 102396,
+      "title": "The Woman in the Fifth",
+      "mpaa": "R",
+      "actors": [
+         "Ethan Hawke",
+         "Kristin Scott Thomas",
+         "Joanna Kulig",
+         "Delphine Chuillot",
+         "Samir Guesmi",
+         "Julie Papillon",
+         "Geoffrey Carey",
+         "Mamadou Minte",
+         "Mohamed Aroussi",
+         "Jean-Louis Cassarino",
+         "Judith Burnett",
+         "Marcela Iacub",
+         "Wilfred Benaïche"
+      ],
+      "imdbMovieId": "1605777",
+      "originalTitle": "La femme du Vème",
+      "genres": [
+         "Thriller",
+         "Mystery"
+      ],
+      "youtubeTrailerIds": ["Cl6F15t0T88"],
+      "plotSummary": "An American writer moves to Paris to be closer to his daughter and finds himself falling immediately on hard times.",
+      "tmdbMovieId": 82501,
+      "avgRating": 2.84615,
+      "releaseYear": "2011",
+      "numRatings": 26,
+      "posterPath": "/k8S8Egzw9B2p1CAoZgxmdNLEvdN.jpg"
+   }
+}

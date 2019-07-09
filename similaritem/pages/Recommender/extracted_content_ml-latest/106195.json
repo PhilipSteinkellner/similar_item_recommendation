@@ -1,0 +1,531 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "terrorist",
+            "id": 949
+         },
+         {
+            "name": "post-apocalyptic",
+            "id": 4458
+         },
+         {
+            "name": "survival",
+            "id": 10349
+         },
+         {
+            "name": "english country side",
+            "id": 178641
+         },
+         {
+            "name": "based on young adult novel",
+            "id": 223438
+         }
+      ],
+      "imdb_id": "tt1894476",
+      "video": false,
+      "title": "How I Live Now",
+      "recommendations": [
+         91550,
+         102780,
+         80318,
+         87499,
+         157375,
+         139519,
+         16867,
+         243935,
+         9692,
+         240881,
+         84332,
+         158739,
+         174343,
+         16071,
+         203819,
+         50837,
+         246011,
+         244536,
+         214096,
+         55725
+      ],
+      "backdrop_path": "/4jrOUW5EA5NSMnXIJXUcK4Bny9n.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Daisy Ryback",
+               "gender": 1,
+               "credit_id": "52fe4c56c3a36847f8229329",
+               "name": "Saoirse Ronan",
+               "profile_path": "/7P82k4UhqnKcCwUENZtK561ZKVs.jpg",
+               "id": 36592,
+               "order": 0
+            },
+            {
+               "cast_id": 5,
+               "character": "Eddie",
+               "gender": 2,
+               "credit_id": "52fe4c56c3a36847f822933b",
+               "name": "George MacKay",
+               "profile_path": "/sCaq9tY5QJcWB56fHL37Po9Bg8W.jpg",
+               "id": 146750,
+               "order": 1
+            },
+            {
+               "cast_id": 2,
+               "character": "Isaac",
+               "gender": 2,
+               "credit_id": "52fe4c56c3a36847f822932d",
+               "name": "Tom Holland",
+               "profile_path": "/dO9FYcPPShhiYQ9D50Takd2W8xo.jpg",
+               "id": 1136406,
+               "order": 2
+            },
+            {
+               "cast_id": 8,
+               "character": "Piper",
+               "gender": 0,
+               "credit_id": "52fe4c56c3a36847f8229347",
+               "name": "Harley Bird",
+               "profile_path": null,
+               "id": 1198488,
+               "order": 3
+            },
+            {
+               "cast_id": 3,
+               "character": "Aunt Penn",
+               "gender": 1,
+               "credit_id": "52fe4c56c3a36847f8229331",
+               "name": "Anna Chancellor",
+               "profile_path": "/iKfSkQNhajOMPZoDHHTFUad99e5.jpg",
+               "id": 10731,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Consular Official",
+               "gender": 2,
+               "credit_id": "52fe4c56c3a36847f822933f",
+               "name": "Corey Johnson",
+               "profile_path": "/8jS7kzs01qMOHIltiDI2TQckmgs.jpg",
+               "id": 17199,
+               "order": 5
+            },
+            {
+               "cast_id": 7,
+               "character": "Farm Girl",
+               "gender": 0,
+               "credit_id": "52fe4c56c3a36847f8229343",
+               "name": "Sophie Ellis",
+               "profile_path": null,
+               "id": 1198487,
+               "order": 6
+            },
+            {
+               "cast_id": 9,
+               "character": "Guerilla Soldier Girlfriend",
+               "gender": 1,
+               "credit_id": "52fe4c56c3a36847f822934b",
+               "name": "Sabrina Dickens",
+               "profile_path": "/81hJECAebV0W1Ab6z7HVAQKFcRD.jpg",
+               "id": 1198489,
+               "order": 7
+            },
+            {
+               "cast_id": 10,
+               "character": "Woman in Truck",
+               "gender": 0,
+               "credit_id": "52fe4c56c3a36847f822934f",
+               "name": "Natasha Jones",
+               "profile_path": null,
+               "id": 1198490,
+               "order": 8
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4c56c3a36847f8229337",
+               "name": "Kevin Macdonald",
+               "profile_path": "/k46Er5HaZ8FqbNEpBXf9FlnxxOX.jpg",
+               "id": 17350,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4c56c3a36847f8229355",
+               "name": "Jeremy Brock",
+               "profile_path": null,
+               "id": 35005,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4c56c3a36847f822935b",
+               "name": "Tony Grisoni",
+               "profile_path": null,
+               "id": 19725,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "53073b9192514119a50001d6",
+               "name": "Andrew Ruhemann",
+               "profile_path": null,
+               "id": 227911,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "53073baf92514133720001c0",
+               "name": "Charles Steel",
+               "profile_path": "/wcScRXif1Qk8qfRweNeOp4KzE99.jpg",
+               "id": 20247,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "53073bc592514169ea000153",
+               "name": "Nina Gold",
+               "profile_path": "/kljYhRvTAqQfX198mjz0ITP0hFM.jpg",
+               "id": 16363,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "53073bdf9251412be50001b3",
+               "name": "Cindy Tolan",
+               "profile_path": null,
+               "id": 119179,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53073c2a92514119a50001ea",
+               "name": "Jon Hopkins",
+               "profile_path": null,
+               "id": 1051399,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 1,
+               "credit_id": "53073c4592514117a9000226",
+               "name": "Jane Petrie",
+               "profile_path": null,
+               "id": 61936,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53073da192514117a900023f",
+               "name": "Penelope Skinner",
+               "profile_path": null,
+               "id": 1295220,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56638d70c3a3682bd800646e",
+               "name": "John Battsek",
+               "profile_path": null,
+               "id": 222276,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56638d7d9251412d7b005cb2",
+               "name": "Franz Lustig",
+               "profile_path": null,
+               "id": 17848,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa3f0d8925141278700cec2",
+               "name": "Meg Rosoff",
+               "profile_path": null,
+               "id": 1994975,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa3f158c3a3687c0c00ddfd",
+               "name": "Jinx Godfrey",
+               "profile_path": null,
+               "id": 1001393,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa3f1a1c3a3687c0300c466",
+               "name": "Jacqueline Abrahams",
+               "profile_path": null,
+               "id": 1203436,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa3f210c3a3687c0600c4d9",
+               "name": "Astrid Sieben",
+               "profile_path": null,
+               "id": 1318520,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa3f2a20e0a26074d00cd5c",
+               "name": "Marese Langan",
+               "profile_path": null,
+               "id": 1319625,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa3f2afc3a3687bff00e86a",
+               "name": "Marese Langan",
+               "profile_path": null,
+               "id": 1319625,
+               "department": "Costume & Make-Up",
+               "job": "Hair Designer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5aa3f3cd0e0a26074d00ceaf",
+               "name": "Jo McLaren",
+               "profile_path": null,
+               "id": 1616065,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa3f4640e0a26075a00ea5c",
+               "name": "Sandra Butterworth",
+               "profile_path": null,
+               "id": 1404241,
+               "department": "Crew",
+               "job": "Dialect Coach"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5aa3f5e0925141278a00d224",
+               "name": "Nick Thomas",
+               "profile_path": null,
+               "id": 1338277,
+               "department": "Art",
+               "job": "Property Master"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa3f62c0e0a26076000d023",
+               "name": "Hugo Adams",
+               "profile_path": null,
+               "id": 40815,
+               "department": "Sound",
+               "job": "Foley Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5aa3f6690e0a26074d00d172",
+               "name": "Ben Barker",
+               "profile_path": null,
+               "id": 40816,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aa3f692c3a3687c0600c9b6",
+               "name": "Emilie O'Connor",
+               "profile_path": null,
+               "id": 1394716,
+               "department": "Sound",
+               "job": "Dialogue Editor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         },
+         {
+            "name": "War",
+            "id": 10752
+         }
+      ],
+      "popularity": 9.339588,
+      "production_countries": [{
+         "iso_3166_1": "GB",
+         "name": "United Kingdom"
+      }],
+      "id": 162215,
+      "vote_count": 335,
+      "budget": 0,
+      "overview": "An American girl on holiday in the English countryside with her family finds herself in hiding and fighting for her survival as war breaks out.",
+      "similar": [
+         8810,
+         76341,
+         198663,
+         336843,
+         20766,
+         9355,
+         131631,
+         49049,
+         101299,
+         82654,
+         19898,
+         20504,
+         2787,
+         9659,
+         9693,
+         534,
+         6479,
+         12244,
+         263115,
+         75174
+      ],
+      "original_title": "How I Live Now",
+      "runtime": 101,
+      "poster_path": "/p2uUWeuPTePuofay6oClacXnHrC.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "BFI Film Fund",
+            "id": 16877,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Passion Pictures",
+            "id": 11594,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Cowboy Films",
+            "id": 245,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2013-09-10",
+      "vote_average": 6.5,
+      "belongs_to_collection": null,
+      "tagline": "Love will lead you home",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Kevin Macdonald"],
+      "runtime": 101,
+      "synopsis": "(spoilers) A film based on the best selling book of the same name by Meg Rossoff. Fifteen year old Elizabeth's New York family are fed up and tired of her self-inflicted starvation and distaste of her step mother. So Daisy, as she prefers to be known, is sent by her father and stepmother to live with her cousins Osbert, Isaac, Edmond and Piper, and her Aunt Penn, in England. Soon she realizes that her cousins are some of the most intriguing, special people she has ever met, and strikes up a strong bond with all of them, especially the semi-telepathic, precocious Edmond. Daisy quickly adapts to the English countryside lifestyle and begins to feel at home for the first time in her life, and barely notices the whispers about war that begin to circulate, until Aunt Penn is sent away to aid the Peace Process. With the departure and subsequent death of Aunt Penn, and no adults left to supervise the children, Daisy and Edmond's relationship soon blossoms into something that is a little more than cousinly love. However, her new found idyllic life in the country is soon shattered by the advance of the Third World War, and she and Piper are sent away from Edmond, Isaac and Osbert. Surrounded by enemies during the futuristic \"occupation\", Daisy must find a way to reunite the family through all the bloodshed before their lives are ruined by the separation and the horrors of the war.",
+      "writers": [
+         "Meg Rosoff",
+         "Jeremy Brock"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt1894476/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTU4NTg4NzgzMF5BMl5BanBnXkFtZTgwOTU1NTMxMDE@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Saoirse Ronan, Tom Holland, George MacKay | See full cast and crew »"],
+      "reviews": [
+         "Of all the movies I've seen, this is up there with the best. It's perfect in its variations of tone, from the lyrical to the grisly, and paced so that I never failed to be engaged with it. It avoids being over-elaborate or over-clever. We are drawn in by comedy. Stroppy American teenager Daisy (Saoirse Ronan) flies in to stay with her English cousins and so far as she's concerned, she's landed in Hicksville. They live a carefree, mostly adult-free existence in a ramshackle farmhouse with animals all over the place, unwashed crockery and a casual approach to eating. Just what you want when you've got OCD, food fads and medication. Determined to sulk in her room, she is eventually drawn out and succumbs to the warmth of her cousins, 14-year-old Isaac (Tom Holland), younger sister Piper (Harley Bird) and older brother Edmond (George MacKay}. But in the background there are rumblings, particularly of a nuclear bomb which has been detonated in London. In the foreground, Daisy's and Edmond's hormones are rumbling. The sex scene, when it comes, is how it should be done: lovely without being too explicit, too long or salacious. That's followed by soldiers arriving, guns blazing, to impose martial law. Boys and girls are split up to be taken to separate camps, but Edmond and Daisy vow to be reunited. Daisy's escape is a grim survival scenario in which she has to practically force-march Piper to exhaustion through a landscape beset with dangers, particularly for vulnerable females of any age. Who will survive? The acting? Well, there's acting, good acting and acting so good that you forget that it's acting, and Ronan's and Bird's acting both come into this last category. I was totally absorbed in their journey. It's very, very rare for me to lose my sense of detachment when I'm watching a film but I did here. Few people have doubted Ronan's ability since her impressive performance as the 13-year-old Briony Tallis in Atonement. However, I've sometimes felt that she has been the victim of a misguided director (Peter Jackson in The Lovely Bones) or a substandard screenplay (The Host). I've often wondered when she would get more material worthy of her talent. Well, boy, has she hit the jackpot this time. Director Kevin Macdonald did everything he had to do to get the story across without any of those irritating \"look what a wonderful director I am\" flourishes. People will inevitably draw comparisons with Meg Rosoff's novel, which I haven't read, or other films in this \"genre\". How I detest the pretentious overuse of that word. This film was enough for me and if you don't think it measures up to your precious novel or your precious genre that's your problem, not mine.",
+         "Hence \"How I live NOW\". I was hesitant to rent this due to some poor ratings but glad I saw it. This is not a big budget movie, but I found that there was enough action to keep me interested and enough military \"gear\" to make the visuals plausible. Some have written about technicalities of the war and inconsistencies thereof, but I think that misses the point. The main character's perspective is dramatically changed by her experiences and she matures dramatically throughout the film. Some have also bagged on the romance, but first love is overwhelming and single focused. It is a simple straightforward film that didn't get too cute. Don't overthink it and you will enjoy it. The feel of the country house makes me want to move to Wales, although I am sure it is only that nice in weather for two weeks a year.",
+         "Daisy (Saoirse Ronan) is a young, broody, moody, American girl who is sent to stay with extended family in the English countryside. At first cynical about her summer arrangements and outwardly cold towards her jolly hosts, slowly she begins to thaw to their hospitable nature and thus begins to discover something within herself in this new setting � a home away from home. But just as she finds her place in the world, an unthinkable event occurs and everything is thrown into turmoil. In a World War III type scenario, she is taken away from those she now considers family in the first and with only the companionship of her young cousin Piper (Harley Bird), she must journey back across the warn torn English countryside, to the place she wants to call Home. It's a curious pick n' mix type story that in some ways feels like two genres melded together. The immediate narrative feels very much like a teen 'chick flick', but this is played out over a dark backdrop that at times feels course and close to the bone. To me, the running commentary of Daisy the American girl, outlining her disciplined set of rules and paranoia, felt a little cheesy in its attempt to force home the difference between English and American culture. So too do some of the romanticised elements of country living, such as the young fourteen year old cousin (Tom Holland) who drives without a license, or the dashing older cousin (George MacKay) who raises eagles and will suck the dirt out of a bloody cut. It's a pity because I felt some of the subtler signifiers, such as the character of the motherly aunt (Anna Chancellor), or indeed the setting of the old country home with it's beautiful but cluttered wood interior and the backdrop of rolling English countryside, spoke a thousand words that other forced elements could only ever hope to convey. In this way I felt the scenario in itself, a city girl living in the countryside, should have been self explanatory. If you can manage to overlook some of the hammier elements of the narrative, the movie really gets interesting in the build up, and realisation, to war. Movies about atrocities of war generally maintain a degree of separation for the Western World viewer because of differences in geographical location, time or culture. Whereas, where zombie movies may deal with scenarios in a world as we know it, again we feel separated by the fantastical suspension of disbelief that has to be made in order to accept a universe where zombies can walk the Earth. How I Live Now is set in a time, a world, a space that is starkly familiar to our own and so the degree of separation --that this could really happen to us!-- is only a small leap of faith. Indeed, the detached manner of the news reporters add a level of verisimilitude as they sound very much like reports we might see on our own t.v. screens on any given day. And so the rate and horror at which we see State structures deteriorate after the bomb is dropped, can be felt vicariously. By actually detaching itself from the politics, How I Live Now manages to depict a faceless horror to war that is far more disturbing than if we had all the answers at the ready. We are never quite certain, for example, what spurred the bomb in the first place: if it was an invasion from abroad or a movement from within. Are the government forces that split Daisy from her male cousins simply making poor decisions on her behalf? We are left wondering who the real enemy is, but that doesn't really matter anyway, as soon we learn that even in a war of 'sides', those caught in the middle can only become victims. The pile of bodies that Daisy shifts through is a scene that echoes real life atrocities and dumps the reality at our door. The story is powerful in this way, because even though it speaks through a 'pop' veneer, still it touches upon the human condition. Our heroine cannot hope to change outcomes outright, but rather, in a grim reality, try only to traverse a topsy-turvy environment haphazardly. So overall, does the movie work? Perhaps not entirely for the reasons I stated above. The over romanticised elements may prove too much for some. Again, we have some Lassie Come Home moments in the later half of the movie which bordered on cheese for me. And yet I can't help but feel drawn to this flick � I have to give it kudos for its attempt to nit 'realism' and romanticism together. It's a quirky number with genuine flavour and thus, despite my criticism, manages to stick out in the mind while other more generic movies fade away from memory.",
+         "It could have been plague or zombies or Godzilla, it doesn't really matter. What matters is how life is affected after X event, how does society function, who will you be afraid of, how will you be affected? This film is admirable in it's telling of one such scenario. The young actors are all excellent in this sometimes harsh, sometimes beautiful but always engrossing film. It's not any one genre as I'd thought when first walking in, it surprised me by touching on all the things that life can take you through over a span of time. It's sensitivity reminded me of my first loves, it's brutality of a recent episode with the NYPD. I highly recommend this film.",
+         "A remake of an award-winning book, the movie covers a world that could very easily become a reality, but hopefully only under exceptional circumstances. Set against the backdrop of a worsening world political situation, Saoirse Ronan's Daisy, a New-York teenager with a chip on her shoulder, is dropped into a world that could not be further from what she is used to - the British countryside. She has promised herself that she will push her boundaries and get out of her comfort zone, not knowing that the journey that awaits her will require her to push herself further out of said comfort zone than perhaps she was intending, and help her younger cousins at the same time. Despite its genre, the movie was actually remarkably artistic - not just in the beautiful countryside that is so tragically spoilt by the outbreak of a massive global conflict, but also in its portrayal of the nature of war. Notably, the enemy is not identified once, beyond the fact that they are \"terrorists.\" Our only interactions with them in the movie could imply that they are anarchists, but this is mere speculation. And it is not told from the military point of view, who might be used to threats like this, but rather from the point of view of the civilians, whose lives have been torn apart. I found Saoirse Ronan's performance to be stellar. Although I felt that the moody side to her character was a little ham-fisted, she definitely captured the essence of a neglected teenager who misses her mother, feels like misfortune follows her around and grows to feel love in all its intensity. George MacKay, meanwhile, played an introverted but incredibly strong-willed teenager who can bring out the best in a seemingly selfish and moody American teenager brilliantly. And there was no indication that Tom Holland and Harley Bird's characters were around merely as irritating supporting characters, because they performed their roles brilliantly.",
+         "This was a beautiful and artistic movie. I loved all the scenes especially at the beginning. The country house, the animals, the kids everything in perfect balance. Even a Series IIA Land Rover, what more could you ask for. I was hoping to see a friendly badger, but I guess they read the tea leaves correctly. This movie reminded me a little bit of the \"Lord of the Flies\" a movie made during a time of political insanity where nuclear war hung over everyone's head. They say that artists see things long before anyone does, so hopefully this movie is a warning of a potential future outcome which does not have to happen. The acting was superb, Piper was so brave. Imagine if you could have your first love!",
+         "HOW I LIVE NOW is a poignant, disturbing, enthralling, and horrific film. Wonderful soundtrack and natural imagery that contrasts beautifully with the ugly and treacherous human world. Allegorical qualities: We don't know many of the specifics of who the terrorists are, the backgrounds of many characters, their full names, exact locations in Britain, etc. In those and many other respects, HILN is more for the heart than the head. Good performance by Saoirse Ronan as Daisy, a brash, cantankerous, and troubled American teenager who is sent to live with some distant relatives in the English countryside. Ditto for the others who play the various teenagers and children. However, the relationship between Daisy and Eddie develops a bit suddenly and unconvincingly; with everything else that is happening here, the character development suffers. I have not yet read Meg Rosoff's original novel, but I would guess that it is yet another book that can never be done justice on screen. Nevertheless, I found this film well worth watching, and it should prove especially useful as a basic illuminator for the book.",
+         "Didn't know quite what to expect from this but was quickly captivated by this film. Saoirse Ronan gives a superb performance and really holds the film together. Initially its a fish out of water story about Saoirse Ronan's character, a difficult but intriguing American teen landing into an eccentric English rural family who live on a remote farm. She quickly starts to fall for her handsome cousin but then world events intervene as a nuclear device is detonated in London and the film shows them dealing with the new reality of soldiers at the door, mass evacuation and the family being split up. The depiction of what UK would be like under martial law, with guerrilla attacks, forced labor camps and a society breaking down was both chilling and fascinating. Ultimately, it becomes a survival story as Saoirse Ronan's character tries to get back to the farm and she has to make her way through the nightmarish landscape of an England descending into chaos. With a great soundtrack and many poignant moments, this is a well crafted film on all fronts. Recommended.",
+         "The American teenager Elizabeth \"Daisy\" (Saoirse Ronan) is sent by her estranged father away from New York to the countryside of England to stay with her Aunt Penn (Anna Chancellor). Her distant cousin Isaac (Tom Holland) welcomes her at the airport and drives her home. She is introduced to her cousins, the seventeen year-old Eddie (George MacKay) and the young Piper (Harley Bird) and to their friend Joe (Danny McEvoy). However Daisy is a resentful, needy of love and aloof girl that believes that is cursed and that bad things happen wherever she goes since her mother died in her delivery. Aunt Penn is a busy woman that is studying the war scenario in England that is in alert due to an eminent terrorist attack and needs to fly to Geneva. However, on the next morning, a nuclear bomb explodes in London and the authorities of the United Kingdom declare state of siege. Meanwhile Daisy and Eddie fall in love with each other, but they are separated by the military that send girls to a camp and men to another. Daisy and Eddie promise to meet each other again. In a country in war, Daisy and Piper flee from their lodging and cross England in martial law trying to find Eddie and Isaac. \"How I Live Now\" was a great surprise since I was expecting to see a drama about a rebel teenager and I found an original come of age story in time of contemporary war. Saoirse Ronan is presently one of the most promising young actresses and her performance in the role of a girl that finds love and reaches maturity is top-notch. The little Harley Bird is another promising actress and I look forward to see her again. My vote is seven. Title ( Brazil ): \"Minha Nova Vida\" (\"My New Life\")",
+         "This film starts out on a slow burn, but is not about car chases, explosions or blood and gore. With that out the way, what it is, is warmly filmed and deftly directed. I found it a very enjoyable exploration of the aftermath of a civil war, and the impact that has on several young lives. Some reviewers have commented that setting that civil war in the UK is not realistic. But that is to wholly miss the point of this movie. It's a film about people under extreme adversity and random circumstance, the setting is peripheral. Its about they deal with the fast changing situation, and the changes that occur in them as a result. Well paced from at least a quarter of the way in the ending is emotional and moving. I'll leave it for you to judge if you agree with me. So long as your not looking for a happy movie, but something that digs a little deeper.... then I don't think you will be disappointed."
+      ],
+      "genres": [
+         "Drama",
+         "Romance",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "BFI Film Fund",
+         "Cowboy Films",
+         "Film4"
+      ],
+      "summaries": [
+         "American teenager Elizabeth \"Daisy\" is sent by her estranged father away from New York to the countryside of England to stay with her Aunt Penn. Her distant cousin Isaac welcomes her at the airport and drives her home. She is introduced to her cousins, seventeen year-old Eddie and young Piper and to their friend Joe. However Daisy is a resentful, needy of love and aloof girl who believes that she is cursed and that bad things happen wherever she goes since her mother died in her delivery. Aunt Penn is a busy woman who is studying the war scenario in England, which is on alert due to an imminent terrorist attack, and needs to fly to Geneva. However, the next morning, a nuclear bomb explodes in London and the authorities of the United Kingdom declare a state of siege. Meanwhile Daisy and Eddie fall in love with each other, but they are separated by the military, which sends girls to one camp and men to another. Daisy and Eddie promise to meet each other again. In a country at war, Daisy and Piper flee their lodging and cross England under martial law, trying to find Eddie and Isaac.",
+         "An American girl called daisy comes to live in England with her cousins. Things are going good, but war commences, and all around her things come crashing down. She has to learn to face her fears and stay focused on her goal. On top of this there is falling helplessly in love with her handsome cousin Eddie.",
+         "An American girl, sent to the English countryside to stay with relatives, finds love and purpose while fighting for her survival as war envelops the world around her."
+      ],
+      "budget": 0
+   },
+   "movielensId": 106195,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2013-09-10",
+      "dvdReleaseDate": null,
+      "directors": ["Kevin Macdonald"],
+      "runtime": 101,
+      "movieId": 106195,
+      "title": "How I Live Now",
+      "mpaa": "R",
+      "actors": [
+         "Saoirse Ronan",
+         "George MacKay",
+         "Tom Holland",
+         "Harley Bird",
+         "Anna Chancellor",
+         "Corey Johnson",
+         "Sophie Ellis",
+         "Sabrina Dickens",
+         "Natasha Jones"
+      ],
+      "imdbMovieId": "1894476",
+      "originalTitle": "How I Live Now",
+      "genres": [
+         "Drama",
+         "Action",
+         "Thriller",
+         "War"
+      ],
+      "youtubeTrailerIds": ["RSaxm68PPT4"],
+      "plotSummary": "An American girl on holiday in the English countryside with her family finds herself in hiding and fighting for her survival as war breaks out.",
+      "tmdbMovieId": 162215,
+      "avgRating": 3.41124,
+      "releaseYear": "2013",
+      "numRatings": 169,
+      "posterPath": "/p2uUWeuPTePuofay6oClacXnHrC.jpg"
+   }
+}

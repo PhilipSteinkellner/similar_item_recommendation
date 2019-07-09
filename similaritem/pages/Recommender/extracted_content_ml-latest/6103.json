@@ -1,0 +1,624 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "pope",
+            "id": 717
+         },
+         {
+            "name": "nun",
+            "id": 745
+         },
+         {
+            "name": "black market",
+            "id": 2449
+         },
+         {
+            "name": "scandal",
+            "id": 3692
+         },
+         {
+            "name": "priest",
+            "id": 10093
+         },
+         {
+            "name": "money",
+            "id": 10594
+         },
+         {
+            "name": "catholic",
+            "id": 18396
+         },
+         {
+            "name": "sicilian",
+            "id": 155539
+         },
+         {
+            "name": "catholic church",
+            "id": 157008
+         }
+      ],
+      "imdb_id": "tt0084351",
+      "video": false,
+      "title": "Monsignor",
+      "recommendations": [],
+      "backdrop_path": "/kB9n4zNM8RqQ6MkxJ5FMO8R0sPI.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Father John Flaherty",
+               "gender": 2,
+               "credit_id": "52fe4ab8c3a368484e1635c3",
+               "name": "Christopher Reeve",
+               "profile_path": "/9D4L3XeklsMc4r8FybZSTKON3HR.jpg",
+               "id": 20006,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Clara",
+               "gender": 0,
+               "credit_id": "52fe4ab8c3a368484e1635c7",
+               "name": "Geneviève Bujold",
+               "profile_path": "/qqtni1dpO3b7nDeG9NOxKAPk7yM.jpg",
+               "id": 35341,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "Cardinal Santoni",
+               "gender": 2,
+               "credit_id": "52fe4ab8c3a368484e1635cb",
+               "name": "Fernando Rey",
+               "profile_path": "/2NlOtYEeJjzLUJWQmsB12w3nTM8.jpg",
+               "id": 14821,
+               "order": 2
+            },
+            {
+               "cast_id": 5,
+               "character": "Don Vito Appolini",
+               "gender": 2,
+               "credit_id": "52fe4ab8c3a368484e1635cf",
+               "name": "Jason Miller",
+               "profile_path": "/wwExdVTadL0jd8kqEicjK8k6yu8.jpg",
+               "id": 21736,
+               "order": 3
+            },
+            {
+               "cast_id": 7,
+               "character": "Cardinal Vinci",
+               "gender": 2,
+               "credit_id": "52fe4ab8c3a368484e1635d3",
+               "name": "Adolfo Celi",
+               "profile_path": "/3i7iHbPKTMYAlg6OciBfuKxTE97.jpg",
+               "id": 9920,
+               "order": 4
+            },
+            {
+               "cast_id": 8,
+               "character": "The Pope",
+               "gender": 2,
+               "credit_id": "52fe4ab8c3a368484e1635d7",
+               "name": "Leonardo Cimino",
+               "profile_path": "/gb2YuqRIifoTjX0F6YkYP4p4z29.jpg",
+               "id": 12514,
+               "order": 5
+            },
+            {
+               "cast_id": 9,
+               "character": "Father Francisco",
+               "gender": 2,
+               "credit_id": "52fe4ab8c3a368484e1635db",
+               "name": "Tomás Milián",
+               "profile_path": "/5ZUu4Zy9kWtYuVES74pbrXqd0FB.jpg",
+               "id": 21708,
+               "order": 6
+            },
+            {
+               "cast_id": 10,
+               "character": "Bishop Walkman",
+               "gender": 2,
+               "credit_id": "52fe4ab8c3a368484e1635df",
+               "name": "Robert Prosky",
+               "profile_path": "/9xpt96AOur6MmLIEaYhRiCQLIOE.jpg",
+               "id": 10360,
+               "order": 7
+            },
+            {
+               "cast_id": 11,
+               "character": "Pvt. Joe Musso",
+               "gender": 2,
+               "credit_id": "52fe4ab8c3a368484e1635e3",
+               "name": "Joe Pantoliano",
+               "profile_path": "/zBvDX2HWepvW9im6ikgoyOL2Xj0.jpg",
+               "id": 532,
+               "order": 8
+            },
+            {
+               "cast_id": 12,
+               "character": "Sister Verna",
+               "gender": 1,
+               "credit_id": "52fe4ab8c3a368484e1635e7",
+               "name": "Milena Vukotic",
+               "profile_path": "/t3on2M69KvTLdWYCKALmCEK3xzL.jpg",
+               "id": 44104,
+               "order": 9
+            },
+            {
+               "cast_id": 13,
+               "character": "Lieutenant",
+               "gender": 0,
+               "credit_id": "52fe4ab8c3a368484e1635eb",
+               "name": "Ian Danby",
+               "profile_path": null,
+               "id": 574029,
+               "order": 10
+            },
+            {
+               "cast_id": 15,
+               "character": "2nd Soldier",
+               "gender": 0,
+               "credit_id": "52fe4ab8c3a368484e1635f3",
+               "name": "Harrison Muller Jr.",
+               "profile_path": null,
+               "id": 138643,
+               "order": 12
+            },
+            {
+               "cast_id": 16,
+               "character": "Major",
+               "gender": 2,
+               "credit_id": "52fe4ab8c3a368484e1635f7",
+               "name": "David Mills",
+               "profile_path": null,
+               "id": 156657,
+               "order": 13
+            },
+            {
+               "cast_id": 17,
+               "character": "Ludovico 'Lodo' Varese",
+               "gender": 2,
+               "credit_id": "52fe4ab8c3a368484e1635fb",
+               "name": "Joe Cortese",
+               "profile_path": "/Ac7sqrV5RQLHR98dyOgTur8q8SJ.jpg",
+               "id": 830,
+               "order": 14
+            },
+            {
+               "cast_id": 46,
+               "character": "1st Soldier",
+               "gender": 0,
+               "credit_id": "563db56dc3a3681b6102b193",
+               "name": "Gregory Snegoff",
+               "profile_path": "/6Zrol3YYuxoo4OnYb4dn17xdJRb.jpg",
+               "id": 1229807,
+               "order": 15
+            },
+            {
+               "cast_id": 48,
+               "character": "Bride's Father",
+               "gender": 2,
+               "credit_id": "596389049251417904059985",
+               "name": "Joe Spinell",
+               "profile_path": "/wzZZO8xXn9OgljCmrGGR4L6wBdg.jpg",
+               "id": 16525,
+               "order": 16
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4ab8c3a368484e1635bf",
+               "name": "Frank Perry",
+               "profile_path": null,
+               "id": 113799,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a04174c3a3682f2100af37",
+               "name": "Jack-Alain Léger",
+               "profile_path": null,
+               "id": 1405472,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a04183925141312300aecc",
+               "name": "Abraham Polonsky",
+               "profile_path": null,
+               "id": 81976,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54a0418d925141312300aece",
+               "name": "Wendell Mayes",
+               "profile_path": null,
+               "id": 844,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5601f80e92514104a20002ca",
+               "name": "David Niven Jr.",
+               "profile_path": null,
+               "id": 1336666,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5601f81f92514122c3000667",
+               "name": "Frank Yablans",
+               "profile_path": null,
+               "id": 69878,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5601f8ad92514122c300067f",
+               "name": "Kurt Neumann",
+               "profile_path": null,
+               "id": 1513646,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5601facbc3a36855410006c9",
+               "name": "John Williams",
+               "profile_path": "/2Ats98PB1SH2yfEPikiLdhRuXZm.jpg",
+               "id": 491,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5601fb2d92514104a2000338",
+               "name": "Billy Williams",
+               "profile_path": null,
+               "id": 11848,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5601fb6392514104a2000340",
+               "name": "Peter E. Berger",
+               "profile_path": null,
+               "id": 2033,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5601fb8592514122cd000707",
+               "name": "Jane Feinberg",
+               "profile_path": null,
+               "id": 597,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5601fba492514122c30006e0",
+               "name": "Mike Fenton",
+               "profile_path": null,
+               "id": 598,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5601fbc792514122c000073e",
+               "name": "John DeCuir Jr.",
+               "profile_path": null,
+               "id": 8866,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5601fc1192514122cd00071b",
+               "name": "Stefano Maria Ortolani",
+               "profile_path": null,
+               "id": 5672,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5601fc7592514122ca000691",
+               "name": "Joe Chevalier",
+               "profile_path": null,
+               "id": 1513647,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5601fc8992514122c30006fb",
+               "name": "Carlo Gervasi",
+               "profile_path": null,
+               "id": 8755,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5601fca4c3a368553a00072d",
+               "name": "Theoni V. Aldredge",
+               "profile_path": null,
+               "id": 8868,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5601fcbfc3a368553200068a",
+               "name": "Franco Corridoni",
+               "profile_path": null,
+               "id": 1314150,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5601fcdf92514104a200035c",
+               "name": "Maria Teresa Corridoni",
+               "profile_path": null,
+               "id": 32353,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5601fd1892514122c700069a",
+               "name": "Luigi Rocchetti",
+               "profile_path": null,
+               "id": 27205,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5601fd3fc3a368553200069a",
+               "name": "Kurt Neumann",
+               "profile_path": null,
+               "id": 1513646,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5601fd5b92514122ca0006bb",
+               "name": "Gianni Cozzo",
+               "profile_path": null,
+               "id": 1513648,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5601fd7192514122c70006a9",
+               "name": "Roy Charman",
+               "profile_path": null,
+               "id": 1399030,
+               "department": "Sound",
+               "job": "Sound mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5601fdce92514122cd000750",
+               "name": "William Hartman",
+               "profile_path": null,
+               "id": 1342251,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5601fdf092514122cd000758",
+               "name": "David M. Ice",
+               "profile_path": null,
+               "id": 1416579,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5601fe02c3a368552b0007a4",
+               "name": "Chic Anstiss",
+               "profile_path": null,
+               "id": 1427542,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5601fe1e92514122c0000790",
+               "name": "Paolo Fabbri",
+               "profile_path": null,
+               "id": 1487281,
+               "department": "Production",
+               "job": "Location Manager"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5601fe3392514122cd000762",
+               "name": "Francesca Roberti",
+               "profile_path": null,
+               "id": 1449507,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56cf2436c3a3681e5700294b",
+               "name": "Aldo De Martino",
+               "profile_path": null,
+               "id": 1582749,
+               "department": "Sound",
+               "job": "Boom Operator"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Crime",
+            "id": 80
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "War",
+            "id": 10752
+         }
+      ],
+      "popularity": 1.85001,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 124963,
+      "vote_count": 5,
+      "budget": 0,
+      "overview": "The vows of an ambitious young American priest are tested during World War II. Not only does Father John Flaherty get involved with the black market to raise money for the Vatican, he also falls in love with a young French nun.",
+      "similar": [
+         314365,
+         31767,
+         45054,
+         104,
+         411976,
+         184346,
+         4497,
+         157832,
+         27029,
+         1075,
+         30159,
+         9616,
+         319995,
+         24735,
+         9353,
+         394830,
+         17665,
+         39340,
+         32430,
+         257393
+      ],
+      "original_title": "Monsignor",
+      "runtime": 121,
+      "poster_path": "/cZo4nPw6nJDcaFu0inyR0lv1meU.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "Frank Yablans Presentations",
+         "id": 4988,
+         "origin_country": ""
+      }],
+      "release_date": "1982-10-22",
+      "vote_average": 4.8,
+      "belongs_to_collection": null,
+      "tagline": "Forgive me, Father for I have sinned. I have killed for my Country, I have stolen for my Church, I have loved a Woman, and I am a Priest.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Frank Perry"],
+      "runtime": 121,
+      "synopsis": null,
+      "writers": [
+         "Jack-Alain Léger",
+         "Abraham Polonsky"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0084351/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjA5MzcwMDY5MV5BMl5BanBnXkFtZTYwNDQ2Mjg5._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Christopher Reeve, Geneviève Bujold, Fernando Rey | See full cast and crew »"],
+      "reviews": [
+         "I have read some of the negative comments on this film, they must have been written by staunch Catholics. One person said Miss Bujolds career was ruined by this movie if that is so it is a shame. I have watched this Movie many times. Monsignor delves into the many aspects of human sin and how we all fail God every moment of every day that we live. I think those who dislike this film have latched onto the notion that nuns and priest are perfect,they should pick up the paper. Monsignor is a sad film but a good one,sad because of the longings of the heart not fulfilled. This film hit home with me because of the many times our deepest longings go unfulfilled. This movie also had many redemptive qualities to it. I also think I liked it because it did not go the way I wanted it to.",
+         "This movie is a smart, absorbing and different take on the Vatican, exposing the high stakes politicking and personal vanities that impact the actions of the Church. There are no saints in this movie, only real people played with empathy and unusual perspective. A very young Christopher Reeves takes on a challenging role and pulls off the complexity and credibility the movie calls for. The supporting cast is excellent, a joy to watch. The movie keeps you guessing and praying. This is not a movie for dullards, if you appreciate an intelligent and compelling movie, try this one. It will surprise you, pleasantly. It tackles a subject matter that is very timely now with the various Church conspiracy books fad, such as \"The Da Vinci Code.\" I am trying to find more information on the subject of the movie, presumably Archbishop Paul Marcinkus.",
+         "***SPOILERS*** Not too convincing film about a hot shot and well intentioned priest who gets in over his heed in trying to saved his beloved Catholic Church from going bankrupt. The Second World War is soon to be over and the Catholic Church has suffered major financial losses because of it. American priest Father John Flaherthy, Christopher Reeve, comes up with this master plan to save the church but there's just one hitch: It involves the Mafia who's the only one who can make it happen. Getting involved with his childhood friend-from Brooklyn NY- Lodo Varese, Joseph Cartese, a master sergeant in the US Army Father John has Lodo through his Mafia and black market connections sell thousands of cartons of cigarettes from the Vatican commissary, that Father John is the administrator of, for a mark up of over 400%. The very naive Father John thinks that his friend Lodo together with his Mafia boss Don Vito \"the Apple\" Appolini, Jason Miller, will be as honest about this strange arrangement that he cooked up in secretly saving the church as he is. While all this is going on Father John, using the alias of US Army Lt. Finnigen, gets involved with the not yet confirmed Catholic nun Clara Genevieve Bjold, whom he rescued from getting drenched from a sudden downpour with her fellow nuns while driving his army jeep. In a matter of days the very handsome Father John, or Lt . Finnigen, had the impressionable Clara, who thought that he was a black marketeer, have an affair with him. Thinking that she was involved with a corrupt US Army solider not a Catholic priest, or Monsignor which he was at the time, Clara flipped out when she saw Father John at a ceremony at the Vatican together with his mentor Cardinal Santoni, Fernando Rey, and the Holy Father himself the Pope played by Leonardo Cimino! Father John not knowing what to say later, while in Church praying for forgiveness, let himself have it, by being sapped around,by an outraged Clara who accused him of ruining her, as well as his, life! The relationship between Father John, a CPA before he entered the church, and his good friend Lodo also started to sour with Lodo taking off with some 40 million dollars of the church's money as well as losing over 600 million dollars playing the very speculative currency markets. ***SPOILER ALERT*** The mad as hell Don Vito who's money, in connection with the Catholic Church, Lodo also ripped off has a hit put out on him which a tearful Father John begs him to put off. This turned out to be about the only good thing that Father John did in the movie and even that backfired on him! Insulting, especially to Roman Catholics, in how the movie treats members of the clothe by making them look worse then the hoods and gangsters that their shown to be working with. Christopher Reeve as the corrupt Father John is anything but sympathetic in his being so obsessed with both money and sex, as well as power, that whatever good there was in him quickly evaporated within the first ten minutes of the movie. Even though Father John's attempt to save the Catholic Church from going bankrupt was in the end successful his methods were anything but Christ-like. Which made you wonder if, in the movie, with the underhanded and sleazy tactics that Father John used to save it was in fact worth saving at all!",
+         "The tag-line for this film begins \"Forgive me, Father, for I have sinned\". And that's not so much being said by the protagonist of \"Monsignor\" but by the director, actors, writers, best boys, gaffers, caterers and the guys who swept the floor afterwards on this disaster. As the \"Monsignor\" of the title, Christopher Reeve plays a man who moves his way up through the Catholic church through dubious means - murder, theft, the Black Market during WWII... you know, the usual stuff. And there's even enough time for him to seduce a nun (Bujold)! I know next to nothing about Catholicism, so I cannot say what if any of this kind of activity holds any validity. But what does this mean: that those involved in the Vatican's business affairs are only bookkeepers who work under the guise of religion for otherwise nefarious means? I'd hope not, but this movie seems to think otherwise. Reeve is a good actor, always will be. What he saw in this kind of film is beyond me. Maybe he thought (like Faye Dunaway did in \"Mommie Dearest\") that something so broad and unimaginably coarse could only be played as a comedy, so why not just go with the flow? And if he thought that, he was right! \"Monsignor\" has scenes that play as out-and-out comedy; never have you seen so many (unintentional?) sight gags in your life, and the stony faces that permeate this film might make you believe that Buster Keaton must have been a busy man at one time or another. So, \"Monsignor\" is a bad film, but it's also good for one of those nights when you have a few friends over, a few beers, lots of popcorn and nothing better to do than have a few laughs at someone else's expense. Those involved in organized religion, say. Two stars. Eight if you're an agnostic.",
+         "As Christopher Reeve said himself, this movie could have been really good but the bad editing ruined it. And I wholeheartedly agree. It was a pretty bold movie, even for the bold 80's: a tale of a Vatican priest who deals with the mafia, seduces a nun and takes up arms in the war, bloodying his hands. This was clearly still a taboo, any kind of negative portrayal of the Catholic church and the Vatican. But somewhere during its 2 hours this movie lost its boldness and became just another failed experiment with an interesting idea. In the year 1982, Reeve was clearly looking to establish himself as a serious actor and it couldn't have been easy for a guy who so convincingly looks like a superhero and who came to prominence as THE superhero. He was in Deathtrap that same year and did well in that part. One might say that this role has something in common with that one, because he plays an opportunist who is morally unclean. This movie has a really top notch cast, with Jason Miller, Fernando Rey and Genevieve Bujold as the brightest part of it. Miller, though somewhat miscast in the role of the Sicilian mafioso, brings the dark intensity similar to the one in his role as Father Karass. Only difference is, here he has a mustache. Joe Cortese is also good in the part of Reeve's old friend who becomes his business partner and the link with Miller. Fernando Rey plays the part of cardinal Santoni, who represents the political side of Vatican, the ambitious and power-hungry priest who is willing to close an eye to illegal stuff in order to achieve his own goals. Anyway, this movie is interesting to follow but sometimes it can't decide whether it wants to be a drama about corruption and moral or a love movie. Some scenes are well shot and gripping, like the scene where the nun played by Bujold discovers Reeve's true identity and occupation. It is the dramatic highpoint of the film. But the love story lasts too short to really give the movie the edge it needs, another angle. Christopher Reeve is one of the film's bright points because he really does make his character believable. He's a priest who tried to be both a priest and a man. I guess you can say that this is the ultimate theme of the film, how hard it is to be a priest and give up the good things in life in order to serve God. I think it's a great shame that this film has been largely forgotten and scorned by the critics and by the audiences. For despite it's editorial flaws and despite the screenplay not holding up till the very end, it still can be an interesting watch and a spiritual lesson.",
+         "I loved this film. First, it showed very well the way the church managed to survive the complicated, and oft evil, manipulations of war. It did not condemn or condone, only showed the reality of the Catholic church and how it's mechanisms are very much capitalist in nature if not in scripture. It's historic value is priceless.We've seen since then how the church does act when it comes to it's own failings and inner turmoils. It's not whether you have sinned the great sin, whatever that is, or that you've been forgiven. Rather, it's does your value to the church out-way your individual corruption. Historically, Catholic priest sold forgiveness in the form of 'dispensation' to the wealthy and powerful so they could sin without facing eternal damnation. This film just modernizes it. Many novels and films since this one have shown the same point. This one is just simpler in it's presentation.",
+         "Someone on a game show once named this as his favorite bad movie, citing that hilarious scene in the church when Genevieve Bujold, playing a tramp postulant, realizes that her boyfriend is a priest. There's nothing good to be said about this film except that it has glorious scenery. It's sad today to see Christopher Reeve healthy and walking - and wasting what little time he was going to have in rotgut like this. As someone raised in the Catholic church, I loved hearing the Latin again. Also with the recent scandals in the church that have come to light, I don't really put much past the Catholic church or the high mucky-mucks. But this movie is really ridiculous. The performances were okay, given what these poor people had to deal with. The Genevieve Bujold character is a riot; the role is a career-killer. I mean, bare breasts exposed, the woman is asking the Reeve character, \"Do you think I'll make a good nun?\" The Christopher Reeve character - that of a mafioso priest - is preposterous. I used to love Jason Miller. Not in this. I'm old enough to remember the old pope - were they kidding with that characterization of him? Alas, today, you really wouldn't watch this with friends for a few laughs (as one of the older posts suggests) because it's just too awful to see young, handsome Christopher Reeve. So probably the best thing some higher-up can do is take this baby out of circulation. If I'm going to watch Christopher Reeve, I'll watch him fly and remember him when he was just starting out, vital, handsome, with it all in front of him.",
+         "It's inconceivable that a director like Frank Perry could have been associated with \"Monsignor\". Mr. Perry was a man responsible for some good movies in the sixties and seventies. Who knows what might have attracted him to direct this high camp picture that should be better forgotten. The plot of the movie is preposterous, at best. The point the movie is trying to make is how the Catholic Church makes a perfect partner with the Mafia, something that could only make sense to the author of the novel. The second theme deals with the way Flaherty falls in love with the novice Clara, and how he keeps from her the secret of his identity, which is obvious, as the pair move in the same circles, so it would be inevitable for the young woman to find out who her lover really is. \"Monsignor\" wastes two hours in trying to make sense without success. The cast does what it can trying to give life to these one dimensional characters they were asked to bring to life for the movie. Not even the musical score by John Williams does anything to help the movie. Future viewers are warned as to what to expect.",
+         "Dull and tiresome, this story should be fascinating. A corrupt priest, global shenanigans, love, lust, war. But the action seems to go on in a weird Vatican vacuum. when I first watched this years ago I assumed I'd napped and missed huge chunks. Large numbers of years seem to Elapse without explanation. Rome goes from war time to peacetime without anyone seeming to notice. The woodeness of reeves is reminiscent of one of those jokes where they show the sae face 100 times with different emotions under them. Beaujold is lost but still cute. Reeves apparently blamed the editors of the film, but although we don't know what they cut, what they left is expressionless. In love scenes, when angry, when stressed his demeanor remains the same. After two hours of this I feel I've done penance. do watch it, the scenery is nice as is Genevieve.",
+         "The review in the annual paperback guide to movies by critic Leonard Maltin and his cronies classify this as a \"camp classic\", and after reading the synopsis, I certainly wasn't prepared to take this hilarious, trashy melodrama seriously at all. It has a young, ambitious priest, John Flaherty (Christopher Reeve) hired as business manager for the Vatican, and it doesn't take too long for the guy to start doing some dubious things, such as entering into a shady deal with the Italian mob. The best bit of business has this guy carrying on a romance with a nun- in-training named Clara (Genevieve Bujold). That's got to be trash at its finest, especially when Ms. Bujold strips for the camera as Flaherty and Clara prepare to go at it. Now, this movie admittedly is somewhat slowly paced and goes on for quite a bit, but this story (scripted by Abraham Polonsky and Wendell Mayes, based on a novel by Jack-Alain Leger) is still entertaining in its ridiculousness. Superb production design (by John DeCuir Jr.), cinematography (by Billy Williams), and location shooting help in the enjoyment - this is nothing if not a good looking film. And speaking of good looking, the lovely Bujold is definitely an easy performer to watch. The performances are all admirably sincere, with the ever likable Reeve well supported by a fine, fine group of actors: Fernando Rey, who has a warm presence, as Cardinal Santoni, Jason Miller as mob boss Don Vito Appolini, Joe Cortese as Flaherty's buddy Lodo Varese, Adolfo Celi as Cardinal Vinci, Tomas Milian as Father Francisco, Leonardo Cimino as none other than The Pope, Robert Prosky as Bishop Walkman, and Joe Pantoliano as wounded soldier Private Musso, with Joe Spinell in a great, brief cameo as the father of the bride in the wedding sequences. Give this cast credit, as they really sell this thing. It may be pretty long, but it's such an amusing story as to keep one watching (at least, this viewer kept watching). Recommended to fans of silly cinema. Seven out of 10."
+      ],
+      "genres": [
+         "Crime",
+         "Drama",
+         "War"
+      ],
+      "productionCompanies": ["Frank Yablans Presentations"],
+      "summaries": [
+         "John Flaherty is a young and ambitious American priest who arrives in the Papal sovereign city state of the Vatican in 1944 to take his holy orders as a Catholic priest. After distinguishing himself in combat in the World War II battlefields of northern Italy, he's assigned as the Vatican treasurer. With the Vatican strapped for money during the war, Flaherty soon makes illegal business deals with a corrupt U.S. Army sergeant named Varese, who deals goods on the local black market, which is connected to a ruthless Sicilian mobster named Don Appolini. Appolini agrees to fund Flaherty's operation for profit through his Swiss bank connections. Flaherty's mentor, Cardinal Santoni, the secretary to the elderly but powerful Pope, learns of Flaherty's business deals, but covers for Flaherty in order for them to rise in the ranks of the church against Santoni's rival, Cardinal Vinci. But Flaherty's double life as a black marketeer and priest takes a turn when he falls in love with a young French nun, named Clara, who knows of his dealings, but not of his true identity in the Catholic Church.",
+         "An ambitious priest seduces a nun and leads the Vatican into shady business during and after World War II."
+      ],
+      "budget": 0
+   },
+   "movielensId": 6103,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1982-10-22",
+      "dvdReleaseDate": null,
+      "directors": ["Frank Perry"],
+      "runtime": 121,
+      "movieId": 6103,
+      "title": "Monsignor",
+      "mpaa": "R",
+      "actors": [
+         "Christopher Reeve",
+         "Geneviève Bujold",
+         "Fernando Rey",
+         "Jason Miller",
+         "Adolfo Celi",
+         "Leonardo Cimino",
+         "Tomás Milián",
+         "Robert Prosky",
+         "Joe Pantoliano",
+         "Milena Vukotic",
+         "Ian Danby",
+         "Harrison Muller Jr.",
+         "David Mills",
+         "Joe Cortese",
+         "Gregory Snegoff",
+         "Joe Spinell"
+      ],
+      "imdbMovieId": "0084351",
+      "originalTitle": "Monsignor",
+      "genres": [
+         "Crime",
+         "Drama",
+         "War"
+      ],
+      "youtubeTrailerIds": ["XXpYOTSe6Us"],
+      "plotSummary": "The vows of an ambitious young American priest are tested during World War II. Not only does Father John Flaherty get involved with the black market to raise money for the Vatican, he also falls in love with a young French nun.",
+      "tmdbMovieId": 124963,
+      "avgRating": 2.64286,
+      "releaseYear": "1982",
+      "numRatings": 28,
+      "posterPath": "/cZo4nPw6nJDcaFu0inyR0lv1meU.jpg"
+   }
+}

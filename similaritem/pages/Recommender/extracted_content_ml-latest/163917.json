@@ -1,0 +1,560 @@
+{
+   "tmdb": {
+      "original_language": "pt",
+      "keywords": [
+         {
+            "name": "portugal",
+            "id": 324
+         },
+         {
+            "name": "debt",
+            "id": 11061
+         }
+      ],
+      "imdb_id": "tt4895668",
+      "video": false,
+      "title": "Saint George",
+      "recommendations": [],
+      "backdrop_path": "/cViw5Sta2wsVpsUCbfygaNU0wNQ.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 22,
+               "character": "Jorge",
+               "gender": 2,
+               "credit_id": "59b918e99251417e03011197",
+               "name": "Nuno Lopes",
+               "profile_path": "/mM4d814VPIGxdYg7Q2BJRracSc8.jpg",
+               "id": 147100,
+               "order": 0
+            },
+            {
+               "cast_id": 1,
+               "character": "Teresa",
+               "gender": 1,
+               "credit_id": "57c0f2fdc3a36833a2000943",
+               "name": "Beatriz Batarda",
+               "profile_path": "/wagJGtKYXxzdmcBeZwIaDrm3oac.jpg",
+               "id": 71283,
+               "order": 1
+            },
+            {
+               "cast_id": 2,
+               "character": "Albano",
+               "gender": 2,
+               "credit_id": "57c0f2fec3a36873260068a9",
+               "name": "Jean-Pierre Martins",
+               "profile_path": "/8CVxOa0ZdDHfY5Tkug0l7X3akLD.jpg",
+               "id": 82188,
+               "order": 2
+            },
+            {
+               "cast_id": 3,
+               "character": "Chef Cardoso",
+               "gender": 0,
+               "credit_id": "57c0f2fe9251411538001b81",
+               "name": "Gonçalo Waddington",
+               "profile_path": "/toJhRTb7I5cHSq062kHkpbL0glU.jpg",
+               "id": 147102,
+               "order": 3
+            },
+            {
+               "cast_id": 4,
+               "character": "Susana",
+               "gender": 0,
+               "credit_id": "57c0f2fec3a36879f0001e96",
+               "name": "Mariana Nunes",
+               "profile_path": "/3CCKde36tHPOCEw868aEWxAciz5.jpg",
+               "id": 1469716,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Vitinho",
+               "gender": 0,
+               "credit_id": "57c0f2ffc3a36879f0001e98",
+               "name": "José Raposo",
+               "profile_path": "/2smaAc9ePmPOXWHIOokhF96cZQ5.jpg",
+               "id": 128450,
+               "order": 5
+            },
+            {
+               "cast_id": 27,
+               "character": "Mauro",
+               "gender": 0,
+               "credit_id": "59b919709251417e0301121d",
+               "name": "Ricardo Fernandes",
+               "profile_path": "/6Vij8jyxnKAjW5nGAkUvFtNshk0.jpg",
+               "id": 1859562,
+               "order": 6
+            },
+            {
+               "cast_id": 10,
+               "character": "Nelson",
+               "gender": 0,
+               "credit_id": "57c0f300c3a36879f0001e9d",
+               "name": "David Semedo",
+               "profile_path": null,
+               "id": 1670793,
+               "order": 7
+            },
+            {
+               "cast_id": 23,
+               "character": "Paulo",
+               "gender": 0,
+               "credit_id": "59b91913c3a368137e00ffc9",
+               "name": "Paulo Seco",
+               "profile_path": null,
+               "id": 1887255,
+               "order": 8
+            },
+            {
+               "cast_id": 24,
+               "character": "Salvador",
+               "gender": 0,
+               "credit_id": "59b919229251417df8011880",
+               "name": "Salvador Santos",
+               "profile_path": null,
+               "id": 1887256,
+               "order": 9
+            },
+            {
+               "cast_id": 25,
+               "character": "Ana",
+               "gender": 0,
+               "credit_id": "59b9193a9251417e650112de",
+               "name": "Ana Gonçalves",
+               "profile_path": null,
+               "id": 1887258,
+               "order": 10
+            },
+            {
+               "cast_id": 26,
+               "character": "Fátima",
+               "gender": 0,
+               "credit_id": "59b91944c3a3681350012e2b",
+               "name": "Fátima Inocêncio",
+               "profile_path": null,
+               "id": 1887260,
+               "order": 11
+            },
+            {
+               "cast_id": 28,
+               "character": "Valter",
+               "gender": 0,
+               "credit_id": "59b9197a9251417e23010af6",
+               "name": "Rodrigo Almeida",
+               "profile_path": null,
+               "id": 1394363,
+               "order": 12
+            },
+            {
+               "cast_id": 29,
+               "character": "Empregada Cardoso 1",
+               "gender": 0,
+               "credit_id": "59b919aa9251417e52010a1e",
+               "name": "Maria Leite",
+               "profile_path": "/eF2hX1ryYHuMa6mGMOIPSJ99CK9.jpg",
+               "id": 1170004,
+               "order": 13
+            },
+            {
+               "cast_id": 9,
+               "character": "Empregada Cardoso 2",
+               "gender": 0,
+               "credit_id": "57c0f3009251411500001bcb",
+               "name": "Teresa Coutinho",
+               "profile_path": null,
+               "id": 1670792,
+               "order": 14
+            },
+            {
+               "cast_id": 31,
+               "character": "Conceição",
+               "gender": 0,
+               "credit_id": "59b919c5c3a36813bc0118be",
+               "name": "Maria da Conceição",
+               "profile_path": null,
+               "id": 1887261,
+               "order": 15
+            },
+            {
+               "cast_id": 32,
+               "character": "Paulo",
+               "gender": 0,
+               "credit_id": "59b919d89251417e52010a4a",
+               "name": "Paulo Afonso",
+               "profile_path": null,
+               "id": 1887262,
+               "order": 16
+            },
+            {
+               "cast_id": 33,
+               "character": "Sousa",
+               "gender": 2,
+               "credit_id": "59b919e69251417e23010b46",
+               "name": "Adriano Luz",
+               "profile_path": "/xF7QIAlLaCBnUDVsjb4m26MVvvp.jpg",
+               "id": 116597,
+               "order": 17
+            },
+            {
+               "cast_id": 34,
+               "character": "Mulher do Credor",
+               "gender": 0,
+               "credit_id": "59b919ef9251417e5d010c26",
+               "name": "Luísa Cruz",
+               "profile_path": null,
+               "id": 1348991,
+               "order": 18
+            },
+            {
+               "cast_id": 35,
+               "character": "Carlos",
+               "gender": 0,
+               "credit_id": "59b919f89251417e23010b52",
+               "name": "Ivo Alexandre",
+               "profile_path": "/aPFiPAAX8TsK0CTYQKuU4gAJscI.jpg",
+               "id": 1571575,
+               "order": 19
+            },
+            {
+               "cast_id": 36,
+               "character": "Luís",
+               "gender": 0,
+               "credit_id": "59b91a099251417df801191e",
+               "name": "Luís Sá Alonso",
+               "profile_path": null,
+               "id": 1887263,
+               "order": 20
+            },
+            {
+               "cast_id": 37,
+               "character": "Irmã de Susana",
+               "gender": 0,
+               "credit_id": "59b91a1c9251417e65011378",
+               "name": "Lígia Kellermann",
+               "profile_path": null,
+               "id": 1887264,
+               "order": 21
+            },
+            {
+               "cast_id": 30,
+               "character": "Homem dos Frangos",
+               "gender": 0,
+               "credit_id": "59b919b5c3a368140501132a",
+               "name": "João Nobre",
+               "profile_path": null,
+               "id": 1869769,
+               "order": 22
+            },
+            {
+               "cast_id": 38,
+               "character": "Diretor da Fábrica",
+               "gender": 0,
+               "credit_id": "59b91a2ec3a36813bc01190f",
+               "name": "António Ferreira de Carvalho",
+               "profile_path": null,
+               "id": 1887265,
+               "order": 23
+            },
+            {
+               "cast_id": 39,
+               "character": "Segurança de discoteca",
+               "gender": 0,
+               "credit_id": "59b91a3f9251417e080111b5",
+               "name": "Jack Ilco",
+               "profile_path": null,
+               "id": 1887266,
+               "order": 24
+            },
+            {
+               "cast_id": 40,
+               "character": "Rui de Carvalho",
+               "gender": 0,
+               "credit_id": "59b91a519251417e23010ba6",
+               "name": "Rui de Carvalho",
+               "profile_path": null,
+               "id": 1887267,
+               "order": 25
+            },
+            {
+               "cast_id": 7,
+               "character": "",
+               "gender": 0,
+               "credit_id": "57c0f2ffc3a36873260068ad",
+               "name": "Carla Maciel",
+               "profile_path": "/5JbFItUus8jpYheABRsRUgJZfT7.jpg",
+               "id": 147103,
+               "order": 26
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "57bee8da9251413d80005295",
+               "name": "Marco Martins",
+               "profile_path": "/xnL0jpUQNj6TwW2iQQHwt5gbH20.jpg",
+               "id": 147112,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57c0f329c3a36873260068db",
+               "name": "Marco Martins",
+               "profile_path": "/xnL0jpUQNj6TwW2iQQHwt5gbH20.jpg",
+               "id": 147112,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57c0f332925141703300254a",
+               "name": "Ricardo Adolfo",
+               "profile_path": null,
+               "id": 1670794,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57c0f3499251417033002561",
+               "name": "Hugo Leitão",
+               "profile_path": null,
+               "id": 1159103,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57c0f34f9251413ffe0008ef",
+               "name": "Nuno Malo",
+               "profile_path": null,
+               "id": 986354,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57c0f3549251411538001bd7",
+               "name": "Rafael Toral",
+               "profile_path": null,
+               "id": 1670795,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "598b9dd1c3a3687386000851",
+               "name": "François d'Artemare",
+               "profile_path": null,
+               "id": 213287,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "598b9dd8c3a36873430008f1",
+               "name": "Maria João Mayer",
+               "profile_path": null,
+               "id": 213288,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "598b9de59251410801000866",
+               "name": "Carlos Lopes",
+               "profile_path": null,
+               "id": 1866983,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "598b9df39251410801000884",
+               "name": "Mariana Gaivão",
+               "profile_path": null,
+               "id": 1166278,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "598b9e01c3a368736c00090e",
+               "name": "Hugo Leitão",
+               "profile_path": null,
+               "id": 1159103,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "598b9e0f92514107fa0008ba",
+               "name": "Olivier Blanc",
+               "profile_path": null,
+               "id": 1865184,
+               "department": "Sound",
+               "job": "Sound Designer"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Drama",
+         "id": 18
+      }],
+      "popularity": 0.619218,
+      "production_countries": [
+         {
+            "iso_3166_1": "PT",
+            "name": "Portugal"
+         },
+         {
+            "iso_3166_1": "FR",
+            "name": "France"
+         }
+      ],
+      "id": 412660,
+      "vote_count": 6,
+      "budget": 0,
+      "overview": "In 2011 Portugal began the so-called \"year of the Troika\" (EU, IMF and ECB budget cuts and economic restructuring), with the level of debt among the Portuguese people reaching staggering amounts and a growing number of families and companies unable to repay their installment loans. Jorge is an unemployed boxer on the verge of losing his son and his wife, who has decided to return to Brazil. As a means of paying off his debt and persuading his wife to remain in Portugal, Jorge accepts a job with a debt-collection agency, which will drag him into a world of violence and crime.",
+      "similar": [
+         44639,
+         318846,
+         927,
+         210860,
+         59861,
+         184125,
+         50839,
+         8012,
+         3175,
+         22074,
+         16,
+         21407,
+         1075,
+         276,
+         164251,
+         283235,
+         2575,
+         13020,
+         11328,
+         352208
+      ],
+      "original_title": "São Jorge",
+      "runtime": 112,
+      "poster_path": "/hPrccfqOfB36XHpw3NTY8XMgWIK.jpg",
+      "spoken_languages": [{
+         "name": "Português",
+         "iso_639_1": "pt"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Les Films de l'Après-Midi",
+            "id": 16584,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Filmes do Tejo",
+            "id": 16450,
+            "origin_country": "PT"
+         }
+      ],
+      "release_date": "2016-08-31",
+      "vote_average": 6.8,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Portugal",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Marco Martins"],
+      "runtime": 112,
+      "synopsis": null,
+      "writers": [
+         "Ricardo Adolfo",
+         "Marco Martins"
+      ],
+      "originalLanguage": "Portuguese",
+      "imdbLink": "http://www.imdb.com/title/tt4895668/",
+      "coverLink": null,
+      "actors": [
+         "Nuno Lopes",
+         "Mariana Nunes",
+         "David Semedo"
+      ],
+      "reviews": [
+         "The focus of the film is about collection agencies that legally buy debts long considered by frustrated creditors as unrecoupable. The audience gets to witness Jorge, a fighter who is a part of a three-man team making rounds to collect payments for such debts. The issue of abuse by these unscrupulous companies has been explored in numerous news programs and specials detailing the shady tactics employed to force money out of those debtors whether be it through shaming, intimidation, coercion, etc. All of which are shown in this film. But it gets way trickier once these people starts to deal with businesses who are trying their best to stay solvent, few remaining companies providing employment for locals when most of the jobs in the country have already gone overseas. Not even Jorge's calloused fists and brawny arms guarantees them from being able to squeeze money out of these desperate people. This is where Jorge's commitment as a hired muscle will be tested, with his career as a prize boxer already nearing its end, his need to be more thicker-skinned to cling on to his loathsome job is his only hope in to be able to move out living with his domineering father, though very supportive in his dedication for his chosen sport, has a strained if not a hostile relationship with his son Nelson and Nelson's black Brazilian mother Susana. Nuno Lopes gave an invigorating performance despite the film's formulaic struggling- boxer-living-in-a-working-class-neighborhood storyline. Quite a revelation actually how he managed to convey consistently the swagger that one comes to expect of a slugger yet demonstrate that tenderness and vulnerability whenever the character is seen bonding with his son or the son's mother. He also exudes that reserved charm in intimate moments and playful spirit that emerges discretely when he thinks no one is looking. Equally engaging, the scenes at the gym where the character portrays that intense devotion to a boxing training regimen which ultimately rewards him with a well-sculpted physique. And by George, what a bod, a sight that the viewer gets to gawk and admire that's so suffocatingly close that we can even hear his whisperings whenever he does those morning rituals as he amps himself up for the day he has yet to face. My rating: A-minus.",
+         "So shame, this film from Portugual is a social and realistic feature, but unfortunately a pure drama and not a crime film, as we could expect when we see the main male characters, played by actors who look like hoodlums. Only firearms miss here. This could have been a masterpiece of film noir, but it remains only a social drama depicting the social collapse that stroke the country in 2011, when millions of people were in total bankrupt and became the victims of loan sharks. Ruthless men who received the authorization of the government, to use the most disgusting methods to pressure poor people like lemons. The main character is outstanding as a lost soul trying to make it. Although this is a cliché, it is very well done anyway.",
+         "Afterall the portuguese cinema have a chance if they want... the problem is always the same: our government doesn't care about art and in this case about cinema! it's really rare to have a good portuguese movie and this one is. A shame that few people went to the cinema to see this one and to show everyone that is possible to do great cinema and to have audience! Another problem is that the portuguese people only goes to the cinema to see portuguese movies only when the movies are shit with some dirty jokes... Nuno Lopes is great here and almost everthing he does since comic days he wes great. I hope to see him more often at the big screens and also hope that the portuguese press give him what he deserves! Obrigado!"
+      ],
+      "genres": ["Drama"],
+      "productionCompanies": [
+         "Filmes do Tejo",
+         "Les Films de l'Après-Midi"
+      ],
+      "summaries": [
+         "In 2011 Portugal began the so-called \"year of the Troika\" (EU, IMF and ECB budget cuts and economic restructuring), with the level of debt among the Portuguese people reaching staggering amounts and a growing number of families and companies unable to repay their installment loans. Jorge is an unemployed boxer on the verge of losing his son and his wife, who has decided to return to Brazil. As a means of paying off his debt and persuading his wife to remain in Portugal, Jorge accepts a job with a debt-collection agency, which will drag him into a world of violence and crime.",
+         "An unemployed boxer turned collection agency employee deals with the deplorable methods they have to use when collecting bad debts."
+      ],
+      "budget": 0
+   },
+   "movielensId": 163917,
+   "movielens": {
+      "languages": ["Português"],
+      "releaseDate": "2016-08-31",
+      "dvdReleaseDate": null,
+      "directors": ["Marco Martins"],
+      "runtime": 112,
+      "movieId": 163917,
+      "title": "Saint George",
+      "mpaa": null,
+      "actors": [
+         "Nuno Lopes",
+         "Beatriz Batarda",
+         "Jean-Pierre Martins",
+         "Gonçalo Waddington",
+         "Mariana Nunes",
+         "José Raposo",
+         "Ricardo Fernandes",
+         "David Semedo",
+         "Paulo Seco",
+         "Salvador Santos",
+         "Ana Gonçalves",
+         "Fátima Inocêncio",
+         "Rodrigo Almeida",
+         "Maria Leite",
+         "Teresa Coutinho",
+         "Maria da Conceição",
+         "Paulo Afonso",
+         "Adriano Luz",
+         "Luísa Cruz",
+         "Ivo Alexandre",
+         "Luís Sá Alonso",
+         "Lígia Kellermann",
+         "João Nobre",
+         "António Ferreira de Carvalho",
+         "Jack Ilco",
+         "Rui de Carvalho",
+         "Carla Maciel"
+      ],
+      "imdbMovieId": "4895668",
+      "originalTitle": "São Jorge",
+      "genres": ["Drama"],
+      "youtubeTrailerIds": [],
+      "plotSummary": "In 2011 Portugal began the so-called \"year of the Troika\" (EU, IMF and ECB budget cuts and economic restructuring), with the level of debt among the Portuguese people reaching staggering amounts and a growing number of families and companies unable to repay their installment loans. Jorge is an unemployed boxer on the verge of losing his son and his wife, who has decided to return to Brazil. As a means of paying off his debt and persuading his wife to remain in Portugal, Jorge accepts a job with a debt-collection agency, which will drag him into a world of violence and crime.",
+      "tmdbMovieId": 412660,
+      "avgRating": 3.5,
+      "releaseYear": "2016",
+      "numRatings": 2,
+      "posterPath": "/hPrccfqOfB36XHpw3NTY8XMgWIK.jpg"
+   }
+}

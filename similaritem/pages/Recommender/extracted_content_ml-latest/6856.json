@@ -1,0 +1,592 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "dancer",
+            "id": 733
+         },
+         {
+            "name": "musical",
+            "id": 4344
+         },
+         {
+            "name": "song",
+            "id": 4528
+         },
+         {
+            "name": "comeback",
+            "id": 4610
+         },
+         {
+            "name": "biography",
+            "id": 5565
+         },
+         {
+            "name": "singer",
+            "id": 10229
+         },
+         {
+            "name": "vaudeville",
+            "id": 157768
+         },
+         {
+            "name": "actor",
+            "id": 207716
+         },
+         {
+            "name": "early 1900s",
+            "id": 236170
+         }
+      ],
+      "imdb_id": "tt0035575",
+      "video": false,
+      "title": "Yankee Doodle Dandy",
+      "recommendations": [
+         17687,
+         15794,
+         16305,
+         13696,
+         911,
+         25430,
+         965,
+         12311,
+         22692,
+         976,
+         13562,
+         31507,
+         37698,
+         27725,
+         25431,
+         17661,
+         3110,
+         3086,
+         3309,
+         887
+      ],
+      "backdrop_path": "/58BOLbf2ShjhVVtT7twnUEeangh.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 13,
+               "character": "George M. Cohan",
+               "gender": 2,
+               "credit_id": "52fe4384c3a36847f805a323",
+               "name": "James Cagney",
+               "profile_path": "/ltNtoIKkh6zjjLxPTkw8EKYiQPi.jpg",
+               "id": 5788,
+               "order": 0
+            },
+            {
+               "cast_id": 14,
+               "character": "Mary",
+               "gender": 1,
+               "credit_id": "52fe4384c3a36847f805a327",
+               "name": "Joan Leslie",
+               "profile_path": "/wqfbgTylKvqgOXVSRohrFlgFcqk.jpg",
+               "id": 30269,
+               "order": 1
+            },
+            {
+               "cast_id": 15,
+               "character": "Jerry Cohan",
+               "gender": 2,
+               "credit_id": "52fe4384c3a36847f805a32b",
+               "name": "Walter Huston",
+               "profile_path": "/17N08QrQ6Am3hQD5noz5zozGaFH.jpg",
+               "id": 19020,
+               "order": 2
+            },
+            {
+               "cast_id": 16,
+               "character": "Sam Harris",
+               "gender": 2,
+               "credit_id": "52fe4384c3a36847f805a32f",
+               "name": "Richard Whorf",
+               "profile_path": "/oCjbNvFrU3ErnYihEITHnv3IBeR.jpg",
+               "id": 30270,
+               "order": 3
+            },
+            {
+               "cast_id": 17,
+               "character": "Fay Templeton",
+               "gender": 1,
+               "credit_id": "52fe4384c3a36847f805a333",
+               "name": "Irene Manning",
+               "profile_path": "/2Jd3p0KxM7C6BmtWIQO9sayZBkF.jpg",
+               "id": 30271,
+               "order": 4
+            },
+            {
+               "cast_id": 18,
+               "character": "Dietz",
+               "gender": 2,
+               "credit_id": "52fe4384c3a36847f805a337",
+               "name": "George Tobias",
+               "profile_path": "/bD6dAPyuZd3QSyst8b0CtEFe7Dp.jpg",
+               "id": 30272,
+               "order": 5
+            },
+            {
+               "cast_id": 19,
+               "character": "Nellie Cohan",
+               "gender": 1,
+               "credit_id": "52fe4384c3a36847f805a33b",
+               "name": "Rosemary DeCamp",
+               "profile_path": "/tVOdH79ocS1FGcmvUAfi32il66d.jpg",
+               "id": 30273,
+               "order": 6
+            },
+            {
+               "cast_id": 20,
+               "character": "Josie Cohan",
+               "gender": 0,
+               "credit_id": "52fe4384c3a36847f805a33f",
+               "name": "Jeanne Cagney",
+               "profile_path": "/hVVWxHftKjYUBcjRR8PlNVSnZ3G.jpg",
+               "id": 30274,
+               "order": 7
+            },
+            {
+               "cast_id": 21,
+               "character": "Singer",
+               "gender": 1,
+               "credit_id": "52fe4384c3a36847f805a343",
+               "name": "Frances Langford",
+               "profile_path": "/3LpOzWsxaU0ocWsoUG50MtScdHb.jpg",
+               "id": 30275,
+               "order": 8
+            },
+            {
+               "cast_id": 22,
+               "character": "Erlanger",
+               "gender": 2,
+               "credit_id": "52fe4384c3a36847f805a347",
+               "name": "George Barbier",
+               "profile_path": "/tu988TdkoHrhR61HPPQPdUP8QYp.jpg",
+               "id": 30276,
+               "order": 9
+            },
+            {
+               "cast_id": 23,
+               "character": "Theatre Manager",
+               "gender": 2,
+               "credit_id": "52fe4384c3a36847f805a34b",
+               "name": "Walter Catlett",
+               "profile_path": "/Y5kIRVTNaKuMy8DyrFDP1kwOub.jpg",
+               "id": 13819,
+               "order": 10
+            },
+            {
+               "cast_id": 24,
+               "character": "George M. Cohan, as a boy of 13",
+               "gender": 2,
+               "credit_id": "52fe4384c3a36847f805a34f",
+               "name": "Douglas Croft",
+               "profile_path": "/uJNJ5IeTA5cs1y0N8x0mjf0MshV.jpg",
+               "id": 30277,
+               "order": 11
+            },
+            {
+               "cast_id": 25,
+               "character": "Eddie Foy",
+               "gender": 0,
+               "credit_id": "52fe4384c3a36847f805a353",
+               "name": "Eddie Foy Jr.",
+               "profile_path": "/o8ydEPgEfdc913AdyPDkXRx5lQ0.jpg",
+               "id": 30278,
+               "order": 12
+            },
+            {
+               "cast_id": 26,
+               "character": "Albee",
+               "gender": 2,
+               "credit_id": "52fe4384c3a36847f805a357",
+               "name": "Minor Watson",
+               "profile_path": "/1t0VRIa8oykSFS3WXcMfCCOCakH.jpg",
+               "id": 30279,
+               "order": 13
+            },
+            {
+               "cast_id": 27,
+               "character": "Goff",
+               "gender": 2,
+               "credit_id": "52fe4384c3a36847f805a35b",
+               "name": "Chester Clute",
+               "profile_path": "/9ZlAACiCnepfZS0dTAqqkdqWGse.jpg",
+               "id": 30280,
+               "order": 14
+            },
+            {
+               "cast_id": 28,
+               "character": "Madame Bartholdi",
+               "gender": 1,
+               "credit_id": "52fe4384c3a36847f805a35f",
+               "name": "Odette Myrtil",
+               "profile_path": "/stZzVQg97ZLlDrfT88y4LeJwKRk.jpg",
+               "id": 30281,
+               "order": 15
+            },
+            {
+               "cast_id": 29,
+               "character": "Josie Cohan, as a girl of 12",
+               "gender": 0,
+               "credit_id": "52fe4384c3a36847f805a363",
+               "name": "Patsy Parsons",
+               "profile_path": "/wFj3GE22uIBPLJYoQX5vL24cqXq.jpg",
+               "id": 30282,
+               "order": 16
+            },
+            {
+               "cast_id": 31,
+               "character": "Schwab",
+               "gender": 2,
+               "credit_id": "52fe4384c3a36847f805a36b",
+               "name": "S.Z. Sakall",
+               "profile_path": "/jBp6orDZiX5ay9tyaHQOpcFJAqd.jpg",
+               "id": 94110,
+               "order": 18
+            },
+            {
+               "cast_id": 32,
+               "character": "The President",
+               "gender": 0,
+               "credit_id": "54634c580e0a26780d001ed2",
+               "name": "Jack Young",
+               "profile_path": null,
+               "id": 1384809,
+               "order": 19
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4384c3a36847f805a2dd",
+               "name": "Michael Curtiz",
+               "profile_path": "/3rQXKSKx1IV7Lg9LwPaJicQdAkC.jpg",
+               "id": 4109,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4384c3a36847f805a2e3",
+               "name": "Robert Buckner",
+               "profile_path": null,
+               "id": 20371,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4384c3a36847f805a2e9",
+               "name": "Edmund Joseph",
+               "profile_path": null,
+               "id": 30265,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4384c3a36847f805a2ef",
+               "name": "Julius J. Epstein",
+               "profile_path": null,
+               "id": 2665,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4384c3a36847f805a2f5",
+               "name": "Philip G. Epstein",
+               "profile_path": null,
+               "id": 2666,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4384c3a36847f805a2fb",
+               "name": "William Cagney",
+               "profile_path": null,
+               "id": 30266,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4384c3a36847f805a301",
+               "name": "Hal B. Wallis",
+               "profile_path": null,
+               "id": 4123,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4384c3a36847f805a307",
+               "name": "Jack Warner",
+               "profile_path": "/I8UijyhvGPOaeiPTmxgcYCa8td.jpg",
+               "id": 2663,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4384c3a36847f805a319",
+               "name": "James Wong Howe",
+               "profile_path": "/rbAffvKfJYrfLCuuYPzXKSSyU6t.jpg",
+               "id": 14569,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4384c3a36847f805a31f",
+               "name": "George Amy",
+               "profile_path": null,
+               "id": 18800,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "563401d69251412857015c61",
+               "name": "Milo Anderson",
+               "profile_path": null,
+               "id": 8717,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "563401df9251416d520080c9",
+               "name": "Perc Westmore",
+               "profile_path": null,
+               "id": 4128,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563401e89251414ad8013e96",
+               "name": "Martha Acker",
+               "profile_path": null,
+               "id": 1529483,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "563401f0c3a3681b4d017fb6",
+               "name": "Bill Cooley",
+               "profile_path": null,
+               "id": 1350163,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5634020f92514129fe00871a",
+               "name": "Ruby Felker",
+               "profile_path": null,
+               "id": 1100324,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5634021a9251412857015c6d",
+               "name": "Everett Alton Brown",
+               "profile_path": null,
+               "id": 1002528,
+               "department": "Crew",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5634022ec3a3681b4d017fba",
+               "name": "LeRoy Prinz",
+               "profile_path": null,
+               "id": 1007702,
+               "department": "Crew",
+               "job": "Choreographer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5726bf5ac3a3685871001654",
+               "name": "Heinz Roemheld",
+               "profile_path": null,
+               "id": 30268,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5726bf649251416ef7000882",
+               "name": "Ray Heindorf",
+               "profile_path": null,
+               "id": 30267,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5849b132c3a3681411015aa3",
+               "name": "Bill Phillips",
+               "profile_path": null,
+               "id": 1614002,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Music",
+            "id": 10402
+         }
+      ],
+      "popularity": 4.336524,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 3087,
+      "vote_count": 63,
+      "budget": 0,
+      "overview": "A film of the life of the renowned musical composer, playwright, actor, dancer and singer George M. Cohan.",
+      "similar": [
+         31900,
+         1407,
+         10530,
+         11202,
+         316029,
+         323677,
+         21468,
+         402529,
+         10537,
+         2005,
+         75900,
+         921,
+         88794,
+         407655,
+         36950,
+         1883,
+         85373,
+         18126,
+         1792,
+         15157
+      ],
+      "original_title": "Yankee Doodle Dandy",
+      "runtime": 126,
+      "poster_path": "/cqLLIyJFjLr6jGOxWVEHG11WGzB.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/6rFNo5taSC9i0Sxnl81nucQMsw9.png",
+         "name": "Warner Bros. Pictures",
+         "id": 174,
+         "origin_country": "US"
+      }],
+      "release_date": "1942-06-06",
+      "vote_average": 7.3,
+      "belongs_to_collection": null,
+      "tagline": "Get ready to Laugh, to Sing, to Shout! ...For here comes Uncle Sam's Star Spangled Yankee Doodle Dandy!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Black and White",
+      "budgetCurrency": null,
+      "directors": ["Michael Curtiz"],
+      "runtime": 126,
+      "synopsis": null,
+      "writers": [
+         "Robert Buckner",
+         "Edmund Joseph"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0035575/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTY4NDA4NjE1Ml5BMl5BanBnXkFtZTcwODM2ODA2Mw@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: James Cagney, Joan Leslie, Walter Huston | See full cast and crew »"],
+      "reviews": [
+         "There are many, many James Cagney films that show his enormous talent as an actor. He was equally at home in musicals, dramas and comedies. While I have always been a fan and appreciate his unusual scope, this movie in particular caught my eye and totally blew me away when the scene I'm about to describe unfolded. Near the very end of the film Cagney's character (George M. Cohan) bids farewell to the President and leaves the room. There is a long, open staircase he starts walking down. As he walks you sense a bit of a bounce beginning to take over his step.....one that quickly gives way to an awesome dance as he navigates the stairway. Many will not note, but this dance was a fantastic achievement on two fronts. One, it was done in one \"take\"...that is, the camera never stopped; the scene never \"cut.\" The camera stays with him in one shot all the way through. Second, Mr. Cagney never ONCE looks at his feet or down at the steps. It's almost impossible to WALK down a staircase without looking down or hanging on to a banister....this man DANCED down a staircase without benefit of seeing or touching anything. Couple this feat with the brilliant display of \"hoofing\" he gives earlier in the film when he literally dances up the walls and you have a movie that deserves its \"classic\" rating. If you haven't seen it please make it a point to do so. Any movie that is awe inspiring 62 years later must be worth a peek, don't you agree?",
+         "James Cagney recalls in his autobiography that this movie was his favorite, largely due to his love of dancing. He was one of the great \"tough guys\" of all time on film, but dancing was his passion, he noted. It shows here. This was \"a labor of love,\" to use a cliché, and it's obvious how much fun he was having in this film. His hoofing talent also was obvious. He was good, very good. In fact, for the audience, most of this movie is pure \"feel good.\" Almost all the characters are nice people, the story is inspirational and nicely patriotic and the songs are fantastic. If you pick up the two-disc special-edition DVD that came out several years ago, then you'll see this film in all it's glory. The transfer is magnificent and really brings out the great cinematography. I never realized how beautifully filmed this was until I saw this on DVD. The story is simply the biography of George M. Cohan, the writer and Broadway star of many, many hit plays and hit songs. Unlike today's biographies, this is a very positive story about a man who brought patriotism alive during World War I with such inspirational songs as \"It's A Grand Old Flag\" and \"Over There.\" For some of us, listening to these songs can bring a tear or two. Cagney is his normal riveting self and Joan Leslie certainly makes an appealing female lead as Cohan's wife. The great Walter Huston plays Cohan's father. I've always found Huston to be an actor of great presence. In this movie is a very, very touching deathbed scene with he and Cagney. So you have a little bit of everything here from drama to romance to comedy to music and Cagney is the glue to fits it all together beautifully. One of the great classic films of all time.",
+         "`Yankee Doodle Dandy' makes the viewer say, `They don't make them like that anymore.' The film is uplifting for its espousal of unabashed patriotism and its representation of America as a place in which a gifted performer like George M. Cohan could rise from vaudeville to Broadway. It is also moving for its reverence for the nineteenth late century theatre and early twentieth century Broadway: the sequence showing Cohan's successes of the 1920s commemorate the other musical and non musical hits of the decade as much as Cohan's. I was moved to tears by the ending showing the elderly Cohan joining in a World War II parade, a group of soldiers marching to `Over There' and being asked why he isn't singing, `Hey old-timer, don't you know this song?' `Yankee Doodle Dandy' is a celebration of Cohan's life and career -- a little sanitised perhaps, but still portraying his love for his family, his profession and his country. It isn't a museum piece but more of a picture from another era \u0096 and in a time when America is honoured by songs such as `Kick Ass USA' it's a valuable reminder of an age when people feeling their country under threat roused their nationalism by reminding themselves of what made them want to fight for it.",
+         "YANKEE DOODLE DANDY (Warner Brothers, 1942), directed by Michael Curtiz, is an autobiographical musical of a legendary Broadway showman, composer, actor and dancer, George M. Cohan (1878-1942), as played by James Cagney in what's been reported as his personal favorite of all movie roles, and it's easy to see why. In spite the fact that Cagney won his only Academy Award as best actor, he was letter perfect in the role as Cohan. Interesting to see a noted movie tough guy singing and dancing, but it's even more-so in watching Walter Huston as Cohan's father doing a song and dance himself. The story opens with the middle-aged Cohan (James Cagney), following a comical musical performance in \"I'd Rather Be Right\" in which he plays and spoofs the president (Franklin D. Roosevelt). He gets a telegram from the president himself to meet with him at the White House. Believing the worst, he arrives to meet \"with the head man.\" Alone with him in the Oval Office, the two men converse which leads to Cohan to soon be relating his life story via flashback starting with his birth (born on the 4th of July), as the son of stage entertainers, Jerry and Nellie Cohan (Walter Huston and Rosemary DeCamp), followed by his boyhood days as the star of \"Peck's Bad Boy\" (Douglas Croft playing George at age 12), the teaming up with his younger sister, Josie (first played by JoAnn Marlowe, then by Patsy Lee Parsons, and by Jeanne Cagney as an adult) and his parents, forming the act called \"The Four Cohans,\" George leaving the family to form an act on his own, his association with a young hopeful named Mary (Joan Leslie), whom he eventually marries, the publication of his songs that make him world famous, the death of his parents, his retirement from the stage and his return to Broadway to appear in a play that has summoned him with an invitation from the president, and after nearly two hours of recollection, the story moves forward to present day with Cohan to find out why he was really asked to come to visit with the president. With a handful of song and dance tunes, many composed by Cohan himself, the soundtrack is as follows: \"The Dancing Master,\" \"The Dancing Master\" (reprise); \"Strolling Through the Park One Day\" (by Joe Goodwin and Gus Edwards); \"Minstrel Number,\" \"I Was Born in Virginia,\" \"The Warmest Baby in the Bunch,\" \"Harrigan,\" \"Yankee Doodle Dandy,\" \"Yankee Doodle Dandy,\" \"All Aboard for Old Broadway\" (by Jack Scholl and M.K. Jerome), \"Give My Regards to Broadway,\" \"Oh, You Wonderful Girl,\" \"Blue Skies, Grey Skies,\" \"The Barber's Ball,\" \"Mary,\" \"Forty-Five Minutes From Broadway,\" \"Mary\" (reprise); \"Forty-Five Minutes From Broadway,\" \"So Long, Mary,\" \"You're a Grand Old Flag,\" \"Battle Hymn of the Republic\" (by William Steffe and Julia Ward Howe); \"When Johnny Comes Marching Home,\" \"Of Thee I Sing,\" \"You're a Grand Old Flag,\" \"Come Along With Me,\" \"Over There,\" \"I'm Happy As Can Be,\" \"Love Nest\" (by Louis A. Hirsch and Otto Harbach); \"Little Nellie Kelly,\" \"The Man Who Owns Broadway,\" \"Molly Malone,\" \"Billie,\" \"Jeepers Creepers\" (by Johnny Mercer and Harry Warren); \"Off the Record\" and \"Over There.\" Of the songs listed above, several could have been chosen as alternate titles in regards to Cohan, including: \"Give My Regards to Broadway,\" \"Grand Old Flag,\" \"The Man Who Owns Broadway,\" or \"Off the Record,\" but the final selection became \"Yankee Doodle Dandy.\" While many of these songs are Broadway show tunes, the most memorable ones happen to be the patriotic songs, especially \"Grand Old Flag,\" \"Over There,\" and of course, the title tune. In the supporting cast are Irene Manning (Fay Templeton); Richard Wholf (Samuel H. Harris); George Tobias (Mr. Dietz); George Barbier (Claude Erlanger); S.Z. Sakall (Mr. Schwab); Eddie Foy Jr. (Eddie Foy); Minor Watson (Edward Albee); and Frances Langford credited as a singer, but actually Nora Bayes. Listed bottom in the cast is Captain Jack Young as The President, who, during the opening and closing segments, is only visible by a back-view depiction. YANKEE DOODLE DANDY started a new trend of bio-musicals that would become fashionable throughout the 1940s. As a movie, YANKEE DOODLE DANDY is a grand old musical that blends nostalgia of the past (early twentieth century, World War I) with patriotism of the 1940s. While very little is known of the real George M. Cohan today, the inaccuracies wouldn't really matter nor noticed. Cohan was actually married twice, but never to a girl named Mary. The screenplay, overall, fails to mention Cohan actually appeared in some motion pictures, one being THE PHANTOM PRESIDENT (Paramount, 1932) opposite Claudette Colbert. To watch that Cohan film is to see how close Cagney worked to impersonate him on screen. YANKEE DOODLE DANDY is true indication of Cagney not just as a movie tough guy, but his diversatility as an actor. Although the patriotism plays towards the World War II audience, much of Cohan's spirit of being an American continues to reflect upon the present generation. Full of memorable lines, YANKEE DOODLE DANDY's most noted happens to be Cohan's closing speech following a performance, \"My father thanks you, my mother thanks you, my sister thanks you, and I THANK YOU.\" Filmed with crisp black and white photography, YANKEE DOODLE DANDY did go through the process of colorization in the mid 1980s. While original Technicolor photography might have been its major asset, YANKEE DOODLE DANDY still ranks first rate entertainment for all ages, and one responsible in keeping the George M. Cohan name more alive today than ever before. Available on video cassette, DVD and through presentations on Turner Classic Movies. (**** flags)",
+         "Right from the start, I have to say you do not need to be an American to be caught up in the excitement of the blatant flag waving tribute to a great artist. \"Yankee Doodle Dandy\" made to boost morale after the U.S. entered the war surely would have achieved its goal. It would have been even better in Technicolor (not the coloured version later shown). The songs were great, the acting and the individual dancing style of James Cagney was superb and deserved the Oscar. The two scenes featuring \"Over There\" were very moving with Frances Langford a standout! The story, while bearing small resemblance to real life, was good and Walter Huston and Rosemary de Camp were excellent. When you see a film such as this some 60 years after its release, and still really enjoy it, it shows how the Golden Years of Hollywood were just that.",
+         "YANKEE DOODLE DANDY, the classic WB wartime musical, has delighted three generations of audiences with its unabashed patriotism, rousing songs, and, most of all, with the unmatched energy and talent of its Academy Award-winning star, James Cagney. The film was blessed with an impressive supporting cast, fabulous production values, and the perfect timing that graced several of the WB's biggest WWII hits. The subject of the film, George M. Cohan, was certainly a Broadway legend by the 1930s, having produced, directed, written and starred in a considerable array of successes for over 30 years. Son of vaudevillian parents, born on July 3, 1878 (always a genius of self-promotion, he gave the birthdate as July 4th, to enhance his 'Yankee Doodle' persona), he, and younger sister Josie, joined the parents to become the 'Four Cohans', and were a popular comedy/music act traveling the theater circuits of the late nineteenth century. Managing the family act by age 15 (his father concentrated on material, his mother had no head for business), Cohan throughout his life was prone to childish fits of temper, and was described by contemporaries as brash, headstrong...and undeniably gifted. From his first Broadway success (1904's 'Little Johnny Jones'), he had been determined to leave a legacy that would not be forgotten, and by 60, with his health beginning to decline, he concluded a film biography was the surest way to achieve immortality. He first approached Sam Goldwyn, a personal friend, to do the picture, but demanded creative control, and when his choice to play himself, Fred Astaire, turned down the role, Cohan backed out of the project. Jack Warner, however, had once 'done a turn' in vaudeville, and one of the lot's biggest stars, James Cagney, was looking for a patriotic role to offset the recent bad publicity he'd received (the liberal star had been accused of being a Communist, which he was cleared of). Warner was more than happy to take on the biography, and after viewing earlier Cagney musicals, Cohan agreed with the selection of leading man (Cagney had actually auditioned, once, for a Cohan play...and was rejected!) Cohan's colorful life had to be toned down, somewhat, for the screen (he had been married twice, and 'wholesome family films' did NOT portray divorce), so an amalgamation of both wives was created by screenwriter Robert Buckner, and named Mary (to capitalize on one of Cohan's most popular tunes). While the showman fretted that current wife Agnes might be offended, the second Mrs. Cohan was actually pleased (her middle name was Mary, she had started in the chorus line, and so she assumed the character Joan Leslie played WAS her!) Finally (after the Epstein brothers were called in to add their legendary comic touches to the screenplay), filming began...on December 8, 1941. Cast and crew listened to President Roosevelt's radio address about Pearl Harbor, Cagney led everyone in a prayer, and an unspoken goal was set, to make YANKEE DOODLE DANDY the most patriotic, inspiring film possible. Director Michael Curtiz, one of the WB's finest directors, channeled the fervor, and Cagney jumped into the role of Cohan, heart and soul. YANKEE DOODLE DANDY exceeded everyone's expectations. For a nation still reeling from Pearl Harbor and the Japanese advances in the Pacific, as well as Hitler's stranglehold of Europe, flag-waving was just the right medicine! The film was a huge hit, and was gratifying to Cohan (it is said that the day he died, November 5, 1942, he took a last stroll on Broadway, then joined the long line waiting to see his film biography, and watched James Cagney's unforgettable performance). While it is true that the film is a bit dated, it is still a grand entertainment, and is on the AFI's list of the '100 Greatest Films of the Twentieth Century'. George M. Cohan HAS achieved his immortality!",
+         "James Cagney won his only Oscar for his recreation of George M. Cohgan in Yankee Doodle Dandy. Already terminally ill, Cohan lived long enough to see the film and no doubt he would have approved of it because it sure is how he would like to have been remembered. In 1942 when Yankee Doodle Dandy premiered there was a whole generations of people left alive who saw George M. Cohan perform. Watching the film today Cohan is like a figure from antiquity. But Warner Brothers was lucky to have James Cagney with the studio who's dancing style closely paralleled Cohan's. If it is ever run on Turner Classic Movies, make sure you see George M. Cohan's sound film The Phantom President. You will be astonished to see how closely Cagney captured his style. In the same way that Philip Seymour Hoffman captured Truman Capote and Joaquin Phoenix became Johnny Cash. Cohan's contemporaries are also like names from antiquity. But a century ago when Cohan was just hitting the big time performers like Fay Templeton, Nora Bayes, and Eddie Foy were very big stars and in 1942 plenty of people saw them also. I wish we had some film of them to see how Irene Manning, Frances Langford, and Eddie Foy, Jr. did in their recreations. I'm sure Foy, Jr. did a smashing job with his Dad. The background stuff is true enough. Cohan was born to a pair of vaudeville performers Jerry and Nellie Cohan played here by Walter Huston and Rosemary DeCamp. Later on a sister was added to the Cohan family and here Josie Cohan is played by Jeanne Cagney. They did do all the towns, big and small, in America. Cagney meets wife Joan Leslie at Shea's Theater in Buffalo, New York and Shea's survives to this day. And his first real success was Little Johnny Jones which score included American classics, Yankee Doodle Dandy and Give My Regards to Broadway. What's left out is the fact Cohan had two wives. His second wife survived him and died in the early Seventies. As his songs became popular in patriotic/rightwing circles, Cohan's personal politics reflected that. He fought hard and lost in the battle for Actors Equity. Cohan thought a union of players was tantamount to Communism. But such was his standing among performers that Cohan was granted the unique privilege of being allowed to appear on stage without having to join Equity once the union was recognized as the bargaining agent for players. Cohan is shown in Yankee Doodle Dandy as gracefully having retired when other trends in popular music took over. Far from it, he was a very bitter man and when he did that final comeback in I'd Rather Be Right he fought with Kaufman and Hart over the book and Rodgers and Hart over the songs. But Yankee Doodle Dandy presents the public musical face of George M. Cohan and does it very well. To this day, some forty years after first seeing Yankee Doodle Dandy on television, I love the recreations of Yankee Doodle Dandy, Give My Regards to Broadway, and You're a Grand Old Flag as they were first seen on stage. Plus some of the snatches of the lesser known Cohan songs as performed by the players portraying the Cohan family and others. When all is said and done, George M. Cohan was a great force of nature in the American musical theater. And we thank his father, mother, and sister, and George M. himself for what he left us.",
+         "`It seems it always happens\u0085Whenever we get too high hat and sophisticated for flag-waving, some thug nation decides we're a pushover, all ready to be blackjacked. It's not long before we start looking up mighty anxiously to make sure the flag is still waving.' So says James Cagney, as George M. Cohan, at the time of the sinking of the Lusitania in 1915. Obviously, it's a sentiment that has great relevance to our time, as well. I've always wished I could dance a patriotic dance or march down the street waving the flag. It looks like a lot of fun. The trouble is, this sort of activity is often performed to suppress what America is really about. The really great thing about our country isn't songs, flags and marches. Any country can do those things. The real great thing is that we have the right to say what we think, to debate the issues of the day and to form a consensus for action when we are in agreement about what needs to be done. There was surely such a consensus when this film was made in 1942. There was little doubt about what needed to be done then. However, World War I seems now a particularly pointless conflict and the thought that smiling Frances Langford was singing soldiers into battle to who knows what fate is a little disturbing. And now, whenever there is a war, we are urged to join the parade and postpone debate until the issue is something not so important, like farm prices or college entrance requirements. It seems to me that the more important an issue is, the more we should be debating it. If people are going to die, we'd better make sure we are right. From that point of view, `Yankee Doodle Dandy' can seem almost offensive. But, of course it isn't. Is a charming example of one of the thing Old Hollywood did best- the romantic biography. In this George M. is an all-right guy, an enormous bundle of energy that intimidates the stuffed shirts but causes people of substance to fall in love with him. He has a wonderful family and one of those `perfect' Hollywood wives- Mary, who doesn't even wince when he gives the song he wrote for her to another actress. He has a loyal friend and partner in Jed Harris. For some reason he's childless but still gets a thrill from performing for his beloved audiences. And, when his country needs a shot in the arm, his enthusiastic songs provide it. Of course, he was married twice. His divorce from his first wife Ethel, was acrimonious and thus she doesn't appear in the story. `May' is a fictionalized version of his second wife Agnes. He had children but they also didn't make the cut because he was estranged from them at the time of the film. He was loathed by many of his profession for years before this because of his strong anti-union stance. His split with Jed Harris was not the gentle retirement we see here but was, at least in part because Harris had given in to the unions. And he himself loathed Franklin Roosevelt, refusing for four years to pick up the medal FDR and Congress had awarded him. Would it have been a better movie if these things were incorporated into the script? Probably not. Hollywood- and the nation at the time- was more concerned with the way things should have been than with the way they actually were. Cagney was surely a perfect choice to play Cohan, being an Irishman who enter show business as a song and dance man, (and always considered himself primarily that). His exuberant personality also mirrors that of Cohan, who was said not to be particularly great at anything but did everything with such enthusiasm that it didn't matter. That said, I have never been a particular fan of Cagney's `puppet on a string' dance style. Dancing is supposed to be an expression of one's inner self. A puppet has no inner self. There are many charming sequences in the film, none more so than the `cute-meet' with Mary where he's played a dottering old man in a play and she thinks he really is one until he starts showing her dance steps. Then there's his refusal by the Army because of his age. He does another dance routine to show them what they are missing. You've got to love the sequence where he and Harris, (Richard Whorf), con Cuddles Zakal into backing them. Then there's a glimpse of Cagney cute sister, Jeanne, playing Josie, Cohan's sister. We are not told why Josie is `gone' late in the film- her heart attack at age 36 was deemed too unpleasant, as was the death of Cohan's mother, (Rosemary Decamp, who was more than a decade younger than Cagney). The one death scene is that of Cohan's beloved father, played by Walter Huston, who was a Cohan protégé. Chan himself was on his deathbed as this was released, (he submitted a script which was `tactfully rejected'). He escaped his nurse to see it in a theater and gave it his approval, as we should, too.",
+         "So it takes liberties with facts. So it's jingoistic. Big deal! I adore it for its depiction of turn-of-the-(20th}century New York, especially its theater, which has fascinated me for years. And it has the breath-taking performance of Jimmy Cagney in the title role; he's absolutely elecrifying in the musical numbers. If some scenes are mawkish, well, I think that can be forgiven. This movie, above all others, make me so proud to be an American.",
+         "Unless you happen to catch a rare showing of THE PHANTOM PRESIDENT, you are not going to see any film that will bring you closer to that long gone Broadway phenomenon named George M. Cohan than this. Producer, Director, Dramatist, Actor, Composer, and super-patriot, he rewrote the American musical theater. If his successful productions are out of date today, the music survives to reawaken us every July 4th (his big holiday). His success as a songwriter led the way to Gershwin, Porter, Rodgers (and Hart and Hammerstein), Kern, and Youmans. YANKEE DOODLE DANDY is not a perfect biography of Cohan - he was still alive while it was being made, and would have vetoed the project mentioning his first failed marriage to Ethel Levey or his opposition to Actor's Equity. But as a valentine to his greatness as an entertainment phenomenon it remains great. Whole numbers from his LITTLE JOHNNY JONES (\"Yankee Doodle Dandy\" and \"Give My Regards To Broadway\") and FORTY-FIVE MINUTES FROM Broadway (\"So Long Mary\") are shown as they were produced. James Cagney (who was a first rate song and dance man on Broadway) studied THE PHANTOM PRESIDENT to know what were Cohan's singing and dancing style. His research and work paid off in this, his best musical performance and his only Oscar performance. Walter Huston and Rosemary DeCamp are splendid as his loving, but long suffering parents (best scene for both is when Huston has to spank the young Cohan for blowing an important booking chance). Huston also has a moving moment when he gets as a birthday gift 50% of George's business enterprises. Richard Whorf (who was so sinister that same year in KEEPER OF THE FLAME) was excellent as partner/friend Sam Harris. Jeanne Cagney is good as Cohan's sister Josie, and Joan Leslie wonderful as Mary Cohan (the only wife of Cohan in the film, but historically his second wife). Also of note are George Tobias and Chester Clute as Dietz and Goff (poor Goff) and S.Z.Sakall as a backer who loves chorus girls. Walter Catlett as a conniving theater owner has a funny scene. Irene Manning as Fay Templeton is a perfectly snobbish star who actually finds Cohan has merit. Finally, catch Eddie Foy Jr. as his father, Cohan's rival and closest friend. That scene together was so good that it could have been continued as a short subject comedy. One minor point to bring out - it is mentioned that LITTLE JOHNNY JONES is based on a jockey named Tod Sloane. If you recall Johnny Jones was accused of throwing the English Derby, and he is cleared afterward when papers are found showing one Anskey was responsible. In actuality Sloane, the leading American jockey of the day, was disgraced in a similar situation when riding in the English Derby. In Sloane's case there was no sequel with an \"Anskey\" and it sent his career into a tailspin. Only in the last year was a biography written about Sloane's tragic fall from sports fame."
+      ],
+      "genres": [
+         "Biography",
+         "Drama",
+         "Musical"
+      ],
+      "productionCompanies": ["Warner Bros."],
+      "summaries": [
+         "A musical portrait of composer/singer/dancer George M. Cohan. From his early days as a child-star in his family's vaudeville show up to the time of his comeback at which he received a medal from the president for his special contributions to the US, this is the life- story of George M. Cohan, who produced, directed, wrote and starred in his own musical shows for which he composed his famous songs.",
+         "A film of the life of the renowned musical composer, playwright, actor, dancer and singer George M. Cohan."
+      ],
+      "budget": 0
+   },
+   "movielensId": 6856,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1942-06-06",
+      "dvdReleaseDate": "2003-09-30",
+      "directors": ["Michael Curtiz"],
+      "runtime": 126,
+      "movieId": 6856,
+      "title": "Yankee Doodle Dandy",
+      "mpaa": "G",
+      "actors": [
+         "James Cagney",
+         "Joan Leslie",
+         "Walter Huston",
+         "Richard Whorf",
+         "Irene Manning",
+         "George Tobias",
+         "Rosemary DeCamp",
+         "Jeanne Cagney",
+         "Frances Langford",
+         "George Barbier",
+         "Walter Catlett",
+         "Douglas Croft",
+         "Eddie Foy Jr.",
+         "Minor Watson",
+         "Chester Clute",
+         "Odette Myrtil",
+         "Patsy Parsons",
+         "S.Z. Sakall",
+         "Jack Young"
+      ],
+      "imdbMovieId": "0035575",
+      "originalTitle": "Yankee Doodle Dandy",
+      "genres": [
+         "Drama",
+         "Music"
+      ],
+      "youtubeTrailerIds": ["cKdRL-djq0I"],
+      "plotSummary": "A film of the life of the renowned musical composer, playwright, actor, dancer and singer George M. Cohan.",
+      "tmdbMovieId": 3087,
+      "avgRating": 3.68659,
+      "releaseYear": "1942",
+      "numRatings": 552,
+      "posterPath": "/cqLLIyJFjLr6jGOxWVEHG11WGzB.jpg"
+   }
+}

@@ -1,0 +1,408 @@
+{
+   "tmdb": {
+      "original_language": "ja",
+      "keywords": [{
+         "name": "satire",
+         "id": 8201
+      }],
+      "imdb_id": "tt0063198",
+      "video": false,
+      "title": "Death by Hanging",
+      "recommendations": [
+         59352,
+         38728,
+         125276,
+         76754,
+         31217,
+         27197,
+         29268,
+         106254,
+         71851,
+         60971,
+         55835,
+         34530,
+         31427,
+         58925,
+         39506,
+         112501,
+         34528,
+         86666,
+         104251,
+         42718
+      ],
+      "backdrop_path": "/tKxtj1lCAdIHLrLkthqT034sEIW.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Prison warden",
+               "gender": 0,
+               "credit_id": "52fe4a049251416c750daef5",
+               "name": "Kei Satō",
+               "profile_path": "/z8OXLUYA2ikJNStyCij1J8Px7M2.jpg",
+               "id": 33730,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Education Officer",
+               "gender": 0,
+               "credit_id": "52fe4a049251416c750daef9",
+               "name": "Fumio Watanabe",
+               "profile_path": "/gOrIxCeaEIMRPA0TzmEPKgqodob.jpg",
+               "id": 224662,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "Priest",
+               "gender": 0,
+               "credit_id": "52fe4a049251416c750daefd",
+               "name": "Toshirô Ishidô",
+               "profile_path": null,
+               "id": 548020,
+               "order": 2
+            },
+            {
+               "cast_id": 5,
+               "character": "Chief of Guards",
+               "gender": 0,
+               "credit_id": "52fe4a049251416c750daf01",
+               "name": "Masao Adachi",
+               "profile_path": null,
+               "id": 134812,
+               "order": 3
+            },
+            {
+               "cast_id": 6,
+               "character": "Doctor",
+               "gender": 2,
+               "credit_id": "52fe4a049251416c750daf05",
+               "name": "Rokkô Toura",
+               "profile_path": null,
+               "id": 138748,
+               "order": 4
+            },
+            {
+               "cast_id": 7,
+               "character": "District attorney",
+               "gender": 0,
+               "credit_id": "52fe4a049251416c750daf09",
+               "name": "Hôsei Komatsu",
+               "profile_path": null,
+               "id": 133603,
+               "order": 5
+            },
+            {
+               "cast_id": 8,
+               "character": "Secretary of the D.A.",
+               "gender": 0,
+               "credit_id": "52fe4a049251416c750daf0d",
+               "name": "Masao Matsuda",
+               "profile_path": null,
+               "id": 1016194,
+               "order": 6
+            },
+            {
+               "cast_id": 9,
+               "character": "Korean woman",
+               "gender": 1,
+               "credit_id": "52fe4a049251416c750daf11",
+               "name": "Akiko Koyama",
+               "profile_path": null,
+               "id": 552315,
+               "order": 7
+            },
+            {
+               "cast_id": 10,
+               "character": "The convict",
+               "gender": 0,
+               "credit_id": "52fe4a049251416c750daf15",
+               "name": "Do-yun Yu",
+               "profile_path": null,
+               "id": 1016195,
+               "order": 8
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4a049251416c750daef1",
+               "name": "Nagisa Ōshima",
+               "profile_path": "/4ipOYgv1UB99mvob5WDmIbaxdMV.jpg",
+               "id": 46230,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54e8f3c99251412ebd002692",
+               "name": "Nagisa Ōshima",
+               "profile_path": "/4ipOYgv1UB99mvob5WDmIbaxdMV.jpg",
+               "id": 46230,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54e8f3d7925141117c001ed5",
+               "name": "Michinori Fukao",
+               "profile_path": null,
+               "id": 1429885,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54e8f3fd9251412eb10026b0",
+               "name": "Tsutomu Tamura",
+               "profile_path": null,
+               "id": 140624,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5901f8bcc3a36810c600c063",
+               "name": "Mamoru Sasaki",
+               "profile_path": null,
+               "id": 140623,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569d2766c3a36858c800388c",
+               "name": "Masayuki Nakajima",
+               "profile_path": null,
+               "id": 1093414,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569d276e9251415e70003adb",
+               "name": "Takuji Yamaguchi",
+               "profile_path": null,
+               "id": 1093431,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "569d27809251415e5e003966",
+               "name": "Hikaru Hayashi",
+               "profile_path": null,
+               "id": 1034270,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569d27879251415e70003adf",
+               "name": "Yasuhiro Yoshioka",
+               "profile_path": null,
+               "id": 1093432,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569d278fc3a36858dc003995",
+               "name": "Sueko Shiraishi",
+               "profile_path": null,
+               "id": 1565271,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569d27979251415e6d0036ba",
+               "name": "Shigemasa Toda",
+               "profile_path": null,
+               "id": 552639,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569d27a0c3a36858c8003894",
+               "name": "Kiyoshi Ogasawara",
+               "profile_path": null,
+               "id": 1136957,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569d27a99251415e67003b0a",
+               "name": "Hideo Nishizaki",
+               "profile_path": null,
+               "id": 550945,
+               "department": "Sound",
+               "job": "Sound"
+            },
+            {
+               "gender": 2,
+               "credit_id": "579c2064c3a368551c0039eb",
+               "name": "Nagisa Ōshima",
+               "profile_path": "/4ipOYgv1UB99mvob5WDmIbaxdMV.jpg",
+               "id": 46230,
+               "department": "Production",
+               "job": "Producer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Crime",
+            "id": 80
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         }
+      ],
+      "popularity": 2.065206,
+      "production_countries": [{
+         "iso_3166_1": "JP",
+         "name": "Japan"
+      }],
+      "id": 98193,
+      "vote_count": 18,
+      "budget": 0,
+      "overview": "A Korean man is sentenced to death by hanging, but he survives the execution. For the following two hours, his executioners try to work out how to handle the situation in this black farce.",
+      "similar": [
+         429771,
+         266451,
+         96936,
+         10288,
+         15278,
+         109414,
+         14,
+         402897,
+         7512,
+         1023,
+         432799,
+         56339,
+         7446,
+         11412,
+         7516,
+         9388,
+         241,
+         275,
+         627,
+         914
+      ],
+      "original_title": "絞死刑",
+      "runtime": 117,
+      "poster_path": "/awywpZsvuZd0nuv3oqiXTrglT0y.jpg",
+      "spoken_languages": [{
+         "name": "日本語",
+         "iso_639_1": "ja"
+      }],
+      "production_companies": [
+         {
+            "logo_path": "/hObQEBMY8Es6ajSlVeBEIdqbuSK.png",
+            "name": "Art Theatre Guild",
+            "id": 9181,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Sozosha",
+            "id": 9182,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1968-02-02",
+      "vote_average": 7.4,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Japan",
+      "color": "Black and White",
+      "budgetCurrency": null,
+      "directors": ["Nagisa Ôshima"],
+      "runtime": 117,
+      "synopsis": null,
+      "writers": [
+         "Michinori Fukao",
+         "Mamoru Sasaki"
+      ],
+      "originalLanguage": "Japanese",
+      "imdbLink": "http://www.imdb.com/title/tt0063198/",
+      "coverLink": null,
+      "actors": ["Stars: Kei Satô, Fumio Watanabe, Toshirô Ishidô | See full cast and crew »"],
+      "reviews": [
+         "Oshima is a director who usually leaves you in no doubt about what he thinks, but he goes all out here. This film is a strong polemic against the death penalty as practiced in Japan. The condemned man fails to die, and those in the death chamber panic and wonder what to do. After about five minutes of narration (by Oshima himself), the characters gear into action, using Oshima's chosen method : black farce. This is a very funny film, and all the more so because it confronts some very edgy stuff and often crosses the line to outrage. Oshima, as he often does, attacks Japan's sacred cows head on. As well as the death penalty, he deals with prejudice against Koreans, rape, politics, respect for authority and much more. The acting is excellent, particularly the Korean who plays the condemned man. His calm poise provides an excellent balance to the mania of the officials around him, as they try to make him remember who he is and what he's done. Strong stuff, warmly recommended.",
+         "One of the benefits of writing film comments is that readers will sometimes send me recommendations. If that were the only benefit, and if this were the only recommendation I would get, it would be worth it. By reading the comments, you may think that the main value of this film is a damning polemic on capital punishment plus a perhaps more powerful examination of (Japanese) racism toward Koreans. It is those things and powerfully so. But the manner in while the narrative unfolds deserves experiencing even if Japanese politics of the sixties doesn't interest you. Its construction is worth your effort. It starts as a documentary of a hanging. The man is hanged but apparently survives. He has lost his identity. In order for his re-execution to be legit, they have to reintroduce him to the crime. Though all the acting is done in the execution room by the executioners (including a doctor, lawyer and Christian priest), the viewer enters shifting imaginations and we are taken on a series of conversions. At one end, the beginning, we have the execution witnesses following the re-enactors from scene to scene, the re-enactors, executioners, taking roles in the drama. The scenes become more real until the murder where an executioner gets carried away and kills an innocent woman. Then things shift more radically and all sorts of complex folds appear simultaneously. Some viewers \"can see\" and others not. The murdered girl comes out of her coffin to become a competitor to write what we see, combination lover, writer, and sister, shifting from Japanese to Korean. You need to ignore the preaching because it gets in the way. Perhaps the second time around pay attention to it � it maps quite well onto America and its blacks, though there's far less brutality, length of history and institutionalized racism in the US case. But as I say, this all has less value than the way the thing is put together. While watching this, you will notice that the steps of narrative shifting are of different types, radically different types � as varied as you get in \"Citizen Kane,\" or \"Annie Hall.\" They slip sideways in unexpected directions. But the shifts occur at roughly the same frequency and seem at about the same distance. This narrative shifting does serve the political agenda, in part because that agenda is simple. Something that seems invisible in one maturely rationalized perspective, become obvious when the perspective is shifted a bit away from all the storied protections. I think I'm putting this on my list of essential films. Ted's Evaluation -- 4 of 3: Every cineliterate person should experience this.",
+         "This is one of the most complex and troubling films that I have seen lately. I know unfortunately too little about Nagisa Oshima, beyond his being the director of the famous Empire of Senses. Here he gives an amazingly strong film about the fate of one man identified by a one letter name (as in Kafka's Process) facing death by hanging but refusing to die, and losing his memory in the process. The whole bureaucratic system around works to get his memory back in order to make him pay for his crimes. They will re-enact his crimes starting to look crazier and bringing to surface their own demons and prejudices, plunging the hero redeemed innocent by amnesia and themselves in a complex world that mixes ceremony and nightmare. The film is a strong shout of protest against the death penalty, militarism and any repressive system that crashes human dignity.",
+         "The film begins with a documentary style look at a Japanese execution chamber. An unseen narrator explains that the vast majority of people still support the death penalty before the image shifts across a prison to the death camber itself. This chamber looks old fashioned, quaint even, both from the interior and exterior. As the building seems so archaic it's almost hard to imagine that people are actually brought there to die. One doesn't have to imagine, however, since the execution ritual is quickly and efficiently carried out as soon as the viewer is acquainted with the setting. Everything goes smoothly in this case except for one thing: the guilty man is certainly hanged but he continues to live. After a brief recuperation, R, the condemned man, awakens with a strong case of amnesia. The confused officials quickly reveal themselves as fools without the ability to react critically. They are determined to execute this man again but they won't feel right about it until he remembers who he is and why this is happening to him. The rest of the film consists of various people helping R regain the memories of who he is and how he got into this situation. The actions of the various people are often comically absurd as they attempt reenactments of various parts of R's life including his childhood in a slum reserved for \"inferior\" Koreans and the murders he has been convicted of. It's often a funny film but the subject matter is too serious for it to be seen as anything but the blackest of comedies. This is very much a social issues film for ardent leftist director Nagisa Oshima and several issues are dealt with including capital punishment (of course), nationalism, racism, violence against women, and the postwar lives of war criminals. There is never any doubt which side Oshima is on for any of these issues: the film is unsubtle if not downright didactic. Still, Oshima's prodigious talent as a film-maker greatly increase the effectiveness of this film and many of these issues are still quite relevant all over the world today. This film is not quite as masterful as 1969's less obvious Boy but it's still a worthy of the attention of people interested in Japanese culture and/or Nagisa Oshima.",
+         "In 1958, an ethnic Korean called Ri Chin'u murdered two girls and was sentenced to death by hanging. He left behind a collection of writings where he talked about his crimes, the book in question is called Crime, Death and Love, and in the late '60s it inspired Nagisa Oshima, a provocative New Wave director to make a film loosely based on Chin'u's hanging. Oshima held Chin'u in high regard (despite the crimes) and thought that his writings should be a part of high school textbooks. In fact, some dialogues and letter excerpts in the second part of the film were lifted straight from the book. Death by Hanging is the first of Oshima's five collaborations with Art Theatre Guild, and it features writer Toshiro Ishido and pinku film director Masao Adachi in minor roles. The movie is well-known for mixing elements of the Brechtian theatre of the absurd and some plot mechanics found in the works of Franz Kafka (for example, the protagonist's name is a single letter, R). There is no ambiguity here in regards to the underlying message; in the first five minutes, the film states that around 71% of Japan supports capital punishment, and asks the audience: \"Have you ever seen an execution chamber before?\" Then the movie moves to the said chamber, and the details of the execution ritual are narrated through a voice-of-god method, by Oshima himself. There really is no doubt that Oshima is against capital punishment, but the movie is also a complex attack on the Japanese persecutions of Koreans, but it also has something to say on the themes of guilt, memory, consciousness, imagination, national relations and nationalism. There's really a lot cramped in the 2-hour runtime, even though the plot sounds like it should be a 30-minute Twilight Zone episode. The film is divided into seven chapters and fluctuates between moods constantly; from a five-minute documentary to a deadly serious hanging scene, to farcical crime re-enactments and elements of black humor, to downright surrealism. The message is laid out in every way you can imagine; sometimes the characters bluntly say what's on their (and Oshima's) mind, and other times it's delivered through symbolic imagery, like the final scene where R opens the door leading to outside only to be blinded by strong light from the outside (symbolizing that the Japanese will never accept him since he's Korean) and the final shot of the empty noose swinging in the air, signifying that capital punishment is pointless, but also that Koreans might as well not even exist according to the Japanese state. The final image pretty much encapsulates everything the film has to say on capital punishment and xenophobia. It's tough to judge this movie, as some parts of it are thought- provoking and others painfully tedious and confusing, some parts are really entertaining and others repetitive. While definitely a well- crafted film, it's not really my thing.",
+         "In the year 1968 student movements throughout the world were trying to change their respective societies. In America, in France, in Japan, etc. students and those of similar minds took to the streets to change the old order. Activities by the student organizations the Zengakuren, &#20840;&#23398;&#36899;, and especially the Zenkyoutou, &#20840;&#20849;&#38360;, are readily available to readers of the writers Oe Kenzaburo and Murakami Haruki whose viewpoints differ, but who give the reader a detailed account of the student movement. During these years of protest, the Japanese film industry suffered a number of financial setbacks so the old guard of film directors, such as Kobayashi Masaki and Kurosawa Akira, rarely produced films and directors of pink films ruled the roost. However, some of these directors, although their films also contained sex and violence, tried to produce films that had more of a message. One of the most prominent of the Japanese New Wave directors during this time period was Oshima Nagisa whose films The Man Who Left His Will on Film, Violence at Noon, The Ceremony, etc., were quite acerbic towards the establishment. While his films are considered a bit heavy-handed by a number of film critics, Oshima, like Imamura Shohei, was quite concerned with people belonging to the lower strata of society especially during a time period in which they were often left behind by Japan's rapid growth. In his film Death by Hanging Oshima points his camera towards Japan's Resident Korean population. Death by Hanging opens with the Narrator, Oshima Nagisa, asking the audience if they support the death penalty and he goes on to say that more than seventy percent of the Japanese public supports the death penalty. However, he then asks the audience if they have ever seen the inside of the death chamber itself. We, the viewers, then receive a step by step introduction to the environs of the death chamber and we are treated to the hanging of a condemned Korean man who raped and killed two Japanese women. However, there is a problem and that problem is that the body of the condemned man R refused to die. Obviously being that someone who is hanged is supposed to die the prison officials are not sure what to do. It is decided that they will hang him again after he comes to, but after he does he has amnesia. Believing that it would be wrong to hang a man without knowledge of his crime, the prison officials try to recreate the rape and murder scenes for R so that his memory will be revived in order for them to execute him once more. However, this task is not easy�. Filmed in 1968 only three years after Japan reopened relations with South Korea and ten years after thousands of Koreans were repatriated to North Korea, Death by Hanging details a number of the discriminations faced by Resident Koreans during the 1960s: poverty, unemployment, poor educational opportunities, and a general sense of disdain by the Japanese populace, although, of course, this was not universal. Death by Hanging also attempts to show the political ideologies of the Resident Koreans, mainly those affiliated with North Korea, in the personage of R's \"sister\" who says that R's crimes and violence in general is the only way for the Resident Koreans to fight back against Japan. However, after his first execution, R does not seem to still hold onto these same views. A truly bizarre film with some dark humor, Death by Hanging should be watched by those who have an interest in Japanese New Wave films or minority issues in Japan",
+         "Contains Spoilers Mix of documentary and black farce. An indictment of Japanese prejudicial attitudes toward Koreans. Oshima based his Film on an actual incident in which a young Korean was accused of raping and murdering two Japanese schoolgirls (one in the Film), found guilty, and hung (Japan's method of capital punishment). When the student fails to die when hanged, his executioners set about re-creating the crime, each official plays a part, in order to prove to the young man that he is guilty. They eventually identify with the roles they have assumed. Ultimately, even the film's audience is implicated in the student's death. As the Film opens a narrator asks \"Are you for or against the death penalty?\" For those in favor he goes through an explanation of what happens in the death house. As this is being given, the execution of prisoner \"R\" is being played out. When \"R\" is alive more than 20 minutes after he was hung the officials are at a loss as to what to do. The hanging is halted while the officials debate, and an unconscious \"R\" regains consciousness. However, \"R\" does not remember who he is, and the officials can't execute him unless they can once again prove to him that he is the man convicted of the rape and murder. In an attempt to convince the prisoner, the officials present (including officers, guards, and a doctor) decide to re-enact the crime, and later \"R's\" home life. We learn that \"R\" (who plays himself in the reenactments) is the poor son of a deaf/dumb mother and alcoholic father, who was kind to his younger sisters. This reenactment is suddenly stopped by one of the officials who decides it is out of place because such information was not included in the court records. The move to the recreation of the first crime, committed at Komatsugawa High School. \"R\" is told how to perform the killing and he does so. . .but not fast enough. to speed things up the education officer steps in and finishes the girl off. Back on death row there is a casket containing the dead girl (whom some of the officials can see and some cannot) who eventually wakes up, gets out of the casket and claims to be \"R's\" older sister. The education officer claims that \"R\" didn't have an older sister. The next section of the Film is taken over by \"R's\" sister who opposes capital punishment, is proud of her Korean heritage and a vehement critic of Japanese imperialism. Eventually, the prosecutor (who cannot see her) decides she is trespassing and has her hung. In the next scene, she is lying in her brother's arms (beneath a Japanese flag) having a discussion about \"desire and imagination\" while the officials sit around them drinking and singing. \"R\" now admits he is \"R\" and the officials want to proceed, however, \"R\" argues that he is a different \"R\" than they hung previously. He refuses to recognize the nation's right to kill people when killing itself is wrong. The prosecutor decides to let him go, but when \"R\" tries to leave he is met by a blinding light and cannot continue. He returns and allows himself to be hanged. When we see the swinging noose however it is empty. The narrator thanks the officials and audience for the participation in the execution."
+      ],
+      "genres": [
+         "Comedy",
+         "Crime",
+         "Drama"
+      ],
+      "productionCompanies": [
+         "Art Theatre Guild",
+         "Sozosha"
+      ],
+      "summaries": ["A Korean man is sentenced to death by hanging, but he survives the execution. For the following two hours, his executioners try to work out how to handle the situation in this black farce."],
+      "budget": 0
+   },
+   "movielensId": 66339,
+   "movielens": {
+      "languages": ["日本語"],
+      "releaseDate": "1968-02-02",
+      "dvdReleaseDate": null,
+      "directors": ["Nagisa Ōshima"],
+      "runtime": 117,
+      "movieId": 66339,
+      "title": "Death by Hanging",
+      "mpaa": null,
+      "actors": [
+         "Kei Satô",
+         "Fumio Watanabe",
+         "Toshirô Ishidô",
+         "Masao Adachi",
+         "Rokkô Toura",
+         "Hôsei Komatsu",
+         "Masao Matsuda",
+         "Akiko Koyama",
+         "Do-yun Yu"
+      ],
+      "imdbMovieId": "0063198",
+      "originalTitle": "絞死刑",
+      "genres": [
+         "Comedy",
+         "Crime",
+         "Drama",
+         "Foreign"
+      ],
+      "youtubeTrailerIds": [
+         "6C9Dintbj9U",
+         "Pl0i8lMIRqM"
+      ],
+      "plotSummary": "A Korean man is sentenced to death by hanging, but he survives the execution. For the following two hours, his executioners try to work out how to handle the situation in this black farce.",
+      "tmdbMovieId": 98193,
+      "avgRating": 3.51562,
+      "releaseYear": "1968",
+      "numRatings": 32,
+      "posterPath": "/AicJN7b5A97XwKRjNNgYXPNg3mm.jpg"
+   }
+}

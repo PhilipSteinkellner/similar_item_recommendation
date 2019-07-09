@@ -1,0 +1,363 @@
+{
+   "tmdb": {
+      "original_language": "de",
+      "keywords": [{
+         "name": "new german cinema",
+         "id": 209966
+      }],
+      "imdb_id": "tt0060063",
+      "video": false,
+      "title": "Yesterday Girl",
+      "recommendations": [
+         147990,
+         132851,
+         153082,
+         84038,
+         128920,
+         80080,
+         67217,
+         44413
+      ],
+      "backdrop_path": null,
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Anita G.",
+               "gender": 1,
+               "credit_id": "52fe4a2a9251416c910c5825",
+               "name": "Alexandra Kluge",
+               "profile_path": null,
+               "id": 1041578,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Pichota",
+               "gender": 2,
+               "credit_id": "52fe4a2a9251416c910c5829",
+               "name": "Günter Mack",
+               "profile_path": null,
+               "id": 26418,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "Richter",
+               "gender": 2,
+               "credit_id": "52fe4a2b9251416c910c582d",
+               "name": "Hans Korte",
+               "profile_path": null,
+               "id": 38107,
+               "order": 2
+            },
+            {
+               "cast_id": 5,
+               "character": "Chef der Plattenfirma",
+               "gender": 0,
+               "credit_id": "533b041d9251416342000121",
+               "name": "Werner Kreindl",
+               "profile_path": null,
+               "id": 116045,
+               "order": 3
+            },
+            {
+               "cast_id": 6,
+               "character": "Frau Pichota",
+               "gender": 1,
+               "credit_id": "533b04589251416332000112",
+               "name": "Eva Maria Meineke",
+               "profile_path": "/hsjLYpkvjw0qpb1LM0xyoVI6ECf.jpg",
+               "id": 26247,
+               "order": 4
+            },
+            {
+               "cast_id": 19,
+               "character": "Bewährungshelferin",
+               "gender": 0,
+               "credit_id": "565b7ecac3a3685066003c51",
+               "name": "Edith Kuntze-Pellogio",
+               "profile_path": null,
+               "id": 1542516,
+               "order": 5
+            },
+            {
+               "cast_id": 20,
+               "character": "Frau Budeck",
+               "gender": 0,
+               "credit_id": "565b7ed4c3a3685069003da5",
+               "name": "Palma Falck",
+               "profile_path": null,
+               "id": 1542517,
+               "order": 6
+            },
+            {
+               "cast_id": 21,
+               "character": "Priester",
+               "gender": 0,
+               "credit_id": "565b7edec3a368508100399c",
+               "name": "Ado Riegler",
+               "profile_path": null,
+               "id": 1542518,
+               "order": 7
+            },
+            {
+               "cast_id": 22,
+               "character": "Chef der Plattenfirma",
+               "gender": 0,
+               "credit_id": "565b7ee8925141692b003bd6",
+               "name": "Josef Kreindl",
+               "profile_path": null,
+               "id": 1542519,
+               "order": 8
+            },
+            {
+               "cast_id": 23,
+               "character": "Josef's Frau",
+               "gender": 0,
+               "credit_id": "565b7ef1c3a368506d004055",
+               "name": "Käthe Ebner",
+               "profile_path": null,
+               "id": 1542520,
+               "order": 9
+            },
+            {
+               "cast_id": 24,
+               "character": "junger Mann",
+               "gender": 0,
+               "credit_id": "565b7ef9c3a3685072003d55",
+               "name": "Peter Staimmer",
+               "profile_path": null,
+               "id": 1542521,
+               "order": 10
+            },
+            {
+               "cast_id": 25,
+               "character": "Lehrer",
+               "gender": 0,
+               "credit_id": "565b7f01c3a3685079003c49",
+               "name": "Hans Brammer",
+               "profile_path": null,
+               "id": 1542522,
+               "order": 11
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4a2a9251416c910c5821",
+               "name": "Alexander Kluge",
+               "profile_path": null,
+               "id": 50870,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "555ca3a09251416b530015c9",
+               "name": "Alexander Kluge",
+               "profile_path": null,
+               "id": 50870,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "565b7e63c3a3685074003f31",
+               "name": "Beate Mainka-Jellinghaus",
+               "profile_path": null,
+               "id": 20554,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "565b7e839251416925003c75",
+               "name": "Klaus Eckelt",
+               "profile_path": null,
+               "id": 1542514,
+               "department": "Sound",
+               "job": "Sound"
+            },
+            {
+               "gender": 2,
+               "credit_id": "565b7e41c3a3685069003d8c",
+               "name": "Alexander Kluge",
+               "profile_path": null,
+               "id": 50870,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "565b7e50c3a3685079003c1b",
+               "name": "Thomas Mauch",
+               "profile_path": null,
+               "id": 20553,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "565b7e5a9251416919003cb6",
+               "name": "Edgar Reitz",
+               "profile_path": "/vztKeH8BflSAhduKJeOzuNiD8X3.jpg",
+               "id": 72908,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "565b7e709251416925003c71",
+               "name": "Bernd Höltz",
+               "profile_path": null,
+               "id": 1304970,
+               "department": "Production",
+               "job": "Unit Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "565b7e7ac3a3685079003c23",
+               "name": "Werner Leckebusch",
+               "profile_path": null,
+               "id": 1542513,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "565b7e8ec3a3685072003d36",
+               "name": "Heinz Pusl",
+               "profile_path": null,
+               "id": 1359063,
+               "department": "Sound",
+               "job": "Sound"
+            },
+            {
+               "gender": 0,
+               "credit_id": "565b7e97925141691b003ca9",
+               "name": "Hansjörg Wicha",
+               "profile_path": null,
+               "id": 1542515,
+               "department": "Sound",
+               "job": "Sound"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Drama",
+         "id": 18
+      }],
+      "popularity": 1.050314,
+      "production_countries": [{
+         "iso_3166_1": "DE",
+         "name": "Germany"
+      }],
+      "id": 89785,
+      "vote_count": 6,
+      "budget": 0,
+      "overview": "Yesterday Girl is an acerbic, deliriously fractured, incisive, and darkly comic satire on a young German woman (and archetypal embodiment of the postwar generation), Anita G.'s (Alexandra Kluge) search for happiness, liberation, and independence in the illusive wake of a transformative national recovery",
+      "similar": [
+         2000,
+         655,
+         659,
+         216,
+         661,
+         4762,
+         307950
+      ],
+      "original_title": "Abschied von gestern",
+      "runtime": 88,
+      "poster_path": "/g97cCuZ0VySdHPPVrdIA0gh1Py6.jpg",
+      "spoken_languages": [{
+         "name": "Deutsch",
+         "iso_639_1": "de"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Kairos-Film",
+            "id": 21534,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Independent Film",
+            "id": 62402,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1966-09-05",
+      "vote_average": 6.7,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "West Germany",
+      "color": "Black and White",
+      "budgetCurrency": null,
+      "directors": ["Alexander Kluge"],
+      "runtime": 88,
+      "synopsis": null,
+      "writers": [
+         "Alexander Kluge",
+         "Alexander Kluge"
+      ],
+      "originalLanguage": "German",
+      "imdbLink": "http://www.imdb.com/title/tt0060063/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjEzNDU4MDI2NF5BMl5BanBnXkFtZTcwMjQ4NjgxMQ@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Alexandra Kluge, Günter Mack, Hans Korte | See full cast and crew »"],
+      "reviews": [
+         "This is the first film I've seen from Alexander Kluge and I had no idea what to expect. As I watched it, my first thoughts were that it had a lot of the French New Wave or was just heavily part of the European Art Cinema�I wasn't very sure when it had been made. The documentary, broken approach seemed interesting and completely burst that bubble of the typical cinematic experience were as a viewer I was almost pushed to be part of. I really appreciate what films like this did to filmmaking, starting with the very purpose and artistic value of films and their contra-position to the common entertaining commercial product films soon became after they were introduced into an industry. These films were necessary to go back to the origins of film and its true essence. Many films of this era abandoned the classic ways of making films and that's how they got closer to the truth of film. I think movies like \"The Bicycle Thief\" (1948) or \"The 400 Blows\" (1959) or \"Kes\" (1969) achieved to capture life in a very honest way. But I feel soon this achievement got corrupted, became a concept and lost its way and awareness. It led to films that broke all the typical rules of filmmaking and spoke of certain societies and real socio-political situations, but, in my humble opinion, I believe they failed to capture life despite of how spontaneous and realistic they tried to be. They created \"rules\" from their own anti-rules approach and I feel there was just too much ego and ambition in all this. I believe film is not really about characters, stories, music, places, situations, dialogs, etc.� not even about all of them put together as it is so commonly believed. Film is much more than that. It captures times and truth in an unique way. And, comparing this very idealistic definition of films and the influence of European Art Cinema�and every other movement of that time�is where my opinion about \"Yesterday Girl\" comes from. I feel, since this kind of films are very authorial, Alexander Kluge, just like maybe Ingmar Bergman when he made \"Summer with Monika\" (1953), was struggling between what the audience expected and what his inspiration was telling him to do, especially considering this was his first full-length feature. But despite of all this, which is only ideas that have little to do with the film itself, I think this film is a must-see because if you somehow manage to see beyond a few devised attractions here and there, like the shots of people talking to the camera, sudden cuts, alternate editing with images that contrast against the emotional narrative of the main scene, that in my opinion, still have a sort of beauty and awareness, you might see a substantial beauty and poetry, especially towards the final scenes. And also even before that, there are glimpses of Kluge's own vision and sensitivity which I'm now looking forward to watching more in his films.",
+         "Abschied von gestern - (Anita G.) is clearly the German answer to À bout de soufflé (released six years earlier) by Godard. Even more: it is as if Godard had made a German version of his own production. It's the experimental drive for ANYTHING. Neue Welle! I just name some of the daring tricks that for a reason did not become common in cinema: showing, after an abrupt transition, photographs or drawings; inserting voice-overs during a dialogue; changing the volume of the sound during a scene; reading the lines from a note. And so on. We also see a murder without context (dream?), a finger is pierced by a stiletto heel and milk flows out of the finger (surrealism?), and there's a scene with toy soldiers. There's lack of structure all over, but there is still a common thread: she, who is always on the road. Anyhow, director Alexander Kluge took every bit of freedom he could with his first real film. His actors went with it, including his sister Alexandra, who plays Anita G. They probably filmed EVERYTHING that came on their paths: a dog training, a visit to a bar, scenes on the streets. 'Alexander, I'm going to rest in a park.' 'No, wait, I take the camera, we can shoot a scene there!' That said, the film lacks for me the frivolous and intuitive from the original (Godard), though it does strikes gold once in a while. The affair of only two seconds was beautiful. At the staircase there is an intimate conversation between a man and Anita G.. Next second, while having dinner, a woman asks the man: 'Is she a redhead?' The most interesting thing about the film is that it pauses history for a second: this is the life of an ordinary but adventurous woman in the sixties in Germany. If this film wasn't so excessively experimental, and there were 'regular' ideas intertwined, it could have been a classic. Now, for me, is it is just one of the Godard-like films. It's a shame that Alexandra would only play in one other film (also from her brother) while her pleasure in acting is evident here. Alexander got a career as a critic, started a film school (Ulm Institut für Filmgestaltung) and made A LOT of shorts. At this point, Kluge is in his eighties. I rate it 7/10, mostly for courage.",
+         "My rating: 1.0/10 My opinion on the film: This movie is supposed to be a relevant social study about the marked differences between East and West Germany. It was all but. Or for me at least it was all but. In my opinion it was an incredibly boring, pointless and pretentious piece of crap that went nowhere. On top of everything, frequent and randomly placed bits of surrealism were completely annoying and ridiculous, though one or two were unintentionally funny. The only thing I should be thankful for about this film is that it wasn't longer."
+      ],
+      "genres": ["Drama"],
+      "productionCompanies": [
+         "Independent Film",
+         "Kairos-Film"
+      ],
+      "summaries": ["The film tells the story of Anita G., a young East German migrant to West Germany and her struggle to adjust to her new life."],
+      "budget": 0
+   },
+   "movielensId": 72883,
+   "movielens": {
+      "languages": ["Deutsch"],
+      "releaseDate": "1966-09-05",
+      "dvdReleaseDate": "2008-10-28",
+      "directors": ["Alexander Kluge"],
+      "runtime": 88,
+      "movieId": 72883,
+      "title": "Yesterday Girl",
+      "mpaa": "",
+      "actors": [
+         "Alexandra Kluge",
+         "Günter Mack",
+         "Hans Korte",
+         "Werner Kreindl",
+         "Eva Maria Meineke",
+         "Edith Kuntze-Pellogio",
+         "Palma Falck",
+         "Ado Riegler",
+         "Josef Kreindl",
+         "Käthe Ebner",
+         "Peter Staimmer",
+         "Hans Brammer"
+      ],
+      "imdbMovieId": "0060063",
+      "originalTitle": "Abschied von gestern",
+      "genres": ["Drama"],
+      "youtubeTrailerIds": [],
+      "plotSummary": "Yesterday Girl is an acerbic, deliriously fractured, incisive, and darkly comic satire on a young German woman (and archetypal embodiment of the postwar generation), Anita G.'s (Alexandra Kluge) search for happiness, liberation, and independence in the illusive wake of a transformative national recovery",
+      "tmdbMovieId": 89785,
+      "avgRating": 3.5,
+      "releaseYear": "1966",
+      "numRatings": 10,
+      "posterPath": "/g97cCuZ0VySdHPPVrdIA0gh1Py6.jpg"
+   }
+}

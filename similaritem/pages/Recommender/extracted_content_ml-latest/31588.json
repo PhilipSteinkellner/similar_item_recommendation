@@ -1,0 +1,916 @@
+{
+   "tmdb": {
+      "original_language": "fr",
+      "keywords": [
+         {
+            "name": "france",
+            "id": 254
+         },
+         {
+            "name": "jealousy",
+            "id": 931
+         },
+         {
+            "name": "friendship",
+            "id": 6054
+         },
+         {
+            "name": "femme fatale",
+            "id": 9016
+         },
+         {
+            "name": "love",
+            "id": 9673
+         },
+         {
+            "name": "gang",
+            "id": 10726
+         },
+         {
+            "name": "death",
+            "id": 34079
+         },
+         {
+            "name": "carpenter",
+            "id": 45141
+         },
+         {
+            "name": "french noir",
+            "id": 155845
+         },
+         {
+            "name": "surrender",
+            "id": 162034
+         },
+         {
+            "name": "dance hall",
+            "id": 186403
+         },
+         {
+            "name": "19th century",
+            "id": 207928
+         }
+      ],
+      "imdb_id": "tt0043386",
+      "video": false,
+      "title": "Casque d'Or",
+      "recommendations": [
+         58925,
+         217411,
+         190081,
+         144674,
+         129394,
+         29415,
+         26252,
+         110760,
+         32499,
+         27430,
+         43360,
+         145762,
+         174473,
+         25047,
+         36102,
+         40650,
+         93980,
+         88309,
+         147198,
+         104398
+      ],
+      "backdrop_path": "/xL9dCEh9MQgll0V0xPV9zL26ZEo.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 9,
+               "character": "Marie",
+               "gender": 1,
+               "credit_id": "52fe47a9c3a368484e0d311d",
+               "name": "Simone Signoret",
+               "profile_path": "/vRI2Vt3HX911uDrVK170waQsL8b.jpg",
+               "id": 12266,
+               "order": 0
+            },
+            {
+               "cast_id": 10,
+               "character": "Manda",
+               "gender": 2,
+               "credit_id": "52fe47a9c3a368484e0d3121",
+               "name": "Serge Reggiani",
+               "profile_path": "/aS1q4j4VdT3XfRWnAo4szgmSYV3.jpg",
+               "id": 15137,
+               "order": 1
+            },
+            {
+               "cast_id": 11,
+               "character": "Felix Leca",
+               "gender": 2,
+               "credit_id": "52fe47a9c3a368484e0d3125",
+               "name": "Claude Dauphin",
+               "profile_path": "/9ZYZhyJee5MGBkeggYkENJegYmZ.jpg",
+               "id": 20113,
+               "order": 2
+            },
+            {
+               "cast_id": 12,
+               "character": "Raymond",
+               "gender": 2,
+               "credit_id": "52fe47a9c3a368484e0d3129",
+               "name": "Raymond Bussières",
+               "profile_path": "/15N1kLrcbBJgc0G4UBZoTukU3yg.jpg",
+               "id": 11221,
+               "order": 3
+            },
+            {
+               "cast_id": 13,
+               "character": "La mère d'Eugène",
+               "gender": 1,
+               "credit_id": "52fe47a9c3a368484e0d312d",
+               "name": "Odette Barencey",
+               "profile_path": "/8vY3ldvkUR7VsfAoCvzaEhnRnng.jpg",
+               "id": 582139,
+               "order": 4
+            },
+            {
+               "cast_id": 14,
+               "character": "Léonie Danard",
+               "gender": 0,
+               "credit_id": "52fe47a9c3a368484e0d3131",
+               "name": "Loleh Bellon",
+               "profile_path": "/q6XWZ27W1WfgaKLxBXb7nKTnAjU.jpg",
+               "id": 1180843,
+               "order": 5
+            },
+            {
+               "cast_id": 15,
+               "character": "Le patron de la guinguette",
+               "gender": 2,
+               "credit_id": "57130db092514151cf000493",
+               "name": "Daniel Mendaille",
+               "profile_path": null,
+               "id": 278796,
+               "order": 6
+            },
+            {
+               "cast_id": 16,
+               "character": "Julie",
+               "gender": 1,
+               "credit_id": "57130dbc925141522e00048b",
+               "name": "Dominique Davray",
+               "profile_path": "/7OdDW0wgQ4O32ihZxuof9F62Kff.jpg",
+               "id": 7568,
+               "order": 7
+            },
+            {
+               "cast_id": 17,
+               "character": "Police Insp. Giuliani",
+               "gender": 0,
+               "credit_id": "57130dd5c3a3686678006633",
+               "name": "Paul Barge",
+               "profile_path": "/9crIfHpc5VLv7Upv1Op7ob1enRW.jpg",
+               "id": 24474,
+               "order": 8
+            },
+            {
+               "cast_id": 18,
+               "character": "Ponsard",
+               "gender": 0,
+               "credit_id": "57130de3925141522e00049d",
+               "name": "Paul Azaïs",
+               "profile_path": null,
+               "id": 550796,
+               "order": 9
+            },
+            {
+               "cast_id": 19,
+               "character": "Paul",
+               "gender": 0,
+               "credit_id": "57130dee925141387d00096e",
+               "name": "Jean Clarieux",
+               "profile_path": "/lvXXWOtuBYsx4hvsujyUdDQN8BI.jpg",
+               "id": 117895,
+               "order": 10
+            },
+            {
+               "cast_id": 20,
+               "character": "Superintendent",
+               "gender": 0,
+               "credit_id": "57130dfe92514151cf00049f",
+               "name": "Tony Corteggiani",
+               "profile_path": null,
+               "id": 103890,
+               "order": 11
+            },
+            {
+               "cast_id": 21,
+               "character": "Billy",
+               "gender": 0,
+               "credit_id": "57130e0ac3a368537800cc13",
+               "name": "Emile Genevois",
+               "profile_path": "/lW7Z5ZqHYquPzaWtQ4lRZ0DpBkD.jpg",
+               "id": 1403301,
+               "order": 12
+            },
+            {
+               "cast_id": 22,
+               "character": "Guillaume",
+               "gender": 0,
+               "credit_id": "57130e189251414a7100059d",
+               "name": "Marc Goutas",
+               "profile_path": null,
+               "id": 1606865,
+               "order": 13
+            },
+            {
+               "cast_id": 29,
+               "character": "Danard",
+               "gender": 2,
+               "credit_id": "57910af19251416038000ba2",
+               "name": "Gaston Modot",
+               "profile_path": null,
+               "id": 11543,
+               "order": 14
+            },
+            {
+               "cast_id": 30,
+               "character": "Roland Dupuis",
+               "gender": 0,
+               "credit_id": "57910b31c3a368352d000b75",
+               "name": "William Sabatier",
+               "profile_path": null,
+               "id": 24754,
+               "order": 15
+            },
+            {
+               "cast_id": 31,
+               "character": "Une fille à la guinguette",
+               "gender": 1,
+               "credit_id": "57915b399251415b6700284f",
+               "name": "Suzanne Grey",
+               "profile_path": "/n1MCJdwHZmhwnr0hE5QaWDFStqc.jpg",
+               "id": 144743,
+               "order": 16
+            },
+            {
+               "cast_id": 32,
+               "character": "Adèle",
+               "gender": 0,
+               "credit_id": "57915b8d9251416bad0023df",
+               "name": "Yette Lucas",
+               "profile_path": null,
+               "id": 1654206,
+               "order": 17
+            },
+            {
+               "cast_id": 33,
+               "character": "La grand-mère d'Anatole",
+               "gender": 1,
+               "credit_id": "57915bc9c3a3683570002833",
+               "name": "Madame Pâquerette",
+               "profile_path": null,
+               "id": 589540,
+               "order": 18
+            },
+            {
+               "cast_id": 34,
+               "character": "La patronne de \"L'ange gabriel\"",
+               "gender": 0,
+               "credit_id": "57915bf4c3a36836080026b8",
+               "name": "Yvonne Yma",
+               "profile_path": null,
+               "id": 582141,
+               "order": 19
+            },
+            {
+               "cast_id": 35,
+               "character": "Un client chic de \"L'ange Gabriel\"",
+               "gender": 0,
+               "credit_id": "57915c17c3a36844830023e5",
+               "name": "Léon Bary",
+               "profile_path": null,
+               "id": 1322980,
+               "order": 20
+            },
+            {
+               "cast_id": 36,
+               "character": "Un client chic de \"L'ange Gabriel\"",
+               "gender": 2,
+               "credit_id": "57915c3bc3a36844830023ef",
+               "name": "Jean Degrave",
+               "profile_path": "/qujs7F7YWzsQkh14W9uRAqewPFP.jpg",
+               "id": 1326566,
+               "order": 21
+            },
+            {
+               "cast_id": 37,
+               "character": "Un client chic de \"L'ange Gabriel\"",
+               "gender": 0,
+               "credit_id": "57915c68c3a36836080026ea",
+               "name": "Raphaël Patorni",
+               "profile_path": null,
+               "id": 114972,
+               "order": 22
+            },
+            {
+               "cast_id": 38,
+               "character": "Le gendarme du fourgon",
+               "gender": 0,
+               "credit_id": "57915c88925141609a002641",
+               "name": "Pierre Leproux",
+               "profile_path": null,
+               "id": 39444,
+               "order": 23
+            },
+            {
+               "cast_id": 39,
+               "character": "Anatole",
+               "gender": 2,
+               "credit_id": "57915cafc3a368352d0026a9",
+               "name": "Roland Lesaffre",
+               "profile_path": "/f0uUxD6ECVtfjsqiY51OK1t4CKB.jpg",
+               "id": 36911,
+               "order": 24
+            },
+            {
+               "cast_id": 40,
+               "character": "Jacquet",
+               "gender": 0,
+               "credit_id": "57915cd39251415fd80025a1",
+               "name": "Julien Maffre",
+               "profile_path": null,
+               "id": 1402955,
+               "order": 25
+            },
+            {
+               "cast_id": 41,
+               "character": "Un cocher",
+               "gender": 0,
+               "credit_id": "57915cf49251415b670028c5",
+               "name": "Marcel Melrac",
+               "profile_path": null,
+               "id": 140365,
+               "order": 26
+            },
+            {
+               "cast_id": 42,
+               "character": "Un bourgeois à la guinguette",
+               "gender": 0,
+               "credit_id": "57915d189251416b4f002414",
+               "name": "André Méliès",
+               "profile_path": null,
+               "id": 1271226,
+               "order": 27
+            },
+            {
+               "cast_id": 43,
+               "character": "Un cocher",
+               "gender": 0,
+               "credit_id": "57915d3bc3a36844940026f5",
+               "name": "Léon Pauléon",
+               "profile_path": null,
+               "id": 583364,
+               "order": 28
+            },
+            {
+               "cast_id": 44,
+               "character": "Un gendarme",
+               "gender": 0,
+               "credit_id": "57915d6ec3a368360800273b",
+               "name": "Marcel Rouzé",
+               "profile_path": "/7h3lkjXEqM5AmVaq5CMJ8kSMgWm.jpg",
+               "id": 1448493,
+               "order": 29
+            },
+            {
+               "cast_id": 45,
+               "character": "Le médecin / The doctor",
+               "gender": 0,
+               "credit_id": "57915d8d9251416b4f00242b",
+               "name": "Roger Vincent",
+               "profile_path": null,
+               "id": 1540664,
+               "order": 30
+            },
+            {
+               "cast_id": 46,
+               "character": "Une fille à la guinguette (uncredited)",
+               "gender": 1,
+               "credit_id": "57915dda9251415aab002980",
+               "name": "Joëlle Bernard",
+               "profile_path": "/v1oc9jNO233ZK97fbbD75vF1q4i.jpg",
+               "id": 145074,
+               "order": 31
+            },
+            {
+               "cast_id": 47,
+               "character": "Bit part (uncredited)",
+               "gender": 1,
+               "credit_id": "57915dfe9251416bad002476",
+               "name": "Jacqueline Danno",
+               "profile_path": null,
+               "id": 548698,
+               "order": 32
+            },
+            {
+               "cast_id": 48,
+               "character": "Friend in the group (uncredited)",
+               "gender": 0,
+               "credit_id": "57915e1dc3a36835700028d2",
+               "name": "Jacques Duby",
+               "profile_path": "/yy9BaP1Nokiz5URuMdrm6PoAQ4t.jpg",
+               "id": 28262,
+               "order": 33
+            },
+            {
+               "cast_id": 49,
+               "character": "Un client à \"L'ange gardien\" (uncredited)",
+               "gender": 0,
+               "credit_id": "57915e3fc3a36844830024d3",
+               "name": "Maurice Marceau",
+               "profile_path": null,
+               "id": 1505996,
+               "order": 34
+            },
+            {
+               "cast_id": 50,
+               "character": "Madeleine (uncredited)",
+               "gender": 1,
+               "credit_id": "57915e61c3a36844830024de",
+               "name": "Christiane Minazzoli",
+               "profile_path": "/dSywirQyiFdGaUxVp61OsIK8Dhv.jpg",
+               "id": 28149,
+               "order": 35
+            },
+            {
+               "cast_id": 51,
+               "character": "(uncredited)",
+               "gender": 0,
+               "credit_id": "57915ef3c3a368352d00273a",
+               "name": "Jacqueline Marbaux",
+               "profile_path": null,
+               "id": 1187536,
+               "order": 36
+            },
+            {
+               "cast_id": 52,
+               "character": "(uncredited)",
+               "gender": 0,
+               "credit_id": "57915f6c925141609a002718",
+               "name": "René Pascal",
+               "profile_path": null,
+               "id": 1654207,
+               "order": 37
+            },
+            {
+               "cast_id": 53,
+               "character": "(uncredited)",
+               "gender": 0,
+               "credit_id": "57915f97c3a36836080027e5",
+               "name": "Yvonne Legeay",
+               "profile_path": null,
+               "id": 1460995,
+               "order": 38
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe47a9c3a368484e0d30ef",
+               "name": "Jacques Becker",
+               "profile_path": "/wLOEv2Q8VGe7glUgsS2Ghka00qI.jpg",
+               "id": 103393,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47a9c3a368484e0d30f5",
+               "name": "Jacques Becker",
+               "profile_path": "/wLOEv2Q8VGe7glUgsS2Ghka00qI.jpg",
+               "id": 103393,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47a9c3a368484e0d30fb",
+               "name": "Jacques Becker",
+               "profile_path": "/wLOEv2Q8VGe7glUgsS2Ghka00qI.jpg",
+               "id": 103393,
+               "department": "Writing",
+               "job": "Adaptation"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47a9c3a368484e0d3101",
+               "name": "Jacques Companéez",
+               "profile_path": null,
+               "id": 58232,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47a9c3a368484e0d3107",
+               "name": "Annette Wademant",
+               "profile_path": null,
+               "id": 553897,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47a9c3a368484e0d310d",
+               "name": "Georges Van Parys",
+               "profile_path": null,
+               "id": 12262,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47a9c3a368484e0d3113",
+               "name": "Robert Lefebvre",
+               "profile_path": null,
+               "id": 45479,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47a9c3a368484e0d3119",
+               "name": "Mayo",
+               "profile_path": null,
+               "id": 29670,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5713234c92514141a5000afd",
+               "name": "Jean d'Eaubonne",
+               "profile_path": null,
+               "id": 41011,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5713235392514152030007f2",
+               "name": "Maurice Barnathan",
+               "profile_path": null,
+               "id": 1606888,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5791085dc3a36844830006ec",
+               "name": "Raymond Hakim",
+               "profile_path": null,
+               "id": 9750,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57910876c3a3683014000b42",
+               "name": "Robert Hakim",
+               "profile_path": null,
+               "id": 9751,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5791089cc3a368352d000a9b",
+               "name": "André Paulvé",
+               "profile_path": null,
+               "id": 9732,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "579108cc9251415fd8000a9c",
+               "name": "Marguerite Renoir",
+               "profile_path": null,
+               "id": 11532,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57915fff9251415fd800267f",
+               "name": "Alex Archambault",
+               "profile_path": null,
+               "id": 1492957,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5791603dc3a36844940027de",
+               "name": "Boris Karabanoff",
+               "profile_path": null,
+               "id": 1654209,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57916061c3a36844ff0024f4",
+               "name": "Maguy Vernadet",
+               "profile_path": null,
+               "id": 1433861,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "579160969251415b670029bc",
+               "name": "Henri Baum",
+               "profile_path": null,
+               "id": 9749,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "579160c29251415fd80026ab",
+               "name": "Ulrich Picard",
+               "profile_path": null,
+               "id": 45444,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 2,
+               "credit_id": "579160f9925141609a002788",
+               "name": "Marcel Camus",
+               "profile_path": "/xDcOrmxS5L8igNZAaSAcevMyG0t.jpg",
+               "id": 232669,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "579161199251415aab002a78",
+               "name": "Alain Jessua",
+               "profile_path": null,
+               "id": 30632,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "579161a3c3a3684441002b88",
+               "name": "Marc Frédérix",
+               "profile_path": null,
+               "id": 35836,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "579162089251415fd8002714",
+               "name": "Maurice Terrasse",
+               "profile_path": null,
+               "id": 1654210,
+               "department": "Crew",
+               "job": "Property Master"
+            },
+            {
+               "gender": 2,
+               "credit_id": "579168c2c3a3683570002d19",
+               "name": "Antoine Petitjean",
+               "profile_path": null,
+               "id": 1297804,
+               "department": "Sound",
+               "job": "Sound"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57916993c3a3683608002bbc",
+               "name": "Gilbert Sarthre",
+               "profile_path": null,
+               "id": 1411914,
+               "department": "Camera",
+               "job": "First Assistant Camera"
+            },
+            {
+               "gender": 0,
+               "credit_id": "579169f79251416bad002945",
+               "name": "Jean-Marie Maillols",
+               "profile_path": null,
+               "id": 1580993,
+               "department": "Crew",
+               "job": "Cinematography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57916a279251415fd8002a81",
+               "name": "Georgette Fillon",
+               "profile_path": null,
+               "id": 578057,
+               "department": "Costume & Make-Up",
+               "job": "Set Costumer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57916a75c3a3683570002dba",
+               "name": "Marcelle Desvignes",
+               "profile_path": null,
+               "id": 1594328,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57916aaec3a36844ff00292d",
+               "name": "Geneviève Vaury",
+               "profile_path": null,
+               "id": 1620100,
+               "department": "Editing",
+               "job": "Assistant Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57916adec3a3683014002d7a",
+               "name": "Colette Crochot",
+               "profile_path": null,
+               "id": 578049,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Crime",
+            "id": 80
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 2.385731,
+      "production_countries": [{
+         "iso_3166_1": "FR",
+         "name": "France"
+      }],
+      "id": 68822,
+      "vote_count": 33,
+      "budget": 0,
+      "overview": "The year is 1898. A beautiful woman named Marie (also known as Casque d'Or) has fallen in love with a carpenter named Manda. The problem is that Marie is the girlfriend of a hoodlum in the Leca gang. So in order to have the lovely Marie, Manda faces and defies the gang and kills Leca. Soon after however, Manda is sent to the gallows.",
+      "similar": [
+         521,
+         9769,
+         49950,
+         1427,
+         4771,
+         38,
+         949,
+         19913,
+         205,
+         320,
+         1213,
+         2252,
+         13,
+         49524,
+         82695,
+         86331,
+         339692,
+         205775,
+         281957,
+         68718
+      ],
+      "original_title": "Casque d'or",
+      "runtime": 96,
+      "poster_path": "/xTqiJRqwRPg4bOD66yeucgWB0pn.jpg",
+      "spoken_languages": [{
+         "name": "Français",
+         "iso_639_1": "fr"
+      }],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "Robert et Raymond Hakim",
+         "id": 11290,
+         "origin_country": ""
+      }],
+      "release_date": "1952-04-16",
+      "vote_average": 7.5,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "France",
+      "color": "Black and White",
+      "budgetCurrency": null,
+      "directors": ["Jacques Becker"],
+      "runtime": 85,
+      "synopsis": null,
+      "writers": [
+         "Jacques Becker",
+         "Jacques Companéez"
+      ],
+      "originalLanguage": "French",
+      "imdbLink": "http://www.imdb.com/title/tt0043386/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BOTY2Njk2MTI0NV5BMl5BanBnXkFtZTcwODc1NTcyMQ@@._V1_SY317_CR4,0,214,317_AL_.jpg",
+      "actors": ["Stars: Simone Signoret, Serge Reggiani, Claude Dauphin | See full cast and crew »"],
+      "reviews": [
+         "Jacques Becker was an artist and a director. His legacy is a trilogy of masterpieces: \"Casque d'Or\", \"Touchez pas au Grisbi\", \"Le Trou\", three luminous instances of cinema as art. The linear story of \"Casque d'Or\" has the neatness of a Maupassant's tale. We are transferred into a most glorious epoch for French culture and art: the decline of the 19th century, the age of Impressionism. Marie (Simone Signoret) is a blond beauty, a cheerful \"lost woman\". She's the girl-friend of a member of a gang of small-time but ruthless criminals. She falls in first-sight-love with George Manda (Serge Reggiani) a former crook, now a honest carpenter. Predictable troubles ensue... The atmosphere of the epoch is wonderfully recreated, with a black-and-white photography of indescribable beauty. An Impressionist Master behind the camera couldn't have done better. And, in fact, Becker was a favorite \"student\" of director Jean Renoir, Auguste Renoir's son. Becker's characteristic narrating style is nostalgic, serene, gently ironic. He deliberately avoids over-dark tones in his representation of the underworld, even in the middle of tragic events. Simone Signoret is a charismatic presence on the screen: outstanding is her use of body-language to draw Marie's character, both a romantic enamoured woman and a cynical harlot. Reggiani is excellent as the laconic, tough Manda: he utters some twenty words along the whole movie, yet we perfectly understand his peculiar honor code, his profound love for Marie, his unselfish devotion to friendship. Splendid is Leca (Claude Dauphin), the boss of the gang, officially a respectable well-off wine-dealer: proficient, cool-headed, extremely cunning and Machiavellian, always ready to betray his own men to pursue his dirty purposes. Indeed, great care is paid to the design of all characters, with superb acting by the whole cast. Exquisite poetic touches permeate the movie... Marie drags Manda into a church, where a simple wedding (of unknown middle-class people) is taking place. Shortly after, Manda is impatient \"Let's go\"; and Marie \"No, just another minute\"... and she contemplates the wedding with a dreaming smile... \"Casque d'Or\": a perfect work of art.",
+         "In a poll in 1979 ,Becker's chef d'oeuvre was part of the top ten of the best French movies of all time. It's arguably Becker's best work;he achieved a luminous movie with many unforgettable scenes : -the small boats on the river,and the pack arriving at the guinguettes,those cafes down by the river Seine which are no longer part of the landscapes.(remember Duvivier's \"la belle équipe\" ,1936) -all the scenes in the country where the nature seems to protect the lovers as a mother would do.Most of all,this admirable sequence when Reggiani 's sleeping :he opens his eyes and Marie's luminous beauty moves him deeply -never a director filmed Signoret as Becker did- -The scene which climaxes the opus is the one in the church.They hear the whole congregation sing the \"Kyrie \" in a tiny church:there's a wedding there.So Marie urges Manda to come in and they attend the ceremony.When they leave ,they learn tragic news.Now the bell is tolling for them,even if these are wedding bells. -The final scenes between Reggiani/Manda and his old pal Bussières /Raymond display Becker's love of loyalty,manly friendship ,a subject which would come back in later works ,muted in \"touchez pas au grisbi\" and became an absolute pessimism in \"le trou\" where nobody could be trusted anymore. -The score which Becker used in the last sequences is none other than the old French folk song \"le temps des cerises\" actually an organizing song,a revolutionary song ,since it was the anthem of the Commune in 1871. \"Casque d'or\" is one of the jewels of the French cinema.Becker used to like the Apaches (=ruffians) ,the outcast,cause he would transfer Leblanc's Arsene Lupin adventures to the screen in 1957.A failed attempt though.But \"Casque d'or\" generally looked upon as Becker's peak ,hasn't aged a bit.",
+         "Jacques Becker's \"Casque d'or\" is a fine example of the best in the French cinema. At times, this splendid 1954 film, keeps reminding us about paintings of the impressionist school, especially Renoir, because it takes us back to that era. In fact, the beginning of the film almost gives the impression we are witnessing characters that inspired the painters of that art movement. \"Casque d'or\" is enhanced by the magnificent black and white photography of Robert Lefevbre who has a poetic way to get the best of what M. Becker intended him to do. The atmospheric music of Georges Van Parys takes the viewer back to those places one has seen in different paintings of that era. The lovely young woman at the center of the picture, Marie, gets taken with Manda the moment he enters the country restaurant where she is seen with some of the petty criminals she is friendly with. One realizes this is a passion that is not meant to be from the start. Marie belongs to one of the Felix Leca's gang. When Roland senses his girl has an eye for another man, he wants to take get rid of him. Georges Manda has also been to jail, but now is a carpenter and trying to go straight. Fate is not kind to Manda, who, when provoked, reveals he is not to be made a fool. Leca, who is also quite smitten by Marie's beauty plans to get rid of Manda so he can have the blonde woman all to himself. Leca, who knows his way around the law, and is friendly with the police, will prove to be Manda's undoing. What Jacques Becker achieved with this film was to create the right atmosphere to set his story. Working in France he had the access to the great movie locations one sees in the movie. The film evokes that period convincingly. The director adds touches, that even when watched today, are a delight to watch. M. Becker got good performances out of his cast. Simone Signoret at that point of her life was at her prime. Her Marie is a fine example of what she was able to project without much effort. Her beauty is evident and she plays Marie with elegance. Serge Reggiani plays Manda with conviction. M. Reggiani covered quite a lot of ground in the French cinema. Aside from his good looks, he was an accomplished actor and singer. His contribution to our enjoyment of the film made \"Casque d'or\" to be a classic it became. Claude Dauphin is Felix Leca, the unscrupulous man in love with Marie who will stoop so low in order to get the woman that he wouldn't have otherwise. M. Dauphin conveys the evil in Felix Leca with an economy that works well in his portrayal of this sophisticated monster. Finally, this is Jacques Becker's triumph. \"Casque d'or\" is one of the best films of all times.",
+         "It took me years to catch up with this classic and when I did so it was in a small Paris Art-House and, ironically, shown with English subtitles. I went with the knowledge that on its release it was a disaster in France - though Signoret picked up a Best Actress Award from England - where it was quickly yanked and not shown again for another nine years by which time Becker was on the menu and unable to bask in his vindication. It's difficult now to see what contemporary critics and audiences found to beef about. Becker did not so much shoot this film as paint it with delicate brush strokes - another irony as the story is in yer face. It was based on real characters and events of 1902 and maybe it was Becker's painstaking re-creation of an era half a century away that disturbed. Signoret was at the height of her passionate romance with Yves Montand and this shows in every frame in which she appears and who wouldn't have swapped places with Serge Reggiani (a close friend of both Signoret and Montand - he had played opposite Montand in Les Portes de la Nuit). Ever reliable Claude Dauphin completed the eternal triangle. When Pal Joey opened at the Ethel Barrymore Theater on Christmas Day, 1940, it was years ahead of its time, a musical in which every character was offensive in some way; though the score by Rodgers and Hart was vintage and grudgingly acknowledged to be so one pertinent critical comment read 'is it possible to draw sweet water from a foul well'. 12 years later, in 1952, the year Casque d'Or was savaged, Pal Joey was revived and became a major success. The story of Casque d'Or is arguably sordid and equally arguably a foul well yet Becker, via his lovingly detailed compositions and re-creation of the period DOES draw exceedingly sweet water from a foul well. Trivia question: What do Juliette Binoche and Simone Signoret have in common. Answer: Both watch their man (husband, Daniel Auteuil, lover, Serge Reggiani) executed at the end of the film. Patrice Leconte began 'La Veuve de St Pierre' brilliantly with a tracking shot featuring Binoche looking down at we know not what - only at the end do we realise she is watching Auteuil face a firing squad. Signoret's Marie also looks down on the scene as Reggiani is guillotined. In 2052 this one will still be great.",
+         "After being released from prison where he served five years for an undisclosed crime, Georges Manda (Serge Reggiani), a soft-looking, taciturn man with a handlebar moustache, becomes a hard working carpenter, determined to go straight. When Raymond (Raymond Bussieres), a fellow gang member with whom he served time in prison, introduces him to Marie (Simone Signoret) at a dance, however, the solid foundation he was trying to build begins to come unglued. Signoret, one of the classiest and most elegant actresses, is strikingly irresistible as the moll of a suave gang leader in Jacques Becker's 1952 masterpiece Casque D'or. Considered a failure when it first opened but, after receiving critical acclaim in New York, the film developed a wider audience in France and has now become a classic, newly restored on a Criterion DVD. Set in Paris in the 1890s and based on actual police accounts, Casque D'or is not an arid period piece or costume drama, but a rich, vibrant, and lovingly evocative work that successfully recreates the ambiance of Paris at the turn of the century. Unlike Melville's Le Samourai which was filmed in near darkness to capture the sullen milieu of the underworld, Becker bathes his film in a dazzling poetic light that belies the darkness of its theme and some scenes have been compared to an impressionist painting. Marie is being \"kept\" by Roland (William Sabatier), a volatile and jealous dandy and is also sought after by the crime boss Felix Leca (Claude Dauphin). Manda and Marie fall in love but soon Manda runs afoul of the law after killing the jealous Roland in a fight. Leca seizes on this opportunity to remove Manda from the picture by framing his closest friend but doesn't count on Manda's dedication to doing what is right. Despite being about the criminal element, there is little violence in Casque D'or and it is more of an moody romance than a crime drama, perhaps accounting for its initial failure at the box office. The most brilliantly realized sequence takes place at a countryside retreat where Manda and Marie go for a few hours of happiness together before the inevitable denouement. Casque D'or is a film about friendship, loyalty, and, most of all, about passion and its consequences. When Marie hears wedding bells and drags Manda into a church, all he can say is \"not now\", but his expression suggests that he knows that their love will be a dream that fades into dawn.",
+         "Casque d'or is one of the greatest films about passion I have ever seen. The intensity of the feeling between Simone Signoret and Serge Reggiani, particularly the former, is overwhelming. These people are outsiders from the very beginning, being part of the criminal underworld from which they will never escape. The honest, bourgeois world is permanently closed to them. Children in French secondary school write essays about this film as if it were a classic French novel. It certainly is a classic, and it could not have been made in any country other than France.",
+         "This is one of the great classics of the French cinema from the immediate postwar period. The title, which means 'helmet of gold', presumably is a reference to the prominent bun in which Simone Signoret wears her golden hair, since it is she who precipitates all the dramatic and violent events in the story by driving men wild. The film is set circa 1900 in and near Paris, and the brilliant director Jacques Becker, who was a fanatic about period detail, has given us a vivid portrait of daily life in the suburbs of Paris, such as Belleville, at that era. I have rarely seen such perfection of costume, props, and sets for a period film. Sometimes it seems as if Becker must personally have supervised every stitch of thread in the clothing. The main characters are those low-life ruffians, or small-time gangsters, of Paris whom the French love to call by the name of 'apaches', a term derived from the Americans and their accounts of the supposedly wildest and most unruly of the American Indian tribes. The apaches (pronounced in the French style, 'layzuhpahsh') are a kind of national obsession to the French, perhaps even more so now that they are largely extinct, having been superseded by those far more extreme villains of our own time, international drug dealers and people traffickers, and terrorists. The apaches had their own peculiar codes of honour (such as shown in this story), whereas 'honour' means nothing to the more vicious criminals of today. The British used to be nearly as obsessed with their own native small-time gangsters, the London East End gangs, as the French have been with their Paris apaches. But just as nation states are being dissolved before our eyes, so too are the local criminal gangs of specific countries, and the quaint behaviour of such people seen in films like this is now an anachronism which is bound to be as remote to younger viewers as the thrashing tails of dinosaurs, and from an epoch perceived by them as being nearly as distant. It is an endlessly fascinating spectacle to watch this film, and savour the costumes, settings, and mannerisms of the time, which are so perfectly portrayed. The apache men, and indeed many ordinary workmen such as carpenters, all wear wide pale cummerbunds wrapped around their waists, beneath which rise the high narrow waists of their otherwise baggy and billowing corduroy trousers. They wear those pull-over shirts with buttons that only go half the way down, with broad and wide open collars and baggy sleeves gathered in at the shoulders. They are as careful of their appearance as they are of their reputations for villainy and violence. The head of a gang, Leca, played by Claude Dauphin, at one points tells one of his gang to stop wearing a flat cap, as it will give the gang a bad name with the neighbours! The film opens with a scene straight out of a Renoir painting, with three long rowing boats on the Seine upstream from Paris pulling in to the shore, the men wearing boaters, and their gaily laughing girlfriends all dressed to the nines for a Sunday out. They run giggling in to a quaint outdoors riverside 'bal', a restaurant with a small band where they can do what the apaches and their gals love best: dancing with passion and style. The dancing itself is a marvel to be seen. But then we come to realize that these are not ordinary young men and women, these are gangsters and their molls. And here, the mischievous flirtation of Signoret, the most glamorous of the molls, with a handsome young stranger, sets in motion the tragic events which then proceed to unfold with bloody inevitability. The young man she fancies is played with eloquent macho silence by Serge Reggiani. It turns out that he has previously spent five years in the same prison cell with a member of the gang, who is his best friend. This sets up various conflicts of loyalty and enhances the tensions. Signoret is an expert at portraying sensual intensity while holding her head high, what might be called 'the proud whore motif'. When appearing in a film, she can turn on the inner sexual incandescence with the ease with which someone of today can click a computer mouse. All that was required was for a director to say: 'Action!' (in French, of course), and the fire would flare up in her smouldering eyes and all actors in the film had better watch out. She never has pushed any buttons for me personally, as I have always found her too heavy, solid, and masculine, but then there are a lot of men out there who like that (as witness the strange preoccupation so many British males have with Judi Dench, and before her, with Glenda Jackson, and other such potential dominatrixes whose more feminine qualities always seem to be somewhat at the ebb tide, no matter how they may glower and try to convince us that they are female by the intensity of their expressions). I have always had the uncomfortable feeling that maybe Simone Signoret was really a man. I know that is ridiculous, and I confess to being in what must be an insignificant minority on the subject. But let no one imagine that she does not set the action on fire in this film, which she does aplenty. It is such a pity that only three films by Jacques Becker (1906-1960) appear ever to have had English subtitles added to them. He was a true master of the screen, even though the French have tried to keep him as their little secret. His son is Jean Becker (born 1933), another master of the screen who carried on the family's directorial tradition by making equally riveting and desperate films.",
+         "Jacques Becker's CASQUE D'OR (Golden Helmet 1952), an underworld romance set in Paris during \"La Belle Epoque\", stars Simone Signoret as the titular blonde prostitute who's star-crossed amour reveals the agony and ecstasy of love. The buxom Signoret plays Marie, the moll of an Apache gangster, who meets Manda, an ex-con gone straight, at an al fresco dance hall and it's love at first sight for both of them. The pair soon throw caution to the wind, setting off a chain-reaction of jealousy, murder, double-crosses, and revenge that can only end in tragedy. All of the characters are sharply etched but it's Simone Signoret's Marie who literally shines. The tough and tender demimonde can't take her eyes off Manda (a quiet, determined Serge Reggiani) from the moment they meet until the bitter end and she's often bathed in an ethereal light. The duplicity-free Marie is also the quintessential femme fatale who proves bad luck to any man who covets her. The era is imaginatively realized and a number of scenes are reminiscent of Impressionist paintings yet, like Marie's unconscious duality, there's darkness in the light with an undercurrent of understated but potent sex and violence. Highly recommended and loosely based on an incident in the life of a bisexual bonvivant, one Amélie Hélie: \"The bands of roughnecks of Belleville were also a passionate lot, not like the cynical pimps of Montmartre and La Chapelle. Here a man took out a knife for a girl he really cared for. In 1902 the story of 'Casque d'Or' made the headlines throughout Paris, both east and west. Two enemy bands of Apaches Mohicans de Paris - sporting their customary insignia of caps, bell-bottom trousers and polka-dotted scarves, had taken to the streets that lay between Belleville and Charonne: 'Le Popincourt' headed by the Corsican Leca, 'Les Orteaux' by Manda, l'Homme! The object of their dispute was not territory but a girl called Amélie Hélie, nicknamed 'Casque d'Or', with a stunning, golden-reddish mane. The confrontation turned into a fullscale pitched battle on Rue des Haies, in which neither knife blades nor guns were spared. To the inquisitive public prosecutor Manda retorted during his trial: 'We fought each other, the Corsican and myself, because we love the same girl. We are crazy about her. Don't you know what it is to love a girl?' Manda was unquestionably a soulmate of Piaf. Condemned to deportation and hard labour - Manda for life, Leca for eight years - the two men met on the island of Saint-Martin-de-Ré. When finally they spoke to each other, it was about 'Casque d'Or'. She meanwhile wasted no time bewailing her unfortunate suitors, but turned for solace to the world of entertainment and the company of wealthier men. However, one of Leca's faithful followers had been contemplating revenge and stabbed her one night in the establishment where she sang. Although she survived, she could no longer perform as a singer and it is only thanks to her portrayal by the legendary Simone Signoret in Jacques Becker's movie that she has not fallen into oblivion. The real Amélie Hélie ended by marrying an ordinary workman and died forgotten on 16 April 1933. She was buried in the cemetery of Bagnolet.\" CASQUE D'OR's release was briefly delayed when Amélie's widower attempted to take out an injunction against it, claiming the film invaded his late wife's privacy. The case was soon thrown out when it was revealed that Hélie had appeared on stage, playing herself, in a drama entitled \"Casque d'or et les Apaches\".",
+         "Despite the corsets and petticoats and horse-drawn cabs, this lush, richly textured film has more in common with the bleak, fatalistic modern-dress films of the period than with conventional historical romance. The action takes place over the course of only a few days, but in France that's long enough for a passion strong enough to change a life, or end it--more than one man dies because of the bewitching Marie and her golden hair that shines like the sun. The intensity of the characters' emotions and the suddenness of their violence is powerfully countered by the reserve of the playing--of the solemn, laconic toughs and of Simone Signoret as Marie. In moments of great emotion, her slight smile changes to a broad one, but with her lips still closed. There's none of the giggling and wriggling that marked the other blonde Fifties sex symbols, Bardot and Monroe, and countless others since, and obviously no nudity, total or partial, but in her morning-after scene with Serge Reggiani, you can practically smell smoke. Like Zola's Nana, Marie is neither a villain nor a victim, simply an elemental force of nature. This elemental-woman business can, in French and non-French movies, be pretentious and unwittingly comic, but there's none of that here, because neither Signoret nor the director indulge in any fancy dialogue or vocal tricks to play up how alluring she is--they don't have to. We are always aware of Marie as a figure of enormous strength, with a broad, strong back, round shoulders spilling out of her blouse, and a mouth too wide for coyness. In an otherwise favourable review, Pauline Kael said that the film's tone was slightly trashy, as if it were saying, of the low-life characters, \"Look, they have feelings too.\" I disagree--the scene of the wealthy, slumming group in evening dress who find the characters \"marvelously amusing\" show us what Becker thinks of that viewpoint and implicitly reproaches anyone who shares it.",
+         "Simone Signoret and Serge Reggiani star in \"Casque d'Or,\" a 1952 film also starring Claude Dauphin and William Sabatier. Signoret plays Marie, the kept woman of a good-looking gangster, Roland (Sabatier), but she is also desired by the gang's boss Felix Leca (Dauphin). One night she is introduced to Manda (Reggiani), a carpenter who, after a prison term, is trying to go straight. The two have an instant attraction, which angers the jealous Roland. After a fight in which Roland is killed, Leca sees a way to get rid of Manda too. But Marie steps in, and the result is tragedy. This is a beautifully photographed film that takes place in the 1890s, the Belle Epoque. Signoret is the beautiful center of a story about passion and love, as well as the lives of women back then at the hands of their keepers, and the brutality. Jacques Becker frames each scene magnificently. Signoret wasn't in any way a typical star by Hollywood standards. She had a raw sexuality and sensuality, a voluptuous figure, and an earthy presence that gave her the edge over all of them. Each film she was in was elevated by her presence. You can well believe all three of the men in this film desired her. Highly recommended."
+      ],
+      "genres": [
+         "Crime",
+         "Drama",
+         "Romance"
+      ],
+      "productionCompanies": ["Robert et Raymond Hakim"],
+      "summaries": ["In an open-air dance hall, the members of Leca's gang are relaxing with their ladies. One of them, Marie, aka \"Casque d'Or\" (Golden Helmet) meets Manda, a carpenter. Her man Roland belongs to the jealous kind, and Leca himself has his eye on her. A story of love, death, friendship and jealousy during the Belle Epoque."],
+      "budget": 0
+   },
+   "movielensId": 31588,
+   "movielens": {
+      "languages": ["Français"],
+      "releaseDate": "1952-04-16",
+      "dvdReleaseDate": "2005-01-18",
+      "directors": ["Jacques Becker"],
+      "runtime": 96,
+      "movieId": 31588,
+      "title": "Casque d'Or",
+      "mpaa": "",
+      "actors": [
+         "Simone Signoret",
+         "Serge Reggiani",
+         "Claude Dauphin",
+         "Raymond Bussières",
+         "Odette Barencey",
+         "Loleh Bellon",
+         "Daniel Mendaille",
+         "Dominique Davray",
+         "Paul Barge",
+         "Paul Azaïs",
+         "Jean Clarieux",
+         "Tony Corteggiani",
+         "Emile Genevois",
+         "Marc Goutas",
+         "Gaston Modot",
+         "William Sabatier",
+         "Suzanne Grey",
+         "Yette Lucas",
+         "Madame Pâquerette",
+         "Yvonne Yma",
+         "Léon Bary",
+         "Jean Degrave",
+         "Raphaël Patorni",
+         "Pierre Leproux",
+         "Roland Lesaffre",
+         "Julien Maffre",
+         "Marcel Melrac",
+         "André Méliès",
+         "Léon Pauléon",
+         "Marcel Rouzé",
+         "Roger Vincent",
+         "Joëlle Bernard",
+         "Jacqueline Danno",
+         "Jacques Duby",
+         "Maurice Marceau",
+         "Christiane Minazzoli",
+         "Jacqueline Marbaux",
+         "René Pascal",
+         "Yvonne Legeay"
+      ],
+      "imdbMovieId": "0043386",
+      "originalTitle": "Casque d'or",
+      "genres": [
+         "Crime",
+         "Drama",
+         "Romance"
+      ],
+      "youtubeTrailerIds": ["UoFjjwpC4ME"],
+      "plotSummary": "The year is 1898. A beautiful woman named Marie (also known as Casque d'Or) has fallen in love with a carpenter named Manda. The problem is that Marie is the girlfriend of a hoodlum in the Leca gang. So in order to have the lovely Marie, Manda faces and defies the gang and kills Leca. Soon after however, Manda is sent to the gallows.",
+      "tmdbMovieId": 68822,
+      "avgRating": 3.61111,
+      "releaseYear": "1952",
+      "numRatings": 72,
+      "posterPath": "/xTqiJRqwRPg4bOD66yeucgWB0pn.jpg"
+   }
+}

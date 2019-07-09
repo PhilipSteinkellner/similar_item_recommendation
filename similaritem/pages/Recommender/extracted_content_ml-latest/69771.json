@@ -1,0 +1,547 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "optimism",
+            "id": 895
+         },
+         {
+            "name": "love",
+            "id": 9673
+         },
+         {
+            "name": "sewer",
+            "id": 41412
+         },
+         {
+            "name": "presumed dead",
+            "id": 155402
+         },
+         {
+            "name": "street cleaners",
+            "id": 197154
+         }
+      ],
+      "imdb_id": "tt0018379",
+      "video": false,
+      "title": "7th Heaven",
+      "recommendations": [
+         43145,
+         51759,
+         3007,
+         105067,
+         65874,
+         43001,
+         84299,
+         20003,
+         3060,
+         66180,
+         47921,
+         147621,
+         41348,
+         56164,
+         55544,
+         51355,
+         42837,
+         90056,
+         45219,
+         31409
+      ],
+      "backdrop_path": "/fvO0GISTwagBmRnEbx2TRXhjOzW.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Diane",
+               "gender": 1,
+               "credit_id": "52fe48559251416c91088a6f",
+               "name": "Janet Gaynor",
+               "profile_path": "/xDQjovPVMikSsfR8Ww9IZBgI76u.jpg",
+               "id": 9088,
+               "order": 0
+            },
+            {
+               "cast_id": 36,
+               "character": "Chico",
+               "gender": 0,
+               "credit_id": "56806c69c3a3684be300e976",
+               "name": "Charles Farrell",
+               "profile_path": "/8aiT8CIMF5qZOenGs23Ojj2EAqv.jpg",
+               "id": 1231648,
+               "order": 1
+            },
+            {
+               "cast_id": 25,
+               "character": "Nana",
+               "gender": 1,
+               "credit_id": "5680608d9251414d9800426f",
+               "name": "Gladys Brockwell",
+               "profile_path": null,
+               "id": 98040,
+               "order": 2
+            },
+            {
+               "cast_id": 18,
+               "character": "Gobin",
+               "gender": 2,
+               "credit_id": "56805efac3a368607500c58e",
+               "name": "David Butler",
+               "profile_path": "/2MivycBAyVLbLJfZAOtqyFjUCAR.jpg",
+               "id": 76381,
+               "order": 3
+            },
+            {
+               "cast_id": 4,
+               "character": "Col. Brissac",
+               "gender": 2,
+               "credit_id": "52fe48559251416c91088a77",
+               "name": "Ben Bard",
+               "profile_path": null,
+               "id": 85899,
+               "order": 4
+            },
+            {
+               "cast_id": 5,
+               "character": "Boul",
+               "gender": 0,
+               "credit_id": "52fe48559251416c91088a7b",
+               "name": "Albert Gran",
+               "profile_path": null,
+               "id": 1104843,
+               "order": 5
+            },
+            {
+               "cast_id": 19,
+               "character": "Madame Gobin",
+               "gender": 1,
+               "credit_id": "56805f02c3a368227b0040e1",
+               "name": "Marie Mosquini",
+               "profile_path": "/6OqxybecbSEad9swBDCm8zLF3NO.jpg",
+               "id": 148441,
+               "order": 6
+            },
+            {
+               "cast_id": 20,
+               "character": "Sewer Rat",
+               "gender": 2,
+               "credit_id": "56805f0e9251414d98004224",
+               "name": "George E. Stone",
+               "profile_path": "/aDX2se7zXTrwq3YbYnrZZFMwIFS.jpg",
+               "id": 3163,
+               "order": 7
+            },
+            {
+               "cast_id": 21,
+               "character": "Uncle George",
+               "gender": 2,
+               "credit_id": "56805f16c3a3684bcc00ed80",
+               "name": "Brandon Hurst",
+               "profile_path": "/jU1SqbZ6de4cMQJo3rpsdkNJqD9.jpg",
+               "id": 29580,
+               "order": 8
+            },
+            {
+               "cast_id": 22,
+               "character": "Aunt Valentine",
+               "gender": 0,
+               "credit_id": "56805f1fc3a3684bcc00ed84",
+               "name": "Jessie Haslett",
+               "profile_path": null,
+               "id": 1554473,
+               "order": 9
+            },
+            {
+               "cast_id": 23,
+               "character": "",
+               "gender": 0,
+               "credit_id": "56805f259251417def00e828",
+               "name": "Frankie Genardi",
+               "profile_path": null,
+               "id": 1329661,
+               "order": 10
+            },
+            {
+               "cast_id": 24,
+               "character": "Father Chevillon",
+               "gender": 0,
+               "credit_id": "56805f60c3a3682abc006f85",
+               "name": "Emile Chautard",
+               "profile_path": null,
+               "id": 13346,
+               "order": 11
+            },
+            {
+               "cast_id": 26,
+               "character": "",
+               "gender": 0,
+               "credit_id": "56806093c3a3682abc006fb2",
+               "name": "Lily Tietelbaum",
+               "profile_path": null,
+               "id": 1554491,
+               "order": 12
+            },
+            {
+               "cast_id": 27,
+               "character": "Arlette",
+               "gender": 1,
+               "credit_id": "5680609bc3a36828f5003b61",
+               "name": "Lillian West",
+               "profile_path": null,
+               "id": 85738,
+               "order": 13
+            },
+            {
+               "cast_id": 28,
+               "character": "(uncredited)",
+               "gender": 2,
+               "credit_id": "568060a3c3a3684bcc00edda",
+               "name": "Henry Armetta",
+               "profile_path": "/fg2bpiZypUQeKmPNvxWYxPDw6ba.jpg",
+               "id": 95725,
+               "order": 14
+            },
+            {
+               "cast_id": 29,
+               "character": "(uncredited)",
+               "gender": 1,
+               "credit_id": "568060ab9251412e5200c1ee",
+               "name": "Italia Frandi",
+               "profile_path": null,
+               "id": 1508020,
+               "order": 15
+            },
+            {
+               "cast_id": 30,
+               "character": "(uncredited)",
+               "gender": 1,
+               "credit_id": "568060b69251414d98004278",
+               "name": "Venezia Frandi",
+               "profile_path": null,
+               "id": 1508021,
+               "order": 16
+            },
+            {
+               "cast_id": 31,
+               "character": "Bit Role (uncredited)",
+               "gender": 0,
+               "credit_id": "568060be9251417ddd00e42f",
+               "name": "Lois Hardwick",
+               "profile_path": "/gBUUnDM9F3rOGuGYgaePp8kcQae.jpg",
+               "id": 1376413,
+               "order": 17
+            },
+            {
+               "cast_id": 32,
+               "character": "",
+               "gender": 0,
+               "credit_id": "568060c5c3a3684bcc00ede6",
+               "name": "Sue Borzage",
+               "profile_path": null,
+               "id": 1554492,
+               "order": 18
+            },
+            {
+               "cast_id": 33,
+               "character": "",
+               "gender": 0,
+               "credit_id": "568060c9c3a3684be300e7d7",
+               "name": "Mary Borzage",
+               "profile_path": null,
+               "id": 1554493,
+               "order": 19
+            },
+            {
+               "cast_id": 34,
+               "character": "",
+               "gender": 0,
+               "credit_id": "568060cec3a36828f5003b6d",
+               "name": "Dolly Borzage",
+               "profile_path": null,
+               "id": 1554494,
+               "order": 20
+            },
+            {
+               "cast_id": 35,
+               "character": "",
+               "gender": 0,
+               "credit_id": "568060d3c3a3684be900da9c",
+               "name": "Lewis Borzage Sr.",
+               "profile_path": null,
+               "id": 1554495,
+               "order": 21
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe48559251416c91088a6b",
+               "name": "Frank Borzage",
+               "profile_path": "/ywsES5vf5uH4GelIDmaJWJAhdOG.jpg",
+               "id": 14855,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5646b7199251413ad50019d7",
+               "name": "Austin Strong",
+               "profile_path": null,
+               "id": 1144687,
+               "department": "Writing",
+               "job": "Author"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5646b721c3a368260c0019a4",
+               "name": "Benjamin Glazer",
+               "profile_path": null,
+               "id": 89045,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5646b72ec3a3682605001937",
+               "name": "William Fox",
+               "profile_path": "/wz9AXXu88Xod3ZensGd8407y2Bw.jpg",
+               "id": 9078,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5646b7559251413ad50019e1",
+               "name": "William P. Perry",
+               "profile_path": null,
+               "id": 1535877,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5646b770c3a368260c0019ae",
+               "name": "Ernest Palmer",
+               "profile_path": null,
+               "id": 137885,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5646b77ec3a3682601001a5d",
+               "name": "Joseph A. Valentine",
+               "profile_path": null,
+               "id": 17669,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5646b7889251413ade001915",
+               "name": "H.H. Caldwell",
+               "profile_path": null,
+               "id": 1010724,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5646b78f9251413ae10018b6",
+               "name": "Katherine Hilliker",
+               "profile_path": null,
+               "id": 1010504,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5646b797c3a3682614001bbb",
+               "name": "Harry Oliver",
+               "profile_path": null,
+               "id": 1456432,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5646b79ec3a36826200019d1",
+               "name": "Freddie Stoos",
+               "profile_path": null,
+               "id": 1535878,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5646b7a7c3a3682601001a64",
+               "name": "Kathleen Kay",
+               "profile_path": null,
+               "id": 1534703,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5646b7afc3a3682611001861",
+               "name": "Bert Offord",
+               "profile_path": null,
+               "id": 1535879,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "War",
+            "id": 10752
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 3.273581,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 82474,
+      "vote_count": 28,
+      "budget": 0,
+      "overview": "A dejected Parisian sewer worker feels his prayers have been answered when he falls in love with a street waif.",
+      "similar": [
+         24420,
+         1024,
+         1259,
+         1643,
+         17612,
+         38,
+         979,
+         13,
+         1903,
+         50546,
+         86331,
+         46705,
+         272693,
+         627,
+         276,
+         332872,
+         290762,
+         13523,
+         226,
+         72105
+      ],
+      "original_title": "7th Heaven",
+      "runtime": 110,
+      "poster_path": "/meu6Y6yL506kJ8ke1ZVItYK4ezR.jpg",
+      "spoken_languages": [],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "Fox Film Corporation",
+         "id": 5488,
+         "origin_country": ""
+      }],
+      "release_date": "1927-01-01",
+      "vote_average": 7.1,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Black and White",
+      "budgetCurrency": null,
+      "directors": ["Frank Borzage"],
+      "runtime": 110,
+      "synopsis": null,
+      "writers": [
+         "Austin Strong",
+         "Benjamin Glazer"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0018379/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTk2MjUzMzk3OV5BMl5BanBnXkFtZTcwOTk1MjQxMw@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Janet Gaynor, Charles Farrell, Ben Bard | See full cast and crew »"],
+      "reviews": [
+         "There are some things in life I don't understand. Applied mathematics. Bunions. The working class persistantly voting conservative. Frank Borzage languishing in critical limbo. What is wrong with you people (I mean critics, not you, dear reader)? It can't be because he made silly women's pictures, because Ophuls, Murnau, Sirk and Minnelli have all appeared in Top 100 lists in the last two decades. I don't get it: Borzage was definitely a master: of light, space, plot, critique and emotion. His films - of which I have only seen four, not for want of trying - are among the most emotionally intense and beautiful things in cinema. They offer the straightforward weepie thrills we expect from melodrama, as well as an unexpected critical dimension. Although I just about prefer the faded self-pity of THREE COMRADES, SEVENTH HEAVEN is probably his masterpiece. It is astonishing in so many ways: let me list some. The more I see of her, the more remarkable an actress I find Janet Gaynor. The film's progressive politics - an impoverished victim, suicidal, prostituted, heinously whipped by her sister, transforms into a loving wife, fierce protector of her home, member of the workforce, and eventual carer of her husband - owes much to her all-encompassing performance. The use of light and shade to represent the emotional life of the characters. The (Americanised) Expressionistic use of space, which breaks up conventional point of view to provide varying levels of experience and ways of looking. The deceptively delicate poetry of the imagery. The tacit outrage at a system that forces people to live so badly. Even the movie score, uniquely, shows an intelligent perception of what Borzage was trying to do. Diane and Chico have many obstacles thrown in their way, both individually and collectively, but the most terrifying and inexorable is that of the war. It is quite shocking to find a melodrama - by its nature domestic, local, specific, small-scale and personal - erupt into a war film, that most national of crises. The effect is wrenching, but no more so than the events of the melodrama which alternated the most radiant highs with the most despairing lows. Witness the astonishing, jerking, tracking shot as Diane flees her sister, shattering the smooth rhythm of composition and editing. Borzage, like no other director before Kubrick, is responsive to the farce of war, as well as its horror. There are sublime scenes of comedy amidst the carnage. The battle scenes put pretenders like ALL QUIET ON THE WESTERN FRONT to shame; the sheer scale and irrationality of war bursts the screen. Points of identification become lost, the tyranny of destruction is a perversely beautiful thing. It is in this context that the couple's transcendent love must be seen. What could have been as a desperately mushy romance with its talk of the Bon Dieu and heaven, becomes a necessary rebellion, a refusal to succumb to social pressures, war, nation's follies, domestic horrors, betrayal or death. So the ending is not preposterous, but the perfectly comprehensible hallucination of a woman who, having been raised from hell, could not possibly leave heaven now. Imperishable.",
+         "SEVENTH HEAVEN, released as 7th HEAVEN (Fox, 1927), directed by Frank Borzage, is a tender love story set in pre-World War I Paris that unites two unlikely people to become popular twosome of the silver screen, the pert and angelic Janet Gaynor and the tall but not-so-rugged Charles Farrell for the first of twelve movies they were to appear together. Chico Robas (Charles Farrell) is a sewer worker in the streets of Paris whose ambition is to be promoted to street-cleaner. Although he is self-confident, he lacks religious faith, believing God has disappointed him to a point of becoming an atheist. Not far away is Diane (Janet Gaynor), a frightful young girl, is being abused by her vengeful sister, Nana (Gladys Brockwell), who pleasures herself by whipping the frightful thing for the slightest cause. When Nana feels she's been cheated out of living the life of luxury with her visiting rich uncle (Brandon Hurst) due to Diane's truthfulness to his questions of not actually being \"good girls,\" Nana grabs her whip and starts beating her as she runs out the door and into the streets. Lying in the gutter and in the process of being strangled, Chico comes to the girl's rescue, frightening Nana away. Shortly after-wards, Diane decides to take her own life with Chico's knife, but is soon stopped by him. When Diane is denounced to the police by Nana, Chico, once more comes to her defense, telling the law-abiding officer the waif is his wife. As the police intend on checking out his story, Chico, who now feels pity for the girl, invites her to staying his apartment, a seventh floor walk up flat which Diane soon calls, \"Seventh Heaven.\" During that time, Chico obtains the job he wants and looks forward to bigger and better things. As for Diane, because of Chico's self-confidence that makes him a very \"remarkable fellow,\" she no fears life. She soon proves her courage first by defeating Nana when confronted with her face to face, and after-wards by going through life alone after Chico enters the military with the outbreak of the Great War. In one of the film's most memorable scenes set during their long separation, Chico and Diane communicate with each other through their hearts and minds every night at the stroke of eleven as promised prior to his departure. Then on one particular evening, Chico is caught in a bombing explosion which sends the message immediately to Diane, now occupying her time as a munitions worker, sensing something has seriously gone wrong. This sentimental love story, based on the play by Austin Strong, by 1927 standards, was so popular that it earned Janet Gaynor an Academy Award as Best Actress, the first to be honored for such an award. Simultaneously, she won for SUNRISE (1927) and STREET ANGEL (1928 while Frank Borzage was voted as Best Director. Twentieth Century-Fox remade SEVENTH HEAVEN in 1937 with an added plus to spoken dialog instead of the use of title cards, with the new Diane and Chico enacted by Simone Simon and James Stewart. Like Gaynor, Simon was short and fixed up to resemble her while Stewart, like Farrell, was the ever-so-tall \"remarkable fellow.\" However, SEVENTH HEAVEN appears to work well as a silent than during the changing times of the 1930s, which by then seemed old-fashioned and outdated. With the sound version 22 minutes shorter than the original two hour silent, the elements between two central characters remains the same, right through the young couple climbing seven flights of stairs, an exhausted journey, as a trip to \"seventh heaven,\" hence the title. Had SEVENTH HEAVEN been made some years earlier, it is my envision that it would have been directed by DW Griffith, starring Lillian Gish as the abused waif, with Richard Barthelmess playing Chico. Also in the supporting cast are Ben Bard as Colonel Brissac; David Butler as Gobin; Albert Gran as Boul; Emile Chautard as Father Chevillion; and George E. Stone as The Sewer Rat. Gladys Brockwell as the abusive sister, stands out with her performance in her key scenes, especially with those vengeful eyes that would be an instant reminder to resembling that of Joan Crawford shortly before Crawford began looking like Crawford. SEVENTH HEAVEN was one of the twelve selected films to appear during the summer months on public television's 1975 presentation of \"The Silent Years\" as hosted by Lillian Gish, with a piano score by William Perry from the Paul Killian collection, and off-screen female vocalist singing to the title tune of \"Seventh Heaven.\" In the Critic's Choice Video Masterpiece Collection distributed in 1997, the SEVENTH HEAVEN copy remained the same as it played on TV back in 1975, with color tinting as an added treat. The Perry piano score was replaced with the original synchronized Fox Movietone score featuring the song and vocalization of \"Diane\" in its soundtrack. In spite of how SEVENTH HEAVEN will play to movie goers today, the movie itself represents the kind of movies made popular during the silent era and should be treated as such. But it is Janet Gaynor, under the tender direction of Frank Borzage, whose expert know-how, succeed in making this sugary romance into something special. (***)",
+         "'Seventh Heaven (1927)' is usually compared to 'Sunrise: A Song of Two Humans (1927),' and not without reason. Director Frank Borzage has a keen sense for lighting and shot composition, perhaps not as effortlessly graceful as that of Murnau, but the film superbly explores three-dimensional space, most memorably in a vertical long take that follows the characters up seven floors of staircases, and a backwards tracking shot through the crowded trenches of a battlefield. Janet Gaynor, who also starred in 'Sunrise,' is once again a perfect picture of fragility and helplessness, a persona at which she was bettered only by Lillian Gish. More interesting, however, is that Gaynor's character undergoes a startling character arc, developing from a weak, embattled victim � a trampled flower � to a decisive and assertive woman, a member of the workforce, and an independent but devoted wife. Her husband, played by Charles Farrell, likewise undergoes a transformation, of the spiritual kind. Together, they share a love so definitive that the formula has since become familiar, but Borzage keeps it fresh. Perhaps the greatest miracle about 'Seventh Heaven' is that the romance works at all. Farrell's Chico is a haughty, athletic sewer worker, so determined of his own worth that he bores his grotesque colleagues with anecdotes of his future greatness. Gaynor's Diane, a small creature routinely lashed by her sleazy sister, is at first an object of derision for Chico, who uses her mere existence to affirm his atheism. Indeed, so aloof is his attitude towards her that I could scarcely believe that the pair were to fall in love, but the transition is carried out gradually and convincingly. As in most great romances, the two star-crossed lovers are swiftly separated by the onset of war. Here, once again, Borzage's keen eye for visual storytelling results in some wonderful sequences of conflict, with his portrayal of the battlefield perhaps serving as inspiration for Lewis Milestone's war drama 'All Quiet on the Western Front (1930).' Only with the occasional moments of misplaced comedy � the ritualistic bowing of the street-sweepers, for example � does the director fumble with the film's mood. This reviewer being an atheist, films dealing with a central religious theme face an uphill battle. Chico opens the film not unlike myself, as an obstinate atheist who curses God for failing to answer his prayers. Christianity intercedes through a kind-hearted priest, who offers Chico his dream-job as a street-sweeper, as well as two religious necklaces. Predictably, our hero is converted by the film's end, and, indeed, stages a resurrection that borders on Biblical. This \"miraculous\" ending could easily have had me rolling my eyes, but � somehow, and against all odds � it didn't. Borzage doesn't play Chico's survival as a startling revelation, and nor does it feel tacked-on, as does the fate of Murnau's hotel doorman in 'The Last Laugh (1924).' Alongside Diane's stubborn insistence that her husband is still alive, to actually see him pushing through the crowds seemed like the most natural thing in the world. And even if Chico is dead, then his wife is already there in Heaven, on the seventh floor, waiting to greet him.",
+         "This could have been something awful. It's high schmaltz, really fever-pitched melodrama, and the plot relies on a huge number of coincidences. But it all works beautifully, through a perfect combination of acting, directing, and photography, not to mention the incredible lighting and set design. This is one of the great silent movies, and one of the great screen romances. Janet Gaynor had quite a year in 1927, turning in fantastic performances in this, as well as F. W. Murnau's Sunrise. 10/10 A year later, Buster Keaton in The Cameraman would do a brilliant spoof of the famous staircase crane shot from Seventh Heaven.",
+         "This was an immensely popular film in 1927, helping to win Janet Gaynor the first Best Actress Oscar (won for a trio of performances) plus Oscars for Direction and Writing Adaptation. Nominations went to the film itself and the Art Direction. For those who love great romances this fits the bill in a very LA BOHEME-ish way. Set amongst the rooftops and attics of Paris, this is the story of Chico and Diane, how he picks her up out of the gutter and falls in love with her, how he goes to war and returns blinded but reunited. Not much of a plot, is there? However, there is enough charm and beauty to still dazzle, although it is a bit overlong and can seem tedious to modern audiences. It is certainly a part of film history and should be seen by all fans of silent films. Silent film collector, Peter Kavel, provides it on video for interested parties.",
+         "...but I live near the stars. Another sublime work by John Borzage,one of the greatest directors America has ever had. Charles Farrell and Janet Gaynor were the romantic couple of that era.Both were able to transcend the limitations they were working under,that is to say ,to convey any emotion without using voices. The soundtrack is particularly good including military marches (\"la Madelon\" sung in French,\"La Marche Lorraine\")as well as French folk songs (\"J'ai Du Bon Tabac\" \"Fanfan La Tulipe\")and even opera arias. Remarkable scenes: Gaynor,sadistically whipped by her sister ,and the relatives from South America,who would not take in those whores Chico (Farrell)discussing faith with his fellow men in the streets at night ,and the \"miracle\" : the priest telling him he would become a street-washer.\"The Bon Dieu\" (in French in all the lines) cares about you!). Chico and Diane in the boy's apartment on the seventh floor : this is probably the most romantic scene in the whole silent age ,with the eventual exception of the scene in the church in Murnau's \"Daybreak\" which also featured Gaynor.These extraordinary lines by Chico: \"I work in a sewer but I live near the stars. The historical episode of \"les Taxis de la Marne\" and the old man speaking of his old car :\" She gave her life for France\" . More than \"the river\" the complete version of which is unfortunately impossible to see,\"Seventh Heaven\" contained the seeds of what Borzage (and others) would do later The lovers against a hostile world subject reappear in \"little man what now?\" and \"Mortal Storm\" .All in all,the woman is stronger than the man ,it's her who builds the couple ;here,Chico did not want to say \"I love you\" ,he thought it was silly.And he is a remarkable fellow though; the loyal male friendship between Gobin and Chico predates the extraordinary camaraderie depicted in \"three comrades\" The priest and Chico's road to Damascus ,we will find them back in \"Strange Crago\" ,where Borzage's Christian concerns admirably emerge again. The telepathy,the supreme hour (the French title is \"l'Heure Suprême\" ) when the two lovers,although they are worlds apart,during which they are \"together\" not only influenced Henry Hathaway for \"Peter Ibbetson\" but also predates Borzage's own \" I'll always loved you\" where the two heroes communicate by music. The last pictures are so strong we do not know at first if it's reality or if Chico takes Diane away into a dream...or onto the true Seventh Heaven. But we,the audience, we were in the Seventh Heaven .Borzage was a genius,period.",
+         "Some films are brilliant. Others are fine. This one is beyond category. Like Murnau's Sunrise, for instance, or Sjöström's The Wind, it is amazingly impossible to describe without going over the top. Especially since it concerns what the French Surrealistes dubbed \"L'Amour Fou\", the love that goes beyond reason, beyond society barriers, beyond the capacity to back down, and involves the story of a man(Charles Farrell) and a woman(Janet Gaynor) who discover passion through co-existing, and eventually meet up after one of them actually dies. Or does he? Beginning inauspiciously in a reconstructed, Dickensian Paris, the adventures of Chico and Diane start by an encounter, and in a scene that is paralleled by other Borzage films(A Man's Castle, Mannequin, Street Angel)has the man sheltering the woman at his home on the roofs to protect her both from prostitution and her family; This type of cohabitation is often the key to Borzage's love affairs in his melodramas, as if it was necessary to cohabit before discovering a connection between two people; at Chico's, they will co-exist, and fall in love, and even(As in Man's Castle and The Mortal storm)resort to a mock marriage before being separated by war: the necessity of fashioning a sacred link will elevate their love further. Chico is drafted into the French ranks; all the ensuing days though, they will \"communicate\" by taking an 11 o'clock break in whatever they're doing, in order to be reunited in thought, until one day Chico does not answer Diane's message. After a period of despair, Diane is ready to give him up, but as the war finishes, Chico unexpectedly returns: Borzage shows him in the street, blinded by a wound, but transfigured by love, walking through the cheers and congratulations of the people around him, as if both born again from the atmosphere of joy and indifferent to it, since his only goal is to see Diane again, to reach her before she stops believing in him. As the two lovers reunite they are all alone, in Seventh Heaven. This \"ascension\" motif is echoed in a surprisingly effective way by the fact that Chico works in the sewers when he rescues Diane(She is figuratively speaking \"in the gutter\" herself)and lives just under the roofs, where he can see the stars; thus we are foretold what the movement will be; Borzage had a set built to allow the vertical use of a camera in order to shoot the ascension of the stairways in one take. Another sign of the times is the expressionistic depiction of war by Borzage (Who will repeat the device in Lucky star two years later) war, seen in this film, is mud, explosions, sweat and fear, with no . It is a world entirely deprived of realism, but more simply it's a world that neither Chico nor Diane want to acknowledge. Apart from being very close to Murnau's experiments in stylization(Faust, Tartuff, Sunrise, The last Laugh), it is also a significant departure, on the part of an American director, from the realism of war as it was seen in The Big Parade(Vidor, 1925) or Wings(Wellman)the same year. Ford would partially repeat the move in his \"Four Sons\" in 1928 for... Fox. As everything in the film, war is a mental place, hence the possibility of escaping it mentally at a given time, or even simply an annoying obstacle between Chico and Diane, just as the notion of duty(Chico's duty as a soldier keeps him far away from his lover), or morals(If they submitted to the moral standards of their day, Chico would never offer Diane any shelter, let alone permanent accommodation, not even with a fake wedding): what we see in this film is desire elevated to the point of becoming a conduct. Chico desires Diane, or to be with Diane so much that he resuscitates. War, social conventions, death, nothing can stand in the way. Seventh Heaven is at first glance very usual melodramatic fare, but enhanced by the impressive skill of director Frank Borzage on the one hand, and also benefiting on the other hand very much from the rivalry of Murnau's Sunrise, that was also shot at the Fox Studios at the time. Everybody at Fox was invited to see what Murnau was doing, and the dailies provoked many a vocation. Ford, for instance, never recovered from seeing these images. Seventh Heaven is probably the first film having benefited directly from Murnau's influence, and it is a blessing that Borzage, without topping Murnau's effort, was able to almost equal it, by refusing to compromise by tampering with the lack of logic of the plot, or by allowing his two actors(Gaynor and Farrell, brilliant as ever together)free reign in the expression of their emotions, as suggested by the very genre of the film: Borzage's infamous tendency to weep on the shooting of his films is reported to have always been a key element of his direction on such films as this or his powerful MGM melodramas of the late 30s. To sum up, these twelve reels are an emotional experience, like the aforementioned masterpieces, and decidedly a key film from an exceptional period in the history of cinema.",
+         "7th Heaven (1927) Coming at the end of the silent era, we might expect a film of the highest order in that silent era sense, untainted by sound, depending on gesture and action to keep the plot going. And Seventh Heaven really is a great film. It's complex, subtle, beautiful, and not clunky, not a bit what some people picture when they think of silent films. It also is a great love story. Janet Gaynor was becoming a big star (she won best actress for this performance among others that year) and her counterpart Charles Farrell is a convincing charming actor. It's Paris 1914 when we begin, and that's not half bad. Then there are some early versions of the war, including some scenes with flame throwers that ought to surprise everyone. What becomes of our two leads as they struggle to stay together during all this is for you to see, but it's told with economy (even at two hours the movie never drags) and with touching honesty. The director, Frank Borzage, made a whole bunch of good films during the 1930s, in the sound era, but this shows a real mastery of the earlier basics of cinema. Credit also goes also the cinematographer Ernest Palmer, a lesser known veteran who made the most of a lot of great sets and a range of interior and exterior scenes. Keep an eye on that, especially a moment toward the beginning where the camera follows the actors up the circular stairs, floor after floor, seamlessly. This will be echoed with perfection at the end of the film, so it's not just showing off. And keep some Kleenex handy. It'll get to you.",
+         "This love story is so much a product of its' era, a time of innocence and charm. The leads, Gaynor and Farrell, are simply perfect as the lovers who are parted by World War I. Janet Gaynor is beautiful and Charles Farrell is handsome. SEVENTH HEAVEN has it all: prostitution, romance, war, a sadistic whipping, and religion. It is melodramatic, to be sure, but this is part of the charm. It is a winner of multiple 1st Academy Awards, and deserves to be seen on DVD in a Fox release. Perhaps if we wrote to Fox Home Entertainment. They allowed that abysmal tape of SEVENTH HEAVEN to be circulated by Critics Choice. It's time to correct a bad judgment.",
+         "I finally had the chance to see the beautifully preserved copy of Seventh Heaven(1927)on DVD and can say that it is really worth it.For many years one aunt who has been a movie fan had told me how great the 1938 remake was but I felt really disappointed after seeing it for reasons that I will not comment here. I kept telling her that the 1927 original was supposed to be much better and I have confirmed it today. I find both Janet Gaynor and Charles Farrell brilliant in their performances.The movie should be appealing to modern audiences for the reason that its plot can be summed up in one single word redemption.Janet Gaynor's Diane is proof that you can overcome terrible obstacles in your upbringing and make considerable changes in your self esteem through falling in love in an unexpected place and with an unexpected person. Charles Farrell's Chico is that creature from the sewer who instead of complaining about his fate is full of self worth and incredible self esteem. He may be wrong in many things but is basically a remarkable fellow capable of going out of his way to help others.Little does he know what life has in store for him and how that meeting on the streets will change his life. Janet Gaynor plays a waif in the great tradition that Lilian Gish created in Broken Blossoms (1919).Giuletta Massina in La Strada (1954) and Samantha Morton in Sweet and Lowdown(1999) are others that I remember very vividly.Charles Farrell is incredibly contemporary and having found stardom right after the arrival of the talkies it is a shame that he did not become a lasting name in the same sort of Gable, Cooper or Joel McCrea.Gaynor and Farrell look wonderful together. it is no wonder that the studio kept pairing them until exhausting the partnership. All together the production is remarkable.The direction, staging, editing and music are top notch however its considerable length and story coincidences render it as a would be masterpiece.That says a lot.Coincidences and the melodramatic tone present in segments of the 20's films is as unnecessary then as they are today. I recommend Seventh Heaven to all movie fans.Sit and enjoy it."
+      ],
+      "genres": [
+         "Drama",
+         "Romance"
+      ],
+      "productionCompanies": ["Fox Film Corporation"],
+      "summaries": [
+         "In Paris, in the early years of the twentieth century, lives Chico, a sewer worker with lofty aspirations. One night, Chico saves a young prostitute named Diane from the murderous rage of her tyrannical sister. Despite her lifestyle, Diane is honest and innocent, and when the police arrive to arrest her, Chico spontaneously claims that she is his wife. Forced to maintain this facade or else both face prison sentences, Chico reluctantly allows Diane to live with him -- and in the process, love gradually blossoms between them. However, the dark spectre of World War I has begun to descend upon France, and Chico and Diane cannot help but fall under its shadow.",
+         "A street cleaner saves a young woman's life, and the pair slowly fall in love until war intervenes."
+      ],
+      "budget": 0
+   },
+   "movielensId": 69771,
+   "movielens": {
+      "languages": [""],
+      "releaseDate": "1927-01-01",
+      "dvdReleaseDate": "2008-12-09",
+      "directors": ["Frank Borzage"],
+      "runtime": 110,
+      "movieId": 69771,
+      "title": "7th Heaven",
+      "mpaa": "",
+      "actors": [
+         "Janet Gaynor",
+         "Charles Farrell",
+         "Gladys Brockwell",
+         "David Butler",
+         "Ben Bard",
+         "Albert Gran",
+         "Marie Mosquini",
+         "George E. Stone",
+         "Brandon Hurst",
+         "Jessie Haslett",
+         "Frankie Genardi",
+         "Emile Chautard",
+         "Lily Tietelbaum",
+         "Lillian West",
+         "Henry Armetta",
+         "Italia Frandi",
+         "Venezia Frandi",
+         "Lois Hardwick",
+         "Sue Borzage",
+         "Mary Borzage",
+         "Dolly Borzage",
+         "Lewis Borzage Sr."
+      ],
+      "imdbMovieId": "0018379",
+      "originalTitle": "7th Heaven",
+      "genres": [
+         "War",
+         "Drama",
+         "Romance"
+      ],
+      "youtubeTrailerIds": [],
+      "plotSummary": "A dejected Parisian sewer worker feels his prayers have been answered when he falls in love with a street waif.",
+      "tmdbMovieId": 82474,
+      "avgRating": 3.38889,
+      "releaseYear": "1927",
+      "numRatings": 27,
+      "posterPath": "/meu6Y6yL506kJ8ke1ZVItYK4ezR.jpg"
+   }
+}

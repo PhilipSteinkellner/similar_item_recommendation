@@ -1,0 +1,611 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "based on novel",
+            "id": 818
+         },
+         {
+            "name": "russia",
+            "id": 2139
+         },
+         {
+            "name": "romance",
+            "id": 9840
+         }
+      ],
+      "imdb_id": "tt0040098",
+      "video": false,
+      "title": "Anna Karenina",
+      "recommendations": [],
+      "backdrop_path": "/iEDqA8PBVD6SqzVQonpua2bsHc.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Anna Karenina",
+               "gender": 1,
+               "credit_id": "52fe44b69251416c9101a523",
+               "name": "Vivien Leigh",
+               "profile_path": "/wUy2GIFZjSpE01xUMy9wBy2xqjc.jpg",
+               "id": 10538,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Alexei Karenin",
+               "gender": 2,
+               "credit_id": "52fe44b69251416c9101a527",
+               "name": "Ralph Richardson",
+               "profile_path": "/p9FyikB1ShTtq1cpMgkkhUrI9Bp.jpg",
+               "id": 12689,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Count Vronsky",
+               "gender": 2,
+               "credit_id": "52fe44b69251416c9101a52b",
+               "name": "Kieron Moore",
+               "profile_path": "/blayrwuhhugogG4XBE00zqn3SlB.jpg",
+               "id": 101678,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Stefan Oblonsky",
+               "gender": 2,
+               "credit_id": "52fe44b69251416c9101a52f",
+               "name": "Hugh Dempster",
+               "profile_path": null,
+               "id": 108802,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Dolly Oblonsky",
+               "gender": 1,
+               "credit_id": "52fe44b69251416c9101a533",
+               "name": "Mary Kerridge",
+               "profile_path": null,
+               "id": 47015,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Princess Scherbatsky",
+               "gender": 1,
+               "credit_id": "52fe44b69251416c9101a537",
+               "name": "Marie Lohr",
+               "profile_path": null,
+               "id": 90644,
+               "order": 5
+            },
+            {
+               "cast_id": 7,
+               "character": "Prince Scherbatsky",
+               "gender": 2,
+               "credit_id": "52fe44b69251416c9101a53b",
+               "name": "Frank Tickle",
+               "profile_path": null,
+               "id": 108803,
+               "order": 6
+            },
+            {
+               "cast_id": 8,
+               "character": "Kitty Scherbatsky",
+               "gender": 0,
+               "credit_id": "52fe44b69251416c9101a53f",
+               "name": "Sally Ann Howes",
+               "profile_path": "/t38RPvMbV3agtvD6zMdNJYtLQ2T.jpg",
+               "id": 70307,
+               "order": 7
+            },
+            {
+               "cast_id": 9,
+               "character": "Konstantin Levin",
+               "gender": 2,
+               "credit_id": "52fe44b69251416c9101a543",
+               "name": "Niall MacGinnis",
+               "profile_path": "/q5eQLCeSDWMJ4ghGJW4f7D6Os5k.jpg",
+               "id": 93163,
+               "order": 8
+            },
+            {
+               "cast_id": 10,
+               "character": "Nicholai",
+               "gender": 2,
+               "credit_id": "52fe44b69251416c9101a547",
+               "name": "Michael Gough",
+               "profile_path": "/lSADK0gjUtcq4B6zKIUwB3SofSP.jpg",
+               "id": 3796,
+               "order": 9
+            },
+            {
+               "cast_id": 11,
+               "character": "Princess Betty Tversky",
+               "gender": 1,
+               "credit_id": "52fe44b69251416c9101a54b",
+               "name": "Martita Hunt",
+               "profile_path": "/hZySDLGjzqFEYbv5XYK8D00tnFH.jpg",
+               "id": 20127,
+               "order": 10
+            },
+            {
+               "cast_id": 12,
+               "character": "Countess Lydia Ivanova",
+               "gender": 1,
+               "credit_id": "52fe44b69251416c9101a54f",
+               "name": "Heather Thatcher",
+               "profile_path": "/qIVahaQu1UsnH71BX2MPNDn7IsX.jpg",
+               "id": 108804,
+               "order": 11
+            },
+            {
+               "cast_id": 13,
+               "character": "Countess Vronsky",
+               "gender": 1,
+               "credit_id": "52fe44b79251416c9101a553",
+               "name": "Helen Haye",
+               "profile_path": "/57ZsJTrHg6aFPWZkkxo0kpYFBaw.jpg",
+               "id": 3674,
+               "order": 12
+            },
+            {
+               "cast_id": 14,
+               "character": "Princess Nathalia",
+               "gender": 1,
+               "credit_id": "52fe44b79251416c9101a557",
+               "name": "Mary Martlew",
+               "profile_path": null,
+               "id": 108805,
+               "order": 13
+            },
+            {
+               "cast_id": 15,
+               "character": "Countess Meskov",
+               "gender": 0,
+               "credit_id": "52fe44b79251416c9101a55b",
+               "name": "Ruby Miller",
+               "profile_path": null,
+               "id": 108806,
+               "order": 14
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe44b79251416c9101a561",
+               "name": "Julien Duvivier",
+               "profile_path": "/Hm7rqRuqGLtsUdSTyuDXfvXYk5.jpg",
+               "id": 39058,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44b79251416c9101a567",
+               "name": "Jean Anouilh",
+               "profile_path": null,
+               "id": 86660,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44b79251416c9101a56d",
+               "name": "Julien Duvivier",
+               "profile_path": "/Hm7rqRuqGLtsUdSTyuDXfvXYk5.jpg",
+               "id": 39058,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44b79251416c9101a573",
+               "name": "Guy Morgan",
+               "profile_path": null,
+               "id": 108807,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44b79251416c9101a579",
+               "name": "Alexander Korda",
+               "profile_path": "/iwUTfD7I6hcBWvx2PdJsCng9xmV.jpg",
+               "id": 2490,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44b79251416c9101a57f",
+               "name": "Herbert Mason",
+               "profile_path": null,
+               "id": 108808,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44b79251416c9101a585",
+               "name": "Constant Lambert",
+               "profile_path": null,
+               "id": 108809,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44b79251416c9101a591",
+               "name": "Russell Lloyd",
+               "profile_path": null,
+               "id": 14745,
+               "department": "Editing",
+               "job": "Supervising Film Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44b79251416c9101a597",
+               "name": "Dorothy Holloway",
+               "profile_path": null,
+               "id": 30173,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44b79251416c9101a59d",
+               "name": "Andrej Andrejew",
+               "profile_path": null,
+               "id": 13903,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44b79251416c9101a5a3",
+               "name": "Cecil Beaton",
+               "profile_path": null,
+               "id": 108810,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44b79251416c9101a5a9",
+               "name": "Harold Fletcher",
+               "profile_path": null,
+               "id": 108811,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44b79251416c9101a5af",
+               "name": "Helen Penfold",
+               "profile_path": null,
+               "id": 108812,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44b79251416c9101a5b5",
+               "name": "Ronald Kinnoch",
+               "profile_path": null,
+               "id": 70452,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44b79251416c9101a5bb",
+               "name": "Bill Beavis",
+               "profile_path": null,
+               "id": 108813,
+               "department": "Crew",
+               "job": "Scenic Artist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44b79251416c9101a5c1",
+               "name": "John Cox",
+               "profile_path": null,
+               "id": 12246,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44b79251416c9101a5c7",
+               "name": "Red Law",
+               "profile_path": null,
+               "id": 20139,
+               "department": "Crew",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44b79251416c9101a5cd",
+               "name": "Bert Ross",
+               "profile_path": null,
+               "id": 108814,
+               "department": "Crew",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44b79251416c9101a5d3",
+               "name": "W. Percy Day",
+               "profile_path": null,
+               "id": 108815,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44b79251416c9101a5d9",
+               "name": "Ned Mann",
+               "profile_path": null,
+               "id": 108816,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44b79251416c9101a5df",
+               "name": "Cliff Richardson",
+               "profile_path": null,
+               "id": 6608,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44b79251416c9101a5e5",
+               "name": "Robert Walker",
+               "profile_path": null,
+               "id": 108817,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44b79251416c9101a5eb",
+               "name": "John Kruse",
+               "profile_path": null,
+               "id": 108819,
+               "department": "Crew",
+               "job": "Loader"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44b79251416c9101a5f1",
+               "name": "Sam Benson",
+               "profile_path": null,
+               "id": 108820,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44b79251416c9101a5f7",
+               "name": "Hubert Clifford",
+               "profile_path": null,
+               "id": 108821,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe44b79251416c9101a5fd",
+               "name": "Elizabeth Montagu",
+               "profile_path": null,
+               "id": 108822,
+               "department": "Writing",
+               "job": "Dialogue"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54f8b892c3a368126c001dab",
+               "name": "Leo Tolstoy",
+               "profile_path": "/9aao2Es6ciI1LmGPH7ZptPfS7fK.jpg",
+               "id": 20875,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54f8b8a292514151c60050ba",
+               "name": "Henri Alekan",
+               "profile_path": null,
+               "id": 2307,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a5aa97a9251413f77014fc3",
+               "name": "Maisie Kelly",
+               "profile_path": null,
+               "id": 1959433,
+               "department": "Directing",
+               "job": "Continuity"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 1.007952,
+      "production_countries": [{
+         "iso_3166_1": "GB",
+         "name": "United Kingdom"
+      }],
+      "id": 32066,
+      "vote_count": 10,
+      "budget": 0,
+      "overview": "Stefan and Dolly Oblonsky have had a spat and Stefan has asked his sister, Anna Karenina, to come down to Moscow to help mend the rift. Anna's companion on the train from St. Petersburg is Countess Vronsky who is met at the Moscow station by her son. Col. Vronsky looks very dashing in his uniform and it's love at first sight when he looks at Anna and their eyes meet.",
+      "similar": [
+         281957,
+         11121,
+         226,
+         22971,
+         11224,
+         4771,
+         51828,
+         13,
+         75780,
+         137094,
+         581,
+         769,
+         812,
+         2502,
+         449176,
+         228205,
+         169917,
+         452507,
+         392044,
+         398818
+      ],
+      "original_title": "Anna Karenina",
+      "runtime": 139,
+      "poster_path": "/4HuFopwb5FXfbWR2YeBkaOxaXWZ.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Italiano",
+            "iso_639_1": "it"
+         }
+      ],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "London Film Productions",
+         "id": 659,
+         "origin_country": ""
+      }],
+      "release_date": "1948-01-22",
+      "vote_average": 5.8,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Black and White",
+      "budgetCurrency": null,
+      "directors": ["Julien Duvivier"],
+      "runtime": 105,
+      "synopsis": null,
+      "writers": [
+         "Jean Anouilh",
+         "Guy Morgan"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0040098/",
+      "coverLink": null,
+      "actors": [
+         "Vivien Leigh",
+         "Ralph Richardson",
+         "Kieron Moore"
+      ],
+      "reviews": [
+         "First off, let us concede that neither the 1935 Greta Garbo \"Anna Karenina\" nor the 1948 Vivian Leigh version comes close to capturing the complexities of Tolstoy's masterpiece. Most significantly, Konstantin Levin and Kitty's relationship, and more particularly, Levin's protracted personal and metaphysical development, are dropped entirely, both screenplays preferring to treat the story as an adulterous romantic triangle with snowflakes instead of palm trees. That said, what we are left with in both films are masterpieces of film craftsmanship, where the triple triumphs of cinematography, art direction, and costume design are the real stars. Which is not in any way to lessen the contributions of the cast, who in both instances, make the best of what they have to work with. Garbo enchants in many of her individual scenes, particularly with Freddy Bartholomew and Maureen O'Sullivan, (as Kitty). Who can forget her advising Kitty to seize her fleeting youth, with its promise of a dream prince to emerge from the blue haze of the mountain top. Equally impressive, is her muted aversion to Alexei Karenin, (Basil Rathbone). But she fails in her depiction of a fatal love for Count Vronsky (Frederic March). Garbo, with her solemn, majestic and singular self possession--her \"Queen Christina\" like cerebral detachment, is simply too thoughtful, too deliberate, to in any way convey Tolstoy's impulsive, febrile and thoughtless anti-heroine. True, she had forsaken all for John Gilbert in \"Christina,\" but that decision was the result of deep and thorough soul searching, and explained with the eloquence of Solomon to her courtiers. In \"Camille\" she is by profession a lover, and so her ultimate renunciation of Armand, reveals the true depth of her character. But one cannot conceive of her destroying the lives of others to satisfy a whimsical infatuation. And this is where Miss Leigh's Anna trumps Garbo, for Miss Leigh does successfully transmit Anna's neurasthenic and utterly reckless collapse at the feet of the dashing Count. She seems blown by forces much stronger than she--a daffodil in a windstorm, and light years from Garbo's deep Scandanavian imperturbability. Given the alleged similarities between Miss Leigh and Anna's disposition, perhaps this is life imitating art. In any case, it is why she makes a truer Anna, and why the role serves as a warm up for Blanche Dubois... She is also abetted in her interpretation, by the genuinely eerie, recurring, nightmare sequence--with the Charon like, white bearded old man, forever dogging her as he chinks away at the ice. An ill omen indeed ! And Miss Leigh conveys the desperation of her impending doom in every gesture and nuance. Then too Keiron Moore, (despite being an inferior actor to Frederic March) is much more dashing and handsome as Vronsky--a fact which, at least in terms of audience sympathy, helps explain the attraction. Strangely, Mr. March who had been so visually appealing as Dr. Jeckyll, just a few years earlier, photographs very poorly in the Garbo version, and is not helped by a buzz haircut. And as superb as Cedric Gibbons sets and Adrian's costumes are as a backdrop for Garbo, we feel Mr.Andrejew's art direction and Cecil Beaton's designs get the nod here as well, if only perhaps in their European origin, and the deep, appropriately moody nineteenth century shadows with which they are lit and photographed. However, as visually sumptuous cinematic recreations of a vanished aristocratic world--each version has much to savor, and should be taken in tandem.",
+         "When Vivien Leigh did her version of Anna Karenina for the British cinema she had the advantage of a less stringent censorship in the UK than Greta Garbo had working for MGM in the Thirties. Garbo was hemmed in by restrictions that she had to be a wronged woman, seduced and abandoned by her lover, and committing suicide to also atone for her sins. Vivien plays a woman who knows precisely what she was doing and yet she chose to flout the male dominated society of 19th Century Russia. Like Garbo she is married to a pill of a husband and when a dashing young cavalry officer shows his attentions to her, she falls madly in love. It's pointed out to her at least once in the film that her biggest sin is a lack of discretion. But Vivien and Kieron Moore want the whole world to know what's going on with them. Like William Randolph Hearst and Marion Davies. MGM softened the portrait of Count Vronsky in the Garbo version by making it an eagerness to get back into the military during war that causes the breakup. Here Kieron Moore is far less noble. Not a bad person but a weak one. His mother wants him to make a more advantageous marriage and not to a woman with a bad reputation even though he's the one who gave her the bad reputation. There's also a cop out scene filmed by MGM where Vronsky played by Fredric March expresses remorse over Anna in the end. No such scene exists in this more realistic version. Of course Ralph Richardson as the husband Karenin is just as big a pill as Basil Rathbone was back in 1935. A man quite full of himself in his high level job in the Czar's government, he only sees how Anna's betrayal is affecting him. Richardson is almost doing a dress rehearsal for his portrayal of Dr. Sloper in next year's The Heiress. Vivien Leigh was unfairly compared to Greta Garbo back when this came out, unfairly I think because there's only one Garbo. Vivien was a frail creature in life and that helped in a lot of her work. Anna was a frail creature herself unable to stand up to the hypocrisy and the pressure of the society around her. In fact Anna Karenina is a story of failure. Two people fall in love, one of them trapped in a loveless marriage, and attempt to flout society and they lose. Tolstoy sees all that and records it well, but offers no solution. Women's liberation was off the radar in old mother Russia.",
+         "It has always struck me as a pity that whenever film versions of \"Anna Karenina\" are discussed it is Greta Garbo's of 1935 that excites critical attention rather than Vivien Leigh's. I suppose this is inevitable given that Garbo's is the more memorable performance, but in all other respects I find Julien Duvivier's 1948 version the finer film. It was the first one I saw and got to know really well, so much so that when I finally caught up with the Clarence Brown film I loathed it by comparison. It somehow epitomised the worst of M-G-M by being so studio bound and schmaltzy whereas Duvivier seemed to have made every effort to give his a feeling for 19th century Russian atmosphere. Andrej Andrejew's art direction had a real period sense of style and the music score by Constant Lambert with its echoes of \"The Five\" was a world away from the Herbert Stothart syrup. But by far the biggest plus of the 1948 version is the magisterial performance by Ralph Richardson as Karanin which stands beside his other two great roles of the same period, that of Dr Sloper in \"The Heiress\" and Baines the butler in \"The Fallen Idol\". His Karenin is not the arrogant brute of Basil Rathbone's (too close to his Murdstone in \"David Copperfield\" made in the same year) but a deceived husband evoking pity through his inability to be loved. Even Kieron Moore's rather colourless Vronsky scores over Frederic March's as it suggests the character's innate weakness rather than his romantic dash. If the Duvivier film has a serious flaw it is the rather prissy \"upper class\" delivery of dialogue by the female characters. Even Vivien Leigh's Anna suffers from this. I have a theory that the fault may lie in Duvivier as I have noticed repeatedly how directors whose native language is not English fail to control the nuances of speech when directing an English language film. Antonioni's \"Blow Up\" and the dialogue of Harvey Keitel in \"Angelopoulos's \"Ulysses Gaze\" are examples. Interestingly the version recently shown on the British Carlton Films TV channel restored an additional 15 minutes to the version I had previously known, mainly early scenes that established minor characters with greater clarity. However the most significant restoration was a closing shot held considerably longer, thus giving that additional weight to the final tragedy that a really thoughtful director of Duvivier's calibre must have originally intended.",
+         "How can one possibly turn Tolstoy's novel into a \"short\" film? Even at 139 minutes in the uncut Korda version so much must be lost. What we end up, sad to say, is a first-rate melodrama without the psychological subtleties of the book. But that's the bad news. On the plus side, we have the sort of lavish the sky's-the-limit big, big, bigger budget production that only the Hungarian Alex Korda could have produced a few years after the world war on the sound stages of London --sets by the Russian Andreiev, costumes by the English Cecil Beaton; deep-focus photography and lighting by the French Henri Alekan (\"Belle et Bete\"), and music by the English composer Constant Lambert. Technically, this film contains some of the best B&W work ever done in Britian. Perhaps the greatest fault of the film is in the style of the acting. Vivian Leigh is a great beauty, very aristocratic, very British in her reserve, but when she falls in love with Vronsky she seems constitutionally incapable of the unbridled passion that Garbo brings to the role. Ralph Richardson, however, is perfect --far superior to Basil Rathbone. Richardson displays all the rigidity of Anna's husband; his enormous pride and wounded vanity; his total incapacity to understand his wife's heart. Needless to say, Kieron Moore as Vronsky tries very hard, looks wonderful in costumes, but he seems more a West-End juvenile than the great aristocrat and officer that Tolstoy depicts. Laurence Olivier would have been a perfect Vronsky. Why Korda chose not to cast him beside his wife is a mystery.",
+         "While certainly the vanities and indiscretions of upper crust Russia is examined by Tolstoy and it has been some time since I have read the lengthy novel, this version is certainly more memorable and effective than the Garbo version. I do agree with an earlier review in that Garbo herself, perhaps a bit too self-possessed and headstrong, could never represent the character of Anna, a woman carried away on passion, lust and impending tragedy. Vivien Leigh is stunning in her facial expressions and vulnerable, almost exotic appearance, as we see her in a black gown, contrasted dramatically with other women who blend in the background to obscurity. The gowns and architecture of the era, the stark coldness and added texture of snowflakes, as a bas-relief to the portrait of Anna. Her close-ups particularly as she is in the train station in winter, foreshadowing her eventual fate. Overall a beautiful film which is well worth viewing. Leigh is beautiful and tragic. 8/10.",
+         "Count Tolstoy's massive novels, \"War and Peace,\" and \"Anna Karenina\" are personally quite challenging. Here are breathtakingly crafted literary works in a spiritual context of unconstructive energy. It's quite easy to become as entranced within these \"worlds\" as are many music lovers within the skewed terrain of Wagner's Valhalla and Nibelungens. Tolstoy's words pull in the reader almost hypnotically as he spins his titanic, subtle tales of societal mores conflicting with human emotions. Many of his characters are self-absorbed and vain, and his social environments repressive and stolid, with false values that tragically dehumanize and destroy. So it's an ultimate challenge to attempt to separate these energetic downers from their dazzling technical counterparts. In the case of \"Anna,\" after stripping away the polished veneer, I find characters trying to cope with their testy emotional choices while being thwarted by inhuman societal standards. Yet \"Anna\" is a favorite of filmmakers, having been done countless times, with the Garbo-Selznick version the most notable. Here Vivien Leigh gives a creditable performance of this distraught heroine, with Director Julien Duvivier joining Jean Anuith in script adaptation. Ralph Richardson and Kieron Moore are both completely substantial, and general production values are attended to with solid professionalism. Alas, the enactment seldom tugs heartstrings and, in fact, a strangely turgid pall seems to hang over the entire production. Condensing a 900-page novel down to 2-hour running time doesn't help matters. As for Leigh, my feeling is that she gravitated too often to \"fallen woman\" roles. While she portrayed them very well, they may have failed to bring her the uplift her personality seemed to desperately seek. Hers was pretty much a career of depressingly joyless female characters, which perhaps worked not to her personal advantage. That's another matter, though; Leigh was forever the consummate, fine actress, and her legacy is one of great artistic achievement. This version of \"Anna Karenina\" remains a thoughtful, worthy attempt at a near-impossible task.",
+         "Tolstoy's great classic runs to about 1000 pages, mostly providing a wealth of social commentary on upper class life in Imperial Russia in the nineteenth century. For non-Russian readers today to adequately follow this requires either a significantly longer book or (more realistically) the mass of explanatory footnotes, which some editions provide but few readers ever look at. No film running for about two hours can begin to do justice to such a work, the 26 films listed by IMDb, mostly concentrate on the tragic love affair and death of Anna herself. Literary critics tend to view the concurrent story of Levin (who is thought to be a partly autobiographical creation by Tolstoy himself) and Kitty as of least comparable significance, but this receives little attention in most of these films. Social commentary largely disappears except where created visually in banquet or ballroom scenes. Readers of the book develop definite images of the important characters, so each version of the film generates comments that some characters were perfectly played whilst others were failures. In most cases such comments reflect pre-conceptions of the viewers and tend to cancel each out. Although readers of the book may be the most prolific critics, film-makers have recognised that the commercial success of their film will depend upon the drama associated with Anna's grand passion, rather than any of the other material in the novel. SPOILER AHEAD There are two main threads in the book - Anna and dashing Count Vronsky, a suitor of her friend Kitty Scherbatsky, unexpectedly fall in love. Anna seeks divorce, but her rigid and upright husband will not play. She leaves him, as well as her son who still needs her love and support, to live with Vronsky, but becomes a social outcast who is very lonely. When she fears she is losing Vronsky's love she commits suicide. Meanwhile Kitty's other suitor Levin steps in and marries her, he is a somewhat introspective farmer haunted by his past and struggling with his religious convictions, she is a wise loving wife who gives him necessary support. A third but slighter thread in the book is the story of Anna's philandering brother Stefan and his wife Dolly. Reduced to these few lines the book sounds like a lurid paperback with paper thin characters, this is of course nonsense but indicates the difficulty of doing justice to a major classic novel within the confines of a conventional movie. Among the 26 film versions mentioned above, three are particularly significant. The first was directed by Clarence Brown in 1935 with Greta Garbo and Basil Rathbone in the parts of Karenina and Karenin. A U.K. film, directed by Julien Duvivier and released in 1948, featured Ralph Richardson and Vivien Leigh as Karenin and his wife. More recently Warner has made a colour version, filmed in Moscow and St. Petersburg, with Sophia Morceau playing Anna. All these run for a little under two hours. There have also been two mini-series versions originally produced for British TV in 1997 and 2000,. these have both been featured on PBS in the U.S.A. and are now available as DVD's. They clearly have more time to show some of the complexity of the original novel, but as with the actual book a viewer is unlikely to watch either of them in a single session (the 1997 version contains ten 50 minute sections). It would be unfair to compare them with the much shorter big-screen versions. Most North Americans regard the Greta Garbo version as the definitive one, but I have chosen to comment on that of Vivien Leigh because I feel Greta Garbo played Anna as too strong a character so that the unfolding events were a little unbelievable (one IMDb User has commented that GG was at her best when Anna was at her weakest). Vivien Leigh's performance shows some vulnerability in Anna's strong facade right from the start and makes the unfolding story more credible. I also feel Ralph Richardson gave a more sympathetic performance as Karinin, and is more credible as a husband who is to be pitied because his difficulty in showing love eventually leads to an inability to receive it. Ultimately the main conclusion one must draw after watching either one or multiple versions of this film is that the original novel is too vast and complex to show adequately on the screen. However there is one other conclusion which I feel should be noted. For me the visual appeal of the cinema made this film version very effective in drawing attention to the largely undocumented unity that existed in post-Napoleonic Europe through the intermarriage not only of royalty but also of most of the aristocracy. It may not have spread down to ordinary citizens, but it was the aristocracy that provided the ruling classes and they tended to be on first name terms with their opposite numbers in most other European countries. This must have had an immense influence on all the political decisions made during this period, and the effect of World War I in destroying the influence and power of the historical ruling classes must have resulted in a great deal of fragmentation. Post World War 2 history has involved the re-creation of this feeling of European unity, but at a much more fundamental and democratic level. I never experienced this impression from reading Tolstoy's novel, but it became clear during the film through banquet and ballroom sequences in which the characters, who would all have been speaking French, were sophisticated cosmopolitan figures clearly wearing the latest in international fashions and deeply concerned about events far from their own country. One may lose a great deal condensing a book into a 2 hour film, but it may also provide an opportunity to bring out indirect aspects of the book that are of considerable historic interest.",
+         "You know I watched this movie with the perception that this is one of Vivien's weaker movies and to my surprise I was presented with one of the finer films I have ever seen, although this movie is not for everybody, the film is built on this underlying Gothic infrastructure. Vivien dances unbelievably with fragility, insanity, misery, pity and consuming darkness. It's hard not to feel any empathy for Anna and there are so many \"If Only\" regretful moments that will make you scream at the television screen. A stand out scene for me is when she goes to the opera and sits by herself in the booth and everybody is whispering around her and she picks up the pamphlet and starts reading it or should I say shielding herself from their ever judging glances.Amazing!!!! The films direction will comes as no surprise to most of Vivien's fans, it was quite obvious to see where the film was heading, Anna is put in this boundless prison by her husband, Lover, brother and friends leading her to desolation and destitute and this meant only one thing Escape, and Escape she did. The movie ended ironically just as how it began, ( Waterloo'sX1000) ,one of Vivien Leigh's most underrated films, Anna Karenina is a beautiful film with eloquence of despair and tragedy, highly recommended to anyone with a flare for flirting with darkness.",
+         "Greta Garbo's 1935 film is not perfect. As much as I like Fredric March in most films(primarily Dr Jekyll and Mr Hyde) I found him ill suited for Vronsky. However, it was visually stunning with a heart-rending suicide scene as well as superb performances from Garbo and Basil Rathbone. This 1948 film, starring Vivien Leigh this time, is worthy but I do prefer Garbo's personally. As with any film adaptation of the book, the film does deserve credit for compressing a long book into a just over 130 minute film. While there are scenes that are inevitably not as powerful, it does do credibly and perhaps adaptation-wise it is a little superior to Garbo's film. However, the screenplay while literate and thoughtful in some parts is also rather thin to sustain the story in others. Consequently the film does feel overlong and there are times also where it feels turgid pacing-wise. And as much as I hate to say it, as handsome as Kieron Moore is I found him as Vronsky miscast, he is too dull and the conviction of drama is lost for my liking. There is still much to like though. It is sumptuously filmed, with ornate settings and costumes, and the score is of poignant delicacy. It is beautifully directed by Julien Duvivier, and apart from Moore I thought the cast were fine. It was lovely to see Sally Ann Howes, Martita Hunt and Michael Gough and Vivien Leigh as ever gives a dazzlingly beautiful performance in the title role, but the acting honours go to Ralph Richardson whose Karenin is authoritative and superbly unbending. In conclusion, a worthy film adaptation. 7/10 Bethany Cox",
+         "I admit I am not too fond of romances in general, as I find them incredibly silly and unrealistic at times- this being not too great of an exception, but still, an exception. The main reason I watched the movie, was because I had been learned briefly about Tolstoy in school, and seeing that the movie was based on one of his books, I desired to watch it purely out of curiosity. It is possible, that the movie (as is often the case) didn't do the book any justice. The movie begins off in a rather confusing way and takes a while to understand. I couldn't help feeling that some great detail was lacking. Anyway, now that I am done with mulling over the details involving the direction and the way the film comes across, I'll go to discussing the plot. I know we were supposed to hate Anna's husband, Alexei, but I felt nothing but pity for him. Here is his wife of several years, leaving him for a brash youth, based entirely on him being \"too cold.\" He did, in truth, love his wife, though he was a little self-righteous. How could we, however, blame him? He could not help his personality, and if perhaps Anna had been a better judge of character she could have seen that the marriage would end in tragedy. Another reason not to hate Alexei; we see a softer side of him when his wife falls ill after giving birth to a stillborn child. Speaking of which, why didn't we know she was pregnant before then? I doubt we can blame Tolstoy (whose story was doubtless well-detailed) as much as we can blame the director and scriptwriter. Oh well, at least we actually find out. Count Vronsky, like many men of his kind in romance stories, I found unbearably annoying most of the time. He followed Anna around like a lovesick puppy. If he had had any love or respect for her at all, he would have had the decency to leave her be when she so politely requested him to. Nevertheless, he treats her with kindness and warmth, despite her attitudes toward him later in the story. Finally, we come to our \"tragic Anna.\" I, for one, was fairly shocked, when after begging her husband's forgiveness for her initial tirade concerning Count Vronsky, that she runs off- leaving the son who she begged him not to take away in the divorce that Alexei originally planned to have. One unique problem I always have for stories like these, are the distortion of love within them. Count Vronsky didn't love Anna enough to respect her initial requests for friendship, instead of romantic love. Anna didn't love Count Vronsky enough to trust him. Anna also did not love her son enough to stay in a perhaps unhappy (though stable) marriage to stay with him. She ran away from him at the first chance she got to be with Count Vronsky, then accuses Alexei of being cruel by forbidding her to see him. Anna understands this later- that she traded her son for her lover, but, as she said, \"It is too late.\" So who is to blame for Anna's untimely demise? Was it Count Vronsky for snaring her in his web of love? Was it the cruelty of her husband for denying her a divorce, even after she left him (and we was to originally divorce her anyway after seeing she was taken with Count Vronsky)? Was it the fault of the friends and society who shunned her for living in adultery? Or was it Anna's own foolishness? Either way, somehow, in the end, despite all of her mistakes and flaws, I felt pity for her. Seeing her body lying on the train tracks in the snowy night filled me with sadness. In the end, even though she had sacrificed everything she had for love of another, she was too consumed by her own guilt over her life to be able to receive the love from that person in return- a mistake that I can, sadly, relate to. So thus, despite the flaws, I had to be a little bit more generous to this film that I had originally planned. I would, like to, also, read Tolstoy's book and see how it compares to this version of the movie- as I said again, a movie often doesn't do a book justice, and the saying \"a picture is worth a thousand words\" can be sadly flawed. Additionally, Vivien Leigh's acting was amazing. I could watch the movie again just to see her performances.",
+         "Anna Karenina (1948): Starring Vivian Leigh, Kieron Moore, Ralph Richardson, Nial McGinis, Sally Ann Howes, Hugh Dempster, Mary Kerridge, Marie Lohr, Frank Tickle, Michael Gough, Martita Hunt, Heather Thatcher, Helen Haye, Mary Martlew, Ruby Miller, Austin Trevor, Ann South, John Logden, Gus Verney, Judith Nelmes, Therese Giese..Director Julien Duvivier, Screenplay Jean Anouilh \"And the light by which she had read the book filled with troubles, flared up more brightly than ever before and was quenched forever\".... Leo Tolstoy's 1877 classic \"Anna Karenina\" has been adapted into films several times. The earliest are the silent films of 1914-1918, the more famous being the MGM 1935 film starring Greta Garbo, several versions in the 50's, 60's and 70's and recent BBC productions from 2000. French director Julien Duvivier's version stars Vivien Leigh, forever remembered for portraying Scarlett O'Hara in 1939's Gone With The Wind, in the title role, British star Ralph Richardson as her dishonored husband Alexei, Kieron Moore as Anna's lover Count Vronsky, Sally Anne Howes as Kitty and Nial McGinis as Konstantin Levin, who despite being a significant character in the Tolstoy novel, gets no more than two appearances in the film - the party scene in which he is rejected by Kitty who is drawn to the dashing Vronsky and the latter country scene in which Kitty finally accepts to be his bride. The emphasis of the film is Anna's tragic situation. She has turned her back on her husband by engaging in a passionate affair, broken all society rules in doing it so indiscreetly and publicly, and suffers the consequences. Her husband, staunch Catholic, more interested in appearances and society approval as well as business interests, won't grant her a divorce and won't grant her the right to see her son. Vivian Leigh, from the beginning when she arrives to remedy Stefan and Dolly's marriage, paints a tragic, incredibly sad and pathetic figure, looking morosely out of a frost-tainted train window. She lives the role of Anna without chewing up any scenes and delivering the most real Anna prior to the more recent adaptations. Her mental breakdown, spurred by insecurities that her lover will leave her and reject her as all society has done, is haunting and saddening to watch on screen, so that the moment of her death approaches, heralded by the ominous figure of a train worker hammering away, is climatic enough to provoke horror or sympathy. This being the 40's, the Hays Code permits only kissing scenes between the lovers but this film opts to show Anna's gruesome death with no hold bars. Because a faithful transition from novel to film is quite impossible, this Hollywood jewel doesn't convey every aspect of the novel, especially not the relationship between Kitty and Levin and though long and talky, doesn't begin to fully capture the spirit of the book. Nonetheless, for me, it's the best film version in black-and-white. The cinematography is so exquisite with its depiction of Imperial Russia and its grand salons, palaces, train stations, opera houses and the costumes by Cecil Beaton so gorgeous that one wishes the film were made in Technicolor instead!! It is faithful to the more intimate parts of the novel, not only in the tidbits of Alexei's habit of cracking his knuckles and his treatment of Anna but Anna's black gown at a ball. The characters are full of nuance, particularly Anna's high society women's group, especially one cynical, gossipy Countess who is not afraid to admit she'd enjoy Roman gladiators spilling blood. Ralph Richardson is doing a superior job as Alexei, making him appear coldly indifferent to his wife even before she falls for Vronsky, and then later portraying him as a self-interested society man. Unfortunately Kieron Moore does nothing truly wonderful in the part of Vronsky, which is a pity because Vronsky and Anna must possess a powerful, fiery and consuming, sacrificial affair that costs them everything. Unfortunately, this film was not received well in its time, possibly overshadowed by Greta Garbo's version, but it's genuinely moving and highly recommended to English classes who study the novel.",
+         "Vivien Leigh turns into Anna Karenina. Her delicate beauty and strong acting abilities are perfectly blended. If I had my way the lady would have been cast in period film after period film, as she was probably the best actress ever to do such roles. The world has always been lacking in someone of her beauty and skill to do period pieces. She saves the movie from being stuffy. The whole movie is skillfully done, unlike the Garbo version. There are not too many supporting cast introduced, so you don't feel overwhelmed, which could easily have happened. Spoiler: Vivien Leigh is always at her best when surveying an area as she walks along. She surveys and walks along the tracks. The lady does her job. The audience wants Anna Karenina, and she gives it to them. The other girl in the movie is very pretty. No match for the unbeatable Miss Leigh, but still a nice foil.",
+         "I've now watched 6 Anna Kareninas (1935, 1947, 1961, 1985, 1997 and 2012) and this is up there as one of the top ones. Vivien Leigh is perfectly cast as Anna Karenina. There's just something about Leigh that suggests strength but also fragility, primness but also sensuality. She is totally believable as a sensible woman who would go silly over an affair, and believable as a fertile motherly type, frequently surrounded by children. The object of the affair is the film's weak link- and it's a big one. Keiron Moore as the dashing Count Vronsky seems about as worldly as Anna's little son Sergei. You can sense Vivien Leigh trying to coax him into displaying some sort of dominant passion but Moore is hopelessly lost. His natural accent is Irish I think; his English accent sounds hopelessly strangled. Ralph Richardson as Anna's bureaucratic husband Karenin is a bit too strong. He has the dominance that Vronsky should have and he displays his love for Anna too clearly. Anna is partly driven to her affair by Karenin's coldness so it makes the affair less credible. Their relationship is too loving- it often seems that there will be a reconciliation, as Leigh clearly has more chemistry with him than Moore. Onto the supporting actors now. The Kitty/Levin story, although very pared down, is sweet and touching. Yes, they miss out all of Levin's philosophy and farming, but Sally Ann Howes is adorable as Princess Kitty, who gentleman farmer Levin hopelessly loves. It is also neatly tied together with the Anna story when Karenin goes along to their wedding- without Anna. The film might seem a little dated but I enjoyed the focus on Karenin. There's a comic scene where Karenin goes along to a solicitors to ask about divorce and the solicitor seems a little voyeuristic. Where do I place it in the six AK films? I'm tempted to put it at number 2, just behind the Garbo one.",
+         "This film seems a meditation on the futility of love. It appears to be telling us that on the rare occasions in which attraction is mutual, it can only deteriorate into tragedy. This grim perspective on human coupling limns the story of Anna (a stunning Vivian Leigh), who is in a passionless marriage with the conventional nobleman Karenin (Ralph Richardson), who neglects her. However, she adores her son from their union. When Anna falls for playboy Vronsky (Kieran Moore), we watch the proverbial moth flit toward its flame. There's no putting the brakes on this runaway train, and it's hurtling toward disaster. People start to gossip, the coldly humiliated Karenin won't let Anna see her child, Vronsky's ardor starts to cool, and a severely depressed Anna begins to muse on how one can't truly escape from oneself -- but can she? Mesmerizing use of nighttime light makes for a powerful climax in the story's fabled death scene. This film is sumptuous to behold, with lashing snowstorms capturing the brutality of a Russian winter, and a gorgeous ballroom scene in which an exquisite polonaise is strutted to perfection. I haven't read the great Tolstoy tome, but I'm sure it must portray Anna's character in more depth than we observe here. Perhaps it's because Leigh's beauty is so distracting, but this film fails to credibly capture what must been Anna's formidable conflict over abandoning a son for a lover. I recommend this film as an amuse-guele before indulging in the real thing.",
+         "Trains have a particular significance on this version of Leon Tolstoy's novel \"Anna Karenina\" which had already been made into a movie in 1935 starring Greta Garbo, who made an impression for her take on the tragic figure of a woman who committed the ultimate sin of adultery in a society which did not condone it in our heroine's case, but who tolerated indiscretions among the riches classes. Julien Duvivier, the notable French director, took command of this English film, taking it away from the constrains he would probably find in America with the Hays Code in full operation by the time this film went into production. M. Duvivier collaborated on the final screenplay with another notable playwright, Jean Anouilh, and Guy Morgan who was instrumental for the English dialogue. Anna, played brilliantly by Vivien Leigh, who was at a high point in her movie career, shines in the film. Her Anna is one of her best creations for the screen. Not only was she a ravishing beauty, but her take on the character shows her as a vulnerable woman at the mercy of the cruel husband who decided to take his revenge of her deceit by not letting her see her own son. The best performance though, was Ralph Richardson's. His Alexis Karenin shows an ambitious man who was considered part of the elite and well positioned in Russia's higher echelons of government. He was part of the rich classes who finds himself made a cuckold by his beautiful wife. Alexei could not afford the ridicule the situation was causing him. As such, his decision to let Anna walk away with Vronsky, was the only avenue he could take to punish his wife. Where M. Duvivier was not successful was with the role of Count Vronsky. As performed by Kieron Moore, a handsome actor, the romance between him and Anna loses some of the spark that was the hallmark of the 1935 version where the dashing Frederic March made an impression. Mr. Moore was not quite up the the task of being the man who made Anna renounce to everything to become his lover. The emphasis in this version is Karenin, as the cheated husband, not on Vronsky, as presented on the first one. Thus, Ralph Richardson was able to show why he was one of the best actors of England of all times, as he clearly demonstrates here. The supporting cast is interesting with a lot of familiar theater actors showing their best in minor roles. Henry Alekan, the cinematographer works in dark tones that blend easily with the harsh Russian winter.",
+         "This film is like the adaptation of Wuthering Heights Goldwyn made in 1939. --Which is to say it cuts its indebtedness to its literary namesake to the bone so completely you'd swear the producers were paying for the use of the name based on percentage of fidelity to original source material. This is still a common practice, to take a hot literary property or should-be sacrosanct classic and completely wing it on your \"interpretation\" of the story. (See the recent refry of Scarlet Letter, for example.) Understand, I won't carp about the issue of fidelity, per se. My point is more like why even bother to use the name as a film title if you find it expedient for one reason or another to ditch the plot and refit the original character nuances. The redeeming feature of this film lies in the way it pays off with a big, teary, dramatically oh-so right finish. You'd have to be pretty flinty not to feel it. --The sad, stunning finish seems, after all is said and done, the films reason for being. See it. 8 stars.",
+         "This version of Tolstoy's great novel, \"Anna Karenina,\" made in 1948, stars Vivien Leigh as the tragic Anna, Ralph Richardson as Karenin, her husband, and Kieron Moore as Vronsky. In a distant and unhappy marriage, Anna falls in love with Vronsky and eventually lives with him openly, forced to give up her son and her reputation. Though the director, Julien Duvivier, imbues this film with tremendous atmosphere, it still tends to be slow and uninvolving. The best thing about this version for me is Ralph Richardson, who gives a magnificent, multilayered performance. Definitely the strongest in the movie. In some scenes, Vivien Leigh, who had been quite ill, doesn't always look well. She does a good job but unlike the great Richardson, she was not director-proof. Duvivier could have given her a little more guidance. Kieron Moore's Vronsky didn't seem like someone to give up your entire world for, but after being in such a controlling marriage, his gentler nature might have been just the ticket for Anna. The costumes are glorious as are the other production values. The atmosphere evokes the brittle, freezing weather, the dampness, and the overall grimness of Russia. Unfortunately, one doesn't connect with the characters.",
+         "I've heard of swings and roundabouts but this is ridiculous; what Julien Duvivier gained by having a near perfect Anna in Vivien Leigh he lost by being saddled with Keiron Moore as Vronsky. His presence can probably be explained by his status as a contract artist with Korda and though he did appear in one or two decent films - Mine Own Exectutioner, A Man About The House - they were good in spite of and not because of Moore; here he is given leading man status and a leading man who theoretically epitomizes passion yet Moore plays it like an under-rehearsed ill-prepared understudy in The Chocalate Soldier obliged to go on at half an hour's notice in a role for which he has no empathy. When fifty per cent of your leading characters is this bad there's not a lot even a genius like Duvivier can do but even so he manages to make a fairly decent fist of it and include some tasty set-ups. As is to be expected Ralph Richardson walks away with the acting honours leaving Leigh to slug it out with Martita Hunt for whatever scraps he left on the table. Trivia buffs will be fascinated to see Leigh caressing Jeremy Spenser playing her son some thirteen years before she would throw him the key to her bedroom in The Roman Spring Of Mrs. Stone. All Duvivier fans will want to see this but probably once will be enough.",
+         "Rumor had it that Vivien Leigh was not anxious to take on the remake of \"Anna Karenina\" partly because she had just recovered from tuberculosis, and maybe also because the ghost of Greta Garbo was too real. But she had one film left to do for Alexander Korda, and this was it. \"Anna Karenina\" released in 1948, stars Leigh as the tragic Anna. The story is based on Tolstoy's novel. Anna meets a handsome colonel, Count Vronsky (Kieron Moore) and falls in love with him. The trouble is, she is married to a high-level Russian bureaucrat (Ralph Richardson) and has a son. Anna's husband is a self-absorbed politician type, somewhat cold and aloof, consumed with his image in Russian politics. He sees marriage as a \"duty\" something he says a few times. Anna runs away with Vronksy, a horrendous scandal at the time and probably still would be today. It all ends tragically. Comparisons between this film and the 1935 one are inevitable. While both films are respectable, I prefer Viven Leigh's performance of Anna. Perhaps it was because Leigh had her own personal demons that she made this part so amazingly real, as she would in \"A Streetcar named Desire\" three years later. While I admire Garbo, I did not think of her as a great actress. Too aloof in some ways to believe she would fall head over heels for Vronsky. Ralph Richardson plays his part with consummate discipline; he can only see Anna's betrayal in terms of how it effects him. Kieron Moore is harder to judge. In the first part of the movie, he isn't given much to do except show off his good looks. He does, however, get a few good scenes as the movie progresses, and plays Vronksy as a decent man but also a flawed one. If you only know the 1935 version of this film, at least be open-minded enough to give this remake a chance. For me, Viven Leigh was reason enough for me to see it.",
+         "An Alexander Korda production of a Tolstoy classic starring Vivien Leigh and Ralph Richardson--why is this movie so obscure? One reason might be that it certainly was, and is, compared to the two 'Anna's that Greta Garbo starred in, and it may have suffered by comparison. More likely though, is that many viewers find it hard to imagine they are watching an adaptation of a literary classic. Fewer still will find it a cinematic classic. Compressing eight or nine hundred pages of Tolstoy into about an hour and fifty minutes (the U.S. cut) appears to have been too great a challenge for the screenwriters, editors and director. During the early part of the film we are introduced to a confusing array of characters, families, titles, and relationships that are all but impossible to absorb if one hasn't read the book. But later on when the plot is more clear to the viewer, the interest level doesn't rise a great deal. This story of forbidden love and infidelity is curiously passionless and uninvolving. Leigh, Richardson and Keiron Moore all perform well enough, but not memorably. I found the most captivating actor on screen to be Sally Ann Howes in her brief appearances as Anna's friend Kitty. The score by Constant Lambert is a good one, also. This film is only for serious fans of the principal actors or movies of that era.",
+         "\"Anna Karenina\" is not Vivian Leigh's best work, but it is not bad either. In this movie, she plays an adulteress who is driven to suicide by guilt, loneliness, and the belief that her lover is about to leave her. The viewer meets Anna when she arrives at her brother's house just in time to patch things up between him and his wife. Anna's brother has been caught kissing his children's' governess and his wife is about to leave him. Anna changes her sister-in-law's mind by telling her that men secretly despise their mistresses, and respect the wives they cheat on. On her way back to Moscow, Anna sits on the train next to an older lady, and the two women start talking about their sons. When they arrive at their destination, the older lady is met by her son, Count Vronsky (who later becomes Anna's lover) and Anna is met by her husband, Alexei (who greets her coldly) Following a series of encounters, Count Vronsky and Anna become lovers. Alexei soon finds out, and threatens to divorce Anna and take their son, Sergei with him. Anna is torn by her love for Sergei, and following a near fatal illness, promises Alexei that she will give up her lover forever. However, her love for Count Vronsky soon proves stronger than her love for her son, and Anna gives up her son to be with Vronsky. After Vronsky and Anna begin living together, respectable people stop wanting to socialize with Anna, and she becomes desperate. Isolated from her former friends, Anna starts obsessing that Vronsky is at the point of leaving her. When he goes away for a few days, she throws herself in front of a train. Although Count Vronsky and Anna have no chemistry, at least in the movie, there is at least a suggestion of passion (Vronsky tries to commit suicide after Anna resolves to stay with her husband for her son's sake). One is led to believe,therefore, that Anna's fears of abandonment by Vronsky are unfounded. In fact, Vronsky wants to marry Anna, but cannot because Alexei refuses to grant Anna a divorce. The ultimate tragedy of \"Anna Karenina\" is that the heroine is the victim of a double standard, in which she must suffer for cheating on a husband who, to quote \"Amy\" from \"At First Sight\", has the emotional content of a soap dish. She cannot divorce Alexei without his permission, and she cannot live with a man who is not her husband without being scandalized.",
+         "If you're ever tempted to write a classic novel, one that's bound to be bound in buckram with gilt lettering, designed to last forever and forced on college literature students, you can't go too wrong with this simple plot: A beautiful but impetuous woman marries a reliable but somewhat dull man, usually older or bitter, falls for a dashing and virile younger fellow, and the affair ends in catastrophe. I mention in passing only the examples of \"Madam Bovary\", \"Lady Chatterly's Lover,\" and \"Anna Karenina.\" Half a dozen others escape me at the moment. See David Lean's \"Ryan's Daughter\" or \"The Eye of the Needle\" for popular cinematic examples. It's been years since I read the novel so I can't say how closely the movie sticks to the original story. Probably, as happens in most cases, the essence of the story is extracted by a reduction of the broth. Sub-plots disappear. Character touches are elided. Back stories are dropped. Elaborate descriptions of location are eschewed. Any philosophical glosses are avoided like so many venomous snakes. What we're left with, in this instance, is a very well-done soap opera that takes place in and around St. Petersburg, Russia, in 1878. And it IS well done. The production values are high, a lot of attention has been paid to period decor and set design. The performers don't look like they're groomed for 1948 audiences. Anna is played by Vivien Leigh. She's the central character and most of the burden is placed on her. She carries it off well, especially considering that the character of Anna is as screwed up as Vivien Leigh was in her off-screen life -- not that her personal problems were in any way her fault. Mental illness strikes without warning, like lightning, sometimes. The boring and stuffy husband is Ralph Richardson, always reliable, and by no means evil, though somewhat neglectful and insensitive, obsessed with his own rectitude. The third principal character is Count Vronsky, Kieran Moore, who doesn't really seem quite roguish enough despite his classy uniform, his riding skills, and his thin mustache. Anna's ending is tragic. Hallucinating to beat the band at the station, she throws herself in front of a departing train. But, this being an adult movie, she's not entirely innocent. She's dealt out some pretty brutal blows to her husband and some of her acquaintances. It's the kind of ambiguity that makes it an interesting tale instead of another afternoon TV drama. Yes. All in all, not too shabby.",
+         "I have the advantage of not having seen the Garbo version (yet) to compare this one to so I can report on it with untainted eyes. I can tell you that those who compare Leigh's performance here to her performance as Scarlett are taking a cheap and obvious shot and show that they don't know either roles very well. There is no comparison in the acting, only in the plot point of scorned love. I saw this on Turner Classic Movies and it was a very poor print. Washed out, dull (even for black and white). Not up to their usual standards. But for all of that the strength of Leigh's performance still came through, as well as the subtlety of the direction framing that beautiful face in the train window at the beginning when we first see her, in shadows throughout, and in the snowy, yet shadowy ending. All fine points on an intricate design. I must admit that the beginning is slow to get your attention. It takes a while (I was even even tempted to nap off at one point). But once the real drama begins and Leigh is able to exhibit more raw emotion (yearning for her son and struggling to see him yet torn from her lover to do so), things pick up quickly and the rest of the film is riveting, though with a definite British restraint. Whether you've seen other versions or not, I highly recommend seeing this one. I think you'll be impressed with Leigh's acting and with the overall effect. But I would try to rent it rather than seeing the TCM version so you can get a better print.",
+         "A fairly maudlin version of the lengthy Tolstoy tragedy has Vivien Leigh once again typecast as the beautiful lady prone to vanity and tragedy. Little did she realize that Scarlett would be both her legacy and her stereotype, yet many other actresses would have loved to have at least that much career. In this truncated and routine melodrama, we see her as a fine lady of considerable merit become a selfish and clinging, disturbed woman in the throes of infatuation with a simple-minded and unpleasant, yet handsome, military officer of doubtful integrity. It is a case of physical attraction gone awry, and is Tolstoy's commentary on the bored and vain aristocratic society of Russia of the period, which places more import on melodramatic social matters and gossip than on the significant matters of government, law and justice. In fact, the only character of note involved in any truly important matters is Anna's betrayed husband, who constantly battles with his feelings of loss and revenge, and does an admirable job of such. Anna and her lover are content to pursue their attraction until it leads to distrust and tragedy. Tolstoy's message is here, but not easily discerned, and there's plenty of fodder to create what is basically a 'True Romance' novella in film form, popular with young women of the time. In this case, reading the novel would be suggested and let the weepy sentimentalists have their moment with this routine feature. It is doubtful that many of them will recognize the significant similarities between the aristocrats of pre-communist Russia and today's youth who worry about celebrity status yet cannot tell you who lies in Grant's Tomb nor when the War of 1812 took place.",
+         "Why did Hollywood make the 1935 Greta Garbo film over? It is true that Vivien Leigh gave still another great performance in the title role. She was ably supported by Ralph Richardson as her cold embittered husband and Kieron Moore, as her lover who led to her ruination. The problem with this film is the same problem that we have with films relating to the stories of Tolstoy and Shakespeare. For some reason, they become most boring especially around the middle of the film. Leigh is excellent in the role of the doomed wife. Her miserable husband is totally consumed by his diplomatic career. He uses religion as a pretext for his refusal to give her a divorce. He is cunning and quite sly here and Ralph Richardson,in the role of her husband, is most convincing. I love that during a major snowstorm he states that he is snowed under from all of his work. What a great use of the pun technique here. A highly dramatic emotional film so well acted. It's just too bad that even the plot can't motivate more of an interest among the viewers."
+      ],
+      "genres": [
+         "Drama",
+         "Romance"
+      ],
+      "productionCompanies": ["London Film Productions"],
+      "summaries": [
+         "Stefan and Dolly Oblonsky have had a little spat and Stefan has asked his sister, Anna Karenina, to come down to Moscow to help mend the rift. Anna's companion on the train from St. Petersburg is Countess Vronsky who is met at the Moscow station by her son. Col. Vronsky looks very dashing in his uniform and it's love at first sight when he looks at Anna and their eyes meet. Back in St. Petersburg they keep running into each other at parties. Since she has a husband and small son, they must be very discreet if they are going to see each other alone.",
+         "A married woman's affair with a dashing young officer has tragic results."
+      ],
+      "budget": 0
+   },
+   "movielensId": 173727,
+   "movielens": {
+      "languages": [
+         "English",
+         "Italiano"
+      ],
+      "releaseDate": "1948-01-22",
+      "dvdReleaseDate": null,
+      "directors": ["Julien Duvivier"],
+      "runtime": 139,
+      "movieId": 173727,
+      "title": "Anna Karenina",
+      "mpaa": "",
+      "actors": [
+         "Vivien Leigh",
+         "Ralph Richardson",
+         "Kieron Moore",
+         "Hugh Dempster",
+         "Mary Kerridge",
+         "Marie Lohr",
+         "Frank Tickle",
+         "Sally Ann Howes",
+         "Niall MacGinnis",
+         "Michael Gough",
+         "Martita Hunt",
+         "Heather Thatcher",
+         "Helen Haye",
+         "Mary Martlew",
+         "Ruby Miller"
+      ],
+      "imdbMovieId": "0040098",
+      "originalTitle": "Anna Karenina",
+      "genres": [
+         "Drama",
+         "Romance"
+      ],
+      "youtubeTrailerIds": [],
+      "plotSummary": "Stefan and Dolly Oblonsky have had a spat and Stefan has asked his sister, Anna Karenina, to come down to Moscow to help mend the rift. Anna's companion on the train from St. Petersburg is Countess Vronsky who is met at the Moscow station by her son. Col. Vronsky looks very dashing in his uniform and it's love at first sight when he looks at Anna and their eyes meet.",
+      "tmdbMovieId": 32066,
+      "avgRating": 2.5,
+      "releaseYear": "1948",
+      "numRatings": 3,
+      "posterPath": "/4HuFopwb5FXfbWR2YeBkaOxaXWZ.jpg"
+   }
+}

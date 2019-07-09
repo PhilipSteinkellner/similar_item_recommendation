@@ -1,0 +1,671 @@
+{
+   "tmdb": {
+      "original_language": "de",
+      "keywords": [
+         {
+            "name": "dwarf",
+            "id": 604
+         },
+         {
+            "name": "queen",
+            "id": 2011
+         },
+         {
+            "name": "fairy tale",
+            "id": 3205
+         },
+         {
+            "name": "forest",
+            "id": 5774
+         }
+      ],
+      "imdb_id": "tt0382295",
+      "video": false,
+      "title": "Seven Dwarfs",
+      "recommendations": [
+         10036,
+         9805,
+         8366,
+         9657,
+         7281,
+         6076,
+         49998,
+         9742,
+         9883,
+         4398,
+         10659,
+         9510,
+         9511,
+         94562,
+         9496,
+         9601,
+         28938,
+         9252,
+         53174,
+         9497
+      ],
+      "backdrop_path": "/lWh0K5rUCEPAqBXNJfxnHUnH4pe.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Bubi",
+               "gender": 2,
+               "credit_id": "52fe4530c3a36847f80c1341",
+               "name": "Otto Waalkes",
+               "profile_path": "/iJzGpHUibhvZLQSjFln4Rdn6god.jpg",
+               "id": 46029,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Brummboss",
+               "gender": 2,
+               "credit_id": "52fe4530c3a36847f80c1345",
+               "name": "Heinz Hoenig",
+               "profile_path": "/nfvtEhh10d9DZJQQpIYf3RmG5uL.jpg",
+               "id": 5233,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Tschakko",
+               "gender": 2,
+               "credit_id": "52fe4530c3a36847f80c1349",
+               "name": "Mirco Nontschew",
+               "profile_path": "/gu15WmoFhaynE8YThYubt6S4f8V.jpg",
+               "id": 59333,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Cloudy",
+               "gender": 0,
+               "credit_id": "52fe4530c3a36847f80c134d",
+               "name": "Boris Aljinovic",
+               "profile_path": "/vunXJMfMe4RWsTFS6HMI9HyJv4m.jpg",
+               "id": 50314,
+               "order": 3
+            },
+            {
+               "cast_id": 35,
+               "character": "Cookie",
+               "gender": 2,
+               "credit_id": "53512ed5c3a3681d8d0012e8",
+               "name": "Markus Majowski",
+               "profile_path": "/pHVIxHHyNlNoNOH0KtcXP6lOZDM.jpg",
+               "id": 233401,
+               "order": 5
+            },
+            {
+               "cast_id": 6,
+               "character": "Speedy",
+               "gender": 2,
+               "credit_id": "52fe4530c3a36847f80c1355",
+               "name": "Martin Schneider",
+               "profile_path": "/5mFvt7AiYNOCa55DxI9zqaGQcba.jpg",
+               "id": 52386,
+               "order": 6
+            },
+            {
+               "cast_id": 7,
+               "character": "Sunny",
+               "gender": 2,
+               "credit_id": "52fe4530c3a36847f80c1359",
+               "name": "Ralf Schmitz",
+               "profile_path": "/xAVcKKKlLNgJ2SUCuzpI1BVT5mn.jpg",
+               "id": 59335,
+               "order": 7
+            },
+            {
+               "cast_id": 8,
+               "character": "Schneewittchen",
+               "gender": 0,
+               "credit_id": "52fe4530c3a36847f80c135d",
+               "name": "Cosma Shiva Hagen",
+               "profile_path": "/ofFtcXAnxnhUB6bKdI7NG4LPmnu.jpg",
+               "id": 16718,
+               "order": 8
+            },
+            {
+               "cast_id": 9,
+               "character": "Böse Königin",
+               "gender": 1,
+               "credit_id": "52fe4530c3a36847f80c1361",
+               "name": "Nina Hagen",
+               "profile_path": "/whFbobPjMT9yEMgRG5tr0OvfhWs.jpg",
+               "id": 22652,
+               "order": 9
+            },
+            {
+               "cast_id": 10,
+               "character": "Spliss",
+               "gender": 2,
+               "credit_id": "52fe4530c3a36847f80c1365",
+               "name": "Hans Werner Olm",
+               "profile_path": null,
+               "id": 38842,
+               "order": 10
+            },
+            {
+               "cast_id": 11,
+               "character": "Hofnarr",
+               "gender": 2,
+               "credit_id": "52fe4530c3a36847f80c1369",
+               "name": "Atze Schröder",
+               "profile_path": "/8AZvv0gyqp210y0oidHJWAlcLlQ.jpg",
+               "id": 59336,
+               "order": 11
+            },
+            {
+               "cast_id": 12,
+               "character": "Jäger",
+               "gender": 2,
+               "credit_id": "52fe4530c3a36847f80c136d",
+               "name": "Christian Tramitz",
+               "profile_path": "/4exdszmCciDOd1C4F2VRwVShRvk.jpg",
+               "id": 37035,
+               "order": 12
+            },
+            {
+               "cast_id": 13,
+               "character": "Spiegel",
+               "gender": 2,
+               "credit_id": "52fe4530c3a36847f80c1371",
+               "name": "Rüdiger Hoffmann",
+               "profile_path": null,
+               "id": 59337,
+               "order": 13
+            },
+            {
+               "cast_id": 14,
+               "character": "8. Zwerg",
+               "gender": 2,
+               "credit_id": "52fe4530c3a36847f80c1375",
+               "name": "Norbert Heisterkamp",
+               "profile_path": "/mRIdNBzsYVZ4aaDiuf7dmeVDnDD.jpg",
+               "id": 48694,
+               "order": 14
+            },
+            {
+               "cast_id": 15,
+               "character": "Rotkäppchen",
+               "gender": 1,
+               "credit_id": "52fe4530c3a36847f80c1379",
+               "name": "Mavie Hörbiger",
+               "profile_path": "/nGWm1GkdthoNQsDn80lYsCEDBNh.jpg",
+               "id": 36745,
+               "order": 15
+            },
+            {
+               "cast_id": 36,
+               "character": "Kerkerwache",
+               "gender": 0,
+               "credit_id": "5499ef6bc3a3682f2800042a",
+               "name": "Tom Gerhardt",
+               "profile_path": "/l5tIaPiOi76AnG2Di9MIqkBBvAz.jpg",
+               "id": 57852,
+               "order": 16
+            },
+            {
+               "cast_id": 37,
+               "character": "Der Weiße Helge",
+               "gender": 2,
+               "credit_id": "5499ef92925141313200048e",
+               "name": "Helge Schneider",
+               "profile_path": "/jM4q7QLfAOF8jpnKcQbVa9VV9mG.jpg",
+               "id": 18400,
+               "order": 17
+            },
+            {
+               "cast_id": 38,
+               "character": "Hofnarr-Kandidat",
+               "gender": 2,
+               "credit_id": "5499efc2c3a3682f25000471",
+               "name": "Harald Schmidt",
+               "profile_path": "/v1pUidGsVqhFlhAnVDrUMbl81IK.jpg",
+               "id": 5648,
+               "order": 18
+            },
+            {
+               "cast_id": 39,
+               "character": "Türsteher",
+               "gender": 2,
+               "credit_id": "5499efd6925141312600049e",
+               "name": "Hilmi Sözer",
+               "profile_path": "/lvyoPkilNn23h0UUgxJl4pTuPeQ.jpg",
+               "id": 11258,
+               "order": 19
+            },
+            {
+               "cast_id": 40,
+               "character": "Neger",
+               "gender": 0,
+               "credit_id": "565c8672c3a3680a410001b5",
+               "name": "Antonio Monfort",
+               "profile_path": null,
+               "id": 1542794,
+               "order": 20
+            },
+            {
+               "cast_id": 41,
+               "character": "2. Wache",
+               "gender": 0,
+               "credit_id": "565c86a992514145d60001c3",
+               "name": "Till Hoheneder",
+               "profile_path": null,
+               "id": 1542795,
+               "order": 21
+            },
+            {
+               "cast_id": 42,
+               "character": "Fanfarenbläser 2",
+               "gender": 0,
+               "credit_id": "565c86eac3a3680a320001fb",
+               "name": "Horst Tomayer",
+               "profile_path": null,
+               "id": 1308444,
+               "order": 22
+            },
+            {
+               "cast_id": 43,
+               "character": "Fanfarenbläser 3",
+               "gender": 0,
+               "credit_id": "565c8711c3a3680a2f0001f6",
+               "name": "Okko Bekker",
+               "profile_path": null,
+               "id": 60146,
+               "order": 23
+            },
+            {
+               "cast_id": 44,
+               "character": "Frau Dr. Billerbeck",
+               "gender": 0,
+               "credit_id": "565c875692514145e00001e6",
+               "name": "Katharina Beissel",
+               "profile_path": null,
+               "id": 1542796,
+               "order": 24
+            },
+            {
+               "cast_id": 45,
+               "character": "Dirigent",
+               "gender": 2,
+               "credit_id": "565c8776c3a3680a2f000210",
+               "name": "Helmut Zerlett",
+               "profile_path": null,
+               "id": 135677,
+               "order": 25
+            },
+            {
+               "cast_id": 46,
+               "character": "Alte Dame",
+               "gender": 0,
+               "credit_id": "565c879f92514145d60001fb",
+               "name": "Doris Hasslinger",
+               "profile_path": null,
+               "id": 1542797,
+               "order": 26
+            },
+            {
+               "cast_id": 47,
+               "character": "Vollstrecker",
+               "gender": 0,
+               "credit_id": "565c87f592514145d9000212",
+               "name": "Douglas Welbat",
+               "profile_path": null,
+               "id": 49158,
+               "order": 27
+            },
+            {
+               "cast_id": 49,
+               "character": "Speedy's Freundin",
+               "gender": 0,
+               "credit_id": "565c88c5c3a3680a520002b3",
+               "name": "Lena Amende",
+               "profile_path": null,
+               "id": 564804,
+               "order": 29
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4530c3a36847f80c137f",
+               "name": "Sven Unterwaldt Jr.",
+               "profile_path": null,
+               "id": 59338,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4530c3a36847f80c1385",
+               "name": "Bernd Eilert",
+               "profile_path": null,
+               "id": 57003,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4530c3a36847f80c138b",
+               "name": "Sven Unterwaldt Jr.",
+               "profile_path": null,
+               "id": 59338,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4530c3a36847f80c1391",
+               "name": "Otto Waalkes",
+               "profile_path": "/iJzGpHUibhvZLQSjFln4Rdn6god.jpg",
+               "id": 46029,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4530c3a36847f80c1397",
+               "name": "Jürgen Draabe",
+               "profile_path": null,
+               "id": 59342,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4530c3a36847f80c139d",
+               "name": "Bernd Eilert",
+               "profile_path": null,
+               "id": 57003,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4530c3a36847f80c13a3",
+               "name": "Maren Elbrechtz",
+               "profile_path": null,
+               "id": 59343,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4530c3a36847f80c13a9",
+               "name": "Bastian Griese",
+               "profile_path": null,
+               "id": 59344,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4530c3a36847f80c13af",
+               "name": "Andreas Grosch",
+               "profile_path": "/p5ZatHtOPzxsUndYYGCU5enZblu.jpg",
+               "id": 6891,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4530c3a36847f80c13b5",
+               "name": "Klaus Hefele",
+               "profile_path": null,
+               "id": 59345,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4530c3a36847f80c13bb",
+               "name": "Jörn Holm",
+               "profile_path": null,
+               "id": 59346,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4530c3a36847f80c13c1",
+               "name": "Dirk Lisowsky",
+               "profile_path": null,
+               "id": 59347,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4530c3a36847f80c13c7",
+               "name": "Andreas Schmid",
+               "profile_path": null,
+               "id": 6895,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4530c3a36847f80c13cd",
+               "name": "Gereon Sommerhauser",
+               "profile_path": null,
+               "id": 59348,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4530c3a36847f80c13d3",
+               "name": "Otto Waalkes",
+               "profile_path": "/iJzGpHUibhvZLQSjFln4Rdn6god.jpg",
+               "id": 46029,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4530c3a36847f80c13d9",
+               "name": "Douglas Welbat",
+               "profile_path": null,
+               "id": 49158,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4530c3a36847f80c13df",
+               "name": "Joja Wendt",
+               "profile_path": null,
+               "id": 59349,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4530c3a36847f80c13e5",
+               "name": "Jo Heim",
+               "profile_path": "/pXvZeLTDs0ia7AbyOwSxU6IkNL3.jpg",
+               "id": 17011,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4530c3a36847f80c13eb",
+               "name": "Julia von Frihling",
+               "profile_path": null,
+               "id": 36240,
+               "department": "Editing",
+               "job": "Editor"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Comedy",
+         "id": 35
+      }],
+      "popularity": 7.423093,
+      "production_countries": [{
+         "iso_3166_1": "DE",
+         "name": "Germany"
+      }],
+      "id": 9803,
+      "vote_count": 83,
+      "budget": 0,
+      "overview": "The Seven Dwarves live deep within a female-free-zone of the Enchanted Forest, but they cannot resist the innocent charms of Snow White when she enters their world. So when the evil queen abducts her, it is up to the dwarves to save her life.",
+      "similar": [
+         5393,
+         224141,
+         808,
+         809,
+         58595,
+         4523,
+         14442,
+         11224,
+         408,
+         10882,
+         150689,
+         10719,
+         62764,
+         1417,
+         38757,
+         57158,
+         49051,
+         10144,
+         10020,
+         122917
+      ],
+      "original_title": "7 Zwerge - Männer allein im Wald",
+      "runtime": 95,
+      "poster_path": "/vSMUPVdqBpliZC0tRMqs6yUdL0w.jpg",
+      "spoken_languages": [{
+         "name": "Deutsch",
+         "iso_639_1": "de"
+      }],
+      "production_companies": [],
+      "release_date": "2004-10-28",
+      "vote_average": 5.2,
+      "belongs_to_collection": {
+         "backdrop_path": "/xtR1Y5pgriouge533T6qDoyRfWK.jpg",
+         "name": "Seven Dwarfs Collection",
+         "id": 215606,
+         "poster_path": "/8l6xMtZ0vuAIR2RlkAUt93KB2id.jpg"
+      },
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Germany",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Sven Unterwaldt Jr."],
+      "runtime": 95,
+      "synopsis": null,
+      "writers": [
+         "Bernd Pfarr",
+         "Pit Knorr"
+      ],
+      "originalLanguage": "German",
+      "imdbLink": "http://www.imdb.com/title/tt0382295/",
+      "coverLink": null,
+      "actors": [
+         "Otto Waalkes",
+         "Mirco Nontschew",
+         "Boris Aljinovic"
+      ],
+      "reviews": [
+         "I watched this movie, because I had promised my little sister to join her. I have seen all the other Otto-movies, because my family loves him, but I don't really think he's funny. So I went to the movies with a very negative attitude, thinking that I am going to be terribly bored. That really wasn't the case! Although everybody knows the basic story, the film is still interesting and I had to laugh and smile a lot of times. Sure, it is very stupid, but this is that kind of movie that is so stupid, it's already funny again. The comedians are great, except Harald Schmidt who should stick to offending people, that's what he is good at. I loved Nina Hagen as the bad stepmother and Ruediger Hoffmann as the person in the mirror was just hilarious! The only bad thing about the movie is the song that they are singing all the time. You won't get it out of your head afterward! Everybody who just wants to be entertained should watch this!",
+         "My German teacher got this from a former student who is living in German and we watched it in class (with the help of some cunning planning and working) and it was the most entertaining 93 minutes I have had in that class (and trust me, entertaining things happen in that class daily) My teacher, who commonly finds humor as the such in the movie (black eye - black guy (translated), Tupperware container for glass coffin and the like)hilarious. He was on the floor laughing. (well not literally, but oh well) There wasn't a dull moment in this movie..from the flash of \"that night\" to the man dwarf singing with a women's voice. I just need to find a version that will work on USA DVD players because I want to share the joy this movie brings with all of my friends and family.",
+         "I found 7 Zwerge to be a delightful German film and highly recommend it. However, it contains some language based jokes which don't translate well to English, so beware if you don't speak German and watch the film with subtitles to miss a few of the good jokes. But there is still plenty there for those who don't speak the language and overall the plot and humor translates quite well. A great film with a fairly simple plot that is great to watch if you are trying to learn German but also great for anyone who really loves foreign films. Highly recommended to fans of German comedy!",
+         "Okay, I must admit: it IS a very silly movie! But the bigger comedies from Germany are always silly, and \u0084Seven Dwarfs' is no exception. When you compare him to the other two big comedies this year, \u0084Traumschiff Surprise' and \u0084Der Wixxer', you will find the same sense of humor. The question is: do you like this kind of humor? Then go and see the movie, it will be not brilliant (like the other two) but satisfying (like the other two). Like in ZAZ-Movies or simple Gross-Out-Comedies, you better leave your brain outside in the car and enjoy, because it is a fun event to watch this kind of movie. More then a dozen of German comedians in bigger and smaller parts: find them, check them out, notice their comedy routines and feel a little bit like a 12-year-old - the only way it works. It's good to see, that this movie is no typical Otto-Movie, because his last two outings were flat or plain bad. In \"7 Dwarfs' his role is thankfully smaller, giving room to his co-stars. Positive to mention are: Punkrock-Icon Nina Hagen as the evil queen (even if you hate her in real life, like me, you have to admit, that her timing is great), Rüdiger Hoffmann with his absurd slow burn humor is perfect as the magic mirror and Martin Schneider as dwarf \u0084Speedy' (who is really slow and very big) is quite perfect. Hans-Werner Olm as the queens dark helper qualifies himself for better rolls (also non-comedic) and the absurdest of German comedians, Helge Schneider, who mixes absurd monologues with a great talent for Jazz in his shows, has a funny moment as Gandalf-Lookalike \u0084The Wise/White Helge'. Not so funny: German Talkmaster Harald Schmidt who plays himself as a candidate for the court jester job, \u0084Traumschiff'-Veteran Christian Tramitz, who has (as the hunter) to deal with a lot of weak lines and Ralf Schmitz, who can't show his talents from TV, because his dwarf \u0084Sunny' is definitely a weak point of the whole movie. And don't think to much about kind of \u0084messages' in the jokes: after films, which should be funny because of racial stereotypes, excessive drinking, puking, crapping, re-animating dogs, eating dog-shit, drinking sperm in beer and f**king apple pies, I don't see a problem in the (absolutely funny)\u0084Hitting-Women'-Joke, when all the male characters are hitting themselves through the whole movie. The Neger/Jaeger-Gag is a cheap joke (and they even repeat him), but everyone, who thinks he has a problem with those lighthearted jokes, must check, if he is not a better visitor for the next Visconti-Retrospective or a Woody-Allen-Festival. Much more charm, then I expected, I don't care for many misses, I had enough hits to laugh about. (7/10)",
+         "I haven't seen something like this since the Holy Grail. Sure it is obvious. Sure they are all jokes your dad thinks are funny and everyone else groans at. This is like pantomime. You KNOW everything is ridiculous and exaggerated. The delivery and execution of classic lines are very good, and even though you know exactly what to expect, they still make you smile when they are delivered. This is a film that can only be appreciated when you have developed a very fine sense of irony whilst retaining the ability to laugh at simple things and yourself. There are multiple pop culture references that may elude someone not familiar with German culture, but for me, it was a fine illustration that not all comedy must be sophisticated on the surface. Don't watch this if you think American Pie is Champagne comedy. Your sense of irony won't be refined enough to appreciate it. The delivery of gags in this is also faster than for a typical Hollywood style movie. The buildup for each dull joke doesn't take half the movie and leave you squirming, KNOWING that X is going to happen, you just have to wait for it. I thoroughly enjoyed it.",
+         "ouch...that REALLY did hurt. and not because my belly was laughing so hard. the whole movie was was jampacked with the absolutely worst stuff German \"comedy\" has to offer. no joke, really no joke at all, was slightly funny. It's a complete emberassing mess. I hope this crap will be forbidden because of the possible damage it could do to your brain. I still have headaches. Please go and see \"Gigli\" or a Britney Spears movie, even this \"gems\" are 1000x better than this. It's no wonder at all when people think Germans can't be funny. This is the complete opposite of real funny, intelligent comedy. But maybe it was shot as some kind of project for mentally ill, pathetic unfunny comedians. You never know. Just sad.",
+         "I actually found it quite humorous. Given, Otto played his usual self, which is getting a bit old. But I still enjoyed it overall. Especially the board game and the mirror. I also liked the subtle little details on the map, at the beginning, where the villages were named after the actors. And I saw it as a nice little game, to notice and point out the different cameo actors, who weren't mentioned in the trailer/promotion. There were some scenes that made me cringe, hence only 6 stars, but others were good for at least a giggle. The word \"Neger\" used in the movie, is not a derogative word, but actually means \"Negro\" and not \"the N word\" at all. The derogative word actually is the same word in German as it is in English.",
+         "OK, i have to admit i didn't watch 'Traumschiff Surprise', but it can hardly be any worse than this. There wasn't much of a story line here, but its a comedy so thats not really a big problem. But the jokes !!! Beware of the jokes!! They are so bad its painful. Except of a few they are not even funny-bad in the sense that you can laugh about how stupid they are, they are just bad. I'm just wondering how so many (supposedly) good German comedians could get into such a movie. what were they thinking? You have to be a REALLY great Otto-Fan to enjoy this movie. If there is ANY other movie playing in your local cinema go and watch that instead, it simply cant be any worse.",
+         "This film is silly, okay, but it's also extremely funny and entertaining! If you liked the various 'Airplane' and 'Naked Gun' spoof, this movie's for you, even if it comes from Germany! So the seven dwarfs are not small, they're grown up men who escaped from women and civilization, and hid in the woods. Everything's fine, until Snow White arrives there, escaping from a nasty queen (Nina Hagen!) that wants to get rid of her. It does not hurt that Snow White is quite a lovely good looking brunette, just about to turn 18... again, if you ever happen to get hold of this film, watch it and you won't be disappointed, it's a good one hour and a half of fun. I have no idea if it will be dubbed or subtitled around the world, but its humor is definitely universal, so don't be scared by its country of origin, Germany! You'll get 95% of the jokes anyway, and who cares if you miss one or two, when you're already rolling on the floor with laughter?",
+         "Awful comedy loosely based on \"Snow-white\", featuring a massive amount of German comedians. The appearing comedians play their own style as it probably would be in a fairytale scenarion. Netherless the plot is very predictable while the gags are highly unpretending. Many of the jokes are based on German language and probably won't work translated. (To be honest they don't really work in German either) Silly, heartless old jokes suitable for viewers aged < 10 years. Sophisticated adults should under no circumstances waste their time/money with this movie.",
+         "If you love a good-ol'-fashioned comedy, this is one to see. A delightfully \"Shrek\"-like romp through the tale of \"Snow White & the Seven Dwarfs\". Snow White takes a back seat for this one; instead we see the adventure from the Zwerge point of view. Great gags, great slapstick, super goofy and fun; even more so in the original German. Hate subtitles? - then learn to read!! Look out for: Giant Tupperware Giant Dwarfs Sandra Bernhard cum Lady GaGa cum Evil Queen Wieners Cannot wait to see the sequel \"7 Zwerge - Der Wald ist nicht genug\" (2006)",
+         "I found this movie the same way I find foreign films that I want to buy on DVD, by being bored late at night and turning to the foreign channel. This is the third German offering that I've found to be quite enjoyable. The storyline is surreal-- 7 dwarfs who aren't dwarfs. Though thankfully Snow White is still Snow White. The blonde, sorry 'brunette' jokes are a tasteful addition to Nina Hagen's evil queen character. I was surprised there was a storyline in it, because its supposed to just be a spoof of the Snow White story, but the story is pretty good-- I especially like the Tupperware container-- whoever thought of that was a genius. The dwarfs are funny and all contribute to the humour of things, by the end of it, you will be wanting to grab someone and play 'CHECK!' Might warn the kids not to try that at home. It's been over two months since I've seen it, and I still laugh when I think of certain scenes.",
+         "This is lousy beyond expression. All necessary comments why so are already written! It's not a matter of taste or different senses of humor or anything negotiable. This movie is simply a physical offense and a cry in' shame for the German film history! The only acceptable part are the 20 seconds (!) for Helge as Gandalf, and off! Rüdiger Hoffman also can't save this. Though his play as the mirror is okay, he could never make anything out of this that I could watch and stand. Boris Aljinovic as well. Neither can Cosma. Watching adult men stomping through the woods in a line, chanting \"Hey dwarfs Ho!\" (the only line of the song) for about 4 minutes is a reason for a day in court!",
+         "It is quite a surprise: Though his previous movies were quite bad, Otto's new movie is very nice and funny! And that's because it isn't a Otto-Film but a film with Otto, who is not the but one of the main actors. This time there is a whole lot of them, e.g. Mirco Nontschew, Ralf Schmitz, Helge Schneider, Harald Schmidt and so on. But no one of them tries to put himself in front row, it is really an ensemble movie, and that's what makes it good. Maybe it is because the movie has a very good director: Sven Unterwaldt, who has worked for many important TV-comedies and has a nice feeling for timing and a believable look. \"Sieben Zwerge\" is actually a lovable dwarfs movie! It isn't a joke-joke-joke-movie, but actually a nice comedy for families. It probably will attract the \"old\" Otto-Fans and the new young ones. As could be seen at the premiere: Kids love him and his cast.",
+         "...just unbelievable how these old jokes keep me laughing, the cast is absolutely packed with big names even down to the smallest roles. I just wonder how they got all these stars to play this stuff, kind of unusual for the German film scene to do some stuff just for the fun of it and produce it well. I've never seen this combination The Soundtrack is nice, no wonder considering who done that part. i'm pleased to see that _entertainment_ is possible and easy with a film like this, far above the \"comedy\"-hype here in Germany. well done, Otto and all the others. i watched with my girlfriend and it's -two thumps up- just 9/10 because maybe some other movies try to top this",
+         "OK...a sad collection of extremely unsophisticated 'sketch' jokes, often repeated several times, and none of them original. Embarrassing. Plus...racism! A clumsy wordplay on the similarity between the sounds of 'Jaeger' (hunter) and 'Neger' (insulting word for a dark skinned person). Also...violence towards women! One of the 'dwarfs' has a 'problem', later overcome, in that he **can't hit women**. Hilarious. Women are repeatedly referred to as (translation)'cold-hearted bitches'. The person who wrote this trash is the one with the problem. Speech impediments! This is supposed to be funny?? Otto Waalke's character - I hope it is a character - is annoying beyond belief, as are the lisping dwarf and the cooking dwarf. The only enjoyable moments were provided by the fabulous Nina Hagen, playing the wicked queen, the Mirror - Ruediger Hoffmann, and the miserable dwarf played by a wonderfully dead-pan Boris Aljinovic. Having said all that, the thing that I found really disturbing was that I was sitting in a packed cinema full of people laughing their heads off. This disaster actually got a considerable round of applause when the credits came up!!! A sad day for Deutschland. See it if you have to, or you want to experience what, believe it or not, actually passes for comedy in Germany, but avoid it if you can.",
+         "It's funny to see the difference between the viewers from foreign countries and Germany. I guess, the problem is, the jokes used in that film are really old and pretty used for us Germans, because Otto Waalkes used them since the beginning of his career. That's why I think this is a completely superfluous film. The only good joke is Helge Schneider as \"Gandalf\". I'm very sad about this film, because there are a lot of great comedians, but they all played only there Stand-Up-Roles... absolutely disappointing... The only reason I give one star is: I can't give none...",
+         "This is a comical version of the all too familiar story \"Snow white and the 7 Dwarfs\" So naturally there is the beautiful brunette, the jealous queen and the 7 \"dwarfs.\" In this version the dwarfs are not really dwarfs in the true sense of the word, (well maybe some of them are), but rather a group of men who have been emotionally upset by a woman one time too many, so when a bout of misogyny sets in, one of them sets up a group of men (limit 7) who wish to live in a world without women, and will go to any means to achieve this. As we all know the queen sets a hunter out after Snow white who escapes into the woods and finds her way to the dwarfs' cottage and...well we all know the story, but this version is filled with it's own twists and turns. Many of the jokes are amusing if not downright hilarious such as remodeling the house to accommodate for Snow white, when Bubi holds the saw, and 2 other dwarfs slide the wood back and forth, or when Speedy tastes what he believes is Cookie's latest dish, only to find out it's actually a can of pink paint; oh, and let's not forget the mushrooms ;). But some of the jokes are not so funny, as others have mentioned there's the Jager/Neger joke, then there's the shooting of the fanfare musicians (would it be funny if someone really did it?) The scene when the dwarfs first meet Snow white isn't entirely a bad thing, although it's probably not appropriate for a younger audience who the original story is directed at. The RSPCA wouldn't approve of the way Tscheko treats Brutus, not to mention Bubi's song which fortunately is interrupted at just the right moment. And most intriguing of all the violence against women. I must admit it is kind of funny in a very twisted kind of way, but at a subtle level it gives the impression that it's okay for men to hit women, even in the most dubious of circumstances, considering that Snow white does actually provoke Tscheko to hit her. Still most of us can probably overlook these unpleasant moments to watch the movie.",
+         "Seeing the trailer gave me the impression that this movie could be funny but I have to admit that I was dead wrong. The movie offers a lavish cast of German comedians who seemed to have pulled out their worst sketches & ideas. One notable exception is the short appearance of Christian Tramitz. In addition to the fact that the movie is absolutely not funny, there is also a rather dodgy message that is conveyed. One of the dwarfs bemoans that he cannot beat women (which is a struggle he overcomes actually). Furthermore there is the joke (???) that whenever the queen calls for the hunter, first a colored man appears. This dubious joke is based on the fact that in German the word for hunger (\"Jäger\") sounds very similar to the word \"Neger\", which is a very derogative expression for colored people. Finally, the dwarfs come to the conclusion that all women are \"cold-hearted bitches\". Sorry, for the language but this is the actual expression of the movie. Some people might find this all funny, however, the people around me and I had a very hard time finding something to laugh at.",
+         "If you have seen any of Otto's previous movies, you will basically know what kind of humor and approach to comedy is awaiting you here. It is obviously a very loose adaptation of the \"Snow White\" tale and runs for pretty much exactly 90 minutes. Otto got several famous comedians to play his fellow dwarfs, but what is almost even more impressive is the number of cameos in this film. Almost every male German comedian who was sort-of popular 10 years ago is in this movie. The film's director is Sven Unterwaldt Jr. who has worked on several comedy shows for television before. He also wrote the movie and got help from Waalkes and a couple more guys including even one who already worked with Otto on his movies 20 years earlier. Pay attention how this film starts actually with \"Red Riding Hood\" and also ends with her. They included a couple more fairytale references here, like Martin Schneider's Cinderella love story. This was the third-most successful movie in Germany in 2004 after Bully Herbig's newest project and Harry Potter. So no surprise, two years later they already made a sequel and a third (this time animated) movie came out actually not too long ago. This first film here has early on quite some similarities to Otto's old movies. He plays his own parents in a flashback and also himself when he was a baby. But that's fine, I guess, as most younger audiences weren't probably too familiar with his first films. I liked the dwarf song main theme quite a bit. Rock singer Nina Hagen plays the evil queen. Visually, she fits the role 100%, but sadly she is not a great actress. Her daughter plays Snow White. Heinz Hoenig and Boris Aljinovic are two people in the cast who are more known as actors than as comedians, so no surprise they play the more serious, occasionally grumpy, characters. Not all the jokes are 100% in this movie and some are even quite off the mark and the ending on how the queen was defeated I found slightly disappointing, but here and there it's a really funny movie (my favorite part Jäger vs Neger). Basically, it is what you could expect: nothing groundbreaking, but 90 minutes decent entertainment. Recommended.",
+         "When I saw this movie, I noticed, that it had one joke in it, that made me laugh (that's OK - Periode 1: Traumschiff Surprise sported nil). And it had Helge Schneider in it, too. What else could one ask for? In Detail: Waalkes is still a main character. That's a bummer because the best Waalkes parts were the samples and tidbits of his silly noises played during the end credits. Rüdiger Hoffmann actually filled his small role pretty well (he plays the magic mirror). One wouldn't expect that, knowing him as a so-called comedian. The others aren't really worth mentioning. And I refuse to give credits to Nina Hagen, as others feel driven to do. Luckily enough, as I said, Helge Schneider is in it, in too small a role, though, unfortunately. So all in all a movie that can be missed out with no regrets.",
+         "I saw this movie in German club and I thought it was really entertaining. Sure, it wasn't the height of intellectual humor by any stretch of the imagination, but it was still pretty damn funny. I know doing a spoof of a fairy tale isn't the most original or deep idea for a movie, but I think the way they went about it (with the he-dwarf woman haters club in the forest, the usurping nurse who became queen just by putting on the crown, how Schneewittchen ended up with the jester at the end) was a lot better than it could've been. Of course, I was mostly just happy that I could understand the jokes. My favorite part was the whole \"Schach\" bit, I still giggle when I think about it sometimes. I also liked how they did the brunette/blond jokes, I thought that was actually kind of clever. The cinematography was pretty nice to look at, too, very spoof-y and bright. I loved the music, it was so bubbly and catchy! I wish I could find the soundtrack.",
+         "It's an entertaining movie. I liked most Nina Hagens play and i had a lot to laugh in the cinema. It was also funny, that the east-part Berliners do have an other kind of humor to the opposite of the west-watchers. \"Otto\", the director and Main-Actor is one of the biggest Comedy Talents around Germany. He had the first big success in the middle of the 80s with his songs and films. Whatever, check it out, it's worth it and in Germany it's one of the biggest movies ever (next to \"The Boat\" or \"Die Blechtrommel\"). Nina Hagen is a very great actress, she should have looked out to do more movies. Love, Marlon.",
+         "Otto didn't reinvent himself with 7 Zwerge and its possible to see this in every second of this movie. If you saw a lot of the old stuff by Otto Waalkes there is not much new to explore. But the film isn't bad at all. Its only old fashioned. Otto plays himself as usual even if he tries to act as a character called Bubi and his parents. The jokes are funny as they were when Otto told them the first time and the little new stuff is pretty cool. I like the scene about \"Brettspiele\" very much. If you didn't watch a Otto Movie before you can add up to 2 Points to my Vote."
+      ],
+      "genres": [
+         "Comedy",
+         "Family"
+      ],
+      "productionCompanies": [
+         "Zipfelmützen GmbH & Co. KG",
+         "VIP 2 Medienfonds",
+         "Universal Pictures"
+      ],
+      "summaries": ["The Seven Dwarves live deep within a female-free-zone of the Enchanted Forest, but they cannot resist the innocent charms of Snow White when she enters their world. So when the evil queen (Nina Hagen) abducts her, it is up to the dwarves to save her life."],
+      "budget": 0
+   },
+   "movielensId": 131848,
+   "movielens": {
+      "languages": ["Deutsch"],
+      "releaseDate": "2004-10-28",
+      "dvdReleaseDate": null,
+      "directors": ["Sven Unterwaldt Jr."],
+      "runtime": 95,
+      "movieId": 131848,
+      "title": "Seven Dwarfs",
+      "mpaa": null,
+      "actors": [
+         "Otto Waalkes",
+         "Heinz Hoenig",
+         "Mirco Nontschew",
+         "Boris Aljinovic",
+         "Markus Majowski",
+         "Martin Schneider",
+         "Ralf Schmitz",
+         "Cosma Shiva Hagen",
+         "Nina Hagen",
+         "Hans Werner Olm",
+         "Atze Schröder",
+         "Christian Tramitz",
+         "Rüdiger Hoffmann",
+         "Norbert Heisterkamp",
+         "Mavie Hörbiger",
+         "Tom Gerhardt",
+         "Helge Schneider",
+         "Harald Schmidt",
+         "Hilmi Sözer",
+         "Antonio Monfort",
+         "Till Hoheneder",
+         "Horst Tomayer",
+         "Okko Bekker",
+         "Katharina Beissel",
+         "Helmut Zerlett",
+         "Doris Hasslinger",
+         "Douglas Welbat",
+         "Lena Amende"
+      ],
+      "imdbMovieId": "0382295",
+      "originalTitle": "7 Zwerge - Männer allein im Wald",
+      "genres": ["Comedy"],
+      "youtubeTrailerIds": [],
+      "plotSummary": "The Seven Dwarves live deep within a female-free-zone of the Enchanted Forest, but they cannot resist the innocent charms of Snow White when she enters their world. So when the evil queen abducts her, it is up to the dwarves to save her life.",
+      "tmdbMovieId": 9803,
+      "avgRating": 2.78571,
+      "releaseYear": "2004",
+      "numRatings": 14,
+      "posterPath": "/vSMUPVdqBpliZC0tRMqs6yUdL0w.jpg"
+   }
+}

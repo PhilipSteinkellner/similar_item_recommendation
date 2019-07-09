@@ -1,0 +1,632 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "artificial intelligence",
+            "id": 310
+         },
+         {
+            "name": "isolation",
+            "id": 1533
+         },
+         {
+            "name": "genetic enhancement",
+            "id": 202739
+         },
+         {
+            "name": "deep space",
+            "id": 209280
+         }
+      ],
+      "imdb_id": "tt3198000",
+      "video": false,
+      "title": "Teleios",
+      "recommendations": [
+         356266,
+         316784,
+         54132,
+         107020,
+         53463,
+         252189,
+         322061,
+         211587,
+         396004,
+         383442,
+         350362,
+         93950,
+         45273,
+         419327,
+         80583,
+         21836,
+         396152,
+         68212,
+         435848,
+         419261
+      ],
+      "backdrop_path": "/rYP96g1dH68slHzecGZSkVNUK7L.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 0,
+               "character": "Iris Duncan",
+               "gender": 1,
+               "credit_id": "58028e729251417c59004636",
+               "name": "Sunny Mabrey",
+               "profile_path": "/fKPc0yMFKIMJmvXH8yJcse22BmV.jpg",
+               "id": 58707,
+               "order": 1
+            },
+            {
+               "cast_id": 1,
+               "character": "Commander Linden",
+               "gender": 0,
+               "credit_id": "58028e8fc3a3687849003c47",
+               "name": "Lance Broadway",
+               "profile_path": "/jifKcNQXE43FPFgikwgzgZZhdEY.jpg",
+               "id": 1694998,
+               "order": 2
+            },
+            {
+               "cast_id": 2,
+               "character": "Chris Zimmer",
+               "gender": 0,
+               "credit_id": "58028eaa9251417c5900464e",
+               "name": "T.J. Hoban",
+               "profile_path": "/yjuVDIr5VN6mf9gRARz6Qf5VzZE.jpg",
+               "id": 78152,
+               "order": 3
+            },
+            {
+               "cast_id": 3,
+               "character": "Emma Anderson",
+               "gender": 0,
+               "credit_id": "58028ec99251417c3100487e",
+               "name": "Christian Pitre",
+               "profile_path": "/mfrIjlY1Hsfji2kLAuk4ArquzQP.jpg",
+               "id": 1192976,
+               "order": 4
+            },
+            {
+               "cast_id": 4,
+               "character": "Doctor Orson",
+               "gender": 2,
+               "credit_id": "58028ee99251417c9000473a",
+               "name": "Mykel Shannon Jenkins",
+               "profile_path": "/aOsFS6teHEoxLxaVzilpVRxVNZU.jpg",
+               "id": 61856,
+               "order": 5
+            },
+            {
+               "cast_id": 5,
+               "character": "Lulu AH-320",
+               "gender": 0,
+               "credit_id": "58028f119251417c90004757",
+               "name": "Ursula Mills",
+               "profile_path": "/dFrJ6hrvBg7RUHGwdnxuqUOOpmz.jpg",
+               "id": 1694999,
+               "order": 6
+            },
+            {
+               "cast_id": 6,
+               "character": "Travis O'Neill",
+               "gender": 0,
+               "credit_id": "58028f2d92514179c3004568",
+               "name": "Weetus Cren",
+               "profile_path": "/rT1zTzBAUjYfISkCxHEZV4Xon97.jpg",
+               "id": 1453707,
+               "order": 7
+            },
+            {
+               "cast_id": 7,
+               "character": "Nordham",
+               "gender": 2,
+               "credit_id": "58028f43c3a36879e3003e7b",
+               "name": "Michael Nouri",
+               "profile_path": "/lAPEwuE9Cg6xSgcgO2M2pFJ3ul5.jpg",
+               "id": 8699,
+               "order": 8
+            },
+            {
+               "cast_id": 14,
+               "character": "Atromitos Captain",
+               "gender": 2,
+               "credit_id": "5802903ec3a368793900464c",
+               "name": "John Posey",
+               "profile_path": "/9wvwfykeDDQltlrzgOYTjKpp8LV.jpg",
+               "id": 44060,
+               "order": 9
+            },
+            {
+               "cast_id": 39,
+               "character": "Computer (voice)",
+               "gender": 0,
+               "credit_id": "59b65eeec3a3682aee0102d2",
+               "name": "Leila Birch",
+               "profile_path": "/paSDdYcHNcOXrik2mRz1Z0dhJcS.jpg",
+               "id": 1227701,
+               "order": 10
+            },
+            {
+               "cast_id": 40,
+               "character": "Kenny AH-360",
+               "gender": 0,
+               "credit_id": "59b65fa89251417cb5010c17",
+               "name": "Brett Robert Culbert",
+               "profile_path": "/mZRvBAs1pm13G4nMGcsZTHBuhqx.jpg",
+               "id": 1707238,
+               "order": 11
+            },
+            {
+               "cast_id": 41,
+               "character": "Crewman Ramirez",
+               "gender": 0,
+               "credit_id": "59b65ff59251417ce2010bdf",
+               "name": "Armando DuBon Jr.",
+               "profile_path": "/qCC3Uj6gXE8iBrqBIAKreSsO2CM.jpg",
+               "id": 1397571,
+               "order": 12
+            },
+            {
+               "cast_id": 42,
+               "character": "Robot Cage Fighter 1",
+               "gender": 0,
+               "credit_id": "59b6603e9251417cbc0110f3",
+               "name": "Seth Duhame",
+               "profile_path": "/1ZCbLugCkd1kedbd1qDT7hMCxLe.jpg",
+               "id": 1885802,
+               "order": 13
+            },
+            {
+               "cast_id": 43,
+               "character": "Robot Cage Fighter 2",
+               "gender": 0,
+               "credit_id": "59b660519251417cb10115db",
+               "name": "Ryan Ryusaki",
+               "profile_path": "/xOmaWbr4SzABG9r2ZxbuHbHRmKE.jpg",
+               "id": 1885803,
+               "order": 14
+            },
+            {
+               "cast_id": 44,
+               "character": "Crewman Vanderveld",
+               "gender": 2,
+               "credit_id": "59b66117c3a3682b190106f7",
+               "name": "Andreas Lyon",
+               "profile_path": "/qnEZaHtgWJRVqel66TmxQCM8E48.jpg",
+               "id": 1043651,
+               "order": 15
+            },
+            {
+               "cast_id": 45,
+               "character": "Crewman Dang",
+               "gender": 2,
+               "credit_id": "59b66196c3a3682b2c00faa3",
+               "name": "Philip Tan",
+               "profile_path": "/1FhKJFikrUKvpNoYbf5wsmmYo4y.jpg",
+               "id": 702,
+               "order": 16
+            },
+            {
+               "cast_id": 46,
+               "character": "Crewman Jones",
+               "gender": 0,
+               "credit_id": "59b66418c3a3682a8401180f",
+               "name": "Spencer Stone",
+               "profile_path": "/mPWEAlb8unBKH72uQlp45Z8xRgv.jpg",
+               "id": 1885808,
+               "order": 17
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "58028f6a9251417c310048bb",
+               "name": "Ian Truitner",
+               "profile_path": null,
+               "id": 1453702,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58028f77c3a3684d49005368",
+               "name": "Ian Truitner",
+               "profile_path": null,
+               "id": 1453702,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58028f99c3a36879bb003fbb",
+               "name": "Roman Kovalik",
+               "profile_path": null,
+               "id": 1453705,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 1,
+               "credit_id": "58028fe29251417a05004571",
+               "name": "Gabriella Cristiani",
+               "profile_path": null,
+               "id": 11383,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "580290069251417a33004887",
+               "name": "Chuck Parker",
+               "profile_path": null,
+               "id": 1695003,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5843f1cd9251416a80008200",
+               "name": "Jasmin Kuhn",
+               "profile_path": null,
+               "id": 1695002,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5843f1ecc3a36847220081db",
+               "name": "Craig Campobasso",
+               "profile_path": null,
+               "id": 25297,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5843f21692514169d9008204",
+               "name": "Hayley Helmreich",
+               "profile_path": null,
+               "id": 1718110,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5843f2399251416a74007ede",
+               "name": "Jeffrey Kushon",
+               "profile_path": null,
+               "id": 1404339,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5843f202c3a368466400820d",
+               "name": "Matthew Gore",
+               "profile_path": null,
+               "id": 1718109,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5843f251c3a3684664008242",
+               "name": "Randall Scerbo",
+               "profile_path": null,
+               "id": 1718111,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5843f26c9251416a74007efb",
+               "name": "Lisa Baddeley Parker",
+               "profile_path": null,
+               "id": 1718112,
+               "department": "Art",
+               "job": "Art Department Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5843f28792514169d900825c",
+               "name": "Aaron A. Akins Jr.",
+               "profile_path": null,
+               "id": 1718114,
+               "department": "Art",
+               "job": "Construction Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5843f2b7c3a36847f90081c4",
+               "name": "Toby Forlenza",
+               "profile_path": null,
+               "id": 1457708,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5843f2d4c3a3684692007667",
+               "name": "Lynze Radzyminski",
+               "profile_path": null,
+               "id": 1718115,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5843f38ec3a36847220082d5",
+               "name": "Francis dela Torre",
+               "profile_path": null,
+               "id": 553394,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5843f3b1c3a368466400833f",
+               "name": "Marc Meisenheimer",
+               "profile_path": null,
+               "id": 1718116,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5843f3ce92514169d900830b",
+               "name": "Scott Moody",
+               "profile_path": null,
+               "id": 1572882,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5843f3e29251416a74007feb",
+               "name": "Will Durghalli",
+               "profile_path": null,
+               "id": 1718117,
+               "department": "Camera",
+               "job": "Steadicam Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5843f43bc3a3684692007710",
+               "name": "Dong Hyun Kim",
+               "profile_path": null,
+               "id": 1718118,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5843f46e9251416764008367",
+               "name": "Heather Paul",
+               "profile_path": null,
+               "id": 1718119,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5843f48392514169d9008372",
+               "name": "Kevin Quattro",
+               "profile_path": null,
+               "id": 1718120,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5843f4b6c3a368478d00850d",
+               "name": "Russell Johnson",
+               "profile_path": null,
+               "id": 1575704,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5843f4d3c3a3684813007c6f",
+               "name": "Sharisse Fine",
+               "profile_path": null,
+               "id": 1456030,
+               "department": "Costume & Make-Up",
+               "job": "Hair Department Head"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5843f4e8c3a368478d00852a",
+               "name": "Jarrett Iovinella",
+               "profile_path": null,
+               "id": 1718125,
+               "department": "Costume & Make-Up",
+               "job": "Hair Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5843f4fd92514169d90083c7",
+               "name": "Kelly Capoccia",
+               "profile_path": null,
+               "id": 1453428,
+               "department": "Costume & Make-Up",
+               "job": "Key Hair Stylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5843f52a92514169d90083ea",
+               "name": "Samantha Ward",
+               "profile_path": null,
+               "id": 1636865,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Department Head"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5843f54092514166ba008023",
+               "name": "Andria Farrell",
+               "profile_path": null,
+               "id": 1718130,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5843f552c3a3684813007cb6",
+               "name": "Seana Gorlick",
+               "profile_path": null,
+               "id": 1718131,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Science Fiction",
+         "id": 878
+      }],
+      "popularity": 5.798287,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 421443,
+      "vote_count": 22,
+      "budget": 1000000,
+      "overview": "A deep space mining vessel has been adrift for two years. It is suspected the crew brutally killed each other, but the reason for the bloodbath is unknown. A rescue crew is sent to find if there are any survivors, what happened and why.",
+      "similar": [
+         605,
+         603,
+         604,
+         62,
+         296,
+         9323,
+         157353,
+         2048,
+         17431,
+         78,
+         152601,
+         335984,
+         264660,
+         12244,
+         87101,
+         861,
+         5548,
+         19,
+         20526,
+         157336
+      ],
+      "original_title": "Teleios",
+      "runtime": 93,
+      "poster_path": "/56Jw3jcT0Oi8dRI2htlCQyfRlV8.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "Thousand Mile Media",
+         "id": 51117,
+         "origin_country": ""
+      }],
+      "release_date": "2017-04-06",
+      "vote_average": 5.1,
+      "belongs_to_collection": null,
+      "tagline": "In a Perfect World...There is a Fatal Flaw.",
+      "adult": false,
+      "homepage": "http://www.thousandmilemedia.com/teleios",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Ian Truitner"],
+      "runtime": 89,
+      "synopsis": null,
+      "writers": ["Ian Truitner"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt3198000/",
+      "coverLink": null,
+      "actors": [
+         "Sunny Mabrey",
+         "Lance Broadway",
+         "T.J. Hoban"
+      ],
+      "reviews": [
+         "Without a forum, I cannot reply to review such as below...which is a bit harsh. The movie is a mishmash of 2001, Event Horizon, Lost in Space. Its a better movie story-wise than passengers (2016) with the Hollywood sweethearts JLaw and Pratt. Doesn't have the Hollywood budget unfortunately. The mystery was gripping and kept the attention BUT the resolution was a bit weak. The Genetic Transformed (GT?) Super Humans of the future are sent to fix the mistakes of a previous human mission to the distance planet. They find a lone Human survivor and artificial person. Then everyone, it seems, malfunctions, and ethical dilemmas and decisions have to be made.... Interesting use of literature from Tolstoy to Sun Tzu.... \"This seems to have started out as a thought-provoking script and devolved into a thoughtless movie, mainly due to the ridiculous costumes that looked like they were created by Project Runway rejects - the poorly sewn dart seams on the voluptuous actresses' costumes were distracting, and the shoulder pads were ill-fitted on the hunky guys' costumes, and let's not forget those high heel booties so necessary on space missions. This looked as if someone decided the acting was going to be so bad that they may as well make a porn, and then forgot the porn.\"",
+         "This seems to have started out as a thought-provoking script and devolved into a thoughtless movie, mainly due to the ridiculous costumes that looked like they were created by Project Runway rejects - the poorly sewn dart seams on the voluptuous actresses' costumes were distracting, and the shoulder pads were ill-fitted on the hunky guys' costumes, and let's not forget those high heel booties so necessary on space missions. This looked as if someone decided the acting was going to be so bad that they may as well make a porn, and then forgot the porn.",
+         "Very intelligent. Well acted, well directed, amazing music. The Gwar music joke is nicely inserted. I don't understand the bad reviews. i guess we can all have enemies int his work. I would put this film stylistically somewhere between modern TV Sci-Fi (Star Trek,etc) and Passengers, though it is definitely ABOVE television standards. It own not a big budget film, but it is TRUE proper Sci-Fi. Very intelligent and thought provoking and nicely quirky in places. Well worth the 90 or so minutes of viewing time",
+         "In many ways this movie reminded me about the original Star Trek series. The costumes, the props, the effects, the clichés, the play, and even the way it tries to explore social norms and problems. It's definitely a low budget film, so don't expect amazing visuals. It's not an action movie that would hold you on the edge of your seat, either. It's a drama and if you could overlook 1 hour of SciFi clichés, you might come to enjoy it. I certainly did. Be warned, the plot does involve 3 different themes, one of which comes out as surprise twist out of nowhere, yet it strangely rhymes with the events on the station. It's not hard to imagine that both are result of the same logic, even though they are completely separate events. In retrospect this twist is probably the reason why I liked this movie and why I would recommend you to watch it.",
+         "We were given a preview of Teleios via a German port, and at first, it was rather slow, and dull. But as we continued to watch, the concept of the film got interesting and intriguing. In 2015, science on earth can modify human embryos..and this film continues that after 2020 they are commercialized. On 2038, the film states that enhanced humans have been conceived. This film starts in 2047 (just like the film \"The Event Horizon\").. they send a crew of genetically engineered human beings to investigate what happened to a ship that was to bring back a cargo from Titan (Saturn's largest natural satellite) The crew of the ship that never returned has evidence that they were killed by their own people. This film makes the viewer believe that it will go by the mass insanity plot - but it does not quite do this The genetically modified crew find a survivor that does not talk, and when their investigation begins, the plot takes a sharp curve to the doings on earth, their genetic engineering, the cargo and a 'artificial person' that remained on board. Near past the mid point, the film's plot goes awry, with entire rescue crew left in balance of life or death. We liked it.",
+         "The crew of the Teleios (perfect) are genetically controlled humans. They awaken after a three year trip to Titan on a rescue mission of the cargo of the Atromitos (fearless) which is supposed to be a carbon based substance that will save our planet. The Atromitos was manned by non-generically controlled humans (regular folks like us). Only one human remains, a junior engineer no one noticed, Travis O'Neill (Weetus Cren) and he is not talking. He has a robot \"art\" (Ursula Mills) that cares for him and the space station. I will give them a pass on the artificial gravity. The film is a mystery that gives out clues sparingly, with the bulk explained at about an hour into the film. The perfect humans begin to experience emotions, something they are not supposed to do. Certainly their clothing was unique with light string collars. The acting was stiff by design which may make it tough to sit through. I enjoyed the film, timely with a message. Guide: F-word. Implied sex. No nudity. Winner of numerous film festival awards.",
+         "This movie examines some big ethical and moral issues. Any film that quotes Tolstoy and Moliere is for thinkers. It may be sci-fi, acuity is not the best, but really quite good.﻿ Questions about eugenics, intellectual property rights, the morality behind life and death decisions, and the emotional weaknesses of humankind make it intellectually interesting. Reviewers who have focused on the costumes are missing the point widely.",
+         "I'm going to review this because I so object to the low, around 3 stars, rating it seems to have gotten. It's a science fiction film, but it's not about killer robots, particularly; it's not about planets or star ships blowing up; it's not about aliens invading the earth. It's a quiet, sort of slow film, that seems to be about one thing and then turns out to be about something else. It's low budget but I don't think that is damaging in the least. The acting isn't bad - it's part of the story. In fact, I will watch for the actors in other work just to see how they do. The story, as I said, seems to be one thing, but then starts to twist and turn to an ending that is quite moving. All in all, I'm glad to have stumbled across this.",
+         "\"Teleios\" is a new sci-fi film from Ian Truitner and what makes it worth seeing is its budget. Until recently, independent filmmakers would rarely touch sci-fi as the films were quite expensive to make\u0085 mostly due to the special effects. However, recent advances with software have allowed gorgeous cinematic quality CGI at a relatively small cost. This would explain why a film with only a million dollar budget would look this good! For that reason alone, the movie is well worth seeing. The film is set in the mid-21st century. Genetically modified humans are proliferating on the planet and they are stronger, smarter and more capable in many ways compares to 'normals'. A space ship, the Teleios, with five of these super humans is about to make contact with a vessel that's been stranded in space for some time\u0085and no one is sure whether anyone is left alive on this stricken ship. The crew's orders are, first and foremost, to recover the cargo from the ship. But there mission is soon complicated by many things. The crew of the stricken vessel has all been killed\u0085with only one remaining as well as a robot and neither seem willing or able to explain what happened. The other problem is that these super men and women are beginning to show signs of weakness\u0085weaknesses they supposedly have overcome. Their emotions are running amok and soon they begin preying on each other. Why and what's to become of their mission? The best things about the film are the CGI, costumes and music. All of these look very professional and caught my attention. As for the story, it's only fair and is, at times, a tad confusing. Because of this, it's a movie that might just improve with repeated viewing. Overall, a mixed bag but a lesson on economical and effective filmmaking\u0085and a decent sci-fi flick as well.",
+         "In the beginning two things attracted my attention and caused me to examine this movie: the poster, which is graphically original, and the title which is incomprehensible, unless you are familiar with Greek. After looking it up I learned TELEOIS stands for \"perfection\". So, my artistic sense was pleased, my linguistic knowledge increased - so far, so good. Then the time came to watch the film. Knowing its budget was limited I did not expect fireworks of production values, but it not necessarily makes a good sci-fi picture an impossibility. One spacecraft with a crew of 5 is sent to investigate the demise of the crew of another space vessel. A premise more than satisfactory. A certain parallel with EVENT HORIZON (1997) may by seen here, though the Paul W.S. Anderson's work itself is hardly original, as it borrows heavily from NIGHTLYERS (1987). The rest, with very few exceptions, is sorrowfully miscarried. The direction seems to be almost absent, or present at its incompetent worst. Majority of the actors are so lame it seems their acting lessons had the form of a correspondence course. Especially Lance Broadway, T.J. Hoban and Christian Pitre deliver performances of abysmally bad quality. However, Ursula Mills makes Lulu AH 320 an interesting robotic character. And then there's is ravishing Sunny Mabrey who can act and can bring some conviction to her lines, her final speech sounds quite poignant and dramatic, but it is not enough to save the misbegotten movie. More than a decade passed since she appeared in SPECIES 3 where she had little to say and served mostly as a nude window dressing. Now she is an accomplished actress and deserves much better roles. The costumes represent an utter lack of visual taste. And it would have sufficed to remove those hideous frontal brown areas, otherwise they are nicely female figure hugging. In summarum, this motion picture is worth viewing only for Ms Mabrey, other reasons are extremely difficult to be found. On second thoughts, some might be tempted to see Michael Nouri in his brief video transmissions to notice how he has aged since the time of FLASHDANCE (1983).",
+         "Well. Worth watching-yes, not a waste of time. multiple plots running throughout the movie, too many just stop-not end mind you- just stop. This leaves you think \"what did I just miss?\", nothing-it just vanished. You want to leave the viewer wondering what will happen next- sequel? but not with everything. Did she hit abort? Did he make it back to earth? what was earth like? Why did the early android do what she did? Why did she attach to that one crewman? When did that attachment happen? Some of the rescue crew seemed to \"slip\" faster than others-why? To end a plot line is not to just stop writing about it-put a bow on it. Some of the plot is very interesting and a quite good concept. If you get bored at the end-take a freaking break and write it well. Take at least a week off and then re-read it. Get excited again. If you are going to leave it open ended, then logically close off what you want and leave open threads to the logical future. Take the lid off for the ending-throw us into space going WTF just happened. WOW!",
+         "To be clear this film is not a slam bang action film, but is very thought-provoking and raises important themes. It draws you in with a mystery that unravels in unexpected ways. Apart from Michael Nouri you might not recognize the actors, but the cast is excellent and the visuals, given it's only 1million budget (according to IMDB), are also great.",
+         "I saw this film at a festival with modest expectations, but it turned out to be a great surprise. Given its low budget don't expect a ton of action and special effects, but the film makes up for it with strong acting, intrigue and a story that keeps you guessing. I think some of the criticism saying it's boring must not be fans of classic Sci-Fi, which were more about atmosphere and making a statement about the future (or potential future) of humanity through the imaginary world of science fiction. For that matter 2001 or Blade Runner could be called dull, because there's long stretches without action. Teleios is dialogue heavy for sure, but it has strong pacing and wait for last 30 minutes when what you thought you knew what was going on gets turned upside down. The film was released under the name Beyond the Trek, which is a somewhat erroneous title as it has nothing to do with the Star Trek franchise. Still, if you like Star Trek, particularly the classic stuff, Teleios (Beyond the Trek) is worth a watch.",
+         "I have to judge a movie partly by the budget. This was a one million dollar movie in 2017 dollars. That's tiny! Sharknado 4 was three million dollars. Don't expect stellar special effects, great sets or even decent costumes. This looks more like something a bunch of Star Trek fan fiction alumni would end up with if they pooled their Doritos money and produced a full movie and I wish them A crew of emotion-less \"super humans\" wake up in a space ship near Titan. Their orders are to recover the lost cargo on a mining ship. They find a seemingly insane crew member and a robot tending the gardens. Any time the trope of \"emotionless humans\" comes up you know exactly what is going to happen next - and it does. Sorry - this is no master gem of a script either. Expect the expectable and you won't be disappointed.",
+         "I had never heard of this until actually watching it. I didn't know what to expect but I would suggest if you like television based sci-fi then you will like this. In fact I thought until near the end that it might be one of those movies created as a pilot for a TV show. Some have compared it to Star Trek but I'd suggest it is more in-tune with Gerry Anderson's shows especially UFO. The sets, uniforms, hairstyles were much more marionette than human. I will admit I might have missed it but I thought the rescue crew were not just genetically enhanced humans but in part androids themselves. Likely cyborgs - this explained their appearance and their lack of emotion. Initially when I started to watch this crew I was struck by how bad the acting was until I realized that they were all supposed to not have emotions. In which case the blank faces made sense. There were plot holes but mainly unanswered questions more than anything. I suspect that was planned but it did come across as a little jumbled. For example there is no rationalization given for a scanning done of a fallen android near the end of the film. I suspect there might have been plans for that to go somewhere but it didn't. Or maybe the writers did it on purpose to make people like me question it. Overall I found it entertaining for an hour and a half. Like finding some rarely scene old sci-fi movie on late night TV.",
+         "Occasionally, one comes across a film with actors so bad, that it makes one realise how difficult it is to be good or even great at the craft. The actors' faces look as if they have been injected with collagen and Botox...they just do not look right and it is distracting. The story did not really take off and I was left feeling most underwhelmed, unfulfilled and dissatisfied at the end. I only suffered to watch the whole film as I do like science fiction and I always give the offerings from that genre the benefit of the doubt until the end. I really should learn that if a film does not get me gripped and involved by the time 20 or so minutes have passed I should just do what the song says and just give it a miss and watch some paint dry.",
+         "It is obvious that this is a low budget film and for many that almost automatically means not what they are looking for. Still despite some bad acting from some of the cast in roles where they are playing emotionless Vulcan-like characters it's still pretty good. It's a slow burning story that reminds me of Event Horizon, Gattaca, Sphere and Sunshine with a 1980's B-Sci-Fi kind of feel updated for today. At first I found myself thinking they were Blade Runner androids nearing their expiration dates. The Beyond The Trek title seems as appropriate as Teleios/Perfection here as they may as well be some of Kahn's genetically enhanced people along with emotion controlling Vulcan training. It's hard enough for an actor to take on a Vulcan role let alone then experiencing emotions or insanity for the first time ever. Sunny Mabrey pulls it off, no one else does. Beyond the acting of the other GT's nearly everything else here was acceptable or even quite good. For me this is a little gem of a low budget film, but it's not for anyone who expects action or can't handle some poor acting. If you like Star Trek fan films, 1980's Sci-Fi B-movies, a lot of those original films on the Syfy network or those knock offs that The Asylum cranks out this may be for you, but if you are looking for anything approaching the polished fare of Star Wars or Star Trek blockbusters forget about it. It's more like the slow moving thinking Indy movies I mentioned above without the budget they had and the plot is not even as sophisticated as those and even predictable at times. It's an uneven film where they tried some things that sometimes hit and sometimes missed.",
+         "I was lured in by the movie poster and the hope that this was actually going to be a good sci-fi movie, and the fact that the synopsis of the movie seemed interesting also caught my attention. Then 39 minutes into the movie, I just gave up. This movie was sheer and utter boredom presented in a shiny and glowing sci-fi wrapping. There was just nothing compelling about this mundane and boring storyline that the writers had mustered to put together. And it didn't help that everything just screamed low budget presented in a mediocre wrapping. Granted, I have seen worse productions of sci-fi movies, but there just was that spark of low budget to \"Teleios\" such as in the weapons, the sets, and the so-called human-like robot beings. I mean, the way that they were moving was just so 1950's and laughable. I didn't get captured by the storyline, despite the fact that the storyline had potential to make a great movie. It was just the lack of pace and Progress to the movie that killed it off. I could live with the sense of pseudo-low budget, sure, but the inactivity of the storyline and the irrelevant characters was an anchor around the movie. \"Teleios\" didn't bring anything new, memorable or innovating to the sci-fi genre, and it is hardly a movie that will make a lasting impression, even with those in the audience that manages to sit through to the very end. And it is hardly a movie that will stand out as being a milestone in the sci-fi genre. The acting in the movie was adequate, although I can't really claim to be familiar with those cast for the various roles. Some did better jobs than others, of course, as it always go. But no one in the movie were really outstanding or memorable. Not outstanding and not memorable seems to be keywords to this movie. If you enjoy sci-fi, then there are far, far better movies available. And personally I find it hard to see why anyone would actually sit through the entire length of \"Teleios\", because it was a drag of a movie.",
+         "usually you understand if you like a film after first 10 minutes..... after 40 minutes of the film its still boring...... very bad language representation, as they took people who do not speak it. Could ask native speakers to read. I would not watch it again... i would agree with most people who left a review here.... like actors.. there could be anyone instead of them, there is no much dynamics. also a lot of foreign language what was not translated... it is a super boring detective...",
+         "I had never heard of this movie, the producer, director or actors but I figured why not give it a try, so I started watching it. The special effects are great so I was inspired to keep watching. However, I could not get past the first ten minutes due to the bad quality of acting and I had to turn it off. That's just my two cents."
+      ],
+      "genres": [
+         "Drama",
+         "Sci-Fi"
+      ],
+      "productionCompanies": ["Thousand Mile Media"],
+      "summaries": [
+         "The crew of the ship Teleios, comprised of genetically modified humans, is sent to retrieve the cargo from a mining ship adrift in deep space. It is suspected the crew brutally killed each other, but the reasons unknown. However, when they investigate the crew of Teleios find there are two survivors, one member of the crew and an artificial life form unit. The memory of the AI unit appears to have been erased and Travis O'Neill refuses to talk. The genetically modified humans are breaking down and learn that the only way to reduce the symptoms is to drink the blood of an unmodified human. The crew discuss the possibility of drinking the blood of the man they believe maybe a serial killer, or may be completely innocent.",
+         "A deep space mining vessel has been adrift for two years. It is suspected the crew brutally killed each other, but the reason for the bloodbath is unknown. A rescue crew is sent to find if there are any survivors, what happened and why."
+      ],
+      "budget": 1000000
+   },
+   "movielensId": 170893,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2017-04-06",
+      "dvdReleaseDate": null,
+      "directors": ["Ian Truitner"],
+      "runtime": 93,
+      "movieId": 170893,
+      "title": "Teleios",
+      "mpaa": null,
+      "actors": [
+         "Sunny Mabrey",
+         "Lance Broadway",
+         "T.J. Hoban",
+         "Christian Pitre",
+         "Mykel Shannon Jenkins",
+         "Ursula Mills",
+         "Weetus Cren",
+         "Michael Nouri",
+         "John Posey",
+         "Leila Birch",
+         "Brett Robert Culbert",
+         "Armando DuBon Jr.",
+         "Seth Duhame",
+         "Ryan Ryusaki",
+         "Andreas Lyon",
+         "Philip Tan",
+         "Spencer Stone"
+      ],
+      "imdbMovieId": "3198000",
+      "originalTitle": "Teleios",
+      "genres": ["Science Fiction"],
+      "youtubeTrailerIds": ["2FEBtfUaVxg"],
+      "plotSummary": "A deep space mining vessel has been adrift for two years. It is suspected the crew brutally killed each other, but the reason for the bloodbath is unknown. A rescue crew is sent to find if there are any survivors, what happened and why.",
+      "tmdbMovieId": 421443,
+      "avgRating": 2.5625,
+      "releaseYear": "2017",
+      "numRatings": 8,
+      "posterPath": "/56Jw3jcT0Oi8dRI2htlCQyfRlV8.jpg"
+   }
+}

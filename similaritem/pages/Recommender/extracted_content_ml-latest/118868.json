@@ -1,0 +1,462 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "amnesia",
+            "id": 1453
+         },
+         {
+            "name": "film noir",
+            "id": 195402
+         }
+      ],
+      "imdb_id": "tt0038965",
+      "video": false,
+      "title": "Somewhere in the Night",
+      "recommendations": [
+         23189,
+         48156,
+         38964,
+         29257,
+         207249,
+         37504,
+         30015,
+         68976,
+         30014,
+         222226,
+         26530,
+         256651,
+         175455,
+         144694,
+         19013,
+         118509,
+         134755,
+         174298,
+         175916,
+         48712
+      ],
+      "backdrop_path": "/rtBOtJ0NNPXioIrJAdHbtHpVGgo.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 7,
+               "character": "George W. Taylor",
+               "gender": 2,
+               "credit_id": "530b878d92514168dc001185",
+               "name": "John Hodiak",
+               "profile_path": "/kmnFq5BoFWILFfFQ4nDsYx5iu7e.jpg",
+               "id": 85437,
+               "order": 1
+            },
+            {
+               "cast_id": 8,
+               "character": "Christy Smith",
+               "gender": 1,
+               "credit_id": "530b879a925141785e00316e",
+               "name": "Nancy Guild",
+               "profile_path": "/gz6gEyxocwMzDWJo2RaULCs0AHi.jpg",
+               "id": 19402,
+               "order": 2
+            },
+            {
+               "cast_id": 9,
+               "character": "Police Lt. Donald Kendall",
+               "gender": 2,
+               "credit_id": "530b87a692514111110052dc",
+               "name": "Lloyd Nolan",
+               "profile_path": "/gh6Gli1hfPXKEJuh4tTXBGXdyuT.jpg",
+               "id": 19411,
+               "order": 3
+            },
+            {
+               "cast_id": 10,
+               "character": "Mel Phillips",
+               "gender": 2,
+               "credit_id": "530b87b4925141110200509c",
+               "name": "Richard Conte",
+               "profile_path": "/5682H8oxwIezxImi7HiFnBYLL4V.jpg",
+               "id": 3090,
+               "order": 4
+            },
+            {
+               "cast_id": 11,
+               "character": "Elizabeth Conroy",
+               "gender": 0,
+               "credit_id": "530b87c192514111020050a0",
+               "name": "Josephine Hutchinson",
+               "profile_path": "/d394ymYaSSxTMlZY8d2S8brpWHz.jpg",
+               "id": 2643,
+               "order": 5
+            },
+            {
+               "cast_id": 12,
+               "character": "Anzelmo aka Dr. Oracle",
+               "gender": 2,
+               "credit_id": "530b87cd9251415e71002507",
+               "name": "Fritz Kortner",
+               "profile_path": "/liJxiacsNiEsPfnitAhZkameRhj.jpg",
+               "id": 13905,
+               "order": 6
+            },
+            {
+               "cast_id": 13,
+               "character": "Phyllis",
+               "gender": 1,
+               "credit_id": "530b87da92514111080050fc",
+               "name": "Margo Woode",
+               "profile_path": "/pME4fE2ypwVD36wOq7ROgrStHBl.jpg",
+               "id": 85438,
+               "order": 7
+            },
+            {
+               "cast_id": 14,
+               "character": "Sam",
+               "gender": 2,
+               "credit_id": "530b87e8925141785e003173",
+               "name": "Sheldon Leonard",
+               "profile_path": "/tkz20WzQYKQDDOYkbFTsFVKmLWD.jpg",
+               "id": 41750,
+               "order": 8
+            },
+            {
+               "cast_id": 15,
+               "character": "Hubert",
+               "gender": 2,
+               "credit_id": "530b87f792514111110052e3",
+               "name": "Lou Nova",
+               "profile_path": null,
+               "id": 85439,
+               "order": 9
+            },
+            {
+               "cast_id": 16,
+               "character": "John (uncredited)",
+               "gender": 2,
+               "credit_id": "530b880492514111110052e7",
+               "name": "Whit Bissell",
+               "profile_path": "/aOe39nPJuZpGYGR3WuRo5PiYGwK.jpg",
+               "id": 13786,
+               "order": 10
+            },
+            {
+               "cast_id": 17,
+               "character": "Bank Teller (uncredited)",
+               "gender": 2,
+               "credit_id": "530b8e1292514168dc0011f2",
+               "name": "Jeff Corey",
+               "profile_path": "/qchQWDmKLhr6QRDIsUFyjezXXT.jpg",
+               "id": 9596,
+               "order": 11
+            },
+            {
+               "cast_id": 18,
+               "character": "(voice) (uncredited)",
+               "gender": 2,
+               "credit_id": "530b8e249251411102005102",
+               "name": "John Ireland",
+               "profile_path": "/87deUnSyOPNaoiQiBHjScqhu8CZ.jpg",
+               "id": 14502,
+               "order": 12
+            },
+            {
+               "cast_id": 19,
+               "character": "Bath Attendant (uncredited)",
+               "gender": 2,
+               "credit_id": "530b8e349251411114005044",
+               "name": "Harry Morgan",
+               "profile_path": "/xQlBwecEQEz84k7jDLPGi6FqxRJ.jpg",
+               "id": 4073,
+               "order": 13
+            },
+            {
+               "cast_id": 20,
+               "character": "Marine Captain (uncredited)",
+               "gender": 2,
+               "credit_id": "530b8e429251411108005159",
+               "name": "John Russell",
+               "profile_path": "/td1PYzG0wBy36tJx7HsnMcabwzp.jpg",
+               "id": 4304,
+               "order": 14
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "544fbaa60e0a26134c001f48",
+               "name": "James Basevi",
+               "profile_path": null,
+               "id": 2763,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "530b872a92514111080050f5",
+               "name": "Joseph L. Mankiewicz",
+               "profile_path": "/4nXrV7vGy3V6hgMVw7nTiVJhZpY.jpg",
+               "id": 10601,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "530b87339251411114004fdd",
+               "name": "Joseph L. Mankiewicz",
+               "profile_path": "/4nXrV7vGy3V6hgMVw7nTiVJhZpY.jpg",
+               "id": 10601,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "530b873e9251411102005095",
+               "name": "Howard Dimsdale",
+               "profile_path": null,
+               "id": 29628,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "530b874a9251411102005097",
+               "name": "Lee Strasberg",
+               "profile_path": "/ygEiIBPmoDfv4T8f4jL3EDn4cm3.jpg",
+               "id": 3171,
+               "department": "Writing",
+               "job": "Adaptation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "530b875792514111050054c2",
+               "name": "Marvin Borowsky",
+               "profile_path": null,
+               "id": 240813,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 0,
+               "credit_id": "530b876892514111170052b7",
+               "name": "Anderson Lawler",
+               "profile_path": null,
+               "id": 1055686,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "530b8773925141785e00316b",
+               "name": "Norbert Brodine",
+               "profile_path": "/sdPMR8Wiexm27DzupP1z0nz8E6b.jpg",
+               "id": 33225,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "544fba7e0e0a2639fe0021e4",
+               "name": "Darryl F. Zanuck",
+               "profile_path": "/pfl8oR2otTYihADFtjLkrtKoFrM.jpg",
+               "id": 8502,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "544fba940e0a263a100020d6",
+               "name": "David Buttolph",
+               "profile_path": null,
+               "id": 17667,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "544fbab7c3a3680236001ff1",
+               "name": "Maurice Ransford",
+               "profile_path": null,
+               "id": 132251,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "544fbac80e0a26134c001f4b",
+               "name": "Thomas Little",
+               "profile_path": null,
+               "id": 8508,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "544fbaddc3a368532b002032",
+               "name": "Kay Nelson",
+               "profile_path": null,
+               "id": 1352668,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "544fbaef0e0a263a07002152",
+               "name": "Ben Nye",
+               "profile_path": null,
+               "id": 26175,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         },
+         {
+            "name": "Crime",
+            "id": 80
+         },
+         {
+            "name": "Mystery",
+            "id": 9648
+         }
+      ],
+      "popularity": 4.490273,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 20000,
+      "vote_count": 17,
+      "budget": 0,
+      "overview": "George Taylor returns from the WWII with amnesia. Back home in Los Angeles, he tries to track down his old identity, stumbling into a 3-year old murder case and a hunt for a missing $2 million.",
+      "similar": [
+         996,
+         77,
+         2502,
+         513285,
+         346685,
+         1903,
+         14638,
+         72570,
+         247,
+         1092,
+         68727,
+         198663,
+         201088,
+         11412,
+         426,
+         291805,
+         204922,
+         207932,
+         256591,
+         213
+      ],
+      "original_title": "Somewhere in the Night",
+      "runtime": 110,
+      "poster_path": "/csRPnT4cwqtBT9lA9e3nsIViBoH.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+         "name": "20th Century Fox",
+         "id": 25,
+         "origin_country": "US"
+      }],
+      "release_date": "1946-06-12",
+      "vote_average": 6.3,
+      "belongs_to_collection": null,
+      "tagline": "Somewhere in his mind!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Black and White",
+      "budgetCurrency": null,
+      "directors": ["Joseph L. Mankiewicz"],
+      "runtime": 110,
+      "synopsis": "John Hodiak plays George Taylor, a war veteran who wakes up in an Army field hospital with a reconstructed face, amnesia and only a 'Dear John' hate letter from his ex-wife, and a letter of credit from a friend 'Larry Cravat.' Taylor heads to Los Angeles to track down his friend and his own identity. As he slowly puts the clues together to his identity, Taylor eludes some club bouncers only to meet Christy (Nancy Guild), a somewhat naive singer in a club owned by 'nice guy' Mel Phillips (Richard Conte). As things progress Taylor discovers that Cravat may be a murderer and the criminal who has stolen $2 Million Dollars in Nazi -based laundered cash. After a series of chases Taylor learns from a fake seer named Anzelmo (Fritz Kortner) that Cravat seems a lot like Taylor himself. When Mel Phillips jumps in to help, things take a surprising turn and the mystery of the money and the murderer are discovered.",
+      "writers": [
+         "Howard Dimsdale",
+         "Joseph L. Mankiewicz"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0038965/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjE0MzQxNzI0OV5BMl5BanBnXkFtZTcwOTQzOTAzMQ@@._V1_SY317_CR4,0,214,317_AL_.jpg",
+      "actors": ["Stars: John Hodiak, Nancy Guild, Lloyd Nolan | See full cast and crew »"],
+      "reviews": [
+         "Borrowed as the title of Nicholas Christopher's study of film noir and the American city, Somewhere In The Night remains a movie less familiar than Laura or The Big Sleep or Out of the Past. But it's almost in their class � an atmospheric and at times archetypal noir, the first directorial effort of Joseph L. Mankiewicz and the first major post-war feature to use the device of amnesia-as-metaphor: How vets survived global cataclysm only to have to construct new lives in a homeland that had, in their absence, turned into alien territory. Drifting up out of coma in a military hospital, John Hodiak can't figure out why everybody calls him George Taylor. Only two letters offer clues to who he is, one from a vindictive girl he ditched, the other apparently from an old pal, Larry Cravat. Without much to go on, he heads to Los Angeles to track down Cravat and thus himself. But as he skulks though the city's dark demimonde (Turkish baths, mobbed-up nightclubs, phony spiritualist parlors, insane asylums), he's quick to learn that other people don't want Cravat found. Yet he finds allies in club canary Nancy Guild, her boss Richard Conte, and police detective Lloyd Nolan. He also finds that the reason for all the violence unleashed against and around him is $2-million in Nazi money (which disappeared in 1942, the year he joined the Marines). Cravat proves both elusive and uncomfortably close.... Somewhere In The Night boasts a strong cast in supporting (Conte, Nolan, Fritz Kortner) and even tertiary roles (Sheldon Leonard, Whit Bissell, Henry Morgan, with special mention to Josephine Hutchinson, who plays a poignant largo midway though the movie). Where it offers scant measure is in its principals. 20th-Century Fox was grooming Guild as its answer to Warners' sultry sensation Lauren Bacall, failing to grasp that Guild's appeal was less romantic than matey � the gal pal (like a couple of other Nancys from that era, Olson and Davis). Hodiak's more problematic. He enjoyed a few years in the Hollywood limelight (Lifeboat, Marriage Is A Private Affair, Desert Fury, Command Decision) before his untimely death in 1955. But he never brought the illumination � the star quality � to his work that would elevate it from the competent to the classic. So he stays generic through his picaresque ordeals, without the specific anguish that distinguished, for example, John Payne or even Gordon MacRae and Edmond O'Brien as they underwent theirs (in, respectively, The Crooked Way, Backfire and D.O.A.). Mankiewicz' first go as director comes as a surprise. Most vividly remembered as writer/director of A Letter To Three Wives and the immortal All About Eve (movies whose sparkling scripts camouflaged their lack of visual interest), he generates a menacing look in his nightscapes for the City of Angels, camping out in Bunker Hill walk-ups and on Skid Row. The storyline's almost as complicated as The Big Sleep's, and as murky, but then clockwork plots never sat well in film noir � the universe it dwells in stays random, volatile, unfathomable.",
+         "SOMEWHERE IN THE NIGHT is not only a pleasure in terms of plot and atmosphere, it is filled with terrific supporting actors: Lloyd Nolan, Jeff Corey, Whit Bissell, Sheldon Leonard, Henry Morgan, Fritz Kortner, and the superb, virtually ignored Josephine Hutchinson, who has the emotional center of the film as a lonely victim of the murderous scheme. Some may remember Hutchinson as the android babysitter from The Twilight Zone episode \"I Sing the Body Electric\". And when are Corey, Bissell, Morgan and Nolan not welcome? Only Nancy Guild fails to equal her surrounding players, but she gets to deliver a few wry observations. Not much can be said about Richard Conte, without spoiling the plot, but this is another one of the infallible actor's memorable characterizations. John Hodiak probably never had enough opportunities to play lead in good films. We are fortunate to have here his extremely convincing amnesiac veteran: in a sense, the ultimate existential noir protagonist. A voice credit has been given to John Ireland, but it certainly sounds like Hodiak during the nightmarish opening sequence. This was the second film Mankiewicz directed, and it's a big improvement over DRAGONWYCK. SOMEWHERE IN THE NIGHT belongs in the canon of compulsory Film Noir. Go out of your way to see it.",
+         "The trademark of any Joseph L. Mankiewicz film is screenplay. It is often sharp and crackling as in his award winning \"A Letter To Three Wives\" and \"All About Eve\". In this Mankiewicz's second directoral effort the seeds of his future successes are sown. John Hodiak plays a wounded marine who wakes up in a hospital not knowing who he is, but finding among his possessions 2 letters, one from a woman telling him what a cad he is and another from a friend of his that will lead him down a path lined with several murders, 2 million dollars and a couple of good looking women. While \"Somewhere In The Night\" sounds like any one of the many detective thrillers of the 40s, it is lifted from the routine is the script which has a distinct Mankiewicz ring to it His touch is evident in several places, including meetings with a seedy fortune teller, superbly played by Fritz Kortner, an atypical cop played by Lloyd Nolan who doesn't understand why \"movie cops\" always \"have their hats on\", and a spinster played by Josephine Hutchinson who gives Hodiak a hope when she says she recognizes him. You may or may not figure out the plot. It matters not. The film is an enjoyable one.",
+         "Mankiewicz could really turn out good product and this neglected film is absolutely worth a look! An unusual hybrid of THE MALTESE FALCON and TOTAL RECALL, SOMEWHERE IN THE NIGHT was ahead of its time and has aged better than most amnesiac fare. One could argue that TOTAL RECALL owes quite a debt to this movie regarding its twist bad guy identity revelation. There's some excellent dialogue and once you overlook some whopper implausibilities, the plot works well, as does the oddball cast of supporting characters, including the opportunist police lieutenant and the rogues gallery of ne'er do wells hoping to cash in on the amnesiac's memories. The movie doesn't hold up to close scrutiny (how did the money hanging under a pier not rot from three years' worth of salt water for one) but it is highly entertaining and noir fans should definitely take a look. Hodiak, Nolan and Conte are all solid in their respective roles. Enjoy!",
+         "This is one of my favorite mystery movies. Not only does \"Somewhere in the Night\" have a great supporting cast, but John Hodiak's performance as one suffering from amnesia has you with him every step of the way on his search for his true identity, missing money, and the reason he is being pursued by others. This plot has so many twists and turns you will not be bored! Look for an uncanny resemblance between John Hodiak and a very young Martin Landau of \"Mission Impossible\" fame. I saw this movie four times and rate it SUPERB!",
+         "Somewhere in the Night is directed by Joseph L. Mankiewicz who also co- adapts the screenplay with Howard Dimsdale from a story by Marvin Browsky. It stars John Hodiak, Nancy Guild, Lloyd Nolan, Richard Conte, Josephine Hutchinson and Fritz Kortner. Music is by David Buttolph and cinematography by Norbert Brodine. George Taylor (Hodiak) returns from the war suffering from amnesia and trying to track down his identity by following a trail started by a mysterious man named Larry Cravat. Pretty soon George finds himself thrust into a murder mystery where nothing is ever as it seems. The amnesia sufferer is not in short supply in film noir, neither is the returning from the war veteran, but Somewhere in the Night may just be one of the most under appreciated to use these central themes. Amongst film noir writers it has a very mixed reputation, yet the trajectory it follows is quintessential film noir stuff. George Taylor (Hodiak assured and rightly playing it as low-key confusion) is very much at the mercy of others, thus he finds himself wandering blindly into a labyrinthine murder mystery. His journey will see him get a beating (no matter he is one tough boy), pulled from one suspicious location to the next and introduce him to dames, a stoic copper, a shifty fortune teller and a \"too good to be true?\" club owner. The screenplay is deliberately convoluted, making paying attention essential, and the script blends tongue in cheek nonchalance with spicy oral stings. The locations Taylor visits are suitably atmospheric, even macabre at times, which allows Mankiewicz and Brodine (Boomerang/Kiss of Death) to open up some noir visuals. Dr. Oracles's Crystal Ball parlour really kicks things off, fronted by Anzelmo (Kortner deliciously shady), it's a room adorned by face masks on the walls and lit eerily by the glow of a crystal ball. Then there's Lambeth Sanitorium, with low-lighted corridors, many doors that hide mentally troubled patients and the shadow inducing stairs. And finally the docks, with dark corners down by the lapping silver water, a solitary bar at the front, smoky and barely rising above dive status. These all form atmospheric backdrops to enhance the suspicion and confusion of the protagonist. Nancy Guild (apparently pronounced as Guyled) didn't have much of a career, and much of the criticism for the acting in the film landed at her door, but unfairly so. It's true that she's more friendly side-kick than sultry femme fatale, but she has a good delivery style that compliments the doubling up with Hodiak. She's pretty as well, a sort of Bacall/Tierney cross that's most appealing. Elsewhere Conte and Nolan offer up the expected enjoyable noirish performances while a host of noir icons flit in and out of the story, making it fun to see who will pop up next? There is undeniably daft coincidences and credulity stretching moments within the plotting, and in true Mankiewicz style the film is often very talky, but it's never dull and quite often surprising, even having a trick up its sleeve in the finale. Great stuff. 8/10",
+         "Mankiewicz does it again. With a small cast of generally B actors, he makes a nifty film-noir. John Hodiak has his best role, IMHO, and the mostly night-time settings have a great look. Strange to see Fritz Kortner, from the Louise Brooks \"Pandora's Box\", as a slimy fortune-teller.",
+         "Hodiak is a WWII Marine vet, suffering amnesia and searching for his true identity. He returns to Los Angeles and becomes involved in two million dollars of missing Nazi loot. Look for many familiar faces in small supporting roles. While watching this one, I kept thinking what a great vehicle it would have been for John Ireland...then I checked the IMDB and found that Ireland did the voice-over narration.......Freudian???",
+         "Somewhere in the Night (1948) This has all the gloomy, alienating, nighttime elements of the best film noirs, and it's smack in the central Post War best of it. It even has a director, Joseph L. Mankiewicz, known for handling dramatic, emotional situations with both delicacy and power. And it all pays off. Somewhere in the Night follows a man just out of the army suffering amnesia, and he encounters a sordid past of crime he didn't know he had anything to do with. The dilemma of American soldiers coming home changed men, and to a home country so changed it was like a foreign country, is the crux of most noir films, and this one plays into it straighter than most. The twist of true amnesia only makes the crisis of George Taylor more stark. The role is played with subtlety, and some stiffness, by John Hodiak, I think because he is meant to be eternally confused by events (since he remembers nothing) and yet can't show his confusion, so he draws up a blank face. Mankiewicz works this inner problem out on the screen well, though choosing to keep the camera at a distance, as if filming a play sometimes, not a recommended film noir method for style, but it does emphasize the psychology more discretely. The camera-work is stiff, too, as if constrained as much as Taylor is in his amnesia. You won't see many sharp angles up or down, no tilted (dutch angle) frames, little moving camera, and little of the easiest of 1940s camera effects, extreme close ups. All of this makes for a dry look, and for my money, with a plot this sensational, a dull one. This cinematography, by Norbert Brodine sets the tone for the whole movie, and I assume it is at Mankiewicz's request, and it just doesn't compare well to other noirs, to Orson Welles, or to any number of Warner gangster films with similar shadowy subjects. Maybe the most extreme example of this is the long dialog over the crystal ball, where the camera just sits and watches. The lighting and the sets, in general, are dynamic, however, and the acting generally solid. And it has all the hallmarks (not quite clichés) of the genre--thugs at the bar, a nightclub singer with a big heart, a good guy who turns out to be a bad guy, and a cop who is clever and peripheral, like a sentry always ready. The movie is, truly, interesting, and doesn't let up as you have to figure out the puzzle of who did what and why. It won't sweep you off your feet or blow you away, but it will be worth settling quietly into.",
+         "No one could say Mank didn't have a checkered career: In the 1930s he was castigated for daring to re-write Scott Fitzgerald (in his capacity as Producer on Three Comrades, Scott's only solo writing credit, he felt obliged to 'tidy' up several sequences) and in the 1960s he was the guy brought in to re-write and 'salvage' Cleopatra but in between he initially wrote then wrote and directed some very tasty fare indeed culminating in his two magnum opii A Letter To Three Wives And All About Eve. Somewhere In the Night dates from 1946, the same year his second directorial effort Dragonwyck was released and it's well up to snuff. A lot of 'amnesiac' films are, by definition, forgettable, but not this one. Mank assembled as tasty a supporting cast as had ever been shoehorned into one film ranging from Whit Bissell through Harry Morgan, Jeff Corey to the standout Josephine Hutchinson. Leading from the front are the slightly wooden John Hodiak - marriage to Ann Baxter didn't improve his acting -, newcomer Nancy Guild, Lloyd Nolan and Richard Conte and Mank keeps the balls spinning in the air leaving little time for awkward questions - like why would Conte - who'd got away with murder for three years, introduce Hodiak to a detective friend (Nolan) knowing that Hodiak was trying to get to to bottom of the very murder for which he, Conte, was responsible. This the kind of movie, popular at the time, in which a protagonist who is possibly a murderer is befriended by a girl/woman who's never met him before - for example Alad Ladd and Veronica Lake in The Blue Dahlia and/or in which a street-wise gal like Guild here, has to have the expressions 'private eye' and 'shamus' explained to her. None of this detracts from an enjoyable ride and it's one to add to your Blockbuster shopping list."
+      ],
+      "genres": [
+         "Crime",
+         "Drama",
+         "Film-Noir"
+      ],
+      "productionCompanies": ["Twentieth Century Fox Film Corporation"],
+      "summaries": ["George Taylor returns from WWII with amnesia. Back home in Los Angeles, while trying to track down his old identity, he stumbles onto a 3-year old murder case and a hunt for a missing $2 million."],
+      "budget": 0
+   },
+   "movielensId": 118868,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1946-06-12",
+      "dvdReleaseDate": null,
+      "directors": ["Joseph L. Mankiewicz"],
+      "runtime": 110,
+      "movieId": 118868,
+      "title": "Somewhere in the Night",
+      "mpaa": "",
+      "actors": [
+         "John Hodiak",
+         "Nancy Guild",
+         "Lloyd Nolan",
+         "Richard Conte",
+         "Josephine Hutchinson",
+         "Fritz Kortner",
+         "Margo Woode",
+         "Sheldon Leonard",
+         "Lou Nova",
+         "Whit Bissell",
+         "Jeff Corey",
+         "John Ireland",
+         "Harry Morgan",
+         "John Russell"
+      ],
+      "imdbMovieId": "0038965",
+      "originalTitle": "Somewhere in the Night",
+      "genres": [
+         "Drama",
+         "Thriller",
+         "Crime",
+         "Mystery"
+      ],
+      "youtubeTrailerIds": ["QRsnuJdB1j4"],
+      "plotSummary": "George Taylor returns from the WWII with amnesia. Back home in Los Angeles, he tries to track down his old identity, stumbling into a 3-year old murder case and a hunt for a missing $2 million.",
+      "tmdbMovieId": 20000,
+      "avgRating": 3.33333,
+      "releaseYear": "1946",
+      "numRatings": 6,
+      "posterPath": "/csRPnT4cwqtBT9lA9e3nsIViBoH.jpg"
+   }
+}

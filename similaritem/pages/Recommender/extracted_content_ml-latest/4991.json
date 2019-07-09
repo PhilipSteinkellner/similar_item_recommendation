@@ -1,0 +1,738 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "profession",
+            "id": 1189
+         },
+         {
+            "name": "karate",
+            "id": 3436
+         },
+         {
+            "name": "daughter",
+            "id": 5600
+         },
+         {
+            "name": "promotion",
+            "id": 33346
+         },
+         {
+            "name": "ex-wife",
+            "id": 155816
+         },
+         {
+            "name": "parking",
+            "id": 192828
+         },
+         {
+            "name": "slap",
+            "id": 212330
+         }
+      ],
+      "imdb_id": "tt0279889",
+      "video": false,
+      "title": "Joe Somebody",
+      "recommendations": [
+         36929,
+         16784,
+         20009,
+         16379,
+         2185,
+         16300,
+         10783,
+         31220,
+         47608,
+         14034,
+         48287,
+         106143,
+         2020,
+         21433,
+         83489,
+         17709,
+         15489,
+         13997,
+         17207,
+         17745
+      ],
+      "backdrop_path": "/eCOLK9J7UOWjhdyWR3n44Um24v5.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Joe Scheffer",
+               "gender": 2,
+               "credit_id": "52fe44db9251416c7504353b",
+               "name": "Tim Allen",
+               "profile_path": "/uX2xVf6pMmPepxnvFWyBtjexzgY.jpg",
+               "id": 12898,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Meg Harper",
+               "gender": 1,
+               "credit_id": "52fe44db9251416c7504353f",
+               "name": "Julie Bowen",
+               "profile_path": "/ad7u7IYpUZbhQPdzQ688fCSk0OX.jpg",
+               "id": 31171,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Callie Scheffer",
+               "gender": 1,
+               "credit_id": "52fe44db9251416c75043543",
+               "name": "Kelly Lynch",
+               "profile_path": "/2ZbV0mppAxxyh4mIG4HKTHfLkDM.jpg",
+               "id": 6473,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Jeremy",
+               "gender": 2,
+               "credit_id": "52fe44db9251416c75043547",
+               "name": "Greg Germann",
+               "profile_path": "/6k9VrbAAcIcISGwSMRUtYEGdYFK.jpg",
+               "id": 19974,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Chuck Scarett",
+               "gender": 2,
+               "credit_id": "52fe44db9251416c7504354b",
+               "name": "Jim Belushi",
+               "profile_path": "/AplV1ikSo3Zn93hhy5ht7Y7sQio.jpg",
+               "id": 26485,
+               "order": 4
+            },
+            {
+               "cast_id": 19,
+               "character": "Natalie Scheffer",
+               "gender": 1,
+               "credit_id": "52fe44db9251416c7504359d",
+               "name": "Hayden Panettiere",
+               "profile_path": "/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg",
+               "id": 17265,
+               "order": 5
+            },
+            {
+               "cast_id": 20,
+               "character": "Mark McKinney",
+               "gender": 2,
+               "credit_id": "52fe44db9251416c750435a1",
+               "name": "Patrick Warburton",
+               "profile_path": "/cq8zZ6YfBrq2k4F4aHYLSP9QOJS.jpg",
+               "id": 9657,
+               "order": 6
+            },
+            {
+               "cast_id": 48,
+               "character": "Rick Raglow",
+               "gender": 2,
+               "credit_id": "57656928c3a36812ce000305",
+               "name": "Ken Marino",
+               "profile_path": "/h0EU4SvG8iCejG6xO0tF3uj6GfI.jpg",
+               "id": 77089,
+               "order": 7
+            },
+            {
+               "cast_id": 49,
+               "character": "Cade Raymond",
+               "gender": 2,
+               "credit_id": "5765698692514131870001e5",
+               "name": "Wolfgang Bodison",
+               "profile_path": "/xiuvz3cncEwjfyPCT8BNm2KQ1Al.jpg",
+               "id": 68672,
+               "order": 8
+            },
+            {
+               "cast_id": 50,
+               "character": "Abby Manheim",
+               "gender": 1,
+               "credit_id": "576569d892514168ab001b73",
+               "name": "Cristi Conaway",
+               "profile_path": "/5bbfOgGXmNf2MHQn0f6q7aY12bx.jpg",
+               "id": 5130,
+               "order": 9
+            },
+            {
+               "cast_id": 51,
+               "character": "Pat Chilcutt",
+               "gender": 2,
+               "credit_id": "57656a7192514168ab001b92",
+               "name": "Robert Joy",
+               "profile_path": "/xh5eb9p379k9w3NOGRjEyAw2yrP.jpg",
+               "id": 19976,
+               "order": 10
+            },
+            {
+               "cast_id": 52,
+               "character": "Cassandra Taylor",
+               "gender": 1,
+               "credit_id": "57656b22925141132000059e",
+               "name": "Tina Lifford",
+               "profile_path": "/rfeR698pIXf5Ge3aXfNhXW2awrd.jpg",
+               "id": 57992,
+               "order": 11
+            },
+            {
+               "cast_id": 53,
+               "character": "Exec. Bill",
+               "gender": 2,
+               "credit_id": "57656b6992514168ab001bd9",
+               "name": "James Cada",
+               "profile_path": null,
+               "id": 5617,
+               "order": 12
+            },
+            {
+               "cast_id": 54,
+               "character": "Waver 'Tawnja'",
+               "gender": 0,
+               "credit_id": "57656baa925141279900035c",
+               "name": "Tawnja Zahradka",
+               "profile_path": null,
+               "id": 1637859,
+               "order": 13
+            },
+            {
+               "cast_id": 55,
+               "character": "Neva",
+               "gender": 0,
+               "credit_id": "57656bfac3a36876a300057d",
+               "name": "Ahna Brandvik",
+               "profile_path": null,
+               "id": 1637860,
+               "order": 14
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe44db9251416c75043551",
+               "name": "John Pasquin",
+               "profile_path": null,
+               "id": 58072,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44db9251416c75043557",
+               "name": "John Scott Shepherd",
+               "profile_path": null,
+               "id": 72074,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44db9251416c7504355d",
+               "name": "Kenneth Atchity",
+               "profile_path": null,
+               "id": 72075,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44db9251416c75043563",
+               "name": "Matthew Gross",
+               "profile_path": null,
+               "id": 38938,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe44db9251416c75043569",
+               "name": "Anne Kopelson",
+               "profile_path": null,
+               "id": 12050,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44db9251416c7504356f",
+               "name": "Arnold Kopelson",
+               "profile_path": null,
+               "id": 10764,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44db9251416c75043575",
+               "name": "Arnon Milchan",
+               "profile_path": "/5crR5twLRcIdvRR06dB1O0EQ8x0.jpg",
+               "id": 376,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44db9251416c7504357b",
+               "name": "Brian Reilly",
+               "profile_path": null,
+               "id": 56644,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44db9251416c75043581",
+               "name": "William W. Wilson III",
+               "profile_path": null,
+               "id": 56648,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44db9251416c75043587",
+               "name": "Chi-Li Wong",
+               "profile_path": null,
+               "id": 72076,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44db9251416c7504358d",
+               "name": "George S. Clinton",
+               "profile_path": null,
+               "id": 9204,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44db9251416c75043593",
+               "name": "Daryn Okada",
+               "profile_path": null,
+               "id": 56324,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44db9251416c75043599",
+               "name": "David Finfer",
+               "profile_path": null,
+               "id": 18387,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "569aa3669251410cc400097d",
+               "name": "Jackson De Govia",
+               "profile_path": null,
+               "id": 7716,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569aa2a39251410cd6000996",
+               "name": "Noon Orsatti",
+               "profile_path": null,
+               "id": 1407364,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569aa2ad9251410cd00009cb",
+               "name": "Eric D. Howell",
+               "profile_path": null,
+               "id": 1201086,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 1,
+               "credit_id": "569aa2cec3a36872cb000982",
+               "name": "Carline Davis-Dyer",
+               "profile_path": null,
+               "id": 1399146,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569aa2dbc3a36872bb00093b",
+               "name": "Joseph Lederer",
+               "profile_path": null,
+               "id": 1394973,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "569aa2efc3a36872bb00093f",
+               "name": "Harry K. Garvin",
+               "profile_path": null,
+               "id": 1550778,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "569aa2f4c3a36872bb000941",
+               "name": "Harry K. Garvin",
+               "profile_path": null,
+               "id": 1550778,
+               "department": "Camera",
+               "job": "Steadicam Operator"
+            },
+            {
+               "gender": 1,
+               "credit_id": "569aa30cc3a36872bb000946",
+               "name": "Risa Bramon Garcia",
+               "profile_path": null,
+               "id": 3191,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569aa323c3a36872c00009f4",
+               "name": "Kimberly Brent",
+               "profile_path": null,
+               "id": 100387,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569aa37a9251410cc6000986",
+               "name": "Michele Poulik",
+               "profile_path": null,
+               "id": 11761,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569aa389c3a36872bb000952",
+               "name": "Scott Ritenour",
+               "profile_path": null,
+               "id": 1326170,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 1,
+               "credit_id": "569aa39d9251410cd9000a44",
+               "name": "Kathy O'Rear",
+               "profile_path": null,
+               "id": 4149,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569aa3ba9251410cd3000944",
+               "name": "Lou Eyrich",
+               "profile_path": null,
+               "id": 1525236,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "569aa807c3a36872b3000b37",
+               "name": "Mark Weingarten",
+               "profile_path": "/wsRszNSdLKbVpyUPKng0enkKqX6.jpg",
+               "id": 1555637,
+               "department": "Sound",
+               "job": "Production Sound Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569aa821c3a36872b3000b3a",
+               "name": "Scott Millan",
+               "profile_path": null,
+               "id": 1345595,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "569aa82e9251410cd30009bd",
+               "name": "Bob Beemer",
+               "profile_path": null,
+               "id": 1391571,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "569aa8459251410cca000a39",
+               "name": "Trip Brock",
+               "profile_path": null,
+               "id": 957840,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569aa8689251410cd0000a8f",
+               "name": "Linda Di Franco",
+               "profile_path": null,
+               "id": 1338311,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569aa87dc3a36872cb000a44",
+               "name": "Daniel S. Irwin",
+               "profile_path": null,
+               "id": 1392085,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569aa88cc3a36872c7000a8e",
+               "name": "Robert Troy",
+               "profile_path": null,
+               "id": 1360097,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "569aa89b9251410cd9000ae0",
+               "name": "Bruce Stubblefield",
+               "profile_path": null,
+               "id": 112875,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569aa9c8c3a36872cb000a60",
+               "name": "Brian W. Jennings",
+               "profile_path": null,
+               "id": 1422979,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569aa9f1c3a36872c7000ab3",
+               "name": "William Jacobs",
+               "profile_path": null,
+               "id": 1433719,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569aaa05c3a36872c7000ab8",
+               "name": "Miguel Rivera",
+               "profile_path": null,
+               "id": 1394747,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569aaa179251410cca000a6b",
+               "name": "Jeff Erdmann",
+               "profile_path": null,
+               "id": 1564358,
+               "department": "Sound",
+               "job": "Boom Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569aaa4e9251410cc6000a52",
+               "name": "Mike Flicker",
+               "profile_path": null,
+               "id": 1376276,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "569aaa6fc3a36872c0000a97",
+               "name": "Frankie Pine",
+               "profile_path": null,
+               "id": 111213,
+               "department": "Sound",
+               "job": "Music Supervisor"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Comedy",
+         "id": 35
+      }],
+      "popularity": 5.676798,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 12312,
+      "vote_count": 53,
+      "budget": 38000000,
+      "overview": "When underappreciated video specialist Joe Scheffer is brutally humiliated by the office bully Mark McKinney in front of his daughter, Joe begins a quest for personal redemption. He proceeds by enduring a personal make-over and takes martial arts lessons from a B-action star. As news spreads of his rematch with Mark, Joe suddenly finds himself the center of attention, ascending the corporate ladder and growing in popularity. He's determined to show everyone in his life that he is not a nobody, but a force to be reckoned with.",
+      "similar": [
+         49519,
+         22,
+         58,
+         329103,
+         10999,
+         7972,
+         19724,
+         116711,
+         8545,
+         12429,
+         6963,
+         10779,
+         11896,
+         1257,
+         10559,
+         375012,
+         5718,
+         340103,
+         1439,
+         42172
+      ],
+      "original_title": "Joe Somebody",
+      "runtime": 99,
+      "poster_path": "/l5AtEKR28WbKqMFjK8A0HSpzVFw.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Atchity Entertainment International (AEI)",
+            "id": 81134,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/7PzJdsLGlR7oW4J0J5Xcd0pHGRg.png",
+            "name": "Regency Enterprises",
+            "id": 508,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": null,
+            "name": "Fox 2000 Pictures",
+            "id": 711,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Epsilon Motion Pictures",
+            "id": 1171,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Kopelson Entertainment",
+            "id": 824,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2001-12-21",
+      "vote_average": 5.4,
+      "belongs_to_collection": null,
+      "tagline": "Someone just picked on the wrong nobody.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["John Pasquin"],
+      "runtime": 98,
+      "synopsis": null,
+      "writers": ["John Scott Shepherd"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0279889/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTI0NjExNzg2MF5BMl5BanBnXkFtZTYwNjQxMzU3._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Tim Allen, Julie Bowen, Kelly Lynch | See full cast and crew »"],
+      "reviews": [
+         "OK, folks, I've read almost every comment on here regarding this movie, and all I can say is... some of you just haven't got a clue. No, it's not a blockbuster comedy, but it wasn't intended to be. So, OK, clearly, this movie isn't for everyone... well, there isn't any movie made that appeals to EVERYONE, no matter how good it is. The point is this: This movie was very enjoyable. It does not try too hard, it makes you love or hate the characters appropriately, has a nice, fun (albeit somewhat simple) story, and is all around a nice, light-hearted film that the entire family can enjoy together. If you're not into family movies, then skip this one, otherwise, I definitely recommend it.",
+         "That this movie didn't do better than it did at the box office is more an indictment on our culture at large than on the film itself. Genuinely funny (as much as is appropriate for family, sans some the language), it portrays in a simple way a simple message: that, while change and growth are good things, they shouldn't come at the expense of being yourself. If I could have advised \"Meg\" (played by the always-alluring Julie Bowen), I would tell her that she's right about the big fight between \"Joe\" and \"Mark\", but that she should try to understand that, as a guy, it's important for Joe to learn to fight and to at least show up. No, Joe didn't need to beat the snot out of Mark to be a good man--he already was one--but a guy can't back down from challenges. I think that Joe, by showing up and being ready to fight if needed, ended up handling it the best way he could have. And he got a very cute lady--as well as new sartorial skills--to boot!",
+         "This film contains a nice little blend of comedy,and heart touching warmth,with Tim Allen starring as a somewhat meek and timid office executive,who often gets stepped on and overlooked.After getting knocked down by the company bully in front of his young daughter,he decides to toughen up and make the world take notice.This is a cute story with a good message about not forgetting the most important things in life. This isn't Tim Allen's best effort,but the film is watchable enough. Lending good support are Jim Belushi as an ex-movie actor/martial arts instructor,and Julie Bowen,who always seems to lend a nice touch to a film(I recalled her from Happy Gilmore),as the love interest.Good film,but don't look for greatness.",
+         "Nothing wrong with this movie really. I don't think people treat this movie fairly. It's a sweet little entertaining comedy, that is not hilarious but at all time a pleasant one to watch. Normally director John Pasquin really doesn't make great comedies but I think I can say that this is a good movie and probably easily his best. Yes, of course the movie has morals in it that are bittersweet and make the movie also predictable. Nevertheless, I think the movie delivers its messages well and not so much in a preachy kind of way. It helps the messages of the movie come across and therefor the movie is an effective one. As a matter of fact; everything in the movie works out quite well. This includes the love-story, the movie its dramatic elements and the characters themselves. The movie is a good balance of fun and entertainment and some more serous and dramatic family plot-elements, that of course never divert from the movie its fun and pleasant elements. Not too much about the story really, it's actually kind of silly and hard to believe but it serves as a good basis for the movie to tell its story. The characters and actors in the movie are definitely good enough to make the movie more fun and entertaining to watch. Tim Allen fits the role and the movie has a great supporting cast with actors such as Greg Germann, Patrick Warburton and James Belushi in some good and fun comedy roles. It's easily a movie I would watch again. 7/10 http://bobafett1138.blogspot.com/",
+         "Serious? ....No. Lighthearted? ....Yes. Funny? ....Yes. Full of morals and clichés? ....You bet. But it's the Bullied verses the Bully and most of us, especially those of us who might have been in similar circumstances, like these kind of movies; don't we? Obviously this movie isn't meant to be taken too seriously and Tim Allen pulls it off nicely and, along with the support characters, they combine to make this one of those movies you can enjoy without having the feeling you have to barf.",
+         "I don't know if it was because I watched McHALE'S NAVY the previous night but I was charmed by JOE SOMEBODY . Agreed it's not a movie that will be winning much in the way of awards but isn't as bad as some people are making out . It get's off to a good start in the opening shot where Joe thinks a sexy brunette is waving to him only to find she's waving at someone else . Come on guys admit you've made the same mistake . It's also one of those romantic / family comedies that gets the balance right between pathos and humour without becoming jarring or unfocused . When Joe talks to Natalie his angst ridden daughter on the phone it is a touching scene helped in no small part by a musical score similar to THE SHAWSHANK REDEMPTION My only real complaint is that the screenplay can't keep up the momentum but that's not a unique criticism since most movies of what ever genre suffer from sagging about two thirds the way through so the only real disappointment is why didn't the producers hire Steven Seagal as Chuck the martial arts movie star . It's impossible not to notice who Chuck is supposed to be and if we had Seagal lampooning himself then this would have been a minor comedy classic",
+         "Tim Allen is a very talented comedian, so I feel almost all his movies are worth seeing. So far, the only one I dreaded was \"Jungle 2 Jungle.\" \"Joe Somebody\" has everything you would expect in a family comedy and the story is predictable. But the point is it's a fun movie to watch and I was quite entertained. Julie Bowen (from \"Happy Gilmore\" and TV's \"Ed\") plays Allen's love interest. God! She's one of the most beautiful actresses in Hollywood! I hope to see her in more and more movies. My heart just melts everytime I see her on screen. Jim Belushi is hilarious as Allen's martial arts personal trainer/out-of-work action star. I guess that's an inside joke, spoofing his own movie career...LOL. But I love Jim, he's truly an underrated comic actor. If you want to see him in other funny performances, I suggest you see \"Taking Care of Business\" and \"Return to Me.\" What did disappoint me was the lack of screen time for Patrick Warburton. He's only in the film for about ten minutes! Warburton is another truly talented comic actor--we all loved him as Puddy on \"Seinfeld\"--and he's definitely going places. He literally doesn't get to say any funny lines in this movie. That sucks! That's why I'm really, really looking forward to the release of \"Big Trouble,\" also starring Allen and Warburton, where hopefully we'll get to see a lot more of Patrick. Like most family films, the third act becomes serious and the comedy sags, because this is the point where they're supposed to deliver the \"message.\" And like most family films, the message is delivered in a deliberately corny fashion. I'm sorry, call me a pessimist, but even if you're going to deliver a message there should be a sense of reality to it. \"American Beauty\" was a film with a message--in fact, a bunch of messages--but it was delivered in a very unpretentious, realistic manner without fearing the audience's reaction. In the opening of the film, we establish that Allen is a loser. Why? Who the heck knows? But for some stupid reason, everyone around him--whether it's at work or around town--doesn't even bother to acknowledge he exists. He says hello, but no one says hello back. And suddenly, just because he plans on fighting the most hated man in the workplace, everyone thinks of him as a god? Maybe this could happen in the sixth grade. But in an upscale working environment? I don't think so. Even adults can be shallow, but that's ridiculous. So don't go into \"Joe Somebody\" expecting to be enlightened or touched in any way. Just go in for the laughs--and if you're a guy, also go in to see the beautiful Julie Bowen. There's an incentive! My score: 7 (out of 10)",
+         "This is an excellent family movie, if you have the disc you will want to watch it a second time in a day or two. It is worth having in your collection, you will want to go back to it time and time again. Tim Allen is lovable and does an excellent performance. Julie Bowen also excellent and lovable. The supporting actors and direction were superb. A great underdog movie turning top-dog with a couple scenes that were stretching the imagination. (please excuse the cliché's they are unavoidable.) To make this review submission-able I have to add this last line. I think it deserves a better score than 5.5",
+         "Tim Allen displays some serious dramatic flourishes along some of his older comedic antics in this family comedy-drama about a corporate man who is bullied and finds himself seeking revenge of him in a rematch. Unlike most family movies, the script in this movie attempts to move in a more elevated direction along with a more MRS. DOUBTFIRE (1993) or THE NANNY DIARIES (2007) level of integrity. There are bouts of over the top acting that seem to intrude briefly, but for the most part this light-weight movie packs enough of a punch to be worthy of some serious viewing. The relational aspects between Tim Allen, co-workers, his ex-, his mentor, his possible female attraction, between daughter and parents are proportioned and handled with sensitivity and usually without Hollywood eccentricity. 7/10.",
+         "JOE SOMEBODY, in my opinion, is a really excellent movie about not being afraid to stand up for yourself. When Mark (Patrick Warburton) hit Joe (Tim Allen) in the parking lot of their workplace while Natalie (Hayden Panettiere) looked on in terror from the car. However, when she tried to help him, I felt really happy. Also, when a thing between Meg (Julie Bowen) blossomed, I felt even happier. If you ask me, his ex-wife, Callie (Kelly Lynch), was a very pretty lady. Her boyfriend, Rick, on the other hand, was absolutely positively, disgustingly annoying. Now, in conclusion, I highly recommend this really excellent movie about not being afraid to stand up for yourself to any Tim Allen fan who hasn't seen it. You're in for lots of laughter, so go to the video store, rent it or buy it, kick back with a friend, and watch it."
+      ],
+      "genres": [
+         "Comedy",
+         "Drama"
+      ],
+      "productionCompanies": [
+         "Fox 2000 Pictures",
+         "Regency Enterprises",
+         "Epsilon Motion Pictures"
+      ],
+      "summaries": [
+         "When underappreciated video specialist Joe Scheffer is brutally humiliated by the office bully Mark McKinney in front of his daughter, Joe begins a quest for personal redemption. He proceeds by enduring a personal make-over and takes martial arts lessons from a B-action star. As news spreads of his rematch with Mark, Joe suddenly finds himself the center of attention, ascending the corporate ladder and growing in popularity. He's determined to show everyone in his life that he is not a nobody, but a force to be reckoned with.",
+         "On 'take your daughter to work' day, Joe Scheffer gets into an argument in the Car Park with the work bully, Mark McKinny. Mark hits Joe and embarrasses him in front of his Daughter and workmates. After falling into depression, unable to face his daughter, Joe figures that if he challenge and beat Mark McKinny in a fight, his dignity will be regained. From the day of the challenge to the day of the fight, Joe becomes very popular and learns various lessons that life can throw at him, which includes falling in love after his divorce. Being taught by a local Karate Sensai, and having the backing of the local community, Joe prepares for the fight in an attempt to go from zero to hero.",
+         "When Joe is beat up by a co-worker in front of his daughter on \"Bring Your Child To Work Day\", he decides to fight back."
+      ],
+      "budget": 38000000
+   },
+   "movielensId": 4991,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2001-12-21",
+      "dvdReleaseDate": "2002-08-20",
+      "directors": ["John Pasquin"],
+      "runtime": 99,
+      "movieId": 4991,
+      "title": "Joe Somebody",
+      "mpaa": "PG",
+      "actors": [
+         "Tim Allen",
+         "Julie Bowen",
+         "Kelly Lynch",
+         "Greg Germann",
+         "Jim Belushi",
+         "Hayden Panettiere",
+         "Patrick Warburton",
+         "Ken Marino",
+         "Wolfgang Bodison",
+         "Cristi Conaway",
+         "Robert Joy",
+         "Tina Lifford",
+         "James Cada",
+         "Tawnja Zahradka",
+         "Ahna Brandvik"
+      ],
+      "imdbMovieId": "0279889",
+      "originalTitle": "Joe Somebody",
+      "genres": ["Comedy"],
+      "youtubeTrailerIds": [],
+      "plotSummary": "When underappreciated video specialist Joe Scheffer is brutally humiliated by the office bully Mark McKinney in front of his daughter, Joe begins a quest for personal redemption. He proceeds by enduring a personal make-over and takes martial arts lessons from a B-action star. As news spreads of his rematch with Mark, Joe suddenly finds himself the center of attention, ascending the corporate ladder and growing in popularity. He's determined to show everyone in his life that he is not a nobody, but a force to be reckoned with.",
+      "tmdbMovieId": 12312,
+      "avgRating": 2.76345,
+      "releaseYear": "2001",
+      "numRatings": 446,
+      "posterPath": "/l5AtEKR28WbKqMFjK8A0HSpzVFw.jpg"
+   }
+}

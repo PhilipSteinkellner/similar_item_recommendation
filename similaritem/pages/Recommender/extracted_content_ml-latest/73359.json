@@ -1,0 +1,612 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "infidelity",
+            "id": 1326
+         },
+         {
+            "name": "daily life",
+            "id": 1850
+         },
+         {
+            "name": "married couple",
+            "id": 2587
+         },
+         {
+            "name": "marriage crisis",
+            "id": 5809
+         },
+         {
+            "name": "routine",
+            "id": 7307
+         },
+         {
+            "name": "relationship",
+            "id": 14534
+         }
+      ],
+      "imdb_id": "tt0061736",
+      "video": false,
+      "title": "A Guide for the Married Man",
+      "recommendations": [
+         42986,
+         88583,
+         44695,
+         52122,
+         145364,
+         24816,
+         43013,
+         49876,
+         42604,
+         89725,
+         38665,
+         36642,
+         42407,
+         35189,
+         42687,
+         25874,
+         32021,
+         3582,
+         3547,
+         61899
+      ],
+      "backdrop_path": "/hNLHMqxV0fFENebuoUhuPfbV9c8.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 5,
+               "character": "Paul Manning",
+               "gender": 2,
+               "credit_id": "52fe43e4c3a36847f8076a4d",
+               "name": "Walter Matthau",
+               "profile_path": "/xJVkvprOnzP5Zdh5y63y8HHniDZ.jpg",
+               "id": 6837,
+               "order": 0
+            },
+            {
+               "cast_id": 6,
+               "character": "Ruth Manning",
+               "gender": 1,
+               "credit_id": "52fe43e4c3a36847f8076a51",
+               "name": "Inger Stevens",
+               "profile_path": "/7zmYbdwFkit9Nb6WWEL6XgQqeVZ.jpg",
+               "id": 40056,
+               "order": 1
+            },
+            {
+               "cast_id": 7,
+               "character": "Ed Stander",
+               "gender": 2,
+               "credit_id": "52fe43e4c3a36847f8076a55",
+               "name": "Robert Morse",
+               "profile_path": "/va3BC55HSkbKiuphzgYCF9Jaa1x.jpg",
+               "id": 40173,
+               "order": 2
+            },
+            {
+               "cast_id": 8,
+               "character": "Irma Johnson",
+               "gender": 1,
+               "credit_id": "52fe43e4c3a36847f8076a59",
+               "name": "Sue Ane Langdon",
+               "profile_path": "/peXmZykb9FGHs7o3PrzzlFazo44.jpg",
+               "id": 21459,
+               "order": 3
+            },
+            {
+               "cast_id": 9,
+               "character": "Jackie Russell",
+               "gender": 1,
+               "credit_id": "52fe43e4c3a36847f8076a5d",
+               "name": "Jackie Russell",
+               "profile_path": null,
+               "id": 40179,
+               "order": 4
+            },
+            {
+               "cast_id": 10,
+               "character": "Mousey Man's Wife",
+               "gender": 1,
+               "credit_id": "52fe43e4c3a36847f8076a61",
+               "name": "Aline Towne",
+               "profile_path": "/6F75tJg7WY5p4C5b1UrOkkFQzBo.jpg",
+               "id": 103936,
+               "order": 5
+            },
+            {
+               "cast_id": 11,
+               "character": "Harriet Stander",
+               "gender": 1,
+               "credit_id": "52fe43e4c3a36847f8076a65",
+               "name": "Claire Kelly",
+               "profile_path": "/jxUJ6xee0srOOmsEzNu7imvHRWp.jpg",
+               "id": 94029,
+               "order": 6
+            },
+            {
+               "cast_id": 12,
+               "character": "Joe X's Blowsy Blonde",
+               "gender": 1,
+               "credit_id": "52fe43e4c3a36847f8076a69",
+               "name": "Eve Brent",
+               "profile_path": "/cQhAjiXxOfgnmDgLRbFpwrzG5Q0.jpg",
+               "id": 128201,
+               "order": 7
+            },
+            {
+               "cast_id": 13,
+               "character": "Taxi Driver",
+               "gender": 0,
+               "credit_id": "52fe43e4c3a36847f8076a6d",
+               "name": "Marvin Brody",
+               "profile_path": null,
+               "id": 165604,
+               "order": 8
+            },
+            {
+               "cast_id": 14,
+               "character": "Mrs. Fred V.",
+               "gender": 1,
+               "credit_id": "52fe43e4c3a36847f8076a71",
+               "name": "Majel Barrett",
+               "profile_path": "/6esZeIlIdrCnoGkAggRAJ8FWs7Z.jpg",
+               "id": 1755,
+               "order": 9
+            },
+            {
+               "cast_id": 15,
+               "character": "Mrs. Rance G.",
+               "gender": 0,
+               "credit_id": "52fe43e4c3a36847f8076a75",
+               "name": "Marian Mason",
+               "profile_path": null,
+               "id": 236025,
+               "order": 10
+            },
+            {
+               "cast_id": 16,
+               "character": "Rance G.'s Hanger On",
+               "gender": 0,
+               "credit_id": "52fe43e4c3a36847f8076a79",
+               "name": "Tommy Farrell",
+               "profile_path": "/n4RdMnXwWFyqXD4nmPLBk4cfFNZ.jpg",
+               "id": 120037,
+               "order": 11
+            },
+            {
+               "cast_id": 17,
+               "character": "Miss Stardust, Rance's New Girl",
+               "gender": 1,
+               "credit_id": "52fe43e4c3a36847f8076a7d",
+               "name": "Linda Harrison",
+               "profile_path": "/hT3pOpVkSoYV1RgxkOiu2CukKAv.jpg",
+               "id": 13260,
+               "order": 12
+            },
+            {
+               "cast_id": 18,
+               "character": "Harry 'Big Fella' Johnson",
+               "gender": 2,
+               "credit_id": "52fe43e4c3a36847f8076a81",
+               "name": "Jason Wingreen",
+               "profile_path": "/mUodFFjIp374CmUDLW2Lu39MYf2.jpg",
+               "id": 151529,
+               "order": 13
+            },
+            {
+               "cast_id": 19,
+               "character": "Bubbles",
+               "gender": 0,
+               "credit_id": "52fe43e4c3a36847f8076a85",
+               "name": "Virginia Wood",
+               "profile_path": null,
+               "id": 138095,
+               "order": 14
+            },
+            {
+               "cast_id": 20,
+               "character": "Technical Adviser (Mrs. Joe X)",
+               "gender": 1,
+               "credit_id": "52fe43e4c3a36847f8076a89",
+               "name": "Lucille Ball",
+               "profile_path": "/56f15aAkHkdVDrFgfly5cUa1bbD.jpg",
+               "id": 40174,
+               "order": 15
+            },
+            {
+               "cast_id": 21,
+               "character": "Technical Adviser (Ollie 'Sweet Lips')",
+               "gender": 0,
+               "credit_id": "52fe43e4c3a36847f8076a8d",
+               "name": "Jack Benny",
+               "profile_path": "/hcIPgGIR81NpbBPmRB3xCmJxsMm.jpg",
+               "id": 2492,
+               "order": 16
+            },
+            {
+               "cast_id": 22,
+               "character": "Technical Adviser (Clara Brown)",
+               "gender": 1,
+               "credit_id": "52fe43e4c3a36847f8076a91",
+               "name": "Polly Bergen",
+               "profile_path": "/f2AjVdpEIJ7Q0F69fEmGHVHzAEy.jpg",
+               "id": 40175,
+               "order": 17
+            },
+            {
+               "cast_id": 23,
+               "character": "Technical Adviser (Charlie)",
+               "gender": 2,
+               "credit_id": "52fe43e4c3a36847f8076a95",
+               "name": "Joey Bishop",
+               "profile_path": "/eAdeniMPGSxT5k2rwgXCLiISmEV.jpg",
+               "id": 4361,
+               "order": 18
+            },
+            {
+               "cast_id": 24,
+               "character": "Technical Adviser (at Romanoff's)",
+               "gender": 2,
+               "credit_id": "52fe43e4c3a36847f8076a99",
+               "name": "Sid Caesar",
+               "profile_path": "/ccgsqL5cF8qpc4JuKgLGGEn6im1.jpg",
+               "id": 8902,
+               "order": 19
+            },
+            {
+               "cast_id": 25,
+               "character": "Technical Adviser (Joe X)",
+               "gender": 2,
+               "credit_id": "52fe43e4c3a36847f8076a9d",
+               "name": "Art Carney",
+               "profile_path": "/sbK2jpM0gKMeovCOLnS3i8ZbR29.jpg",
+               "id": 40176,
+               "order": 20
+            },
+            {
+               "cast_id": 26,
+               "character": "Technical Adviser (Married 14 years)",
+               "gender": 2,
+               "credit_id": "52fe43e4c3a36847f8076aa1",
+               "name": "Wally Cox",
+               "profile_path": "/tU5QNlJQKqE48JACDrBlw4wHW0x.jpg",
+               "id": 100019,
+               "order": 21
+            },
+            {
+               "cast_id": 28,
+               "character": "Technical Adviser (Man who loses coat)",
+               "gender": 2,
+               "credit_id": "52fe43e4c3a36847f8076aa5",
+               "name": "Hal March",
+               "profile_path": null,
+               "id": 40210,
+               "order": 22
+            },
+            {
+               "cast_id": 29,
+               "character": "Technical Adviser (Irving, House Buyer)",
+               "gender": 2,
+               "credit_id": "52fe43e4c3a36847f8076aa9",
+               "name": "Louis Nye",
+               "profile_path": "/i7S5nUCMidxsxcBrnZZebXiqs8z.jpg",
+               "id": 170543,
+               "order": 23
+            },
+            {
+               "cast_id": 30,
+               "character": "Technical Adviser (Rance G.)",
+               "gender": 2,
+               "credit_id": "52fe43e4c3a36847f8076aad",
+               "name": "Carl Reiner",
+               "profile_path": "/AtDqJQkl7dH2m19kPio3cosfbes.jpg",
+               "id": 1895,
+               "order": 24
+            },
+            {
+               "cast_id": 31,
+               "character": "Technical Advisor (Realtor)",
+               "gender": 2,
+               "credit_id": "52fe43e4c3a36847f8076ab1",
+               "name": "Phil Silvers",
+               "profile_path": "/AqPt8HXHVE11trMeRpQ33rrrxY9.jpg",
+               "id": 40178,
+               "order": 25
+            },
+            {
+               "cast_id": 32,
+               "character": "Technical Adviser (Harold aka Tiger)",
+               "gender": 2,
+               "credit_id": "52fe43e4c3a36847f8076ab5",
+               "name": "Terry-Thomas",
+               "profile_path": "/tdsN3NUsBNEPtHkWX5BskfG7yCi.jpg",
+               "id": 29427,
+               "order": 26
+            },
+            {
+               "cast_id": 33,
+               "character": "Technical Adviser (Shoeless)",
+               "gender": 2,
+               "credit_id": "52fe43e4c3a36847f8076ab9",
+               "name": "Ben Blue",
+               "profile_path": "/nFK6vskyW6XC8DA2S8m6EN2wA0b.jpg",
+               "id": 104034,
+               "order": 27
+            },
+            {
+               "cast_id": 34,
+               "character": "Technical Adviser (Charlie's Wife)",
+               "gender": 1,
+               "credit_id": "52fe43e4c3a36847f8076abd",
+               "name": "Ann Morgan Guilbert",
+               "profile_path": "/cN34n1gc0pQEuOPC2cqVLHAIIO5.jpg",
+               "id": 151759,
+               "order": 28
+            },
+            {
+               "cast_id": 35,
+               "character": "Technical Adviser (Mountain Climber)",
+               "gender": 2,
+               "credit_id": "52fe43e4c3a36847f8076ac1",
+               "name": "Jeffrey Hunter",
+               "profile_path": "/rK5yovSBl25ginB2wiYLwLw0eGF.jpg",
+               "id": 30551,
+               "order": 29
+            },
+            {
+               "cast_id": 36,
+               "character": "Technical Adviser (Meat Eater)",
+               "gender": 2,
+               "credit_id": "52fe43e4c3a36847f8076ac5",
+               "name": "Marty Ingels",
+               "profile_path": "/uJ46xnnGDHPpAWsFJMjM7N9SRUu.jpg",
+               "id": 104036,
+               "order": 30
+            },
+            {
+               "cast_id": 37,
+               "character": "Technical Adviser (Shrink)",
+               "gender": 2,
+               "credit_id": "52fe43e4c3a36847f8076ac9",
+               "name": "Sam Jaffe",
+               "profile_path": "/drxy1JkTOjhUhQnrFnepTmSHELd.jpg",
+               "id": 10024,
+               "order": 31
+            },
+            {
+               "cast_id": 38,
+               "character": "Technical Adviser (Girl with Harold)",
+               "gender": 1,
+               "credit_id": "52fe43e4c3a36847f8076acd",
+               "name": "Jayne Mansfield",
+               "profile_path": "/dvxjjuKMWICK5pjAFj7rWoVlMwU.jpg",
+               "id": 40177,
+               "order": 32
+            },
+            {
+               "cast_id": 39,
+               "character": "",
+               "gender": 1,
+               "credit_id": "572cdd4ec3a3680fff000705",
+               "name": "Sanita Pelkey",
+               "profile_path": "/ekULy4tvIAaWF9q7rE2KCCNNN0z.jpg",
+               "id": 1138764,
+               "order": 33
+            },
+            {
+               "cast_id": 40,
+               "character": "Very Attractive Woman",
+               "gender": 1,
+               "credit_id": "58f42fddc3a36807fd0195a4",
+               "name": "Delores Wells",
+               "profile_path": "/kubmKf5ZAh7agOswtGUngPB4ClS.jpg",
+               "id": 1243732,
+               "order": 34
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe43e4c3a36847f8076a37",
+               "name": "Gene Kelly",
+               "profile_path": "/xbQZidMyhviuLmI1h8cJoJ7F1LV.jpg",
+               "id": 13294,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43e4c3a36847f8076a3d",
+               "name": "Frank Tarloff",
+               "profile_path": null,
+               "id": 40172,
+               "department": "Writing",
+               "job": "Author"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43e4c3a36847f8076a43",
+               "name": "Joseph MacDonald",
+               "profile_path": null,
+               "id": 30288,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43e4c3a36847f8076a49",
+               "name": "John Williams",
+               "profile_path": "/2Ats98PB1SH2yfEPikiLdhRuXZm.jpg",
+               "id": 491,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 7.180277,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 4932,
+      "vote_count": 12,
+      "budget": 0,
+      "overview": "A man gives his friend a series of lessons on how to cheat on one's wife without being caught.",
+      "similar": [
+         258,
+         843,
+         1259,
+         28468,
+         37265,
+         36630,
+         27066,
+         283227,
+         4507,
+         884,
+         688,
+         10998,
+         787,
+         35056,
+         50646,
+         12220,
+         1643,
+         2698,
+         4148,
+         9716
+      ],
+      "original_title": "A Guide for the Married Man",
+      "runtime": 89,
+      "poster_path": "/9yDgKvBeatHYGT7OdWRg4Oo0nwt.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+         "name": "20th Century Fox",
+         "id": 25,
+         "origin_country": "US"
+      }],
+      "release_date": "1967-01-01",
+      "vote_average": 6.4,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Gene Kelly"],
+      "runtime": 89,
+      "synopsis": null,
+      "writers": [
+         "Frank Tarloff",
+         "Frank Tarloff"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0061736/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTM3MDc4MDA2Ml5BMl5BanBnXkFtZTcwOTAxNTAzMQ@@._V1_SY317_CR4,0,214,317_AL_.jpg",
+      "actors": ["Stars: Walter Matthau, Inger Stevens, Sue Ane Langdon | See full cast and crew »"],
+      "reviews": [
+         "Gene Kelly, who directed this film, was a man that understood clearly timing and movement, as his distinguished career demonstrates. Being behind the camera gives him the opportunity to have his players to put into practice some of his ideas and the result is a film that is a lot of fun and doesn't appear too dated. What Mr. Kelly accomplished with this film was bringing together two charismatic performers at the top of their form. Walter Matthau had been seen in lots of supporting roles before, but as Paul Manning, the bored husband looking for ways of having fun on the side, he is wonderful. The same could be said about Robert Morse, who had been on the New York stage and in other movies. Mr. Morse makes a fantastic contribution with his take of Ed Stander, the man who knew about how to go after the women he wanted without regard of the consequences. Ed Stander puts a bug in Paul Manning's brain about how to have fun away from home. The only thing is, Paul is a man with a normal marriage with an adoring wife, who would not even contemplate in reciprocating what he is trying to do if he follows Ed's advice. The other amazing thing in the film is the different vignettes that are seen throughout the movie. Some of the best and most accomplished actors working in Hollywood have a small part in cameo appearances that illustrate points that Ed would like Paul to put into practice. This way we get to see actors of the caliber of Lucille Ball, Art Carney, Jack Benny, Joey Bishop, Louis Nye, Jayne Mansfield, Phil Silvers, and others playing the dream-like sequences. \"A Guide for the Married Man\" is a film worthy of our time since it takes us back to a more innocent period. Thanks to Mr. Kelly's inspired direction, the film will always be a favorite of mature fans.",
+         "If you think four teenage guys trying to \"score\" before prom night is funny, wait'll you see the hilarious lengths married men go to philander successfully! A GUIDE FOR THE MARRIED MAN was the original raunchy sex comedy (without ever resorting to the vomit-inducing scatological humor of recent years), and even after 33 years it holds up fairly well. Walter Matthau plays a neurotic businessman who struggles to remain faithful to his wife while being tempted by his friend's seemingly foolproof program of sexual infidelity. Lots of one-liners and cartoonish humor, and Matthau gives us a character whom we can laugh at and identify with at the same time. One of the best sex comedies of all time, if only because the scene where Matthau is driven out onto the fire escape by a roomful of perky secretaries is ten times funnier than Jason Biggs jamming his nether regions into a baked good.",
+         "A movie from a time when \"mature\" didn't mean graphic. The plot is right out of the buttoned-down 60's -- Walter Matthau consults with expert adulterer Robert Morse before cheating on his wife (a very sexy Inger Stevens). Robert Morse's lessons are illustrated by hilarious vignettes featuring a Who's Who of comedy stars. The Joey Bishop turn on how to handle being caught in the act -- Deny, Deny, Deny is a classic.",
+         "The scene with joey Bishop and Ann morgan-Gilbert (\"Deny, Deny, Deny\") has to be one of the 3 funniest scenes EVER filmed in Hollywood! Fantastic! And timely too, it is certainly advice that Bill Clinton should have taken to heart !!!",
+         "This is a very entertaining artifact of its era, the swinging sixties.Concerning the attempts of Walter Matthau to cheat on his sexy wife Inger Stevens with the even more sexy and luscious Sue Ann Langdon (what did this guy want, everything?)cheered on by his rake of a pal, Robert Morse(!!). A case of stunt casting which in this case works. The sexual revolution hits poor suburbanite Matthau right in the face and he wants in on it. Who can blame him? This would-be bawdy comedy was directed by nice guy Gene Kelly, so if it's not rapacious enough for some, it's still the best piece of bawd this side of Billy Wilder.",
+         "Walter Matthau has great fun in his role of a husband experiencing the \"seven-year itch\" who tries to learn the ropes of philandering by a co-worker buddy and expert adulterer (Robert Morse). Aided and abetted by a host of guest stars in flashback who offer the \"do's\" and \"don't's\" of extramarital affairs, our novice soon learns that cheating is a serious and very technical business. One misstep or a brief lapse of judgment...and it can be curtains for Casanova. Matthau manages to keep the potentially smarmy material light and engaging while Morse is wickedly humorous as the no-nonsense \"big brother.\" Of the numerous cautionary \"lessons\" offered by the guest stars, Joey Bishop, Ann Morgan Guilbert, Terry-Thomas and Jayne Mansfield manage to grab the biggest yuks in their brief scenes. The irony of it all is that the late Inger Stevens, who plays Matthau's wife, is a spectacularly beautiful dish who, in my mind, has it all over the bump-and-grind shennanigans of Sue Ane Langdon and/or tawdry allure of Elaine Devry. Why Matthau's character would even consider cheating on the best looking femme in the picture is beyond me. Nevertheless, relax and enjoy these comedy pros at work, guided by the assured hand of dancer-turned-director Gene Kelly.",
+         "This entertaining bit of froth stands up well, as Robert Morse, the neighborhood Lothario, attempts to instruct Walter Matthau in the How-To's of philandery (why he should be interested in philandery when he is married to the incredibly built Inger Stevens is an unexplained mystery). Of course the many delicious cameos by such as Phil Silvers, Sid Caesar, Jack Benny, Joey Bishop, et. al. keep the film bouncing merrily along. Well worth a see.",
+         "How to cheat your wife without the danger that she ever notices it? That's the big issue for the friends that are surrounding Walter Matthau who thought that loving his wife is the sole thing on earth that counts even if there are other parts of the body that says it differently. Well it's called a sexcomedy but mind you this is as friendly as cinema from the sixties can get but it works brilliant and not in the least because of Walter's great performance.",
+         "This is a wonderful late-sixties sex comedy. Walter Matthau and Robert Morse are perfectly cast, Inger Stevens is heart-breakingly beautiful and the Technical Advisors are well chosen. Other users keep citing the Joey Bishop scene, but my favorite is the Phil Silvers/Louis Nye scene, which is absolutely top notch and shows what direction \"The Phil Silvers Show\" might have taken in the sixties if Bilko was allowed to have sex. Unlike the Phil Silvers/Don Knotts scene in \"Mad, etc. World,\" this was a perfectly cast scene that *didn't* fall flat. And my two nominees for Hot Babes of the sixties are here: Sue Ane Langdon and Jackie Joseph, before they played hookers in \"The Cheyenne Social Club.\"",
+         "This movie is very funny and only wish it'd be on DVD! And if so, in letterbox / widescreen! Which I know is a 2.35:1 aspect ratio. Studios keep putting out the same titles over and over again on DVD; there are MANY other titles / movies that need to be on DVD! I remember seeing this film on ABC on their afternoon movie (4:30 PM), back in the 1970's, and then awhile ago, in letterbox / widescreen on the AMC channel (before they ruined the channel by going with commercials). The character of Robert Morse (\"Ed\") shows Walter Matthau's character (\"Paul\") how to cheat on his wife, by telling stories of other men who cheated on their wives (utilizing famous celebrities in cameos in these roles), and explains what they did and how they did it, and what to do and what NOT to do. The title song by the Turtles is great! A bouncy tune! Someone should tell 20th Century Fox to put this out on DVD and if and when they do, put it out in letterbox / widescreen. SEE IT (if you have not)! ENJOY! -Paul latinogringo941"
+      ],
+      "genres": [
+         "Comedy",
+         "Romance"
+      ],
+      "productionCompanies": ["Twentieth Century Fox Film Corporation"],
+      "summaries": [
+         "Ed convinces his best friend Paul that he should fool around with other women in order to preserve his happy marriage. Ed illustrates his point with a series of vignettes acted out by a lot of famous celebrities. The joke of it all is that Paul is married to lovely Ruth!",
+         "Ed and Paul are friends. Though both are married, Paul discovers Ed is fooling around. When asked about it, Ed passes on the oral history and guide to fooling around without your wife finding out. This is done by a series of vignettes with cameos from famous actors that illustrate the points Ed wants to make. Between pieces of advice, we follow Paul as he prepares for his big affair.",
+         "A man gives his co-worker a series of lessons on how to cheat on one's wife without being caught."
+      ],
+      "budget": 2500000
+   },
+   "movielensId": 73359,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1967-01-01",
+      "dvdReleaseDate": "2005-09-06",
+      "directors": ["Gene Kelly"],
+      "runtime": 89,
+      "movieId": 73359,
+      "title": "A Guide for the Married Man",
+      "mpaa": "",
+      "actors": [
+         "Walter Matthau",
+         "Inger Stevens",
+         "Robert Morse",
+         "Sue Ane Langdon",
+         "Jackie Russell",
+         "Aline Towne",
+         "Claire Kelly",
+         "Eve Brent",
+         "Marvin Brody",
+         "Majel Barrett",
+         "Marian Mason",
+         "Tommy Farrell",
+         "Linda Harrison",
+         "Jason Wingreen",
+         "Virginia Wood",
+         "Lucille Ball",
+         "Jack Benny",
+         "Polly Bergen",
+         "Joey Bishop",
+         "Sid Caesar",
+         "Art Carney",
+         "Wally Cox",
+         "Hal March",
+         "Louis Nye",
+         "Carl Reiner",
+         "Phil Silvers",
+         "Terry-Thomas",
+         "Ben Blue",
+         "Ann Morgan Guilbert",
+         "Jeffrey Hunter",
+         "Marty Ingels",
+         "Sam Jaffe",
+         "Jayne Mansfield",
+         "Sanita Pelkey",
+         "Delores Wells"
+      ],
+      "imdbMovieId": "0061736",
+      "originalTitle": "A Guide for the Married Man",
+      "genres": [
+         "Comedy",
+         "Romance"
+      ],
+      "youtubeTrailerIds": ["DqZvHBRDM0g"],
+      "plotSummary": "A man gives his friend a series of lessons on how to cheat on one's wife without being caught.",
+      "tmdbMovieId": 4932,
+      "avgRating": 3.3125,
+      "releaseYear": "1967",
+      "numRatings": 16,
+      "posterPath": "/9yDgKvBeatHYGT7OdWRg4Oo0nwt.jpg"
+   }
+}

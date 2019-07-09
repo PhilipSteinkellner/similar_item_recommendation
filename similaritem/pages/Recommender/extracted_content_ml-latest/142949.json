@@ -1,0 +1,627 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "monster",
+            "id": 1299
+         },
+         {
+            "name": "sequel",
+            "id": 9663
+         },
+         {
+            "name": "murder",
+            "id": 9826
+         },
+         {
+            "name": "alien",
+            "id": 9951
+         },
+         {
+            "name": "motorcycle",
+            "id": 14735
+         },
+         {
+            "name": "violence",
+            "id": 14819
+         },
+         {
+            "name": "baltimore maryland",
+            "id": 158938
+         }
+      ],
+      "imdb_id": "tt0086013",
+      "video": false,
+      "title": "Nightbeast",
+      "recommendations": [
+         416119,
+         27566,
+         73218,
+         54127,
+         63091,
+         132802,
+         144696,
+         3149,
+         78250,
+         187801,
+         89762,
+         90030,
+         84372,
+         32623,
+         61702,
+         30879,
+         107438,
+         54116,
+         35662,
+         83409
+      ],
+      "backdrop_path": "/iSQJrgt4y7gHLMUqiQfmFohDMA2.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Sheriff Cinder",
+               "gender": 0,
+               "credit_id": "52fe474ec3a368484e0bfb09",
+               "name": "Tom Griffith",
+               "profile_path": null,
+               "id": 549051,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Jamie",
+               "gender": 0,
+               "credit_id": "52fe474ec3a368484e0bfb0d",
+               "name": "Jamie Zemarel",
+               "profile_path": null,
+               "id": 549052,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "Lisa Kent",
+               "gender": 0,
+               "credit_id": "52fe474ec3a368484e0bfb11",
+               "name": "Karin Kardian",
+               "profile_path": null,
+               "id": 549053,
+               "order": 2
+            },
+            {
+               "cast_id": 5,
+               "character": "Steven Price",
+               "gender": 0,
+               "credit_id": "52fe474ec3a368484e0bfb15",
+               "name": "George Stover",
+               "profile_path": null,
+               "id": 76501,
+               "order": 3
+            },
+            {
+               "cast_id": 6,
+               "character": "Drago",
+               "gender": 0,
+               "credit_id": "52fe474ec3a368484e0bfb19",
+               "name": "Don Leifert",
+               "profile_path": null,
+               "id": 549028,
+               "order": 4
+            },
+            {
+               "cast_id": 7,
+               "character": "Ruth Sherman",
+               "gender": 0,
+               "credit_id": "52fe474ec3a368484e0bfb1d",
+               "name": "Anne Frith",
+               "profile_path": null,
+               "id": 171561,
+               "order": 5
+            },
+            {
+               "cast_id": 8,
+               "character": "Mary Jane",
+               "gender": 0,
+               "credit_id": "52fe474ec3a368484e0bfb21",
+               "name": "Eleanor Herman",
+               "profile_path": null,
+               "id": 549054,
+               "order": 6
+            },
+            {
+               "cast_id": 9,
+               "character": "Mayor Bert Wicker",
+               "gender": 0,
+               "credit_id": "52fe474ec3a368484e0bfb25",
+               "name": "Richard Dyszel",
+               "profile_path": null,
+               "id": 103606,
+               "order": 7
+            },
+            {
+               "cast_id": 10,
+               "character": "Greg",
+               "gender": 0,
+               "credit_id": "52fe474ec3a368484e0bfb29",
+               "name": "Greg Dohler",
+               "profile_path": null,
+               "id": 549055,
+               "order": 8
+            },
+            {
+               "cast_id": 11,
+               "character": "Kim",
+               "gender": 1,
+               "credit_id": "52fe474ec3a368484e0bfb2d",
+               "name": "Kim Pfeiffer",
+               "profile_path": null,
+               "id": 549056,
+               "order": 9
+            },
+            {
+               "cast_id": 12,
+               "character": "Suzie",
+               "gender": 0,
+               "credit_id": "52fe474ec3a368484e0bfb31",
+               "name": "Monica Neff",
+               "profile_path": null,
+               "id": 549057,
+               "order": 10
+            },
+            {
+               "cast_id": 13,
+               "character": "Glenn",
+               "gender": 0,
+               "credit_id": "52fe474ec3a368484e0bfb35",
+               "name": "Glenn Barnes",
+               "profile_path": null,
+               "id": 549058,
+               "order": 11
+            },
+            {
+               "cast_id": 14,
+               "character": "Glenn's Girl",
+               "gender": 0,
+               "credit_id": "52fe474ec3a368484e0bfb39",
+               "name": "Rose Wolfe",
+               "profile_path": null,
+               "id": 549059,
+               "order": 12
+            },
+            {
+               "cast_id": 15,
+               "character": "Hunter",
+               "gender": 0,
+               "credit_id": "52fe474ec3a368484e0bfb3d",
+               "name": "Jerry Schuerholz",
+               "profile_path": null,
+               "id": 549060,
+               "order": 13
+            },
+            {
+               "cast_id": 16,
+               "character": "Hunter",
+               "gender": 0,
+               "credit_id": "52fe474ec3a368484e0bfb41",
+               "name": "Hank Stuhmer",
+               "profile_path": null,
+               "id": 549061,
+               "order": 14
+            },
+            {
+               "cast_id": 17,
+               "character": "Hunter",
+               "gender": 0,
+               "credit_id": "54dc267e925141619b002a97",
+               "name": "Fred Gibmeyer",
+               "profile_path": null,
+               "id": 1426208,
+               "order": 15
+            },
+            {
+               "cast_id": 18,
+               "character": "Governor Embry",
+               "gender": 0,
+               "credit_id": "54dc2690c3a3682f24002b03",
+               "name": "Richard Ruxton",
+               "profile_path": null,
+               "id": 932663,
+               "order": 16
+            },
+            {
+               "cast_id": 19,
+               "character": "Bill Perkins",
+               "gender": 0,
+               "credit_id": "54dc269fc3a3683102002a24",
+               "name": "Bumb Roberts",
+               "profile_path": null,
+               "id": 1280040,
+               "order": 17
+            },
+            {
+               "cast_id": 20,
+               "character": "Jimmy Perkins",
+               "gender": 0,
+               "credit_id": "54dc26adc3a368122d002d57",
+               "name": "Don Dohler",
+               "profile_path": "/7JskMva03WFiMn8lV8TSTN0ETPX.jpg",
+               "id": 549026,
+               "order": 18
+            },
+            {
+               "cast_id": 21,
+               "character": "Uncle Dave",
+               "gender": 0,
+               "credit_id": "54dc26bb9251415a0d0028a6",
+               "name": "David W. Donoho",
+               "profile_path": null,
+               "id": 1399611,
+               "order": 19
+            },
+            {
+               "cast_id": 22,
+               "character": "Governor's Aide",
+               "gender": 0,
+               "credit_id": "54dc26cf9251416195002cdc",
+               "name": "Rick Ernest",
+               "profile_path": null,
+               "id": 1426209,
+               "order": 20
+            },
+            {
+               "cast_id": 23,
+               "character": "Pete",
+               "gender": 0,
+               "credit_id": "54dc26dd925141619b002aa1",
+               "name": "Richard Geiwitz",
+               "profile_path": null,
+               "id": 1016110,
+               "order": 21
+            },
+            {
+               "cast_id": 24,
+               "character": "Berkeley",
+               "gender": 0,
+               "credit_id": "54dc26edc3a3681224002a52",
+               "name": "Larry Reichman",
+               "profile_path": null,
+               "id": 1426210,
+               "order": 22
+            },
+            {
+               "cast_id": 25,
+               "character": "Clay / Pool Party Guest / Beast",
+               "gender": 0,
+               "credit_id": "54dc2700c3a36812330032ab",
+               "name": "Christopher Gummer",
+               "profile_path": null,
+               "id": 1204517,
+               "order": 23
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe474ec3a368484e0bfb05",
+               "name": "Don Dohler",
+               "profile_path": "/7JskMva03WFiMn8lV8TSTN0ETPX.jpg",
+               "id": 549026,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54dc271d9251416195002ce6",
+               "name": "Don Dohler",
+               "profile_path": "/7JskMva03WFiMn8lV8TSTN0ETPX.jpg",
+               "id": 549026,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54dc2724c3a36812330032b2",
+               "name": "Don Dohler",
+               "profile_path": "/7JskMva03WFiMn8lV8TSTN0ETPX.jpg",
+               "id": 549026,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54dc2733c3a368123b002f3e",
+               "name": "Don Dohler",
+               "profile_path": "/7JskMva03WFiMn8lV8TSTN0ETPX.jpg",
+               "id": 549026,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54dc27549251416195002cef",
+               "name": "Richard Geiwitz",
+               "profile_path": null,
+               "id": 1016110,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54dc2766c3a368123b002f45",
+               "name": "J.J. Abrams",
+               "profile_path": "/uiEVOx3QclxnN76t8PU6v5IcUUP.jpg",
+               "id": 15344,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54dc277692514161910030f9",
+               "name": "Robert J. Walsh",
+               "profile_path": "/gGLAd6oPmQu98b8MIFpGEJij4Pe.jpg",
+               "id": 34734,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54dc2785c3a3683102002a44",
+               "name": "Dave Ellis",
+               "profile_path": null,
+               "id": 1204518,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54dc279692514155bb000860",
+               "name": "Peter Garey",
+               "profile_path": null,
+               "id": 1071318,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54dc27a592514155bb000867",
+               "name": "Richard Geiwitz",
+               "profile_path": null,
+               "id": 1016110,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54dc27b6c3a36812330032c7",
+               "name": "Tom Griffith",
+               "profile_path": null,
+               "id": 549051,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54dc27cbc3a3681237002d6c",
+               "name": "Tony Malanowski",
+               "profile_path": null,
+               "id": 47095,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54dc27d8c3a3682f24002b28",
+               "name": "Larry Reichman",
+               "profile_path": null,
+               "id": 1426210,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54dc27e7925141618c002fe0",
+               "name": "George Stover",
+               "profile_path": null,
+               "id": 76501,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54dc27f9925141619e002dcd",
+               "name": "James Chai",
+               "profile_path": null,
+               "id": 1426211,
+               "department": "Crew",
+               "job": "Makeup Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54dc281092514141ec00061d",
+               "name": "Larry Schlechter",
+               "profile_path": null,
+               "id": 1204525,
+               "department": "Crew",
+               "job": "Makeup Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54dc2870c3a3681224002a6f",
+               "name": "Ernest D. Farino",
+               "profile_path": null,
+               "id": 102339,
+               "department": "Visual Effects",
+               "job": "Visual Effects"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Horror",
+            "id": 27
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         }
+      ],
+      "popularity": 0.731349,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 66881,
+      "vote_count": 11,
+      "budget": 14000,
+      "overview": "An alien crash lands and goes on a killing spree.",
+      "similar": [
+         15762,
+         21484,
+         357096,
+         15069,
+         948,
+         238636,
+         588,
+         22825,
+         10781,
+         123109,
+         10285,
+         281,
+         10017,
+         3597,
+         3600,
+         4771,
+         276488,
+         28355,
+         341006,
+         133805
+      ],
+      "original_title": "Nightbeast",
+      "runtime": 81,
+      "poster_path": "/77XscRc1wx3baIToNxzHK2CNL23.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "Amazing Film Productions",
+         "id": 46429,
+         "origin_country": ""
+      }],
+      "release_date": "1982-11-01",
+      "vote_average": 3.1,
+      "belongs_to_collection": null,
+      "tagline": "His Hands Tear Through Flesh and Bone!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Don Dohler"],
+      "runtime": 80,
+      "synopsis": null,
+      "writers": ["Don Dohler"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0086013/",
+      "coverLink": null,
+      "actors": [
+         "Tom Griffith",
+         "Jamie Zemarel",
+         "Karin Kardian"
+      ],
+      "reviews": [
+         "If Ed Wood was given color film stock and a budget that was double the nearly four dollars he made his entire library on, I suspect the result would be something that looked vaguely similar to the film \"Nightbeast;\" wooden actors, terrible effects, confusing dialogue, and plot holes large enough to drive a semi through. The Nightbeast is an alien with a brown head and fangs, who crash lands his space ship on earth in the opening moments of the film. He then goes on a rampage killing anyone in sight. The remainder of the movie finds our \"hero,\" Sheriff Cinder, hunting the beast, while bedding coworkers and trudging through subplots that mean nothing to anyone in or out of the film. This so-called Nightbeast is a fascinating creature. He arrives on earth, and begins his rampage, and throughout the film, no motive is given for the carnage, no explanation provided for his origin or his reason for coming to earth. And none of the characters seem to care, or appear at all surprised that a murderous beast with bad dental work is on the loose. They try to kill it sure, but mostly out of simple survival instinct not even fear of the alien hordes as many a paranoid horror film has shown. The Nightbeast appears primarily during the day (Maybe his name is supposed to be a post-ironic commentary on our society?) and never speaks a word of dialogue. A shame too; he seems like he has a lot on his mind. When Nightbeast hits the town, he first has a small raygun that he uses to dissolve humans away into nothing. He is so trigger happy (And presumably his gun has unlimited ammo) that he just blasts without aiming, and there are scenes filled with literally hundreds of lasers whizzing around our not-so-intrepid heroes who fire at it with their handguns showing on their faces a mixture of extreme heroism and idiocy. Of course, we later learn that the Nightbeast (Whose one weakness is electricity...funny that it doesn't like being electrocuted, SO creative) actually uses the humans for his food, begging the question if he needs to eat us to survive, then why use a raygun that destroys all trace of the humans leaving nothing to eat? The film includes some wife-beating subplots that go nowhere, and a sex scene painful in both the unattractive nature of the participants and in the silliness of the dialogue (Example line: \"You know I could take my shirt off...\" Response: \"And I could take my towel off.\") And what kind of women completely undresses in front of her coworker with whom she's never shared a romantic encounter with in her life? She tells him she's going to take a shower then strips right in front of the guy! Did I mention he's got a salt-and-pepper curly afro and huge seventies glasses? Yeah, he's the action hero. Lunacy of this caliber is often hard to come by. And Nightbeast truly fits that description. It won't be easy to secure yourself a copy, but it will be well worth the effort if you can. And watch out for those stupid, big-teethed aliens. Cause you never know...",
+         "This movie was really awesome at the beginning, then eventually got to be pretty boring. The lasers and the alien are really cool. The alien has such a good face and his laser gun looks like a dollar store kid gun. The music and sound effects are the best, I would like to drive around in my car and just listen to them all day! I didn't like how a lot of it was filmed in the dark, the people were gritty enough already. Is the sherrif wearing an afro wig? Why does the biker's girlfriend not button her shirts? Why is the little boy wearing a Montreal ringer shirt? Why is the biker such a dork? Why can about 5 local police officers die and no one cares, but then some local boy dies and everyone is very sad and upset? Why do the laser shots disintergrate humans and cars but not stone walls, trees or anything else they hit? What kind of a name is Wilton? It's a fun movie to make fun of.",
+         "Every once in a while comes a movie that shakes a nation to its core... Nightbeast is very much the case. SPOILER ALERT! This movie is sweet. The movie starts with a photo realistic space scene in which the \"Nightbeast\", a sweet alien, crash lands on earth and immediately starts killing as many things as it can. The nightbeast sports a stylish silver v-neck jumpsuit as well as a mouth of teeth that looks like it's been hit with a steel pipe. The beast's preferred method of disposal is his extremely rapid-fire laser pistol, but he will tear you apart if it's necessary/cool. Right away you know the beast is awesome because he kills an uncle in front of his young niece and nephew... and then kills the kids too. Our main protagonist is Sheriff Cinder, a hardened cop with a penchant for monotone demeanor, tan lines and sexism. He basically hunts the nightbeast and drags lots of volunteers into their nasty demise. With him is his equally monotone deputy Lisa, who becomes the love interest of Cinder (watchout for the rad sex scene). There are a few other supporting actors sprinkled in: Steven, a fearless scientist who pretty much saves the day. A goofy mayor named Bert who doesn't seem to care about mass murder... and who doesn't love a pool party!? The mayor, along with his fling Mary Jane provides the movie's groan-worthy catchphrase. Jamie is a dude that is in love with a brief, but topless Suzie. The real gem of this film is the 2nd antagonist, Drago. He is easily one of the greatest villains of all time. This guy is so raw that he rides his motorcycle through the woods... multiple times. He has a cool fight with Jamie in the forest and even chokes a woman to death. He has a strange hatred for Sheriff Cinder and has the best lines. Drago rules hard. This is a classy movie, full of great moments. Who can forget the part where Cinder falls down a ravine in the woods, or the part where the Nightbeast's spaceship blows up like 50 times. Do yourself a favor and watch this movie at least once a day.",
+         "I purchased a NIGHTBEAST video for less than a price of a rental, even if I knew nothing about it and I have to say that I'm glad I did. This is a somewhat fun (funny?) horror/sci-fi movie that's rarely dull. The body count is HIGH. One of the highest I've ever seen. The alien starts killing people left and right, with its laser or with its hands and huge toothy mouth. The beast even kills two kids. Now you've got to love that in a B-movie. Many of the killings are gory. The action is really fast and furious at the beginning but gradually peters out halfway through the film. Anyway, the acting is spectacularly amateurish and the music often sounds like the one in FRIDAY THE 13TH. So much so that I wonder why haven't the producers of FT13 sued yet? The script is all over the place. As if the alien wasn't enough, the script also includes several competing plotlines, including a story-line about a criminal on a killing spree. And then there's the hilarious love story that blossoms right in the middle of the action between the sheriff and his female deputy. With the alien killing people all over town, the sheriff tries to stop a pool-side party held by the mayor for a state politician (the scene when the people lounging at the pool leave in a panic is hilarious. It's a priceless B-movie moment). The sheriff makes a big deal about the party, saying that there's no time for frivolities when people are dying all over the place and the town should be evacuated BUT the sheriff and the deputy do have time for some lovemaking. Nice to see where the sheriff's priorities are. Anyway, the love scene with the afro-haired sheriff and the blonde deputy with the perky breasts has got to be one of the funniest moments ever put on film. The same could be said for the conclusion of the film. Major guffaws. I like these kind of b-movies which were produced by some local folks with no budget starring nobodies with no expectations but to entertain bored people seeing this in a rundown movie theater in the middle of nowhere. We don't see these kind of unassuming (and goofy) films being made and released anymore. It's unfortunate because they're often more fun to watch than anything released on video these days.",
+         "When it comes to the cinema of Don Dohler, I must admit that I am a recent convert that only started viewing his early films in the last few years. Of all of his early work, NIGHTBEAST is considered by Dohler enthusiasts to be the best and I wholeheartedly agree. NIGHTBEAST unfolds at a breakneck pace, crams in every special effect you can imagine, features some nice gore and provides some of the most unintentionally funny scenes than one could ever hope for. In short, it is an early 80s classic. Plots are very straightforward in Dohler's films and NIGHTBEAST is no exception. It is the standard \"evil alien lands in a backwoods Maryland county and blows stuff up\" plot line and NIGHTBEAST basically plays as a remake of Dohler's THE ALIEN FACTOR (1979), even featuring some of the same actors as the same characters. What differentiates this version is that Dohler succumbed to the staples of early 80s entertainment, sex and violence. And thank heavens he did! The violence is completely over the top with faces, limbs and stomachs being torn apart. As for the sex stuff, Dohler includes a couple of unnecessary nude scenes, including one bit that is so amazingly gratuitous that it will have you questioning the filmmaker's sanity (a tryst mid-alien rampage featuring the classic lines \"Do you mind if I take off my towel?\" and \"Do you mind if I take off my shirt?\"). Therein lies the charm of NIGHTBEAST. It is a DIY production that alternates between brilliance and absurdity. It is encouraging to think that Dohler and company cranked this out in rural Maryland for peanuts and eventually got a nationwide video (and now DVD) release.",
+         "Don Dohler MUST have grew up during the fifties/early sixties and been a tremendously big fan of the monster-movies of that period! How else could you justify the handful of cheesy Sci-Fi horror movies that he unleashed upon the world during the first half of the 1980's? His movies all revolve on the exact same storyline of an alien monster invading a remote little redneck-town and killing the locals. \"Nightbeast\" is by far superior to \"The Galaxy Invader\" and \"The Alien Factor\", but still a pretty inept and laughable movie. The monster, which resemblances a hairless gorilla with fangs, lands on earth, takes out his laser gun and starts shooting random people so they disappear into thin air. He occasionally also rips hillbillies' heads off or their guts out, but he never seems to attempt to take over our planet or anything. Why is he here? Nobody knows and nobody even bothers to wonder about it. Thanks to the monster's arrival, the local sheriff also realizes that he's in love with his deputy! How convenient is that? Most of the time, you get the impression that the players completely worked without a script! They all just do and say what they feel is best, and Don Dohler doesn't mind because he's happy already for making another cheesy monster movie! There's some outrageous gore and gratuitous nudity, so I don't assume any 80's horror fan will complain. Heck, even the title can't be taken seriously, as the intergalactic King Kong eliminates as many people during the day as he does at night! It's true what the other reviewer said: they just don't make 'em like this anymore.",
+         "Nightbeast, although never able to rise above it's limited budget, still manages to leave a sweet taste in your mouth. Reeling from a collision with a meteor, a spaceship crashes in the forest of a small town. The alien (which strangely resembles the 'Predator') comes stumbling out, angry and lost. He goes on a killing spree which includes some campers. The sheriff decides to ask the locals to help him go after the creature. The towns-people, mostly farmers, hunters and loggers, reluctantly agree. A violent, gory battle quickly ensues. As I was watching Nightbeast I kept thinking to myself 'this is Mayberry vs The Predator'. Even the sheriff, reminded of Andy Griffith. I hated to admit it but I kind of enjoyed this film. There are some great moments, for example, there is a scene where an elderly hunter, who manages to shoot a weapon out of the creatures hand, falls to his knees and begins to weep. Plus, the creature is often shown fleetingly, like an apparition, and it is apparent that Dohler was hinting at something here but I couldn't figure it out. Sadly, Nightbeast suffers from it's all too small budget. The special effects appear amateurish and the gore scenes look fake. The film also has problems with the plot, there are too many sub-plots. There is like three separate stories going on all at once and you are constantly jumping back and forth amongst them. Also, there is a rather weird sex scene between the sheriff and his deputy, that seems totally out of place here, as if it was inserted afterwards. Outside of all these minuses, there is something I liked about Nightbeast. Maybe it is because of all the minuses that I keep coming back for more, the same reason I keep coming back for Plan Nine From Outer Space.",
+         "Night Beast is actually quite an entertaining little alien movie. If you can actually find this one on home video rent it. It will entertain you for it's short running time of 80 minutes. If you enjoy low budget and obscure horror. Night Beast is perfect for you. I know I love 80's horror , and this film is just another 80's winner !!",
+         "Maryland-based no-budget hack junk genre filmmaker par excellence Don Dohler hits an uproariously atrocious all-time low with this marvelously messed-up magnum opus of sheer awfulness, a relentlessly wretched $1.98 amateur-night-at-the-movies sci-fi/horror evil alien splatterfest that's downright mesmerizing and often almost unbearably funny in its pure, undistilled, unflinchingly shoddy woefulness. A hefty homicidal lizard who resembles a pudgy version of the titular hokey reptilian fiend in \"Track of the Moonbeast\" crash-lands his spaceship in the drab podunk burg of Perry Hill, Maryland after said spaceship gets struck by a meteor. The nasty, scaly, clawed lizard creature proceeds to rack up a substantial corpse tally (24 people in total!) by either zapping folks with its cruddy plastic toy raygun or graphically tearing 'em up with its sharp, taloned hands. It's up to geeky, curly-haired stringbean Sheriff Cinder (the bland, ungainly Tom Griffith), pretty Deputy Lisa (the extremely cute and sprite blonde looker Karin Kaisdan, who at one particularly ridiculous point in the middle of all the action finds time to bare her hot bod for a laughably gratuitous love scene with the sheriff), and selfless, stout-hearted good Samaritan Jamie (the gratingly insipid Jamie Zemarel) to kill the bloodthirsty intergalactic being before it decimates the entire populace of the town. Chockablock with all the essential oddly entertaining so-utterly-wrong-it's-paradoxically-right stuff -- rancid emoting from a non-star cast (besides the three horrible leads, we also got the ubiquitous Grade Z film regular George Stover in one of his standard wimpy bespectacled dweeb roles and the beefy Don Leifert as an odious woman-beating local roughhouse baddie), ineptly staged shoot-outs, chintzy scratched onto the negative laser effects, a judicious smattering of cheesy soft-core sex and nudity, ham-fisted direction, a threadbare script which does little more than loosely string together a steady series of gruesome murder set pieces, eye-straining under-lit nighttime cinematography, and more luridly gory ultra-violence than you can shake a double-barreled shotgun at -- \"Nightbeast\" certainly earns its place in the hilariously horrendous down'n'dirty celluloid dreck epic Hall of Shame. It's an enjoyably idiotic, low-rent and resolutely tacky all-thumbs affair that's a great deal of first-rate fumbling el schlocko high camp fun.",
+         "Don Dohler's \"Nightbeast\" tells us the story about an alien-like beast which is killing people in a small American town.It is a poorly made film with cheap special effects,but still it is enjoyable enough to keep most of the horror fans entertained.The acting is awful,the script is not better,but there's plenty of cheesy gore(like entrails ripping,decapitation etc.)to satisfy undemanding gore hounds.The sex scene between the sheriff and his deputy is a laugh riot!5 out of 10-check it out if you like low budget horror movies.",
+         "NIGHTBEAST is independent film-maker Don Dohler's follow up to his oddly brilliant ALIEN FACTOR, and it's another quirky, action-packed sci-fi offering. In fact, it's very similar to ALIEN FACTOR, albeit with the crucial difference that there's only a single alien creature rampaging through rural America in this film. NIGHTBEAST starts with a bang by chronicling the alien's violent arrival on Earth and doesn't really let up from there. The narrative is an odyssey of cheesy 1980s-era computer effects of ray guns firing and subsequent disintegrations, mixed with the more adult exploitation staples of gore and nudity. Of the former, one of the alien's early victims gets graphically disembowelled by the entity, while half of the cast members seem willing to strip down for long-winded sex scenes used to pad out the narrative. While this padding threatens to drag the film's entertainment value down, thankfully it never overwhelms the production or its emphasis on low-rent action sequences. Although the majority of the movie takes place at night, Dohler keeps things watchable and there's a surprising amount of atmosphere in the production too. The alien itself is undoubtedly inspired by ALIEN but looks even meaner even though the special effects aren't as good.",
+         "Night Beast is actually quite an entertaining little alien movie. If you can actually find this one on home video rent it. It will entertain you for it's short running time of 80 minutes. If you enjoy low budget and obscure horror. Night Beast is perfect for you. I know I love 80's horror , and this film is just another 80's winner !!",
+         "Economically deficient bubble-gum sci-fi hokum can be every bit as enjoyable as any entry in the big-budget ALIEN franchise, so long as you find it in your will to accept it on its own minimalist terms. A ridiculous looking alien from the abyss of space(picture a fat man with the head of a deformed walrus and an enormous, fang-bearing rictus)arrives on Earth near a rural U.S. town and instantly begins a hunt for human snacks. Despite the primitive appearance and behavior of the monster, it apparently is of a highly superior intelligence, as it's armed with a ray-gun which blasts its targets into a scatter of atoms. A cast of nondescript nobodies must find a way to stop this hungry predator before it makes a casserole of their entire white-trash community. NIGHBEAST has gore...it has boobs...it has the most unappealing love scene in film history...all the essential ingredients are here for a perfect cheese-wiz monster-mash. Do check it out...that is, unless you deem yourself \"too sophisticated\" for such things. 5.5/10...Dohleriffic!",
+         "Nightbeast (1982) ** 1/2 (out of 4) A spaceship crashes in a small town and before long an alien creature escapes and goes on a killing spree. The local police must try and find a way to destroy the alien before the entire town is dead. NIGHTBEAST is pretty much a direct remake of the director's previous film, THE ALIEN FACTOR. I always enjoy watching remakes and I find them even more interesting when the same director does them. Don Dohler was a name that I wasn't too familiar with before reading Stephen Thrower's NIGHTMARE USA and after viewing a couple of his films I must admit that I like him. There's certainly nothing original here since it's basically a remake of the previous movie but at the same time I thought both films did a very good job at keeping the viewer entertained. Both at least look like a professional movie as there aren't any major goofs that you normally see in these types of low-budget features. I also give the director a lot of credit for trying to deliver the gory goods even without much of a budget. There are a couple gory killings here that will keep fans of the genre entertained. The look of the monster is good for what it is. There's no question that this film as well as THE ALIEN FACTOR were meant to be throwbacks to the drive-in era but of course these movies offered up stuff like gore, violence and nudity. The love making scene here has to be one of the silliest that you'll ever witness but it's at least entertaining! The performances are pretty much what you'd expect from a film like this but I thought all of the actors were fun and at least kept you glued into the movie. NIGHTBEAST also has some rather silly sci-fi effects that were influenced by STAR WARS and they add some camp appeal as well. There's certainly nothing ground-breaking here but if you enjoy low- budget movies this one here is certainly entertaining in its own way.",
+         "From hardly alien sounding lasers, to an elementary school style shuttle crash, \"Nightbeast\" is better classified as a farcical mix of fake blood and bare chest. The almost pornographic style of the film seems to be a failed attempt to recover from a lack of cohesive or effective story. The acting however is not nearly as beastly, many of the young, aspiring, actors admirably showcase a hidden talent. Particularly Don Leifert and Jamie Zemarel, who shed a well needed shard of light on this otherwise terrible film. Nightbeast would have never shown up on set had he known the terrible movie making talent of this small Maryland town.",
+         "I finally got around to watching Nightbeast just hours ago and let me tell you now, the flick is amazing! Terrible acting, gratuitous MILF boobies, Cheap FX, and a \"hero\" that looks like a guy I knew from high school. He's skinny, pale, has a gray afro (Note : The guy I knew in high school didn't have gray hair), a weak chin and HUGE mustache (Note : The guy I knew in high school did have a HUGE mustache). You know, your typical hero type. Cheap jack spaceship crashes on Earth and rubbery, toothy alien begins a rampage of terror. Skinny gray afro hero and MILF (There's a few other people around, I don't refer to them so much as characters. Let's just call them...expendable folk.) have to figure out how to stop him on their own because the mayor can't be bothered with no alien, because he's having a party the governor will be at. If you are the type of person that LOVES bad movies. Then you will certainly dig Nightbeast because it is gloriously bad. Luckily for us, it's bad in the best of ways. This movie packs more entertainment than any of the movies being pooped out of Hollywood these days. I say give the beast a chance and you may have the same opinion!",
+         "Cult independent director Don Dohler, who also gave unto us such low budget flicks as Fiend and Alien Factor strikes again here with this mildly entertaining homicidal alien flick. I actually remember my first encounter with this film (or at least the poster for said flick) many, many years ago when it first came out on video here in the UK. I was a wee lad at the time and can still vividly remember feeling a combination of fear and fascination at the site of this bizarre looking shiny suited monster crouching over a dead victim. Cut back to the present and purely by chance I came across the film again recently - well needless to say, I just had to check it out after all these years! Now armed with adult eyes the first thing that struck me was that the alien featured in this, as another reviewer pointed out, looks not dissimilar to a hairless gorilla! (with a laser gun no less!) - A fact which in all honesty makes it rather hard to take said critter at all seriously or furthermore to emote any fear from (not that the film manages to evoke any sense of tension and/or scares whatsoever anyway). Aside from said beasties somewhat unfortunate rendering, we are also treated to some pretty risible acting displays, bland characterisations and general tediousness of plotting/pacing. Sounds pretty bad eh? Well, yes it is but credit where credits due - the film somehow remains watchable throughout at least. In fact to be equitable, for a simple 'small town menaced by alien invader' flick, this works about as well as any and even has a healthy splattering of gore to lift the proceedings somewhat. Certainly far from a classic but does nonetheless have a rather curious nostalgic charm to it, especially for me in fact as I had wanted for so long to find out exactly what the film was I had seen the poster for all those years ago. Ah, the magic of childhood memories eh?",
+         "After the opening credits over a black sheet of paper with spots of white paint sprayed onto it, oh OK I'll be generous and call it a star field, we witness an alien spacecraft crashing into a meteorite and being forced to land on earth. A terrible looking model spacecraft lands on a terrible looking model field. Three nearby campers investigate. From the burning spacecraft a reptile like looking alien, the 'Nightbeast' emerges, OK so I lied it's a guy in a dodgy rubber monster mask and silver spacesuit. The campers are quickly killed by the Nighbeast's laser gun which shoots awful special effects at people. The towns Sheriff Jack Cinder (Tom Griffith) is informed. He alerts his deputy Lisa Kent (Karin Kardian) and gathers a posse of men together to investigate. Meanwhile the Nightbeast has killed an unlucky motorist who stopped on the side of the road for a leak. His two annoying kids run for help. They approach a house, inside two young people are kissing, the girl says \"someones running towards the house\". The guy gets up to take a look and is attacked and gutted by the Nightbeast, it kills the girl as well. Then it manages to kill the two kids with his laser, maybe the Nightbeast ain't so bad after all. Once the Sheriff and his men arrive at the scene they have a gun/laser battle with the Nightbeast. After possibly the most unexciting gun fight in film history only the Sheriff, his deputy and a local man Jamie Lambert (Jamie Zemarel) survive. But the Nightbeast is still alive, bullets seem to have no effect on it. The next day the Sheriff visits the towns Mayor, Bert Wicker (Richard Dyszel) and his girlfriend Mary Jane (Eleanor Herman) to get permission to evacuate everyone in the town. He refuses saying a party he is holding for the Governor (Richard Ruxton) cannot be cancelled, and that he doesn't want to create a panic situation. The Sheriff evacuates the town anyway. Two doctors, Steven Price (George Stover) and Ruth Sherman (Anne Firth) are attacked by the Nightbeast before they can leave. However, they manage to scare the Nightbeast away and survive. Together with the Sheriff his deputy and Jamie they decide to stay behind and fight the alien. Written and directed by Don Dohler this has to be an amateur film, made with family and friends, look at the credits and see how many Dohler's are involved. For that reason I should probably cut it some slack but that still doesn't stop it, or excuse it from being a throughly awful film in every department. It has no story or purpose, things just happen to waste time, whats with Drago (Don Leifert) strangling his ex girlfriend Suzie (Monica Neff)? This and many more scenes add nothing to the film. The script has no logic either, why does the Nightbeast stick around the town once it's been supposedly evacuated? The special effects are embarrassingly bad, just look at the effect when the Nightbeast shoots someone with his laser, a computer effect an 80's spectrum would be ashamed of. There's not really much blood or gore in it, a ripped open stomach, a severed arm and a decapitation but they all look predictably poor. Credit where it's due, the Nightbeast itself looks alright for the most part. There's a sex scene between the Sheriff and his deputy which has to be seen to be believed, music that even a porno would be embarrassed about and two really ugly naked people make this a difficult sequence to watch. Less than stellar acting, photography, music, lighting and editing make it a real chore to sit through. And the worse thing about this film? It commits the mortal sin of being boring and not fun in the slightest. Sorry Don mate, but don't give up the day job! Definitely one to avoid.",
+         "An hulking alien beastie crash-lands on Earth and soon wrecks havoc upon the populace first using his laser ray gun to dissolve into dust almost every human he catches sight off (that is when his aim isn't terribly off) and later his bare claws with which he likes to rip out and eat human spleen! All in all, it's pretty silly stuff. I do have to give it some points for being somewhat fun at times. I actually enjoyed the mindless ray gun battle at the beginning and some of the later over the top gore effects. However it doesn't help when the monster provides the movie's only truly entertaining moments and he isn't on screen for a large portion of the film's running time. The acting throughout this is just plain awful and amateurish and our lead hero Sheriff Cinder is much too unattractive to be bagging the film's hottest chick. I also have to take off points for blatantly copying THE THING FROM ANOTHER WORLD (1951) on several occasions. When the monster isn't on a rampage, NIGHTBEAST is far too dull and eventually his attacks become so repetitive and predictable even they become less fun. Watch this one back to back with the 1951 THING and see the difference characterization, attention to plot and detail and creating suspense makes to a monster on the loose movie.",
+         "Those who have seen this incredibly bad movie know what the one line summary is referring too. The incredibly cheesy sex scene between the sheriff and the deputey. I mean it is dumb, just like the rest of this garbage. Admittedly, the opening credits with the laser blast's are kind of cool (I'm guessing that's where all the money went). The acting is bad. The gore is flat out stupid. The alien is a guy in a thite shirt with a cheap mask and gorilla hands that you buy at a novelty store. Oh and the music, You know that sound that those big flexi straws make when you twirl them up in the air? That is exactly what the music sounds like!!! And what is up with this stupid subplot with \"drago\" dumb dumb dumb. It is good for a cheap laugh, but that's about all. I warn everybody against renting or buying anyhting with the paragon home video name on it. This is not the worst. The criminally bad \"Boarding house\" is. But I'll write a review for that piece of horse crap later. Oh, go ahead and rent it if your so d*mn curious, you'll regret it though.",
+         "NightBeast holds the distinction of being possibly the worst movie I have ever endured, and yes, I've seen both Manos and most of Ed Wood's movies. Seriously, I've seen High School theatrical productions that were better than this. All of the essentials for even a standard movie are either missing or ineptly executed. Plot: non-existent. Pacing: don't make me laugh. Characterization: What's that? Special effects: bargain basement awful. Apparently director, Don Dohler thought that the best way to make up for his movie's long list of deficiencies was to toss in some gratuitous nudity and sex. Unfortunately his cast is uniformly unattractive and unappealing (not to mention completely untalented). Yes, you'll see several pairs of young lady's breasts during this flick, but they are as unspectacular as the actresses they are attached to. Special mention must go to Tom Griffith, whose clownish, gray afro, sunken chest, budding beer belly and wooden delivery make him the most laughably awful leading man in movie history. And he's supposed to be a no nonsense tough-as-nails sheriff, no less. Yes, there are a few unintentional laughs to be had in this cow-flop of a film, but they are not numerous enough to make sitting through this thing worth your time.",
+         "OK, when I say \"wow,\" I mean, \"Jesus, please help me.\" I have an old VHS copy that was printed before Troma got a copy of the title. The movie is about an alien crash landing on Earth to terrorize us with a gun that blasts people into oblivion. WATCH OUT!!! And by that, I mean watch out for those special effects. There is an amazing number of mistakes. The acting is terrible, but I'd say the only one putting forth any effort would be the Sheriff. The film itself is really grainy and poorly lighted. In one particular scene, it is day outside and then the shot shows the Night Beast shooting his gun with night behind him. Then it shows day again. *Shakes head* I usually like low-budget horror films, but I had to force myself to finish it because I never watch a movie without finishing it. The only accomplishment this film achieved was an alien that wasn't stereotypical. So for that, and ONLY for that... I give it a 3 out of 10. Don't watch this movie if you've had a bad day. You'll be even more depressed at the failed attempt this movie makes.",
+         "extremely bad flick is very gory but has awful special effects a lame monster and an awful script and is badly written yes it as somewhat fun in a b movie kinda way but still this was very bad badly made too and had tons of logic lapses terrible direction and a lame finale and unlikable characters i haven't seen one bad as this in a long long time the acting is terrible with shoddy dialog and bad camera work yeah okay i had a bit of fun with this still that does not mean i recommend this gory low budget disaster flick too you i recommend you avoid this not much else to say on this one folks as i have nothing else to say and i am not gonna talk about anything that happend in the film really because there is nothing worth noting BOMB out of 5",
+         "I find most Troma distributed really boring, but this one takes boredom one step ahead of itself and makes it into an art! There's no way to describe it's dullness, it has too be seen to be believed! I got cheated by the excellent trailer for this low budget movie, and bought it expensive. It actually took me three times before I managed to watch the whole film from start. It got some \"stunning\" laser effect, a nice moustache and a funny sex scene (\"mind if I take my towel off?\"), but the rest is complete and utter boredom. the story is about a stranded, evil alien in a 50 cent predator costume. It likes to kill people. I wouldn't ruin the end of a GOOD movie: the monster dies. This piece of s**t doesn't even work as camp. It's just plain boring from the first frame to the last. A low budget doesn't justify a bad movie, and contrary to public belief most of the really interesting features are low budget productions. For example, this film must have had a much higher budget than say, Pink Flamingos or the Evil Dead. Anyway, I gave this 9/10 just because I have trouble sleeping, and this piece of schlock always sends me right off to dreamland. Recommended for insomniacs."
+      ],
+      "genres": [
+         "Horror",
+         "Sci-Fi"
+      ],
+      "productionCompanies": ["Amazing Film Productions"],
+      "summaries": [
+         "Baltimore filmaker Don Dohler does an update on his 1979 film \"The Alien Factor\" this time only a single alien(reptilian looking)crash landing near a small town and going on a rampage.",
+         "A creature from outer space crash lands in Perry Hall, Maryland. It starts killing anyone it finds, either by shooting them with a ray gun or by ripping their guts out. The local sheriff, along with a deputy and several others, tries to kill the monster during shootouts, but bullets do not hurt it. The group evacuates the rest of the town and continues to fight.",
+         "A creature from outer space crash lands in a small town and starts killing people."
+      ],
+      "budget": 42000
+   },
+   "movielensId": 142949,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1982-11-01",
+      "dvdReleaseDate": null,
+      "directors": ["Don Dohler"],
+      "runtime": 81,
+      "movieId": 142949,
+      "title": "Nightbeast",
+      "mpaa": "R",
+      "actors": [
+         "Tom Griffith",
+         "Jamie Zemarel",
+         "Karin Kardian",
+         "George Stover",
+         "Don Leifert",
+         "Anne Frith",
+         "Eleanor Herman",
+         "Richard Dyszel",
+         "Greg Dohler",
+         "Kim Dohler",
+         "Monica Neff",
+         "Glenn Barnes",
+         "Rose Wolfe",
+         "Jerry Schuerholz",
+         "Hank Stuhmer",
+         "Fred Gibmeyer",
+         "Richard Ruxton",
+         "Bumb Roberts",
+         "Don Dohler",
+         "David W. Donoho",
+         "Rick Ernest",
+         "Richard Geiwitz",
+         "Larry Reichman",
+         "Christopher Gummer"
+      ],
+      "imdbMovieId": "0086013",
+      "originalTitle": "Nightbeast",
+      "genres": [
+         "Horror",
+         "Science Fiction"
+      ],
+      "youtubeTrailerIds": ["iKeMeA3eD6w"],
+      "plotSummary": "An alien crash lands and goes on a killing spree.",
+      "tmdbMovieId": 66881,
+      "avgRating": 2.875,
+      "releaseYear": "1982",
+      "numRatings": 4,
+      "posterPath": "/77XscRc1wx3baIToNxzHK2CNL23.jpg"
+   }
+}

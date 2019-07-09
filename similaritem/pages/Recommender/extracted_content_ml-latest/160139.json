@@ -1,0 +1,536 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "halloween",
+            "id": 3335
+         },
+         {
+            "name": "insane asylum",
+            "id": 4924
+         },
+         {
+            "name": "murder",
+            "id": 9826
+         },
+         {
+            "name": "mental institution",
+            "id": 11857
+         },
+         {
+            "name": "slasher",
+            "id": 12339
+         },
+         {
+            "name": "trapped",
+            "id": 18029
+         },
+         {
+            "name": "funhouse",
+            "id": 171376
+         },
+         {
+            "name": "criminally insane",
+            "id": 208331
+         }
+      ],
+      "imdb_id": "tt4483220",
+      "video": false,
+      "title": "The Funhouse Massacre",
+      "recommendations": [
+         33926,
+         54132,
+         297472,
+         362373,
+         381712,
+         99424,
+         46467,
+         32585,
+         306307,
+         299359,
+         58096,
+         57733,
+         60965,
+         94841,
+         209780,
+         56242,
+         108993,
+         85024,
+         78253,
+         251733
+      ],
+      "backdrop_path": "/ehAvtRGO0e5BadTgblk53kFR3Sm.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 4,
+               "character": "Mental Manny",
+               "gender": 2,
+               "credit_id": "588aba61c3a368413b021c84",
+               "name": "Jere Burns",
+               "profile_path": "/r8pOXOvBRWVGW18Ltwv0RyqdWhE.jpg",
+               "id": 57167,
+               "order": 0
+            },
+            {
+               "cast_id": 5,
+               "character": "Sheriff Kate",
+               "gender": 1,
+               "credit_id": "588aba6fc3a368181000edeb",
+               "name": "Scottie Thompson",
+               "profile_path": "/o7S0MQHMiylNurOcdxAT85NXJP.jpg",
+               "id": 128628,
+               "order": 1
+            },
+            {
+               "cast_id": 6,
+               "character": "Morgan",
+               "gender": 2,
+               "credit_id": "588aba7f925141539700ed62",
+               "name": "Matt Angel",
+               "profile_path": "/3URprELt1D1lVhKA0yYwJMxibVf.jpg",
+               "id": 1098562,
+               "order": 2
+            },
+            {
+               "cast_id": 0,
+               "character": "Warden Kane",
+               "gender": 2,
+               "credit_id": "561e9c3992514171d6000604",
+               "name": "Robert Englund",
+               "profile_path": "/h4LEgXsvbfmIbwktkiGWNwwtr8q.jpg",
+               "id": 5139,
+               "order": 3
+            },
+            {
+               "cast_id": 1,
+               "character": "Taxidermist",
+               "gender": 2,
+               "credit_id": "561e9c4692514171cd000663",
+               "name": "Clint Howard",
+               "profile_path": "/d9QW5feIgNwDRdkKK1j7gmmOQXT.jpg",
+               "id": 15661,
+               "order": 4
+            },
+            {
+               "cast_id": 9,
+               "character": "Rocco the Clown",
+               "gender": 0,
+               "credit_id": "588abad7c3a368191e00f60b",
+               "name": "Mars Crain",
+               "profile_path": null,
+               "id": 1452888,
+               "order": 5
+            },
+            {
+               "cast_id": 15,
+               "character": "Dr. Suave",
+               "gender": 2,
+               "credit_id": "588abb2c925141553e00f035",
+               "name": "Sebastian Siegel",
+               "profile_path": "/amB82jwCj7d0ADuTPTlwaknT2mv.jpg",
+               "id": 181786,
+               "order": 6
+            },
+            {
+               "cast_id": 11,
+               "character": "Animal the Cannibal",
+               "gender": 2,
+               "credit_id": "588abaf1c3a36819ce00f13b",
+               "name": "E.E. Bell",
+               "profile_path": "/3x4LvuUwtuHV8Ek99H1TP1ghOm7.jpg",
+               "id": 173756,
+               "order": 7
+            },
+            {
+               "cast_id": 10,
+               "character": "Dollface / Ms. Quinn",
+               "gender": 1,
+               "credit_id": "588abae592514156a600f3c7",
+               "name": "Candice De Visser",
+               "profile_path": "/uRXsGFc6qYL7rVgWxjKoqBhbWzt.jpg",
+               "id": 1745824,
+               "order": 8
+            },
+            {
+               "cast_id": 2,
+               "character": "Dennis",
+               "gender": 2,
+               "credit_id": "561e9c5a92514171d0000642",
+               "name": "Courtney Gains",
+               "profile_path": "/7u8dTzgr4ODfpKwdYoUlTwptoCq.jpg",
+               "id": 18708,
+               "order": 9
+            },
+            {
+               "cast_id": 7,
+               "character": "Christina",
+               "gender": 1,
+               "credit_id": "588aba91c3a368158900dadf",
+               "name": "Chasty Ballesteros",
+               "profile_path": "/ciHZCLB504QF9cptNy9ecLahPlJ.jpg",
+               "id": 1158832,
+               "order": 10
+            },
+            {
+               "cast_id": 17,
+               "character": "Laurie",
+               "gender": 1,
+               "credit_id": "588abb429251411bbe022c0c",
+               "name": "Renee Dorian",
+               "profile_path": null,
+               "id": 101494,
+               "order": 11
+            },
+            {
+               "cast_id": 16,
+               "character": "Jason",
+               "gender": 2,
+               "credit_id": "588abb38c3a368413b021d44",
+               "name": "Sterling Sulieman",
+               "profile_path": "/dFSQETfY6naV8nas7LU7JL32Yab.jpg",
+               "id": 223200,
+               "order": 12
+            },
+            {
+               "cast_id": 12,
+               "character": "Deputy Doyle",
+               "gender": 2,
+               "credit_id": "588abb06c3a368158900db1a",
+               "name": "Ben Begley",
+               "profile_path": "/ysOgCE5qjQ7OZIYlWGuUeJPPdas.jpg",
+               "id": 989952,
+               "order": 13
+            },
+            {
+               "cast_id": 8,
+               "character": "Gerardo",
+               "gender": 2,
+               "credit_id": "588abaadc3a368409301fd7b",
+               "name": "Erick Chavarria",
+               "profile_path": "/y0JhjwRIqGkkP9fDWS6FKjpJh89.jpg",
+               "id": 1459830,
+               "order": 14
+            },
+            {
+               "cast_id": 13,
+               "character": "Mikey",
+               "gender": 2,
+               "credit_id": "588abb11c3a368409301fdca",
+               "name": "Michael Eric Reid",
+               "profile_path": "/9jGbYBCv8TRMP7GuXKvzsdVwkRj.jpg",
+               "id": 1251160,
+               "order": 15
+            },
+            {
+               "cast_id": 14,
+               "character": "Randall",
+               "gender": 0,
+               "credit_id": "588abb1cc3a36819ce00f162",
+               "name": "Leigh Parker",
+               "profile_path": "/hFdNPGM69x7qiEGXPSaiMTDxnsG.jpg",
+               "id": 1330039,
+               "order": 16
+            },
+            {
+               "cast_id": 18,
+               "character": "Megan Riley",
+               "gender": 0,
+               "credit_id": "588abb50c3a368413b021d63",
+               "name": "Taryn Schubert",
+               "profile_path": null,
+               "id": 1745825,
+               "order": 17
+            },
+            {
+               "cast_id": 19,
+               "character": "Sewn Dead Woman",
+               "gender": 1,
+               "credit_id": "588abb83925141553e00f06e",
+               "name": "Johanna McGinley",
+               "profile_path": "/9aFt1zlgCPeiv5OPgu1D1ozb8E3.jpg",
+               "id": 1618923,
+               "order": 18
+            },
+            {
+               "cast_id": 20,
+               "character": "Funhouse Guest",
+               "gender": 1,
+               "credit_id": "588abb9ac3a368158900db7e",
+               "name": "Angel Kerns",
+               "profile_path": "/1BxTJ0ZDLd1TWzPmoRBp17pTtp4.jpg",
+               "id": 1560358,
+               "order": 19
+            },
+            {
+               "cast_id": 21,
+               "character": "Funhouse Guest",
+               "gender": 0,
+               "credit_id": "588abbc2925141575700ea2c",
+               "name": "Natasha Phillips",
+               "profile_path": null,
+               "id": 1560363,
+               "order": 20
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "580b384e925141712c000528",
+               "name": "Andy Palmer",
+               "profile_path": null,
+               "id": 1341360,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "588abc0bc3a368409301fe6e",
+               "name": "Ben Begley",
+               "profile_path": "/ysOgCE5qjQ7OZIYlWGuUeJPPdas.jpg",
+               "id": 989952,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 1,
+               "credit_id": "588abc19c3a368158900dbd0",
+               "name": "Renee Dorian",
+               "profile_path": null,
+               "id": 101494,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 0,
+               "credit_id": "588abc42925141533b01022d",
+               "name": "Warner Davis",
+               "profile_path": null,
+               "id": 1341359,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "588abc4cc3a368409301fea4",
+               "name": "Chad Rehmann",
+               "profile_path": null,
+               "id": 1280422,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "588abc56c3a36859e90298b0",
+               "name": "Filip Vandewal",
+               "profile_path": null,
+               "id": 1091861,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 1,
+               "credit_id": "588abc67c3a368149100e90a",
+               "name": "Emily Schweber",
+               "profile_path": null,
+               "id": 22059,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "588abc72c3a36859e90298c1",
+               "name": "Meghan Anderson-Barker",
+               "profile_path": null,
+               "id": 1745826,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "588abc91c3a368191e00f75d",
+               "name": "Robert Kurtzman",
+               "profile_path": "/9hN9noJUKvomz6lNAW24sHHRU0h.jpg",
+               "id": 11419,
+               "department": "Visual Effects",
+               "job": "Special Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "588abcae9251411bbe022d17",
+               "name": "Katie Anderies",
+               "profile_path": null,
+               "id": 1666285,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Horror",
+            "id": 27
+         }
+      ],
+      "popularity": 2.325786,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 363889,
+      "vote_count": 37,
+      "budget": 0,
+      "overview": "Six of the worlds scariest psychopaths escape from a local Asylum and proceed to unleash terror on the unsuspecting crowd of a Halloween Funhouse whose themed mazes are inspired by their various reigns of terror.",
+      "similar": [
+         948,
+         357096,
+         15069,
+         3597,
+         30833,
+         10781,
+         123109,
+         24124,
+         15762,
+         10285,
+         96,
+         4232,
+         4638,
+         238636,
+         3600,
+         4771,
+         12521,
+         13567,
+         276488,
+         28355
+      ],
+      "original_title": "The Funhouse Massacre",
+      "runtime": 90,
+      "poster_path": "/99ziAud7N3jzaDamVgY8qQn9SYW.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "Petri Entertainment",
+         "id": 27460,
+         "origin_country": ""
+      }],
+      "release_date": "2015-11-13",
+      "vote_average": 5.7,
+      "belongs_to_collection": null,
+      "tagline": "MURDER IS ALL PART OF THE SHOW",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Andy Palmer"],
+      "runtime": 90,
+      "synopsis": null,
+      "writers": [
+         "Ben Begley",
+         "Ben Begley"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt4483220/",
+      "coverLink": "https://ia.media-imdb.com/images/M/MV5BOWE5ZTgyMTEtOGMzZi00N2RjLTgwMmYtZjk1ZGY1NjAxNTMxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "actors": [
+         "Robert Englund",
+         "Jere Burns",
+         "Scottie Thompson"
+      ],
+      "reviews": [
+         "What a fun film! Loads of blood and guts, terrible acting (in the best possible way!) and you even get to see a naked breast(!!) I think a lot of people are going to miss the point of this movie - it's one big homage to the old slasher/80's teen horror genre. There are so many in-jokes and references to other films...in fact (I think) this is a remake of a film from 1981! I was expecting a low-budget but entertaining little movie, but never did I think it would be such a great roller-coaster ride of ripped heads and gruesome gore , all served up in almost comic-book style.The practical make-up FX are great, if a little OTT (more 80's influence), the lighting is brilliant and the sets are really clever (very realistic fun-house type set up). I review loads of movies in my Facebook group \"Jaded Horror Hound\" so I am not easily impressed, but I was really entertained and amused by this film. If you like your horror with a twist of camp and a dash of retro, this is the film for you!",
+         "Like all of you might be expected , The Funhouse Massacre turns out to be as cheesy as you expect it to be. A lot of unbelievably dumb jokes that might make you cringe or feeling uncomfortable , probably because they were trying so hard to be funny. That's probably the most scary thing there is in Funhouse Massacre , the cringe-worthy jokes. I must say tho , not all the jokes are bad , there are about one or two jokes that not as bad as the other. Probably the best thing about Funhouse Massacre is the gory. They did pretty darn good job for the make up ( even though a little bit too much ). The acting is average for the main characters and a little low for the small characters. Basically , Funhouse Massacre is a gory dumb B-rated horror-comedy with extra cheese in it. I'm not really a fan of this kind of movie, probably if you like this kind movie you'll probably like it. but , if you like a smart-horror movie , you might wanna to avoid it. I feel dumb after watching it , don't even know why i watched it in the first place. 3/10",
+         "Horribly stupid jokes, bad acting, horrible dialogue, lame actors... this movie tried to be comedy and horror and pretty much missed the mark on both. Lowest form of humor re sex / political jibes along with just gore for the horror. The scariest thing about this movie is losing 90 minutes of your life watching this drivel. Geared toward immature HS aged people at best.",
+         "I'll admit, right from the beginning of this review, that I'm probably just not the right audience for this movie. I am fairly active in the horror community. I go to a lot of conventions. I participate in a lot of message boards. I know a lot of horror fans that would love this movie. I'm just not one of them. I'm trying to think of a way to put this review that won't come across so snobby, but I'll just say that it's a horror movie for people who don't want to think, at all. I usually prefer my horror with a little more intelligence behind it. That's not to say that I can't enjoy my share of mindless gore and scares, but this movie just seems so much to be aimed at an uncultured and uninformed younger audience. I took a lot of writing classes in my life. There were always a few students in each class that just didn't seem to get it, at all. They had drive. They had interest in writing. They just didn't have a creative thought in their heads. Everything they wrote seemed to be crafted from others' ideas and that's the way this movie feels. It's horror created by Beavis and Butthead, as assemblage of ideas that have been done to death and done far better. The movie does seem to hint, now and then, that its' acknowledging its' use of generic tropes, but admitting that you're stealing someone's ideas doesn't forgive that you are doing so. Yes, there are movies like BEHIND THE MASK or SCREAM that have taken those ideas and twisted on them, while admitting they are doing so, but this movie doesn't come anywhere close to the level of writing in those classics. We open with a scene at an asylum that feels far too much like the tour in HOUSE OF 1000 CORPSES. It's a scene by scene introduction to our cast of killers with no creativity or thought given to it, just this killer has a cutesy nickname and here's what he did, then this one, then this one, all guided by Robert Englund who is featured on the poster, but actually has about a 30 second role. Our rogues gallery reads like the most generic gathering of horror clichés you'll ever see. The leader of the gang is a cult leader who's a cross between The Joker and Jim Jones. That joker comparison is apt because we meet his daughter who is a straight up rip off of Harley Quinn. The movie even goes so far as to name her \"Ms Quinn\". This is perhaps the ultimate lazy writing. It's like the writer thought \"Hey, I love Harley Q. I'm gonna put a horror version of her in my movie. I'll go ahead and call her Ms. Quinn and act like I'm doing it with a wink and a nod and maybe nobody will notice that I'm done nothing but steal someone else's idea\". She's not even a very good imitation. The actress is terrible and moves with odd, stilted movements throughout the film. I've seen a hundred cosplayers who could have done this better. Our killers continue with Clint Howard as a human taxidermist (because that's original), we get a fat chef who likes to cook people, a deranged dentist and maybe the laziest of all the characters, an evil clown. Really?? An evil clown?? There are hundreds of other generic low budget horror flicks riddling Netflix and the internet that all seem to think this is a good idea. We get it, people think clowns are scary. The idea got stale about 20 years ago, people. Of course, we need victims, so we get a cast of co-workers, who fit snugly into horror typecasts, but are all far too old to be working at a dive diner and going to a haunted house together acting as if they are seeking scares and thrills. The slut is annoying. The jock is a cardboard cutout. The stoner kids try to be funny and fail continually. The \"final girl\" is neither attractive or interesting enough for anyone to care. The one character who works, at all, is the true main character, who wear a Dr. Who costume throughout the movie. The characters are given horrible jokes and bad dialog. They actually pull out \"That's what she said\" jokes, as if that hadn't got old around the time your granddad caught on 3 years ago and started using it. The only thing particularly interesting about the movie is, perhaps, the gore, which is just content to be full of ample amounts of fake blood. The effects and gags are never really good. That is not a budget limitation, either, because I've seen plenty of low budget horror do more with no more budget than this had. The effects never go for realism, in any way, and instead just settle for \"look how much blood we can spill\". There's a certain deranged fun in them, but even for a gorehound like myself, I want something more convincing. This review ended up more harsh that I intended, but I often feel that the best way to get a true sense of your feelings on a movie is to start writing a review about it and see what flows out. The movie is fun in certain parts, but is aimed at the lowest common denominator, shooting squarely for those who don't want to have to put too much thought into their horror movie. If that's you, I'm not judging. It's just not my thing.",
+         "This one is definitely for horror fans as it focuses on gore and fun rather than actual scares. If you want to sit there and jump for ninety minutes rather than watch an actual story unfold then go watch Paranormal Activity. Instead this film focuses on creating a fun cast of villains, a decent enough set of 'heroes' and a great setting for them to square off in, although the title perhaps should be like 'House of Horrors' rather than 'Funhouse' as most of the premise revolves around people not taking the killings seriously since they are in a modern day house of horrors anyway. There are plenty of kills, although most involve knives or crushing rather than terribly creative deaths, but that almost adds to the film as for something so wacky and out-there, there is also a good amount of logical thought put into the situation as to how it all occurs. Most of usual questionable aspects of horror movies are answered for and played up, but not in an overt or laboured way. Overall this is a fun horror flick that fans will love. The only real issue is that the dialogue could have been more fun, but the overall plot and pacing of the movie make up for that and it is certainly an entertaining ride that ticks all the boxes and leaves room for a sequel should they so wish.",
+         "How could anyone resist a title like 'The Funhouse Massacre'? Often films like this with an intriguing title turn out to be absolute duds, that can't come close to living up to their name. 'The Funhouse Massacre' is one of the better efforts I've seen at actually achieving it. For an almost unheard of film the quality is surprisingly high. Director Andy Palmer delivers a very high quality product. The camera-angles are smooth, the violence is plentiful and well-executed and the acting is of an above average standard - particularly for the horror genre. Mixing comedy with horror is becoming more and more common, as the horror movie genre itself sadly becomes increasingly stale. I personally don't love the mix and feel it takes away any tension the movie is trying to create. 'The Funhouse Massacre' has a heavy element of comedy to it. It's done reasonably well for the most part and there are actually a few genuine laughs here and there. Did the film need it though? I'm undecided on this. On one hand it's trying to say it doesn't want to take itself too seriously, but on the other hand it's actually good enough that it could have worked as pure horror. Some will love it and others will find it ruins the experience. It's impossible to please everyone at the end of the day, but I just hope they pleased more people with this decision than they ruined it for. There's a lot of fun to be had here and a nice little twist near the end to keep things interesting. All in all a good little effort",
+         "With a title that is a mash-up of two Tobe Hooper horror classics\u2014The Texas Chain Saw Massacre and The Funhouse\u2014it's obvious from the start that The Funhouse Massacre isn't going to offer much in the way of originality: it's Halloween night, a group of lunatics have escaped from a high security mental asylum and are killing the patrons of a fun-house. Nope, not much new there! Still, at least the film never pretends to be anything other than a whole load of silly splattery fun, its tongue firmly in cheek as the psychopaths slash, chop, smash, slice and dice their way through the attraction's blissfully unaware customers, who believe that the killing is all part of the show\u2014at least until it is their turn to die. It takes a while to get to the really bloody stuff (the last act is where the best effects happen, including a couple of cool decapitations), but when it does, The Funhouse Massacre proves very enjoyable nonsense, each psycho having their own unique method of dispatching victims: Animal the Cannibal (E.E. Bell) eats them (obviously), demented dentist Dr. Suave (Sebastian Siegel) uses an unusually large drill to treat 'patients', The Taxidermist (Clint Howard) guts and stuffs people, Rocco the Clown (Mars Crain) uses a 'test your strength' hammer to crush heads, and The Stitch Face Killer sews shut the eyes and mouth. Meanwhile Mental Manny (Jere Burns) oversees the carnage, which features some surprisingly good gore effects (just checked the credits and Robert Kurtzman was involved, so maybe not so surprising after all).",
+         "This is the first time I've seen Shout Factory actually distribute a film. I'm a bit of a BluRay enthusiast, so I know of this film through seeing the title in other peoples collections. I'm very into all types of horror films and am willing to give anything a chance. Even if its of the cheesy variety, I can find a way to enjoy it since I'm very open to it. I didn't really know what tot expect from this one but I can't say I'm overly amused, however it has its moments which make it fun. This film is about a group of psychopath killers who escape from prison after they are broken out. They inhabit a local funhouse carnival and go on a murderous spree of killing while there. A group of dead end working restaurant workers also go to the funhouse and we follow the chaos that ensues. We also get a cool cameo from Robert Englund and even Jere Burns stars in it. The film is low on plot points, its just a giant free for all murder spree after a while. There isn't any real depth to anything going on and this is fine as a brainless gory horror film. The film has its comedic moments, it was definitely going for that comedic horror element. I do kind of like carnival theme based horrors so I did enjoy some of the setting and how it creeps into the films mood. Don't question the ending, its really dumb but its basically the ridiculousness of horror films of the heydays reimagined for a modern film. The film is quite gory. It has head ripping, limp cutting, blood spouting brand of body horror. Its not gonna appeal to everyone but I have no problem with this and thought it worked well in this film. The protagonists are kind of one dimensional but so are some of the killers. You don't really get a glimpse into motivations or extended backstories but who really cares? The film definitely tried to market some of their villains. Like the main psycho clown killer and the Harley Quinn knockoff (aptly named Ms. Quinn). I think this can possibly be a cult classic in the future, it has the ingredients for it thrive in that niche. 6/10",
+         "Hey now. I'm supposed to visit my first \"Haunted Funhouse\" (actually 10 of them) next weekend at Kings Island in Ohio\u0085and after watching this, I don't think so. Not that this movie was the scariest film I've seen, but the concept and some of the execution was enough for me to probably sit that visit out. The very basic of the plot here is that \"five or six\" mental patients are set free on Halloween night and they take over a Halloween Funhouse where they proceed to slaughter countless participants while we have a group of young adult friends plus a hilariously understaffed police force we follow and care about living through this {insert title here.} The movie is probably 50/50 lite comedy and extreme gory horror and likewise, 50% of the humor works and 50% of the horror works. Luckily the positive parts are worth the entire attraction. I did find myself laughing out loud at times and freaked completely out during other scenes. Of course, that leaves the missing 50% on both sides. Some of the jokes fell flat and some of the kills were so outrageously unrealistic, it couldn't be taken remotely seriously. Too bad, because they had something here. A place people could get slaughtered in front of others and no one would be the wiser. In fact, they relished in it. At least, in this scenario. I rarely say this about a movie I just watched and came out less than a year ago: REMAKE THIS MOVIE. If you've seen this, can you possibly imagine if this was played straight without any comedy or the many attempts at homages to the slasher subgenre? (Oh, and for the record, most of those also fell flat and the John Carpenter's Halloween-Theme music never fit. Sorry Mr. Composer\u0085you were just a Con-poser.) If this movie was a straight up massacre horror in which people were offed in a Halloween Funhouse where you're supposed to be scared, but still make it out in one piece, it would probably kill at the box office, pardon the pun. Sure, I did enjoy the humor at times and the light tones did make me a little less jumpy, but if they remade this movie in dead seriousness, I probably wouldn't sleep for days. Eh. Here, nor there. It's a thoroughly gory ride that, thankfully never crosses the line since we're supposed to be having a fun time. Amateurish at times \u2013 definitely had a direct-to-Chiller-Network feel \u2013 it never excels to \"real movie\" status and yet, it's definitely a passable horror-comedy. Just too bad said \"comedy\" was really bad at times. The movie Scream this was not, but a distant cousin you can freely visit once in a while. *** Final thoughts: Day 5 Movie in the Can! I'm watching a NEW-2-ME horror movie every day of October 2016 and this one I've wanted to see for a while now. Originally, I thought this was a remake to the original 1981 movie: The Funhouse, which I finally saw a year or so ago. That 35-year- old movie did not live up to my expectations, so I was hoping this new version would. NOTE: it is NOT a remake. Just both are horror films involving funhouses. Oh and one more final thought: who the hell opens their Halloween funhouse ON HALLOWEEN NIGHT? NO ONE DOES. Ours, here in Arizona, open a month prior and run every week until Halloween. I've never been to one, as I previously stated (until next weekend\u0085maybe) but from what I'm told, the lines are extremely long and each sells out night after night during October\u0085so why the hell would anyone open one, like they did in this movie, on the last night of the fright-season? Inconceivable!",
+         "Robert Englund is credited first on the cover and has about 10 minutes of playtime. This scene is in an asylum and some dangerous serial killers escape on Halloween. They head for a fun house where there murder tactics are displayed which was planned by one of 'm for reasons I didn't quite get. The story was bad and almost felt like they wrote the script while they were filming the movie. The acting was very forgettable and the odd character development did not help with this. Especially the stumbling cop turning to cool guy in the third act was a good example of this. The movie just feels really messy and although there's a story to follow it lacks in which direction it want's to go. Some effects and some scenes are decent but nothing like the quality you've seen in better movies. The scares and the action felt lame and the whole thing just isn't that exciting and as a comedy it just isn't funny enough. If your into the indie horror movie this might be something for you. For everybody else out there,I don't recommend it. I will give it a star more for effort.",
+         "This movie was actually pretty entertaining, lots of fun and gore and the right amount of cheese. Absolutely ludicrous but in the right way, if anyone says any different they've simply missed the point. This film is what it is. A solid 7 from me for entertainment...",
+         "A group of the nation's most gruesome killers are set free by a follower of charismatic cult leader Mental Manny (Jere Burns) who survived the fire...no pun intended Mr. Burns. They go to a Halloween Funhouse which has displays/exhibits/shows of all of them as they kill their actor doubles and assume their positions at the Funhouse. Audience members are all game after paying an arm and a leg to get in. (Yes they went there with the puns.) A group of celebrity impersonator restaurant workers attend the event. Laurie (Renee Dorian) is a virgin, so we know who is \"The Final Girl' by formula. I love Funhouse/Carnival slasher films with clowns, even the bad ones. This film boasts horror icon Robert Englund as the warden and Ice Cream Man Clint Howard who was also on the original Star Trek whose name sounds like the demon from \"The Conjuring 2.\" Sorry for that plot spoiler, Hollywood added a demon to the Enfield Haunting, but no aliens. That would be silly and unbelievable. Ben Begley acted the stereotypical bumbling deputy very well. Chasty Ballesteros played her typical role as \"Hot Asian Chick\" only this time she has a blonde wig. Newcomer Candice De Visser has that nice \"Sherrie Moon Zombie/Victoria DeMare\" crazy twitch down pat. Guide:F-word, sex, nudity (Chasty Ballesteros) Human body with 5-6 major squirting arteries going to head.",
+         "THE FUNHOUSE MASSACRE is an unashamed does-what-it-says-on-the-tin type of B-movie horror film, emphasising very gruesome deaths throughout and barely featuring any kind of storyline. The opening sequence features a decent cameo by Robert Englund but is entirely predictable, and before long we move to a gloomy old carnival setting where the sideshow exhibits are real-life escaped psychopaths, each with their own modus operandi. The film has a noticeably light tone with lots of cheesy jokes and even cheesier acting, but the gore comes thick and fast and is well staged. The film also has something of an '80s feel to it, with small roles for Clint Howard and Courtney Gains, which is why I rated it.",
+         "This 2015 horror film tells about 6 psychos escaping from an asylum and head to a carnival fun park on Halloween night bringing mayhem. A group of teen friends discover that the carnage occurring is real and try to survive. Robert Englund (A Nightmare On Elm Street), Clint Howard (Ice Cream Man) and Courtney Gains (Children of the Corn) make appearances. This is an average slasher with some dark humor and gory make-up effects that obviously pays homage to \"The Funhouse.\" Horror/Slasher fans may want to check this out at least once.",
+         "This is a fun movie to watch. It has a Rob Zombie kind of feel for me too. Jere Burns is outstanding as Mental Manny and I can defiantly say that Candice De Visser steals the show as Dollface. Great over the top gore with some descend effects. Don't try to dissect the what and why's in this movie because you'll just give yourself a headache. Sit back and enjoy.",
+         "I tend to love cheesy slasher flicks that don't take themselves too seriously so I was excited to check out \"The Fun House Massacre\". After seeing some trailers and reading some reviews this seemed like it would be right up my alley. Story seemed somewhat interesting and there were some very interesting names on the cast list (Robert Englund and Clint Howard), but for the most part I was just excited to see some over the top gory kills and from the looks of it I figured this movie would definitely deliver in that department, it did somewhat but it was also a bit of a disappointment. Six psychotic maniacs have broken out of a secret asylum that houses people who too violent for modern society, from there they descend upon a Fun house (haunted house) on Halloween and take the place of the staff so that they can have their violent psychotic fun without arousing too much suspicion (since people just assume it is part of the act). So the film does a great job of setting the scene for an ultra blood bath, but I think the main problem here (for me at least) is that the kills just weren't all that fun to watch. The effects weren't terrible but every kill was just kind of generic or not brutal at all. Of the six killers I really only felt like two of them were worthwhile, the rest just kind of felt pointless. The cast was OK, unfortunately the guys I was looking forward to seeing the most (Englund and Howard) had very little screen time, although the little screen time they had was pretty solid. Everyone else does their parts well enough aside from a few people who tried a little hard to be funny (although I would blame the cheesy dialogue for that). I felt like the killers could have had a bit more personality. It seemed like they wanted The Stitched Face killer to be the stand out but she just wasn't an interesting character and really just ended up feeling like a watered down version of Harley Quinn. \"The Fun House Massacre\" isn't an awful movie, it does have points where it is fun and entertaining but with the story line and cast they had at their disposal I feel like this could have been a much better slasher movie. They were headed in the right direction with it but at some point they took a wrong turn and the movie definitely suffers from that. In the end it's just another cheesy slasher movie that has a few redeeming qualities but is far from being anything special.",
+         "Okay, so it's not a work of art. But you know what? That's fine because it's not trying to be. In a few words it's basically just \"Cheesy Gory Fun\". That's it. And on that level, it succeeds tremendously. And guess what? It's actually pretty damn funny. It's not trying to be a serious or even scary horror film. So get that thought out of your head. It's cheesy, low-budget horror with some pretty great effects work by Robert Kurtzman (Wishmaster, 1/3 of K.N.B. EFX Group) and a really strong ensemble cast, with some notable cult icons thrown in like Robert England, Clint Howard and Courtney Gains to name a few. I didn't know what to expect going in, but ultimately this surprised us with how fun, gory, cheesy, and funny it was. And it's also surprisingly well made for a small film.",
+         "Featuring legendary actors Robert Englund, Clint Howard, Jere Burns, and Courtney Gaines. FX Guru, Robert Kurtzman, is the producer of the special effects and if he's involved in any horror project, you know you're in for one hell of a ride. Cheerfully violent, funny, and brilliant. So much goodness of gore and bodies are everywhere. I felt really cozy and comfy while watching it. My favorite character is Dollface, played by Candice De Visser. She's just extremely great with her craziness and loveliness. Amazing job by the entire cast and crew. Salute to everyone for this horror extravaganza!!!",
+         "Escaping from jail, several serial killers take up hiding in plain sight at a haunted house designed after their original criminal sprees and decide to torment the guests trapped inside, forcing those still alive to wonder how to stop them in order to escape the carnival alive. This one here was quite the fun and enjoyable slasher. There's a lot of solid work here with this one really managing to go for quite the fun amount of time here with this one really generating it's best scenes here because it's focus is on the number of maniacs on the loose. Putting the number at this high is quite a strong feat which is heralded along by the fact that the main location is a carnival funhouse that's based around their actual crimes for the unsuspecting and totally disbelieving locals. That really makes for the film to go through a rather original feature in the first half of the kids going through the set-ups unaware they're watching the actual killers recreating their crimes on victims as this is all assumed to be just an act with prosthetics and the various encounters here become all the more fun later on where their bodies are added to the attractions for the next round of contestants to witness which really adds to the deranged and demented atmosphere here. Those attractions, from the taxidermist cutting up the bodies to the dentist drilling into people, the deranged clown ripping people to pieces, the cannibal cutting up and devouring them and the female joker running around maniacally slicing up bodies all makes for the absolutely crazy and frenetic experience that makes for quite a great running time throughout here. The strong sense of action carries nicely into the final half here with this one moving along into the general freak-off out of the people realizing the actions are real and scoring plenty of fun here with the whole idea of the carnival getting massacred in quick-shot kills by their encounters with the killers running loose as there's a lot of fun brawls mixed into the action for a wholly enjoyable sense of fun throughout here that's made all the better with the final's fun use of realistic prosthetics for the gore effects here which is half the fun of these scenes alone which is yet another fun part to this one. These here all make this one quite a lot of fun and manage to hold it up over it's one main flaw. The one big issue with the film is the fact that there's a somewhat uneven pace throughout here that drags this one out, which is felt in the first half as it takes way too long to finally decide to go to the carnival in the first place as there's not a whole lot of worthwhile work done here to make them interesting in going to the show. This makes the film take a while to get going, and it's quite fun once it does but that takes a while. The bumbling deputy also isn't funny and became almost detrimental here in that it started pointing towards how he graduated from the academy his stumbling around was that bad, and these scenes here really affect the film as a whole. Rated R: Graphic Violence, Graphic Language, Brief Nudity, a sex scene and drug use.",
+         "Don't come into this film expecting anything groundbreaking, or a movie with something to say. This is dumb slasher movie fun at its best, and it's actually well made little flick based around a pretty sick idea. The characters are mainly pretty blah, and very cliché, but they embrace that. There is one character who doesn't fit at all and really took away from the fun of the movie. Yea he was a comedy relief character but he failed at it miserably, with his dumb jokes and his lame attempts and physical comedy. You will be able to pick out this character immediately. There was also another pretty goofy character that turns out to be very enjoyable and he serves as a much better plucky comedy relief. The body count in this film is insane. The acting is sub-par but I expected nothing less. The ending was pretty tongue in cheek but I really liked that. This is a great film to watch with some friends and some beer. Just go in expecting brainless fun and you won't be disappointed.",
+         "Opening with a lady in cinema's most obvious wig describing the traffic she was in as 'murderous'; with zero subtlety, we know that this woman is an antagonist. We are then treated to a tour of the films other antagonists by Robert Englund, quite fitting because this scene nightmarishly bad.Foreshadowing the rest of the film, this scene has no suspense or dialogue of value. It is simply poorly executed exposition to introduce the rest of the films antagonists, set in a maximum security prison which is literally held together with duct tape (you can see it on the prison doors). As far as antagonists go, these are the weakest, most cliché slasher villains imaginable, given a backstory in the easiest way possible: spoken narration over a flashback. We have 'Animal the Cannibal' (yes, really) the less interesting cousin of Drayton Sawyer, 'Dr Suave' who's only definable attribute is that he's handsome, 'The Taxidermist' who's first line of dialogue made me physically cringe with embarrassment, 'Rocko the Clown', and pen-ultimately 'Mental Manny' the prophet. All of these backstories never come into play throughout the film, other than that characters trope in the funhouse. Although, they try to rope in 'Mental Manny's' backstory into the \"plot\", but this means nothing and he is shot in the head regardless. Wig woman then does the big reveal and we see she is, shockingly, another antagonist, as pulls another wig and full corseted clown costume out of thin air. After the title card is shown, we're introduced to the main protagonists of the film: two cops and a bunch of cannon fodder. All horror film clichés, of course. One thing that this film rams down your throat is its attempts at relatability, with all the cannon fodder making references to trends such as Vine, Hillary Clinton, and twitter. This is where the director tried to fit a message into the film about desensitization to violence. Examples of this are: the token black character filming the violence, everyone saying how 'real' the gore looks, and one extra seen walking around the funhouse, staring at his phone, unaware to everything around him. Just like the funhouse manager referencing 'Tweezer', the people making this film deliver this stale message in the least intelligent way possible, as it is so in your face. Poking fun at the younger generation all the way through the film is not a successful way of getting your message across. Cinematography in this film is monotonous, as the director overuses flat mid-shots and closeups. There are so many scenes in this film which we either don't get to see and want to see, or do see but don't want to. For example, we don't want to see the extensive sorting of the recycling scene leading to a false scare or the awkwardly shot toilet sex scene which seems to go forever (ironic because one of the films protagonists mock that it was 'quick'). We do want to see inside the funhouse, as it is the key setting of the film, when all we get is the protagonists running in and out of the funhouse, with camera shots having no respect for the audience, as I didn't know where the characters where half the time. Awkward cuts, boring shots, and quite frankly not enough of the funhouse being shown, cinematography was disorienting and stale. Weirdest of all, there seemed to be footage of non-actors at some Halloween event in real life put in throughout the film, filmed on a different camera, and with no diegetic sound in each of the shots, making for awkward jumps out of the film. Sound design in this film is what made me laugh the most (I guess it is listed as a comedy), because the choice of stock music and sound effects just completely removed me from any immersion I could have possibly held onto. Action music and rock played over every scene with a killer in, stock sound effects where overused (even a Wilhelm scream), and the script was clunky, with lines often making no sense or void of any relevance. As I mentioned before, there were even times in which no diegetic sound played at all, or music was cut off without any sound bridges between scenes. Lines would be awkwardly cut away from as soon as they were delivered; in one case the line was just cut off mid way! Unless racial stereotypes, sex jokes, 'that's what she said's' and puns are what you find funny, there was no comedy to this film. The funniest part of the film to me was the awkward rubbish sorting scene, because it was just so unnecessary. Gore was aplenty in this film, but none of it stood out or meant anything. I commend the film for using physical effects the majority of the time, but these effects were often poorly executed and came across as people wearing makeup in a funhouse. I wanted the gore to be a redeeming factor of the film, but it is in such high quantity that it does just come across as the whole thing has been set up by workers at a funhouse, giving it no impact on the audience. Maybe I truly have became desensitized... The ending of the film was a 'Silence of the Lambs'/'Friday the 13th' mishmash, with 'Rocko the Clown' rising from the grave after taking a shotgun shell point blank to the face, as well as the clown woman disguising as the cop lady, being taken away in an ambulance; I guess foreshadowed by her disguise in the exposition. I understand this ending is tongue in cheek, but I was happy with all of these characters being dead. Conclusively, this film is trash; and not B-Movie 'funny bad' trash either. Crowded with irrelevant plot, a slapdash script which hasn't been proof read, despicable characters who we all want dead, bottom of the barrel comedy and embarrassing sound design, this film takes the 'fun' out of 'funhouse'.",
+         "Six of the world's most notorious psychopaths escape from a local Asylum and proceed to unleash terror on the unsuspecting crowd of a Halloween Fun house. The themed mazes are inspired by their various reigns of terror, but the unsuspecting customers think that the all carnage is just part of the show..... The first twenty minutes of this film really entices the viewer into thinking that this will be something special. We have an iconic horror legend in the guise of Robert Englund, who's sole job is to introduce the killers in a Suicide Squad style, but without the elaborate music. As expected, once Englund has introduced the killers, he is no longer needed, the person whom he is showing the killers to, ends his screen time, and turns into a bargain basement Harley Quinn. The killers are interesting, but the main focus of the narrative is to concentrate on the gang of teens whom work in a diner who's only customer looks a lot like Stan Lee. Obviously this gang of teens love their pop culture, so we are submitted to lots of film references to keep the audience interested while the killers set up their 'fun house'. The problem is, the film doesn't focus on the most interesting part of the film, the killers, which could have made the film more of a 'House On haunted Hill (1999)' type exploitation flick, rather than your atypical teens in terror film. The teens are nothing more than your horror stereotypes, none of them have any likability about them, and as always, there is a good good cop, and the comic relief uneducated deputy who thinks he's something special. The scenes in the 'fun house' are quite good, and gore hounds will revel in the blood loss, but all the while, you can't help but will the killers to achieve their goal, and kill every annoying teen who goes into their house. So it's quite a good, if unoriginal concept, but if the focus of the narrative was primarily on the killers, rather than the annoying teens, this could have had cult written all over it. Shame...",
+         "If you like a lot of cheese on your horror sandwiches then take a bite out of this little gem. It has everything you want in a horror film: humor, your basic characters (jock, stoner, nerd, etc...)and lots and lots of blood. The sets & characters are colorful especially the classroom scene with the dead students. Clint Howard, as always, is hilarious, this time as a taxidermist who takes a liking to people. There is a sadistic, psychotic dentist and a hot deranged woman child all dolled up with mass daddy issues. There is a great twist in the end which hints at a sequel. Grab some popcorn and some beer and leave your brain outside."
+      ],
+      "genres": [
+         "Comedy",
+         "Horror"
+      ],
+      "productionCompanies": ["Petri Entertainment"],
+      "summaries": [
+         "For humanity's own good, in a high-security, top-secret facility for the criminally insane, five of the world's most hideous and deranged killers are locked up without trial. Although this may be true, rather unexpectedly, a wide array of lunatics ranging from cannibalistic gourmets to maniacal dentists, and from demented hobbyists to psychotic clowns from hell and insane pious sinners, will escape making their way to Macon County Funhouse for its grand opening night. Soon, with the attraction's crew conveniently replaced by the gang of psychos, the unsuspecting customers who paid for thrills will witness a hack-hack, chop-chop realistic show that goes all the way.",
+         "Six of the world's scariest psychopaths escape from a local Asylum and proceed to unleash terror on the unsuspecting crowd of a Halloween Funhouse, whose themed mazes are inspired by their various reigns of terror."
+      ],
+      "budget": 0
+   },
+   "movielensId": 160139,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2015-11-13",
+      "dvdReleaseDate": null,
+      "directors": ["Andy Palmer"],
+      "runtime": 90,
+      "movieId": 160139,
+      "title": "The Funhouse Massacre",
+      "mpaa": "",
+      "actors": [
+         "Jere Burns",
+         "Scottie Thompson",
+         "Matt Angel",
+         "Robert Englund",
+         "Clint Howard",
+         "Mars Crain",
+         "Sebastian Siegel",
+         "E.E. Bell",
+         "Candice De Visser",
+         "Courtney Gains",
+         "Chasty Ballesteros",
+         "Renee Dorian",
+         "Sterling Sulieman",
+         "Ben Begley",
+         "Erick Chavarria",
+         "Michael Eric Reid",
+         "Leigh Parker",
+         "Taryn Schubert",
+         "Johanna McGinley",
+         "Angel Kerns",
+         "Natasha Phillips"
+      ],
+      "imdbMovieId": "4483220",
+      "originalTitle": "The Funhouse Massacre",
+      "genres": [
+         "Comedy",
+         "Horror"
+      ],
+      "youtubeTrailerIds": ["A1CrsJgFqkU"],
+      "plotSummary": "Six of the worlds scariest psychopaths escape from a local Asylum and proceed to unleash terror on the unsuspecting crowd of a Halloween Funhouse whose themed mazes are inspired by their various reigns of terror.",
+      "tmdbMovieId": 363889,
+      "avgRating": 2.95833,
+      "releaseYear": "2015",
+      "numRatings": 12,
+      "posterPath": "/99ziAud7N3jzaDamVgY8qQn9SYW.jpg"
+   }
+}

@@ -1,0 +1,680 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [],
+      "imdb_id": "tt1986769",
+      "video": false,
+      "title": "Alone Yet Not Alone",
+      "recommendations": [],
+      "backdrop_path": "/v8W2qMMFXKARE8xe6udsFStScSx.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 6,
+               "character": "Barbara Leininger / Susquehanna",
+               "gender": 1,
+               "credit_id": "52fe4ee3c3a36847f82ae8c3",
+               "name": "Kelly Greyson",
+               "profile_path": "/qXGRzo2Es6BV4soRES6Q9UtiNou.jpg",
+               "id": 1278867,
+               "order": 0
+            },
+            {
+               "cast_id": 7,
+               "character": "Young Barbara Leininger / Susquehanna",
+               "gender": 0,
+               "credit_id": "52fe4ee3c3a36847f82ae8c7",
+               "name": "Natalie Racoosin",
+               "profile_path": "/lUiCqQZxQcbFgVj2XyEbNBzu8P9.jpg",
+               "id": 1198699,
+               "order": 1
+            },
+            {
+               "cast_id": 8,
+               "character": "Lydia Barrett",
+               "gender": 0,
+               "credit_id": "52fe4ee3c3a36847f82ae8cb",
+               "name": "Jenn Gotzon",
+               "profile_path": "/mdXrxCV9HykAGjXgu1Vukaoq6dV.jpg",
+               "id": 147879,
+               "order": 2
+            },
+            {
+               "cast_id": 9,
+               "character": "Fritz Hecklinger",
+               "gender": 2,
+               "credit_id": "52fe4ee3c3a36847f82ae8cf",
+               "name": "Clay Walker",
+               "profile_path": "/mFbPV3OCsarDOG9rDa6HfrN9amm.jpg",
+               "id": 1160153,
+               "order": 3
+            },
+            {
+               "cast_id": 10,
+               "character": "Galasko",
+               "gender": 0,
+               "credit_id": "52fe4ee3c3a36847f82ae8d3",
+               "name": "Ozzie Torres",
+               "profile_path": "/zUtGr43CpRDc6R9iK8O5Jtdv3pd.jpg",
+               "id": 1278868,
+               "order": 4
+            },
+            {
+               "cast_id": 11,
+               "character": "Hannawoa",
+               "gender": 0,
+               "credit_id": "52fe4ee3c3a36847f82ae8d7",
+               "name": "Tony Wade",
+               "profile_path": null,
+               "id": 1278869,
+               "order": 5
+            },
+            {
+               "cast_id": 12,
+               "character": "Young Owen",
+               "gender": 2,
+               "credit_id": "54de8e57c3a3685446001a07",
+               "name": "Ian Nelson",
+               "profile_path": "/sO5c4rLCKZiSHHWjsfikNwCck8g.jpg",
+               "id": 1348957,
+               "order": 6
+            },
+            {
+               "cast_id": 13,
+               "character": "Regina Leininger / Tskinnak",
+               "gender": 1,
+               "credit_id": "55aa06069251411e06005084",
+               "name": "Hayley Lovitt",
+               "profile_path": "/fbUxeHxXjFebcdpj4HqjvarZQbr.jpg",
+               "id": 1156046,
+               "order": 7
+            },
+            {
+               "cast_id": 59,
+               "character": "Mama Leininger",
+               "gender": 1,
+               "credit_id": "56bc6126c3a36860e4002681",
+               "name": "Joanie Stewart",
+               "profile_path": "/vkhUyrTBPui3390CxEXHLC0E87t.jpg",
+               "id": 568602,
+               "order": 8
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe4ee3c3a36847f82ae8a7",
+               "name": "Ray Bengston",
+               "profile_path": null,
+               "id": 60491,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4ee3c3a36847f82ae8ad",
+               "name": "George D. Escobar",
+               "profile_path": null,
+               "id": 1278864,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4ee3c3a36847f82ae8b3",
+               "name": "Tracy Leininger Craven",
+               "profile_path": null,
+               "id": 1278865,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4ee3c3a36847f82ae8b9",
+               "name": "James Richards",
+               "profile_path": null,
+               "id": 1278866,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4ee3c3a36847f82ae8bf",
+               "name": "George D. Escobar",
+               "profile_path": null,
+               "id": 1278864,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56bc5752c3a36860e40024f6",
+               "name": "Barbara Divisek",
+               "profile_path": null,
+               "id": 1575681,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56bc576592514144cf002790",
+               "name": "George D. Escobar",
+               "profile_path": null,
+               "id": 1278864,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56bc577992514174a5000ca5",
+               "name": "Cynthia Garcia Walker",
+               "profile_path": null,
+               "id": 1575683,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56bc578dc3a3683ea6001dda",
+               "name": "Michael Snyder",
+               "profile_path": null,
+               "id": 1219391,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56bc57c3c3a36860ec002587",
+               "name": "William Ross",
+               "profile_path": null,
+               "id": 11166,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56bc57d792514174a5000cba",
+               "name": "James Suttles",
+               "profile_path": null,
+               "id": 141189,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56bc57ecc3a36860e400250e",
+               "name": "M. Scott Smith",
+               "profile_path": null,
+               "id": 23926,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56bc57fbc3a36860d0002bcf",
+               "name": "Barbara Divisek",
+               "profile_path": null,
+               "id": 1575681,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56bc580b92514144cf0027b6",
+               "name": "Karen Divisek",
+               "profile_path": null,
+               "id": 1575690,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56bc581e92514174a5000cc1",
+               "name": "R. Mark Hughes",
+               "profile_path": null,
+               "id": 1070152,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56bc583592514144d70027d3",
+               "name": "Sarah Costello",
+               "profile_path": null,
+               "id": 1575691,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56bc5847c3a36860ce00269d",
+               "name": "Elvis Davis",
+               "profile_path": null,
+               "id": 1189762,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56bc5861c3a36860d60026b4",
+               "name": "Ann-Ruffin Minarik",
+               "profile_path": null,
+               "id": 1575693,
+               "department": "Art",
+               "job": "Art Department Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56bc58a9c3a36860d0002bf5",
+               "name": "CJ Legare",
+               "profile_path": null,
+               "id": 1575694,
+               "department": "Production",
+               "job": "Casting Associate"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56bc58d5c3a36860e400252f",
+               "name": "Christopher M. Searcey",
+               "profile_path": null,
+               "id": 1573297,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56bc5948c3a3683ea6001e28",
+               "name": "Joanie Diener",
+               "profile_path": null,
+               "id": 1550619,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56bc596f925141173f00080d",
+               "name": "Danette Vogel",
+               "profile_path": null,
+               "id": 1575695,
+               "department": "Costume & Make-Up",
+               "job": "Assistant Costume Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56bc59849251414c110013b2",
+               "name": "A.J. Roberts",
+               "profile_path": null,
+               "id": 1575696,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56bc59a4c3a36860ec0025d3",
+               "name": "Natalie Nye",
+               "profile_path": null,
+               "id": 1575697,
+               "department": "Costume & Make-Up",
+               "job": "Seamstress"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56bc59b79251414c110013c3",
+               "name": "Anne K. Osborne",
+               "profile_path": null,
+               "id": 1575698,
+               "department": "Costume & Make-Up",
+               "job": "Seamstress"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56bc59cf92514144e400245a",
+               "name": "Kate Rozar",
+               "profile_path": null,
+               "id": 1575699,
+               "department": "Costume & Make-Up",
+               "job": "Seamstress"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56bc59e4925141173f00081e",
+               "name": "Dana Joel Bogdanski",
+               "profile_path": null,
+               "id": 1543192,
+               "department": "Costume & Make-Up",
+               "job": "Set Costumer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56bc5a0392514144de0026a7",
+               "name": "Jess Johnson",
+               "profile_path": null,
+               "id": 1575700,
+               "department": "Costume & Make-Up",
+               "job": "Set Costumer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56bc5a7a92514144e000260c",
+               "name": "Greg Kraus",
+               "profile_path": null,
+               "id": 1575701,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56bc5aaa92514174a5000d22",
+               "name": "David Short",
+               "profile_path": null,
+               "id": 1485170,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56bc5aca925141173f000840",
+               "name": "Alejandro Mongiello",
+               "profile_path": null,
+               "id": 1575702,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56bc5b3a92514144d7002854",
+               "name": "Greg Hudgins",
+               "profile_path": null,
+               "id": 1527803,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56bc5b5c92514144e0002632",
+               "name": "Brian Merrick",
+               "profile_path": null,
+               "id": 1575703,
+               "department": "Visual Effects",
+               "job": "Special Effects Supervisor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56bc5b7392514174a5000d51",
+               "name": "Kassi Crews",
+               "profile_path": "/3PnH4v65JFubCI78FXFkCkb5Dco.jpg",
+               "id": 1338083,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56bc5bba92514174a5000d63",
+               "name": "Jesse Ehredt",
+               "profile_path": null,
+               "id": 1409889,
+               "department": "Crew",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56bc5bcec3a36860e40025a6",
+               "name": "Tim Limer",
+               "profile_path": null,
+               "id": 1396796,
+               "department": "Crew",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56bc5be8c3a36860e40025af",
+               "name": "Lara Dale",
+               "profile_path": null,
+               "id": 1396793,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56bc5c33c3a36860ec002636",
+               "name": "Russell Johnson",
+               "profile_path": null,
+               "id": 1575704,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56bc5c4792514144de002701",
+               "name": "Russell Johnson",
+               "profile_path": null,
+               "id": 1575704,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56bc5c80c3a36860e10024d8",
+               "name": "Russell Johnson",
+               "profile_path": null,
+               "id": 1575704,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56bc5c98c3a36860d9002771",
+               "name": "Lisa Baro",
+               "profile_path": null,
+               "id": 1439425,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56bc5cb2c3a36860ec002649",
+               "name": "Chris David",
+               "profile_path": null,
+               "id": 137125,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56bc5cd292514144e0002673",
+               "name": "Craig M. Taylor",
+               "profile_path": null,
+               "id": 1575705,
+               "department": "Art",
+               "job": "Construction Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56bc5ce9c3a36860ec002657",
+               "name": "Deborah Ball",
+               "profile_path": null,
+               "id": 1575706,
+               "department": "Costume & Make-Up",
+               "job": "Hair Department Head"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56bc5d0592514144d70028b5",
+               "name": "Jim Choate",
+               "profile_path": null,
+               "id": 1070153,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56bc5d19c3a36860ec002665",
+               "name": "Chris Varosky",
+               "profile_path": null,
+               "id": 1575707,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Department Head"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56bc5d3a92514144e40024eb",
+               "name": "Jeremiah Hornbaker",
+               "profile_path": null,
+               "id": 1575708,
+               "department": "Crew",
+               "job": "Property Master"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56bc5d5892514144cf0028a1",
+               "name": "Kassi Crews",
+               "profile_path": "/3PnH4v65JFubCI78FXFkCkb5Dco.jpg",
+               "id": 1338083,
+               "department": "Editing",
+               "job": "Digital Intermediate"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56bc5db39251414c11001473",
+               "name": "Mike Davis",
+               "profile_path": null,
+               "id": 1575709,
+               "department": "Editing",
+               "job": "Digital Intermediate"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56bc5dcbc3a36860e40025f2",
+               "name": "Steve La Ponsie",
+               "profile_path": null,
+               "id": 1575710,
+               "department": "Editing",
+               "job": "First Assistant Editor"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "History",
+         "id": 36
+      }],
+      "popularity": 2.452218,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 243794,
+      "vote_count": 5,
+      "budget": 7000000,
+      "overview": "ALONE YET NOT ALONE is based on an inspiring true story taken from a novel of the same name written by Tracy Leininger Craven and depicts a family at a critical juncture in America's history.  Fleeing religious persecution in Germany, the Leininger family seeks a new start in uncharted country - America. It is the mid-1700s and British and French forces are struggling for control over the abundant resources of this new territory.  Despite the escalating tension mounting around them, the Leiningers give thanks and praise for the sparkling streams and majestic forests around Penns Creek and above all, their freedom to worship. Carving out a homestead can be arduous work, but the Leiningers labor joyfully.  Then the unthinkable: In a terrifying raid, Delaware warriors kidnap the two young Leininger daughters and attempt to indoctrinate them into native culture. Through their ordeal they never lose hope and \"their faith becomes their freedom\".",
+      "similar": [],
+      "original_title": "Alone Yet Not Alone",
+      "runtime": 103,
+      "poster_path": "/jQ2AODlBrKj9B7hj5vAdc0EzFaE.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "Enthuse Entertainment",
+         "id": 41765,
+         "origin_country": ""
+      }],
+      "release_date": "2013-09-01",
+      "vote_average": 5.8,
+      "belongs_to_collection": null,
+      "tagline": "Their Faith Became Their Freedom",
+      "adult": false,
+      "homepage": "http://www.aloneyetnotalone.com/",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": [
+         "Ray Bengston",
+         "George D. Escobar"
+      ],
+      "runtime": 103,
+      "synopsis": null,
+      "writers": [
+         "Tracy Leininger Craven",
+         "George D. Escobar"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt1986769/",
+      "coverLink": "https://ia.media-imdb.com/images/M/MV5BMjMyNDk5NDk5MF5BMl5BanBnXkFtZTgwMjA2MDg1MzE@._V1_UY268_CR3,0,182,268_AL_.jpg",
+      "actors": [
+         "Kelly Greyson",
+         "Natalie Racoosin",
+         "Clay Walker"
+      ],
+      "reviews": [
+         "Disclosure: My production company produced an 18th century television series (\"Courage, New Hampshire\"), and while we're toiling in the same time period, this project (\"Alone, Yet Not Alone\") was out of our league on the budget front. \"Alone\" has some crowd scene production value (village/nautical/battle sequences) that have a truly \"big film\" look. I thought the stunt work in the battle scenes was more than credible. Some of the sets were stunning, and the cinematography was beautiful. Having said that, and trying to be as honest as I can about other 18th century projects (I liked \"Turn\", Hated \"Sons of Liberty\"), I think the script and the direction lacked any objective review. Faith films always seem burdened by the need to project a wholesomeness, and a cheerfulness in even mundane human exchanges that can put a strain on the audience. You can't even get your belongings off a ship, in these stories, or chase a dog through the woods without smiling like Howdy- Doody. Against the perils of carving out a wilderness farm, these appear to be the happiest German immigrants ever minted. Plant a seed - - smile broadly. Split some firewood -- make your sister giggle. Bake some bread -- look beatifically on the blessed land. (I know this is in reaction to dark, existential versions of history by conventional Hollywood, but still..) The savages: one of the reasons I have never attempted (yet) to include a Native American component in \"Courage\" is that it's just difficult to tell this story honestly.The actual Barbara Leininger account (the primary history upon which \"Alone, Yet Not Alone\" is based) includes journal accounts like this one: \"Three days later an Englishman was brought in, who had, likewise attempted to escape with Col. Armstrong, and burned alive in the same village. His torments, however, continued only about three hours, but his screams were frightful to listen to. It rained that day very hard, so that the Indians could not keep up the fire. Hence they began to discharge gunpowder at his body. At last, amidst his worst pains, when the poor man called for a drink of water, they brought him melted lead, and poured it down his throat.\" ..and this: \"Having been recaptured by the savages, and brought back to Kittanny, she was put to death in an unheard of way. First, they scalped her; next, they laid burning splinters of wood, here and there, upon her body; and then they cut off her ears and fingers, forcing them into her mouth so that she had to swallow them...\" (The Declaration of Independence doesn't use the term \"savages\" gratuitously, in other words.) Although \"Alone\" hints at some of this brutality, the overall effect feels a bit more like \"My summer vacation playing with Indian war paint.\" If you don't want to show the actual ears being cut off, you can do the Hitchcock thing and let us hear it, but you have to let us know that mortal peril is always there, or you cheapen the terror these women must have felt. Look, movie making is hard work. I've made all of these mistakes, and more. Onward and upward, folks. Trivia: despite the rumors of ending up on the cutting room floor, Doug Phillips actually does a fair amount of face time in this film.",
+         "Starting in 1775 we have a story of a German family who emigrated to America to avoid religious persecution. They buy their own land in an area that was previously the domain of the local Native Indian Tribe. The British are at war with the French \u2013 again \u2013 and both sides drag the local populace into the conflict and the local tribes also. This results in a previously allied tribe raiding the frontier homesteads and killing, burning and taking prisoners. This includes Barbara Leininger and her sister. What follows is what befalls them and their friends. Now I love a good frontier tale, the Native Americans are really done well and some of the locations are excellent \u2013 I think they used the same area as Michael Mann in 'The Last of the Mohicans' so very evocative. The acting ranges from good to am dram and that is a shame. Some of the characters are stereo typed to the point of incredulity \u2013 especially a couple of the English officers. Then there are the wigs which started of being funny and then became annoying. I have seen more realistic toupees on sale in a joke shop. Why ruin a film that had a fair amount of money spent on it with minor hic cups? If you like a frontier story with a bit of action and some great fancy dress then there may be a great film here for you, if you like true quality in your films then think twice.",
+         "Let me start out by saying, I am a Native Re en actor and have been in a few movies and several documentary's relating to the French and Indian War. And I am a Native American Little River Band Of Odawa Indians Tribal Member. The Person who put the native casting together to play the parts in the movie certainly did not do any research at all in regards to what did the woodland native people woman/men(period correct) look like as far appearance,their clothing, there hair, their beliefs, there traditions. The whole native outlook in this movie is so far fetched. It is in comparison to a Hollywood John Wayne shoot um up cowboys and Indians type native scenes. Here are a few things what I saw with the movie in regards to the native characters are so wrong. Woodland Natives Warriors east of the Mississippi for the most part only had a scalp lock in the back of the head which means the rest of the head was plucked of hair. Glasko is wearing a long porky pine roach which is western plains peoples tradition, not woodland. Squaw in the French language back then and today means Whore. Warrior men would never miss use there women, children and more so white captives or children. Remember they would replace there fallen warriors with captives, which meant males would become warriors and there hair plucked with only a scalp lock remaining. Women would become providers, not squaws for sure. There English clothes would be discarded and all would be dressed as natives. We never dyed the hair black of white captives. Food was always distributed throughout the tribe, so we never had to eat grubs believe me. Burning captives at the stake is very far fetched to say the least. Native people are far from being sadistic barbarians. And the Great Spirit is the person you call God or Jesus. We are spiritual people, God gave us our language and one of the words in our language is Gitchi Manido(Great Spirit) So one last comment in this review is, I was one of the Native Re enactors in the movie in which at the time of the filming of this movie myself and other Native Re enactors tried to tell the casting, movie director and ward robe personal that period correct clothing was not being used, and scene were just out of character for a French and Indian Type True Story Movie. Myself, Ron Pinson, Tony Wade, Dancing Elk were the only Natives who were dressed in period correct French and Indian War type clothing. At the end of the movie, they showed the casting in which I did not see one Native American name in the casting. And with that, I Have Nothing more to say.",
+         "This just wasn't a very good movie. I watched a screening copy (with a friend from an appropriate guild) on a whim, and being a bit of a history buff, some movies people find to slow I still like. This wasn't one of them. It claims to be based on a true story (which it may VERY LOOSELY be), but the historical inaccuracies were rampant in nearly every scene. I'm actually surprised it was shot in Williamsburg, VA, because they clearly didn't hire a knowledgeable technical adviser. It also portrayed the indigenous Americans with a pretty racist slant. Additionally, there were a number of quality issues with the film. There was inconsistent depth of field throughout the film, making it look like something shot on Best Buy camera with a stock zoom lens. The color was off from shot to shot. The audio didn't sound feature quality and seemed like they relied on the score to cover up audio imperfections. The acting was very poor (with the exception of Mama- Joanie Stewart was good). It was either no feeling or EVERY FEELING EVER ALL AT ONCE!!! The dialogue was poor and the sisters' bond to each other and god kind of felt like it was a given, with no motives or honesty, just blind faith because Daddy told them so. It's almost a jaded rip off of An American Tale, except without any of the adventure or feeling (or cute animated mice). I was able to make it all the way through, but was left feeling empty and bored, rather than inspired and uplifted. There may be an audience for it, but I'm not sure who. It's really just a poor presentation of lower budget filmmaking. 3/10",
+         "The first 30 minutes of this film is the only part worth watching. Once Kelly Grayson hits the screen, all believability is out the window. I could barely sit and watch the rest. The only tolerable actors were the extras. Miss Grayson's character somehow managed to maintain clean clothes and perfect teeth despite living in the woods with her native captors. The British General was so poorly acted as to be comical. The only redeeming quality of this film is the beautiful cinematography, and much of this is marred by poor color correction and editing. All in all, an extremely poor treatment of a very touching historical event. Don't waste your time.",
+         "First the good news. The sets and scenery are absolutely top notch. Much of it was shot outdoors in woodland areas, caves, waterfalls, etc. The exteriors and interiors of the cabins, fort etc. are quite realistic. It seems to be very authentic. The story was excellent. It was fascinating and based on real events involving real people. I found it interesting and compelling from start to finish. The music was great. Now for the not so good news. Unfortunately the acting was somewhat spotty. A few actors did a decent enough job however many, too many, appeared to be amateurs on their first job. The lead actress is, in my opinion, just way too beautiful.",
+         "I am giving it an excellent not on how much money was spent, not rating actors or story line, but that when I walked out I felt that it was an excellent experience, if you go in with high hopes well,,,if you go in to see a good movie that is what you will get, I still think about this movie months later and would see it again, it was a true story and doesn't have Hollywood's slant, I felt the acting was better then good, storyline was great but no in comparison to a 50-100 million dollar movie, no, its a medium budget with a lot of solid entertainment and true meaning that's inspiring,,,wish more movies were like this one, great job",
+         "This is one of the greatest movies of 2013. I recently had the pleasure of viewing this movie and I cannot tell you how thrilled I was with everything about this movie. The acting was superb, just the right nuance, no over acting or under acting. The script was wonderful and the story was enthralling. I am surprised that this movie only garnered one Academy Award nomination, it deserved so many more. Kelly Greyson should have been nominated for best actress, and Ray Bengston should have been nominated for best director. This movie is so much better, wholesome, and fulfilling that the usual trash that is shown in theatres now-a-days. Do yourself and your family a big favor and catch this movie when it comes to your local theatre.",
+         "I didn't know what to expect but found the film to be quite good, thought provoking, suspenseful and meaningful. Beautifully shot and quite intense many times throughout. Makes you appreciate the struggles involved by the colonists, the colony leaders, the British, the militia, the Native Americans and how all that affected families (one in particular) and individuals (a young girl in particular). Loyalty, friendship, betrayal, perseverance, faith, sacrifice, sadness and joy can all be found in this film as this story unfolds. Unlike films set in a mythical future, like Divergent for example, this one was shot in a realistic style as if the people were real and living in the real world, our world in the historical past. I soon found myself caught up in their various struggles and ironies and felt like I was with them there in the past. These people could easily have been your or my ancestors and indeed, our ancestors probably experienced lives very much like this whatever our heritage. You WILL feel when you see this film so I hope you don't mind feelings. Embrace the characters and go through the journey with them no matter what they must go through. You'll not be alone.",
+         "I was on the edge of my seat throughout the movie. From the very beginning, there was excitement and suspense. I went in as a normal viewer with not very much background about the storyline or even the general history of the French-Indian war. I learned a lot about history and had a much greater appreciation for events that occurred in America during the 18th century. There was something for everyone - war scenes, humor, suspense, and even romance. I loved it and highly recommend it to mature viewers (13 and over). The scenery was beautiful, the cinematography was excellent, the soundtrack enhanced the mood and story perfectly, and the actors were believable and inspiring. The only reason I did not give it a perfect 10 was because I thought there was a little too much fighting. My advice is to watch it without knowing the full plot so that you will be intrigued in the suspense of what will happen throughout the movie.",
+         "I watched this film solely for the reason that it was nominated for an academy award and I had never heard of it. What this movie turned out to be was a racist ultra conservative fever dream of this time period only the acting was on par with a middle school play with about one day of preparation. I later learned that the reason that it was nominated was due to corruption in the voting process but I only hope to warn people that started with the same idea that I had, do not watch this movie it's not even laughably bad it's just painful. Also the original song isn't even that good compared to what it beat out, it's just a hymn",
+         "This is, perhaps, the finest cinematic achievement in modern history. The acting is on par with legendary performances like Clark Gable and Vivian Leigh in \"Gone with the Wind.\" The cinematography is simply breathtaking. Ansel Adams could not have produced more visually arresting imagery. Bruce Broughton's exhilarating score is his finest work since his days as a studio composer for the original \"Hawaii Five-O.\" The historical accuracy and gripping drama will leave you breathless for more and more sequels. I simply cannot recommend this movie enough, or at all. It deserves to play in every American movie house around the clock for the next five years.",
+         "Good plot but that's about it...acting is horrid !",
+         "I really wanted to like this movie. I really did. The premise is extremely interesting and the fact that it's based on a true story made it even more of a harrowing tale. My husband and I stumbled upon this movie while channel surfing overseas (go figure!). We had never even heard of this movie, but decided to give it a chance since it was an American-made film. While all of the actors are extremely attractive, the majority of them cannot act. Additionally, the portrayal of the natives is poor at best and racist at worst. I don't think the costume/design team did any research into what the natives in that particular area actually wore. When the main character, Barbara, (played by Kelly Greyson) is kidnapped and shown years later living among the natives, she's wearing a jean jacket and has a feather in her hair. Can you get any more generic?! Not to mention, all of the captives are forced to dye their blonde hair black? Really? It seems unlikely that this act actually took place back then. Additionally, the actors who portray the natives are speaking in somewhat broken English with perfect American accents. It's comical at times and annoying during other parts of the movie. I wish they could have effectively incorporated the natives' language rather than speaking in English. SPOILER ALERT AHEAD: The native who is in love with Barbara, named Galasko, is axed down by his rage-prone brother quite randomly. I understand that the brother has anger issues throughout the movie, but the plot fails to set up an arc of tension between himself and his brother effectively, or even develop the characters enough to warrant this random act of violence. In fact, this is a problem throughout the whole movie. The characterization and plot development are totally lacking. For example, when Galasko expresses his desire to marry Barbara, she is quite content. Literally one scene later, she realizes she cannot marry him because of her Christian faith (and the fact that her father's scalp hangs above Galasko's tent/home). You'd think that the Stockholm syndrome arc would be played out a little longer than one scene, but it's not. Another thing that bothered me, which bothers me about most Christian films, is how forcefully the topic of Jesus is introduced. I am a Christian and agree that we need more religious films out there. However, if the films are poorly made, then what's the point in making them? For example, in this film, Barbara has a discussion with Galasko about Jesus. The scene is so forced and cheesy, it's quite painful. Overall, this could have been a harrowing story about faith, love of family, and never giving up hope. Instead, it's a movie you watch to have some laughs.",
+         "Hollywood, and a lot of the reviewers on this site, hate this movie. It reflects a conservative version of history, showing how faith affected American settlers during the 1750-ish time period. The Indians do NOT do the horrible things discussed in one \"Indian Expert\" review! There are no sexual situations, and it is true to history. After reading some of the low-rated reviews, I wrote down a few names and dates mentioned in the movie, then looked them up. There WAS a Fort DuQuesne in PA, and the English General Edward Braddock was killed attacking that French Fort in 1755. (Battle of the Monongahela). Regina Leininger IS buried in Stouchsburg, PA and has a marker... \"Regina the Indian Captive\", placed by The Daughters of the American Revolution (DAR). The Delaware Indians DID kidnap children of murdered settlers and used them as slaves. The Indians sold scalps to the French for the bounty they offered. Here's what is is.... the Hollywood elite could not believe the academy nominated music from this conservative movie for an award. They quickly had that nomination withdrawn to prevent this film from getting positive exposure. Even reviewers on this site who have worked in the film industry cannot understand why anybody would say good things about this movie. I enjoyed this film. The basic pretext is based upon an easily verifiable true story, and the writers did a very commendable job filling in unknown personal details. Note that one reviewer complained that the main female character was TOO good-looking for the role. Give me a break! \"Alone Yet Never Alone\" should be in every conservative's film library.",
+         "A worthy effort for a low-budget movie from a Christian production company. It's a bit uneven at times in terms of dialogue and performances. It is visually pleasing, and held our interest. My wife loved it. It has something of the flavor of Last of the Mohicans, but not as professionally executed. The latter portion seems a bit anti-climactic until the very end, which is moving. As something of a history buff, I've read quite a bit about this fascinating period in colonial history. Things are portrayed a little simplistically, of course, as almost all movies do. While I cannot speak to the details of Native American culture portrayed in the film, it certainly softens the barbarity of these tribes against their enemies, and especially captives. Burning people is about as cruel as they get in the film, but reality could be much, much worse than that. Torture was something of a form of entertainment then. The film portrays the Delaware as real people, however. Some more inclined to brutality than others. Their chief is presented as a wise leader. Almost all the English government officials are portrayed as fools, especially in scenes with the founders (Col. Washington and Dr.Franklin make brief appearances). Not a great film, but for what it is and what it cost, it succeeds rather well. Families should enjoy it.",
+         "A true story about a girl's struggle for survival when captured by Indians in Revolutionary War times. This is a fantastic film that encourages people of all backgrounds that, through times of hardships, with faith, it can always work out. The acting and cinematography is amazing for any movie, not just an independent. It has great costumes and scenery that make you feel as if you were in this time and place. You can tell it was done with professionalism and pride. Definitely a movie for the whole family to watch and be inspired by. It not only has an amazingly well told story, but great quality; which can be a rarity in Christian independent film."
+      ],
+      "genres": [
+         "Action",
+         "Drama",
+         "History",
+         "Romance",
+         "War"
+      ],
+      "productionCompanies": ["Enthuse Entertainment"],
+      "summaries": ["The year is 1755, and the English colonies are being ravaged by the atrocities of war. Opposing European powers have clashed over the fertile Ohio valley, and entire families are devastated by the ensuing violence. Hostile native tribes are raiding the vulnerable frontier farms, and two young sisters are among those taken captive. While hoping for rescue and return to their home, they are comforted with the words of a family hymn: Alone Yet Not Alone. But when the sisters are suddenly and cruelly separated, their tender faith is brought to a stretching point. Forcibly immersed into a primitive foreign culture, the older sister, Barbara, clings to her beliefs. Yet now a deeper fate threatens, and she makes a difficult decision: to risk her life in an attempt to escape. Pursued by a relentless and cunning warrior, Barbara and her three fellow captives must cross over two hundred miles of raw wilderness in their effort to reach friendly territory. Will their courage and trust in God be enough to see them through? And if they do succeed, will they find their family? Will Barbara ever see her sister again? Alone Yet Not Alone depicts the riveting true story of a family at a critical juncture in our nation's history."],
+      "budget": 11000000
+   },
+   "movielensId": 151685,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2013-09-01",
+      "dvdReleaseDate": null,
+      "directors": [
+         "Ray Bengston",
+         "George D. Escobar"
+      ],
+      "runtime": 103,
+      "movieId": 151685,
+      "title": "Alone Yet Not Alone",
+      "mpaa": "",
+      "actors": [
+         "Kelly Greyson",
+         "Natalie Racoosin",
+         "Jenn Gotzon",
+         "Clay Walker",
+         "Ozzie Torres",
+         "Tony Wade",
+         "Ian Nelson",
+         "Hayley Lovitt",
+         "Joanie Stewart"
+      ],
+      "imdbMovieId": "1986769",
+      "originalTitle": "Alone Yet Not Alone",
+      "genres": ["History"],
+      "youtubeTrailerIds": ["T1h3w7TQ99I"],
+      "plotSummary": "ALONE YET NOT ALONE is based on an inspiring true story taken from a novel of the same name written by Tracy Leininger Craven and depicts a family at a critical juncture in America's history.  Fleeing religious persecution in Germany, the Leininger family seeks a new start in uncharted country - America. It is the mid-1700s and British and French forces are struggling for control over the abundant resources of this new territory.  Despite the escalating tension mounting around them, the Leiningers give thanks and praise for the sparkling streams and majestic forests around Penns Creek and above all, their freedom to worship. Carving out a homestead can be arduous work, but the Leiningers labor joyfully.  Then the unthinkable: In a terrifying raid, Delaware warriors kidnap the two young Leininger daughters and attempt to indoctrinate them into native culture. Through their ordeal they never lose hope and \"their faith becomes their freedom\".",
+      "tmdbMovieId": 243794,
+      "avgRating": 2.83333,
+      "releaseYear": "2013",
+      "numRatings": 3,
+      "posterPath": "/jQ2AODlBrKj9B7hj5vAdc0EzFaE.jpg"
+   }
+}

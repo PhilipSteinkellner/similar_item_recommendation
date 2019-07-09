@@ -1,0 +1,791 @@
+{
+   "tmdb": {
+      "original_language": "sr",
+      "keywords": [
+         {
+            "name": "mountain",
+            "id": 1262
+         },
+         {
+            "name": "lake",
+            "id": 1889
+         }
+      ],
+      "imdb_id": "tt2800340",
+      "video": false,
+      "title": "On the Milky Road",
+      "recommendations": [],
+      "backdrop_path": "/2NUrgWuH5FTdK0qSm9FRoruToxC.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 6,
+               "character": "Nevesta",
+               "gender": 1,
+               "credit_id": "54ab04b292514155f2002366",
+               "name": "Monica Bellucci",
+               "profile_path": "/nkrIGojQy6FNn9s5cfpiUAmLeNz.jpg",
+               "id": 28782,
+               "order": 1
+            },
+            {
+               "cast_id": 7,
+               "character": "Kosta",
+               "gender": 2,
+               "credit_id": "54ab04bcc3a3680c21008107",
+               "name": "Emir Kusturica",
+               "profile_path": "/qjpI8i30Kjv9bWphOdWhVW0ldAI.jpg",
+               "id": 15254,
+               "order": 2
+            },
+            {
+               "cast_id": 8,
+               "character": "",
+               "gender": 2,
+               "credit_id": "54ab04c3c3a3680c30007db9",
+               "name": "Sergej Trifunović",
+               "profile_path": "/4AR7yKBsAPgXLA5GmirVY4fzxoE.jpg",
+               "id": 66027,
+               "order": 3
+            },
+            {
+               "cast_id": 9,
+               "character": "Zaga",
+               "gender": 2,
+               "credit_id": "54ab04ca9251415646002427",
+               "name": "Miki Manojlović",
+               "profile_path": "/mIQ7f8wQ18AAGkrR7qMIsurosDM.jpg",
+               "id": 48791,
+               "order": 4
+            },
+            {
+               "cast_id": 10,
+               "character": "Matchmaker",
+               "gender": 2,
+               "credit_id": "54ab04d49251417e0600472c",
+               "name": "Bajram Severdzhan",
+               "profile_path": null,
+               "id": 15264,
+               "order": 5
+            },
+            {
+               "cast_id": 11,
+               "character": "Milena",
+               "gender": 0,
+               "credit_id": "54ab04e0c3a3680c21008111",
+               "name": "Sloboda Mićalović",
+               "profile_path": "/oCO1XfrN0Gtsf5HfJcgH6recwtP.jpg",
+               "id": 228803,
+               "order": 6
+            },
+            {
+               "cast_id": 12,
+               "character": "",
+               "gender": 2,
+               "credit_id": "54ab04e8c3a3684091001375",
+               "name": "Davor Janjić",
+               "profile_path": "/4opzbmS0H2e4DzEI3AEidyYXl7I.jpg",
+               "id": 77608,
+               "order": 7
+            },
+            {
+               "cast_id": 13,
+               "character": "Priest-Cum-Cook",
+               "gender": 2,
+               "credit_id": "54ab04efc3a368241e001c56",
+               "name": "Petar Mirčevski",
+               "profile_path": null,
+               "id": 936762,
+               "order": 8
+            },
+            {
+               "cast_id": 14,
+               "character": "",
+               "gender": 0,
+               "credit_id": "54ab04f79251414d670074e8",
+               "name": "Ratka Radmanovic",
+               "profile_path": null,
+               "id": 550007,
+               "order": 9
+            },
+            {
+               "cast_id": 15,
+               "character": "Luna",
+               "gender": 0,
+               "credit_id": "57b75aa1925141262b00142f",
+               "name": "Maria Darkina",
+               "profile_path": null,
+               "id": 1668083,
+               "order": 10
+            },
+            {
+               "cast_id": 18,
+               "character": "Soldat",
+               "gender": 0,
+               "credit_id": "57b75aa1c3a368220f001354",
+               "name": "Branislav Fistrić",
+               "profile_path": null,
+               "id": 1424687,
+               "order": 13
+            },
+            {
+               "cast_id": 19,
+               "character": "",
+               "gender": 0,
+               "credit_id": "57b75aa2925141267c0013c0",
+               "name": "Darko Kurtovic",
+               "profile_path": null,
+               "id": 1668085,
+               "order": 14
+            },
+            {
+               "cast_id": 20,
+               "character": "dicker Mann",
+               "gender": 0,
+               "credit_id": "59d151ddc3a36878c9027c70",
+               "name": "Aleksandar 'Saša' Sarić",
+               "profile_path": null,
+               "id": 1898231,
+               "order": 15
+            },
+            {
+               "cast_id": 21,
+               "character": "Shepherd",
+               "gender": 0,
+               "credit_id": "59d15200925141145202993e",
+               "name": "Novak Bilbija",
+               "profile_path": null,
+               "id": 1473602,
+               "order": 16
+            },
+            {
+               "cast_id": 22,
+               "character": "Vito",
+               "gender": 0,
+               "credit_id": "59d1521c92514114330293c6",
+               "name": "Vitomir Jefić",
+               "profile_path": null,
+               "id": 1898232,
+               "order": 17
+            },
+            {
+               "cast_id": 23,
+               "character": "alte Frau",
+               "gender": 0,
+               "credit_id": "59d1522ec3a36879290285da",
+               "name": "Milojka Andrić",
+               "profile_path": null,
+               "id": 1898233,
+               "order": 18
+            },
+            {
+               "cast_id": 24,
+               "character": "Radio Operator",
+               "gender": 0,
+               "credit_id": "59d15238925141468f01f0af",
+               "name": "Ninoslav Ćulum",
+               "profile_path": null,
+               "id": 1898234,
+               "order": 19
+            },
+            {
+               "cast_id": 25,
+               "character": "Mićo",
+               "gender": 0,
+               "credit_id": "59d15243c3a3687916026f2c",
+               "name": "Milorad Ukropina",
+               "profile_path": null,
+               "id": 1898235,
+               "order": 20
+            },
+            {
+               "cast_id": 26,
+               "character": "Chief Assistant 2",
+               "gender": 0,
+               "credit_id": "59d1524fc3a3687916026f43",
+               "name": "Stevan Ušćumlić",
+               "profile_path": null,
+               "id": 1898236,
+               "order": 21
+            },
+            {
+               "cast_id": 27,
+               "character": "Edo",
+               "gender": 0,
+               "credit_id": "59d1526e92514113eb0282f8",
+               "name": "Elvedin Musanović",
+               "profile_path": null,
+               "id": 1898237,
+               "order": 22
+            },
+            {
+               "cast_id": 28,
+               "character": "Hubschraubercopilot",
+               "gender": 0,
+               "credit_id": "59d1527792514113ef02969f",
+               "name": "Zoran Cvijanović",
+               "profile_path": "/2vsG11kQ6cq9RgSzWE7MI9m7orQ.jpg",
+               "id": 110943,
+               "order": 23
+            },
+            {
+               "cast_id": 29,
+               "character": "Hubschrauberpilot",
+               "gender": 0,
+               "credit_id": "59d15285c3a368558e0208f9",
+               "name": "Milan Nešković",
+               "profile_path": null,
+               "id": 1898238,
+               "order": 24
+            },
+            {
+               "cast_id": 30,
+               "character": "Doktor",
+               "gender": 0,
+               "credit_id": "59d1528f92514114480286c5",
+               "name": "Milorad Supić",
+               "profile_path": null,
+               "id": 1898239,
+               "order": 25
+            },
+            {
+               "cast_id": 31,
+               "character": "Taylor",
+               "gender": 0,
+               "credit_id": "59d152a092514113ef0296e9",
+               "name": "Khachatur Alamzian",
+               "profile_path": null,
+               "id": 1898240,
+               "order": 26
+            },
+            {
+               "cast_id": 32,
+               "character": "Old Woman from Village",
+               "gender": 0,
+               "credit_id": "59d152acc3a36878d70267dc",
+               "name": "Milja Šupljeglav",
+               "profile_path": null,
+               "id": 1898241,
+               "order": 27
+            },
+            {
+               "cast_id": 33,
+               "character": "Band",
+               "gender": 0,
+               "credit_id": "59d152b492514113ef0296fd",
+               "name": "Stribor Kusturica",
+               "profile_path": "/9Xh8wR6CEhDPPKtaUjdNkKIVoBP.jpg",
+               "id": 54183,
+               "order": 28
+            },
+            {
+               "cast_id": 34,
+               "character": "Bookie",
+               "gender": 0,
+               "credit_id": "59d152bf925141468f01f174",
+               "name": "Rade Bošković",
+               "profile_path": null,
+               "id": 1898242,
+               "order": 29
+            },
+            {
+               "cast_id": 35,
+               "character": "",
+               "gender": 0,
+               "credit_id": "59d152dcc3a368786c02757b",
+               "name": "Darko Kurtović",
+               "profile_path": null,
+               "id": 1898243,
+               "order": 30
+            },
+            {
+               "cast_id": 36,
+               "character": "",
+               "gender": 0,
+               "credit_id": "59d152e4c3a36878d7026828",
+               "name": "Ratka Radmanović",
+               "profile_path": null,
+               "id": 1898244,
+               "order": 31
+            },
+            {
+               "cast_id": 37,
+               "character": "Man from Timber",
+               "gender": 0,
+               "credit_id": "59d152f1925141468f01f1d7",
+               "name": "Miroslav Zubac",
+               "profile_path": null,
+               "id": 1898245,
+               "order": 32
+            },
+            {
+               "cast_id": 38,
+               "character": "Mädchen vom Refugee Camp",
+               "gender": 0,
+               "credit_id": "59d152fdc3a3687929028719",
+               "name": "Anastasija Vujović",
+               "profile_path": null,
+               "id": 1898246,
+               "order": 33
+            },
+            {
+               "cast_id": 39,
+               "character": "Barmann",
+               "gender": 0,
+               "credit_id": "59d1530dc3a368786c0275cb",
+               "name": "Milorad 'Pajdo' Sarić",
+               "profile_path": null,
+               "id": 1898247,
+               "order": 34
+            },
+            {
+               "cast_id": 40,
+               "character": "lebhafte Frau",
+               "gender": 0,
+               "credit_id": "59d15318c3a36878ec029630",
+               "name": "Zora Stijačić",
+               "profile_path": null,
+               "id": 1898248,
+               "order": 35
+            },
+            {
+               "cast_id": 41,
+               "character": "Soldat 1",
+               "gender": 0,
+               "credit_id": "59d1533fc3a36878ec029686",
+               "name": "Branislav Fistrić",
+               "profile_path": null,
+               "id": 1424687,
+               "order": 36
+            },
+            {
+               "cast_id": 42,
+               "character": "Soldat 2",
+               "gender": 0,
+               "credit_id": "59d153489251411433029561",
+               "name": "Tomislav Sokić",
+               "profile_path": null,
+               "id": 1898249,
+               "order": 37
+            },
+            {
+               "cast_id": 43,
+               "character": "Soldat 3",
+               "gender": 0,
+               "credit_id": "59d15351925141142f029651",
+               "name": "Marko Ukropina",
+               "profile_path": null,
+               "id": 1898250,
+               "order": 38
+            },
+            {
+               "cast_id": 44,
+               "character": "Krankenschwester 1",
+               "gender": 0,
+               "credit_id": "59d15361925141142f02966b",
+               "name": "Rajka Milinković",
+               "profile_path": null,
+               "id": 1898251,
+               "order": 39
+            },
+            {
+               "cast_id": 45,
+               "character": "Krankenschwester 2",
+               "gender": 0,
+               "credit_id": "59d1536b9251411448028831",
+               "name": "Novka Miletić",
+               "profile_path": null,
+               "id": 1898252,
+               "order": 40
+            },
+            {
+               "cast_id": 46,
+               "character": "kroatischer Soldat 1",
+               "gender": 0,
+               "credit_id": "59d1537bc3a36878d7026915",
+               "name": "Krešimir Bebek",
+               "profile_path": null,
+               "id": 1898253,
+               "order": 41
+            },
+            {
+               "cast_id": 47,
+               "character": "kroatischer Soldat 2",
+               "gender": 0,
+               "credit_id": "59d15382c3a368558e020ac9",
+               "name": "Rudolf Bebek",
+               "profile_path": null,
+               "id": 1898254,
+               "order": 42
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "54a1db8b9251414e2800898b",
+               "name": "Paula Vaccaro",
+               "profile_path": null,
+               "id": 1405913,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54ab0456c3a3680c30007d9a",
+               "name": "Emir Kusturica",
+               "profile_path": "/qjpI8i30Kjv9bWphOdWhVW0ldAI.jpg",
+               "id": 15254,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54ab0468c3a368077b00543f",
+               "name": "Emir Kusturica",
+               "profile_path": "/qjpI8i30Kjv9bWphOdWhVW0ldAI.jpg",
+               "id": 15254,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59fa4af1c3a3681a1b000aa7",
+               "name": "Lucas Akoskin",
+               "profile_path": null,
+               "id": 1354931,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59fa4b0dc3a3681adf0009c5",
+               "name": "Alex Garcia",
+               "profile_path": null,
+               "id": 202003,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59fa4b1fc3a3681aa5000b11",
+               "name": "Guillermo Arriaga",
+               "profile_path": "/cHRqeoMuhLAqJiohoL9MYBB0mPK.jpg",
+               "id": 273,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59fa4b5592514113dd000a59",
+               "name": "Stribor Kusturica",
+               "profile_path": "/9Xh8wR6CEhDPPKtaUjdNkKIVoBP.jpg",
+               "id": 54183,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59fa4b69c3a3681a3f000a34",
+               "name": "Goran Volarević",
+               "profile_path": null,
+               "id": 1601701,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59fa4b8092514113bf000ab2",
+               "name": "Martin Šec",
+               "profile_path": null,
+               "id": 1348662,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59fa4b8ac3a3681a64000afd",
+               "name": "Svetolik Zajc",
+               "profile_path": null,
+               "id": 15261,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59fa4b9a92514113bf000ace",
+               "name": "Goran Joksimović",
+               "profile_path": null,
+               "id": 1601766,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59fa4ba4c3a3681acd000b5a",
+               "name": "Nevena Mijušković",
+               "profile_path": null,
+               "id": 1108836,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59fa4baf92514113e7000b44",
+               "name": "Kristina Bravo Jankov",
+               "profile_path": null,
+               "id": 1915902,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59fa4bbbc3a3681adf000a68",
+               "name": "Nebojša Lipanović",
+               "profile_path": null,
+               "id": 15263,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59fa4bccc3a3681a64000b37",
+               "name": "Milos Drndarevic",
+               "profile_path": null,
+               "id": 1915903,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59fa4bd8c3a3681acd000b96",
+               "name": "Novica Jankov",
+               "profile_path": null,
+               "id": 1080603,
+               "department": "Sound",
+               "job": "Sound Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59fa4be292514113a6000b03",
+               "name": "Slobodan Mihajlovic",
+               "profile_path": null,
+               "id": 1915904,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59fa4bf1925141138b000ba9",
+               "name": "Bruno Tarrière",
+               "profile_path": null,
+               "id": 10054,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5aa42f52925141277e010def",
+               "name": "Anne Le Campion",
+               "profile_path": null,
+               "id": 1897768,
+               "department": "Sound",
+               "job": "Sound Recordist"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         }
+      ],
+      "popularity": 3.592121,
+      "production_countries": [
+         {
+            "iso_3166_1": "RS",
+            "name": "Serbia"
+         },
+         {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+         },
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         }
+      ],
+      "id": 255160,
+      "vote_count": 35,
+      "budget": 0,
+      "overview": "A man, shaken by fate after his wife's death, chooses to be a monk.",
+      "similar": [
+         253412,
+         290512,
+         281957,
+         44115,
+         9350,
+         15121,
+         5925,
+         11046,
+         35,
+         275,
+         273248,
+         581,
+         9836,
+         553,
+         395834,
+         978,
+         16436,
+         372343,
+         9654,
+         120
+      ],
+      "original_title": "Na mlečnom putu",
+      "runtime": 125,
+      "poster_path": "/oe9gwRBrLEbKIofWrCpenR0pUmB.jpg",
+      "spoken_languages": [{
+         "name": "Srpski",
+         "iso_639_1": "sr"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "BN Films",
+            "id": 30531,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "pinball london",
+            "id": 43092,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2016-02-03",
+      "vote_average": 6.8,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Serbia",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Emir Kusturica"],
+      "runtime": 125,
+      "synopsis": null,
+      "writers": ["Emir Kusturica"],
+      "originalLanguage": "Serbian",
+      "imdbLink": "http://www.imdb.com/title/tt2800340/",
+      "coverLink": null,
+      "actors": [
+         "Emir Kusturica",
+         "Monica Bellucci",
+         "Sloboda Micalovic"
+      ],
+      "reviews": [
+         "Fans of Kusturica will not only recognize all the trademarks - the general hilarious feel, the music, the rhythm, the fast transitions from ugly to beautiful, from comic to tragic, from realism to surrealism - but will probably also enjoy them. To a degree. Because this film suffers precisely from that: we have seen it all before. Despairingly, no signs that Kusturica is exploring new grounds. Worse, it doesn't seem he is interested in exploring new grounds. Worst, it seems he doesn't care about offering anything new. On the contrary, this film is a kind of regression: the basic story is not interesting at best and sloppy at worst, the characters have no depth, and the machismo is as frustrating as ever. Don't expect subtle messages here, but do expect the bravado of another carnival. Having said all this, as the saying goes, the subversion of the cultural distinction between human and animals is pretty good.",
+         "This is confident, assured and exhilarating cinema, and comes highly recommended.The first five minutes are completely overwhelming, and you wonder how much more of this frenetic pace will be tolerable; it's questionable whether this gives way to something calmer or you just tune in to it all, but the first half of the film is a dizzying, intoxicating whirlwind that demonstrates just how accomplished Kusturica is as a director (he's not too shabby in front of the camera, either).This is cinematic anarchy in all its folkloric glory. The plot gets a bit over-tangled but there is nothing too over-the-top for Kusturica especially when trying to resolve a difficult situation, not even flying! Thin,meandering, and overlong, but what heart and imagery!",
+         "This film is basically Kusturica's excuse to shoot romantic scenes with Monica Bellucci. Plot is non-existent, some acting is below terrible, especially Sloboda Micalovic, who couldn't be bothered to learn how to properly speak a Bosnian dialect. Animation is cheap, there is no character development, everything revolves around how great, strong, yet fragile main character is. The only good thing I have to say about this film is photography, which is really outstanding and deserves a reward. In conclusion, I'm baffled that such a Tommy Wisseauesqe pile of self-glorified garbage ever made it to a single movie festival.",
+         "One point for Monica Bellucci, one point for Kusturica, because he did make good movies (20 years ago) and one final point for the breathtaking scenery of Bosnia and Hercegovina, because it is truly a beautiful country, that I love very much. Else the movie is lost in over-accented symbolism, meandering but pointless search for goodness in the middle of the Bosnian war, and story that is so banal, that an evening cartoon for kids has a stronger plot.",
+         "I watched this movie at the Vue Cinema as part of the London Film Festival 2016. A delirious \"magical realism\" that we have come to expect and love from an Emir Kusturica movie. He plays a Serbian milk man in love with a Serbian-Italian beauty played by Monica Bellucci. We have a vicious clock, snakes that drink milk and wrap around people as a means of delaying them, female gymnastics out of this world and sheep that explode violently - not forgetting a literal blood bath. The plot gets a bit over-tangled but there is nothing too over-the- top for Kusturica especially when trying to resolve a difficult situation, not even flying! The backdrop of horrible warfare is almost matter-of-fact to the excessively romantic story that really matters here This is cinematic anarchy in all its folkloric glory but it works and its highly entertainin",
+         "I saw several of Kusturica's past movies, and loved their surrealism, their being funny and dramatic at the same time. In this movie, these characteristics have become manneristic and decorative - they don't particularly add to the plot or ambiance, and almost get in the way at times. The two main characters are stiff and flat, and don't suscitate any empathy. At a certain point during the movie you start yawning and wishing they die soon. Very bad acting on the part of Bellucci, and Kusturica is even worse - please send him back behind the camera and tell him not to move from there. The rest of the cast was great, on the contrary.",
+         "Greatest film. Unrecognized yet. Emir performed two outstanding goals in one game - made his first goal by \"Maradona\" documentary - that was his \"hand goal\". And his second goal is this film - that is \"best ever\" goal. Remember that epic 2:0 ? I take my hat off. Emir is great Director",
+         "I watched the movie at Kustendorf festival. It is all the same like the past movies. The plot is non existent and it relies on primitive acts of poor people and gypsies , and facial deformities to get sympathy of the viewers. Complete waste of time. Zero applauses in the room which made me happy .",
+         "It took years(4 years!) for Kusturica, the great Fellini copycat, to finish this movie, and I just realized why. This movie is just an elaborate framework for Kusturica to pork and rub against Monica Belucci, and he does it plenty in the movie. There are scenes where they're alone in the well, alone in the tree canopy, alone amidst the flock of sheep, alone in the river... His goal accomplished, he got plenty of time with his muse, how did he call her, a true European film diva so different than Hollywood actresses, or something similar. The same European diva that starred in big Hollywood franchises like Matrix and Bond movies, that starred in crappy Hollywood action movies opposite Clive Owen, Bruce Willis or Nic Cage?! Oh-oh, looks like his muse isn't that much different from Kusturica's arch-nemesis Angelina 'Maleficent' Jolie, after all. 'What about the movie, yo?!' If you're by any chance, a Johnny Depp fan(or who knows, maybe you're a Vincent 'The Brown Bunny' Gallo fan) you may have watched 'Arizona Dream'. Well, this movie is exactly the same like that one. Slapstick comedy + tragedy(violence) + episodes of soulful Balkan ethno music, it's all here too. After watching this movie I officially ordain Kusturica the badge of 'Tommy Wiseau of European Cinema'. Who knows, if Wiseau had Kusturica's resources and the pristine backgrounds of REPUBLIKA SRPSKA to shoot his movies at, maybe his achievements would be greater. Conclusion: Kusturica has the brains and the looks to play the Frankenstein in the next Universal's revivals of the character, if their negotiations with Javier Bardem fail.",
+         "The first time i saw a movie of Kusturica and this one was Amazing. I was like transported in an other dimension, so many things were happening at the same time. It was funny, dramatic, colorful, touching, off-center and so much more.. I loved how Kusturica pictured the difficulty of life and how life is always stronger than death. the animals and the nature in general were also involved in this balance of power between life and death. the soundtrack was good and the landscape were simply breathtaking, every single ingredient for a true masterpiece in my humble opinion.",
+         "When I watch Emir Kustirica' s last film ''On The Milky Road'' with Monica Bellucci , 2016 , I realize that the director is far away from \"Do You Remember Dolly Bell?\" , 1981 and \"When Father Was Away on Business\" , 1985 for good. And there is no return to those old days. I am in deep sorrow on behalf of creative and naive Balkan cinema forever. Those splendid days will never come back. The director is falling like a heavy stone since ''Underground'' , 1995. Even Monica Bellucci is not able to rescue this old guy.",
+         "A mindless carnival of carnage, a loop of history that repeats and repeats itself, nonstop. People are dancing from one pointless war to another. With no hope for better future. How clearly he can see it coming, again.",
+         "Even this is hard unpleasantly Balcan theme, Kusturica made warm ambient, and infiltration of scenes through all his movies, like ducks, bride wedding dress, tailor, old train station - this film is masterpiece. He did not save himself on the movie set, even twice he was hurt, biggest hazarder with high risk, of all directors. Ps. Some of most attractive scenes when Bellucci jumps to waterfalls Kravice is cut! IM",
+         "Be aware, a lot of spoilers here! I loved this film because of the simple yet profound message it transmits. The message that I perceived was that if you do good in your life, if you are helpful to others including to animals-and this is a true kindness, as you do not expect anything from those animals in return- and if you are gentle and you do not try to enforce your own will on others and on destiny, you will be protected and everything will work out for you. You just have to let go, trust God and most importantly, be kind and do no harm, even when others harm you. Both the message and the story line are very much like in a fairy tale, except for the end: the lovers do not end up together. And this is because the rule I mentioned above was broken. I will explain. The main character, played by Kusturika, is a kind man who loves animals and has a hawk as a best friend. He falls in love with the bride played by Bellucci, who was supposed to marry the general who had paid for her. But he does not try to interfere in this marriage. His female friend, played by Sloboda Micalovic, loves him and wants to marry him and she tries to force him, saying that he must save her honour because people claim that they slept together. She also lies to her brother, the general, that they slept together so that he will also force him to marry her. And yet Kusturika does nothing much and just obeys and agrees. Then he feeds a snake milk everyday. Later, when soldiers come to the village, this snake saves him by delaying him to get to the village. He notices the moment he stops fighting the snake and gives up that the snake simply releases him and leaves.This is a clear moment of 'let go and you'll be fine'. When he hides with Bellucci in the well, a butterfly distracts the soldiers and saves them. In the tree, bees sting the soldier and save them. Then the sheep cover them and save them. Sloboda, who had tried to impose her own will, dies. So does the general. In the end though, Kusturika loses his trust and tries to do something on his own, so he sends a sheep on the mined field, thus killing it. This is when he harms a creature. So they are discovered. Then, the protective snake tries to keep Bellucci to step on a mine, but her ambition does not let her stop her way, so she dies. So, you are protected as long as you help, you do not harm, you trust and you do not try to impose your own will. I did not like though the way Kusturika acted, he was not expressive and his character was not complex. I totally failed to understand why both women fell in love with this character. Bellucci was also not outstanding. And I would have let out the fantastic flying scenes. All in all, I recommend this film.",
+         "I can only rate this with 5 stars for it's a Kusturica film, because of the great movies he made. One can surely expect a much deeper characters and stronger plot from this great director, but instead you get an extraordinarily beautiful photography, amazing camera moves, but one dimension characters, shallow storyline ... I believe the movie should have focused on the first half, enriching the events withint the village, and ends with Kosta and the bride flying away from the tree, all the rest was just Tom & Jerry. Still consider Emir Kusturica one of the greatest filmmakers ever."
+      ],
+      "genres": [
+         "Comedy",
+         "Drama",
+         "Fantasy",
+         "Romance",
+         "War"
+      ],
+      "productionCompanies": [
+         "BN Films",
+         "Pinball London"
+      ],
+      "summaries": ["A story that stretches across war, blossoming love and living as a recluse."],
+      "budget": 0
+   },
+   "movielensId": 171505,
+   "movielens": {
+      "languages": ["Srpski"],
+      "releaseDate": "2016-02-03",
+      "dvdReleaseDate": null,
+      "directors": ["Emir Kusturica"],
+      "runtime": 125,
+      "movieId": 171505,
+      "title": "On the Milky Road",
+      "mpaa": null,
+      "actors": [
+         "Monica Bellucci",
+         "Emir Kusturica",
+         "Sergej Trifunović",
+         "Miki Manojlović",
+         "Bajram Severdzhan",
+         "Sloboda Mićalović",
+         "Davor Janjić",
+         "Petar Mirčevski",
+         "Ratka Radmanovic",
+         "Maria Darkina",
+         "Branislav Fistrić",
+         "Darko Kurtovic",
+         "Aleksandar 'Saša' Sarić",
+         "Novak Bilbija",
+         "Vitomir Jefić",
+         "Milojka Andrić",
+         "Ninoslav Ćulum",
+         "Milorad Ukropina",
+         "Stevan Ušćumlić",
+         "Elvedin Musanović",
+         "Zoran Cvijanović",
+         "Milan Nešković",
+         "Milorad Supić",
+         "Khachatur Alamzian",
+         "Milja Šupljeglav",
+         "Stribor Kusturica",
+         "Rade Bošković",
+         "Darko Kurtović",
+         "Ratka Radmanović",
+         "Miroslav Zubac",
+         "Anastasija Vujović",
+         "Milorad 'Pajdo' Sarić",
+         "Zora Stijačić",
+         "Branislav Fistrić",
+         "Tomislav Sokić",
+         "Marko Ukropina",
+         "Rajka Milinković",
+         "Novka Miletić",
+         "Krešimir Bebek",
+         "Rudolf Bebek"
+      ],
+      "imdbMovieId": "2800340",
+      "originalTitle": "Na mlečnom putu",
+      "genres": [
+         "Comedy",
+         "Drama"
+      ],
+      "youtubeTrailerIds": [],
+      "plotSummary": "A man, shaken by fate after his wife's death, chooses to be a monk.",
+      "tmdbMovieId": 255160,
+      "avgRating": 3.5,
+      "releaseYear": "2016",
+      "numRatings": 16,
+      "posterPath": "/oe9gwRBrLEbKIofWrCpenR0pUmB.jpg"
+   }
+}

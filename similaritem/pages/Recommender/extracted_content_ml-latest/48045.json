@@ -1,0 +1,711 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "france",
+            "id": 254
+         },
+         {
+            "name": "serial killer",
+            "id": 10714
+         }
+      ],
+      "imdb_id": "tt0109440",
+      "video": false,
+      "title": "Fear City: A Family-Style Comedy",
+      "recommendations": [
+         14645,
+         15152,
+         15588,
+         33701,
+         37652,
+         20106,
+         11183,
+         21435,
+         21778,
+         17350,
+         37653,
+         11687,
+         15449,
+         9421,
+         10353,
+         2899,
+         48769,
+         44706,
+         19123,
+         8736
+      ],
+      "backdrop_path": "/3hyv5Qr3hHhAH3yYGjuoMc7iRek.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Odile Deray",
+               "gender": 1,
+               "credit_id": "52fe46399251416c75071497",
+               "name": "Chantal Lauby",
+               "profile_path": "/qqHvXsmpKeguFCipM3ogbAoK0PR.jpg",
+               "id": 82119,
+               "order": 0
+            },
+            {
+               "cast_id": 10,
+               "character": "Serge Karamazov",
+               "gender": 2,
+               "credit_id": "52fe46399251416c750714bd",
+               "name": "Alain Chabat",
+               "profile_path": "/zR39m8iQ2OWn753WLwQ3oiH1qRc.jpg",
+               "id": 4275,
+               "order": 1
+            },
+            {
+               "cast_id": 2,
+               "character": "Simon Jérémi",
+               "gender": 0,
+               "credit_id": "52fe46399251416c7507149b",
+               "name": "Dominique Farrugia",
+               "profile_path": "/vLCZl3J1u2yPj4ydd1TPfIjjNM9.jpg",
+               "id": 27221,
+               "order": 2
+            },
+            {
+               "cast_id": 3,
+               "character": "Commissaire Patrick Bialès",
+               "gender": 2,
+               "credit_id": "52fe46399251416c7507149f",
+               "name": "Gérard Darmon",
+               "profile_path": "/nFjZ1jEVLdeJaoAmoVsWRnQqsxR.jpg",
+               "id": 47337,
+               "order": 3
+            },
+            {
+               "cast_id": 4,
+               "character": "Émile Gravier",
+               "gender": 2,
+               "credit_id": "52fe46399251416c750714a3",
+               "name": "Sam Karmann",
+               "profile_path": "/eucqq766IaMvnNEMjXsdkvgBuaa.jpg",
+               "id": 76826,
+               "order": 4
+            },
+            {
+               "cast_id": 5,
+               "character": "Jean-Paul Martoni",
+               "gender": 2,
+               "credit_id": "52fe46399251416c750714a7",
+               "name": "Jean-Christophe Bouvet",
+               "profile_path": "/z0QvNiJ2RDtOqOmxSgYm4cEC0jc.jpg",
+               "id": 19776,
+               "order": 5
+            },
+            {
+               "cast_id": 12,
+               "character": "Sandy",
+               "gender": 1,
+               "credit_id": "52fe46399251416c750714c7",
+               "name": "Hélène de Fougerolles",
+               "profile_path": "/lVRJ72h8lAyiYuqwBWUwMkRyPTc.jpg",
+               "id": 76827,
+               "order": 6
+            },
+            {
+               "cast_id": 13,
+               "character": "Elle-même",
+               "gender": 1,
+               "credit_id": "52fe46399251416c750714cb",
+               "name": "Rosanna Arquette",
+               "profile_path": "/rQMQYQUF9QzD6oDfkP6tsjmyZhS.jpg",
+               "id": 2165,
+               "order": 7
+            },
+            {
+               "cast_id": 14,
+               "character": "La première victime",
+               "gender": 2,
+               "credit_id": "52fe46399251416c750714cf",
+               "name": "Tchéky Karyo",
+               "profile_path": "/9rMF25F5r3Giix9jkwfuUz2utHv.jpg",
+               "id": 10698,
+               "order": 8
+            },
+            {
+               "cast_id": 15,
+               "character": "Une victime",
+               "gender": 2,
+               "credit_id": "52fe46399251416c750714d3",
+               "name": "Jean-Pierre Bacri",
+               "profile_path": "/sjXoA3DXsBi4MsymfNELa6idUk4.jpg",
+               "id": 28281,
+               "order": 9
+            },
+            {
+               "cast_id": 16,
+               "character": "Une victime",
+               "gender": 2,
+               "credit_id": "52fe46399251416c750714d7",
+               "name": "Daniel Gélin",
+               "profile_path": "/xx1dCButx7XywnaBTiWgTFXlI3T.jpg",
+               "id": 24814,
+               "order": 10
+            },
+            {
+               "cast_id": 17,
+               "character": "Une victime",
+               "gender": 2,
+               "credit_id": "52fe46399251416c750714db",
+               "name": "Eddy Mitchell",
+               "profile_path": "/ddWozjz8MsMFkDengoNjNWKIzMU.jpg",
+               "id": 30641,
+               "order": 11
+            },
+            {
+               "cast_id": 18,
+               "character": "Lui-même",
+               "gender": 0,
+               "credit_id": "52fe46399251416c750714df",
+               "name": "Pierre Lescure",
+               "profile_path": "/hXcaPzZF5XjFPWyKFZairWTxzcZ.jpg",
+               "id": 507238,
+               "order": 12
+            },
+            {
+               "cast_id": 19,
+               "character": "Grimaldi",
+               "gender": 0,
+               "credit_id": "52fe46399251416c750714e3",
+               "name": "Patrick Lizana",
+               "profile_path": "/vTJsr68wfI9m70nLl3CcnQ5ThIn.jpg",
+               "id": 545426,
+               "order": 13
+            },
+            {
+               "cast_id": 20,
+               "character": "Garcia",
+               "gender": 2,
+               "credit_id": "52fe46399251416c750714e7",
+               "name": "Eric Prat",
+               "profile_path": "/l7I4H9nVkGKoJJDGm4VIEKOIVot.jpg",
+               "id": 49748,
+               "order": 14
+            },
+            {
+               "cast_id": 21,
+               "character": "Le patron de Serge Karamazov",
+               "gender": 2,
+               "credit_id": "52fe46399251416c750714eb",
+               "name": "Marc de Jonge",
+               "profile_path": "/fEGIBK1cl3jVqyA1ifqNjZN4lRw.jpg",
+               "id": 255923,
+               "order": 15
+            },
+            {
+               "cast_id": 22,
+               "character": "La veuve joyeuse",
+               "gender": 1,
+               "credit_id": "52fe46399251416c750714ef",
+               "name": "Valérie Lemercier",
+               "profile_path": "/hPUIFiIfMaQvpNmPvAVDxOQuZBS.jpg",
+               "id": 62531,
+               "order": 16
+            },
+            {
+               "cast_id": 23,
+               "character": "Lui-même",
+               "gender": 0,
+               "credit_id": "52fe46399251416c750714f3",
+               "name": "Dave",
+               "profile_path": "/tRHG92wKxnw8X5X9x7jnu6uoTFr.jpg",
+               "id": 572506,
+               "order": 17
+            },
+            {
+               "cast_id": 24,
+               "character": "Lui-même",
+               "gender": 2,
+               "credit_id": "52fe46399251416c750714f7",
+               "name": "Patrice Laffont",
+               "profile_path": "/eBRGyTW7Rm8wQ4WxkKDAK0NEc82.jpg",
+               "id": 39144,
+               "order": 18
+            },
+            {
+               "cast_id": 53,
+               "character": "Sens",
+               "gender": 2,
+               "credit_id": "52fe46399251416c75071569",
+               "name": "Artus de Penguern",
+               "profile_path": "/xDoI1YT3J4hBvJaa9lGxtNUjTKK.jpg",
+               "id": 2414,
+               "order": 19
+            },
+            {
+               "cast_id": 26,
+               "character": "Régis",
+               "gender": 2,
+               "credit_id": "52fe46399251416c750714fb",
+               "name": "Michel Hazanavicius",
+               "profile_path": "/5Adwey0AqG16rM7jrDMjUaew9W3.jpg",
+               "id": 67717,
+               "order": 20
+            },
+            {
+               "cast_id": 54,
+               "character": "Himself",
+               "gender": 2,
+               "credit_id": "52fe46399251416c7507156d",
+               "name": "Daniel Toscan du Plantier",
+               "profile_path": "/635p8QihDt4w6GJlnV9dKoZO6o.jpg",
+               "id": 23508,
+               "order": 21
+            },
+            {
+               "cast_id": 28,
+               "character": "Lui-même",
+               "gender": 2,
+               "credit_id": "52fe46399251416c750714ff",
+               "name": "James Cameron",
+               "profile_path": "/zy2foCd8PEtvCcsX48cROdQdDLB.jpg",
+               "id": 2710,
+               "order": 22
+            },
+            {
+               "cast_id": 29,
+               "character": "Jean",
+               "gender": 0,
+               "credit_id": "52fe46399251416c75071503",
+               "name": "Olivier Doran",
+               "profile_path": "/zW2m0k2ZPFQNRNlBiyLH70kLCQH.jpg",
+               "id": 17624,
+               "order": 23
+            },
+            {
+               "cast_id": 30,
+               "character": "L'infirmier dans l'ambulance",
+               "gender": 2,
+               "credit_id": "52fe46399251416c75071507",
+               "name": "Christian Gazio",
+               "profile_path": "/1wMI59ATlPPQocRCQ1g2ROlyvYk.jpg",
+               "id": 310646,
+               "order": 24
+            },
+            {
+               "cast_id": 31,
+               "character": "Martine",
+               "gender": 0,
+               "credit_id": "52fe46399251416c7507150b",
+               "name": "Florence Viala",
+               "profile_path": "/703DcOnROUreFe8RqzhRPpfd46l.jpg",
+               "id": 291375,
+               "order": 25
+            },
+            {
+               "cast_id": 32,
+               "character": "Le voisin du crétin dans la foule",
+               "gender": 0,
+               "credit_id": "52fe46399251416c7507150f",
+               "name": "Philippe Chany",
+               "profile_path": "/578gFsttU8ESWoZAooPMEfkrgoN.jpg",
+               "id": 411483,
+               "order": 26
+            },
+            {
+               "cast_id": 33,
+               "character": "Bestel",
+               "gender": 2,
+               "credit_id": "52fe46399251416c75071513",
+               "name": "Pierre Amzallag",
+               "profile_path": null,
+               "id": 278032,
+               "order": 27
+            },
+            {
+               "cast_id": 55,
+               "character": "Mizou Mizou (images d'archives)",
+               "gender": 0,
+               "credit_id": "52fe46399251416c75071571",
+               "name": "Bruno Carette",
+               "profile_path": "/yeEudS3gwnxL8rqkt9i7uFZLGNZ.jpg",
+               "id": 19063,
+               "order": 28
+            },
+            {
+               "cast_id": 35,
+               "character": "La journaliste pipelette 2",
+               "gender": 0,
+               "credit_id": "52fe46399251416c75071517",
+               "name": "Claire Hammond",
+               "profile_path": "/aRVolaSTAcJEwdcQS6pTDVVFLAn.jpg",
+               "id": 572507,
+               "order": 29
+            },
+            {
+               "cast_id": 36,
+               "character": "Un assistant d'Odile",
+               "gender": 0,
+               "credit_id": "52fe46399251416c7507151b",
+               "name": "Christian Moro",
+               "profile_path": "/w5P2b3ALMgiDt19oIJeEDehHt2a.jpg",
+               "id": 572508,
+               "order": 30
+            },
+            {
+               "cast_id": 37,
+               "character": "Susan dans \"Red is Dead\"",
+               "gender": 0,
+               "credit_id": "52fe46399251416c7507151f",
+               "name": "Florence Joubert",
+               "profile_path": null,
+               "id": 572509,
+               "order": 31
+            },
+            {
+               "cast_id": 38,
+               "character": "Janine",
+               "gender": 0,
+               "credit_id": "52fe46399251416c75071523",
+               "name": "Hélène Rodier",
+               "profile_path": "/7dXKXiTy3qtcCWyeQPG4rsZsGbV.jpg",
+               "id": 264214,
+               "order": 32
+            },
+            {
+               "cast_id": 39,
+               "character": "Tiffany",
+               "gender": 0,
+               "credit_id": "52fe46399251416c75071527",
+               "name": "Géraldine Bonnet-Guérin",
+               "profile_path": "/zPaqnlRsRlBNkrn64fZLKatkC3D.jpg",
+               "id": 572510,
+               "order": 33
+            },
+            {
+               "cast_id": 40,
+               "character": "La journaliste pipelette 1",
+               "gender": 0,
+               "credit_id": "52fe46399251416c7507152b",
+               "name": "Sophie Mounicot",
+               "profile_path": "/ytL7Zuc8x8N0ngeNjryNDfb8Xft.jpg",
+               "id": 78480,
+               "order": 34
+            },
+            {
+               "cast_id": 41,
+               "character": "(scène coupée)",
+               "gender": 2,
+               "credit_id": "52fe46399251416c7507152f",
+               "name": "Gérard Lanvin",
+               "profile_path": "/qK3YBWuTC0CuXL0wmRo7Zhcz8tJ.jpg",
+               "id": 70165,
+               "order": 35
+            },
+            {
+               "cast_id": 42,
+               "character": "Le journaliste au caméo",
+               "gender": 2,
+               "credit_id": "52fe46399251416c75071533",
+               "name": "Dominique Besnehard",
+               "profile_path": "/5e23OLMMdVM4PSi9EPJmXcgQUYf.jpg",
+               "id": 21680,
+               "order": 36
+            },
+            {
+               "cast_id": 43,
+               "character": "Lui-même",
+               "gender": 0,
+               "credit_id": "52fe46399251416c75071537",
+               "name": "Pierre Héros",
+               "profile_path": null,
+               "id": 415820,
+               "order": 37
+            },
+            {
+               "cast_id": 44,
+               "character": "Le récitant du documentaire tissu (voix)",
+               "gender": 0,
+               "credit_id": "52fe46399251416c7507153b",
+               "name": "Henri de Turenne",
+               "profile_path": "/x79iPhilpeqcbVOKbMfc3aUYi3.jpg",
+               "id": 572511,
+               "order": 38
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe46399251416c750714ad",
+               "name": "Alain Chabat",
+               "profile_path": "/zR39m8iQ2OWn753WLwQ3oiH1qRc.jpg",
+               "id": 4275,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe46399251416c750714b3",
+               "name": "Dominique Farrugia",
+               "profile_path": "/vLCZl3J1u2yPj4ydd1TPfIjjNM9.jpg",
+               "id": 27221,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe46399251416c750714b9",
+               "name": "Chantal Lauby",
+               "profile_path": "/qqHvXsmpKeguFCipM3ogbAoK0PR.jpg",
+               "id": 82119,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46399251416c750714c3",
+               "name": "Alain Berbérian",
+               "profile_path": "/kKrMkaQKfiyzoZy6r0qp3Z16kCG.jpg",
+               "id": 44554,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46399251416c75071541",
+               "name": "Charles Gassot",
+               "profile_path": null,
+               "id": 20854,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe46399251416c75071547",
+               "name": "Dominique Brunner",
+               "profile_path": null,
+               "id": 71310,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe46399251416c7507154d",
+               "name": "Catherine d'Hoir",
+               "profile_path": null,
+               "id": 572512,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe46399251416c75071553",
+               "name": "Jean-Noël Yven",
+               "profile_path": null,
+               "id": 572513,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe46399251416c75071559",
+               "name": "Dominique Warnier",
+               "profile_path": null,
+               "id": 572514,
+               "department": "Sound",
+               "job": "Sound Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe46399251416c7507155f",
+               "name": "Véronique Parnet",
+               "profile_path": null,
+               "id": 44076,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe46399251416c75071565",
+               "name": "Philippe Chany",
+               "profile_path": "/578gFsttU8ESWoZAooPMEfkrgoN.jpg",
+               "id": 411483,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Comedy",
+         "id": 35
+      }],
+      "popularity": 6.326114,
+      "production_countries": [{
+         "iso_3166_1": "FR",
+         "name": "France"
+      }],
+      "id": 15097,
+      "vote_count": 273,
+      "budget": 0,
+      "overview": "A second-class horror movie has to be shown at Cannes Film Festival, but, before each screening, the projectionist is killed by a mysterious fellow, with hammer and sickle, just as it happens in the film to be shown.",
+      "similar": [
+         10285,
+         10781,
+         12521,
+         2832,
+         948,
+         4638,
+         34312,
+         984,
+         1696,
+         1359,
+         1991,
+         4232,
+         4233,
+         238636,
+         181283,
+         10585,
+         1949,
+         4488,
+         3597,
+         39874
+      ],
+      "original_title": "La Cité de la peur",
+      "runtime": 93,
+      "poster_path": "/l43KgZb2ICqLcYE5YDgwLWxlzIx.jpg",
+      "spoken_languages": [{
+         "name": "Français",
+         "iso_639_1": "fr"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Téléma Productions",
+            "id": 885,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Le Studio Canal+",
+            "id": 183,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "France 3 Cinema",
+            "id": 16804,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "M6 Films",
+            "id": 1115,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1994-03-09",
+      "vote_average": 7.7,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "France",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Alain Berbérian"],
+      "runtime": 93,
+      "synopsis": null,
+      "writers": [
+         "Alain Chabat",
+         "Dominique Farrugia"
+      ],
+      "originalLanguage": "French",
+      "imdbLink": "http://www.imdb.com/title/tt0109440/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTI1ODgxNzc2NF5BMl5BanBnXkFtZTcwMDg0MzQyMQ@@._V1_SY317_CR6,0,214,317_AL_.jpg",
+      "actors": ["Stars: Chantal Lauby, Alain Chabat, Dominique Farrugia | See full cast and crew »"],
+      "reviews": [
+         "Having \"discovered\" Alain Chabat only a couple of days ago I didn't know if I would like this film, despite all the other good comments it got. This is because I don't speak French. I watched the French version with English subtitles, because it wasn't available with German ones. And I can deeply assure everyone who thinks about seeing this piece of art: Do it! It's hilarious, wild, crazy and above all French! After only five minutes into the film I had tears of laughter running down my cheek. I think nobody will fail to notice the huge amount of jokes in this film, if you know any French or not. Most of the comedy is of physical nature, there are of course some puns but never mind. Just go and see it. Or better buy it instantly as you will want to see it over and over again! I promise!",
+         "This is \"Les Nuls\"'s first movie and if it isn't a masterpiece, it's an enjoyable comedy. Odile Deray is the press attaché for the film \"Red Is Dead\" but the film is so dumb that reporters don't want to promote it. However, the projectionist is killed and due to this it creates a great publicity around the movie and meanwhile murders go on. Then Deray is asking a cop (Serge Karamasov) to protect not only the projectionists but also the main star of the film: Simon Jérémi.... Alain Berbérian and \"Les Nuls\" have made a funny film which is full of clever visuals and ringing brainwaves; the best example is the murder of the fourth projectionist when \"Les Nuls\" are adding the sound effects to the scene themselves! Moreover, the comic of the film is very fanciful and there are some useless elements but it's because they are useless that they are funny. For example, we learn Patrick Bialès's whole life (the main inspector of Cannes) but it brings nothing to the plot! The screenplay, in spite of several weaknesses, is inspired and full of numerous details and sentences that score the bull's eye. The movie is well made thanks to its actors too and I am under the impression that they, voluntarily, don't take themselves seriously , especially Gérard Darmon who is irresistible in his first appearance when he answers the reporters in several languages! Even famous French actors have got a small role (Tcheky Karyo, Daniel Gélin, Jean-Pierre Bacri and Eddy Mitchell are in the projectionists' roles)! At last the film is obviously a parody of horror and detective films. I think about \"Psycho\" when the projectionists are killed. To sum up: a fanciful but efficient comedy and if you watch it for the first time, you might be disappointed. You have to watch it several times to appreciate it. It happened with me.",
+         "La cité de la peur is a really funny movie. It's funny because of the good acting, the solid script. The scenario itself is a joke. I'm writing this comment in English but could have done it in French, since many gags must be impossible to translate, so you definitely should understand French. This movie shows the particular sense of humour of \"Les Nuls\", a group of humorists, which I do like. To my mind, it's the best French comedy since \"Le père Noël est une ordure\", which will make you laugh from start to end.",
+         "There is a joke every 5 seconds, this is one of the best comedy I'have ever seen. Even thinking at this movie make me laugh. I have seen it 5 times and i still enjoy seeing it. If you can see this movie, see it. my rating : 10",
+         "This for sure is my favorite movie. What I really love is that there are jokes, puns, movie references & all almost all the time, and that, unlike in a lot of big production movies, can easily go by unnoticed. That's why even if I've seen this movie tons of times, I still can find some new ones. That's also why some people say you should watch it several times to really find it funny. Actually the best thing to do is to watch it with the remote in your hand, to be able to pause at any time to read all the stupid things that have been hidden. I don't know about the translation, but I bet watching it in any other language than French must ruin quite a lot of puns. Also I don't know whether all the stuffs written in the different scenes are also translated. I know a lot of people who just like me have watched that movie over and over and know most of the script by heart, and would from time to time repeat some of it in real life. You can also find tons of references of the movie all over the Internet, in blogs and comments. On the other hand, I know of people who just find that movie quite poor, without any interest, and I can understand them. The jokes are quite often stupid like \"(showing a picture) Is this your husband?\" \"No it's my dog.\" \"Oh yeah, of course...Talk to me about him.\" \"He was a really nice dog...\" \"No, about your husband\". Of course it's stupid to ask whether the dog is her husband, and of course it's stupid to tell about the dog. So some people will definitely find this movie stupid, but others, like me, will like it. Just a note about the jokes: they may be stupid, but unlike in some movies, they are not gross. So eventually, if you're French or have a really good French level, and feel like the previous joke can indeed be funny, you definitely have to watch that movie. If you find it lame, don't. As for if you don't speak French but still find that joke funny, well, just keep in mind the movie won't be as funny as it should be, but it should still be quite funny.",
+         "\"Les Nuls\" (actors and writers in this movie) started in a TV show (a kind of the \"Saturday Night Live\" on french TV Canal+) and have decided to end their TV adventure by making a film. \"La Cité de la peur\" can be seen if one doesn't know their TV shows: it's terrific, very funny. But there are too some personal references which develop the comic of the situations. In summary, everybody loves this film: a cult film that I have seen a lot of times. I think that I will watch it during all my life!!",
+         "There's nothing more to say... This film is the same level as the Monthy Pythons with scenes that make you cry from laughing (even if you see it 20 times). There's no better way to spend an afternoon with your friends!",
+         "It is really a fresh and original comedy. I have seen it again and again. To spend 1h30 laughing look at this!!! If you don't like it i allow you to beat me!! bye",
+         "In this movie that i saw at least a hundred times, you just laugh every 5 seconds !! This kind of humour is really great, actors are so funny and so good... For somebody who wants to know how french humour is, go see it, you won't be disappointed :+)",
+         "During the last forty years France has seen at least three comedy ensembles graduate from boulevard theatre or television to the big screen and if Splendid has the best track record in terms of both ensemble films - le pere noel est un ordure, les bronzes - etc plus individual actors - Thierry Thermitte, Josiane Balasko, Gerard Jugnot, michel blanc, ann-marie chazal, actor/writer/director - Balasko, Blanc, Jugnot, this is not to say that the likes of Les Nuls (Alain Chabat) and Les Robins des bois (Marina Fois, Jean-Paul Rouve) were chopped liver. City of Fear marked the big-screen debut of Les Nuls and it turned out to be an auspicious debut in every way. It is, of course, very French so that many of the verbal gags will be lost on non-French speakers who rely on subtitles but against that there are lots of sight gags which are, of course, International. Time will tell if it holds up as well as, say, Le Pere Noel but it certainly works the first time around."
+      ],
+      "genres": ["Comedy"],
+      "productionCompanies": [],
+      "summaries": [
+         "Odile Deray est attaché de presse pour le film \"Red is Dead\". Mais au festival de Cannes, personne ne veut regarder un tel navet. Pourtant, les gens changent d'avis au moment où les projectionnistes meurtent les un après les autres, assassiné par le méchant de \"Red is Dead\". Serge Kazamarov est envoyé sur place pour protéger la victime suivante. Quelques jours plus tard, la salle est comble et même le gratin de Cannes est sur place...",
+         "Odile Deray is the media coordinator for the B-movie \"Red is Dead\", in charge of promoting it at the Cannes festival. Of course, no one wants to see nor report about such a bad movie. However, as projectionists in charge of screening the movie get killed one after another, the press starts to notice , the more so as the murderer uses a sickle and a hammer as in the movie. The police dispatches Serge Karamazov to protect the next potential victims...",
+         "A second-class horror movie has to be shown at Cannes Film Festival, but, before each screening, the projectionist is killed by a mysterious fellow, with hammer and sickle, just as it happens in the film to be shown."
+      ],
+      "budget": 0
+   },
+   "movielensId": 48045,
+   "movielens": {
+      "languages": ["Français"],
+      "releaseDate": "1994-03-09",
+      "dvdReleaseDate": null,
+      "directors": ["Alain Berbérian"],
+      "runtime": 93,
+      "movieId": 48045,
+      "title": "Fear City: A Family-Style Comedy",
+      "mpaa": null,
+      "actors": [
+         "Chantal Lauby",
+         "Alain Chabat",
+         "Dominique Farrugia",
+         "Gérard Darmon",
+         "Sam Karmann",
+         "Jean-Christophe Bouvet",
+         "Hélène de Fougerolles",
+         "Rosanna Arquette",
+         "Tchéky Karyo",
+         "Jean-Pierre Bacri",
+         "Daniel Gélin",
+         "Eddy Mitchell",
+         "Pierre Lescure",
+         "Patrick Lizana",
+         "Eric Prat",
+         "Marc de Jonge",
+         "Valérie Lemercier",
+         "Dave",
+         "Patrice Laffont",
+         "Artus de Penguern",
+         "Michel Hazanavicius",
+         "Daniel Toscan du Plantier",
+         "James Cameron",
+         "Olivier Doran",
+         "Christian Gazio",
+         "Florence Viala",
+         "Philippe Chany",
+         "Pierre Amzallag",
+         "Bruno Carette",
+         "Claire Hammond",
+         "Christian Moro",
+         "Florence Joubert",
+         "Hélène Rodier",
+         "Géraldine Bonnet-Guérin",
+         "Sophie Mounicot",
+         "Gérard Lanvin",
+         "Dominique Besnehard",
+         "Pierre Héros",
+         "Henri de Turenne"
+      ],
+      "imdbMovieId": "0109440",
+      "originalTitle": "La Cité de la peur",
+      "genres": ["Comedy"],
+      "youtubeTrailerIds": [],
+      "plotSummary": "A second-class horror movie has to be shown at Cannes Film Festival, but, before each screening, the projectionist is killed by a mysterious fellow, with hammer and sickle, just as it happens in the film to be shown.",
+      "tmdbMovieId": 15097,
+      "avgRating": 3.81193,
+      "releaseYear": "1994",
+      "numRatings": 109,
+      "posterPath": "/upm0JqPkL4JkaGxLloh8h1slOGK.jpg"
+   }
+}

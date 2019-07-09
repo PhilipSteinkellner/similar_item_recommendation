@@ -1,0 +1,597 @@
+{
+   "tmdb": {
+      "original_language": "cs",
+      "keywords": [
+         {
+            "name": "cinderella",
+            "id": 995
+         },
+         {
+            "name": "new love",
+            "id": 1605
+         },
+         {
+            "name": "prince",
+            "id": 3071
+         },
+         {
+            "name": "fairy tale",
+            "id": 3205
+         },
+         {
+            "name": "nuss",
+            "id": 8113
+         },
+         {
+            "name": "pohádka",
+            "id": 196541
+         }
+      ],
+      "imdb_id": "tt0070832",
+      "video": false,
+      "title": "Three Wishes for Cinderella",
+      "recommendations": [
+         51959,
+         12495,
+         271,
+         167752,
+         24667,
+         11514,
+         74873,
+         47712,
+         7297,
+         13305,
+         5636,
+         11691,
+         50873,
+         84030,
+         62834,
+         201267,
+         55511,
+         36414,
+         162234,
+         36918
+      ],
+      "backdrop_path": "/ziosIHmcpvdVONyTqS5Mu3nVmaN.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 30,
+               "character": "Popelka",
+               "gender": 1,
+               "credit_id": "52fe44b5c3a36847f80a5b55",
+               "name": "Libuše Šafránková",
+               "profile_path": "/sFNGN678IzZs5ndfZrvmnZGiL53.jpg",
+               "id": 11684,
+               "order": 0
+            },
+            {
+               "cast_id": 31,
+               "character": "Prince",
+               "gender": 0,
+               "credit_id": "52fe44b5c3a36847f80a5b59",
+               "name": "Pavel Trávníček",
+               "profile_path": "/395DGLCj0qGAlLocX2I8TGml4xP.jpg",
+               "id": 55729,
+               "order": 1
+            },
+            {
+               "cast_id": 32,
+               "character": "Mother",
+               "gender": 1,
+               "credit_id": "52fe44b5c3a36847f80a5b5d",
+               "name": "Carola Braunbock",
+               "profile_path": "/rvILLIwqPJbjWEafArlcliancxk.jpg",
+               "id": 22343,
+               "order": 2
+            },
+            {
+               "cast_id": 33,
+               "character": "King",
+               "gender": 2,
+               "credit_id": "52fe44b5c3a36847f80a5b61",
+               "name": "Rolf Hoppe",
+               "profile_path": "/uTNYbd1ibnDwrmnb6LTv8aozkt4.jpg",
+               "id": 6270,
+               "order": 3
+            },
+            {
+               "cast_id": 34,
+               "character": "Queen",
+               "gender": 1,
+               "credit_id": "52fe44b5c3a36847f80a5b65",
+               "name": "Karin Lesch",
+               "profile_path": "/y81srzVj9MgdRQJrvfv3SSCaOT8.jpg",
+               "id": 55731,
+               "order": 4
+            },
+            {
+               "cast_id": 5,
+               "character": "Dora",
+               "gender": 0,
+               "credit_id": "52fe44b5c3a36847f80a5af3",
+               "name": "Dana Hlaváčová",
+               "profile_path": "/ztDZzsz4gBPJQpUMtKvqcSQ66IH.jpg",
+               "id": 55730,
+               "order": 5
+            },
+            {
+               "cast_id": 8,
+               "character": "Vinzek",
+               "gender": 2,
+               "credit_id": "52fe44b5c3a36847f80a5af7",
+               "name": "Vladimír Menšík",
+               "profile_path": "/uUzxCrUXrecRcPMWnGyg2khO3Xw.jpg",
+               "id": 55732,
+               "order": 6
+            },
+            {
+               "cast_id": 17,
+               "character": "Preceptor",
+               "gender": 2,
+               "credit_id": "52fe44b5c3a36847f80a5b1f",
+               "name": "Jan Libíček",
+               "profile_path": "/14TK34kdh09W1FNElRsTxbR2LLX.jpg",
+               "id": 77375,
+               "order": 7
+            },
+            {
+               "cast_id": 18,
+               "character": "Kamil",
+               "gender": 2,
+               "credit_id": "52fe44b5c3a36847f80a5b23",
+               "name": "Vítězslav Jandák",
+               "profile_path": "/437Z44EITdEtg7CW0rOU0Vj2QBH.jpg",
+               "id": 77376,
+               "order": 8
+            },
+            {
+               "cast_id": 19,
+               "character": "Vítek",
+               "gender": 0,
+               "credit_id": "52fe44b5c3a36847f80a5b27",
+               "name": "Jaroslav Drbohlav",
+               "profile_path": "/i9CCxZlJIPW7XT7SZI4vviBbxxA.jpg",
+               "id": 77377,
+               "order": 9
+            },
+            {
+               "cast_id": 20,
+               "character": "Housekeeper",
+               "gender": 1,
+               "credit_id": "52fe44b5c3a36847f80a5b2b",
+               "name": "Míla Myslíková",
+               "profile_path": "/37Ini8aH4V7Mw7A2t8uCKmXqLU8.jpg",
+               "id": 77378,
+               "order": 10
+            },
+            {
+               "cast_id": 21,
+               "character": "Cook",
+               "gender": 0,
+               "credit_id": "52fe44b5c3a36847f80a5b2f",
+               "name": "Jiří Růžička",
+               "profile_path": null,
+               "id": 77379,
+               "order": 11
+            },
+            {
+               "cast_id": 22,
+               "character": "Hind",
+               "gender": 0,
+               "credit_id": "52fe44b5c3a36847f80a5b33",
+               "name": "Jan Sůs",
+               "profile_path": null,
+               "id": 77380,
+               "order": 12
+            },
+            {
+               "cast_id": 23,
+               "character": "Huntsman",
+               "gender": 2,
+               "credit_id": "52fe44b5c3a36847f80a5b37",
+               "name": "Miloš Vavruška",
+               "profile_path": null,
+               "id": 77381,
+               "order": 13
+            },
+            {
+               "cast_id": 24,
+               "character": "Zeremonienmeister",
+               "gender": 0,
+               "credit_id": "52fe44b5c3a36847f80a5b3b",
+               "name": "Holger Eckert",
+               "profile_path": null,
+               "id": 77382,
+               "order": 14
+            },
+            {
+               "cast_id": 25,
+               "character": "Hobnail",
+               "gender": 2,
+               "credit_id": "52fe44b5c3a36847f80a5b3f",
+               "name": "Jiří Krytinář",
+               "profile_path": "/c0h56XPXlCvb5HSwVOC8KolX3xG.jpg",
+               "id": 77383,
+               "order": 15
+            },
+            {
+               "cast_id": 26,
+               "character": "Princess Drobena",
+               "gender": 0,
+               "credit_id": "52fe44b5c3a36847f80a5b43",
+               "name": "Helena Růžičková",
+               "profile_path": "/bGIsJ3V3BlUSiDVXGMlak28Q7wE.jpg",
+               "id": 77384,
+               "order": 16
+            },
+            {
+               "cast_id": 27,
+               "character": "Gräfin Stauff",
+               "gender": 1,
+               "credit_id": "52fe44b5c3a36847f80a5b47",
+               "name": "Ostara Körner",
+               "profile_path": "/jmzSgrUqPZvfzmg2BfeX23zfw9c.jpg",
+               "id": 77385,
+               "order": 17
+            },
+            {
+               "cast_id": 28,
+               "character": "Baronin von Eck",
+               "gender": 0,
+               "credit_id": "52fe44b5c3a36847f80a5b4b",
+               "name": "Erika Stiska",
+               "profile_path": null,
+               "id": 77386,
+               "order": 18
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe44b5c3a36847f80a5aef",
+               "name": "Václav Vorlíček",
+               "profile_path": "/eW0cyAW8Hl4XGimwRGyTXp64go5.jpg",
+               "id": 55728,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44b5c3a36847f80a5afd",
+               "name": "František Pavlíček",
+               "profile_path": null,
+               "id": 56133,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44b5c3a36847f80a5b03",
+               "name": "Karel Svoboda",
+               "profile_path": "/1Kjv876eL4H72kuB55JIVzeVYtn.jpg",
+               "id": 56134,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44b5c3a36847f80a5b09",
+               "name": "Josef Illík",
+               "profile_path": null,
+               "id": 56135,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44b5c3a36847f80a5b0f",
+               "name": "Miroslav Hájek",
+               "profile_path": null,
+               "id": 71131,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44b5c3a36847f80a5b15",
+               "name": "Barbara Leuschner",
+               "profile_path": null,
+               "id": 22973,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44b5c3a36847f80a5b1b",
+               "name": "Václav Vorlíček",
+               "profile_path": "/eW0cyAW8Hl4XGimwRGyTXp64go5.jpg",
+               "id": 55728,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44b5c3a36847f80a5b51",
+               "name": "Bohumila Zelenková",
+               "profile_path": null,
+               "id": 140597,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44b6c3a36847f80a5b6b",
+               "name": "Bohumil Nový",
+               "profile_path": null,
+               "id": 937476,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 1,
+               "credit_id": "59d6ced692514124c500226d",
+               "name": "Božena Němcová",
+               "profile_path": null,
+               "id": 150420,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59d6cef2925141252c00205b",
+               "name": "Olin Bosák",
+               "profile_path": null,
+               "id": 1684907,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59d6cef9c3a3686200002264",
+               "name": "Alfred Thomalla",
+               "profile_path": null,
+               "id": 22913,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59d6cf02c3a36861df002505",
+               "name": "Werner Zieschang",
+               "profile_path": null,
+               "id": 22761,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59d6cf12c3a368624d002113",
+               "name": "Theodor Pištěk",
+               "profile_path": "/jgMwH8LEJBgatiiG24pA5eW4ut2.jpg",
+               "id": 957046,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59d6cf1992514124c90022b9",
+               "name": "Günter Schmidt",
+               "profile_path": null,
+               "id": 22584,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Fantasy",
+            "id": 14
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Family",
+            "id": 10751
+         },
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 7.202216,
+      "production_countries": [
+         {
+            "iso_3166_1": "XG",
+            "name": "East Germany"
+         },
+         {
+            "iso_3166_1": "CZ",
+            "name": "Czech Republic"
+         }
+      ],
+      "id": 8703,
+      "vote_count": 112,
+      "budget": 0,
+      "overview": "The film stars Libuse Safrankova as the title character, a young woman who is put upon by her stepmother and stepsisters. The film employs a twist, though, when a handsome prince comes knocking. Cinderella does not simply fall into the prince's arms. In this version, he must actively pursue the young woman who is a skilled sharpshooter prone to wearing hunting outfits. Cinderella also has three wishes at her disposal, gained from three magic nuts.",
+      "similar": [
+         11224,
+         10882,
+         150689,
+         14128,
+         16119,
+         14442,
+         5393,
+         809,
+         808,
+         2270,
+         1417,
+         224141,
+         407655,
+         2312,
+         10020,
+         75258,
+         9880,
+         44683,
+         9454,
+         297270
+      ],
+      "original_title": "Tři oříšky pro Popelku",
+      "runtime": 82,
+      "poster_path": "/cjnY1m5y0MDM94BbCM6TSsYBzMz.jpg",
+      "spoken_languages": [
+         {
+            "name": "Český",
+            "iso_639_1": "cs"
+         },
+         {
+            "name": "Deutsch",
+            "iso_639_1": "de"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Filmové studio Barrandov",
+            "id": 66848,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Deutsche Film (DEFA)",
+            "id": 12364,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1973-11-01",
+      "vote_average": 7.7,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Czechoslovakia",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Václav Vorlícek"],
+      "runtime": 86,
+      "synopsis": null,
+      "writers": [
+         "Bozena Nemcová",
+         "Frantisek Pavlícek"
+      ],
+      "originalLanguage": "German",
+      "imdbLink": "http://www.imdb.com/title/tt0070832/",
+      "coverLink": null,
+      "actors": [
+         "Libuse Safránková",
+         "Pavel Trávnícek",
+         "Carola Braunbock"
+      ],
+      "reviews": [
+         "This movie has been part of my life as long as I can remember. Fortunately Swiss TV made it a habit to broadcast it on or around Christmas every year. This would make it seem unnecessary to purchase a DVD, but I did so today anyway, as soon as I noticed it the fist time in the store, I didn't even bother looking at the price tag, which is uncommon for a me as a Swiss... What makes this movie so unique in its kind is its appeal to every age group. For a small child, it's just a delightfull fairy tale with all necessary ingredients. A couple years older one appreciates the wonderful pictures of castles, animals, hunting scenes. Then I started understanding its special humour. Later of course I fell in love with the gorgeous youthful tomboyish main actress and couldn't see enough of her riding in moon light through a snowy landscape. Then I started noticing how innovative the style of the movie was in its time, how well done the cutting, how fitting the soundtrack. I also saw how well it portrays women as equal partners that are not defined by beauty alone. After all the prince has to acknowledge all of Cindarella's roles, (worker, huntress, and ball princess) before she agrees on marrying him. Of course it has its little imperfections. Some of the actors can't quite reach the standard set by others. Some tricks like the flight of Rosalie (the owl) don't look right. Sometimes the pics are just a little too \"kitsch\". But it just doesn't matter. It's my favorite fairy tale movie, and it always will be. It's a lifelong love story, hopefully to be passed on to other generations.",
+         "Most of what I feel about this film has already been said: it is a must at Christmas, it is modern, feminist, strong, well thought-out, beautiful, funny, sweet, charming, has a great soundtrack, lovely people, has the right amount of emotions, is playful, one for the children and grown-ups alike. The only problem with it is that it seems virtually unknown in Scotland and it saddens me to think that so many British children might never know the joys of this piece of total magic. It should be compulsory.",
+         "I've seen this movie many years ago when I was a very young child in the 1970's. While I do not remember this movie from beginning to end, I do remember bits and pieces of it that left ever-lasting impressions on me. I particularly remember Cinderella being very liberated and foiling the prince's attempt at shooting an animal by hitting him with a snowball, and I thought, \"Wow, she is soooo cool!\" She ran around in the woods and fended for herself. She was very independent, strong, kind, and extraordinarily beautiful. Apparently many of the comments made by other IMDB users about this film are correct in saying that American adaptations of Cinderella are lame and pathetic. I am an American and I must agree whole heartedly! Because cable tv was not widespread when I first saw this film, and VCR's and DVD's were non-existent, I remember keeping my eye out for this movie in hopes of watching it again. The one time I saw it, it was featured on a Saturday morning children's special and I have not seen it since. I watched other Cinderella stories hoping to find one that resembled \"Three Acorns for Cinderella\". No films came close and they all were thorough disappointments. I am thrilled to see this is available on DVD via Germany Amazon. I am strongly considering purchasing it tonight!!!",
+         "Well, I grew up with this movie and ever since I watched it for the first time, it has lost none of its magic. Music, acting, location (near Dresden, by the way), everything is just fine. And there is one thing for sure: no US-version of \"Cinderella\" can keep up with this one. Some sort of simplicity might make the difference. Although it´s just a fairy tale, it moves your heart.",
+         "Growing up in Germany in the 70's and 80's, this movie was one of my favorites. Today it continues to be aired on several German TV channels every year, typically around Christmas, and it has an almost cult following among all my childhood friends and their families. I have never seen the English version, so I cannot comment on dialogue, but the dubbed into German version was enchanting. It is not your typical fairy tale adaptation by story, with a wonderful cast and musical score.",
+         "Scarcely anyone in the Czech Republic can imagine the Christmas time without this movie on TV. Unforgettable music, perfect acting and the unique atmosphere contribute to its evergreen popularity even after almost thirty years.",
+         "This movie is the most beautiful adaption of a fairy-tale I have ever seen. It is just wonderful to watch and the changes in the original plot do not matter at all. Here in Germany they show this movie on TV at least once a year (normally around Christmas) and for me it is a MUST to watch it every single time.",
+         "As a child I watched this on a rerun and fell for the enchanting story which whisked me away into a fantasy far from my own rather boring life. I remember being on holiday when it was showing and begging my father to get us home in time to be able to watch it on TV. The story is simply magical and for any audience still holds a romance all of its own. Anyone who has not seen it should watch it and if you remember it then you will know just what I am saying. I am trying to get hold of it on DVD but so far unsuccessfully.... If anyone knows where I may get hold of a copy then please do send me an e-mail (simonhbailey@blueyonder.co.uk) I would be very grateful. This is one show that has stayed firmly fixed in my memory and I would love to be able to see it again sometime.",
+         "Perhaps, one of the few really good things about living in former USSR was the possibility to see lots of magnificent East European fairy-tale Films, and among these \"3 nuts for Cinderella\" (as this film was called In my country) is undoubtedly the most recommended. I really do believe that it is really one of the best fairy tale s made on film of all times and of course the best out of those made about Cinderella - There were some quite good films and cartoons made in Russia and Europe, but they still lack the magic that this film possesses, and don't even get me started about the American films about Cinderella. All of them, with the exception of quite nice but too standard and unoriginal Disney cartoon, were simply terrible, and I have a special dislike to that oddity with Drew Barrymore that was worth watching only for ever wonderful Angelica Huston. \"Tri orioshky\" is a real masterpiece. Story itself is more a mix of Cinderella and Peau d'âne fairy tales. All its components (acting, screenplay, sets, camera-work, score) are top-notch and the entire film has certain humanity and naiveté that is clearly missing from most of the modern children's movies. However I am sure whoever loved this film as a child would re-watch it as an adult with great pleasure.",
+         "This movie is simply a staggering classic which probably will live on forever. I remember seeing this movie as I child in Norwegian and the beautiful glimps of magic moments. As a Czechoslovakian myself I've see also seen the Czechoslovak version and honestly its really there were Cinderella blooms in all its greatness although I still recommend anyone to watch it. It is perhaps not a typical Czechoslovak movie, lacking the characteristic humour and comedy aspect but it is still a feel-good movie which will make a distinctive impression on you. PS: Here, in Norway, the movie is actually the only movie which people demand has to be sent on the state channel NRK1 on Christmas Eve - claiming that there will be no proper Christmas without it; And I think that summarizes pretty much what a classic is all about!",
+         "This film is just magic! It's a marvelous adaption of a fairy tale with great actors (most of all Safrankova in the lead), beautiful photography and a lovely musical score. The Aschenputtel (\"Cinderella\") story includes some neat changes compared to the classic Brother's Grimm tale which all add to a wonderful movie. I wish there would be more enjoyable, timeless and innocent films like this. It may have been made for children, but it's worth a watch for everyone from 4 to 100. As said before, it's on German TV every Christmas - in 2005 it aired about eleven times on different channels. A must-see for every fan of fairy tale and romance.",
+         "I was raised with this film as long I can remember. I remember first seeing it at age 6 visiting my grandmother. Since she lived near the border to east Germany, we could watch east German TV at her home. I instantly fell in love with this fairy tale. Later the movie became a regular Christmas staple on German television so I could see it all over and over. Growing up i admit to have fallen in love with the actress of Cinderella, as every boy who watched this movie would admit to also. I never found any big flaw in this movie. Maybe the special effects are not up to date to modern 50+ million dollar productions, but you have to consider that it was created in 1973 and in Czechoslovakia to boot. The acting is great in every aspect, maybe a bit overdone sometimes but better then in many American blockbusters. The conversion of the fairytale is not based totally on the Grimm's tale Cinderella, but more on the regional bohemian version. To that it clings very good. And what I really love are the buildings and landscapes....they are really authentic, something I miss in fairy tale movies shot in America, but they clearly don't have the ages-old castles and mansions. I give this movie a 10 out of 10 which I don't do lightly. Every time I watch this masterpiece it brings back my youth, more than any other movie.",
+         "The movie made in the 70's immediately turned a favorite for so many viewers that since then it is broad-casted on TV as well as screened in several cinemas each Christmas in a number of European countries. It is an absolute bliss and obviously a timeless classic. I just bought in online in USA for my four-year-old daughter, who loved it just as I did as a kid. Regrettably Czech fairytale-movies are neither well-known in USA, nor does this country produce any comparable children's entertainment of such dreamy, yet accessible and sensitive quality. The story is based on the Grimm's version of Cinderella (different from Disney's, who worked from the Perrault version). However, this Cinderella has a lot more support from a number of animal friends, not just the original doves, and she can speak to all of them. Her special friend is a beautiful white horse. She also has an adorable tom-boyish side to her which she easily combines with the ability to turn into a graceful princess. As a special eye-candy, the story is set in a rural winter-landscape, which creates an incredible charm. Equally outstanding is the sound-track. This movie is a must-see for any age group, if you have chance to watch it when its snowy outside you will absolutely fall in love with it.",
+         "In Norway, Germany, Switzerland, Slovakia and the Czech republic this movie is shown every Christmas eve, and for many people (myself included) it won't be Christmas without it. The channel tried to take the movie of the program one year because it's such an old film, but there was a massive upheaval and luckily it was stopped and Christmas was saved and it has been showed ever since. It is a sweet Cinderella story, told in a different way then the classical tale we're used to. The movie is extremely charming and beautifully made, although without any Hollywood style special effects. Unfortunately this movie has suffered the fate of most non-English movies in the US and have been more or less completely overlooked.",
+         "I looked through all the comments here, so I will probably say the same things as everybody else. This movie is the BEST Cinderella movie adaptation ever made! I grew up in Moscow, where this movie is being shown very often on the TV. The acting, dialogues, music, plot everything is just perfect. I wouldn't even compare it to Ever After though I like this one too. I've never seen such a beautiful Cinderella and handsome Prince. And all the comments on this movie made by people all around the world is a true proof that this movie after so many years is still loved that much, which is great, because these days we haven't got so many movies pure and beautiful as this one. THough it's just a Cinderella story. SO, if you haven't seen it yet you SHOUld!!! It's worth it!",
+         "Why did it take me so long to see Three Wishes for Cinderella? The only excuse had is that until people starting recommending it on the recent Cinderella film boards, Three Wishes for Cinderella was completely unknown to me. After hearing from these people that it was the best version of the Cinderella story (always has been my personal favourite fairy tale), this reviewer knew she had to check it out. And it really has to be one of the best decisions and things done in some time. As much as I don't have anything against other versions of Cinderella like some of the commentators do, most of them are actually very enjoyable to great to me, I do have to fully concur after tracking the full film down on Youtube that Three Wishes for Cinderella is the best version of the story. Adaptation-wise, while not completely faithful to all the details the basic details are there (if more Grimm than Perrault with the inclusion of doves to help with the impossible tasks), but also the magical spirit of the story still remains and the freshness that is brought to the storytelling also was much appreciated. Three Wishes for Cinderella is a wonderful-looking film. It's beautifully shot and fluidly edited (quite innovative for the time I'm told), the winter scenery and decor are nothing short of exquisite and the costumes are equally attractive. The music score is whimsical, fits absolutely perfectly and was clearly scored with a lot of love and care, the main theme does repeat itself but is incredibly catchy and radiates with charm, almost like being part of a dream. Three Wishes for Cinderella smartly and poignantly scripted with some nice refreshing humour. Where it is easy to identify completely with Popelka and her problems and the characters are more developed than just being archetypes. Storytelling was really well-told and compelling, sometimes paced deliberately but never to the extent of being too slow or laborious. Also loved how Popelka and the Prince's romance and the character of the Prince was more developed, consequently wittier and more affecting than most versions with the exception of Ever After and the recent Cinderella (though it does it a little better than those two). As mentioned, the characters are interesting and nicely written and developed, as aforementioned being more than stock archetypes/stereotypes like characters can be in adaptations in fairy tales (not a knock, as there is still a lot of love for them by me, but it is true). The tricks and effects are mostly fine, though those of Rosalie the owl agreed are a tad rushed-looking, but that is such a minor complaint and didn't jar too much. Acting is very good. Libuse Safránková is exceptional as Popelka. She is beautiful and shows great personality, she's smart, sometimes funny, spunky, kind, effortlessly cute and incredibly charming and poignant. Love also her almost deadly aim (how many versions of Cinderella have that?), how she rides her horse and dances, almost like on a cloud. The Prince of Pavel Trávnícek matches her perfectly in charm, is never dull or annoying for a character in the story who is barely developed, and the character is surprisingly interesting. Their chemistry together is thoroughly convincing. Carola Braunbock relishes her role as the cruel mother while avoiding overdoing it, a difficult task for a character so juicy in most adaptations of Cinderella. Likewise with Dana Hlavácová's Dora (the sister), and the King and Queen are touchingly and sincerely played. Overall, pure fairy tale magic and adaptations of Cinderella don't get much better than this. 10/10 Bethany Cox",
+         "Wow! That's all I've got to say about this movie. It's shown in Norway every Christmas eve, and although I'm only 17, it's a tradition for me! It's just something I've seen every year since I was a kid. And the fact that every person is dubbed by the same man in Norwegian, doesn't matter at all. It's just part of the charm. The movie tells about the courage and strong will to a young girl, and who knows, maybe it's important for little girls to watch it (they won't turn out like those Britney Spears/Paris Hilton Barbie dolls, they'll have more guts than that!) I personally don't know a single person who doesn't like that movie, so I'll recommend it for everyone now. It's AMAZING!!!!",
+         "I am agree with everything said on this page about \"Tri orishki pro Popelku\" (\"Tri oreshka dlja Zolushki\" as I know it in Russian). I saw this movie first time when I was 5 and now I've just taped it -- to see when I need some mood. Everything here is unbelievably good -- actors, landscapes, screenplay, music (Karel Gott sings the final song). It's only sad, that because of American snobbery this film would never receive more than 50 votes -- it's maid out of USA. Still it's 100 times better than virtually anything filmed at USA.",
+         "BEWARE! This film could very much f..k up your life. You think I might be exaggerating - I don't! Listen and remember. There was a boy, let's say someone I knew. He lived in East Germany, where life in the eighties felt like the sixties had never ended, short skirts, long hair, everybody listened to forbidden music and watched consumer instructions and Hollywood serials coming from the dark territory behind the Western border. In this magic time, when bread was so cheap you could easily build a house with it, in a land, where cars where made out of plastic and pulp and people out of silence, for a young human being TV was the only connection to the real world, to the real people living elsewhere. When he was young, this boy watched everything he could, he loved the tube with all of his heart. But when he saw for the first time the fairy-tale of Cinderella, he was lost. He had fallen for Cinderella head over heels, he had never seen something so beautiful and honest in all of his life. Until the age of fourteen he had seen the film at least 20 times, which was very often because there were no videotapes or VCRs in East Germany. He had a crush on Libuse Safrankova and he was never to be cured. No woman in the whole world could come close to her. Nothing could come close to her, including him. For all of his life he was unable to fall in love or have a relationship. There simply was no one who could compete with her in his heart. And then, one day, he saw a picture of her. Libuse, laying in bed together with a man, in a movie, the title I can't remember. Let's say as much as this: I think you know what happened \u0096 his mother found him - and I have no intention to talk about the details. As for \"Three Nuts for Cinderella\": I have no idea how something so beautiful could have been made in East Germany. I just don't get it. Of course, there were other good fairy-tale movies, but nothing anywhere comparable with this. If I have to rank this, I'd rather give it a 0. Keep your hands off this film, watch Star Wars or Walt Disney, you will be happier in the end.",
+         "Here in Switzerland, this movie is shown by several channels every Christmas. Since it was shot, it returns on the TV screen every year. It's like DINNER FOR ONE and new years eve. My mother loves this movie, so does my aunt. And I happen to like it at lot by myself. It's just so sweet and easy and beautifully shot. Perfect for Christmas time. The actors do what's necessary to create the fairy tale atmosphere but the real stars are the costumes, the settings and the incredibly haunting music. The costumes are terrific handcrafts, each and every one with it's own appearance and a great compromise between actual medieval and fantasy. The settings of the castle, the farmer village and, of course, the endless white landscape create a wonderfully innocent and sweet tone and make you wanna ride across them just like the happy couple. The score by the world famous symphony orchestra of Prague is one of the sweetest and nicest sounds ever heard and it's hard to get it out of the head. In fact, you recognize it within one second, once you've heard it. Just one of a kind. The charming humor and the really evil villains make it even more enjoyable to see, how they find together, the Prince and Aschenbroedel, how we call her. I gave it a 9, just to increase the average grade a bit. This movie deserves more attention.",
+         "During my month long viewing of Czech cinema made during the Cold War era,one of the main titles that I really wanted to glimpse was an adaptation of Cinderella,but I was sadly unable to find a version with the original soundtrack..and English Subtitles. Reading a good summing up of the movie from a fellow IMDber,I took a second go at locating the movie,and finally found the original version!,which led to me getting ready to at last Czech out this Cinderella. The plot: Pushed around by her stepmother and stepsister Dora, Cinderella has to clean up the mess that they both (intentionally) make,with only a loyal owl for company.Looking out of the window,Cinderella dreams of joining all the boys in the city to go hunting and sharp- shooting.Checking some nuts that have mysterious appeared,Cinderella is shocked to discover that one of the nuts gives her new clothes,and new sharp-shooting skills. Sneaking out of the house,Cinderella runs into the Prince of the city,who is deeply impressed by her skills.Wanting to tease him a bit,Cinderella does not tell the prince her name,and hides in the trees and creeps away home.Learning that the prince is going to choose a bride at a royal ball,Cinderella's step-mum and Dora get dressed up and head to the ball. Cleaning up,Cinderella tries one of the magic nuts,and is rewarded with a dress which will allow her to (secretly) go to the ball. View on the film: Backed by a shimming score from Karel Svoboda,director Václav Vorlícek & cinematographer Josef Illík unleash an exquisite, magical atmosphere,sipping up the Winter décor and mythical,lightly Gothic fairy tale. Knotting up the \"traditional\" goody two-shoes image of the tale, Vorlícek gives Cinderella strong shoulders with dazzling,highly stylish circling camera moves circling round her sharp-shooting,and Cinderella circling the Prince. Trimming some of the harsher edges from the original tale, (no one chops their toes off!) Frantisek Pavlícek's adaptation of Bozena Nemcová's Eastern Europe take on the tale gives Cinderella a refreshingly feisty side, that shows Cinderella holding her head high among the men,and also makes the Prince have to put some real effort in to get her hand.Sweeping up the enchanting mood, Pavlícek gives the movie a delicious rustic coating,where nature-not a Fairy Godmother,helps Cinderella to catch everyone's attention.Joined by a wicked Carola Braunbock & Dana Hlavácová as Dora and the step-mum, Libuse Safránková (who got the role after original choice Jana Preissová got pregnant) gives an extraordinary performance as Cinderella,who Safránková brings into the enchanted castle,with playful tomboy cuts that Safránková links with a regal elegance,as Cinderella makes her three wishes.",
+         "I had been wracking my brain for years trying to remember the name of this movie. All I could think of was that there were three magical nuts and when the girl would throw the nuts on the ground, different clothes would appear. I believe she was a very strong willed girl and not easily tempted by the interest of a prince - but then again it's been a long time since I've seen it. Finally when I put 'Cinderella' in the title search - voilà - there it was!! I remember watching this around the holidays as a young girl in Canada and I always loved it. It was one of those Christmas shows that you just had to watch year after year. I still have many shows like that now. It's not Christmas without watching certain shows and this may become one of those shows again. I hope to find it find it on YouTube in full to watch again with my daughter.",
+         "I saw this movie, growing up in Chicago, IL on the Kukla, Fran and Ollie show. I fell in love with it then and it made an impression on me as well. Unfortunately, I was very young then, and I could not even remember what country it had come from! All, I knew is that in this version of Cinderella, there was on owl instead of a fairy God mother, and three magical hazel nuts. Over the years I tried to find it, but to no luck. None of my friends or family remembered seeing it aired on television here in the States. But thanks to the \"determined\" little child within me, and of course, the Internet, I finally found a copy! And even if the subtitles are not perfect, I don't care, its just as magical to me now as it was when I was 8!",
+         "I have thought about this movie now and then and always wondered what it was called. I remember watching it one Christmas and today, I was emailing my sister about a movie we saw on TV when we were kids and I mentioned this one. It took me a few tries but I finally did a search with the right words. Even though I only saw it once, I remember liking it so much. The nuts, the hunt, but I don't remember who brought her the nuts. I remember her asking for \"the first thing that hits you on the nose\". I was probably around 8 or 9 at the time, but it's a clear memory. I wish I could see this movie again. I bet it would be hard to find.",
+         "Known in Spanish as \"La Cenicienta y el Príncipe\" (Cinderella and the Prince), it's the best adaptation of the fairy-tale that I've ever seen; even better than \"Ever After\". Both the prince and Cinderella are strong, and well-developed characters; the queen and the king are simply great, and the poor teacher is my favourite comic character (together with the fat girl in the red dress that almost crushes the prince at the ball - LOL!). Excellent actors, witty dialogues (and funny to boot), beautiful music and scenery and some gorgeous dresses."
+      ],
+      "genres": [
+         "Drama",
+         "Fantasy",
+         "Family",
+         "Adventure",
+         "Romance"
+      ],
+      "productionCompanies": [
+         "Deutsche Film (DEFA)",
+         "Filmové studio Barrandov"
+      ],
+      "summaries": [
+         "The film stars Libuse Safránková as the title character, a young woman who is put upon by her stepmother and stepsisters. The film employs a twist, though, when a handsome prince comes knocking. Cinderella does not simply fall into the prince's arms. In this version, he must actively pursue the young woman who is a skilled sharpshooter prone to wearing hunting outfits. Cinderella also has three wishes at her disposal, gained from three magic nuts.",
+         "Life changes dramatically for a Czech housemaid when the house driver gives her three magical hazel nuts."
+      ],
+      "budget": 0
+   },
+   "movielensId": 135512,
+   "movielens": {
+      "languages": [
+         "Český",
+         "Deutsch"
+      ],
+      "releaseDate": "1973-11-01",
+      "dvdReleaseDate": null,
+      "directors": ["Václav Vorlíček"],
+      "runtime": 82,
+      "movieId": 135512,
+      "title": "Three Wishes for Cinderella",
+      "mpaa": null,
+      "actors": [
+         "Libuše Šafránková",
+         "Pavel Trávníček",
+         "Carola Braunbock",
+         "Rolf Hoppe",
+         "Karin Lesch",
+         "Dana Hlaváčová",
+         "Vladimír Menšík",
+         "Jan Libíček",
+         "Vítězslav Jandák",
+         "Jaroslav Drbohlav",
+         "Míla Myslíková",
+         "Jiří Růžička",
+         "Jan Sůs",
+         "Miloš Vavruška",
+         "Holger Eckert",
+         "Jiří Krytinář",
+         "Helena Růžičková",
+         "Ostara Körner",
+         "Erika Stiska"
+      ],
+      "imdbMovieId": "0070832",
+      "originalTitle": "Tři oříšky pro Popelku",
+      "genres": [
+         "Fantasy",
+         "Drama",
+         "Family",
+         "Adventure",
+         "Romance"
+      ],
+      "youtubeTrailerIds": ["0zhqq4wmYck"],
+      "plotSummary": "The film stars Libuse Safrankova as the title character, a young woman who is put upon by her stepmother and stepsisters. The film employs a twist, though, when a handsome prince comes knocking. Cinderella does not simply fall into the prince's arms. In this version, he must actively pursue the young woman who is a skilled sharpshooter prone to wearing hunting outfits. Cinderella also has three wishes at her disposal, gained from three magic nuts.",
+      "tmdbMovieId": 8703,
+      "avgRating": 3.42188,
+      "releaseYear": "1973",
+      "numRatings": 32,
+      "posterPath": "/cjnY1m5y0MDM94BbCM6TSsYBzMz.jpg"
+   }
+}

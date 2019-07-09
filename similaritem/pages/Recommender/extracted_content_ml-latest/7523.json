@@ -1,0 +1,601 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "suspense",
+            "id": 9937
+         },
+         {
+            "name": "family hostage",
+            "id": 207156
+         }
+      ],
+      "imdb_id": "tt0099409",
+      "video": false,
+      "title": "Desperate Hours",
+      "recommendations": [
+         31597,
+         37084,
+         64566,
+         4701,
+         505,
+         62697,
+         47922,
+         36288,
+         43397,
+         41925,
+         33851,
+         47312,
+         36522,
+         60938,
+         43191,
+         74753,
+         28916,
+         46059,
+         16993,
+         40929
+      ],
+      "backdrop_path": "/7nb2nqGoHLfe09I6Fhuh3NxbBk1.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Michael Bosworth",
+               "gender": 2,
+               "credit_id": "52fe44969251416c91015fd5",
+               "name": "Mickey Rourke",
+               "profile_path": "/AvGzQ8fvjurGmZW3W1wlQ5WfSeT.jpg",
+               "id": 2295,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Tim Cornell",
+               "gender": 2,
+               "credit_id": "52fe44969251416c91015fd9",
+               "name": "Anthony Hopkins",
+               "profile_path": "/btweZvSRBiE6jaMME93BSXeTQN6.jpg",
+               "id": 4173,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "Nora Cornell",
+               "gender": 1,
+               "credit_id": "52fe44969251416c91015fdd",
+               "name": "Mimi Rogers",
+               "profile_path": "/cTXSghmtclAmeTSg4lBBjeOwpoQ.jpg",
+               "id": 13920,
+               "order": 2
+            },
+            {
+               "cast_id": 5,
+               "character": "Brenda Chandler",
+               "gender": 1,
+               "credit_id": "52fe44969251416c91015fe1",
+               "name": "Lindsay Crouse",
+               "profile_path": "/mAZTWVbtfmC0R4R6TZ3rjhJSW0b.jpg",
+               "id": 32225,
+               "order": 3
+            },
+            {
+               "cast_id": 6,
+               "character": "Nancy Breyers",
+               "gender": 1,
+               "credit_id": "52fe44969251416c91015fe5",
+               "name": "Kelly Lynch",
+               "profile_path": "/2ZbV0mppAxxyh4mIG4HKTHfLkDM.jpg",
+               "id": 6473,
+               "order": 4
+            },
+            {
+               "cast_id": 7,
+               "character": "Wally Bosworth",
+               "gender": 2,
+               "credit_id": "52fe44969251416c91015fe9",
+               "name": "Elias Koteas",
+               "profile_path": "/11pXICpcdGJxGG8H8g1Bk3qc66V.jpg",
+               "id": 13550,
+               "order": 5
+            },
+            {
+               "cast_id": 8,
+               "character": "Albert",
+               "gender": 2,
+               "credit_id": "52fe44969251416c91015fed",
+               "name": "David Morse",
+               "profile_path": "/5PuSGfBw3Hsdo5jkhZ59NDFCZUm.jpg",
+               "id": 52,
+               "order": 6
+            },
+            {
+               "cast_id": 9,
+               "character": "May Cornell",
+               "gender": 1,
+               "credit_id": "52fe44969251416c91015ff1",
+               "name": "Shawnee Smith",
+               "profile_path": "/yx1HYEalFsiNVc2imDDfhIZthkn.jpg",
+               "id": 2138,
+               "order": 7
+            },
+            {
+               "cast_id": 15,
+               "character": "Zack Cornell",
+               "gender": 0,
+               "credit_id": "56b4b8019251415320003a8b",
+               "name": "Danny Gerard",
+               "profile_path": null,
+               "id": 1218044,
+               "order": 8
+            },
+            {
+               "cast_id": 16,
+               "character": "Ed Tallent",
+               "gender": 2,
+               "credit_id": "56b4b817c3a36806f8004ae1",
+               "name": "Gerry Bamman",
+               "profile_path": "/ybNlqyoXcAQ5pKz6fFD7Ff7LKcz.jpg",
+               "id": 11517,
+               "order": 9
+            },
+            {
+               "cast_id": 17,
+               "character": "Kyle",
+               "gender": 0,
+               "credit_id": "56b4b8259251417dca001989",
+               "name": "Matt McGrath",
+               "profile_path": "/zrw8HWHNWvNmBGHBYZkicaNJg9A.jpg",
+               "id": 2844,
+               "order": 10
+            },
+            {
+               "cast_id": 18,
+               "character": "Neff",
+               "gender": 2,
+               "credit_id": "56b4b8329251410aab002877",
+               "name": "John Christopher Jones",
+               "profile_path": "/vGpvUJnyUTv0AvVaKMGYn7IIcXa.jpg",
+               "id": 51532,
+               "order": 11
+            },
+            {
+               "cast_id": 19,
+               "character": "Maddox",
+               "gender": 2,
+               "credit_id": "56b4b83e92514114e5004e2c",
+               "name": "Dean Norris",
+               "profile_path": "/owIr4b4VIlJu0m6Drofd3P0qDl5.jpg",
+               "id": 14329,
+               "order": 12
+            },
+            {
+               "cast_id": 20,
+               "character": "Lexington",
+               "gender": 2,
+               "credit_id": "56b4b84b92514112b9004159",
+               "name": "John Finn",
+               "profile_path": "/18k2kiasthWKgu4qUGF02fWsi7m.jpg",
+               "id": 9277,
+               "order": 13
+            },
+            {
+               "cast_id": 21,
+               "character": "Chabon",
+               "gender": 2,
+               "credit_id": "56b4b85b9251410aab00287d",
+               "name": "Christopher Curry",
+               "profile_path": "/1UUvuuXIFlJ6hKNrLnhu0JU9tiC.jpg",
+               "id": 90519,
+               "order": 14
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe44969251416c91015fd1",
+               "name": "Michael Cimino",
+               "profile_path": "/pJZY5Ls2l7NihaMkMjHn4Wt1soE.jpg",
+               "id": 12114,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56b4b7aec3a36806e6005285",
+               "name": "Joseph Hayes",
+               "profile_path": null,
+               "id": 83316,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56b4b7b5c3a36806f8004ad6",
+               "name": "Joseph Hayes",
+               "profile_path": null,
+               "id": 83316,
+               "department": "Writing",
+               "job": "Theatre Play"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56b4b7c0c3a36806f1004c7f",
+               "name": "Lawrence Konner",
+               "profile_path": null,
+               "id": 2100,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56b4b7ca92514114e5004e1a",
+               "name": "Mark Rosenthal",
+               "profile_path": null,
+               "id": 2103,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56b4b7d492514112b9004143",
+               "name": "Joseph Hayes",
+               "profile_path": null,
+               "id": 83316,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "575ca3e09251412b0c0005db",
+               "name": "Mel Dellar",
+               "profile_path": null,
+               "id": 76160,
+               "department": "Production",
+               "job": "Line Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "575ca3eac3a368378f0000f0",
+               "name": "Martha De Laurentiis",
+               "profile_path": null,
+               "id": 19051,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "575ca3f1c3a368378f0000f3",
+               "name": "Dino De Laurentiis",
+               "profile_path": "/l5skcaSr7QLDMOpAahznDjUW9Ec.jpg",
+               "id": 5398,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "575ca3f89251414a820011f1",
+               "name": "Michael Cimino",
+               "profile_path": "/pJZY5Ls2l7NihaMkMjHn4Wt1soE.jpg",
+               "id": 12114,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "575ca4339251412b68000628",
+               "name": "David Mansfield",
+               "profile_path": null,
+               "id": 7435,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "575ca43a9251412b0c0005f0",
+               "name": "Douglas Milsome",
+               "profile_path": null,
+               "id": 8306,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "575ca45dc3a3683118000d05",
+               "name": "Christopher Rouse",
+               "profile_path": "/2f2D5is6A2xeojztPCMshKTSK0m.jpg",
+               "id": 29405,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "575ca46dc3a3685e0300148a",
+               "name": "Mary Colquhoun",
+               "profile_path": null,
+               "id": 21517,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "575ca491c3a36872ca0006f3",
+               "name": "Victoria Paul",
+               "profile_path": null,
+               "id": 22008,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "575ca4dec3a3683118000d1d",
+               "name": "Patricia Klawonn",
+               "profile_path": null,
+               "id": 1378749,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "575ca50dc3a3683168000d5d",
+               "name": "Crispian Sallis",
+               "profile_path": null,
+               "id": 945,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 2,
+               "credit_id": "575ca53cc3a3683118000d30",
+               "name": "Charles DeCaro",
+               "profile_path": null,
+               "id": 1633974,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "575ca563c3a3683168000d70",
+               "name": "Mel Dellar",
+               "profile_path": null,
+               "id": 76160,
+               "department": "Production",
+               "job": "Unit Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a83769792514175a2004f75",
+               "name": "Allan A. Apone",
+               "profile_path": null,
+               "id": 102343,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a8376a392514175960052e9",
+               "name": "Alberto Fava",
+               "profile_path": null,
+               "id": 1974976,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a8376afc3a3682dca0056fa",
+               "name": "Bob Mills",
+               "profile_path": null,
+               "id": 83065,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a8376bac3a3682dbf005b9f",
+               "name": "Edward Ternes",
+               "profile_path": null,
+               "id": 1446530,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a8376c7c3a3682dd3005715",
+               "name": "Bill W. Benton",
+               "profile_path": null,
+               "id": 1391572,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a8376d3c3a3682dbf005bb9",
+               "name": "Jay M. Harding",
+               "profile_path": null,
+               "id": 1974978,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a8376ddc3a3682daf0052c2",
+               "name": "Jack Kirschner",
+               "profile_path": null,
+               "id": 1348149,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a8376e8925141758d0054bb",
+               "name": "James J. Klinger",
+               "profile_path": null,
+               "id": 1342639,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a8376f9c3a3682dbf005be7",
+               "name": "Gregory H. Watkins",
+               "profile_path": null,
+               "id": 1338374,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a837703c3a3682db20057a5",
+               "name": "Keith A. Wester",
+               "profile_path": null,
+               "id": 1547897,
+               "department": "Sound",
+               "job": "Sound Mixer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Mystery",
+            "id": 9648
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 3.306491,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 31676,
+      "vote_count": 47,
+      "budget": 0,
+      "overview": "A criminal holds a wealthy family hostage.",
+      "similar": [
+         949,
+         189,
+         336843,
+         910,
+         996,
+         1939,
+         8834,
+         10285,
+         845,
+         72784,
+         9272,
+         1923,
+         2163,
+         223,
+         9411,
+         1645,
+         19959,
+         6977,
+         2252,
+         1586
+      ],
+      "original_title": "Desperate Hours",
+      "runtime": 105,
+      "poster_path": "/kt3rsOSKOCDU47cNQdKxLB57oOD.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/zcxym93i5BTqqjhVvAhV5HPwYTR.png",
+         "name": "Metro-Goldwyn-Mayer",
+         "id": 21,
+         "origin_country": "US"
+      }],
+      "release_date": "1990-10-05",
+      "vote_average": 5.4,
+      "belongs_to_collection": null,
+      "tagline": "Desire is the deadliest weapon of all.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Michael Cimino"],
+      "runtime": 105,
+      "synopsis": null,
+      "writers": [
+         "Joseph Hayes",
+         "Joseph Hayes"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0099409/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjI4MzkwNjY1Ml5BMl5BanBnXkFtZTcwOTQ4NTMzNA@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Mickey Rourke, Anthony Hopkins, Mimi Rogers | See full cast and crew »"],
+      "reviews": [
+         "A peculiar piece of entertainment, Michael Cimino's Desperate Hours feels rather odd for a number of reasons. Not the least of which is the off kilter performance of Lindsay Crouse as the FBI agent from another galaxy. Was that lady weird or what? I couldn't understand 50% of what she said throughout this very watchable mess of a movie. Not surprisingly, Cimino's pacing is somehow frustrating and gripping at the same time. This aspect of his films seem to linger in my memory for awhile. Fans of Kelly Lynch should realize that she's topless for much of her screen time. Finally, I found the score to be very unique in flavor. Most movies of this type have a dark, menacing soundtrack. The music here is often lush,ethereal sentimental even. Not much tension sustained, but this alternates nicely with the over the top performances of Rourke, Rogers and Hopkins. All in all I think this an enjoyable flick for those looking for something slightly different in their suspense movie.",
+         "This is one of those movies that is very difficult to give a star rating because its high entertainment value is due to the fact that it's almost completely terrible. A remake of the 1955 Humphry Bogart-Fredric March potboiler, DESPERATE HOURS is an unrelentingly bizarre piece of exploitation trash. There's virtually nothing \"good\" about it. The screenplay ranges from scattershot to just plain off-the-wall weird, the performances are some of the most over-the-top ever committed to film and the direction is borderline psychotic. Director Michael Cimino and producer Dino De Laurentiis once again prove that they are more capable than anyone else in the film industry of taking a potentially good idea and drowning it in excessiveness. Mickey Rourke and Anthony Hopkins are both excellent actors. They are also actors who go from mannered to berserk very quickly. Both chew the scenery as if their lives depend on it. Mimi Rodgers is wooden even during emotionally intense scenes, Shawnee Smith is distraught before the home invaders show up and Lindsay Crouse is both wooden and over-the-top at the same time. Kelly Lynch is the only actor who turns in even an appropriate performance, evoking a sense of hopelessness and panic from the start that makes you feel for her character, even if she has dug her own grave. This doesn't help a bewildering early scene in which her blouse spontaneously pops open to reveal her bare breasts make any more sense, however. There are a lot of interesting plot and characterization ideas floating around the proceedings but none of them are ever fully developed. It reminds me of Cimino's HEAVEN'S GATE and De Laurentiis's DUNE, two similarly flawed but occasionally brilliant disasters which have grown better with age. Maybe with time, viewers will begin to see the tight, complex thriller struggling to break through the mess that is DESPERATE HOURS. But all this analysis begs the question, would the movie have been more entertaining had it been put together more coherently? The answer is: probably not.",
+         "I think on a certain level this film works quite well. First, throw out everything you know about the 1955 version. Next, abandon paying too much attention to how the plot progresses (gee, Kelly Lynch's character seems to disappear for extended periods of time, and it's amazing that the FBI ever found following her to be worth it. And she is supposed to be one of the smarter characters, but then again, you took what Lindsay Crouse's character said about her too seriously.) The film has a most curious tone, and just when you think it's going to turn into an art film, we get a shoot-em-up or some other plot contrivance to bring it back to earth. The soundtrack is a moody pastiche of 50's style orchestrations (no rock music!) and recalls moody post-noir thrillers of the late 50's-early 60's. And what a fascinating line-up of players, performances, and characters. Kelly Lynch's acting directions must have been \"look snappy, especially topless, act like you just ingested a gram of cocaine, and all will go well.\" One of these first years Cimino will put together all the pieces and come up with a really good, coherent film. For a really good obtuse film, reference Walter Hill's \"The Driver\" with Ryan O'Neal. Oh, and if you ever thought you could mess with Lindsay Crouse, this film should dispel that notion. She's much badder than Mickey Rourke - and that's the biggest surprise of the whole picture! And with a lot less screen time, too. And by golly I guess Mickey Rourke's character is just an obsessive lover of the enigmatic Lynch. That explains a lot. Coolest line in the film: FBI agent says to Crouse (after she got shot in the leg) : \"Where are you hit?\" Answer: \"In the ego.\"",
+         "Michael Bosworth is on trial and clearly not a nice man in the courtroom. When he goes to another room to talk with his beautiful lawyer Nancy, he steals a gun she has hidden under her skirt (how anything can be hidden under THAT skirt is a mystery) and escapes, joining his brother and another man. Meanwhile, Tim Cornell, a lawyer whose family lives in a nice house, is trying to make peace with his wife Nora after an affair, but she is convinced the marriage is over and she is in the process of selling the house, as the sign out front makes clear. Bosworth and his associates show up and take the family hostage, and they use whatever information they can find for their benefit. There are several exciting scenes in the beautiful wilderness of what is said to be Utah. Nancy is chased because she is suspected of helping Bosworth, though exactly what happened with that chase is not clear. We only see what happened later. And the process of finding out what happened to Bosworth is fasscinating. Mickey Rourke does a good job, thoroughly evil in court but calm and almost kind with the family most of the time. Anthony Hopkins also delivers, keeping his cool throughout most of the ordeal and coming across as intelligent and even caring. Mimi Rogers did a great job as well playing Nora. Despite their problems, it was clear this was a loving family and they all cared about each other. This is not a particularly violent movie, though at least one person does die. This is more of a psychological thriller than a Schwarzenegger action movie, though at one point a comparison to an action movie would make sense.",
+         "I am a big Mickey Rourke fan from his string of hits in the 80's. I kind of fell off the bandwagon during the 90's, finding his choice of films to be somewhat uninspiring. Still a great actor, just seemed to be having some trouble picking quality projects. Seeing 'Sin City' brought me back (great role, great acting, great film!), so I picked up 'Desperate Hours' and watched it last night. While the supporting characters could have been better written (Kelly Lynch & Mimi Rogers' characters fell flat), the scenes between Rourke & Anthony Hopkins were wonderful! Elias Koteas as Rourke's brother was forgettable, but David Morse's character of Albert was very interesting. Somewhat like a big dumb 'Lenny' to Rourke's 'George'. Like another reviewer I was reminded of Humphrey Bogart's 'Duke Mantee' in the 1936 film 'Petrified Forest', but Rourke's 'Michael Bosworth' was a little more homicidal and more of a loose cannon. If you like Rourke & Hopkins, you will enjoy watching 'Desperate Hours.'",
+         "micheal cimino is a talented and (to many) an infuriating film maker but along with this and his prior 'the sicilian' he really comes a cropper. the premise is promising; a strong cast and an engaging idea to update and alternate the original story about an escaped group of felons who are held up with a well to do american family soon becomes a botched, disappointing misfire. most of the scenes are poorly handled and are unintentionally funny particularly involving anthony hopkins giving a pretty confusing performance. **** me, he starts off at the beginning as a yank (\"hi honey, i'm home!\") and then halfway through ends up sounding like his captain bligh incarnation from 'the bounty'! throughout the movie he spends alot of time being hauled around and generally manhandled by mickey rourke who gives the best performance and is about the only redeeming feature of this sorry mess. mimi rogers supplys a typically bland, squeky clean supporting role as hopkin's long sufferring spouse though kelly lynch isen't too bad.",
+         "\"Desperate Hours\" is a 1990 remake of William Wyler's psycho drama of the same name from 1955 featuring Humphrey Bogart and Fredric March as original cast. Michael Cimino directed this story of a blood-thirsty gang raiding an upper class suburb house on their run from the police after a series of ambitious big projects like \"Heaven's Gate\", \"Year of the Dragon\" and \"The Sicilian\" in the eighties. In this remake, it is Mickey Rourke's turn to play Bogart's leading role, and he turned Bogart's coolness into a portrait of a psychopathic gentleman gangster whose violent dominance is about to erupt like a volcano every second. His counterpart is lawyer Anthony Hopkins, an upper-class citizen and head of a broken family. Both men are fighting against each other in every possible way, starting with psycho duels and witty conversations to hard fights and pure wars of nerves. Most of the plot takes place in Hopkins' house, and as soon as the story is settled out of this apparent suburb paradise hell breaks out, starting from Rourke's violent escape from a courthouse prison in the beginning of the film to the final showdown when the police arrives. Cimino's direction works well with his whole ensemble often placed in the living room like actors on a static theater stage, and the camera views the psychological warfare often from a very distant ankle like in a documentary. The great cast of all actors featuring Mimi Rodgers, Kelly Lynch, Elias Koteas and David Morse and the minimal and seducing sound track score by David Mansfield add much tension to this well-dome remake of a great fifties crime drama.",
+         "After the financial disaster that was HEAVEN'S GATE, Michael Cimino was on a warpath to prove he was still a legitimate filmmaker. He subsequently made the overwrought YEAR OF THE DRAGON, THE SICILIAN and a remake of DESPERATE HOURS in the 1980s. All of those films bombed at the B.O. and his credibility never really recovered. Of all three films he directed in the 80s, DESPERATE HOURS is, by far, the worst. The movie is bad, bad, bad. The movie actually reflects its title. It's truly desperate. Like the director, the film wants to be taken seriously and yet it's woefully misguided with overwrought acting, leaden direction that rarely makes any sense and a script that's totally outdated and is divorced from logic. As I've said, the movie wants to be taken seriously but every attempt of seriousness is quickly shot down with remarkably ludicrous details. For instance, when David Morse is alone in the wilderness and he's running away from the police, the whole moment is (oddly) directed with reverence but then, as Morse is heading towards a gas station, he meets two buxom bimbos who are dressed in such ridiculous clothes (they look like they just stepped out of a Playboy spread) that the director's attempt at reverence is destroyed by the unexpected sight of those two women who just didn't belong in the movie. I'm sure someone got laid from hiring those two women. Arf! And then there's the whole way Kelly Lynch is treated in the movie. What an embarrassing role. She didn't deserve to be treated like that. I love Leonard Maltin's description of what is done to her character: kamikaze disrobing. But topping everything, even the dreadful music or scenery chewing from Mickey Rourke or Anthony Hopkins, is Lindsay Crouse's performance, which can only be described as being out of this world. The way she talks, enunciates her dialogue, the way her character is directed, well, the whole thing is totally perplexing. I've tried to come up with a way to describe her acting/role but I can't. Remember Dolores Fuller's acting in GLEN OR GLENDA? Well, Lindsay Crouse must have taken some lessons from Dolores because her acting is identical. Personally speaking, Lindsay Crouse's acting in DH ranks up there as one of the weirdest performances ever put on screen. I haven't seen the original version of DESPERATE HOURS but I can't imagine it's remotely close to being as dreadful as Michael Cimino's version.",
+         "Once, Michael Cimino was a great director. Now, he's just a Hollywood joke. Why? Here's a good example. \"Desperate Hours\" is a remake of a similar movie which starred Humphrey Bogart. I've never seen the original. Wish I could say the same about the remake. Rourke plays the mad dog killer this time out, who is on the lam with his attorney (Lynch, who should probably sue Cimino for defamation of character) and holes up with his cronies in the house of a distant man (Hopkins) and his equally distant family. Screams, fights, violence and blood all share equal screen time. Then Crouse shows up to head the manhunt for Rourke and every last shred of belief jumps out the window to escape her. Are FBI agents really this stupid? Don't they have entrance exams? Isn't it against the law to endanger innocent peoiple just to capture an escaped convict? Isn't it? Didn't Cimino and his writers suspect as much? Wait, I forget: this is the same man who made \"Heaven's Gate\". This is, without a doubt, one of the most blatantly stupid, tasteless, egomaniacal trips through Idiot-Land I've even seen since \"Dumb and Dumber\". But at least THAT one was supposed to be funny. No stars. Not a one. Watching \"Desperate Hours\" is like witnessing a car accident, only more painful and with more victims.",
+         "Why is it that Hollywood believes that taking an old movie and putting a modern spin on it,is going to make it \"even better than the original?\" I've seen and reviewed the original Humphry Bogart movie and now that I've seen this version on the \"THIS\" network last night,it only makes me like Bogie's even more. The original slowly built up it's story and every bit of the action was well timed and gave you that sense of urgency and fear for the family in question. In this one,it's was quite obvious that they were going for more focus on action and a slick look,than they were for acting. Even a great actor like Anthony Hopkins,has his performance diluted by all of this mayhem. His role is okay but really doesn't get interesting until the last 30 minutes or so. The rest of the family pales in comparison to the 1950's version. In that one,they all took a shot at out-witting the bad guys. Nora,the mom/wife,when first confronted by the gang of three is told by one of them,\"I found someone's bikini by the pool.\" She stupidly tells them,\"That's my daughter's\". Good mom,tell these desperate criminals you have a daughter. The little boy only cries for his mom or dad and only defies Rourke by saying\"I'm going to bed\". The son in Bogart's,hit,kicked and screamed at them. Their daughter,while crying and emotional over the situation,is otherwise not a very interesting character. Her boyfriend,unlike in the original where he gets clued in, seems to somehow know she needs to be rescued,when really,he knows nothing of what's happening in the house. Rourke's acting does not evoke a sense of fear and urgency like Bogart's did. I realize two different actors,two different styles but Rourke's doesn't even have a \"style\". All he does is act a little smug,or very angry and even his anger made me laugh. The female lawyer he supposedly \"loves\" is a pretty thin character but even thinner and worse than that is the female FBI agent. Her performance is without a doubt the worst acting from a female I've ever seen. She spouts her lines like a female auditioning to be The Terminator. Her lines are hollow and virtually emotionless. The only thing that kept me watching this film was to see the differences between the two films and to get to the anticipated climax. I knew how it would end but I had to see it through. 3 stars for a few good scenes of action and the ending. The end of 2 desperate hours. (END)"
+      ],
+      "genres": [
+         "Crime",
+         "Drama",
+         "Thriller"
+      ],
+      "productionCompanies": ["Dino De Laurentiis Company"],
+      "summaries": [
+         "Michael Bosworth is a psychotic criminal who is about to go on trial however, he seduces his lawyer into helping him escape. But as they try to make their getaway, she's left behind. He decides to wait for her to come to him, so he decides to hide at the house of the Cornells. Now it appears that the Cornells have problems of their own. The husband and wife are separated. And there's an FBI agent after them who is using the lawyer to lead them to Bosworth.",
+         "An escaped con on the run from the law moves into a married couple's home and takes over their lives."
+      ],
+      "budget": 0
+   },
+   "movielensId": 7523,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1990-10-05",
+      "dvdReleaseDate": "2004-11-02",
+      "directors": ["Michael Cimino"],
+      "runtime": 105,
+      "movieId": 7523,
+      "title": "Desperate Hours",
+      "mpaa": "",
+      "actors": [
+         "Mickey Rourke",
+         "Anthony Hopkins",
+         "Mimi Rogers",
+         "Lindsay Crouse",
+         "Kelly Lynch",
+         "Elias Koteas",
+         "David Morse",
+         "Shawnee Smith",
+         "Danny Gerard",
+         "Gerry Bamman",
+         "Matt McGrath",
+         "John Christopher Jones",
+         "Dean Norris",
+         "John Finn",
+         "Christopher Curry"
+      ],
+      "imdbMovieId": "0099409",
+      "originalTitle": "Desperate Hours",
+      "genres": [
+         "Mystery",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": [],
+      "plotSummary": "A criminal holds a wealthy family hostage.",
+      "tmdbMovieId": 31676,
+      "avgRating": 2.79798,
+      "releaseYear": "1990",
+      "numRatings": 99,
+      "posterPath": "/kt3rsOSKOCDU47cNQdKxLB57oOD.jpg"
+   }
+}

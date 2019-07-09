@@ -1,0 +1,622 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "holiday",
+            "id": 65
+         },
+         {
+            "name": "upper class",
+            "id": 213
+         },
+         {
+            "name": "hotel",
+            "id": 612
+         },
+         {
+            "name": "wrong diagnosis",
+            "id": 179510
+         }
+      ],
+      "imdb_id": "tt0042665",
+      "video": false,
+      "title": "Last Holiday",
+      "recommendations": [
+         35185,
+         49843,
+         42800,
+         160103,
+         94725,
+         114266,
+         26427,
+         65550,
+         124525,
+         54391,
+         47675,
+         38023,
+         51136,
+         29112,
+         42214,
+         53769,
+         124296,
+         111605,
+         124527,
+         253759
+      ],
+      "backdrop_path": "/llVlyKIVX3M87qid4v1pEZCoxvF.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "George Bird",
+               "gender": 2,
+               "credit_id": "52fe46f99251416c75089bbf",
+               "name": "Alec Guinness",
+               "profile_path": "/nv3ppxgUQJytFGXZNde4f9ZlshB.jpg",
+               "id": 12248,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Sheila Rockingham",
+               "gender": 0,
+               "credit_id": "52fe46f99251416c75089bc3",
+               "name": "Beatrice Campbell",
+               "profile_path": "/5DSqy2UzUrZgToEvH4wYytnnJrI.jpg",
+               "id": 117146,
+               "order": 1
+            },
+            {
+               "cast_id": 5,
+               "character": "Mrs. Poole",
+               "gender": 1,
+               "credit_id": "52fe46f99251416c75089bd3",
+               "name": "Kay Walsh",
+               "profile_path": "/4CmjZwzMKyAXgjxb7w12jt8Osgv.jpg",
+               "id": 67615,
+               "order": 2
+            },
+            {
+               "cast_id": 6,
+               "character": "Gambini",
+               "gender": 2,
+               "credit_id": "52fe46f99251416c75089bd7",
+               "name": "Grégoire Aslan",
+               "profile_path": "/1KymTHXP2weyuSYNJeXzrNmGCPM.jpg",
+               "id": 53819,
+               "order": 3
+            },
+            {
+               "cast_id": 7,
+               "character": "Daisy Clarence",
+               "gender": 1,
+               "credit_id": "52fe46f99251416c75089bdb",
+               "name": "Jean Colin",
+               "profile_path": "/2l2KDMncA1Akp4zcaJEAj0wgIM3.jpg",
+               "id": 550530,
+               "order": 4
+            },
+            {
+               "cast_id": 22,
+               "character": "Lady Oswington",
+               "gender": 0,
+               "credit_id": "57105751925141666c0000de",
+               "name": "Muriel George",
+               "profile_path": null,
+               "id": 543542,
+               "order": 5
+            },
+            {
+               "cast_id": 23,
+               "character": "Derek Rockingham",
+               "gender": 0,
+               "credit_id": "571057599251412c510017af",
+               "name": "Brian Worth",
+               "profile_path": "/gVgsvGqx69h4Gh70FL4lG0XxIvh.jpg",
+               "id": 101853,
+               "order": 6
+            },
+            {
+               "cast_id": 24,
+               "character": "Miss Fox",
+               "gender": 1,
+               "credit_id": "57105760c3a368503c00392a",
+               "name": "Esma Cannon",
+               "profile_path": "/qb2r6AeQpcpFDg7W5q4nHCChyL6.jpg",
+               "id": 84404,
+               "order": 7
+            },
+            {
+               "cast_id": 25,
+               "character": "Inspector Wilton",
+               "gender": 2,
+               "credit_id": "57105768c3a3684ff1003508",
+               "name": "Bernard Lee",
+               "profile_path": "/vCLXqcJNAijcVrRrJuoduc5VnSd.jpg",
+               "id": 9874,
+               "order": 8
+            },
+            {
+               "cast_id": 26,
+               "character": "Joe Clarence",
+               "gender": 2,
+               "credit_id": "5710577e9251412c510017bd",
+               "name": "Sid James",
+               "profile_path": "/9dMtCoy4lvc7blUersBo4ypao1M.jpg",
+               "id": 40952,
+               "order": 9
+            },
+            {
+               "cast_id": 27,
+               "character": "Bellinghurst",
+               "gender": 2,
+               "credit_id": "5710578e9251417cd1001cc7",
+               "name": "Campbell Cotts",
+               "profile_path": null,
+               "id": 1042265,
+               "order": 10
+            },
+            {
+               "cast_id": 28,
+               "character": "Sir Robert Kyle",
+               "gender": 2,
+               "credit_id": "57105796c3a3684122001f16",
+               "name": "Moultrie Kelsall",
+               "profile_path": null,
+               "id": 132720,
+               "order": 11
+            },
+            {
+               "cast_id": 29,
+               "character": "Miss Hatfield",
+               "gender": 0,
+               "credit_id": "5710579e9251417cd1001ccc",
+               "name": "Madam Kirkwood-Hackett",
+               "profile_path": null,
+               "id": 1605958,
+               "order": 12
+            },
+            {
+               "cast_id": 30,
+               "character": "Chalfont",
+               "gender": 2,
+               "credit_id": "571057a79251416a56002b4f",
+               "name": "Wilfrid Hyde-White",
+               "profile_path": "/hBLDxE2Uhf41k5bz0IhmRiKhvPj.jpg",
+               "id": 15387,
+               "order": 13
+            },
+            {
+               "cast_id": 31,
+               "character": "Wrexham",
+               "gender": 2,
+               "credit_id": "571057afc3a3685378004e36",
+               "name": "Eric Maturin",
+               "profile_path": null,
+               "id": 587794,
+               "order": 14
+            },
+            {
+               "cast_id": 32,
+               "character": "Miss Mellows",
+               "gender": 1,
+               "credit_id": "571057b7c3a3684ff100350d",
+               "name": "Helen Cherry",
+               "profile_path": "/pn0VXNECnQSSwHVBFS1zHVaVUCk.jpg",
+               "id": 133247,
+               "order": 15
+            },
+            {
+               "cast_id": 33,
+               "character": "Michael the Waiter",
+               "gender": 0,
+               "credit_id": "571057c1c3a3684ff1003510",
+               "name": "Harry Hutchinson",
+               "profile_path": null,
+               "id": 137881,
+               "order": 16
+            },
+            {
+               "cast_id": 34,
+               "character": "Trade Union Man",
+               "gender": 0,
+               "credit_id": "571057cdc3a36831e1001d42",
+               "name": "Hal Osmond",
+               "profile_path": null,
+               "id": 563071,
+               "order": 17
+            },
+            {
+               "cast_id": 35,
+               "character": "Prescott",
+               "gender": 2,
+               "credit_id": "571057d49251417cd1001cd8",
+               "name": "Brian Oulton",
+               "profile_path": "/5YEgQh8octAFtzFC0bI0qZLmC9f.jpg",
+               "id": 40964,
+               "order": 18
+            },
+            {
+               "cast_id": 36,
+               "character": "Sir Trevor Lampington",
+               "gender": 2,
+               "credit_id": "571057dd9251416a56002b5b",
+               "name": "Ernest Thesiger",
+               "profile_path": "/bmgsa81yJ2sYIrFLqiCKLaRDg4t.jpg",
+               "id": 2925,
+               "order": 19
+            },
+            {
+               "cast_id": 37,
+               "character": "Maggie the Maid",
+               "gender": 0,
+               "credit_id": "571057e5c3a36860a800322f",
+               "name": "Heather Wilde",
+               "profile_path": null,
+               "id": 149081,
+               "order": 20
+            },
+            {
+               "cast_id": 38,
+               "character": "Dr. Pevensey",
+               "gender": 2,
+               "credit_id": "571057ed9251417cd1001ce2",
+               "name": "Ronald Simpson",
+               "profile_path": null,
+               "id": 955167,
+               "order": 21
+            },
+            {
+               "cast_id": 39,
+               "character": "Burden",
+               "gender": 2,
+               "credit_id": "571057fb9251412c510017d2",
+               "name": "Arthur Howard",
+               "profile_path": "/2N1PTTgnvc0EuXWJvv2Y3rd4im3.jpg",
+               "id": 219130,
+               "order": 22
+            },
+            {
+               "cast_id": 40,
+               "character": "William the Waiter",
+               "gender": 2,
+               "credit_id": "57105868c3a3685370005129",
+               "name": "Leslie Weston",
+               "profile_path": null,
+               "id": 97247,
+               "order": 23
+            },
+            {
+               "cast_id": 41,
+               "character": "Dinsdale",
+               "gender": 0,
+               "credit_id": "57105877c3a3684ff1003533",
+               "name": "Lockwood West",
+               "profile_path": null,
+               "id": 114554,
+               "order": 24
+            },
+            {
+               "cast_id": 42,
+               "character": "Blind Fiddler",
+               "gender": 0,
+               "credit_id": "5710587f925141633700017c",
+               "name": "David McCallum Sr.",
+               "profile_path": null,
+               "id": 1605959,
+               "order": 25
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe46f99251416c75089bc9",
+               "name": "Henry Cass",
+               "profile_path": null,
+               "id": 117147,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe46f99251416c75089bcf",
+               "name": "J.B. Priestley",
+               "profile_path": null,
+               "id": 103736,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57105502c3a3685370005051",
+               "name": "Stephen Mitchell",
+               "profile_path": null,
+               "id": 1605953,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57105509c3a3684ff1003497",
+               "name": "A.D. Peters",
+               "profile_path": null,
+               "id": 1605954,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "571055109251412c5100174a",
+               "name": "J.B. Priestley",
+               "profile_path": null,
+               "id": 103736,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57105518c3a3684122001e88",
+               "name": "Francis Chagrin",
+               "profile_path": null,
+               "id": 577655,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5710551e925141626c001142",
+               "name": "Ray Elton",
+               "profile_path": null,
+               "id": 1279101,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57105525c3a3684122001e8d",
+               "name": "Monica Kimick",
+               "profile_path": null,
+               "id": 1291515,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5710552ec3a368503c00387f",
+               "name": "John Redway",
+               "profile_path": null,
+               "id": 1545337,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5710553592514163370000eb",
+               "name": "Duncan Sutherland",
+               "profile_path": null,
+               "id": 1018371,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5710553fc3a3685370005065",
+               "name": "Ann Wemyss",
+               "profile_path": null,
+               "id": 1289584,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5710556cc3a36860a80031ae",
+               "name": "Bob Clark",
+               "profile_path": null,
+               "id": 1605955,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57105572925141666c000067",
+               "name": "Doris Pollard",
+               "profile_path": null,
+               "id": 1605956,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "571055a9c3a368503c0038b0",
+               "name": "Victor Wark",
+               "profile_path": null,
+               "id": 1605957,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 2,
+               "credit_id": "571055d6925141666c000090",
+               "name": "John Arnold",
+               "profile_path": null,
+               "id": 186930,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "571056599251416a56002b17",
+               "name": "Harry Benson",
+               "profile_path": null,
+               "id": 137889,
+               "department": "Sound",
+               "job": "Sound"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         }
+      ],
+      "popularity": 0.978534,
+      "production_countries": [{
+         "iso_3166_1": "GB",
+         "name": "United Kingdom"
+      }],
+      "id": 16939,
+      "vote_count": 10,
+      "budget": 0,
+      "overview": "George Bird is a salesman of agricultural machinery who finds out that he hasn't long to live. On his doctor's advice, he goes to an exclusive seaside resort to spend his savings on one last holiday.",
+      "similar": [
+         11395,
+         9279,
+         13673,
+         9021,
+         1581,
+         8871,
+         10147,
+         634,
+         9479,
+         13377,
+         17979,
+         287903,
+         51052,
+         10872,
+         772,
+         1585,
+         10719,
+         296100,
+         338964,
+         9714
+      ],
+      "original_title": "Last Holiday",
+      "runtime": 88,
+      "poster_path": "/n2Ssj8ZvOOgBouwPTG49ShttGCr.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Watergate Films",
+            "id": 18859,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Associated British Picture Corporation",
+            "id": 1441,
+            "origin_country": "GB"
+         }
+      ],
+      "release_date": "1950-05-15",
+      "vote_average": 6.9,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Black and White",
+      "budgetCurrency": null,
+      "directors": ["Henry Cass"],
+      "runtime": 88,
+      "synopsis": null,
+      "writers": ["J.B. Priestley"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0042665/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjE3NTc1MTgzMF5BMl5BanBnXkFtZTcwNTMzNDIyMQ@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Alec Guinness, Beatrice Campbell, Kay Walsh | See full cast and crew »"],
+      "reviews": [
+         "An unremarkable man is told he has Lampington's Disease and has only a few weeks to live, so he decides to spend his life savings on his remaining time left living a comfortable life in a seaside hotel. Straight away everything he touches turns to gold and he makes friends easily, gets golden business opportunities and even finds himself lucky in both the gambling and romance stakes.The staff at the hotel go on strike he rallies all the residents together and they fend for themselves, he bumps into the manufacturer of the farming implements he used to sell and tells him how to improve it and gets a partnership for his trouble.He even bumps into Sir Trevor Lampington the man who discovered the disease he's got and that's when our hero's luck changes again.When Sir Trevor tells him he hasn't got Lampingtons disease and it's confirmed, our man goes into deep joy as he's now able to take up all the offers he's received and truly lead a life of comfort. This is a tremendous film and Alec Guinness delivers a perfect performance of George Bird our main character who's luck changes from bad to worse to good to better and back again more than once throughout the film.With a couple of plot twists that you can see coming and a couple that come out of the blue so that the ending isn't obvious this is British film making at it's best. It's got a haunting violin theme also, and I'm not ashamed to say it made me shed a tear or two. This film is top of my list if it's ever released on VHS or DVD.",
+         "This is Alec Guinness's first leading role in his first serious comedy. It has an original idea where an English clerk is erroneously told by the company doctor that he does not have long to live. So the clerk decides to take all the money that he saved and live it up at a ritzy resort hotel in England. The people and the way they spoke in 1950 seem dated but the story rings true. It is a great story on people's behavior, good and bad. It is great to see Kay Walsh as his leading lady. Mr. Guinness and Ms. Walsh worked several times together and they made a great team.",
+         "I love this film and it's one of the few I've watched time and time again. It's a forgotten jewel and is infrequently mentioned. For me it has everything that was important of it's era. The social comment is mingled into an entertaining story. How the Health Service is expanding but people go hungry. An over worked Doctor making mistakes. George Bird being projected into a world that is not his own. The irony of riches coming his way when he thinks he has little time left. The Union's getting their grip on the country with strike action. How the upper classes view the lower and vice versa. How George Bird is now viewed as upper class because of his new setting. Post war money laundering. How war heroes can't find work. Love and jealousy. And the ironies - how he buys a dead man's clothes. How he swerves a car to avoid a dog that is due to be destroyed and turns into a road called 'Fallow End.' Then there is the acting. Sid James gives one of his great performance. His 1940's and 1950's work was superb. Sadly remembered for his Carry On performances more than the superb actor that he was. He just holds the scenes and in some cases is competing well with Guinness. For Guinness this is an early film. Ernest Thiesiger makes a great appearance along with many others including the delightful Kay Walsh. Esma Cannon's acting is well done - better than her later performances where 'silly' scripts let her down. Please do see it if you can. It's a little gem.",
+         "A poignant, bitter-sweet comedy that drives home its points in clever, subtle ways. Surprisingly, for a film 50 years old, the acting, direction and story line keep it fresh and timely. Alec Guiness \"made his bones\" in excellent early films such as this and gave us a sneak preview of the greatness that was to come.",
+         "This is a rare opportunity to see life as it is felt by the lower class in the United Kingdom. The portrayal brings this mousy character to life, and who begins to live life as it should have been lived in his earlier years. It does have a moral, never put off today in hopes of a better tomorrow.",
+         "Although most Americans have little knowledge of his work other than Star Wars, Alec Guinness produced an amazing body of work--particularly in the 1940s-1950s--ranging from dramas to quirky comedies. I particularly love his comedies, as they are so well-done and seem so natural and real on the screen--far different from the usual fare from Hollywood. This movie is the story of a man who thinks he is dying and decides to go out in style--living it up among the wealthy and well-bred. After all, he figures, he certainly won't need the money after he's gone! The marvelous acting and experiences among the upper crust make this a must-see. However, be forewarned, this is an incredibly depressing film. I doubt if I would have allowed the movie to be as dark as this one, but at least I can commend those who made it for not taking the easy way out and making a typical Hollywood style ending.",
+         "Because of the string of Ealing Comedies he made from 1949 on to 1958, from A RUN FOR YOUR MONEY to THE MAN IN THE WHITE SUIT to THE LAVENDER HILL MOB to THE LADYKILLERS to THE HORSE'S MOUTH, many fans of Alec Guinness keep forgetting this tragic comedy based on a J. B. Priestly story. Guinness plays George Bird, a salesman who is told he is dying of a rare illness called Lampington's Disease. He is told he has only a few months, so he might as well try to enjoy himself. Taking most of his savings, he goes to a fancy English resort. Instead of being a fish out of water, the quite Bird becomes a social success, making fantastic connections with others, including Sid James (as a wealthy manufacturer), winning at various gambling games, and even succeeding with the ladies. It is like all at once Bird's lifetime of humdrum living is being replaced by the success and potential he was always denied. Finally he even meets Dr. Trevor Lampington (Ernest Thiesinger, in a rather small part for a change), who tells Bird he is not suffering from Lampington's disease. And he is right - the doctor made a mistake. But fate interferes to make the title of this movie meaningful. The Priestly background to the story explains it's odd twistiness, and even fatalistic backbone. Think of AN INSPECTOR CALLS and how a faint chance at avoiding fate is lost there too. The film is a moody masterpiece, and reminds us of how our luck can change for the better and it still does not do us any good. No, it is not as funny as the Guinness comedies, but it is as fascinating as the best of them.",
+         "Alec Guinness stars in \"Last Holiday,\" a 1950 British film which was remade years later with Queen Latifah as the star. Though I enjoyed the warmth of the later version, the Guinness \"Last Holiday,\" no surprise, is superior. Guinness plays a lower class Brit, George Bird, who is told he is going to die of a rare disease and has maybe a few months left to live. George quits his job, takes his savings, and goes to stay at a ritzy resort. There, he changes, and circumstances change for him. With nothing to loses any longer, he becomes outspoken. He also wins at poker, croquet, and a horse race. He's offered jobs. And there's the possibility of romance. This is supposedly a comedy, but it's not an uproarious one. It's more drama, in fact. George Byrd finds that all these wealthy people aren't all they're cracked up to be. He also finds out that when you let go and stop trying, opportunities appear. And he learns the difference between passing the time and doing something with your time. Alec Guinness is brilliant as George, timid at first, gaining stature with his new clothes, and asserting himself once he gets to the resort. It's a beautifully layered performance. Despite some sadness within the film, this is an excellent story of a man who learns life's lessons in a narrow space of time.",
+         "A poignant, bitter-sweet comedy that drives home its points in clever, subtle ways. Surprisingly, for a film 50 years old, the acting, direction and story line keep it fresh and timely. Alec Guiness \"made his bones\" in excellent early films such as this and gave us a sneak preview of the greatness that was to come.",
+         "Absent for years in Europe on both TV and Video, I finally managed to acquire this one on a VHS tape from the US. A man learns he has a short time to live and decides to make the most of it by living it up in a luxury hotel. His life suddenly becomes far more interesting, makes more money than ever before and luck generally smiles him in the face. I remember seeing it about Thirty years ago and wondered how a new viewing would affect me. There were one or two disappointments, I had a memory of the film being rather more romantic than it actually is ( nothing much actually happens on this side ) and parts of the film are rather 'chatty'. This said the overall story is quite original. The film captures that now long-lost atmosphere of a luxury 1950's English hotel in the bright sunshine presumably situated in Devon or Cornwall (as we see palm trees in the garden. There are many well-known actors and the script is quite original to say the least. Another of J.B. Priestley's stories 'An Inspector Calls' was also made on film and is actually very good, even better than 'Last Holiday'. Nevertheless, the haunting theme music (solo fiddle) and thedécors are A1. Picture and sound quality are very good for the time (1950) and I am surprised that the film is not readily available on VHS and DVD everywhere! Of course, Alec Guinness was a great actor and his performance here is totally up to standard. If the romantic side of it all had been pushed just a little further the film would have been perfect for me ! The ending of the film is the Wickedest and most unexpected in the history of cinema !"
+      ],
+      "genres": [
+         "Comedy",
+         "Drama",
+         "Romance"
+      ],
+      "productionCompanies": [
+         "Associated British Picture Corporation (ABPC)",
+         "Watergate Films"
+      ],
+      "summaries": [
+         "George Bird's rather lonely, anonymous existence as an underappreciated seller of farm machinery is jarred when his physician informs him that he is suffering from the rare malady Lampington's Disease and only has a few weeks to live. Believing he has nothing to lose, Bird resigns his position and withdraws his modest life savings in order to spend his remaining time in a \"posh\" seaside resort. There he keeps his own counsel about his condition and meets people who live in a world he could never have imagined existed. Incredibly he finds personal and professional opportunities now open to him that that he never dreamed would be his, but unfortunately he is no position to take advantage of them... until fate lends a hand.",
+         "George Bird is a salesman of agricultural machinery who finds out that he hasn't long to live. He decides to take the last holiday of the film's title and begins to find out that he was a more worthwhile and interesting person than he ever allowed himself to live.",
+         "When a lonely, unappreciated farm equipment salesman discovers he has only weeks to live, he withdraws his savings for a final holiday at a 'posh' resort."
+      ],
+      "budget": 0
+   },
+   "movielensId": 91666,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1950-05-15",
+      "dvdReleaseDate": null,
+      "directors": ["Henry Cass"],
+      "runtime": 88,
+      "movieId": 91666,
+      "title": "Last Holiday",
+      "mpaa": "",
+      "actors": [
+         "Alec Guinness",
+         "Beatrice Campbell",
+         "Kay Walsh",
+         "Grégoire Aslan",
+         "Jean Colin",
+         "Muriel George",
+         "Brian Worth",
+         "Esma Cannon",
+         "Bernard Lee",
+         "Sid James",
+         "Campbell Cotts",
+         "Moultrie Kelsall",
+         "Madam Kirkwood-Hackett",
+         "Wilfrid Hyde-White",
+         "Eric Maturin",
+         "Helen Cherry",
+         "Harry Hutchinson",
+         "Hal Osmond",
+         "Brian Oulton",
+         "Ernest Thesiger",
+         "Heather Wilde",
+         "Ronald Simpson",
+         "Arthur Howard",
+         "Leslie Weston",
+         "Lockwood West",
+         "David McCallum Sr."
+      ],
+      "imdbMovieId": "0042665",
+      "originalTitle": "Last Holiday",
+      "genres": [
+         "Comedy",
+         "Drama"
+      ],
+      "youtubeTrailerIds": [],
+      "plotSummary": "George Bird is a salesman of agricultural machinery who finds out that he hasn't long to live. On his doctor's advice, he goes to an exclusive seaside resort to spend his savings on one last holiday.",
+      "tmdbMovieId": 16939,
+      "avgRating": 3.40909,
+      "releaseYear": "1950",
+      "numRatings": 11,
+      "posterPath": "/n2Ssj8ZvOOgBouwPTG49ShttGCr.jpg"
+   }
+}

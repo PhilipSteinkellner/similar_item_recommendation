@@ -1,0 +1,903 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [{
+         "name": "high school reunion",
+         "id": 161213
+      }],
+      "imdb_id": "tt2690138",
+      "video": false,
+      "title": "The D Train",
+      "recommendations": [
+         49792,
+         288818,
+         319090,
+         207257,
+         231616,
+         69007,
+         256467,
+         242093,
+         60270,
+         268536,
+         381041,
+         358397,
+         324300,
+         381011,
+         246011,
+         59419,
+         14809,
+         324333,
+         86990,
+         254023
+      ],
+      "backdrop_path": "/8I546Tt3BKp30SeLTjojUGHoxxM.jpg",
+      "revenue": 771317,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 6,
+               "character": "Dan Landsman",
+               "gender": 2,
+               "credit_id": "54828108c3a36829ae006ec8",
+               "name": "Jack Black",
+               "profile_path": "/vMXgtzMdt2jSAjOECFQ5F53blbr.jpg",
+               "id": 70851,
+               "order": 0
+            },
+            {
+               "cast_id": 5,
+               "character": "Oliver Lawless",
+               "gender": 2,
+               "credit_id": "548280fac3a36829a300763d",
+               "name": "James Marsden",
+               "profile_path": "/htBil0Vayd09haeUVoKEPxuantT.jpg",
+               "id": 11006,
+               "order": 1
+            },
+            {
+               "cast_id": 7,
+               "character": "Stacey Landsman",
+               "gender": 1,
+               "credit_id": "5482811692514175f5000762",
+               "name": "Kathryn Hahn",
+               "profile_path": "/9sVllAKfEls3SJD3GoPm2JEZoa5.jpg",
+               "id": 17696,
+               "order": 2
+            },
+            {
+               "cast_id": 21,
+               "character": "Bill Shurmur",
+               "gender": 2,
+               "credit_id": "54de7cf1925141194b002378",
+               "name": "Jeffrey Tambor",
+               "profile_path": "/csB350am07xyRL5Ik1BWuSY12tH.jpg",
+               "id": 4175,
+               "order": 3
+            },
+            {
+               "cast_id": 22,
+               "character": "Jerry",
+               "gender": 2,
+               "credit_id": "54de7d07925141194b00237c",
+               "name": "Mike White",
+               "profile_path": "/cbwwGeYAUJuSFB95i7TL98LPRRc.jpg",
+               "id": 17735,
+               "order": 4
+            },
+            {
+               "cast_id": 23,
+               "character": "Randy",
+               "gender": 0,
+               "credit_id": "54de7d1dc3a36845580022e8",
+               "name": "Kyle Bornheimer",
+               "profile_path": "/ucMZNXfcG8NlVIPBGujt15fFPcX.jpg",
+               "id": 1215836,
+               "order": 5
+            },
+            {
+               "cast_id": 24,
+               "character": "Craig",
+               "gender": 0,
+               "credit_id": "5550fc62c3a368426f00210e",
+               "name": "Henry Zebrowski",
+               "profile_path": "/n8Zc31Jzv8qdT9cfQBih3lGofsM.jpg",
+               "id": 1332747,
+               "order": 6
+            },
+            {
+               "cast_id": 25,
+               "character": "Lucy",
+               "gender": 0,
+               "credit_id": "5550fc9892514154c9002a52",
+               "name": "Corrina Lyons",
+               "profile_path": null,
+               "id": 1466056,
+               "order": 7
+            },
+            {
+               "cast_id": 26,
+               "character": "Taj",
+               "gender": 1,
+               "credit_id": "5550fcadc3a368426f002116",
+               "name": "Donna DuPlantier",
+               "profile_path": "/u63tRSZ0chExZYX6072CfD5Cg3w.jpg",
+               "id": 230995,
+               "order": 8
+            },
+            {
+               "cast_id": 27,
+               "character": "Alyssa",
+               "gender": 1,
+               "credit_id": "5550fd01c3a368436d000dc3",
+               "name": "Denise Williamson",
+               "profile_path": "/dPhdXvXzP56BaCK7qAo5fwoP0tR.jpg",
+               "id": 483255,
+               "order": 9
+            },
+            {
+               "cast_id": 28,
+               "character": "Dale Harkin",
+               "gender": 0,
+               "credit_id": "5550fd28c3a3684191000d52",
+               "name": "Han Soto",
+               "profile_path": "/yNeZnnkO7aux7uKRM7AoOxX3mbG.jpg",
+               "id": 1116011,
+               "order": 10
+            },
+            {
+               "cast_id": 29,
+               "character": "Dermot Mulroney",
+               "gender": 2,
+               "credit_id": "5550fd5ec3a368436d000dcb",
+               "name": "Dermot Mulroney",
+               "profile_path": "/uqDPswlyj7hUVrmTn5mbDiWiTQi.jpg",
+               "id": 20212,
+               "order": 11
+            },
+            {
+               "cast_id": 35,
+               "character": "Hot Girl",
+               "gender": 0,
+               "credit_id": "55f007a6c3a3681e6a004761",
+               "name": "Mariana Paola Vicente",
+               "profile_path": "/ckPllza8624UHWGHCbLShkLxCD1.jpg",
+               "id": 1451394,
+               "order": 12
+            },
+            {
+               "cast_id": 36,
+               "character": "Hotel Employee",
+               "gender": 1,
+               "credit_id": "577572919251413067000199",
+               "name": "Kendra Sue Waldman",
+               "profile_path": "/kGFMW4TO2LSbAWO4qUs5U9GAENS.jpg",
+               "id": 131739,
+               "order": 13
+            },
+            {
+               "cast_id": 37,
+               "character": "Zach Landsman",
+               "gender": 2,
+               "credit_id": "5a58e39b0e0a26350100c4b2",
+               "name": "Russell Posner",
+               "profile_path": "/g4uLlVodeWXOJctnHpgeU1D0RpG.jpg",
+               "id": 1599705,
+               "order": 14
+            },
+            {
+               "cast_id": 38,
+               "character": "Renina",
+               "gender": 1,
+               "credit_id": "5a58e39c925141021500c937",
+               "name": "Charlotte Gale",
+               "profile_path": null,
+               "id": 1645681,
+               "order": 15
+            },
+            {
+               "cast_id": 39,
+               "character": "Heather",
+               "gender": 0,
+               "credit_id": "5a58e39cc3a3681eb200c516",
+               "name": "Danielle Greenup",
+               "profile_path": null,
+               "id": 1645683,
+               "order": 16
+            },
+            {
+               "cast_id": 40,
+               "character": "Holly James",
+               "gender": 1,
+               "credit_id": "5a58e39cc3a3681e6c00b7ba",
+               "name": "Nicole Barré",
+               "profile_path": "/mFJTw6L1W8DW8OGIb5oH7MUxiOR.jpg",
+               "id": 231855,
+               "order": 17
+            },
+            {
+               "cast_id": 41,
+               "character": "Classmate - Wendy",
+               "gender": 1,
+               "credit_id": "5a58e39cc3a3681eb200c518",
+               "name": "Adria Tennor",
+               "profile_path": "/vt4DL9EsTO1uyQz6CkKAA9BQroD.jpg",
+               "id": 166976,
+               "order": 18
+            },
+            {
+               "cast_id": 42,
+               "character": "Steve",
+               "gender": 0,
+               "credit_id": "5a58e39dc3a3681e6800caed",
+               "name": "J.T. Rowland",
+               "profile_path": null,
+               "id": 1958683,
+               "order": 19
+            },
+            {
+               "cast_id": 43,
+               "character": "Employee #1 - Reggie",
+               "gender": 2,
+               "credit_id": "5a58e39d925141021b00c61e",
+               "name": "Terence Rosemore",
+               "profile_path": "/7UR6TjMxxflajE0ormhoReccoNR.jpg",
+               "id": 1411625,
+               "order": 20
+            },
+            {
+               "cast_id": 44,
+               "character": "Employee #2 - Lillian",
+               "gender": 0,
+               "credit_id": "5a58e39d0e0a2634fe00cf6a",
+               "name": "Liann Pattison",
+               "profile_path": "/vXmYugISy8trghn2RRFdHWKMEQ1.jpg",
+               "id": 1411664,
+               "order": 21
+            },
+            {
+               "cast_id": 45,
+               "character": "Mulroney Guest",
+               "gender": 0,
+               "credit_id": "5a58e39e925141020f00bed5",
+               "name": "Todd Blumenfeld",
+               "profile_path": null,
+               "id": 1958684,
+               "order": 22
+            },
+            {
+               "cast_id": 46,
+               "character": "Flight Attendant",
+               "gender": 0,
+               "credit_id": "5a58e39e925141020f00bed9",
+               "name": "Jazzy Ellis",
+               "profile_path": null,
+               "id": 1704658,
+               "order": 23
+            },
+            {
+               "cast_id": 47,
+               "character": "Stripper #1",
+               "gender": 1,
+               "credit_id": "5a58e39ec3a3681e6c00b7be",
+               "name": "Daniella Short",
+               "profile_path": null,
+               "id": 1632923,
+               "order": 24
+            },
+            {
+               "cast_id": 48,
+               "character": "Stripper #2",
+               "gender": 0,
+               "credit_id": "5a58e39fc3a3681e6c00b7c2",
+               "name": "Cynyon Dawn Rodriguez",
+               "profile_path": null,
+               "id": 1958685,
+               "order": 25
+            },
+            {
+               "cast_id": 49,
+               "character": "Hollywood Bar Waiter",
+               "gender": 0,
+               "credit_id": "5a58e39fc3a3681e6200c2f0",
+               "name": "Joseph Lee Anderson",
+               "profile_path": null,
+               "id": 1853836,
+               "order": 26
+            },
+            {
+               "cast_id": 50,
+               "character": "Cab Driver",
+               "gender": 0,
+               "credit_id": "5a58e39fc3a3681e6c00b7c6",
+               "name": "Reginal Varice",
+               "profile_path": null,
+               "id": 1766078,
+               "order": 27
+            },
+            {
+               "cast_id": 51,
+               "character": "Kent Drazen",
+               "gender": 0,
+               "credit_id": "5a58e3a0c3a3681e5f00b93f",
+               "name": "Adam Weinstein",
+               "profile_path": null,
+               "id": 1958686,
+               "order": 28
+            },
+            {
+               "cast_id": 52,
+               "character": "Sports Talk Host",
+               "gender": 0,
+               "credit_id": "5a58e3a00e0a2634fe00cf6f",
+               "name": "John-Paul Flaim",
+               "profile_path": null,
+               "id": 1958687,
+               "order": 29
+            },
+            {
+               "cast_id": 53,
+               "character": "Sports Talk Host",
+               "gender": 0,
+               "credit_id": "5a58e3a00e0a2634f400cd00",
+               "name": "Eric Bickel",
+               "profile_path": null,
+               "id": 1958688,
+               "order": 30
+            },
+            {
+               "cast_id": 54,
+               "character": "Sports Talk Host",
+               "gender": 0,
+               "credit_id": "5a58e3a00e0a2634ed00caf3",
+               "name": "Jason Bishop",
+               "profile_path": null,
+               "id": 1958689,
+               "order": 31
+            },
+            {
+               "cast_id": 55,
+               "character": "Sports Talk Host",
+               "gender": 0,
+               "credit_id": "5a58e3a10e0a2634f100c881",
+               "name": "John Auville",
+               "profile_path": null,
+               "id": 1958690,
+               "order": 32
+            },
+            {
+               "cast_id": 56,
+               "character": "Reunion Classmate (uncredited)",
+               "gender": 0,
+               "credit_id": "5a58e3a1c3a3681e6200c2f3",
+               "name": "Chris Angerdina",
+               "profile_path": null,
+               "id": 1718158,
+               "order": 33
+            },
+            {
+               "cast_id": 57,
+               "character": "Cab Driver (uncredited)",
+               "gender": 0,
+               "credit_id": "5a58e3a1c3a3681eb200c520",
+               "name": "John L. Armijo",
+               "profile_path": "/c52EjlXyT7khV9Nb1sqvs7QlYta.jpg",
+               "id": 1158069,
+               "order": 34
+            },
+            {
+               "cast_id": 58,
+               "character": "Confused Airplane Passenger (uncredited)",
+               "gender": 0,
+               "credit_id": "5a58e3a2925141021b00c625",
+               "name": "Jon Arthur",
+               "profile_path": "/l4v7HMpzlfEgFWuXD05JlGL7FgQ.jpg",
+               "id": 1438286,
+               "order": 35
+            },
+            {
+               "cast_id": 59,
+               "character": "Reunion Classmate (uncredited)",
+               "gender": 0,
+               "credit_id": "5a58e3a2925141021b00c628",
+               "name": "James Howard Askin",
+               "profile_path": null,
+               "id": 1958691,
+               "order": 36
+            },
+            {
+               "cast_id": 60,
+               "character": "Reunion Classmate (uncredited)",
+               "gender": 2,
+               "credit_id": "5a58e3a2c3a3681e9800c88a",
+               "name": "Charles Barber",
+               "profile_path": null,
+               "id": 1198941,
+               "order": 37
+            },
+            {
+               "cast_id": 61,
+               "character": "Upscale L.A. Restaurant Patron (uncredited)",
+               "gender": 2,
+               "credit_id": "5a58e3a3c3a3681e6800caf7",
+               "name": "Tom Bui",
+               "profile_path": "/gyBD7l0G5yILD6EYuhWjc50FXyE.jpg",
+               "id": 1514479,
+               "order": 38
+            },
+            {
+               "cast_id": 62,
+               "character": "LA Club Patron (uncredited)",
+               "gender": 0,
+               "credit_id": "5a58e3a30e0a2634ef00cda7",
+               "name": "Julia Caron",
+               "profile_path": null,
+               "id": 1958692,
+               "order": 39
+            },
+            {
+               "cast_id": 63,
+               "character": "Reunion Classmate (uncredited)",
+               "gender": 0,
+               "credit_id": "5a58e3a30e0a2634fc00cfd6",
+               "name": "Julio Castillo",
+               "profile_path": null,
+               "id": 1844544,
+               "order": 40
+            },
+            {
+               "cast_id": 64,
+               "character": "Reunion Classmate (uncredited)",
+               "gender": 0,
+               "credit_id": "5a58e3a30e0a2634f100c886",
+               "name": "David Michael Cefalu",
+               "profile_path": null,
+               "id": 1565493,
+               "order": 41
+            },
+            {
+               "cast_id": 65,
+               "character": "Mike (uncredited)",
+               "gender": 0,
+               "credit_id": "5a58e3a4c3a3681e6200c2fb",
+               "name": "Joseph Cintron",
+               "profile_path": null,
+               "id": 1454109,
+               "order": 42
+            },
+            {
+               "cast_id": 67,
+               "character": "Reunion Goer (uncredited)",
+               "gender": 1,
+               "credit_id": "5a58e3a4c3a3681e8100b716",
+               "name": "Michelle DeVito",
+               "profile_path": "/1kz1SYpdarvzkFt3JyVMHZaRJjz.jpg",
+               "id": 1159596,
+               "order": 44
+            },
+            {
+               "cast_id": 68,
+               "character": "LA Club Patron (uncredited)",
+               "gender": 0,
+               "credit_id": "5a58e3a5925141020900bfb9",
+               "name": "Ryan Dewerth",
+               "profile_path": null,
+               "id": 1958693,
+               "order": 45
+            },
+            {
+               "cast_id": 69,
+               "character": "Class Reunion Guest (uncredited)",
+               "gender": 0,
+               "credit_id": "5a58e3a5c3a3681eb200c528",
+               "name": "Neil Durr",
+               "profile_path": null,
+               "id": 1958694,
+               "order": 46
+            },
+            {
+               "cast_id": 70,
+               "character": "Reunion Classmate (uncredited)",
+               "gender": 1,
+               "credit_id": "5a58e3a5c3a3681eb200c52c",
+               "name": "Steffie Grote",
+               "profile_path": "/IASGvqCo8lwEjq3sPMlkzs3WT2.jpg",
+               "id": 1272905,
+               "order": 47
+            },
+            {
+               "cast_id": 71,
+               "character": "Reunion Classmate (uncredited)",
+               "gender": 0,
+               "credit_id": "5a58e3a6925141021b00c62f",
+               "name": "Sadarias Harrell",
+               "profile_path": "/jpA9eFTaQhmFgTFBKD7rgGCU9aW.jpg",
+               "id": 1288831,
+               "order": 48
+            },
+            {
+               "cast_id": 72,
+               "character": "Classmate (uncredited)",
+               "gender": 0,
+               "credit_id": "5a58e3a60e0a2634fc00cfda",
+               "name": "Ryan Hebert",
+               "profile_path": null,
+               "id": 1755074,
+               "order": 49
+            },
+            {
+               "cast_id": 73,
+               "character": "LA Club Patron (uncredited)",
+               "gender": 0,
+               "credit_id": "5a58e3a6c3a3681e6c00b7cd",
+               "name": "Allyson Leigh Jordan",
+               "profile_path": "/oBWtBavpbXDpm166XgN2bWIfveS.jpg",
+               "id": 1780236,
+               "order": 50
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "548280669251416e740079fd",
+               "name": "Andrew Mogel",
+               "profile_path": null,
+               "id": 240376,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5482807e92514175f5000747",
+               "name": "Jarrad Paul",
+               "profile_path": "/qWaXQi5Pz6jEKw9E2xRuX74phiB.jpg",
+               "id": 62763,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 1,
+               "credit_id": "548280c4c3a3684afd002852",
+               "name": "Meagan McLaughlin",
+               "profile_path": null,
+               "id": 928329,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54de79fac3a368454d0021aa",
+               "name": "Giles Nuttgens",
+               "profile_path": null,
+               "id": 3079,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54de7a06c3a36845410025ef",
+               "name": "Andrew Dost",
+               "profile_path": null,
+               "id": 1395181,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54de7a25c3a368537a001b5a",
+               "name": "Andrew Mogel",
+               "profile_path": null,
+               "id": 240376,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54de7a3092514119560021c4",
+               "name": "Jarrad Paul",
+               "profile_path": "/qWaXQi5Pz6jEKw9E2xRuX74phiB.jpg",
+               "id": 62763,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54de7a44c3a368454d0021af",
+               "name": "Terel Gibson",
+               "profile_path": null,
+               "id": 1182914,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54de7a5392514119560021c9",
+               "name": "Ethan Tobman",
+               "profile_path": null,
+               "id": 198641,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "54de7afcc3a3685446001897",
+               "name": "Justine Baddeley",
+               "profile_path": null,
+               "id": 6959,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54de7b269251417feb001e16",
+               "name": "David Bernad",
+               "profile_path": null,
+               "id": 1260940,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54de7c3bc3a368537a001b7a",
+               "name": "Jack Black",
+               "profile_path": "/vMXgtzMdt2jSAjOECFQ5F53blbr.jpg",
+               "id": 70851,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54de7c4fc3a36854460018b8",
+               "name": "Priyanka Mattoo",
+               "profile_path": null,
+               "id": 1427015,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54de7c61925141027c001b74",
+               "name": "Ben Latham-Jones",
+               "profile_path": null,
+               "id": 1427016,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54de7c92c3a368454d0021d6",
+               "name": "Mike White",
+               "profile_path": "/cbwwGeYAUJuSFB95i7TL98LPRRc.jpg",
+               "id": 17735,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54de7ca8c3a36845550020c0",
+               "name": "Barnaby Thompson",
+               "profile_path": null,
+               "id": 21677,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55e03bb892514177df001f7f",
+               "name": "Aigerim Jakisheva",
+               "profile_path": null,
+               "id": 1501226,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55e03bc8c3a36826a4001fa0",
+               "name": "Michael J. Urann",
+               "profile_path": null,
+               "id": 1404191,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55e03bdc92514177d9002144",
+               "name": "Matthew Medlin",
+               "profile_path": null,
+               "id": 862004,
+               "department": "Production",
+               "job": "Line Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "55e03bfdc3a3682692002162",
+               "name": "Kim Davis-Wagner",
+               "profile_path": null,
+               "id": 961165,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55e03c0bc3a3684b4a002170",
+               "name": "Tracy Kilpatrick",
+               "profile_path": null,
+               "id": 1017236,
+               "department": "Production",
+               "job": "Casting"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Comedy",
+            "id": 35
+         }
+      ],
+      "popularity": 5.129469,
+      "production_countries": [
+         {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+         },
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         }
+      ],
+      "id": 308638,
+      "vote_count": 92,
+      "budget": 447524,
+      "overview": "With his 20th reunion looming, Dan can\u2019t shake his high school insecurities. In a misguided mission to prove he\u2019s changed, Dan rekindles a friendship with the popular guy from his class and is left scrambling to protect more than just his reputation when a wild night takes an unexpected turn.",
+      "similar": [
+         302699,
+         71552,
+         9611,
+         10013,
+         9434,
+         177494,
+         58547,
+         21057,
+         228028,
+         273082,
+         66597,
+         248503,
+         63840,
+         209338,
+         322792,
+         27886
+      ],
+      "original_title": "The D Train",
+      "runtime": 101,
+      "poster_path": "/dbktSEvfDgrC8iXokAO4Tihjd6N.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Rip Cord Productions",
+            "id": 21623,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Ealing Studios",
+            "id": 2650,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Electric Dynamite",
+            "id": 5717,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Londinium Films",
+            "id": 61933,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2015-05-08",
+      "vote_average": 4.6,
+      "belongs_to_collection": null,
+      "tagline": "Every reunion needs a hero.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": [
+         "Andrew Mogel",
+         "Jarrad Paul"
+      ],
+      "runtime": 101,
+      "synopsis": null,
+      "writers": [
+         "Jarrad Paul",
+         "Andrew Mogel"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt3534602/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTQ3ODQzNDE2Ml5BMl5BanBnXkFtZTgwOTM1NzQwNTE@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Jack Black, James Marsden, Kathryn Hahn | See full cast and crew »"],
+      "reviews": [
+         "Jarrad Paul and Andrew Mogel's \"The D Train\" is a far more layered film than its trailers lead one to believe. Beneath the sequences of ribald partying and an explosive Jack Black performance lies tender, more touching ideas of disillusionment, self-delusion, and identity, personal and sexual. Great films have been assembled just from using one of these ideas, and for a film to include all of them in some way shows a large amount of ambition on part of the writing and directing team at work here. However, while being bold enough to try and tackle something larger, \"The D Train\" tries to have it both ways, creating a raunchy comedy out of material that deserves a more intimate focus and treads almost fatally into the Adam Sandler \"anti-character study\" formula of belittling its troubled hero. The film follows Dan Landsman, the self-appointed chairman of his high school's twentieth reunion committee. He is the \"do all\" man on the job, working as hard as everyone combined, as he appears to relish the days of high school and the memories it left for him. Dan's immediate problem is that nobody, neither the remainder of his committee nor his old classmates, share even a fraction of his enthusiasm, and his constant monopolizing and narcissism fills his peers with contempt. With nobody RSVPing to the reunion, Dan finds one thing that will make them all come and that is the presence of Oliver Lawless (James Marsden). Oliver was once a popular kid in high school, who went on to pursue his career in acting, predominately in TV commercials. When Dan catches one of Oliver's commercials on TV, he starts an unhealthy obsession with the man, much to the dismay of his wife and fourteen-year-old son. Dan goes as far as to travel to LA with his boss (Jeffrey Tambor), fooling his boss and his wife into thinking it's a business trip, so he can meet and ask Oliver to attend the reunion. Dan and Oliver wind up partying all night before their debauchery makes them question who they really are and want to be. Dan is played by Jack Black, an actor once committed to the most ridiculous and shallow comedies, who branched out to show his true colors within the last few years. Black is ideal for Dan, a complex character, as his wild, larger-than-life personality and rapidly changing moods are handled with expert realism and genuine talent. Despite having a character that, at times, is incredibly contemptible and somewhat frustrating to watch, Black nails this role, similar to his role as Bernie Tiede in \"Bernie,\" where he took a character and simply ran with it. Marsden, on the other hand, plays a character where more sophistication and mental stability is assumed. He plays the slick actor, with a cool exterior and a troubled interior, hoping people get so caught up in the former they won't even notice the latter. Black and Marsden make a dynamic duo, and both, particularly Black, transition smoothly between the ribald and the dramatic. \"The D Train,\" however, examines loftier ideas than I presume anyone going into it ever imagined. The film shows the efforts one will go to continue to fend off feelings of inferiority and disillusionment, along with ideas of sexual revelations, even if that means shunning those you care about the most and becoming so self-absorbed you become uncaring. Dan has ostensibly always been like this, but his behavior worsens over time, and a lot of it is no laughing matter. The problem is, presumably in efforts to make the film attract a wider audience, Paul and Mogel still kind of want you to laugh at this character, even while he's in the mix of an identity crisis. This kind of nonsense is for an Adam Sandler film where the character is irredeemably unlikable; not for a film with such serious ideas behind it. Furthermore, the film's wobbly tone works against it, sometimes wanting to take on the personality of a raunchy comedy and sometimes straying from it into something more meditative. Again, this makes it seem as if Paul and Mogel don't have enough confidence in their material to make the central focus the deeper, more thoughtful ideas. In efforts to appeal to a more mainstream audience, which I, maybe pessimistically, don't see really happening due to the film's minimal marketing and almost destined obscurity, \"The D Train\" finds itself squandering its potential, a criminal mistake that hurts an otherwise quietly significant film.",
+         "Another mislabeled movie... So no wonder that people who expected to have mindless fun watching Jack Black in a typical comic role he used to play many times before and James Marsden in a role similar to the ones he played brilliantly in Sex drive or Death at a funeral, got unexpectedly hit with quite dark theme with no many things to laugh at and disappointed. At first, I was disappointed too, but somewhere at the middle I realized that the movie it self is good, that the theme is important and that above mentioned (but all the others too) actors did amazing job. I blame the marketing of this movie, poster, but you too dear IMDb for providing wrong info on a movie category and misleading synopsis. So, in conclusion - as a comedy, this one is quite bad, but as a drama, it's very nicely done.",
+         "Dan Landsman has never been the cool guy, but that's about to change, if he can convince Oliver Lawless, the most popular guy from his high school who's now the face of a national Banana Boat ad campaign, to show up with him to their class reunion. A man on a mission, Dan travels from Pittsburgh to LA and spins a web of lies to recruit Lawless. But he gets more than he bargains for as the unpredictable Lawless proceeds to take over his home, career, and entire life........ Jack Black has had one of the strangest careers in Hollywood for a once A-list star. The School Of Rock, in my opinion, was very mundane, but it rocketed him into the big time, and kudos to him, it opened many doors, and for a while, he was everywhere. But then he went down the Mike Myers route, and the biggest films he's done in the last ten years are about a talking panda. I always preferred him in a little Independent movie like Bernie, or as a supporting character (his turns in The Cable Guy and High Fidelity were scenes stealing turns). And let's not forget he played a wannabe 'Rastafarian' in I Still Know What You Did Last Summer. But here, he's really sank to a new low, and his career is now sitting comfortably with Cuba Gooding JRs as having the biggest career nose-dive in history. Dan is one of the most unlikable, selfish, insufferable characters a 'comedy' has ever seen. The man lies, cheats, steals, and ignores his sons needs in order for him to be popular for once, and you what? It's give me some sadistic pleasure when his world came crashing down around him. But what makes it worse is that he has such a nice family, and such a comfortable existence, so what if the rest of the alumni don't invite you for a drink, get over it, stop being bitter, and know your priorities in life. Things only go from bad to worse when Marsden 'enters' into the fray, the writers decide, for some reason, that Dan will do anything, literally anything to be popular and win the day. And then the film turns almost into a psycho obsessive movie, and Dan almost turns almost a Rupert Pupkin style personality change, because Lawless is doing what Dan should be doing, paying a little attention to his son. But don't worry, this films message is 'be a nasty person, be abhorrent towards the ones closest to you, because they are like dogs, their love is unconditional. It's truly one of the most nastiest, vilest, pieces if filth I've ever seen, and I really hope it vanishes without a trace.",
+         "Many may not want to admit this, but \"D\" Train happens more often than not. This subject matter of a bromance gone to an awkward level is a welcome addition in a time where fluid sexuality is a pervasive theme within todays hot topics. I understood the film and its purpose, and grant kudos to the filmmakers for what they were going for. The film focuses on life's ups and downs of Dan (Jack Black) as he orchestrates a reunion with an old high school popular guy. To his surprise, the encounter turns fun until one night of drunken partying leads to a \"moment\" neither protagonist is soon to forget. Unfortunately for Dan, his constantly wanting to repress what happened leads him to deal awkwardly with those who surround him back in his small quiet hometown. On other hand, the film perfectly encapsulates the character of Oliver Lawless, a struggling actor who finds an opportunity to feel what its like to be wanted and adored with attention when his true life is less than what his image portrays. The scenarios that are taking place in this film are to be given credit and much consideration for they are truly deep seeded issues dealing with mens interaction with one another, masculinity and society's expectations. Oliver's arrival into town for the class reunion only worsens the situation as Dan becomes a walking time bomb. He's got mixed feeling about Oliver and does not know how to deal with it. So he has sudden outbursts of rage and anger as the film progresses into an abrupt final act for both men. The film succeeds in showing the inner struggles and emotional turmoil many men, Im sure, have endured in similar situations. I feel the filmmaker dealt with the subject matter in a realistic way for these situations tend to be naturally awkward to begin with. To sweep such raw feelings under the carpet can really take its toll if left unattended. I do recommend this film, not for being a comedy, even though some of the awkward moments did elicit a chuckle or two, but because there is depth here and very interesting ideas and themes that the film deals with simultaneously in a very fresh and original way. This may not be the comedy most will be expecting to see, but I suggest you give the film a chance. Sit back, relax, and enjoy the show!",
+         "OK for starters the movie was bad I mean really bad I figured it would be funny with Jeffrey Tambor and Kathryn Hahn. But no it was quite possibly the worst movie ever made. The story was just pathetic the acting was bad there was nothing in this movie that was redeeming at all. Either all you people rating it worked on the movie or your Homosexual and just vote happy that there's a movie out there for you. Worst movie ever I guess Tambor was OK but he doesn't get nearly enough screen time its just full of really bad jack black acting. Oh also there's nothing funny in this movie you will get to the end and be like WTF did I just watch then like me you will be angry cause you where misled by all the IMDb reviews claiming its OK. Also if you want to hate on my review feel free but please add why its funny and why the acting didn't suck and why the storyline wasn't abysmal. Never bothered to write on IMDb but this movie was so bad that i found it was my duty as a human to warn other people away from it so they don't buy into the IMDb Fake reviews.",
+         "The D-Train with Jack Black isn't about Tenacious D. Just throwing that out there. Also, it's not a very good comedy, but it is as a dark dramatic role. So, The D-Train should not be viewed as a comedy with Jack Black, but instead a dramatic film that just so happens to star Jack Black and does at least have a couple laughs. The D-Train itself is about Dan Landsman(Black) trying to net up people from his high- school to build up a high-school reunion along with his committee, where he just so happens to make himself chairman, Mr. Landsman now apparently being a fascist dictator. After Landsman watches a Banana Boat commercial, he notices \"The Most Popular Guy from School\" Oliver Lawless(James Marsden, who's name couldn't be a more subtle hint of him being a bad-ass if only he was Ford Perfect), who may force the state of Indiana to pull this film from public theatres because of...one scene. Before I get to that, more plot! Landsman has to lie to his technophobic boss and his wife to go to a business trip as an excuse to meet Lawless and convince him to go out to the reunion which leads to drinking...then to drinking again...then to coke use...then to strip dances...then to \"that scene\" After...\"that scene\"...Landsman returns home, now apparently getting Homo-Traumatic Stress Disorder, turning him into a lying, coke-abusing thespian which seems to be a weird cross between Governor Mike Pence turned abusive and the real life \"Hollywood Jack\" from Tenacious D's Rize of The Fenix. He's lying more then a plank on a bridge and using more coke than me at a Steak N' Shake on a Friday night. When the actual reunion takes place, it is where our hero is going all around as quite possibly the most miserable person at the whole party. Landsman takes more coke and then gets told off by Lawless, revealing his...\"scene\"...at LA before his lies and dis regions soon break him down under such massive weights. Both his family and friends, except his son Zach(Russell Possner), hate him as he looks at the consequence of what his few days have caused. He sank a business to the ground beyond repair, created a bigger gap between him and Zach, and finally brutalized his marriage that, not implied but possible, could a divorce. So, yes. The D-Train isn't a comedy. It's not funny in the slightest. In fact, it's almost Run All Night levels of depressing. It's nothing that I would like to see again from Black, but I was at least surprised to see him work well enough in a dramatic role. Final Result: 3 Stars, C-Rank",
+         "SPOILERS SPOILERS (it's not that kind of film but I'm cautious) There is a lot of good in this film -- the performances, the surprises, the exploration of some bold territory. But to cut to the chase I think it chickens out in a few ways. One is by making the sex the focus of the conflict it derailed the far more nuanced and powerful emotional one. I was hoping Blacks pining for Marsden was not sexual but social, he just wants a friend, to feel valid and worthwhile. \"What happened in LA\" was not the sex but the connection. But the film drops this and its all about \"i screwed a man, am I gay, do I love him etc\". Unspoken is the loneliness and inadequacy that drove him to risk so much. The early dinner scene paints it well, then poof, it's gone. A less egregious chicken out is although Black gets beat up pretty good he only suffers for about 1/2 a day. It's all better and forgiven by noon. Eh.",
+         "'THE D TRAIN': Four and a Half Stars (Out of Five) Jack Black and James Marsden star in this dark comedy, about a forgotten high school nerd, who attempts to convince the most popular guy from his graduating class to come to their 20-year reunion. The film was written and directed by Andrew Mogel and Jarrad Paul (in their directorial debut). It also costars Kathryn Hahn, Jeffrey Tambor, Russell Posner and Mike White. The movie is hilarious, full of dark twists and also surprisingly insightful! Dan Landsman is the self appointed head of his high school reunion committee (from the class of 1994). He wasn't popular in school and his fellow alumni members still treat him like crap. After seeing the most popular guy from their class, Oliver Lawless (Marsden), in a Banana Boat TV commercial, he decides to track him down in LA, and convince him to come to their reunion in Pittsburgh; in order to attract more former class members into attending. He makes up several lies, in order to accomplish his mission, including a fake business trip; which gets him into a lot of trouble. This causes complications in his relationships with his boss (Tambor), wife (Hahn) and son (Posner); but he has a great time bonding with Lawless, in the process. The movie takes a really dark turn, at about the halfway point, which leads to some hilarious laugh out loud moments; throughout the rest of the film. I think it's one of Jack Black's best performances, as well as James Marsden's; who's became a brilliant comedic actor in recent years. The script is clever, and smart, and it's also a great character study; that's brilliantly directed. It's definitely a different movie than I thought I was going to see. It's also got some great 80s style music, and it just feels like a classic comedy film. It's also very relatable, to me; especially since my 20-year high school reunion is coming up (which I don't plan on attending). It's definitely a movie I'll remember! Watch our movie review show 'MOVIE TALK' at: http://youtu.be/Xo0uWhpX2pI",
+         "...Which is odd, to say the least. If you love film, you'll find something to take from this. If it's just simple entertainment you seek, best look elsewhere. It's a puzzler - read some of the polarising reviews - in a way, it reminded me of Jim Carrey in 'The Cable Guy'; you don't get what you expect, and that can be a shock to some, and a boon to others. Interestingly, and unexpectedly, I now think more of Jack Black - mayhap he just hasn't had the right vehicle to stretch his talents fully in, yet. It's never going to make the pantheon, but it does have some things of merit; not least of which is the ability to make you cringe whilst not looking away. The how-can-it-possibly-be-resolved expectation is uncomfortably high. I liked it; the discomfort, as it dawns on you, is tremendous and it walks its' line well - not subtle, but hey - I imagine the studio execs having a nightmare trying to decide how to market this. Whether it dawns on you, or slaps you in the face, will depend... Once you've watched it, just think on that for a minute - because that vapid 'Tries to get reunion together' rubbish just doesn't cover it, does it? Loved the soundtrack - especially the INXS lyricism - and some of the lines were priceless. (Lawnchairs) I liked it. I feel the ending was rushed a little, but then, how else to cover bases?",
+         "I was a little surprised by this movie, because it had some layers that I didn't really expect. Now, I can't go into much detail about these layers, because I want to be totally spoiler free, but they are there. The D Train is listed as a comedy, but I think it's more of a comedy/drama, because, like I said, it's not all silly fun. The comedy is often silly, it is Jack Black after all, but when it is serious, it is serious. I kind of felt for Jack Blacks character. He does some dumb stuff indeed, but he is also tossed into a couple of situations he doesn't know quite how to tackle. (here those aforementioned layers comes to play) I don't laugh that easily, so when I watch a comedy I first and foremost want to be entertained, not laugh. And I was entertained by this movie. It did make me chuckle a couple times too, though. I think part of the reason for this movies relatively low score (here on IMDb) is exactly that it is not a clean comedy, and definitely not a clean drama, it falls between two chairs, and maybe some are confused by that. We do love to define stuff, don't we? Us humanoids that is. Yes we do. Anyway, it's an alright movie with some heart, some drama and some goofiness. Not your worst, not your best."
+      ],
+      "genres": [
+         "Comedy",
+         "Drama"
+      ],
+      "productionCompanies": [
+         "Ealing Studios",
+         "Electric Dynamite",
+         "Londinium Films"
+      ],
+      "summaries": [
+         "All his life, Dan Landsman (Jack Black) has never been the cool guy. That's about to change - if he can convince Oliver Lawless (Marsden), the most popular guy from his high school who's now the face of a national Banana Boat ad campaign, to show up with him to their class reunion. A man on a mission, Dan travels from Pittsburgh to LA and spins a web of lies to recruit Lawless. But he gets more than he bargains for as the unpredictable Lawless proceeds to take over his home, career, and entire life. Showcasing Jack Black and James Marsden's most outrageous performances to date, THE D TRAIN serves up the question: how far would you go to be popular? Co-starring Kathryn Hahn and Jeffrey Tambor.",
+         "The head of a high school reunion committee travels to Los Angeles to track down the most popular guy from his graduating class and convince him to go to the reunion."
+      ],
+      "budget": 0
+   },
+   "movielensId": 127194,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2015-05-08",
+      "dvdReleaseDate": null,
+      "directors": [
+         "Andrew Mogel",
+         "Jarrad Paul"
+      ],
+      "runtime": 101,
+      "movieId": 127194,
+      "title": "The D Train",
+      "mpaa": "R",
+      "actors": [
+         "Jack Black",
+         "James Marsden",
+         "Kathryn Hahn",
+         "Jeffrey Tambor",
+         "Mike White",
+         "Kyle Bornheimer",
+         "Henry Zebrowski",
+         "Corrina Lyons",
+         "Donna DuPlantier",
+         "Denise Williamson",
+         "Han Soto",
+         "Dermot Mulroney",
+         "Mariana Paola Vicente",
+         "Kendra Sue Waldman"
+      ],
+      "imdbMovieId": "3534602",
+      "originalTitle": "The D Train",
+      "genres": [
+         "Drama",
+         "Comedy"
+      ],
+      "youtubeTrailerIds": ["A4vqHV44eZE"],
+      "plotSummary": "With his 20th reunion looming, Dan can\u2019t shake his high school insecurities. In a misguided mission to prove he\u2019s changed, Dan rekindles a friendship with the popular guy from his class and is left scrambling to protect more than just his reputation when a wild night takes an unexpected turn.",
+      "tmdbMovieId": 308638,
+      "avgRating": 2.86364,
+      "releaseYear": "2015",
+      "numRatings": 33,
+      "posterPath": "/dbktSEvfDgrC8iXokAO4Tihjd6N.jpg"
+   }
+}

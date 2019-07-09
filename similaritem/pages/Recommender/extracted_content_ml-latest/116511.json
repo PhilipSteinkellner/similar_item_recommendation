@@ -1,0 +1,317 @@
+{
+   "tmdb": {
+      "original_language": "de",
+      "keywords": [
+         {
+            "name": "judge",
+            "id": 934
+         },
+         {
+            "name": "german",
+            "id": 2349
+         },
+         {
+            "name": "suspect",
+            "id": 3879
+         },
+         {
+            "name": "village",
+            "id": 5331
+         }
+      ],
+      "imdb_id": "tt0029817",
+      "video": false,
+      "title": "The Broken Jug",
+      "recommendations": [],
+      "backdrop_path": null,
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Adam",
+               "gender": 2,
+               "credit_id": "5316b93bc3a3681388001dfa",
+               "name": "Emil Jannings",
+               "profile_path": "/r7kDnkaMUig9zeOqEndngx787HI.jpg",
+               "id": 2895,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Walter",
+               "gender": 2,
+               "credit_id": "5316b94cc3a3681399001e12",
+               "name": "Friedrich Kayssler",
+               "profile_path": null,
+               "id": 1091863,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Licht",
+               "gender": 2,
+               "credit_id": "5316b95ac3a3681399001e18",
+               "name": "Max Gülstorff",
+               "profile_path": "/eQK7VtDhbB3dh41bvxpDGOK2q6s.jpg",
+               "id": 47213,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Marthe Rull",
+               "gender": 0,
+               "credit_id": "5316b968c3a36813c2001d71",
+               "name": "Lina Carstens",
+               "profile_path": "/pC0aw0nW1eIlUaQqWo8hdSPSrwX.jpg",
+               "id": 20886,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Eva Rull",
+               "gender": 0,
+               "credit_id": "5316b979c3a36813c9001e61",
+               "name": "Angela Salloker",
+               "profile_path": null,
+               "id": 590969,
+               "order": 5
+            },
+            {
+               "cast_id": 7,
+               "character": "Veit Tümpel",
+               "gender": 0,
+               "credit_id": "5316b993c3a36813bb001ce1",
+               "name": "Bruno Hübner",
+               "profile_path": null,
+               "id": 49297,
+               "order": 6
+            },
+            {
+               "cast_id": 8,
+               "character": "Ruprecht Tümpel",
+               "gender": 2,
+               "credit_id": "5316b9a6c3a36813c2001d79",
+               "name": "Paul Dahlke",
+               "profile_path": "/byvraNKoYtlOSdVOulAPKNXapu3.jpg",
+               "id": 20865,
+               "order": 7
+            },
+            {
+               "cast_id": 17,
+               "character": "Frau Brigitte",
+               "gender": 0,
+               "credit_id": "536e1c1c0e0a2647cb010085",
+               "name": "Elisabeth Flickenschildt",
+               "profile_path": null,
+               "id": 20884,
+               "order": 8
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "5316b924c3a368137b001dfa",
+               "name": "Gustav Ucicky",
+               "profile_path": null,
+               "id": 51073,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5316b92cc3a3681388001df4",
+               "name": "Emil Jannings",
+               "profile_path": "/r7kDnkaMUig9zeOqEndngx787HI.jpg",
+               "id": 2895,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "535116c0c3a3681da5001150",
+               "name": "Heinrich von Kleist",
+               "profile_path": null,
+               "id": 933415,
+               "department": "Writing",
+               "job": "Theatre Play"
+            },
+            {
+               "gender": 1,
+               "credit_id": "53511a62c3a3681d7b0011ec",
+               "name": "Thea von Harbou",
+               "profile_path": "/gSEePHfHWLHuyMoiSlGqj7d3Iw8.jpg",
+               "id": 157,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "53511a74c3a3681d810011b0",
+               "name": "Fritz Arno Wagner",
+               "profile_path": null,
+               "id": 9836,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53511ad1c3a3681d980011ae",
+               "name": "Wolfgang Zeller",
+               "profile_path": null,
+               "id": 11575,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53511b2ac3a3681d8d0011c3",
+               "name": "Arnfried Heyne",
+               "profile_path": null,
+               "id": 47161,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "53511b3dc3a3681d87001255",
+               "name": "Robert Herlth",
+               "profile_path": null,
+               "id": 29153,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53511b68c3a3681d8700125b",
+               "name": "Fritz Klotsch",
+               "profile_path": null,
+               "id": 1287718,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56f329189251411a94000590",
+               "name": "Karl Julius Fritzsche",
+               "profile_path": null,
+               "id": 590774,
+               "department": "Production",
+               "job": "Producer"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Comedy",
+         "id": 35
+      }],
+      "popularity": 1.069942,
+      "production_countries": [{
+         "iso_3166_1": "DE",
+         "name": "Germany"
+      }],
+      "id": 258070,
+      "vote_count": 4,
+      "budget": 0,
+      "overview": "The man who broke the jug, the judge, is trying a case who determine who broke the jug. Long before the evidence becomes conclusive against the suspects, it becomes apparent that the blustering and bullying - and naive - village judge is the guilty one.",
+      "similar": [
+         4638,
+         346,
+         50348,
+         11970,
+         637,
+         914,
+         8871,
+         140300,
+         10315,
+         525,
+         411088,
+         16869,
+         8392,
+         1579,
+         5925,
+         2253,
+         335,
+         289,
+         613,
+         1245
+      ],
+      "original_title": "Der zerbrochene Krug",
+      "runtime": 86,
+      "poster_path": "/ozFoxqhTgcji6UsgYA0CvQUoLKP.jpg",
+      "spoken_languages": [{
+         "name": "Deutsch",
+         "iso_639_1": "de"
+      }],
+      "production_companies": [],
+      "release_date": "1937-10-18",
+      "vote_average": 7.5,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Germany",
+      "color": "Black and White",
+      "budgetCurrency": null,
+      "directors": [
+         "Gustav Ucicky",
+         "Emil Jannings"
+      ],
+      "runtime": 86,
+      "synopsis": null,
+      "writers": [
+         "Heinrich von Kleist",
+         "Thea von Harbou"
+      ],
+      "originalLanguage": "German",
+      "imdbLink": "http://www.imdb.com/title/tt0029817/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTU1NzYxMjk4MV5BMl5BanBnXkFtZTcwMTQ3MDcxMQ@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Emil Jannings, Friedrich Kayßler, Max Gülstorff | See full cast and crew »"],
+      "reviews": [
+         "Kleists \"Zerbrochener Krug\" demonstrates that even \"classical poets\" have written plays that are devilishly funny and remain a joy to watch over hundreds of years. When we had to read it as students in a German high school, it was an exhilarating surprise among the usual fare. We even acted it out in class, with much giggling, even though we certainly did not reach Emil Janning's finesse of the movie, which was made well before our school years. His portrayal of the village judge Adam, ever so sly but not a bad guy, trying to extricate himself from the closing web of personal mishaps, and under the eye of a stern inspector to boot, gives the play its full due. The other actors are all very good too, with the one unfortunate exception of Lina Carstens - not a well-known actress - as Frau Marthe; she talks at a rapid-fire rate on the top of her voice, and is thus hard to understand in the old movie. Elisabeth Flickenschildt as Frau Brigitte shows how it's done right.",
+         "When I saw this movie it had no subtitles and I had to guess. I thought it was about a store owner in Holland who was being audited and a customer was trying to get their money back or a replacement of their jug. But the rest of the story was more confusing so I had to look up the story to make clear what I saw.Emil Jannings plays a judge in a small dutch town who wakes up , in the morning, beaten up as he was in a fight. It turns out that the legal inspector is coming in to check the town. It turns out that Lina Carstens is going to court because she accused Paul Dauhlke , her daughter boyfriend, of breaking her jug. Her daughter is convincing her that he didn't do it. She knows who did . But she's afraid to tell . It was Adam the judge .Her boy friend is being drafted to the dutch indie army and Adam knows how to get him out.This was one of the few actual non propaganda that Emil Jannings did and that it was a comedy. It's based on a play created in the 1800's. It was consider a risky experiment to make into a movie to Goebels.Adam as judge fights to conceal the fact that he did it. Lina Carsten accuses Paul for and he argues that he didn't. Until one of the village ladies found his wig. Which every one in court starts to realize who's the culprit. Eva the daughter fearlessly reveals the truth, She saw Adam. The visual shtick is here .The wig showing up is hilarious. How Adam fights to deny it . Whats unusual for a German classic film is that at the end they show the actors who were in it .Visually only. It was shot like a stage play and Lina Carsten was doing some stage type acting. Although it didn't fit the film mode ,it made it more funnier."
+      ],
+      "genres": ["Comedy"],
+      "productionCompanies": ["Tobis-Magna-Filmproduktion"],
+      "summaries": ["The blank verse does not work all that well in subtitles, but the film works even for those who don't understand German. The man who broke the jug, the judge, is trying a case who determine who broke the jug. Long before the evidence becomes conclusive against the suspects, it becomes apparent that the blustering and bullying - and naive - village judge is the guilty one."],
+      "budget": 0
+   },
+   "movielensId": 116511,
+   "movielens": {
+      "languages": ["Deutsch"],
+      "releaseDate": "1937-10-18",
+      "dvdReleaseDate": null,
+      "directors": [
+         "Gustav Ucicky",
+         "Emil Jannings"
+      ],
+      "runtime": 86,
+      "movieId": 116511,
+      "title": "The Broken Jug",
+      "mpaa": null,
+      "actors": [
+         "Emil Jannings",
+         "Friedrich Kayssler",
+         "Max Gülstorff",
+         "Lina Carstens",
+         "Angela Salloker",
+         "Bruno Hübner",
+         "Paul Dahlke",
+         "Elisabeth Flickenschildt"
+      ],
+      "imdbMovieId": "0029817",
+      "originalTitle": "Der zerbrochene Krug",
+      "genres": ["Comedy"],
+      "youtubeTrailerIds": [],
+      "plotSummary": "The man who broke the jug, the judge, is trying a case who determine who broke the jug. Long before the evidence becomes conclusive against the suspects, it becomes apparent that the blustering and bullying - and naive - village judge is the guilty one.",
+      "tmdbMovieId": 258070,
+      "avgRating": 4,
+      "releaseYear": "1937",
+      "numRatings": 2,
+      "posterPath": "/ozFoxqhTgcji6UsgYA0CvQUoLKP.jpg"
+   }
+}

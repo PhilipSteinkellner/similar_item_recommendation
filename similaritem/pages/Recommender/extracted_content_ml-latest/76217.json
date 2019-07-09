@@ -1,0 +1,354 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [{
+         "name": "independent film",
+         "id": 10183
+      }],
+      "imdb_id": "tt1445202",
+      "video": false,
+      "title": "Bass Ackwards",
+      "recommendations": [59355],
+      "backdrop_path": "/rMXdmUri11UibtS24XWAhUqnFX2.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Linas",
+               "gender": 2,
+               "credit_id": "52fe47349251416c9106d6bd",
+               "name": "Linas Phillips",
+               "profile_path": "/pDAQM7CizQScu4mF1fIT8h4stAQ.jpg",
+               "id": 123512,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Georgia",
+               "gender": 1,
+               "credit_id": "52fe47349251416c9106d6c1",
+               "name": "Davie-Blue",
+               "profile_path": "/7f9ffVH2kJHRVmTGuW6cReurjU6.jpg",
+               "id": 123513,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "Jim",
+               "gender": 0,
+               "credit_id": "52fe47349251416c9106d6c5",
+               "name": "Jim Fletcher",
+               "profile_path": null,
+               "id": 123514,
+               "order": 2
+            },
+            {
+               "cast_id": 5,
+               "character": "Vlad",
+               "gender": 2,
+               "credit_id": "52fe47349251416c9106d6c9",
+               "name": "Alex Karpovsky",
+               "profile_path": "/mJZ6rF9ZaI8Wb4iADB8MlnGCRHD.jpg",
+               "id": 123515,
+               "order": 3
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe47349251416c9106d6b9",
+               "name": "Linas Phillips",
+               "profile_path": "/pDAQM7CizQScu4mF1fIT8h4stAQ.jpg",
+               "id": 123512,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "555899789251410b39000e1a",
+               "name": "Linas Phillips",
+               "profile_path": "/pDAQM7CizQScu4mF1fIT8h4stAQ.jpg",
+               "id": 123512,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "55589988c3a368776c008186",
+               "name": "Sean Porter",
+               "profile_path": null,
+               "id": 1010024,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 1,
+               "credit_id": "555899d49251412afe001eaf",
+               "name": "Davie-Blue",
+               "profile_path": "/7f9ffVH2kJHRVmTGuW6cReurjU6.jpg",
+               "id": 123513,
+               "department": "Writing",
+               "job": "Co-Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "555899e492514129b7002174",
+               "name": "Jim Fletcher",
+               "profile_path": null,
+               "id": 123514,
+               "department": "Writing",
+               "job": "Co-Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "555899f7c3a368776c008191",
+               "name": "Paul Lazar",
+               "profile_path": "/tYql2muBX2aJpUtteoRmPSLcJTl.jpg",
+               "id": 138988,
+               "department": "Writing",
+               "job": "Co-Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "55589a1fc3a368776a008380",
+               "name": "Mark Duplass",
+               "profile_path": "/pY2qE627sM0Wkx6HvQQWeZ6fd15.jpg",
+               "id": 45407,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55589a369251411e4d008b00",
+               "name": "Marian Koltai-Levine",
+               "profile_path": null,
+               "id": 1468094,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55589ab3c3a368778200980c",
+               "name": "Stu Pollard",
+               "profile_path": null,
+               "id": 139080,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "55589ac1c3a368776a00838b",
+               "name": "Gill Holland",
+               "profile_path": null,
+               "id": 556877,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "55589af79251411e5b008714",
+               "name": "Laurie Hicks",
+               "profile_path": null,
+               "id": 1158913,
+               "department": "Production",
+               "job": "Line Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "55589b13c3a3687772009076",
+               "name": "Carly Hugo",
+               "profile_path": null,
+               "id": 1417868,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "55589dacc3a3687774008d37",
+               "name": "Jennifer Lee",
+               "profile_path": "/3wyO9PcX05YNU70T4J3NPYiPL4h.jpg",
+               "id": 158455,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "55589de092514133f4001f64",
+               "name": "Jack Bennett",
+               "profile_path": null,
+               "id": 1468097,
+               "department": "Production",
+               "job": "Line Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "55589df8c3a368776c0081f9",
+               "name": "Brett Jutkiewicz",
+               "profile_path": null,
+               "id": 993751,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "55589e019251411e4d008b87",
+               "name": "Linas Phillips",
+               "profile_path": "/pDAQM7CizQScu4mF1fIT8h4stAQ.jpg",
+               "id": 123512,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55589e0f92514133f4001f6c",
+               "name": "Tara Jane O'Neil",
+               "profile_path": null,
+               "id": 1468098,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55589e20c3a368777e00870c",
+               "name": "Lori Goldston",
+               "profile_path": null,
+               "id": 100428,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Comedy",
+            "id": 35
+         }
+      ],
+      "popularity": 0.698403,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 39830,
+      "vote_count": 6,
+      "budget": 0,
+      "overview": "A man coming off a disastrous affair with a married woman has a lyrical, strange and comedic cross-country journey in a modified VW bus.",
+      "similar": [
+         8810,
+         3134,
+         294963,
+         281,
+         948,
+         298312,
+         4638,
+         681,
+         281957,
+         10212,
+         11564,
+         43923,
+         133805,
+         2142,
+         4771,
+         12162,
+         769,
+         185,
+         949,
+         10285
+      ],
+      "original_title": "Bass Ackwards",
+      "runtime": 103,
+      "poster_path": "/zM74i9PIefCWLxNKWzdWyOKD7Wg.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "Zipline Entertainment",
+         "id": 5791,
+         "origin_country": ""
+      }],
+      "release_date": "2010-01-23",
+      "vote_average": 5.1,
+      "belongs_to_collection": null,
+      "tagline": "One man's ride from Seattle to New York in a modified VW \"shorty\"",
+      "adult": false,
+      "homepage": "http://www.bassackwardsfilm.com/",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Linas Phillips"],
+      "runtime": 103,
+      "synopsis": null,
+      "writers": [
+         "Linas Phillips",
+         "Davie-Blue"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt1445202/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTU3MzE3MzY0M15BMl5BanBnXkFtZTcwNjQyMTUxMw@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Linas Phillips, Davie-Blue, Sebastien Scandiuzzi | See full cast and crew »"],
+      "reviews": [
+         "I also related to the movie, have wanted to see it ever since Sundance, and YouTube's pay release window. I found it easy to get into the rhythm of the film. I liked the sweetness of it, that it took its time, and that it had none of the smugness and self-consciousness hipness of many indie, and most studio, films. I had the same reaction to it as I did to sex, lies and videotape 20 years ago, feeling like this was a film that was again pushing the boundaries of film-making, pushing the margins to more authenticity, naturalism, etc. It's similar, but different than other indie or road films. It feels post-slacker, post- irony, post hollow-culture-formula-action movies, post-judgmental us- against-them contemporary stuff. It also redefined hetero men as I find them today, less afraid to be sensitive, unclear about what roles are today, not as phonily macho and cool as portrayed in Hollywood films. I know more people like Linas than I do leading men in mainstream films. That probably goes for the characters he meets on the road, somewhat more like people in LA, than those who inhabit studio films. The film was somewhat lacking in plot, and I was slightly itchy, but only slightly. Mostly I fell into the rhythm of the film, happy to be with Linas on his road adventure, as he experienced himself and his solitaryness in a way that was quite relatable for all of us.",
+         "I follow film websites and picked up a film festival buzz about this movie. I spotted it on Fios pay-per-view and said \"what the heck.\" I like micro-budget films if they are original (being from Baltimore, check out our home boy Matthew Porterfield). That said, this movie enthralled me. In my youth in the 60s and 70s, I spent a certain amount of time on the road. I hitchhiked from Boston to Provincetown almost effortlessly in 1972. I traveled all around the Baltimore/D.C. area on my thumb. I fear those days are over. Not sure why. But I met a lot of interesting people along the way. Anyway, a lot of those reminiscences came back watching \"Bass Ackwards.\" Linas, our hero, has basically gotten kicked out of Seattle. No one there who he thought he was tight with wants him around anymore. He ends up on an alpaca farm to make a few bucks and the owner is glad to give Linas his rattletrap VW microbus, a ridiculous vehicle in any man's motor pool. Linas hits the road. Linas' parents are glad to hear he's on the way home to where they live in Boston. But you can tell they are dubious over what he's up to. They definitely do not want him as a permanent boarder. Bottom line, Linas is leaving nowhere and headed nowhere. All that matters is what happens to him along the way. And interesting things happen. He picks up and befriends a guy with heavy marital baggage. He flirts with a girl he does not know is married and ends up in a punch-out. He runs out of gas and has to do a Christopher Walken imitation in Lithuanian to get the gas he needs (I kid you not). It's not much of a spoiler to say Linas lands in an intriguing place in NYC and we see the beginnings of his new life. In fact, the movie ends abruptly where you are really curious what come next. Nevermind. He'll be OK. This is wonderful independent American cinema. And, one of the best American road movies ever made.",
+         "This movie reminded me the Taxi Driver Class of movies , this is a nonstop road-trip to real life without lies , it is an honest creation that passes from \"why to me?\" to \"happened to us too\".It jumps from the ego and falls to the person next to you.This is not an easy trip as it looks.The reward about understanding this, is \"happiness\" real happiness without lies the happiness of living.I really liked this film to say the truth there's been a long time to see such an honest film .Dont miss this it worths your time.People on this film worked hard to achieve the purpose and it is obvious not like other garbages that circulating on the market today.Also there's a question \"Can i ?\" and the answer is \"Why not?\".Think about it.",
+         "It's interesting to wonder what a movie actually is supposed to mean so we only have our own perspective to rely on... With this movie I immediately fell in love with the cinematography. It's got a real life quality mixed with a dash of art to really make me feel connected to whats happening. I feel like the main character a lot in my personal life, not to sound over the top melancholy or anything. I just relate to the social interactions with people, the awkwardness of it all. The self amusement and the way we see the world when we are by ourselves. Life is tough and this movie keeps it real and relative, props to the crew, I feel big things coming for them in the future. Sorry if this is a pointless review, it's my first one... :)",
+         "for me this movie started out with a real story and characters you can believe in as real. then as the 'road trip' starts the main character becomes less and less believable and the story becomes more and more improbable. and to add to the disbelief the people he meets along the way are just weird and goofy. the man he lets rest in the van - i don't believe Linas would just open the door to a complete stranger - and then they become best friends! and the store owner seems a bit mental and off. then proves himself to be a caring person - why would he go to the trouble to tell Linas, what was the incentive? this flick just has too many holes and loose ends for me to like it. it is a movie wanting to be more but keeps scraping bottom on the speed bumps throughout the story.",
+         "Saw Bass Ackwards this weekend at the Waterfront Film Festival, but ended up leaving about 15 minutes before the movie was done due to boredom. I watch a lot of films and this is the first time I've walked out early. There were way too many scenes of the Vw Microbus getting passed by semi-trucks on the highway. It was funny for the first few times and then just became insulting. I think a three year old would have understood the point that it was a slow and frustrating vehicle well before using the same gag about 10 or 15 times. There were a couple entertaining moments he had with the service station guy \"no speak English\" and Linas' Christopher Walken impersonation.",
+         "Bass Ackwards is a film that as of right now seems to be going under everybody's radar. I found it by chance while researching released films from this year that I have not yet seen, and man, am I glad I found it. At times it reminded me of Last year's Wendy and Lucy, but without the added drama I found came along with that film. Other times it reminded me of Sean Penn's Into the Wild as the story follows one man on the road always searching with an open heart. What this film has however, that both these other excellent films do not is a soul that Hollywood rarely touches upon and an acutely fitted soundtrack reminiscent of Neil Young's score to Dead Man. All these things, plus a foreign language Christopher Walken impression make this little gem of a film shine like a newly unearthed diamond",
+         "I had to add my few impressions just to get the average review feeling for this film up closer to the score it really deserves. Beautiful photography and deliciously fitting music give the road trip a genuine convincing real emotional satisfying impact. I wasn't looking for plot, so didn't miss there not being one. The film makers here know how a film depends on feelings evoked by imagery and believably suspenseful drama. How you can get that without plot is how this movie works. That a feeble little VW micro-bus can get so much mileage with so little power is the impressive surprise. Yep, lotsa higher-powered vehicles pass it by, or find it's in their way. But Linas keeps on driving along and we get somewhere pretty satisfying eventually.",
+         "After watching this film I have yet to find a reason why I sat through the whole thing! I cannot find anything positive to say about this film. It is lack lustre, lacking in comedy, lacking in story line and the plot outline is an over descript outline of its reality. This story could be told in about 10 minutes and still have the comedic value it presents as a full length movie. If you enjoy watching paint dry then you may just enjoy this film! My apologies to the producer, but in my opinion this is awful! If you intend passing an hour and a half of your time, if you can find something else to do, it would far more rewarding than sitting through this."
+      ],
+      "genres": [
+         "Adventure",
+         "Comedy",
+         "Drama"
+      ],
+      "productionCompanies": [
+         "Furnace Films",
+         "Group Entertainment, The",
+         "Lunacy Unlimited Productions"
+      ],
+      "summaries": ["A man coming off a disastrous affair with a married woman has a lyrical, strange and comedic cross-country journey in a modified VW bus."],
+      "budget": 0
+   },
+   "movielensId": 76217,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2010-01-23",
+      "dvdReleaseDate": "2010-06-29",
+      "directors": ["Linas Phillips"],
+      "runtime": 103,
+      "movieId": 76217,
+      "title": "Bass Ackwards",
+      "mpaa": "",
+      "actors": [
+         "Linas Phillips",
+         "Davie-Blue",
+         "Jim Fletcher",
+         "Alex Karpovsky"
+      ],
+      "imdbMovieId": "1445202",
+      "originalTitle": "Bass Ackwards",
+      "genres": [
+         "Adventure",
+         "Comedy"
+      ],
+      "youtubeTrailerIds": ["no0xelIuBG0"],
+      "plotSummary": "A man coming off a disastrous affair with a married woman has a lyrical, strange and comedic cross-country journey in a modified VW bus.",
+      "tmdbMovieId": 39830,
+      "avgRating": 3,
+      "releaseYear": "2010",
+      "numRatings": 7,
+      "posterPath": "/zM74i9PIefCWLxNKWzdWyOKD7Wg.jpg"
+   }
+}

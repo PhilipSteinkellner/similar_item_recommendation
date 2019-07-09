@@ -1,0 +1,521 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "new york",
+            "id": 242
+         },
+         {
+            "name": "teenager",
+            "id": 13130
+         }
+      ],
+      "imdb_id": "tt0074256",
+      "video": false,
+      "title": "Bugsy Malone",
+      "recommendations": [
+         1058,
+         268942,
+         11318,
+         9051,
+         2321,
+         60971,
+         14117,
+         19267,
+         17128,
+         48903,
+         50928,
+         79827,
+         50627,
+         11414,
+         48671,
+         26535,
+         48672,
+         49673,
+         50914,
+         21764
+      ],
+      "backdrop_path": "/4kLn7wE5QoXTIxpEpCsXYL8JTLR.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 11,
+               "character": "Bugsy Malone",
+               "gender": 2,
+               "credit_id": "52fe44aac3a36847f80a31f9",
+               "name": "Scott Baio",
+               "profile_path": "/d9kadfpBXRfn82X0VPHLgxY6QNR.jpg",
+               "id": 55093,
+               "order": 0
+            },
+            {
+               "cast_id": 4,
+               "character": "Tallulah",
+               "gender": 1,
+               "credit_id": "52fe44aac3a36847f80a31d5",
+               "name": "Jodie Foster",
+               "profile_path": "/eAIE6bnOQ8rm0f933gyeAQdIwrP.jpg",
+               "id": 1038,
+               "order": 1
+            },
+            {
+               "cast_id": 15,
+               "character": "Blousey",
+               "gender": 0,
+               "credit_id": "52fe44aac3a36847f80a320f",
+               "name": "Florrie Dugger",
+               "profile_path": "/9BL5rYBG6Z7oaS8fYg2TJAt2DkQ.jpg",
+               "id": 1021872,
+               "order": 2
+            },
+            {
+               "cast_id": 6,
+               "character": "Fat Sam",
+               "gender": 0,
+               "credit_id": "52fe44aac3a36847f80a31dd",
+               "name": "John Cassisi",
+               "profile_path": "/hRKQM1BzVyDovQTVSR9j6DxOtM3.jpg",
+               "id": 55095,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Dandy Dan",
+               "gender": 0,
+               "credit_id": "52fe44aac3a36847f80a31d9",
+               "name": "Martin Lev",
+               "profile_path": "/vCdyNafMUnCZbVbHWaK57enia0C.jpg",
+               "id": 55094,
+               "order": 4
+            },
+            {
+               "cast_id": 16,
+               "character": "Leroy Smith",
+               "gender": 0,
+               "credit_id": "52fe44aac3a36847f80a3213",
+               "name": "Paul Murphy",
+               "profile_path": null,
+               "id": 1117443,
+               "order": 5
+            },
+            {
+               "cast_id": 17,
+               "character": "Knuckles",
+               "gender": 0,
+               "credit_id": "52fe44aac3a36847f80a3217",
+               "name": "Sheridan Earl Russell",
+               "profile_path": null,
+               "id": 1117444,
+               "order": 6
+            },
+            {
+               "cast_id": 18,
+               "character": "Fizzy",
+               "gender": 0,
+               "credit_id": "52fe44aac3a36847f80a321b",
+               "name": "Albin 'Humpty' Jenkins",
+               "profile_path": null,
+               "id": 1117445,
+               "order": 7
+            },
+            {
+               "cast_id": 19,
+               "character": "Smolsky",
+               "gender": 0,
+               "credit_id": "52fe44aac3a36847f80a321f",
+               "name": "Paul Chirelstein",
+               "profile_path": null,
+               "id": 1022080,
+               "order": 8
+            },
+            {
+               "cast_id": 20,
+               "character": "O'Dreary",
+               "gender": 0,
+               "credit_id": "52fe44aac3a36847f80a3223",
+               "name": "Andrew Paul",
+               "profile_path": "/smgEaiZDNBOkGCwddjcyfHA8sv.jpg",
+               "id": 164601,
+               "order": 9
+            },
+            {
+               "cast_id": 21,
+               "character": "Cagey Joe",
+               "gender": 0,
+               "credit_id": "52fe44aac3a36847f80a3227",
+               "name": "Davidson Knight",
+               "profile_path": null,
+               "id": 1022135,
+               "order": 10
+            },
+            {
+               "cast_id": 22,
+               "character": "Razamataz",
+               "gender": 0,
+               "credit_id": "52fe44aac3a36847f80a322b",
+               "name": "Michael Jackson",
+               "profile_path": null,
+               "id": 1117446,
+               "order": 11
+            },
+            {
+               "cast_id": 23,
+               "character": "Louis",
+               "gender": 0,
+               "credit_id": "52fe44aac3a36847f80a322f",
+               "name": "Jeff Stevenson",
+               "profile_path": null,
+               "id": 1117447,
+               "order": 12
+            },
+            {
+               "cast_id": 24,
+               "character": "Ritzy",
+               "gender": 0,
+               "credit_id": "52fe44aac3a36847f80a3233",
+               "name": "Peter Holder",
+               "profile_path": null,
+               "id": 1022122,
+               "order": 13
+            },
+            {
+               "cast_id": 25,
+               "character": "Snake Eyes",
+               "gender": 0,
+               "credit_id": "52fe44aac3a36847f80a3237",
+               "name": "Donald Waugh",
+               "profile_path": null,
+               "id": 1022217,
+               "order": 14
+            },
+            {
+               "cast_id": 26,
+               "character": "Angelo",
+               "gender": 0,
+               "credit_id": "52fe44aac3a36847f80a323b",
+               "name": "Michael Kirkby",
+               "profile_path": null,
+               "id": 1022586,
+               "order": 15
+            },
+            {
+               "cast_id": 27,
+               "character": "Shoulders",
+               "gender": 0,
+               "credit_id": "52fe44aac3a36847f80a323f",
+               "name": "Jon Zebrowski",
+               "profile_path": null,
+               "id": 1022226,
+               "order": 16
+            },
+            {
+               "cast_id": 28,
+               "character": "Bronx Charlie",
+               "gender": 0,
+               "credit_id": "52fe44aac3a36847f80a3243",
+               "name": "Jorge Valdez",
+               "profile_path": null,
+               "id": 1117448,
+               "order": 17
+            },
+            {
+               "cast_id": 29,
+               "character": "Benny Lee",
+               "gender": 0,
+               "credit_id": "52fe44aac3a36847f80a3247",
+               "name": "John Rafter Lee",
+               "profile_path": null,
+               "id": 79050,
+               "order": 18
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe44aac3a36847f80a31cb",
+               "name": "Alan Parker",
+               "profile_path": "/vABD5OnVL9TcuxLHae6EOTDfWiW.jpg",
+               "id": 9168,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44aac3a36847f80a31d1",
+               "name": "Alan Parker",
+               "profile_path": "/vABD5OnVL9TcuxLHae6EOTDfWiW.jpg",
+               "id": 9168,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44aac3a36847f80a31e3",
+               "name": "Alan Marshall",
+               "profile_path": null,
+               "id": 7726,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44aac3a36847f80a31e9",
+               "name": "Michael Seresin",
+               "profile_path": "/z1gtMRLItEj02DfrzeS8ZjPMZUu.jpg",
+               "id": 9165,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44aac3a36847f80a31ef",
+               "name": "Peter Biziou",
+               "profile_path": null,
+               "id": 10717,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44aac3a36847f80a31f5",
+               "name": "Paul Williams",
+               "profile_path": "/qkGR5o0Yl8Q1PitH6N422NunOiN.jpg",
+               "id": 35040,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44aac3a36847f80a31ff",
+               "name": "David Puttnam",
+               "profile_path": null,
+               "id": 8967,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44aac3a36847f80a3205",
+               "name": "Robert Stigwood",
+               "profile_path": null,
+               "id": 8879,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44aac3a36847f80a320b",
+               "name": "Gerry Hambling",
+               "profile_path": null,
+               "id": 9163,
+               "department": "Editing",
+               "job": "Editor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Music",
+            "id": 10402
+         },
+         {
+            "name": "Family",
+            "id": 10751
+         }
+      ],
+      "popularity": 5.461516,
+      "production_countries": [{
+         "iso_3166_1": "GB",
+         "name": "United Kingdom"
+      }],
+      "id": 8446,
+      "vote_count": 86,
+      "budget": 0,
+      "overview": "A pint-sized cast illuminates this musical that is unlike any other ever made. Set in 1929 New York City, Bugsy Malone captures a flashy world of would-be hoodlums, showgirls, and dreamers - all played by child actors! As Tallulah, the sassy girlfriend of the owner of Fat Sam's Grand Slam Speakeasy, future superstar Jodie Foster dances and sings her way into our hearts.",
+      "similar": [
+         272693,
+         449176,
+         9880,
+         308369,
+         315635,
+         81250,
+         8363,
+         43923,
+         57214,
+         10625,
+         50479,
+         11887,
+         2105,
+         9655,
+         2108,
+         8456,
+         4951,
+         109414,
+         277217,
+         26123
+      ],
+      "original_title": "Bugsy Malone",
+      "runtime": 93,
+      "poster_path": "/nPpaL4kNMMnyk9jMeryo0XzimFh.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Goodtimes Enterprises",
+            "id": 4597,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Bugsy Malone Productions",
+            "id": 11372,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "National Film Finance Consortium",
+            "id": 11373,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Robert Stigwood Organization (RSO)",
+            "id": 3978,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "National Film Trustee Company",
+            "id": 464,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "The Rank Organisation",
+            "id": 364,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1976-06-26",
+      "vote_average": 6.7,
+      "belongs_to_collection": null,
+      "tagline": "Every year brings a great movie. Every decade a great movie musical!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Alan Parker"],
+      "runtime": 93,
+      "synopsis": null,
+      "writers": ["Alan Parker"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0074256/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTg0MDQwMTA0NF5BMl5BanBnXkFtZTcwNzczODAwMQ@@._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "actors": ["Stars: Jodie Foster, Scott Baio, Florrie Dugger | See full cast and crew »"],
+      "reviews": [
+         "For anyone who sees this film as sinister or as a paedophiles dream GET A LIFE!!!! It was made in the 70's when we weren't politically correct and living was fun! What has happened to us that we can't see a film with children in it without thinking that it was made for an ulterior motive? Enjoy the film for what it is. I saw this film for the first time when I was about 9, loved it then and still do (I'm now 34!) It's harmless fun, something you would have loved to have been involved in had you been given the chance. All those splurge guns and pedal cars, think about it, it would have been great fun! And that's what you should remember when you watch it, it's great FUN! I have 2 children who ABSOLUTELY love this film as much as I do and I have no qualms whatsoever about letting them watch this. Just remember you were young once, watch this film, forget about everything, and recapture your youth!!!!",
+         "Bugsy Malone, a childhood favorite of mine, is perhaps the only musical spoof of gangster films and film noir where all the roles of the gangsters, flappers, bartenders and hitmen are played by children (collective age: 12). In place of the universal racketeer firearms are \"splat guns\" that cover victims in whipped-cream. Likewise, the cars are pedal-driven like bikes. The story tells of the rise of the womanizing, ex-boxer Bugsy Malone (Scott Baio) who finds himself enlisted in the mob of speakeasy-owner Fat Sam (John Cassisi), who's in the middle of a fierce territorial battle with the suave Dandy Dan (Martin Lev). Dan has come up with a new weapon, the splat gun, leaving Fat Sam to rely on the antiquated manually-thrown pies for his heists. Sam's gang is sweetly gunned-down bit by bit, and Bugsy is ultimately recruited to get a hold of this new weapon and rebuild the gang (which he does with the homeless Down-And-Outs and boxer Leroy Smith, played by Paul Murphy). Baio is remarkable (if you can believe that), and most of the performances are amazing! Jodi Foster excels as vampy nite-club singer Tallulah, and Florrie Dugger (as Blousey Brown -- in her only role to date) is wonderful as Bugsy's piquant love interest. I just don't understand why more of these child-actors didn't go on to bigger and better things like Jodi Foster! And whoever played \"Babyface\" is remarkable, showing three-times the amount of charisma of Macaulay Culkin. The film was nominated for a series of Oscars and Golden Globe awards and it's apparent as to why. Paul Williams' score is amazing - so many of these songs should be remade! If telling you to seek this one out for sure!",
+         "This is one of my all time favorite films, straight up, no chaser! Some films possess a magical quality that cannot be planned as they are filming. This film has that magic. The musical numbers are wonderful, the performances genuine. I love the way the romantic subtleties are handled since the cast children. This film is made by the music. There is not one bad number in the film. Bring back the splurge gun!",
+         "This is a very cute and enjoyable movie, quite possibly the only one in a very small sub-genre in the genre of gangster films-a musical gangster movie cast entirely with children. The cast is notable principally by the presence of Jodie Foster (as a side note, this was released the same year as was Taxi Driver!) and Scott Baio, the musical score was done by Paul Wiliams (who was nominated for an Oscar for his efforts here) and the costumes are quite nice. One thing about the music: I've seen this several times and I still can't be sure if the cast is singing or if the singing is dubbed. I think it's dubbed, as the numbers are almost stiltedin nature. Still fun-just put your brain on neutral and enjoy. Well worth watching.",
+         "Like all period films this is timeless. It is characterised by the fun and enthusiasm shown by the young cast (average age 12). Who wouldn't have wanted to join in. Films don't have to be grand with big budgets to entertain. I read somewhere once that the film was shot with an amazingly low number of re-takes. An indication of how easy it can be to work with children. Of all films made with a cast of only children this one has to be the best. A film which I go to see whenever I find it showing somewhere. Excellent stuff for the big kids (like me) around.",
+         "The film is unique musical parody of gangster movies, where all the roles are played by children. I first watched it shortly after its release, and was absolutely thrilled. Balanced director's work, smartly composed screenplay, great and very temporary musical score and, above all, the brilliant talent of young Jodie Foster. Not all the roles were played equally convincingly, but the kids were generally quite good. I enjoyed the film even more while writing subtitles (for home use) for it several months ago, being thus forced to listen carefully to every word spoken or sung. After 30 years, I really have nothing to add to my first impressions. \"Bugsy Malone\" is timeless, and should be listed among the movie classics, along with \"The Wizzard of Oz\" and \"Oliver\".",
+         "Ive always liked this one, it gives kids a chance to experience \"playing soldiers\" if they cant do so, due to their position in life or otherwise. Besides the fact that when i first viewed this film, RENTED at 8 yrs old, I was somewhat like this. But thats a different story. The cast is excellent, music, acting, dialogue, its all very good and true. I loved this film, eventhough I love all films, I suggest you see it whenever you can. It has meaning, and is playful in many ways. Thank you.",
+         "The first and only gangster movie to involve cream. Bugsy Malone (Baio) was a ladies man and a regular at the club \"Fat Sam's\" were the famous Tallulah (Foster) normally performs, Tallulah is going out with Fat Sam (Cassisi) the owner of the club, this is also the head quarters of his gang. Fat Sam's gang is under threat as another gang is trying to take other there territory, and doing this very successfully as they have \"Splurge Guns\". Whilst as Fat Sam's Bugsy meets Blousey (Dugger) and they start dating. One, by one all of fat Sam's gang is killed off and only he is left. Bugsy then promised Blousey he will buy them a ticket to Hollywood, so to get the money he begging to work for fat Sam and help him save his business but will he succeed and will him and Blousey ever make it to Hollywood? This is a very unique movie and they will never by one like it. It is unique in3 ways.1. It is a gangster movie which uses child actors, which brings a knew type of energy to the movie.2. It uses splurge guns instead of real guns which use dream instead of bullets and this makes the movie more suitable for younger children and 3. When the children are singing it's not actually them singing, which make the songs sound nicer but is also quite a comedic effect to see this big strong voices, coming out of such little kids .I also think it is interesting that some of the actors become very famous actors when they got older such a Scott Baio and Jodie Foster. I think this movie is great and there is just something about it is just great, and all the characters are so lovable. It's just a great family film for anyone and is suitable for all ages and everyone will enjoy it!",
+         "I think this is an excellent movie...good clean fun and there isn't near enough of that on the screen these days! I love the music, (I have always liked Paul Williams' music) the dancing, the kids AND the pedal cars! All in all a great movie. Great costuming, too. It's hard to get pre-pubescent girls to look like vamps but those costumes did a lot in that direction. The only part that I didn't like was the \"Fat Sam\" character whose \"New Yawk\" accent was just a little bit overdone. But I think they did a little play on that when Fat Sam said the word \"personally\" & Tallulah was making fun of his pronunciation! It's a shame more of these kids didn't go on to become stars. Maybe their acting wasn't top notch but some of those faces were \"wow\"! Scott Biao & Jodie Foster are the only two who seem to have went anywhere with their talents. Fair warning: The \"Michael Jackson\" in this movie is not the \"Michael Jackson\" formerly of \"The Jackson Five\" & known for his \"Thriller\" video & \"other things\". It's a totally different person.",
+         "I saw the movie myself when I was a kid and I am 36 years old. I loved the movie and at the time I would always wish I had those hard to find legendary \"Splurge Guns\" as well as the peddle cars. This is a very good movie for whether or not you have kids. I still watch it and it just reminds me of my youth. If you have watched the Super Bowl last weekend you also would have noticed that in the Coke commercial they took the ending song or last song in the musical of Bugsy Malone and used it in the Coke Superbowl commercial. I believe the song was called\"You give a little Love\" I used to want to be Bugsy Malone and would play gangster wars with my brothers as a kid."
+      ],
+      "genres": [
+         "Comedy",
+         "Crime",
+         "Family",
+         "Musical"
+      ],
+      "productionCompanies": [
+         "Rank Organisation, The",
+         "Goodtimes Enterprises",
+         "Bugsy Malone Productions"
+      ],
+      "summaries": [
+         "A gangster movie where all the gangsters are played by children. Instead of real bullets they use \"splurge guns\" that cover the victim in cream. The story tells of the rise of \"Bugsy Malone\" and the battle for power between \"Fat Sam\" and \"Dandy Dan\".",
+         "A pint-sized cast illuminates this musical that is unlike any other ever made. Set in 1929 New York City, Bugsy Malone captures a flashy world of would-be hoodlums, showgirls, and dreamers - all played by child actors! As Tallulah, the sassy girlfriend of the owner of Fat Sam's Grand Slam Speakeasy, future superstar Jodie Foster dances and sings her way into our hearts. Award-winning pop composer Paul Williams wrote the words and music for this thoroughly delightful movie.",
+         "The classic gangster story of Bugsy Malone told with an all child cast."
+      ],
+      "budget": 0
+   },
+   "movielensId": 6798,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1976-06-26",
+      "dvdReleaseDate": "2005-10-11",
+      "directors": ["Alan Parker"],
+      "runtime": 93,
+      "movieId": 6798,
+      "title": "Bugsy Malone",
+      "mpaa": "G",
+      "actors": [
+         "Scott Baio",
+         "Jodie Foster",
+         "Florrie Dugger",
+         "John Cassisi",
+         "Martin Lev",
+         "Paul Murphy",
+         "Sheridan Earl Russell",
+         "Albin 'Humpty' Jenkins",
+         "Paul Chirelstein",
+         "Andrew Paul",
+         "Davidson Knight",
+         "Michael Jackson",
+         "Jeff Stevenson",
+         "Peter Holder",
+         "Donald Waugh",
+         "Michael Kirkby",
+         "Jon Zebrowski",
+         "Jorge Valdez",
+         "John Rafter Lee"
+      ],
+      "imdbMovieId": "0074256",
+      "originalTitle": "Bugsy Malone",
+      "genres": [
+         "Drama",
+         "Action",
+         "Comedy",
+         "Music",
+         "Family"
+      ],
+      "youtubeTrailerIds": [
+         "NOrgDbldcA4",
+         "bNSj_G71aVk",
+         "vjHT7AHcIBw",
+         "DgzGqO07yzI",
+         "K9c-18dU2T8"
+      ],
+      "plotSummary": "A pint-sized cast illuminates this musical that is unlike any other ever made. Set in 1929 New York City, Bugsy Malone captures a flashy world of would-be hoodlums, showgirls, and dreamers - all played by child actors! As Tallulah, the sassy girlfriend of the owner of Fat Sam's Grand Slam Speakeasy, future superstar Jodie Foster dances and sings her way into our hearts.",
+      "tmdbMovieId": 8446,
+      "avgRating": 3.23018,
+      "releaseYear": "1976",
+      "numRatings": 328,
+      "posterPath": "/nPpaL4kNMMnyk9jMeryo0XzimFh.jpg"
+   }
+}

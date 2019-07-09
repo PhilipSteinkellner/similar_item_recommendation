@@ -1,0 +1,677 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [{
+         "name": "independent film",
+         "id": 10183
+      }],
+      "imdb_id": "tt0360016",
+      "video": false,
+      "title": "Standing Still",
+      "recommendations": [
+         20478,
+         48345,
+         49963,
+         288818,
+         43079,
+         32284,
+         82520,
+         22633,
+         16548,
+         181756,
+         14845,
+         18408,
+         33379,
+         63437,
+         34128,
+         113091,
+         50035,
+         15676,
+         13957,
+         39213
+      ],
+      "backdrop_path": "/bw1EaMl4ucZqK4yfzY9pWhzlpFM.jpg",
+      "revenue": 12762,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Pockets",
+               "gender": 2,
+               "credit_id": "52fe45d39251416c75063bf5",
+               "name": "Jon Abrahams",
+               "profile_path": "/8Ld44nC9fR5wOyKtLpezSJRCtT5.jpg",
+               "id": 17866,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Elise",
+               "gender": 1,
+               "credit_id": "52fe45d39251416c75063bf9",
+               "name": "Amy Adams",
+               "profile_path": "/tk5eWJcOBr9uRefeUm9ntvehbLA.jpg",
+               "id": 9273,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Franklin Brauner",
+               "gender": 2,
+               "credit_id": "52fe45d39251416c75063bfd",
+               "name": "Roger Avary",
+               "profile_path": "/x9E17YQVlzKoRU8E4SEoEOwRKay.jpg",
+               "id": 8297,
+               "order": 2
+            },
+            {
+               "cast_id": 5,
+               "character": "Lana",
+               "gender": 1,
+               "credit_id": "52fe45d39251416c75063c07",
+               "name": "Mena Suvari",
+               "profile_path": "/xnc7WgBvfefwu3nJ5IkCjQrhPz0.jpg",
+               "id": 8211,
+               "order": 3
+            },
+            {
+               "cast_id": 8,
+               "character": "Rich",
+               "gender": 2,
+               "credit_id": "52fe45d39251416c75063c17",
+               "name": "Aaron Stanford",
+               "profile_path": "/qIiTHJdvf1dwBDO9hJJj8jBqwys.jpg",
+               "id": 11022,
+               "order": 4
+            },
+            {
+               "cast_id": 9,
+               "character": "Jonathan",
+               "gender": 2,
+               "credit_id": "58ebe0d3c3a368731a09158c",
+               "name": "Xander Berkeley",
+               "profile_path": "/vlZ9FDMk2Xd1WHixPKxnheZoXgR.jpg",
+               "id": 3982,
+               "order": 5
+            },
+            {
+               "cast_id": 10,
+               "character": "Donovan",
+               "gender": 2,
+               "credit_id": "58ebe0e4c3a36872af0822a3",
+               "name": "Ethan Embry",
+               "profile_path": "/btE5T04gKo8isQ2UekgXmZIMXmA.jpg",
+               "id": 58019,
+               "order": 6
+            },
+            {
+               "cast_id": 11,
+               "character": "Michael",
+               "gender": 2,
+               "credit_id": "58ebe0f9c3a36872ee091168",
+               "name": "Adam Garcia",
+               "profile_path": "/mNN5sBCsBbx1F9pG6QTqQtQ7vA3.jpg",
+               "id": 28472,
+               "order": 7
+            },
+            {
+               "cast_id": 12,
+               "character": "Jennifer",
+               "gender": 1,
+               "credit_id": "58ebe108925141281008e895",
+               "name": "Lauren German",
+               "profile_path": "/qhHegRoOL7cZu6rMNRezHbIEj75.jpg",
+               "id": 37014,
+               "order": 8
+            },
+            {
+               "cast_id": 13,
+               "character": "Quentin",
+               "gender": 2,
+               "credit_id": "58ebe11dc3a368731a0915d4",
+               "name": "Colin Hanks",
+               "profile_path": "/jhdZWVUQZ71JVwuLdvxelvQmYDl.jpg",
+               "id": 3492,
+               "order": 9
+            },
+            {
+               "cast_id": 14,
+               "character": "Samantha",
+               "gender": 1,
+               "credit_id": "58ebe12ac3a36873020848d0",
+               "name": "Melissa Sagemiller",
+               "profile_path": "/5kio158AOj67eIdGhV0qWQ8WGwk.jpg",
+               "id": 41555,
+               "order": 10
+            },
+            {
+               "cast_id": 15,
+               "character": "Simon",
+               "gender": 2,
+               "credit_id": "58ebe1c8c3a3684aa407aeda",
+               "name": "James Van Der Beek",
+               "profile_path": "/gcytCvmikcg8BEVg7GyINmnsF7I.jpg",
+               "id": 19210,
+               "order": 11
+            },
+            {
+               "cast_id": 16,
+               "character": "Sarah",
+               "gender": 1,
+               "credit_id": "58ebe1d4925141354c051e01",
+               "name": "Marnette Patterson",
+               "profile_path": "/tuVcwHuiWXF8KOqGD04y8BHuQuI.jpg",
+               "id": 71519,
+               "order": 12
+            },
+            {
+               "cast_id": 17,
+               "character": "Prostitute / Cop",
+               "gender": 1,
+               "credit_id": "58ebe1ecc3a36872f608aa4e",
+               "name": "Nikki Ziering",
+               "profile_path": "/zSbPqJ1vDwno138NCncRBHdl1U5.jpg",
+               "id": 54588,
+               "order": 13
+            },
+            {
+               "cast_id": 18,
+               "character": "Kid",
+               "gender": 0,
+               "credit_id": "58ebe215c3a36872f608aa68",
+               "name": "Dakota Sky",
+               "profile_path": null,
+               "id": 1793482,
+               "order": 14
+            },
+            {
+               "cast_id": 19,
+               "character": "Older Man",
+               "gender": 2,
+               "credit_id": "58ebe23bc3a3684a7907e292",
+               "name": "Buck Kartalian",
+               "profile_path": "/4zIBbRsrjuZvu9jTFoJbu1L0u1F.jpg",
+               "id": 111489,
+               "order": 15
+            },
+            {
+               "cast_id": 20,
+               "character": "Store Clerk",
+               "gender": 2,
+               "credit_id": "58ebe2559251414b2804a2eb",
+               "name": "James Duval",
+               "profile_path": "/ydlb3Rp5vkle9codpcfBWxFmUYr.jpg",
+               "id": 1582,
+               "order": 16
+            },
+            {
+               "cast_id": 21,
+               "character": "Taxi Driver",
+               "gender": 2,
+               "credit_id": "58ebe26ec3a368732608889e",
+               "name": "Bret Roberts",
+               "profile_path": "/iWRlcdbyROp0inxnqYkM5ecCAfA.jpg",
+               "id": 98051,
+               "order": 17
+            },
+            {
+               "cast_id": 22,
+               "character": "Captain",
+               "gender": 2,
+               "credit_id": "58ebe27c92514134eb0538c8",
+               "name": "Matthew Cole Weiss",
+               "profile_path": null,
+               "id": 239261,
+               "order": 18
+            },
+            {
+               "cast_id": 23,
+               "character": "Blackjack Dealer",
+               "gender": 0,
+               "credit_id": "58ebe28a925141351f0508ac",
+               "name": "Michael B. Healey",
+               "profile_path": null,
+               "id": 1793483,
+               "order": 19
+            },
+            {
+               "cast_id": 24,
+               "character": "Stripper",
+               "gender": 1,
+               "credit_id": "58ebe2999251413ce403081a",
+               "name": "Eva Derrek",
+               "profile_path": "/xlXKCDtqQZuBJOZEKvLVqasG0Az.jpg",
+               "id": 63347,
+               "order": 20
+            },
+            {
+               "cast_id": 25,
+               "character": "Stripper",
+               "gender": 1,
+               "credit_id": "58ebe2df925141354c051ebb",
+               "name": "Carla Harvey",
+               "profile_path": "/3xpHG1oFXldVmgmhCmw1Y6gsF6A.jpg",
+               "id": 31620,
+               "order": 21
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe45d39251416c75063c03",
+               "name": "Matthew Cole Weiss",
+               "profile_path": null,
+               "id": 239261,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe45d39251416c75063c0d",
+               "name": "Matthew Perniciaro",
+               "profile_path": null,
+               "id": 74426,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe45d39251416c75063c13",
+               "name": "Timm Sharp",
+               "profile_path": "/uV2EKg5p3NmQYvbuiBRtbTWHaAR.jpg",
+               "id": 52933,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58ebe302c3a3684a7907e335",
+               "name": "Tom Breitling",
+               "profile_path": null,
+               "id": 1658500,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58ebe30fc3a3687302084a1d",
+               "name": "Lorenzo Fertitta",
+               "profile_path": "/10vmTysuyp757GlHF7vV6aR5W6D.jpg",
+               "id": 108220,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58ebe31c9251414b2804a38d",
+               "name": "John Gaughan",
+               "profile_path": null,
+               "id": 1658499,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58ebe329925141354c051ef8",
+               "name": "Bruce Wayne Gillies",
+               "profile_path": null,
+               "id": 990955,
+               "department": "Production",
+               "job": "Line Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "58ebe3359251414b2804a3aa",
+               "name": "Karen Meisels",
+               "profile_path": null,
+               "id": 1530086,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58ebe3acc3a36872f608ab89",
+               "name": "Trent Othick",
+               "profile_path": null,
+               "id": 1464943,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58ebe3bac3a36872f608ab99",
+               "name": "Matthew Perniciaro",
+               "profile_path": null,
+               "id": 74426,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58ebe3d192514134eb0539e6",
+               "name": "Marty Poole",
+               "profile_path": null,
+               "id": 1125632,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58ebe3df9251414b2804a419",
+               "name": "Tim Poster",
+               "profile_path": null,
+               "id": 1658497,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58ebe3f4925141354c051f8f",
+               "name": "Jeff Rice",
+               "profile_path": null,
+               "id": 954441,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58ebe400c3a368731a0917fd",
+               "name": "David Snedeker",
+               "profile_path": null,
+               "id": 1546276,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58ebe40ec3a368731a091806",
+               "name": "Gary Michael Walters",
+               "profile_path": null,
+               "id": 66727,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58ebe41bc3a36873260889e7",
+               "name": "BC Smith",
+               "profile_path": null,
+               "id": 42304,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58ebe429925141281008ead9",
+               "name": "Robert Brinkmann",
+               "profile_path": null,
+               "id": 56988,
+               "department": "Crew",
+               "job": "Cinematography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58ebe442c3a368731a091827",
+               "name": "Andy Blumenthal",
+               "profile_path": null,
+               "id": 72616,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "58ebe44d925141281908ca52",
+               "name": "Karen Meisels",
+               "profile_path": null,
+               "id": 1530086,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58ebe469c3a3684aa407b0a7",
+               "name": "Daniel Bradford",
+               "profile_path": null,
+               "id": 61076,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "58ebe4769251413ce4030976",
+               "name": "Beth Wooke",
+               "profile_path": null,
+               "id": 959111,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 1,
+               "credit_id": "58ebe48fc3a3684a7907e462",
+               "name": "Alina Panova",
+               "profile_path": "/mfzLlAGXORIrW7MBX2yyyuS19Ll.jpg",
+               "id": 1551330,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "58ebe51c9251414b2804a4fa",
+               "name": "Mimi Gillies",
+               "profile_path": null,
+               "id": 1620725,
+               "department": "Production",
+               "job": "Unit Production Manager"
+            },
+            {
+               "gender": 1,
+               "credit_id": "58ebe58d925141281908cb5e",
+               "name": "Sabrina Sipantzi",
+               "profile_path": null,
+               "id": 1100349,
+               "department": "Production",
+               "job": "Unit Production Manager"
+            },
+            {
+               "gender": 1,
+               "credit_id": "58ebe61d925141354c05211b",
+               "name": "Vanessa Schiff",
+               "profile_path": null,
+               "id": 1793486,
+               "department": "Production",
+               "job": "Casting Assistant"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58ebe6c0c3a3684a7907e610",
+               "name": "William Clark Coit III",
+               "profile_path": null,
+               "id": 1793487,
+               "department": "Production",
+               "job": "Location Manager"
+            },
+            {
+               "gender": 1,
+               "credit_id": "58ebe6d2c3a3687302084cb1",
+               "name": "Veda Semarne",
+               "profile_path": null,
+               "id": 1551338,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 2.21519,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 14167,
+      "vote_count": 14,
+      "budget": 1700000,
+      "overview": "A chain reaction of confrontations and romantic encounters occurs when college friends reunite for one's wedding.",
+      "similar": [
+         3134,
+         11564,
+         281,
+         133805,
+         2142,
+         22323,
+         294963,
+         8810,
+         948,
+         298312,
+         14433,
+         4771,
+         4638,
+         12162,
+         769,
+         185,
+         949,
+         205,
+         8923,
+         241
+      ],
+      "original_title": "Standing Still",
+      "runtime": 90,
+      "poster_path": "/r5a8l1fz6WjLvOmELY0tTfoCXTf.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Trent Othick Productions",
+            "id": 65654,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Insomnia Entertainment",
+            "id": 65655,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Rice/Walters Productions",
+            "id": 65656,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2005-01-02",
+      "vote_average": 5.6,
+      "belongs_to_collection": null,
+      "tagline": "Sometimes it's hard moving forward without first looking back.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Matthew Cole Weiss"],
+      "runtime": 90,
+      "synopsis": null,
+      "writers": [
+         "Matthew Perniciaro",
+         "Timm Sharp"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0360016/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BNzM1MjAyMDQxNF5BMl5BanBnXkFtZTcwMzM2ODczMQ@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Jon Abrahams, Amy Adams, Aaron Stanford | See full cast and crew »"],
+      "reviews": [
+         "A group of college kids return four years after graduation for a wedding. It sounds clichéd, and well, it is, but the ensemble is great that I didn't mind too much. It stars 20-something actors including Colin Hanks, Ethan Embry, Adam Garcia, Amy Adams, Mena Suvari, James Van Der Beek, and Jon Abrahams. Xander Berkeley is also in it for a little bit. The film has a bunch of familiar story lines with all of the different characters, but the actors do a good job of performing it. I would have liked it more if it stayed strictly comedy though, there were some parts where it tried to go to drama and it just felt a little out of place. But anyway, it was a nice film, I'm sure the average college kid will enjoy it. And with so many characters, the director did a good job of not making the film too crowded and unorganized.",
+         "Saw this at a film festival in Vegas last year. You've seen the story before, but this ensemble cast does it better than most. From the opening scene, these characters are believable, funny, and very entertaining. I was only familiar with Mena Suvari & James Van Der Beek, but it's the \"unknowns\" who steal the show (especially Colin Hanks & Jon Abrahams). These guys are good enough to make you forget you're watching a low budget movie. My only gripe is with a dramatic scene at the end which fell a little flat, otherwise a great way to spend 90 minutes. It also doesn't hurt that Lauren German is VERY easy on the eyes. One of my favorite movies of 2005.",
+         "It's a nice movie about a couple that is going to merry and invite their friends to spend the wedding weekend in their home. Some of these friends know each others, but others don't. It's funny to see how they all relate! This movie is half comedy, half drama, but it's a very \"smooth\" and \"light\" film� Like other IMDb user said it's very \"easy to watch\"� The drama part is related to old frustrations of some characters, things unsolved from the past, but it's not too dramatic or melodramatic, no, it's a very \"light drama\"� The comedy parts are the funny scenes, which are very simple but effective! They aren't so many, but enough to make you laugh! I also loved some characters: \"Pockets\" (played by Jon Abrahams) which is pretty funny; \"Jennifer\" (Lauren German) the lesbian girl; \"Elise\", the bride (Amy Adams), which is extremely sweet (!); and finally \"Lana\" (Mena Suvari), the \"confused\" girl� All in all it's a nice film about love and human relationships (woman-man� and even woman-woman�)! The wedding stuff is just plot's background!",
+         "This is great movie with an awesome young cast. There are many good looking, talented, young actors, and they don't disappoint. Amy Adams and Mena Suvari are both excellent. I thought the entire cast was believable and had excellent chemistry. This movie reminded me of The Big Chill, (which I also loved), with an ensemble cast who get together years after college for a wedding. There are many interesting situations, and it is entertaining to see how the characters handle these situations. There are a few surprises, some very funny moments, and drama. It would be easy to over direct a movie like this, but that didn't happen. As a viewer, I was completely engrossed, and couldn't wait to see would develop next. The script always kept moving, and there never was a dull moment. I think this will be a big hit in the theaters.",
+         "I really enjoyed this movie. It is extremely funny. It is also a film everyone can relate to. There are numerous situations that occur that I said\" man that was familiar\"!! The movie has great energy and moves very fast. Colin Hanks is great. Could be a breakout role for him. The cast is wonderful from top to bottom. Pockets was my favorite character in the film. Johnny Abrams did a great job playing the role of pockets. James Van Der Beek was also very good in the film. I enjoyed his rendition of a drunken actor. All the women in the movie are very easy on the eyes. Mena Suvari is very quirky which was a nice change for her. She made a nice account of herself. Overall I think it is a movie anyone would enjoy.I think it is a great way to spend an hour and a half!!",
+         "An amazing cast (impressive that the director got them all to do this low-budget film) Great job by first time director Matthew Cole Weiss. Funny, enjoyable to watch and identifiable. Think any recent college grad would relate. Colin Hanks as the agent, Jon Abrahams as the forlorn and lovable \"Pockets Malone\" and Ethan Embry as Donavan Parker, the originator of Power TIme were a riot. James Van Derbek looked great and did an excellent job as the actor \"Simon Blake\". The girls are all beautiful. Even the supporting cast is impressive, (Xander Berkley & Roger Avery). I enjoyed the soundtrack as well. Kudos to Weiss and the producers for this impressive little film.",
+         "These \"slice of life\", realist drama-comedies are far from my favorite genre, but as a serious movie buff, I've seen tens of them over the years, and Standing Still is right up there with the best of them. The only flaw I can find, really, is the title, which is a bit enigmatic (not that I mind enigmas, but it's a bit out of context here). A better title would have been \"Secrets\", or even \"Shuffle\" if something less obvious was desired, as the plot is focused on an event--a wedding--that brings a wide range of people together, some unexpected, almost all with some kind of secret, and reshuffles them in various ways--often through revelations of their secrets. Realist movies can easily become unfocused or boring--after all, that's true of most folks' lives if we were to follow them around with a video camera and expect people who don't know them to be entertained watching the results. But Standing Still manages to create suspense, tension and a healthy dose of humor while expertly weaving together a large number of threads, all while keeping things fairly firmly in realist territory and providing satisfactory resolutions. It's also emotionally satisfying and relatively \"deep\", often in subtle ways, all aided by the fantastic performances. Everyone says just as much with subtle body language as they do via their dialogue, and this just as often occurs in what could tend to be read as the lighter or shallower scenes. I wanted to see far more about every one of these characters--and we could hardly call that a flaw.",
+         "i really had low expectations for this movie, expecialy as the DVD cover had it down as some American pie rip off, but this movie was actually a solid dramady that had a great story, great cast and great direction i liked it, it was a piece of entertainment and nothing more yet it hit all the right notes, the cast is great and fits the story well, the basic story is that a group of twenty somethings re unite for a wedding and quite a few things happen along the way, the movie is tastfully done and has its heart in the right place, while the movie is certainly no classic, it is definitely worth a watch and id definitely watch it again sometime.",
+         "What a pathetic piece of crap. A bunch of ill mannered, spoiled, infantile overgrown brats collected in a house the night before one of the couple's wedding. Nary a funny or intelligent line to be heard. The real culprit is the awful screenplay. I gave it a 2 because the girls were attractive and it was shot pretty well. Most of the males were repulsively written. If this is representative of contemporary American men I truly sympathize with women and it certainly provides a compelling reason why the Sapphic tribe has welcomed so many new members. WHiney, sullen, inconsiderate, spineless weasels seem to be the order of the day.",
+         "First things first if you are like me and is going to watch this movie because of amy adams or any other girl in this film don't bother, it's not worth it, you don't even see her that much and her character sucks. If you are not, and still want to watch this movie just watch the trailer everything is in it. I didn't like this movie it was so slow but I just wanted to clear up some things my IMDb fellows said about this film. Like funny scenes, were you high when you watched this movie, because there are none, some funny moment but kind a despite them. Another one said \"the situations seems familiar\" it's because it's so banal. So of course some scenes will feel like it happened to you, except maybe for the airplane part. So you get to watch people you don't know having a night out without any special moment. This movie is so slow, it's an endless chain of discussion about everything and nothing. There is no point to this picture. The only thing that would have made this movie watchable would have been the presence of Miss Marie Regina FISCHER. She could have helped, at least we would saw her during those endless discussions. You don't even remember the name of the characters at the end. It's a fine representent of a new award the lee kirk academy award. It's what we call in the business a \"lee kirk movie\" (It's not a good thing)"
+      ],
+      "genres": [
+         "Comedy",
+         "Drama",
+         "Romance"
+      ],
+      "productionCompanies": [
+         "Insomnia Entertainment",
+         "Rice/Walters Productions",
+         "Trent Othick Productions"
+      ],
+      "summaries": [
+         "Michael and Elise are about to get married. Their high school and college friends gather together for the wedding and resolve some issues. Lana is in therapy and when Elise's ex shows up from London she begins to realize what has been troubling her all these years. Involves a lot of drunkenness and some drug use.",
+         "Standing Still is the story of a popular yet drunken actor who reconnects with a group of his college friends for a wedding several years after graduation."
+      ],
+      "budget": 1700000
+   },
+   "movielensId": 45527,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2005-01-02",
+      "dvdReleaseDate": "2006-09-11",
+      "directors": ["Matthew Cole Weiss"],
+      "runtime": 90,
+      "movieId": 45527,
+      "title": "Standing Still",
+      "mpaa": "R",
+      "actors": [
+         "Jon Abrahams",
+         "Amy Adams",
+         "Roger Avary",
+         "Mena Suvari",
+         "Aaron Stanford",
+         "Xander Berkeley",
+         "Ethan Embry",
+         "Adam Garcia",
+         "Lauren German",
+         "Colin Hanks",
+         "Melissa Sagemiller",
+         "James Van Der Beek",
+         "Marnette Patterson",
+         "Nikki Ziering",
+         "Dakota Sky",
+         "Buck Kartalian",
+         "James Duval",
+         "Bret Roberts",
+         "Matthew Cole Weiss",
+         "Michael B. Healey",
+         "Eva Derrek",
+         "Carla Harvey"
+      ],
+      "imdbMovieId": "0360016",
+      "originalTitle": "Standing Still",
+      "genres": [
+         "Comedy",
+         "Drama",
+         "Romance"
+      ],
+      "youtubeTrailerIds": ["NOtoBudFWXM"],
+      "plotSummary": "A chain reaction of confrontations and romantic encounters occurs when college friends reunite for one's wedding.",
+      "tmdbMovieId": 14167,
+      "avgRating": 2.79167,
+      "releaseYear": "2005",
+      "numRatings": 12,
+      "posterPath": "/r5a8l1fz6WjLvOmELY0tTfoCXTf.jpg"
+   }
+}

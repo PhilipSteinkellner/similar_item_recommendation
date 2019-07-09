@@ -1,0 +1,827 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "clown",
+            "id": 3199
+         },
+         {
+            "name": "boy",
+            "id": 5202
+         },
+         {
+            "name": "murder",
+            "id": 9826
+         },
+         {
+            "name": "blood",
+            "id": 11221
+         },
+         {
+            "name": "child murder",
+            "id": 166109
+         },
+         {
+            "name": "killer clown",
+            "id": 176691
+         }
+      ],
+      "imdb_id": "tt1780798",
+      "video": false,
+      "title": "Clown",
+      "recommendations": [
+         222461,
+         171424,
+         77883,
+         291272,
+         256274,
+         243688,
+         83899,
+         282813,
+         312831,
+         184346,
+         50698,
+         203834,
+         280092,
+         243940,
+         167032,
+         283445,
+         287084,
+         11547,
+         258193,
+         265016
+      ],
+      "backdrop_path": "/KuODubAvhjTb19cbneVqfo3EVa.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Karlsson",
+               "gender": 2,
+               "credit_id": "545929d0c3a368399700232f",
+               "name": "Peter Stormare",
+               "profile_path": "/dDR0brp5L7fXDyEywrhjQv01LSg.jpg",
+               "id": 53,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Meg",
+               "gender": 1,
+               "credit_id": "545929e80e0a261162002244",
+               "name": "Laura Allen",
+               "profile_path": "/bBShXEkhvoG4zOV4ZcNv5AccqEz.jpg",
+               "id": 79792,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Denise",
+               "gender": 1,
+               "credit_id": "54592a000e0a261155002363",
+               "name": "Elizabeth Whitmere",
+               "profile_path": "/pVsDNLPNB54jujyRzTf0kU6Jh8R.jpg",
+               "id": 127612,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Jack",
+               "gender": 0,
+               "credit_id": "54592aaec3a36839a0002253",
+               "name": "Christian Distefano",
+               "profile_path": "/4mKaBE7j38GYXHLORknBOrIoneA.jpg",
+               "id": 1381786,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Helpful Motorist",
+               "gender": 0,
+               "credit_id": "54592b42c3a368399d002293",
+               "name": "John MacDonald",
+               "profile_path": "/llxpHzOBBJ3T9JUgIx07NCaKjRs.jpg",
+               "id": 1366350,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Walt",
+               "gender": 2,
+               "credit_id": "54592c370e0a261155002394",
+               "name": "Chuck Shamata",
+               "profile_path": "/Am0oJeJNzgEMvalgFkXe9m36rzx.jpg",
+               "id": 14905,
+               "order": 5
+            },
+            {
+               "cast_id": 7,
+               "character": "Kent",
+               "gender": 0,
+               "credit_id": "54592c480e0a26116a002100",
+               "name": "Andy Powers",
+               "profile_path": "/o9cO2vgm42XAyOUIFHkl0suF0Ro.jpg",
+               "id": 1216011,
+               "order": 6
+            },
+            {
+               "cast_id": 8,
+               "character": "Costume Shop Employee",
+               "gender": 1,
+               "credit_id": "54592cc3c3a368398f002232",
+               "name": "Sarah Scheffer",
+               "profile_path": "/yYSmnZN4K7zK5V59JSRYpne6gZ6.jpg",
+               "id": 1381787,
+               "order": 7
+            },
+            {
+               "cast_id": 9,
+               "character": "Panicked Parent",
+               "gender": 1,
+               "credit_id": "54592d64c3a368399d0022c1",
+               "name": "Claudia Jurt",
+               "profile_path": "/sq9t5KZpl5l1WbzifHwlKpC1Rv7.jpg",
+               "id": 80095,
+               "order": 8
+            },
+            {
+               "cast_id": 11,
+               "character": "ER Patient",
+               "gender": 0,
+               "credit_id": "54593298c3a36839a40022c4",
+               "name": "Julia Long",
+               "profile_path": "/8XVanEsjAMYwk03XMsal0hp4emw.jpg",
+               "id": 1381790,
+               "order": 9
+            },
+            {
+               "cast_id": 12,
+               "character": "Detective",
+               "gender": 0,
+               "credit_id": "545934230e0a261155002421",
+               "name": "Matthew Stefiuk",
+               "profile_path": "/jaGrXbDrt8gSZ6waYx8MW2utzF9.jpg",
+               "id": 80029,
+               "order": 10
+            },
+            {
+               "cast_id": 13,
+               "character": "Dr. Martin Karlsson",
+               "gender": 0,
+               "credit_id": "5459348ec3a36839a40022ee",
+               "name": "Robert Reynolds",
+               "profile_path": "/3qdwA5hiyHDK6pQLwKjrx4x0A4a.jpg",
+               "id": 101221,
+               "order": 11
+            },
+            {
+               "cast_id": 14,
+               "character": "ER Doctor",
+               "gender": 2,
+               "credit_id": "545934a2c3a368399d00234b",
+               "name": "Allen Altman",
+               "profile_path": "/6giwU33Jo0SNYlKVQaXXVqL4eK8.jpg",
+               "id": 196737,
+               "order": 12
+            },
+            {
+               "cast_id": 15,
+               "character": "Hardware Store Clerk",
+               "gender": 0,
+               "credit_id": "545934cfc3a36839a000231b",
+               "name": "Brandon Stouffer",
+               "profile_path": "/vJw20g5U39NezJhbQEVsd1CwtF3.jpg",
+               "id": 1267257,
+               "order": 13
+            },
+            {
+               "cast_id": 16,
+               "character": "Scared Girl",
+               "gender": 0,
+               "credit_id": "54593665c3a368399d002379",
+               "name": "Rachel Shugar",
+               "profile_path": "/uHamXIkkRZbYPkhnw2smDmfCtl0.jpg",
+               "id": 1381793,
+               "order": 14
+            },
+            {
+               "cast_id": 17,
+               "character": "Mother",
+               "gender": 1,
+               "credit_id": "54593748c3a368399700245d",
+               "name": "Jodi Larratt",
+               "profile_path": "/dwGBAgEswxIQCfiEkqV6uwhlRWz.jpg",
+               "id": 1381798,
+               "order": 15
+            },
+            {
+               "cast_id": 18,
+               "character": "Waitress",
+               "gender": 0,
+               "credit_id": "545937cf0e0a261162002390",
+               "name": "Abigail Lieff",
+               "profile_path": "/tFLiNhwWIDtfwscXzMZbHR35rRC.jpg",
+               "id": 1381799,
+               "order": 16
+            },
+            {
+               "cast_id": 19,
+               "character": "Nurse",
+               "gender": 0,
+               "credit_id": "5459386f0e0a261165002370",
+               "name": "Jocelyn Deighton",
+               "profile_path": "/ekMX4YYmmK6UZWgEv33c0DLsP3H.jpg",
+               "id": 1381800,
+               "order": 17
+            },
+            {
+               "cast_id": 20,
+               "character": "Game Zone Employee",
+               "gender": 0,
+               "credit_id": "54593a7dc3a3683993002490",
+               "name": "Amy Balaton",
+               "profile_path": null,
+               "id": 1381801,
+               "order": 18
+            },
+            {
+               "cast_id": 0,
+               "character": "Frowny the Clown",
+               "gender": 2,
+               "credit_id": "545929b8c3a36839ac001f46",
+               "name": "Eli Roth",
+               "profile_path": "/lV7xjR2fUXX3u8Ixg8nhKFbuqm3.jpg",
+               "id": 16847,
+               "order": 19
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "54593bdcc3a36839a700244b",
+               "name": "Michael Cappuccino",
+               "profile_path": null,
+               "id": 1381802,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54593beb0e0a26115b00234d",
+               "name": "Eli Roth",
+               "profile_path": "/lV7xjR2fUXX3u8Ixg8nhKFbuqm3.jpg",
+               "id": 16847,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54593bfc0e0a26115b002351",
+               "name": "Cody Ryder",
+               "profile_path": null,
+               "id": 1381803,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54593c0f0e0a26115b002355",
+               "name": "Robert Menzies",
+               "profile_path": null,
+               "id": 105835,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54593c220e0a2611620023e6",
+               "name": "Brian Oliver",
+               "profile_path": "/jjRoepjAT6nDzNEglANnM9ppPxa.jpg",
+               "id": 57049,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54593c730e0a26115e00249b",
+               "name": "Christopher D. Ford",
+               "profile_path": null,
+               "id": 101814,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54593c80c3a36839a7002465",
+               "name": "Jon Watts",
+               "profile_path": "/5CKKBhuScdsHs2KPBBx5pveMOQQ.jpg",
+               "id": 1293994,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54593c90c3a368399d002403",
+               "name": "Jon Watts",
+               "profile_path": "/5CKKBhuScdsHs2KPBBx5pveMOQQ.jpg",
+               "id": 1293994,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54eb547ac3a36836dc006fd6",
+               "name": "Matt Veligdan",
+               "profile_path": null,
+               "id": 1430620,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54eb54acc3a36836ea006dba",
+               "name": "Robert Ryang",
+               "profile_path": null,
+               "id": 1430622,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54eb54c2c3a368100200155d",
+               "name": "Billy Hopkins",
+               "profile_path": "/vTGamEl7a1D93TCh165v8IyZZMG.jpg",
+               "id": 3192,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "54eb54d6c3a36836d6006591",
+               "name": "Ilona Smyth",
+               "profile_path": null,
+               "id": 979724,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54eb54ebc3a36836d6006594",
+               "name": "Lisa Soper",
+               "profile_path": null,
+               "id": 1418415,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54eb5500c3a36836ea006dc5",
+               "name": "Shane Boucher",
+               "profile_path": null,
+               "id": 1418416,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54eb5516c3a36836ed00716e",
+               "name": "Garren Dunbar",
+               "profile_path": null,
+               "id": 1418417,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54eb5535c3a36836d600659b",
+               "name": "Kayla Manasseri",
+               "profile_path": null,
+               "id": 1418418,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54eb554a9251416824003f2d",
+               "name": "Angie Mills",
+               "profile_path": null,
+               "id": 1418419,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54eb55699251412eb1006bf2",
+               "name": "Sarah Potter",
+               "profile_path": null,
+               "id": 1418424,
+               "department": "Art",
+               "job": "Assistant Art Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54eb557fc3a36836d60065a5",
+               "name": "William Mood",
+               "profile_path": null,
+               "id": 1418425,
+               "department": "Art",
+               "job": "Construction Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54eb55cf9251412eb1006bfc",
+               "name": "Tim Winchester",
+               "profile_path": null,
+               "id": 1418427,
+               "department": "Crew",
+               "job": "Property Master"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f97204c3a3687f8b001008",
+               "name": "John Moros",
+               "profile_path": null,
+               "id": 1435531,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f9721f9251414392001167",
+               "name": "Graham Reznick",
+               "profile_path": "/qELx4pQq4SSpigYPGiTIo9Hka7B.jpg",
+               "id": 101809,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f97275925141438d0010b4",
+               "name": "Dean Covill",
+               "profile_path": null,
+               "id": 1379430,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f97299925141439a001179",
+               "name": "Tom Efinger",
+               "profile_path": null,
+               "id": 1339957,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f972b0c3a36878d8000db5",
+               "name": "Jeff Seelye",
+               "profile_path": null,
+               "id": 937933,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f972e2c3a3687f8b001018",
+               "name": "Michael Morey",
+               "profile_path": null,
+               "id": 1435534,
+               "department": "Visual Effects",
+               "job": "Visual Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f972f79251416fab000eaf",
+               "name": "Cecile Tecson",
+               "profile_path": null,
+               "id": 1435535,
+               "department": "Visual Effects",
+               "job": "Visual Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f97316925141439200117d",
+               "name": "Layton Morrison",
+               "profile_path": null,
+               "id": 1316787,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f9732b9251414390001123",
+               "name": "Matthew Santo",
+               "profile_path": null,
+               "id": 1410846,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f97353925141438d0010cd",
+               "name": "Michael Tien",
+               "profile_path": null,
+               "id": 1435536,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f97370925141438d0010d3",
+               "name": "James Ransom",
+               "profile_path": null,
+               "id": 1435537,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f9738a9251414a0600103e",
+               "name": "Andreas Borrel",
+               "profile_path": null,
+               "id": 1418442,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f973b5c3a36878e6001194",
+               "name": "Roham Rahmanian",
+               "profile_path": null,
+               "id": 1435538,
+               "department": "Camera",
+               "job": "Additional Camera"
+            },
+            {
+               "gender": 1,
+               "credit_id": "54f973d5c3a36878df0016f2",
+               "name": "Carolyn Arbuckle",
+               "profile_path": null,
+               "id": 1435539,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54f973e9c3a36878e600119c",
+               "name": "Nina Bains",
+               "profile_path": null,
+               "id": 1418423,
+               "department": "Production",
+               "job": "Location Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54fa315ec3a36819a4000149",
+               "name": "Sue Fijalkowska",
+               "profile_path": null,
+               "id": 1435907,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54fa31fac3a368198e00012a",
+               "name": "Petr Maur",
+               "profile_path": null,
+               "id": 1435908,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54fa32789251413aa900013a",
+               "name": "Ryan Collison",
+               "profile_path": null,
+               "id": 1337462,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54fa332f9251413aa6000143",
+               "name": "Eric Myles",
+               "profile_path": null,
+               "id": 1435909,
+               "department": "Editing",
+               "job": "Digital Intermediate"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54fa334a9251413ab5000156",
+               "name": "Kevin Downer",
+               "profile_path": null,
+               "id": 1413912,
+               "department": "Editing",
+               "job": "Digital Intermediate"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54fa33639251413aaf000153",
+               "name": "Dave Muscat",
+               "profile_path": null,
+               "id": 1418443,
+               "department": "Editing",
+               "job": "Digital Intermediate"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54fa339bc3a368199400017b",
+               "name": "Jack Lilburn",
+               "profile_path": null,
+               "id": 1407360,
+               "department": "Visual Effects",
+               "job": "VFX Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54fa344e9251413aaf000166",
+               "name": "James Nichols",
+               "profile_path": null,
+               "id": 1400100,
+               "department": "Sound",
+               "job": "Dolby Consultant"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54fa34fc9251413aaf00017d",
+               "name": "Peter Armstrong",
+               "profile_path": null,
+               "id": 1407714,
+               "department": "Editing",
+               "job": "Digital Intermediate"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Horror",
+         "id": 27
+      }],
+      "popularity": 11.200804,
+      "production_countries": [
+         {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+         },
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         }
+      ],
+      "id": 112454,
+      "vote_count": 491,
+      "budget": 0,
+      "overview": "A loving father finds a clown suit for his son's birthday party, only to realize the suit is part of an evil curse that turns its wearer into a killer.",
+      "similar": [
+         357096,
+         10781,
+         15069,
+         27414,
+         948,
+         588,
+         341006,
+         21484,
+         310137,
+         9373,
+         123109,
+         15762,
+         10285,
+         238636,
+         381288,
+         3597,
+         3600,
+         9538,
+         16288,
+         4771
+      ],
+      "original_title": "Clown",
+      "runtime": 100,
+      "poster_path": "/3Z97W9dDWU9YH3fk2sQKVauLNnu.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "PS 260",
+            "id": 37366,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Cross Creek Pictures",
+            "id": 10246,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Zed Filmworks",
+            "id": 4080,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Vertebra Films",
+            "id": 18144,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2014-11-13",
+      "vote_average": 5.3,
+      "belongs_to_collection": null,
+      "tagline": "The kids aren't alright",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Jon Watts"],
+      "runtime": 100,
+      "synopsis": null,
+      "writers": [
+         "Christopher D. Ford",
+         "Jon Watts"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt1780798/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTQyNDA1OTMyMl5BMl5BanBnXkFtZTgwNDA5MzgxMzE@._V1_SY317_CR4,0,214,317_AL_.jpg",
+      "actors": ["Stars: Eli Roth, Peter Stormare, Laura Allen | See full cast and crew »"],
+      "reviews": [
+         "Even if you aren't bothered by clowns, you have to admit that a killer clown is a pretty creepy idea. I mean clowns are always around children, they have a pale face, goofy hair and bright welcoming colors, masking the homicidal tendencies underneath. I always thought it would make a good movie idea, and Clown is about the closest we get to that. It's less of a killer clown story as much as it is a possession movie. This particular clown suit does not come off. If someone puts it on, it fuses with their skin while the demon slowly possesses them. The demon is a cannibal and only eats children. 5 children to be exact: one for every month of winter, or so the lore goes. It's an interesting take on the killer clown notion and I usually like Eli Roth so I was excited to see this movie. Unfortunately, Clown misses the mark in almost every way. It's an Eli Roth movie so of course there's lots of blood and gore, which is fine. Eating kids is also inherently disturbing, even though the killing is not shown on screen you do see a lot of children's guts, blood and body parts. The thing is, it doesn't really add anything to the movie. That's mainly because the movie doesn't build up much tension in the first place. It's slow to start - the dad is the one who puts on the costume to surprise his kid at his birthday party, but he falls asleep in it and when he wakes up, he finds that the wig infused with his hair and the costume is indestructible. The psychological aspect of this is interesting for a while, but it never goes the extra mile. Everything we see here has been done to death already. Just because the premise is cool doesn't mean cheesy dialogue and inappropriate jump scares get a free pass. They're still annoying as hell, and sadly they are littered throughout the entire movie. This movie has every horror cliché in the book. The jump scares in particular really detract from the movie's atmosphere. It sets a dark tone at the beginning, and even more so when the psychological elements start dripping in and the dad questions his sanity as he discovers more about the suit, but every once in a while someone will pop up behind someone else and the music will be LOUD for a second as if it's supposed to scare us. No, it doesn't work like that. All the good build up in the first two acts are dampened by these cheap scares - they give no time for tension to build before throwing another one at you, and it's just annoying after the first couple of times. The dialogue doesn't help either. Neither does the acting. Peter Stormare is great as usual but he doesn't get that much screen time. It's mainly the female lead and her reactions to her husband turning into this monster, and let me tell you, she is a terrible actress. There are also a lot of kids in this movie and kid actors are almost always terrible. You just don't care about any people on screen, except for the guy being possessed but even he is only in the first half of the movie. We're just stuck following a bland wife and her bland kid trying to stop the evil clown from killing other bland kids. The clown itself does not disappoint. It does look genuinely creepy, and the costume and make-up are very well done, but sadly that doesn't make up for a bad script and poor direction. It just has no style. It's really by-the-numbers horror with an Eli Roth tinge. The worst part is, it isn't even scary. If you're a fan of Eli Roth then you might get some enjoyment from this, but if you aren't a horror fanatic then don't bother.",
+         "I rated this movie only six out of ten due to the too linear and predictable plot, but it would deserve more than that. Everything starts when the main character finds a clown costume and wears it for his son's birthday party. The troubles begin when he tries to take it off. The wig has become his own hair and the cloth seems glued onto his skin. After a while he discovers that that's not a costume but the hair and the skin of an ancient child-eater demon which has already started to permeate his body and his soul. *SPOILER* He obviously starts killing and eating several kids before he gets stopped by his own wife while she tries to save their child who was about to be eaten by his father-demon-clown. *END SPOILER* The good thing about this movie is that it manages to create an anxious atmosphere and it makes you feel afraid to get your body hurt. You'll start thinking about being in something that gets stuck on you, changes and disfigures your body and your mind. There's also a lot of good old splatter scenes where you'll see half-eaten kids and regurgitated human bones. A particular note goes to the kids' playground scene, where the director manages to convert a funny and colorful place in a horrid and spectral hunting field.",
+         "I love Clown! A complete surprise for me, came out of nowhere, when I was the poster I was expecting nothing but a class C kind of horror, but boy was I wrong! What makes it so much fun? The transformation itself is simple and brilliant! They take their time but they make sure to always keep you interested, waiting to see what happens next, how things will evolve and so on. Clown is a natural movie, they didn't bother into too much gore, nor nudity, but instead they actually focused on the story. And I have to say, it was a good one, effective and sometimes haunting! It is a sure thing that most horror fans out there will dig this on for sure. Without saying too much about it, if you liked movies like Rare exports or Sint, this one you'll enjoy even more because in my opinion, it is better! Clown, simple and effective! Cheers!",
+         "As far as clown slasher go, I rarely see any true effort put into them - especially these days. \"Clown\" is actually a pretty refreshing entry in the genre - being clearly of modest budget, yet still managing to come across as a professional looking flick with an unusually likable cast of characters, a reasonably memorable villain! There's also a few decent and relatively gory deaths, cleverly themed after traditional clown tricks. The gore level in this movie is extremely high. Every kill is based upon a trick that a clown but all with the intention of making your skin crawl. It won't be to every one's taste, as limbs are literally ripped from bodies, heads kicked of. think that most will enjoy this movie knowing ahead of time that it's a gory slasher.",
+         "No Spoiler alerts here! This movie was a good horror movie and playing on a character that a lot of people have phobias about makes it that much better. At the start, I was honestly feeling a cheesy, B movie type with a possible special appearance by the Dwight Johnson or Dolph Lundren :) The gore in the movie was top shelf and watching it with my wife and daughter (who are both scared of clowns) made it that much better and they absolutely loved it! And my daughter still slept in her own bed. I honestly don't know if there has been a horror movie with the main character of a clown that has been this good in the last 5-10 years, if I'm wrong please let me know of such movie. It was awesome how the story jumped feet first into the plot. Would love to see a prequel if it's done right .....Loved the gore!",
+         "Never again would I look at Clowns in the same way after seeing this movie but that get's me thinking, when did I like them in the first place. The story to Clown is about a father discovers the clown suit and decides to wear it for his son's birthday party. However, he soon discovers that the suit turns the wearer into a killing machine. Clowns never scared me because I always know it's somebody else in cheap looking make-up trying to make you laugh but really they creeping us out. I have seen many movies and TV shows with scary looking clowns in it and yes I can see why people are scared of them but they never took a big effect on me, until I sawed this and for now on I will stay far way from clowns if possible. You can hate or like the film Clown if your a horror fan or not, for me I like my horror movies best served cold and freaky, and Clown to me isn't a bad flick. I can see a lot of effort went into the make- up and the design of the monster clown. To those who have seen the movie did you think for a second that Eli Roth directed this movie, yes I know he stars in the movie but the movie has that style look to it that Eli Roth himself would use and I'm saying that has a positive. The acting in the movie was surprisingly pretty good from Andy Powers and Laura Allen. The directing as well was pretty good from other horror movies today. Normally I don't like over the top gore in movies as I think it's a cheap way to get 18 rating or if your American Rated R, and to be honest I didn't get that in this movie for most of the time you don't really see much of guts flying everywhere but most of the after math of what happened. For problems with the movie I have some like: The characters in the movie are mostly forgettable and I'm not talking about Laura Allen or Andy Powers characters, I mean the other supporting or the background characters that always seem to get screen time which they shouldn't because they stupid and dull to watch. The movie dose have some clichés that really stick out and I thought we are already pass some of the clichés when it comes to horror movies today, but luckily after a while the movie forgotten the clichés as it went on. Oh remember when I said some of the acting was good well the kid actor was a bit noticeable that he's trying to be scared but I didn't buy it not for one bit. Besides that Clown overall isn't a bad flick, now some people may not agree with me and that's fine you got a opinion and that's awesome I'm not going to be like those dick heads that start yelling at you for nothing. Well I enjoyed this messed up movie.",
+         "HOLY CRAP!!!! BETTER HIDE THE KIDS!!!! I watched this movie not expecting much given the title. Boy my wife and I were in for a Surprise!!! This was the best Horror movie I have seen in a while. This movie went well beyond our expectations. This was a \"Gutwrenching\" wild ride of a true horror. I still cannot believe the carnage done to those sweet innocent kids!!! I also found the story regarding the \"origin\" of \"The Clown\" an interesting touch. The title although appropriate weakened my expectations a bit, so perhaps they should have used a better title. This movie would have given me nightmares forever if I had seen it as a kid!!!!! The acting was more than top notch, in that their reactions to the horror before them was believable on so many levels Well done!",
+         "The perfect dad dons on a clown costume which he discovers only to find that he is unable to take if off with terrible consequences. Relative unknown TV actor Andy Powers is excellent as the lovable dad who becomes a killer clown. With lots of welcomed grim exposition, it has horrifying background to the clown legend and costume. It's explained convincingly by Karlsson played by Peter Stormare, the brother of the deceased previous owner of the costume. Eerie from the outset Jon Watts and Christopher D. Fordit's screenplay is played as a straight bloody horror thriller with touch of dark humour. Never before has a children's ball pool or the tunnels of a play area been so scary. What sounds like a B film with its outrageous crazy concept actually works in this modest budget production that has Eli Roth on board as producer. It goes from one gloomy odd set up to the next giving it a dream like surreal quality and it gets graphic as Kent tries to remove his costume, goes on a killing spree and begins to regurgitate body parts. Despite Roth's involvement it's very much director Jon Watts film who offers creepy, slicing, gore, demons and clown creatures with some interesting shots, even a bird's eye view car crash feels different from the standard affair put on screen. All the cast are effective right down to the child actors and Laura Allen is great as Meg, the protective mother fighting for survival. Taking a leaf from IT's tale and channelling Pennywise clown it's also has the psychological element of Magic and is reminiscent of in places of recent Stitches and American Horror Story Freak Show to name a few. That said, it stands on its own two feet with plenty of original ideas. To Watt's and team credit the effects are outstanding, including and not limited to dismemberment, amputation and Kent becoming a child eating clown. Clown is a fast paced solid grim possession horror with a splatter/slasher element that never takes it eye off the story. It's probably the definitive clown horror and naturally those suffering from coulrophobia should avoid at all costs.",
+         "I just watched this movie last night. I'm a sucker for a good clown movie, I'm always searching for something that tops Penny Wise, which scared the crap out of me back in 1990. I will start out with I LOVED THIS movie. It doesn't top penny wise but it puts a good twist to the clown genre. It comes in at close 2nd place! The movie starts out fast, you get to grab all the details up front within the 1st 10 minutes. It actually gets pretty funny after right wards then it gets real from there on out. It does have 2 slow spots, it rolls pretty fast. The clown looks awesome! you get to see it develop throughout the movie, which is a nice slow burn. Its just not like BAM here it is... its a slow progression. It doesn't look like Bozo the Clown with blood, it looks like a real monster, which was awesome! I've read a lot of reviews on how parts of the movie are not realistic. I could see 2 parts, but you know, its a fictional movie. This does have a feel of a fast paced Sci-Fi channel movie in the beginning, but then it starts to rev up into a real movie. The ending is really predictable, but its a good ending, its not confusing, it ends on a good note. After you watch that movie, your clown phobia will def take new heights. If you want a good scare, with a few laughs, this is it for you. I watched it on a big screen, Oppo blue ray, with a nice surround sound. Oh man! it was great!!",
+         "I was expecting a boring, typical horror movie, instead I was really surprised, in a good way, by this film. The script is not that bad,pretty original, and it keeps you wanting to see more, to see how it will end. The acting is good, great performance from the main actors. Better than the score, I saw a lot of worst horror movie this last year. It was fun and worth watching. Not a masterpiece but highly enjoyable. I was thinking oh, no, another clown horror movie, but actually is one of the best horror movies I've seen in a while. Highly underrated on IMDb, I recommend you to watch it, you will not be disappointed."
+      ],
+      "genres": [
+         "Drama",
+         "Horror"
+      ],
+      "productionCompanies": [
+         "Cross Creek Pictures",
+         "PS 260",
+         "Vertebra Films"
+      ],
+      "summaries": [
+         "A little boy's birthday party gets ruined when his entertainment (clown) cancels. His father finds a clown suit and becomes the new entertainment but something is weird about it, there is an evil curse and it won't come off. He specializes in eating little kids... everything after that goes down hill.",
+         "A loving father finds a clown suit for his son's birthday party, only to realize that it is not a suit at all."
+      ],
+      "budget": 0
+   },
+   "movielensId": 130052,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2014-11-13",
+      "dvdReleaseDate": null,
+      "directors": ["Jon Watts"],
+      "runtime": 100,
+      "movieId": 130052,
+      "title": "Clown",
+      "mpaa": "",
+      "actors": [
+         "Peter Stormare",
+         "Laura Allen",
+         "Elizabeth Whitmere",
+         "Christian Distefano",
+         "John MacDonald",
+         "Chuck Shamata",
+         "Andy Powers",
+         "Sarah Scheffer",
+         "Claudia Jurt",
+         "Julia Long",
+         "Matthew Stefiuk",
+         "Robert Reynolds",
+         "Allen Altman",
+         "Brandon Stouffer",
+         "Rachel Shugar",
+         "Jodi Larratt",
+         "Abigail Lieff",
+         "Jocelyn Deighton",
+         "Amy Balaton",
+         "Eli Roth"
+      ],
+      "imdbMovieId": "1780798",
+      "originalTitle": "Clown",
+      "genres": ["Horror"],
+      "youtubeTrailerIds": ["PNtZu-3di38"],
+      "plotSummary": "A loving father finds a clown suit for his son's birthday party, only to realize the suit is part of an evil curse that turns its wearer into a killer.",
+      "tmdbMovieId": 112454,
+      "avgRating": 2.88333,
+      "releaseYear": "2014",
+      "numRatings": 90,
+      "posterPath": "/3Z97W9dDWU9YH3fk2sQKVauLNnu.jpg"
+   }
+}

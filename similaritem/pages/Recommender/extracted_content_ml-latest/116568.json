@@ -1,0 +1,771 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "biography",
+            "id": 5565
+         },
+         {
+            "name": "historical figure",
+            "id": 6165
+         }
+      ],
+      "imdb_id": "tt0033289",
+      "video": false,
+      "title": "Young Tom Edison",
+      "recommendations": [],
+      "backdrop_path": "/2PCP43kagjy6L8dsEeQiYKSIq21.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Thomas Alva 'Tom' Edison",
+               "gender": 0,
+               "credit_id": "52fe48f0c3a36847f81817f9",
+               "name": "Mickey Rooney",
+               "profile_path": "/bgCm55k2eo2YV5bMn3D0O4NPwU.jpg",
+               "id": 1937,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Samuel 'Sam' Edison",
+               "gender": 2,
+               "credit_id": "52fe48f0c3a36847f81817fd",
+               "name": "George Bancroft",
+               "profile_path": "/oIenpHjZT2tssS6ss4rmdooGDkT.jpg",
+               "id": 13555,
+               "order": 1
+            },
+            {
+               "cast_id": 7,
+               "character": "Mrs. Samuel 'Nancy' Edison",
+               "gender": 1,
+               "credit_id": "52fe48f0c3a36847f8181819",
+               "name": "Fay Bainter",
+               "profile_path": "/22FE8P03vu4XDNqDBatWjiX2uVC.jpg",
+               "id": 20366,
+               "order": 2
+            },
+            {
+               "cast_id": 8,
+               "character": "Tannie Edison",
+               "gender": 1,
+               "credit_id": "52fe48f0c3a36847f818181d",
+               "name": "Virginia Weidler",
+               "profile_path": "/t8TslbcOLkPwPTRLt54gp2w4QyG.jpg",
+               "id": 14689,
+               "order": 3
+            },
+            {
+               "cast_id": 9,
+               "character": "Mr. Nelson",
+               "gender": 2,
+               "credit_id": "52fe48f0c3a36847f8181821",
+               "name": "Eugene Pallette",
+               "profile_path": "/jGPBb0D4Dcuf0HyPnmTXNs9ysxZ.jpg",
+               "id": 8728,
+               "order": 4
+            },
+            {
+               "cast_id": 10,
+               "character": "Mr. Dingle",
+               "gender": 2,
+               "credit_id": "5685575492514131df019232",
+               "name": "Victor Kilian",
+               "profile_path": "/fjyyZPBiQmoJN5uS9fFcsV9K4JM.jpg",
+               "id": 14666,
+               "order": 5
+            },
+            {
+               "cast_id": 11,
+               "character": "Joe 'Joey' Dingle",
+               "gender": 2,
+               "credit_id": "56855763925141133401316c",
+               "name": "Bobby Jordan",
+               "profile_path": "/aGUcaw202mfEAEb6il9qkdkhNdv.jpg",
+               "id": 89990,
+               "order": 6
+            },
+            {
+               "cast_id": 13,
+               "character": "Dr. Pender",
+               "gender": 2,
+               "credit_id": "5685578292514169d00079c9",
+               "name": "Lloyd Corrigan",
+               "profile_path": "/uuC8nYacobRfv8DVJQYeoA4A6Sx.jpg",
+               "id": 34497,
+               "order": 8
+            },
+            {
+               "cast_id": 14,
+               "character": "Bill Edison",
+               "gender": 2,
+               "credit_id": "56855791c3a3684be901b1db",
+               "name": "John Kellogg",
+               "profile_path": "/h1BAZssNIdeKnNGpltnDU312UAd.jpg",
+               "id": 78305,
+               "order": 9
+            },
+            {
+               "cast_id": 15,
+               "character": "Mr. Waddell",
+               "gender": 2,
+               "credit_id": "568557a29251417e63003931",
+               "name": "Clem Bevans",
+               "profile_path": "/eLTUxTt4Y2ogtQ3e5gzllLZNBLu.jpg",
+               "id": 136895,
+               "order": 10
+            },
+            {
+               "cast_id": 16,
+               "character": "Miss Lavina Howard, School Teacher",
+               "gender": 1,
+               "credit_id": "568557b39251417e150038d3",
+               "name": "Eily Malyon",
+               "profile_path": "/nsmVbSUMZsrwbnD74Aef2BQGxEK.jpg",
+               "id": 95631,
+               "order": 11
+            },
+            {
+               "cast_id": 17,
+               "character": "Army Captain Brackett",
+               "gender": 2,
+               "credit_id": "568557c4c3a3684bcc01d7b7",
+               "name": "Harry Shannon",
+               "profile_path": "/7Js8vAjzKzM5eXcu6THDzWM7j5P.jpg",
+               "id": 4077,
+               "order": 12
+            },
+            {
+               "cast_id": 18,
+               "character": "Passenger Buying Maple Sugar",
+               "gender": 0,
+               "credit_id": "568557f6c3a36860e901bd24",
+               "name": "Ernie Adams",
+               "profile_path": "/jApXZ7Z3HpIbh3dXv55coEyVLdC.jpg",
+               "id": 34098,
+               "order": 13
+            },
+            {
+               "cast_id": 19,
+               "character": "Woman Fainting at Downed Bridge",
+               "gender": 0,
+               "credit_id": "56855805c3a368607501b16a",
+               "name": "Maude Allen",
+               "profile_path": null,
+               "id": 974965,
+               "order": 14
+            },
+            {
+               "cast_id": 20,
+               "character": "Woman at Station",
+               "gender": 1,
+               "credit_id": "568558169251414ecb00d6bf",
+               "name": "Jessie Arnold",
+               "profile_path": null,
+               "id": 1075381,
+               "order": 15
+            },
+            {
+               "cast_id": 21,
+               "character": "Woman at Station",
+               "gender": 1,
+               "credit_id": "56855822c3a36828f5011f5f",
+               "name": "Polly Bailey",
+               "profile_path": null,
+               "id": 1422109,
+               "order": 16
+            },
+            {
+               "cast_id": 22,
+               "character": "Red, Joe's Friend",
+               "gender": 2,
+               "credit_id": "56855834925141133401317f",
+               "name": "Sherwood Bailey",
+               "profile_path": null,
+               "id": 588991,
+               "order": 17
+            },
+            {
+               "cast_id": 23,
+               "character": "Man at Dingle's Store",
+               "gender": 0,
+               "credit_id": "568558449251414ecb00d6d0",
+               "name": "Jack Baxley",
+               "profile_path": null,
+               "id": 1271340,
+               "order": 18
+            },
+            {
+               "cast_id": 24,
+               "character": "Bartender",
+               "gender": 2,
+               "credit_id": "56855866c3a36860e901bd38",
+               "name": "John Beck",
+               "profile_path": null,
+               "id": 1045919,
+               "order": 19
+            },
+            {
+               "cast_id": 25,
+               "character": "Telegrapher",
+               "gender": 2,
+               "credit_id": "56855877c3a36860e901bd3b",
+               "name": "Arthur Belasco",
+               "profile_path": null,
+               "id": 113516,
+               "order": 20
+            },
+            {
+               "cast_id": 26,
+               "character": "Train Passenger",
+               "gender": 0,
+               "credit_id": "5685588892514169d00079ea",
+               "name": "Sammy Blum",
+               "profile_path": null,
+               "id": 1123937,
+               "order": 21
+            },
+            {
+               "cast_id": 27,
+               "character": "Army Officer on Train",
+               "gender": 0,
+               "credit_id": "56855974c3a36828f5011f8b",
+               "name": "Stanley Blystone",
+               "profile_path": "/qmj0lbXABDGnYudwHmM94ZvKVsN.jpg",
+               "id": 30196,
+               "order": 22
+            },
+            {
+               "cast_id": 28,
+               "character": "Si Weaver",
+               "gender": 2,
+               "credit_id": "56855983c3a3683628003ad7",
+               "name": "Wade Boteler",
+               "profile_path": "/A2B8WDQWBZCV1mXerlJvVX0J2hG.jpg",
+               "id": 120818,
+               "order": 23
+            },
+            {
+               "cast_id": 29,
+               "character": "Mr. Briggs",
+               "gender": 2,
+               "credit_id": "568559939251412e5201a819",
+               "name": "Eddy Chandler",
+               "profile_path": null,
+               "id": 120734,
+               "order": 24
+            },
+            {
+               "cast_id": 30,
+               "character": "Man at Station",
+               "gender": 0,
+               "credit_id": "568559a2c3a3684be901b225",
+               "name": "Jack Daley",
+               "profile_path": null,
+               "id": 111287,
+               "order": 25
+            },
+            {
+               "cast_id": 31,
+               "character": "Train Passenger",
+               "gender": 1,
+               "credit_id": "568559b5c3a3683628003ae1",
+               "name": "Leigh De Lacey",
+               "profile_path": null,
+               "id": 1422442,
+               "order": 26
+            },
+            {
+               "cast_id": 32,
+               "character": "Man at Station",
+               "gender": 0,
+               "credit_id": "568559c9c3a3685f89007504",
+               "name": "John Webb Dillon",
+               "profile_path": null,
+               "id": 1058695,
+               "order": 27
+            },
+            {
+               "cast_id": 33,
+               "character": "Mrs. McCarney",
+               "gender": 1,
+               "credit_id": "568559df92514169d0007a23",
+               "name": "Fern Emmett",
+               "profile_path": "/3P5MeVW4rqoRn8TG7NlQuP2Zjnb.jpg",
+               "id": 88999,
+               "order": 28
+            },
+            {
+               "cast_id": 34,
+               "character": "Train Passenger",
+               "gender": 2,
+               "credit_id": "568559f29251417e1500391e",
+               "name": "Budd Fine",
+               "profile_path": null,
+               "id": 141139,
+               "order": 29
+            },
+            {
+               "cast_id": 35,
+               "character": "Telegrapher (Indian Attack)",
+               "gender": 0,
+               "credit_id": "56855a0dc3a3684bcc01d811",
+               "name": "Olin Howland",
+               "profile_path": "/lstGMKS2WLNbgNZXd9bKTn0tbTz.jpg",
+               "id": 34209,
+               "order": 30
+            },
+            {
+               "cast_id": 36,
+               "character": "Black Boy at Tree",
+               "gender": 2,
+               "credit_id": "56855a2592514131df019297",
+               "name": "Philip Hurlic",
+               "profile_path": null,
+               "id": 1145556,
+               "order": 31
+            },
+            {
+               "cast_id": 37,
+               "character": "Man at Station",
+               "gender": 0,
+               "credit_id": "56855a389251412e5201a831",
+               "name": "John Ince",
+               "profile_path": "/yF30wVjmvjApT7XYYhgUzyteX0p.jpg",
+               "id": 89012,
+               "order": 32
+            },
+            {
+               "cast_id": 38,
+               "character": "Man at Station",
+               "gender": 0,
+               "credit_id": "56855a459251417e1500392a",
+               "name": "Mitchell Ingraham",
+               "profile_path": null,
+               "id": 1421016,
+               "order": 33
+            },
+            {
+               "cast_id": 39,
+               "character": "Baggage Man",
+               "gender": 0,
+               "credit_id": "56855a579251417e15003930",
+               "name": "Milton Kibbee",
+               "profile_path": "/jQpaekf2R1MMm7uqgMbP38dTrNh.jpg",
+               "id": 117036,
+               "order": 34
+            },
+            {
+               "cast_id": 40,
+               "character": "Train Passenger",
+               "gender": 2,
+               "credit_id": "56855aa892514132db019cd3",
+               "name": "Del Lawrence",
+               "profile_path": "/mGHbPnd5tI0LPu6bDoXPIyvD4gE.jpg",
+               "id": 1556234,
+               "order": 35
+            },
+            {
+               "cast_id": 41,
+               "character": "McGuire - Train Engineer",
+               "gender": 2,
+               "credit_id": "56855c46c3a36828f5012000",
+               "name": "Mitchell Lewis",
+               "profile_path": "/8pMeRxkO2wDydRt0JVhHxIN9y7H.jpg",
+               "id": 13558,
+               "order": 36
+            },
+            {
+               "cast_id": 42,
+               "character": "Train Passenger",
+               "gender": 2,
+               "credit_id": "56855c5ac3a36828f5012007",
+               "name": "George Magrill",
+               "profile_path": null,
+               "id": 616605,
+               "order": 37
+            },
+            {
+               "cast_id": 43,
+               "character": "Man at Station",
+               "gender": 2,
+               "credit_id": "56855c70c3a36860e901bdca",
+               "name": "Wally Maher",
+               "profile_path": null,
+               "id": 84234,
+               "order": 38
+            },
+            {
+               "cast_id": 44,
+               "character": "Woman at Station",
+               "gender": 1,
+               "credit_id": "56855c829251414ecb00d77f",
+               "name": "Claire McDowell",
+               "profile_path": "/rCujOYWgzRTZls7bRvrEFdxccrW.jpg",
+               "id": 29974,
+               "order": 39
+            },
+            {
+               "cast_id": 45,
+               "character": "Woman at Station",
+               "gender": 1,
+               "credit_id": "56855c90925141133401320b",
+               "name": "Frances Morris",
+               "profile_path": null,
+               "id": 115367,
+               "order": 40
+            },
+            {
+               "cast_id": 46,
+               "character": "Bob",
+               "gender": 2,
+               "credit_id": "56855ca092514132db019d17",
+               "name": "Emory Parnell",
+               "profile_path": "/1duv3EnZjZSz8jgtXGZS4MOArNK.jpg",
+               "id": 124875,
+               "order": 41
+            },
+            {
+               "cast_id": 47,
+               "character": "Train Engineer Miller",
+               "gender": 2,
+               "credit_id": "56855cb0c3a3684bcc01d859",
+               "name": "Lee Phelps",
+               "profile_path": "/yBLIKr2IpxLzSiqBt6N9PqGQ7EZ.jpg",
+               "id": 121066,
+               "order": 42
+            },
+            {
+               "cast_id": 48,
+               "character": "Mr. Tompkins",
+               "gender": 2,
+               "credit_id": "56855cc29251417e630039eb",
+               "name": "Victor Potel",
+               "profile_path": "/obZCOU7xnxvlkLLfHtlZPs3EB3Q.jpg",
+               "id": 99468,
+               "order": 43
+            },
+            {
+               "cast_id": 49,
+               "character": "Johnny, Joe's Friend",
+               "gender": 0,
+               "credit_id": "56855cd8c3a368607501b228",
+               "name": "Mickey Rentschler",
+               "profile_path": "/bEkDUeVHZ4qOfzysEl8H2W8vPxN.jpg",
+               "id": 1035639,
+               "order": 44
+            },
+            {
+               "cast_id": 50,
+               "character": "Train Passenger",
+               "gender": 0,
+               "credit_id": "56855ce692514131df019305",
+               "name": "Marion Sheldon",
+               "profile_path": null,
+               "id": 1556245,
+               "order": 45
+            },
+            {
+               "cast_id": 51,
+               "character": "Boy at Tree",
+               "gender": 0,
+               "credit_id": "56855cf692514169d0007a8d",
+               "name": "Buster Slaven",
+               "profile_path": "/lrmAXablYi5KsDszBx3mJPjk7Zm.jpg",
+               "id": 1422446,
+               "order": 46
+            },
+            {
+               "cast_id": 52,
+               "character": "Frank Allen",
+               "gender": 0,
+               "credit_id": "56855d049251417e63003a00",
+               "name": "Marvin Stephens",
+               "profile_path": "/t9uQo8fgvoXBx9anTULgSPxtBtB.jpg",
+               "id": 1196969,
+               "order": 47
+            },
+            {
+               "cast_id": 53,
+               "character": "Army Officer",
+               "gender": 2,
+               "credit_id": "56855d15c3a3683628003b6a",
+               "name": "Harry Strang",
+               "profile_path": "/d8s5zedUa9b2gio2nOdj76qxbE0.jpg",
+               "id": 131003,
+               "order": 48
+            },
+            {
+               "cast_id": 54,
+               "character": "Train Passenger",
+               "gender": 0,
+               "credit_id": "56855d27c3a3684bcc01d86d",
+               "name": "Forrest Taylor",
+               "profile_path": "/qHlfHqU5XE92iJ47dUObxW1PRU.jpg",
+               "id": 88733,
+               "order": 49
+            },
+            {
+               "cast_id": 56,
+               "character": "Man Admiring Portrait of Thomas A. Edison",
+               "gender": 2,
+               "credit_id": "56855d55c3a3683628003b72",
+               "name": "Spencer Tracy",
+               "profile_path": "/vnLAbTFBcKJcNfxQYwTImzZSext.jpg",
+               "id": 12147,
+               "order": 51
+            },
+            {
+               "cast_id": 57,
+               "character": "Narrator (voice)",
+               "gender": 2,
+               "credit_id": "56855d64c3a3684be901b2b3",
+               "name": "Frank Whitbeck",
+               "profile_path": "/c1lrMoiolMYAMSo9ac9JRk4em9z.jpg",
+               "id": 1091289,
+               "order": 52
+            },
+            {
+               "cast_id": 58,
+               "character": "Mr. Hodge",
+               "gender": 0,
+               "credit_id": "56855d72c3a3684be901b2b6",
+               "name": "Joe Whitehead",
+               "profile_path": null,
+               "id": 33972,
+               "order": 53
+            },
+            {
+               "cast_id": 59,
+               "character": "Man at Station",
+               "gender": 2,
+               "credit_id": "56daedcac3a3684ca30022d0",
+               "name": "Al Thompson",
+               "profile_path": null,
+               "id": 1232539,
+               "order": 54
+            },
+            {
+               "cast_id": 60,
+               "character": "Mr. McCarney",
+               "gender": 0,
+               "credit_id": "57e70a97925141390b00ab8a",
+               "name": "J. M. Kerrigan",
+               "profile_path": "/oOwpXnlFczGmtEg4D93njH9aWx1.jpg",
+               "id": 2099,
+               "order": 55
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe48f0c3a36847f8181803",
+               "name": "Hugo Butler",
+               "profile_path": null,
+               "id": 22596,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe48f0c3a36847f8181809",
+               "name": "Bradbury Foote",
+               "profile_path": null,
+               "id": 103688,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe48f0c3a36847f818180f",
+               "name": "Dore Schary",
+               "profile_path": null,
+               "id": 22598,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe48f0c3a36847f8181815",
+               "name": "Norman Taurog",
+               "profile_path": "/nDz17mvGRWV4BeJwgr9FVq1xIGH.jpg",
+               "id": 82800,
+               "department": "Directing",
+               "job": "Director"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Drama",
+         "id": 18
+      }],
+      "popularity": 0.657914,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 56154,
+      "vote_count": 1,
+      "budget": 0,
+      "overview": "Inventor Thomas Edison's boyhood is chronicled and shows him as a lad whose early inventions and scientific experiments usually end up causing disastrous results. As a result, the towns folk all think Tom is crazy, and creating a strained relationship between Tom and his father. Toms only solace is his understanding mother who believes he's headed to do great things.",
+      "similar": [
+         45317,
+         227306,
+         371638,
+         323677,
+         319888,
+         11202,
+         1578,
+         10637,
+         314095,
+         462,
+         640,
+         613,
+         769,
+         5915,
+         318846,
+         389015,
+         407445,
+         363676,
+         396371,
+         324786
+      ],
+      "original_title": "Young Tom Edison",
+      "runtime": 86,
+      "poster_path": "/mRhUxm0MzWwZu8FUMNESl64yedm.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/zcxym93i5BTqqjhVvAhV5HPwYTR.png",
+         "name": "Metro-Goldwyn-Mayer",
+         "id": 21,
+         "origin_country": "US"
+      }],
+      "release_date": "1940-03-15",
+      "vote_average": 4,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Black and White",
+      "budgetCurrency": null,
+      "directors": ["Norman Taurog"],
+      "runtime": 86,
+      "synopsis": null,
+      "writers": [
+         "Bradbury Foote",
+         "Dore Schary"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0033289/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjMxMTcwMzI4OV5BMl5BanBnXkFtZTcwMDIxOTIxMw@@._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "actors": ["Stars: Mickey Rooney, Fay Bainter, George Bancroft | See full cast and crew »"],
+      "reviews": [
+         "Like most people, I have always been an admirer of Thomas Alva Edison, probably the most prolific inventor of all time. But as I watched the movie, I wondered how much of it was fabricated. According to the world book encyclopedia, pretty much all of the incidents depicted in the movie happened, although some of the time frames were changed to allow Mickey Rooney to play the part throughout the film. And Rooney, always a very underrated actor, is terrific. With very good support from Fay Bainter, Virginia Weidler and George Bancroft as members of Edison's family, this is a film easily enjoyed by everyone. And look for a cameo by Spencer Tracy, who already had been cast in the sequel, \"Edison, the Man (1940),\" which was in production when this film was released.",
+         "In this film, Mickey Rooney very capably plays the title role. His energy, very good acting and 'aw, shucks' attitude worked well in this film. That combined with the usual MGM polish and writing made this an enjoyable movie. As for this interpretation of Edison, he's a combination of Jimmy Neutron (or Dexter) and a Horatio Alger character--full of schemes to earn a buck as well as an abiding love of science. When I watch biopics from Hollywood's golden age of the 1930s-1940s, I always assume that the truth took a back seat to entertainment and drama. More often then not, the facts have been 'adjusted' to make a more enjoyable film--regardless if it strays pretty far from the truth. So, as I watched \"Young Tom Edison\", I naturally assumed it was once again a very highly fictionalized account. This seemed even more obvious when Tom jumps onto the train tracks to save a little boy's life. However, imagine my surprise when I did some reading and found this film was actually pretty close to the truth! Sure, they took a few liberties here and there, but for the most part it was real. Sometimes the truth really is stranger than fiction! Overall, it's quite enjoyable and a nice companion piece to MGM's other Edison film that came out the same year, \"Edison, the Man\"--which shows the adult life of the great inventor.",
+         "This was always a favorite of mine when I would see it on television many years ago but I had forgotten how good a film it still is. I just saw it today on TCM and I have to say something about this under-appreciated gem. The cast is a terrific ensemble of filmdom's great character actors such as George Bancroft who appears in countless films, among them Stagecoach. He plays Tom's father with great heart and finally when he realizes who is son really is, they share a heartwarming thumping of the town's most obnoxious father, son pairing. Virginia Weidler is very good as Tom's sister. Another of Hollywood's most talented children, she appeared frequently with Mickey and Judy and also had a high profile role in The Philadelphia story. Fay Bainter has one of her best roles ever as Tom's mother, easily worthy of an academy nod. While the story may not resemble reality, it communicates some very important human truths about family. This film is every bit as good as The Yearling and should be considered a must for family viewing.",
+         "MGM opens the first film in the studio's Edison biography project by promising, \"This is a story of courage. The courage and triumph of a typical American boy. In all its essential facts, it is a true story. The boy actually did experience the adventures - the joys and sorrows portrayed here. His name might have been John Jones or Bill Smith. It happened to be Thomas A. Edison.\" Mickey Rooney plays \"Young Tom Edison\", and the movie ends with a cameo appearance by Spencer Tracy, star of \"Edison, the Man\" (released shortly). They weren't much like Thomas Edison or each other, but Mr. Rooney and Mr. Tracy were the #1 and #2 \"Box Office\" stars of 1940, according to Quigley Publications - so, these films were both very well-produced. \"Young Tom Edison\" focuses on the Edison family (who disappear for the Tracy film): likewise precocious little sister Virginia Weidler (as Tannie), misunderstanding father George Bancroft (as Sam), and mysteriously ailing mother Fay Bainter (as Nancy). Rooney's adversary is \"Dead End Kid\" Bobby Jordan (as Joseph \"Joe\" Dingle), who gets repeatedly gets kicked in the shins. In the strangest scene, Ms. Bainter pretends to take over the beating of her sixteen-year-old son while his proud father listens to Rooney's painful cries. Later, gravel-voiced train conductor Eugene Palette (as Nelson) smacks Rooney so hard he develops an earache. Doctor Lloyd Corrigan says, \"Sometimes there's nothing like a good box in the ears to sharpen a boy's senses.\" Edison subsequently suffered from deafness. ***** Young Tom Edison (2/10/40) Norman Taurog ~ Mickey Rooney, Virginia Weidler, Fay Bainter, George Bancroft",
+         "I was very pleasantly surprised and really enjoyed this entertaining biopic about the early life of Thomas Alva Edison. While the film does stick close to Edison's true youthful experiences, the added bits of fiction are so good they actually help to further enhance the story. Mickey Rooney was the perfect choice to play the young inventor, his spunk and natural acting are a fine combination, bringing the youthful Edison to life. Underrated child actress Virginia Weidler is equally superb playing Edison's admiring younger sister. Fay Bainter and George Bancroft brilliantly play the parents of Tom, a boy who forever is getting himself into trouble with is scientific inventions and his misunderstood intelligence, which labels him a misfit among the town's people. This is where Fay Bainter excels as Tom's understanding, and lovingly patient mother. The dramatic ending to the story is very exciting. This film is both entertaining and touching, and perfectly fine for family viewing.",
+         "Mickey Rooney stars as the teenaged Thomas Edison in this wonderfully entertaining MGM biopic. The movie covers the young inventor's struggles to fit in with a town full of people who don't understand him. He makes mistakes but proves his worth and ultimately becomes a hero. Rooney is his usual likable self. He tones his high energy down some and shows his dramatic skills. He really was a phenomenal star and a great actor. Superb supporting cast includes Fay Bainter and George Bancroft as Edison's parents, Virginia Weidler as his sister, and Eugene Palette as a railroad conductor. I really like the MGM sets and the 19th century American style. Lovely music, pleasant tone, and good cast. Script is a nice mix of humor, drama, and action. This is the first of two MGM biopics of Edison released in 1940. The other is Edison, the Man starring Spencer Tracy. That movie covers Edison's adult years so it's like a sequel to this picture. Both are excellent. These old biopics were usually solid, uplifting character-driven stories. Yes they take liberties with the details but the more cynical defamatory biopics we get these days do the same. I'll take an inspirational biography that builds people up and leaves you with the warm fuzzies over some deconstructionist tabloid trash any day.",
+         "Captivating Americana based on the boyhood of the famed inventor, played here by Mickey Rooney, who is kicked out of school for his intense inquisitiveness - and his habit of staring out the window, and that big explosion - is branded \"addle-pated\" by the townsfolk, but ultimately comes good. Rooney's stock persona was as a brash, cartoonish know-it- all who gets a lesson in humility (at which point he starts crying and saying sorry), but his best performances came when he was asked to calm down and actually act, doing extraordinary work in The Human Comedy and National Velvet. He's superb here - using slightly broader strokes than in those seminal later performances - and surrounded by a cast of top character actors, including Virginia Weidler as his affectionate sister, Fay Bainter as his protective mother and George Bancroft as a stern patriarch with impressive sideburns but an unfortunate propensity to ignore his son's protestations of innocence. It's a wonderfully-mounted production, with a literate script that mixes things that actually happened, things you wish had happened and MGM staples like the family sing-along. And it climaxes with two extraordinary, unbearably tense suspense sequences. If you're a cynic, just don't bother. For everyone else, this is a rosy primer on Edison's early years and a poignant, exciting and flavourful example of MGM at its absolute best.",
+         "As much a fan I am of the MGM musicals, I must admit that I enjoy Mickey Rooney more as a dramatic actor in his younger days than I did as a musical star. Playing a variety of characters during the heyday of his youth (1937-1943), he showed a great versatility, although a little bit of him goes a long way. However, one of his best is \"Young Tom Edision\", the growing up adventures of one of the greatest Americans in history. From the moment you meet Mickey's Tom, waking up his younger sister Virginia Weidler with a clever communication invention, to his saving of a train in danger (all thanks to the signals he makes from another train's whistle to get his sister's attention), Rooney is outstanding. Ms. Weidler isn't bad, either, and almost steals the show. There's a very amusing sequence in school where Mickey is punished by his spinster teacher (Eily Maylon) and ends up almost setting the school on fire. This leads to an exchange between Maylon and Ma Edison (Fay Bainter) that equals the exchange between Auntie Em and Miss Gulch in \"The Wizard of Oz\". Bainter and George Bancroft are outstanding as the parents, and a spanking scene between Bainter and Rooney will definitely provide some laughs. 50 years later, the scene would be re-used to great \"adult\" comic affect in \"Romy and Michelle's High School Reunion\". Great character players like Eugene Palette, Victor Kilian (now the father of Rooney's rival, after being his dead beat dad in \"Huckleberry Finn\"), and Clem Bevans. Every aspect of this film seems just right, and rightly sets the ending up for a sequel featuring Spencer Tracy.",
+         "This movie is a biopic about the young years of famous inventor and movie-making pioneer Thomas Alva Edison but above all this movie is an entertaining one to watch. The movie could had also be easily named \"The Adventures of Young Tom Edison\", since the movie itself is quite adventurous, with young Tom Edison embarking on some adventurous dealings in the normal world and in his own world of inventing and experimenting. It above all is a movie that at all times entertains, with also some comical characters in it and some fun typical comedy dealings. Guess its also insightful about the early years of Thomas Edison's life, though its hard to tell how much in this movie actually also occurred in real life. Some things are certainly hard to believe and obviously fabricated for the movie, to also make it more fun and tense. This is really not a bad things, since it definitely improves the movie so much. I'm sure the movie would had been really boring and simplistic if it was done in a completely serious dramatic kind of biopic style. It's entertainment value is mostly what makes this movie such a great watch. It's a typical '40's movie, made in typical '40's movie style, with typical '40's way of story-telling, typical '40's kind of characters, typical '40's kind of humor and a typical '40's musical score. Needless to say, fans of '40's movie shall probably enjoy the most watching this movie. Mickey Rooney fits the role really well, even though he at the time was already much older than the character in the movie was supposed to be. He carries the movie mostly and handles everything in it very well. He especially seems at ease with the comical aspects in the movie. Other child-star Virginia Weidler also plays a good role. The parents of Tom Edison are also portrayed nicely by Fay Bainter and George Bancroft. The movie provides a good view of the home situation which also definitely helps to make the more dramatic and serious aspects of the movie work out. The movie is followed by \"Edison, the Man\", starring Spencer Tracy in the role of Thomas Edison, who also makes a cameo at the end of this movie, to prepare- and get viewers to the theater for its sequel. An in-movie teaser trailer! A really greatly made and entertaining movie to watch! Very recommendable. 8/10 http://bobafett1138.blogspot.com/",
+         "YOUNG TOM EDISON (Metro-Goldwyn-Mayer, 1940), directed by Norman Taurog, is an fact-based screen retelling of the boyhood years of one of the true greats in American history, Thomas Edison. As suggested by its opening passage, \"This is a story of courage, the courage and triumph of a typical American boy. In all its essential facts, it is a true story. The boy actually did experience the adventures - the joys and sorrows portrayed here. His name might have been John Jones or Bill Smith. It happens to be Thomas Alva Edison.\" Rather than relying on sources covering Edison's entire life from birth in Milan, Ohio (1847) to death (1931), the screenplay, consisting of material by Harlan Dowry, which often plays like segments listed from Mark Twain's beloved character, \"Tom Sawyer,\" the story as scripted deals mostly with Tom Edison of Port Huron, Michigan, a boy genius and the early life as he lived it. While the screenplay does toy a bit about the facts, overlooking the Edisons having seven children with Tom being the youngest, the narrative introduces Samuel Edison (George Bancroft), a hard-working husband; Nancy (Fay Bainter), his wife and former schoolteacher in Canada; Bill (John Kellogg), his elder son whose character is least interesting and under developed; Tannie (Virginia Weidler), the youngest daughter; while young Tom Edison (Mickey Rooney) is portrayed as the middle child While Tom is portrayed as a misunderstood 16-year-old who's irresponsible and accident prone, it's his love for science that actually stands in the way him having a normal childhood. Tom may be different from the other children but is very special in the eyes of both his mother and sister. Then there's Mr. Edison who not only constantly tells Tom, \"Take your hands out of your pockets,\" but fails to find time and patience to accept him for what he is. Classified as slow and stupid by his spinster schoolteacher (Eily Malyon), Tom's also the laughing stock by most, especially his classmates, namely Joe Dingle (Bobby Jordan), a school bully and son of a local hardware store owner (Victor Kilian). Portions of the story depict Tom's heroism by saving the life of a station master's (J.M. Kerrigan) little boy (Richard Nichols) from an oncoming train; Tom earning a living by selling candy and newspapers on a train under Mr. Nelson (Eugene Palette), the conductor; Tom having to carefully dispose of nitroglycerin on a train full of people; and his expert knowledge sending messages through Morse Code. Because of situations beyond his control, Tom loses both job and respect from those around him, causing him to believe those accusations made against him. As much as these episodic situations take place during the course of a few years, it gives every indication of it set during the course of a few weeks. Whether the screenplay is true or not, whether Rooney physically resembles Tom Edison or not really doesn't matter much for that YOUNG TOM EDISON is a great film. Once seen, its hard to forget these standout scenes: the development of Tom's inventive mind brought forth by some clever devises; tender moments of family togetherness as the Edison's gather around the piano singing to the much underscored \"Sweet Genevieve\"; Tom finger rolling his right eye-brow while coming up with a positive solution; Mrs. Edison's motherly advice to her son as any mother could; Tom's despair while walking aimlessly through the rain as he hears in his mind voices of laughter and ridicule following his pleading with local business owners to give him a job; plus the climactic race against time segment as Tom makes every effort to save an oncoming train from danger through some ingenious plan. Aside from Rooney's excellent portrayal, Fay Bainter stands out most as the understanding mother while Virginia Weidler gives an unforgettable performance playing Tom's younger sister who repeatedly tells him with amazement, \"Gosh, you're smart.\" George Bancroft with mustache and sideburns should not go without mention playing the stern father. Humor, sentiment and moral lessons in the tradition of Tom Sawyer are thrown in on few occasions, the best being where Tom Edison tricks his way from taking his overshoes and muffler on to his next ventures. With apple pie and milk being his favorite meal simply shows young Tom Edison the all-American boy with a bright future of great inventions ahead of him. When YOUNG TOM EDISON played regularly on commercial television prior to the 1980s cable TV generation, usually on Edison's birthday, February 11th, the promotional announcement presented after the film's closing showing Spencer Tracy in forefront of Thomas Edison's portrait as narrator talks about an upcoming sequel, EDISON, THE MAN (1940), was usually omitted. Not until its broadcasts on Turner Classic Movies has this final segment been restored in both 1991 home video distribution and later DVD presentations. Thanks to films such as these does the name and legend of Thomas Alva Edison live on. (****)"
+      ],
+      "genres": [
+         "Biography",
+         "Drama"
+      ],
+      "productionCompanies": ["Metro-Goldwyn-Mayer (MGM)"],
+      "summaries": ["Inventor Thomas Edison's boyhood is chronicled and shows him as a lad whose early inventions and scientific experiments usually end up causing disastrous results. As a result, the towns folk all think Tom is crazy, and creating a strained relationship between Tom and his father. Toms only solace is his understanding mother who believes he's headed to do great things."],
+      "budget": 0
+   },
+   "movielensId": 116568,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1940-03-15",
+      "dvdReleaseDate": null,
+      "directors": ["Norman Taurog"],
+      "runtime": 86,
+      "movieId": 116568,
+      "title": "Young Tom Edison",
+      "mpaa": "",
+      "actors": [
+         "Mickey Rooney",
+         "George Bancroft",
+         "Fay Bainter",
+         "Virginia Weidler",
+         "Eugene Pallette",
+         "Victor Kilian",
+         "Bobby Jordan",
+         "Lloyd Corrigan",
+         "John Kellogg",
+         "Clem Bevans",
+         "Eily Malyon",
+         "Harry Shannon",
+         "Ernie Adams",
+         "Maude Allen",
+         "Jessie Arnold",
+         "Polly Bailey",
+         "Sherwood Bailey",
+         "Jack Baxley",
+         "John Beck",
+         "Arthur Belasco",
+         "Sammy Blum",
+         "Stanley Blystone",
+         "Wade Boteler",
+         "Eddy Chandler",
+         "Jack Daley",
+         "Leigh De Lacey",
+         "John Webb Dillon",
+         "Fern Emmett",
+         "Budd Fine",
+         "Olin Howland",
+         "Philip Hurlic",
+         "John Ince",
+         "Mitchell Ingraham",
+         "Milton Kibbee",
+         "Del Lawrence",
+         "Mitchell Lewis",
+         "George Magrill",
+         "Wally Maher",
+         "Claire McDowell",
+         "Frances Morris",
+         "Emory Parnell",
+         "Lee Phelps",
+         "Victor Potel",
+         "Mickey Rentschler",
+         "Marion Sheldon",
+         "Buster Slaven",
+         "Marvin Stephens",
+         "Harry Strang",
+         "Forrest Taylor",
+         "Spencer Tracy",
+         "Frank Whitbeck",
+         "Joe Whitehead",
+         "Al Thompson",
+         "J. M. Kerrigan"
+      ],
+      "imdbMovieId": "0033289",
+      "originalTitle": "Young Tom Edison",
+      "genres": ["Drama"],
+      "youtubeTrailerIds": [],
+      "plotSummary": "Inventor Thomas Edison's boyhood is chronicled and shows him as a lad whose early inventions and scientific experiments usually end up causing disastrous results. As a result, the towns folk all think Tom is crazy, and creating a strained relationship between Tom and his father. Toms only solace is his understanding mother who believes he's headed to do great things.",
+      "tmdbMovieId": 56154,
+      "avgRating": 3.25,
+      "releaseYear": "1940",
+      "numRatings": 4,
+      "posterPath": "/mRhUxm0MzWwZu8FUMNESl64yedm.jpg"
+   }
+}

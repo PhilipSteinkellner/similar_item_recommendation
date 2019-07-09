@@ -1,0 +1,744 @@
+{
+   "tmdb": {
+      "original_language": "es",
+      "keywords": [
+         {
+            "name": "corruption",
+            "id": 417
+         },
+         {
+            "name": "ideology",
+            "id": 1698
+         },
+         {
+            "name": "ambassador",
+            "id": 1704
+         },
+         {
+            "name": "speech",
+            "id": 6001
+         },
+         {
+            "name": "politics",
+            "id": 6078
+         },
+         {
+            "name": "satire",
+            "id": 8201
+         },
+         {
+            "name": "power struggle",
+            "id": 188277
+         },
+         {
+            "name": "true love",
+            "id": 188993
+         },
+         {
+            "name": "military coup",
+            "id": 194320
+         },
+         {
+            "name": "humanism",
+            "id": 231729
+         }
+      ],
+      "imdb_id": "tt0061038",
+      "video": false,
+      "title": "Su excelencia",
+      "recommendations": [],
+      "backdrop_path": "/nNOFLx0PCrtt1N3zL5DNrNr8lz2.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Lopez 'Lopitos' / His Excellency the Ambassador of Los Cocos",
+               "gender": 2,
+               "credit_id": "52fe46b4c3a36847f810d92b",
+               "name": "Cantinflas",
+               "profile_path": "/jGPFk48OwwaX4VzDd0Ne9vcP6kC.jpg",
+               "id": 29518,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Lolita",
+               "gender": 1,
+               "credit_id": "587a6a6dc3a3684a650054fa",
+               "name": "Sonia Infante",
+               "profile_path": "/6XH1GW58rsoivYg7qYk32ChOww7.jpg",
+               "id": 585988,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "Lic. Don Tirso de la Pompa y Pompa, consejero",
+               "gender": 2,
+               "credit_id": "587a6a85c3a3684a65005510",
+               "name": "Guillermo Zetina",
+               "profile_path": null,
+               "id": 975445,
+               "order": 2
+            },
+            {
+               "cast_id": 5,
+               "character": "General León Balarraza, agregado militar",
+               "gender": 2,
+               "credit_id": "587a6a9a9251413ecb005174",
+               "name": "Tito Junco",
+               "profile_path": "/vnhhEoTjxWPlVqZsrJeecPuLcwM.jpg",
+               "id": 100570,
+               "order": 3
+            },
+            {
+               "cast_id": 6,
+               "character": "Don Serafín Templado, secretario",
+               "gender": 0,
+               "credit_id": "587a6ab19251413ecb00517f",
+               "name": "Miguel Manzano",
+               "profile_path": "/A3zHb2Nffm9S3BeYzWUF971vITS.jpg",
+               "id": 106088,
+               "order": 4
+            },
+            {
+               "cast_id": 7,
+               "character": "Camarada Osky Popovsky, primer ministro",
+               "gender": 0,
+               "credit_id": "587a6ad2c3a3684a6500554b",
+               "name": "José Gálvez",
+               "profile_path": "/1dsmcwXuCj55Gy7J8DU9dOacz8C.jpg",
+               "id": 1075468,
+               "order": 5
+            },
+            {
+               "cast_id": 8,
+               "character": "Almirante Neptuno Aguado, agregado naval",
+               "gender": 2,
+               "credit_id": "587a6ae99251413f1b005624",
+               "name": "Víctor Alcocer",
+               "profile_path": null,
+               "id": 105151,
+               "order": 6
+            },
+            {
+               "cast_id": 9,
+               "character": "Camarada Tania",
+               "gender": 0,
+               "credit_id": "587a6b139251413eec004ffc",
+               "name": "Maura Monti",
+               "profile_path": null,
+               "id": 589839,
+               "order": 7
+            },
+            {
+               "cast_id": 10,
+               "character": "Don Salustio Menchaca, embajador de Los Cocos",
+               "gender": 0,
+               "credit_id": "587a6b33c3a36849ff004d2d",
+               "name": "Eduardo Alcaraz",
+               "profile_path": "/xPyfsX3ESSULGQXwdpgnj12xLj9.jpg",
+               "id": 1040937,
+               "order": 8
+            },
+            {
+               "cast_id": 11,
+               "character": "Representante de Salchichonia",
+               "gender": 2,
+               "credit_id": "587a6b5ec3a36847e80059f0",
+               "name": "Fernando Wagner",
+               "profile_path": "/n00GET8JbTlq7bn71nasIeKL3rr.jpg",
+               "id": 557983,
+               "order": 9
+            },
+            {
+               "cast_id": 12,
+               "character": "Presidente de la República de Pepeslavia",
+               "gender": 2,
+               "credit_id": "587a6b749251413eba00516e",
+               "name": "Carlos Riquelme",
+               "profile_path": null,
+               "id": 31882,
+               "order": 10
+            },
+            {
+               "cast_id": 13,
+               "character": "Mayordomo Petrovsky",
+               "gender": 2,
+               "credit_id": "587a6b9cc3a36847e8005a17",
+               "name": "Quintín Bulnes",
+               "profile_path": "/9uRQyW9bEvq8BoNpFY6hS5TKeS0.jpg",
+               "id": 31598,
+               "order": 11
+            },
+            {
+               "cast_id": 14,
+               "character": "Camarada Vasily Vasilov, ministro de relaciones exteriores",
+               "gender": 0,
+               "credit_id": "587a6bc09251413eec005076",
+               "name": "Eduardo MacGregor",
+               "profile_path": null,
+               "id": 553171,
+               "order": 12
+            },
+            {
+               "cast_id": 15,
+               "character": "Sr. Director",
+               "gender": 2,
+               "credit_id": "587a6bd59251413f33005410",
+               "name": "Luis Manuel Pelayo",
+               "profile_path": "/m8sPu0S8XsQO9ZcO13Ul0XPmyWc.jpg",
+               "id": 931355,
+               "order": 13
+            },
+            {
+               "cast_id": 16,
+               "character": "Comisario",
+               "gender": 0,
+               "credit_id": "587a6c01c3a36849ff004dc3",
+               "name": "Fernando Mendoza",
+               "profile_path": null,
+               "id": 1597029,
+               "order": 14
+            },
+            {
+               "cast_id": 17,
+               "character": "Embajador de Karamba",
+               "gender": 0,
+               "credit_id": "587a6c27c3a3684a270055ca",
+               "name": "Antonio Medellin",
+               "profile_path": null,
+               "id": 1246106,
+               "order": 15
+            },
+            {
+               "cast_id": 18,
+               "character": "Secretario general",
+               "gender": 2,
+               "credit_id": "587a6c49c3a36849ff004df3",
+               "name": "Alberto Galán",
+               "profile_path": null,
+               "id": 975993,
+               "order": 16
+            },
+            {
+               "cast_id": 19,
+               "character": "Portero",
+               "gender": 0,
+               "credit_id": "587a6c58c3a3684a270055f0",
+               "name": "Alberto Catalá",
+               "profile_path": null,
+               "id": 1582410,
+               "order": 17
+            },
+            {
+               "cast_id": 20,
+               "character": "Portero de asamblea (uncredited)",
+               "gender": 0,
+               "credit_id": "587a6c85c3a3684a9e005144",
+               "name": "Ricardo Adalid",
+               "profile_path": null,
+               "id": 1043469,
+               "order": 18
+            },
+            {
+               "cast_id": 21,
+               "character": "Espectador asamblea (uncredited)",
+               "gender": 0,
+               "credit_id": "587a6c9e9251413eec0050fd",
+               "name": "Daniel Arroyo",
+               "profile_path": null,
+               "id": 1521172,
+               "order": 19
+            },
+            {
+               "cast_id": 22,
+               "character": "Representante asamblea (uncredited)",
+               "gender": 0,
+               "credit_id": "587a6cc3c3a3684a2700563b",
+               "name": "Farnesio de Bernal",
+               "profile_path": null,
+               "id": 104393,
+               "order": 20
+            },
+            {
+               "cast_id": 23,
+               "character": "Don Milos Popovich (uncredited)",
+               "gender": 2,
+               "credit_id": "587a6ce49251413eec005137",
+               "name": "Victorio Blanco",
+               "profile_path": null,
+               "id": 1026994,
+               "order": 21
+            },
+            {
+               "cast_id": 24,
+               "character": "Invitada a recepción (uncredited)",
+               "gender": 0,
+               "credit_id": "587a6cf99251413eba005291",
+               "name": "Queta Carrasco",
+               "profile_path": null,
+               "id": 1464669,
+               "order": 22
+            },
+            {
+               "cast_id": 25,
+               "character": "Invitada a recepción (uncredited)",
+               "gender": 0,
+               "credit_id": "587a6d17c3a3684a650056c8",
+               "name": "Velia Lupercio",
+               "profile_path": null,
+               "id": 1671583,
+               "order": 23
+            },
+            {
+               "cast_id": 26,
+               "character": "Invitado a recepción (uncredited)",
+               "gender": 0,
+               "credit_id": "587a6d32c3a368494c004d83",
+               "name": "Enrique Garcia Alvarez",
+               "profile_path": null,
+               "id": 553164,
+               "order": 24
+            },
+            {
+               "cast_id": 27,
+               "character": "Invitado a recepción (uncredited)",
+               "gender": 0,
+               "credit_id": "587a6d53c3a3684a9e0051ce",
+               "name": "Manuel Trejo Morales",
+               "profile_path": null,
+               "id": 1718444,
+               "order": 25
+            },
+            {
+               "cast_id": 28,
+               "character": "Invitado a recepción (uncredited)",
+               "gender": 0,
+               "credit_id": "587a6d6dc3a36846c300488d",
+               "name": "Manuel Zozaya",
+               "profile_path": null,
+               "id": 590514,
+               "order": 26
+            },
+            {
+               "cast_id": 29,
+               "character": "Secretario (uncredited)",
+               "gender": 0,
+               "credit_id": "587a6d95c3a3684a270056db",
+               "name": "Jorge Casanova",
+               "profile_path": null,
+               "id": 31325,
+               "order": 27
+            },
+            {
+               "cast_id": 30,
+               "character": "Embajador de Tequesquite (uncredited)",
+               "gender": 0,
+               "credit_id": "587a6db29251413f33005589",
+               "name": "Gerardo del Castillo",
+               "profile_path": null,
+               "id": 1460902,
+               "order": 28
+            },
+            {
+               "cast_id": 31,
+               "character": "Representanre de Bolognia (uncredited)",
+               "gender": 2,
+               "credit_id": "587a6dd79251413f1b005867",
+               "name": "Aarón Hernán",
+               "profile_path": "/zjIrtnDJBPJBMpX75qEKjQJKO99.jpg",
+               "id": 148184,
+               "order": 29
+            },
+            {
+               "cast_id": 32,
+               "character": "Comisario en cena (uncredited)",
+               "gender": 0,
+               "credit_id": "587a6e08c3a3684a4a005906",
+               "name": "Victor Eberg",
+               "profile_path": null,
+               "id": 1192812,
+               "order": 30
+            },
+            {
+               "cast_id": 33,
+               "character": "Comisario en cena (uncredited)",
+               "gender": 0,
+               "credit_id": "587a6e19c3a3684a9e005267",
+               "name": "Pedro Elviro",
+               "profile_path": null,
+               "id": 148577,
+               "order": 31
+            },
+            {
+               "cast_id": 34,
+               "character": "Comisario en cena (uncredited)",
+               "gender": 0,
+               "credit_id": "587a6e3cc3a36849ff004f93",
+               "name": "Rubén Márquez",
+               "profile_path": null,
+               "id": 1507530,
+               "order": 32
+            },
+            {
+               "cast_id": 35,
+               "character": "Comisario en cena (uncredited)",
+               "gender": 0,
+               "credit_id": "587a6e56c3a3684a650057a3",
+               "name": "Fernando Yapur",
+               "profile_path": null,
+               "id": 1507534,
+               "order": 33
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe46b4c3a36847f810d931",
+               "name": "Miguel M. Delgado",
+               "profile_path": null,
+               "id": 125071,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "587a72f09251413f46005550",
+               "name": "Luis Fernández",
+               "profile_path": null,
+               "id": 1641257,
+               "department": "Crew",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "587a70549251413eba0054eb",
+               "name": "Cantinflas",
+               "profile_path": "/jGPFk48OwwaX4VzDd0Ne9vcP6kC.jpg",
+               "id": 29518,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "587a70699251413f330057a5",
+               "name": "Carlos León",
+               "profile_path": null,
+               "id": 1642100,
+               "department": "Writing",
+               "job": "Dialogue"
+            },
+            {
+               "gender": 2,
+               "credit_id": "587a707dc3a36847e8005dbd",
+               "name": "Jacques Gelman",
+               "profile_path": null,
+               "id": 1623713,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "587a70a2c3a3684a4a005b37",
+               "name": "Sergio Guerrero",
+               "profile_path": null,
+               "id": 1066868,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "587a70edc3a36846c3004ac9",
+               "name": "Gabriel Figueroa",
+               "profile_path": "/8TPCePwZk9A6rzYZGkVHwcqt7Rr.jpg",
+               "id": 11968,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "587a70f89251413f0f0055f3",
+               "name": "Rosalío Solano",
+               "profile_path": null,
+               "id": 31317,
+               "department": "Crew",
+               "job": "Cinematography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "587a7108c3a36847e8005e24",
+               "name": "Jorge Busto",
+               "profile_path": null,
+               "id": 31220,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "587a71189251413eba005572",
+               "name": "Roberto Silva",
+               "profile_path": null,
+               "id": 1000924,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "587a71299251413f0f005622",
+               "name": "Ana Guerrero",
+               "profile_path": null,
+               "id": 31870,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "587a714f9251413eec00547b",
+               "name": "Alfonso Govea",
+               "profile_path": null,
+               "id": 1715662,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "587a71719251413eba0055b5",
+               "name": "Guadalupe Gorráez",
+               "profile_path": null,
+               "id": 1095157,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "587a7193c3a36847e8005e81",
+               "name": "Alberto A. Ferrer",
+               "profile_path": null,
+               "id": 1056685,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "587a72029251413f1b005bc7",
+               "name": "Manuel Muñoz",
+               "profile_path": null,
+               "id": 1531297,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "587a730bc3a3684a65005b12",
+               "name": "James L. Fields",
+               "profile_path": null,
+               "id": 1511311,
+               "department": "Sound",
+               "job": "Sound"
+            },
+            {
+               "gender": 0,
+               "credit_id": "587a731dc3a36846c3004c5c",
+               "name": "Raúl Portillo",
+               "profile_path": null,
+               "id": 1626428,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "587a732e9251413ecb0057e7",
+               "name": "Galdino R. Samperio",
+               "profile_path": null,
+               "id": 31874,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "587a734a9251413e920057a2",
+               "name": "Juan Muñoz Ravelo",
+               "profile_path": null,
+               "id": 1637885,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "587a735bc3a36849ff005350",
+               "name": "Ángel Corona",
+               "profile_path": null,
+               "id": 1697367,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "587a736e9251413e920057be",
+               "name": "Luis Gaytán",
+               "profile_path": null,
+               "id": 1736499,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         }
+      ],
+      "popularity": 0.154548,
+      "production_countries": [{
+         "iso_3166_1": "MX",
+         "name": "Mexico"
+      }],
+      "id": 45190,
+      "vote_count": 2,
+      "budget": 0,
+      "overview": "Lopitos, who is horribly inefficient but quick-witted, is invited (because of the current ambassador's superstition about 13 sitting down to a meal) to a banquet attended by the ambassadors of both superpowers. After the news of a series of coups d'état in Los Cocos arrives throughout the meal, Lopitos becomes the official ambassador. At a summit of world leaders, the representatives of the two world superpowers court the allegiances of third-world diplomats to tilt the balance of global power in their favor. The last diplomat to remain unaligned, Lopitos instead harangues the superpowers for infringing on the rights of developing countries to self determination, talking to them with his point of view as a citizen not as ambassador because he arranged his demise as ambassador one day before his speech.",
+      "similar": [
+         35056,
+         9798,
+         9388,
+         26389,
+         38050,
+         56339,
+         77953,
+         161545,
+         9451,
+         10139,
+         5125,
+         16995,
+         4723,
+         1717,
+         9452,
+         352208,
+         12520,
+         49981,
+         25430,
+         17365
+      ],
+      "original_title": "Su excelencia",
+      "runtime": 133,
+      "poster_path": "/aVUi5xmaL8Aa92lf7xcDGLYtBj0.jpg",
+      "spoken_languages": [{
+         "name": "Español",
+         "iso_639_1": "es"
+      }],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "Posa Films",
+         "id": 65192,
+         "origin_country": ""
+      }],
+      "release_date": "1967-01-01",
+      "vote_average": 8.3,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Mexico",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Miguel M. Delgado"],
+      "runtime": 133,
+      "synopsis": null,
+      "writers": [
+         "Marco A. Almazán",
+         "Cantinflas"
+      ],
+      "originalLanguage": "Spanish",
+      "imdbLink": "http://www.imdb.com/title/tt0061038/",
+      "coverLink": null,
+      "actors": [
+         "Cantinflas",
+         "Sonia Infante",
+         "Guillermo Zetina"
+      ],
+      "reviews": [
+         "For the looks of it with so little votes the cantinflas movies recieve in IMDB I can say that there aren't many Cantinflas fans, but if you are one I recommend you see this one, it shows cantinflas not only as a clown but also trying to get a message through. I truly enjoyed this movie",
+         "Mario Moreno does it again with his role as an ambassador in this movie. It is very funny to see how he gets his position. The film is basically about communism v democracy. People from each party are trying to get enough votes to gain momentum in the \"united nations\". Because Cantinflas is the deciding vote, he is being bombarded by both sides. All the names of the nations are made up but you can tell who they represent. The film has a lot of funny moments but not quite as much as in previous films. The most memorable part of this movie is the ending. The speech he makes leaves you with chills. It seemed to show us Mario Morenos true feelings at such a delicate time in history. Overall, this movie is worth buying, especially if your a Cantinflas Fan!",
+         "In 1940, Charlie Chaplin released his classic \"The Great Dictator\". It used comedy to draw attention to the evils of Fascism and it ended with a beautiful and impassioned speech about brotherhood. Two and a half decades later, the Mexican comic, Cantinflas, released a film which bore many, many similarities to Chaplin's film. Though the times had changed, here in \"Su Excelencia\", Cantinflas makes fun of the Cold War and the film ends with a very similar sort of speech about brotherhood. Now I am NOT saying this later film is a remake--but I really do think one inspired the other. The film is set in a world with countries much like the Soviet and Western Bloc nations but all the names of the nations have been changed. Canfinflas plays Lopito--a lowly employee for his nation's embassy. However, in a funny scene, a dinner party is disrupted when they hear of a coup--and the ambassador is replaced. And, by the time the dinner is complete, three MORE coups occur--leaving Lopito as the new ambassador! Now that he's suddenly an important man, forces from the Red nations (i.e, communists) and Green nations (capitalists) begin pushing him for an upcoming vote--and his is the deciding vote. How Lopito handles all this is quite clever and graceful and the movie ends on a note VERY much like \"The Great Dictator\". If you are looking for a hilarious comedy, you should look elsewhere. Compared to many of Cantinflas' other films, it's much more serious and less goofy. This is NOT a criticism--I liked the social and political commentary in this film. While I was born, raised and live in a 'Green' nation, Cantinflas' speech had a lot of brilliance in it as he criticized both the Red and Green nations. Overall, a serious yet funny little comedy.",
+         "In the film, Cantinflas play the role of one of many public servers like anyone you can find in México: The mocking tone in the references of Mexican political class, nowadays remains unchanged, other faces came and goes there, however corruption and nepotism prevails...during the Cold War, México's politicians always searching stand in the middle but for more, the balance hangs to the right side, preferred to being closer to North American (\"Los Verdes\"=The Greens=Capitalists) instead to the Socialist Block (in the Movie referred as \"The Colorados\"=The Reds=Leftist or Cummunists)and the not alienated countries (as \"Los de Dulce\"=The marmalade flavored tamales=The countries in there without clearly influence of any of the two blocks). In the movie, Lupitos (Cantinflas) ahead a Janitors and Police Corps putsch in The Republic of the Cocos , Lupitos is designed a plenipotentional ambassador in Pepeslavia, similarities between The Eight Group convention and the Summit reunion to sign the destiny of nations, based in Lupitos vote, to unlined all countries in the block that obtain the majority of votes. The memorable Cantinflas-Lupitos's speech (the high top of moments of the film, previous the typical comic plotting of the Capitalists and Communists ambassadors for boodle Lupitos vote, lavishing in favors and prizes to get it) go straight to the deficiencies of both politic and economic doctrines explodes in the faces of Communists and Capitalists in this ultimate summit, pointing the disasters unchained in all third world, the misery, populations in one foot to the starve, war and terrible levels of poverty, repression and prosecution of dissident ideas, critics without concession to Capitalists or Communists, to finally saving to doomed all third world to be summit to influence of any of two power's countries .",
+         "Cantinflas made a nice history about the political situation of the world during Cold War focus also on Mexican issues. He relates the political concepts as the looks of a Mexican plate called \"tamales\" (as long as there are red sauce, green sauce and sweet tamales, you can imagine which political sides fits with the flavor), and also shows the vices of the Mexican bureaucracy. He played a little with the Cuban Revolution and also gave us a laugh over the spy movements of each side in order to try to get his vote to their side. But the most important moment is his speech, where, instead of giving his vote to any side, he asks the world to let any country to decide freely their destiny, as long as he wishes a world of peace. His last worlds are strumming. \"A man said 'love each other' but we changed to 'war each other' \". Yes, he can be a hippie in the middle of the U.N. but his message was tender and shape at the same time. A lot of people still things that this comedian would be a great President if he wanted to be it."
+      ],
+      "genres": [
+         "Comedy",
+         "Drama"
+      ],
+      "productionCompanies": ["Posa Films"],
+      "summaries": ["Lopez, treated derisively by all as Lopitos, is a humble but loyal citizen of Los Cocos Republic, working as an assistant at the chancellery, helping to process visas. Through a sudden series of events, namely the fear of the number 13 by the Los Cocos Ambassador, a strict protocol, three military coups and a revolution, all successful in the same day, with as much changes in governments, and ambassadors, Lopitos becomes the ambassador. Just when a powerful international struggle is taking place, and the Red and Green factions are vying to attract all the yet undecided votes amongst the nations of the world, to convene soon in an international conference to decide who will govern the world. It happens all nations have either lined up behind the \"Green\" banner, led by the money oriented Dolaronia, or the \"Red\" ideology, whose figurehead is the prime minister of socialist Pepeslavia; except, of course, the recently appointed civil government of Los Cocos. With the votes divided fifty-fifty between the Red and Green factions, diplomacy, bribery, and personal corruption fall heavily on the shoulders of His Excellency Lopitos, to gain his vote. His speech will be the last at the large assembly, after long tirades from adepts of both factions, and it is a speech to end all speeches."],
+      "budget": 0
+   },
+   "movielensId": 132654,
+   "movielens": {
+      "languages": ["Español"],
+      "releaseDate": "1967-01-01",
+      "dvdReleaseDate": null,
+      "directors": ["Miguel M. Delgado"],
+      "runtime": 133,
+      "movieId": 132654,
+      "title": "Su excelencia",
+      "mpaa": "",
+      "actors": [
+         "Cantinflas",
+         "Sonia Infante",
+         "Guillermo Zetina",
+         "Tito Junco",
+         "Miguel Manzano",
+         "José Gálvez",
+         "Víctor Alcocer",
+         "Maura Monti",
+         "Eduardo Alcaraz",
+         "Fernando Wagner",
+         "Carlos Riquelme",
+         "Quintín Bulnes",
+         "Eduardo MacGregor",
+         "Luis Manuel Pelayo",
+         "Fernando Mendoza",
+         "Antonio Medellin",
+         "Alberto Galán",
+         "Alberto Catalá",
+         "Ricardo Adalid",
+         "Daniel Arroyo",
+         "Farnesio de Bernal",
+         "Victorio Blanco",
+         "Queta Carrasco",
+         "Velia Lupercio",
+         "Enrique Garcia Alvarez",
+         "Manuel Trejo Morales",
+         "Manuel Zozaya",
+         "Jorge Casanova",
+         "Gerardo del Castillo",
+         "Aarón Hernán",
+         "Victor Eberg",
+         "Pedro Elviro",
+         "Rubén Márquez",
+         "Fernando Yapur"
+      ],
+      "imdbMovieId": "0061038",
+      "originalTitle": "Su excelencia",
+      "genres": [
+         "Comedy",
+         "Drama"
+      ],
+      "youtubeTrailerIds": ["ZlAD689lpsw"],
+      "plotSummary": "Lopitos, who is horribly inefficient but quick-witted, is invited (because of the current ambassador's superstition about 13 sitting down to a meal) to a banquet attended by the ambassadors of both superpowers. After the news of a series of coups d'état in Los Cocos arrives throughout the meal, Lopitos becomes the official ambassador. At a summit of world leaders, the representatives of the two world superpowers court the allegiances of third-world diplomats to tilt the balance of global power in their favor. The last diplomat to remain unaligned, Lopitos instead harangues the superpowers for infringing on the rights of developing countries to self determination, talking to them with his point of view as a citizen not as ambassador because he arranged his demise as ambassador one day before his speech.",
+      "tmdbMovieId": 45190,
+      "avgRating": 3.5,
+      "releaseYear": "1967",
+      "numRatings": 3,
+      "posterPath": "/aVUi5xmaL8Aa92lf7xcDGLYtBj0.jpg"
+   }
+}

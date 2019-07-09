@@ -1,0 +1,531 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [],
+      "imdb_id": "tt4154004",
+      "video": false,
+      "title": "The Unbidden",
+      "recommendations": [],
+      "backdrop_path": null,
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 0,
+               "character": "Lauren Lee",
+               "gender": 1,
+               "credit_id": "57f52d149251413f1c000354",
+               "name": "Tamlyn Tomita",
+               "profile_path": "/iX6zGWXFWLdUnxaVebXGzXXwgft.jpg",
+               "id": 3134,
+               "order": 1
+            },
+            {
+               "cast_id": 1,
+               "character": "Kat",
+               "gender": 1,
+               "credit_id": "57f52d1f9251413f1f00039e",
+               "name": "Julia Nickson",
+               "profile_path": "/zQzqbbfixENqr2NLp92EOtL7POQ.jpg",
+               "id": 16578,
+               "order": 2
+            },
+            {
+               "cast_id": 2,
+               "character": "Young Lauren",
+               "gender": 1,
+               "credit_id": "57f52d2ac3a3687c8d000323",
+               "name": "Michelle Krusiec",
+               "profile_path": "/9wA6VGNr3Z6lY8DZGBO9MOTCSB3.jpg",
+               "id": 55253,
+               "order": 3
+            },
+            {
+               "cast_id": 3,
+               "character": "Derek",
+               "gender": 2,
+               "credit_id": "57f52d349251413f2c000356",
+               "name": "Hayden Szeto",
+               "profile_path": "/94YcdDdlF6amOwXHl2J9t9lhIbk.jpg",
+               "id": 1560379,
+               "order": 4
+            },
+            {
+               "cast_id": 4,
+               "character": "Rachel",
+               "gender": 1,
+               "credit_id": "57f52d3d9251413f29000364",
+               "name": "Amy Hill",
+               "profile_path": "/aJ6hQSvpt4zVZVnJmElIAEkaDfc.jpg",
+               "id": 59401,
+               "order": 5
+            },
+            {
+               "cast_id": 5,
+               "character": "Anna",
+               "gender": 1,
+               "credit_id": "57f52d46c3a3687c8d000331",
+               "name": "Elizabeth Sung",
+               "profile_path": "/tXKGsjICPdgeQHp2MUzV2FQmvyw.jpg",
+               "id": 19861,
+               "order": 6
+            },
+            {
+               "cast_id": 6,
+               "character": "Jake",
+               "gender": 0,
+               "credit_id": "57f52d4e9251413f260003c0",
+               "name": "Jason Yee",
+               "profile_path": "/1Go61d3ZtAkKrHjL7G054tXGnXO.jpg",
+               "id": 306870,
+               "order": 7
+            },
+            {
+               "cast_id": 7,
+               "character": "Young Anna",
+               "gender": 1,
+               "credit_id": "57f52d59c3a3687c7e000335",
+               "name": "Karin Anna Cheung",
+               "profile_path": "/hx54LBgCkzEl58mg8pHGKfDidxt.jpg",
+               "id": 61997,
+               "order": 8
+            },
+            {
+               "cast_id": 8,
+               "character": "Young Kat",
+               "gender": 0,
+               "credit_id": "57f52d63c3a3687c79000365",
+               "name": "Akemi Look",
+               "profile_path": null,
+               "id": 1677347,
+               "order": 9
+            },
+            {
+               "cast_id": 9,
+               "character": "Young Rachel",
+               "gender": 0,
+               "credit_id": "57f52d6fc3a3687c71000324",
+               "name": "Kimberly-Rose Wolter",
+               "profile_path": null,
+               "id": 1382423,
+               "order": 10
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "57f52d91c3a3687c83000390",
+               "name": "Quentin Lee",
+               "profile_path": null,
+               "id": 231550,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57f52d9ac3a3687c6f000393",
+               "name": "Narhee Ahn",
+               "profile_path": null,
+               "id": 1689609,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57f52db1c3a3687c8d000363",
+               "name": "Narhee Ahn",
+               "profile_path": null,
+               "id": 1689609,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57f52dbcc3a3687c6f0003a4",
+               "name": "Karen M. Gee",
+               "profile_path": null,
+               "id": 1689610,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57f52dc6c3a3687c8800037d",
+               "name": "Quentin Lee",
+               "profile_path": null,
+               "id": 231550,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57f52dcfc3a3687c7e00036f",
+               "name": "Charles Lei",
+               "profile_path": null,
+               "id": 1689611,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57f52de09251413f29000393",
+               "name": "Xiaoming Yan",
+               "profile_path": null,
+               "id": 1117860,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57f52df4c3a3687c790003ad",
+               "name": "Stanley Yung",
+               "profile_path": null,
+               "id": 102696,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57f52e00c3a3687c8d000389",
+               "name": "Steven Pranoto",
+               "profile_path": null,
+               "id": 1689612,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57f52e0bc3a3687c71000370",
+               "name": "Len Borruso",
+               "profile_path": null,
+               "id": 1689613,
+               "department": "Crew",
+               "job": "Cinematography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57f52e1f9251413f290003c1",
+               "name": "Matthaeus Szumanski",
+               "profile_path": null,
+               "id": 1689614,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57f52e28c3a3687c830003ea",
+               "name": "Narhee Ahn",
+               "profile_path": null,
+               "id": 1689609,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57f52e319251413f1f000445",
+               "name": "Quentin Lee",
+               "profile_path": null,
+               "id": 231550,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57f52e3f9251413f190003fc",
+               "name": "Reed Johns",
+               "profile_path": null,
+               "id": 1276442,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57f52e61c3a3687c7e0003c9",
+               "name": "Maria Trujillo",
+               "profile_path": null,
+               "id": 1689615,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57f52e6dc3a3687c940003f5",
+               "name": "John Physioc",
+               "profile_path": null,
+               "id": 1689616,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57f52e7ac3a3687c790003ef",
+               "name": "Melynda Choothesa",
+               "profile_path": null,
+               "id": 1689617,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57f52e979251413f26000457",
+               "name": "Kumiko Ando",
+               "profile_path": null,
+               "id": 1689618,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57f52eb09251413f1f00048a",
+               "name": "Kurt Ewell",
+               "profile_path": null,
+               "id": 1689619,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57f52eba9251413f17000452",
+               "name": "Yoko Kizu",
+               "profile_path": null,
+               "id": 1689620,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57f52ed29251413f2c000438",
+               "name": "Akiko Matsumoto",
+               "profile_path": null,
+               "id": 1451902,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57f52edec3a3687c710003e0",
+               "name": "Saori Nakada",
+               "profile_path": null,
+               "id": 1410256,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Department Head"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57f52ee89251413f29000433",
+               "name": "Narhee Ahn",
+               "profile_path": null,
+               "id": 1689609,
+               "department": "Crew",
+               "job": "Second Unit"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57f52f099251413f2100041c",
+               "name": "Kevin Huie",
+               "profile_path": null,
+               "id": 1689621,
+               "department": "Camera",
+               "job": "First Assistant Camera"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57f52f2f9251413f21000430",
+               "name": "Aaron Aoki",
+               "profile_path": null,
+               "id": 1547070,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57f52f3ec3a3687c8300049b",
+               "name": "Thomas Isao Morinaka",
+               "profile_path": null,
+               "id": 1547071,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57f52f4d9251413f1c000478",
+               "name": "Joe Cheung",
+               "profile_path": null,
+               "id": 1689622,
+               "department": "Camera",
+               "job": "First Assistant Camera"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57f52f65c3a3687c94000487",
+               "name": "Irvin Liu",
+               "profile_path": null,
+               "id": 1689623,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57f52f70c3a3687c6f00048b",
+               "name": "Trent Nakamura",
+               "profile_path": null,
+               "id": 1689624,
+               "department": "Crew",
+               "job": "Cinematography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57f52f8cc3a3687c6f00049e",
+               "name": "Brandon Yang",
+               "profile_path": null,
+               "id": 1689625,
+               "department": "Camera",
+               "job": "Grip"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57f52fb69251413f1f00051c",
+               "name": "Justin Cook",
+               "profile_path": null,
+               "id": 1689626,
+               "department": "Production",
+               "job": "Publicist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57f52fc0c3a3687c830004dc",
+               "name": "Ann M. Doria",
+               "profile_path": null,
+               "id": 1392229,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Thriller",
+            "id": 53
+         },
+         {
+            "name": "Horror",
+            "id": 27
+         },
+         {
+            "name": "Mystery",
+            "id": 9648
+         }
+      ],
+      "popularity": 0.153198,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 419471,
+      "vote_count": 1,
+      "budget": 0,
+      "overview": "The Unbidden is a thriller about four women confronted by a mysterious young man who knows a dark secret from their past.",
+      "similar": [],
+      "original_title": "The Unbidden",
+      "runtime": 84,
+      "poster_path": "/dmVoJ0juPYoTcZZqJI5fPGftpX7.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Thunder Communications International",
+            "id": 82084,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Margin Films",
+            "id": 71972,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2016-04-22",
+      "vote_average": 3,
+      "belongs_to_collection": null,
+      "tagline": "Horror, Mystery, Thriller",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Quentin Lee"],
+      "runtime": 84,
+      "synopsis": null,
+      "writers": ["Narhee Ahn"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt4154004/",
+      "coverLink": "https://ia.media-imdb.com/images/M/MV5BMjM0NTA3NDkwOF5BMl5BanBnXkFtZTgwNzQ0NDc0OTE@._V1_UY268_CR2,0,182,268_AL_.jpg",
+      "actors": [
+         "Tamlyn Tomita",
+         "Julia Nickson",
+         "Amy Hill"
+      ],
+      "reviews": [
+         "Lauren (Tamlyn Tomita) is a writer who is annoyed by spirits who pull off her covers...big deal in Canada, not so big in Southern California. Her three best friends opt to have a seance on the night of the anniversary of a death, we presume her mother. As the night goes on, they get an unexpected guest, a son (Hayden Szeto) who wants to locate his biological mother. At this point we get an all too lengthy tale including Lauren's \"daddy-bad\" story which didn't add much to the film. The film has a great twist. The lines were, for the most part well written. It displayed a certain amount of humor and nonchalant attitude toward actual proof of a spirit, while Kat (Julia Nickson) remained skeptical and cynical...\"The house is always settling\" as things fly off the table. The script was better written than directed. It grew boring. Scenes should have been cut. The deliveries (except for Amy Hill) were bad. Asians make up half the planet and about 1 % of the successful comedians. They needed a more diverse cast, like an uppity black woman play Anna who didn't like ghosts. And was it just me, but did the young Kat looked about 6 inches taller than the older Kat? Narhee Ahn had the script for a horror classic. Quentin Lee dropped the ball. Guide: No swearing. No nudity. Brief clothed sex scene.",
+         "very bad acting in conversations made this movie a pain to watch. Many, many scenes feel as if the actors read their lines from a tele-prompter for the first time - rather than having learned them. Acting and vocalization feels utterly unnatural and the lines are delivered so badly that i had to cringe more often than not. In addition to the poor dialogue - the actors rarely seemed to actually talk to each other - and rather seemed to talk to the camera, which - naturally - destroyed any possible chemistry between them. Meanwhile - some of the acting that was not about talking - was not too bad and felt much more natural. The story ..... well... it felt like a rip off from some tele-novela - and because the protagonists had no chemistry ... had little to no impact at all. There are no surprises, no twists, no turns, no character development, nothing. So i am sorry to say that this movie was pretty bad - and a good example how not to do conversations in movies."
+      ],
+      "genres": [
+         "Horror",
+         "Mystery",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Margin Films",
+         "Thunder Communications International"
+      ],
+      "summaries": ["The Unbidden is a thriller about four women confronted by a mysterious young man who knows a dark secret from their past."],
+      "budget": 0
+   },
+   "movielensId": 166476,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2016-04-22",
+      "dvdReleaseDate": null,
+      "directors": ["Quentin Lee"],
+      "runtime": 84,
+      "movieId": 166476,
+      "title": "The Unbidden",
+      "mpaa": "",
+      "actors": [
+         "Tamlyn Tomita",
+         "Julia Nickson",
+         "Michelle Krusiec",
+         "Hayden Szeto",
+         "Amy Hill",
+         "Elizabeth Sung",
+         "Jason Yee",
+         "Karin Anna Cheung",
+         "Akemi Look",
+         "Kimberly-Rose Wolter"
+      ],
+      "imdbMovieId": "4154004",
+      "originalTitle": "The Unbidden",
+      "genres": [
+         "Thriller",
+         "Horror",
+         "Mystery"
+      ],
+      "youtubeTrailerIds": [
+         "2aZJaY8jsYg",
+         "z1CMCsgDibo"
+      ],
+      "plotSummary": "The Unbidden is a thriller about four women confronted by a mysterious young man who knows a dark secret from their past.",
+      "tmdbMovieId": 419471,
+      "avgRating": 1.75,
+      "releaseYear": "2016",
+      "numRatings": 2,
+      "posterPath": "/dmVoJ0juPYoTcZZqJI5fPGftpX7.jpg"
+   }
+}

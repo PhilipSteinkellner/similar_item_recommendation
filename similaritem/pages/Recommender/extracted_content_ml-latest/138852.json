@@ -1,0 +1,510 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "suicide attempt",
+            "id": 1252
+         },
+         {
+            "name": "bridge",
+            "id": 3450
+         },
+         {
+            "name": "single",
+            "id": 9457
+         },
+         {
+            "name": "revenge",
+            "id": 9748
+         }
+      ],
+      "imdb_id": "tt0120013",
+      "video": false,
+      "title": "The Revengers' Comedies",
+      "recommendations": [
+         14708,
+         26202,
+         25212,
+         34101,
+         30278,
+         55950,
+         66599,
+         10034,
+         29463,
+         26156,
+         51036,
+         75686,
+         4916,
+         18530,
+         20759,
+         41938,
+         50043,
+         19496,
+         44941,
+         26261
+      ],
+      "backdrop_path": "/tLNqCLa89R2Ej1WJD6cWB2K3BP1.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 13,
+               "character": "Henry Bell",
+               "gender": 2,
+               "credit_id": "52fe433dc3a36847f8044de9",
+               "name": "Sam Neill",
+               "profile_path": "/1ZHExb2rz6210NutoUhQcqQpwnl.jpg",
+               "id": 4783,
+               "order": 0
+            },
+            {
+               "cast_id": 14,
+               "character": "Karen Knightly",
+               "gender": 1,
+               "credit_id": "52fe433dc3a36847f8044ded",
+               "name": "Helena Bonham Carter",
+               "profile_path": "/rHZMwkumoRvhKV5ZvwBONKENAhG.jpg",
+               "id": 1283,
+               "order": 1
+            },
+            {
+               "cast_id": 20,
+               "character": "Col. Marcus",
+               "gender": 2,
+               "credit_id": "52fe433dc3a36847f8044e01",
+               "name": "John Wood",
+               "profile_path": "/bWt4JT9eGxFtu3q0iCAKFtNv5XK.jpg",
+               "id": 8937,
+               "order": 2
+            },
+            {
+               "cast_id": 15,
+               "character": "Oliver Knightly",
+               "gender": 2,
+               "credit_id": "52fe433dc3a36847f8044df1",
+               "name": "Rupert Graves",
+               "profile_path": "/erhJMyO6Cuh95TmSTAfQHNfCAi9.jpg",
+               "id": 11278,
+               "order": 3
+            },
+            {
+               "cast_id": 16,
+               "character": "Anthony Staxton-Billing",
+               "gender": 2,
+               "credit_id": "52fe433dc3a36847f8044df5",
+               "name": "Martin Clunes",
+               "profile_path": "/vkXWi8amQC9sUjYkoVrQAiVrBpB.jpg",
+               "id": 22159,
+               "order": 4
+            },
+            {
+               "cast_id": 17,
+               "character": "Bruce Tick",
+               "gender": 2,
+               "credit_id": "52fe433dc3a36847f8044df9",
+               "name": "Steve Coogan",
+               "profile_path": "/ljhsNmGQQrgeBj64x5uL27U6UqY.jpg",
+               "id": 4581,
+               "order": 5
+            },
+            {
+               "cast_id": 19,
+               "character": "Imogen Staxton-Billing",
+               "gender": 1,
+               "credit_id": "52fe433dc3a36847f8044dfd",
+               "name": "Kristin Scott Thomas",
+               "profile_path": "/9NuZGaPn3Z1svlbF9ZkdtjgrHZo.jpg",
+               "id": 5470,
+               "order": 6
+            },
+            {
+               "cast_id": 21,
+               "character": "Winnie",
+               "gender": 1,
+               "credit_id": "53c492df0e0a261df7001040",
+               "name": "Liz Smith",
+               "profile_path": "/rFmFjKTl9Drjv7tA687miEyn1tG.jpg",
+               "id": 7320,
+               "order": 7
+            },
+            {
+               "cast_id": 22,
+               "character": "Percy Cutting",
+               "gender": 2,
+               "credit_id": "53c492ee0e0a261df7001044",
+               "name": "Adrian Scarborough",
+               "profile_path": "/i4oo8zApNAbKQKI4yKc0T571dBI.jpg",
+               "id": 40311,
+               "order": 8
+            },
+            {
+               "cast_id": 23,
+               "character": "Norma",
+               "gender": 1,
+               "credit_id": "58ff6a87c3a3685f7b0002c4",
+               "name": "Charlotte Coleman",
+               "profile_path": "/tMJLpQaCeoqa4taaPpXpL8TS6b.jpg",
+               "id": 10729,
+               "order": 9
+            },
+            {
+               "cast_id": 24,
+               "character": "Daphne Teal",
+               "gender": 1,
+               "credit_id": "58ff6aadc3a3685eea000328",
+               "name": "Anita Dobson",
+               "profile_path": "/9gX1DJ2CAfGJZA1bmR2rh3kEDMP.jpg",
+               "id": 148543,
+               "order": 10
+            },
+            {
+               "cast_id": 25,
+               "character": "Hilary Tick",
+               "gender": 0,
+               "credit_id": "58ff6ad4c3a3685f810002f1",
+               "name": "Sandra Reinton",
+               "profile_path": null,
+               "id": 1803561,
+               "order": 11
+            },
+            {
+               "cast_id": 26,
+               "character": "Lydia",
+               "gender": 1,
+               "credit_id": "58ff6ae09251413aea000336",
+               "name": "Zoe Hilson",
+               "profile_path": null,
+               "id": 1212889,
+               "order": 12
+            },
+            {
+               "cast_id": 27,
+               "character": "Damien Tick",
+               "gender": 0,
+               "credit_id": "58ff6af2c3a3685f7b0002ff",
+               "name": "Jamie O'Brien",
+               "profile_path": null,
+               "id": 1705261,
+               "order": 13
+            },
+            {
+               "cast_id": 28,
+               "character": "Wine Waiter",
+               "gender": 0,
+               "credit_id": "58ff6b049251413aee00032e",
+               "name": "François Domange",
+               "profile_path": null,
+               "id": 1479870,
+               "order": 14
+            },
+            {
+               "cast_id": 29,
+               "character": "Lorry Driver",
+               "gender": 2,
+               "credit_id": "58ff6b0fc3a3685f210002f8",
+               "name": "Dicken Ashworth",
+               "profile_path": "/wqmO8F6kL53ZWe0wTIieIOCC0HS.jpg",
+               "id": 127151,
+               "order": 15
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe433cc3a36847f8044da3",
+               "name": "Malcolm Mowbray",
+               "profile_path": null,
+               "id": 22151,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe433cc3a36847f8044da9",
+               "name": "Malcolm Mowbray",
+               "profile_path": null,
+               "id": 22151,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe433cc3a36847f8044daf",
+               "name": "Alan Ayckbourn",
+               "profile_path": null,
+               "id": 22152,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe433cc3a36847f8044db5",
+               "name": "Simon Bosanquet",
+               "profile_path": null,
+               "id": 9176,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe433cc3a36847f8044dbb",
+               "name": "Alexandre Desplat",
+               "profile_path": "/sdGjvOGJqjK1CTbxRedE64Txk0t.jpg",
+               "id": 2949,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe433cc3a36847f8044dc1",
+               "name": "Romain Winding",
+               "profile_path": null,
+               "id": 22153,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe433cc3a36847f8044dc7",
+               "name": "Barrie Vince",
+               "profile_path": null,
+               "id": 22154,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe433dc3a36847f8044dcd",
+               "name": "Michelle Guish",
+               "profile_path": null,
+               "id": 5489,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe433dc3a36847f8044dd3",
+               "name": "Stuart Walker",
+               "profile_path": null,
+               "id": 22155,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe433dc3a36847f8044dd9",
+               "name": "Charmian Adams",
+               "profile_path": null,
+               "id": 22156,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe433dc3a36847f8044ddf",
+               "name": "Diane Dancklefsen",
+               "profile_path": null,
+               "id": 22157,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe433dc3a36847f8044de5",
+               "name": "Anushia Nieradzik",
+               "profile_path": null,
+               "id": 19991,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Crime",
+            "id": 80
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 2.380052,
+      "production_countries": [
+         {
+            "iso_3166_1": "FR",
+            "name": "France"
+         },
+         {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+         }
+      ],
+      "id": 2166,
+      "vote_count": 10,
+      "budget": 0,
+      "overview": "After saving each other from jumping off a bridge, Henry Bell (Sam Neill) and Karen Knightly (Helena Bonham Carter) plot to avenge the people who drove them to suicide. Henry will ruin the life of the woman (Kristin Scott Thomas) who married Karen's boyfriend, while Karen will work as a secretary for the man (Steve Coogan) who took Henry's job. Whether revenge will be sweet \u2013 or bittersweet \u2013 is anyone's guess.",
+      "similar": [
+         3134,
+         979,
+         156022,
+         281,
+         395834,
+         357096,
+         281957,
+         37835,
+         74997,
+         26789,
+         2142,
+         8292,
+         994,
+         23587,
+         40805,
+         11423,
+         2652,
+         8456,
+         87,
+         238636
+      ],
+      "original_title": "The Revengers' Comedies",
+      "runtime": 86,
+      "poster_path": "/2JU461VrEjmYaqiEVRz0Mla5Ih9.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "IMA Productions",
+            "id": 4790,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/tuomPhY2UtuPTqqFnKMVHvSb724.png",
+            "name": "HBO",
+            "id": 3268,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": null,
+            "name": "Arts Council of England",
+            "id": 718,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "France 2 Cinéma",
+            "id": 15671,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1998-06-09",
+      "vote_average": 4.8,
+      "belongs_to_collection": null,
+      "tagline": "Getting Even... Just Got Even Funnier!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Malcolm Mowbray"],
+      "runtime": 86,
+      "synopsis": null,
+      "writers": [
+         "Alan Ayckbourn",
+         "Malcolm Mowbray"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0120013/",
+      "coverLink": "https://ia.media-imdb.com/images/M/MV5BMTQ4MTIwOTM4M15BMl5BanBnXkFtZTcwNDcyMDYyMQ@@._V1_UY268_CR4,0,182,268_AL_.jpg",
+      "actors": [
+         "Sam Neill",
+         "Helena Bonham Carter",
+         "Kristin Scott Thomas"
+      ],
+      "reviews": [
+         "A little-known gem I picked up on the other night, this film really is so very, very amusing. Helena Bonham Carter steals the show as a completely insane upper class psychopath, and is supported with stellar performances from Sam Neill as her awkward accomplice, Rupert Graves as her odd brother, and Kristin Scott Thomas being the target of her vendetta. Special mentions go to the hilarious Steve Coogan and to Martin Clunes as the obnoxious husband. The storyline is old as day (based on Hitchcock's 'Strangers on a Train'), and yet with its quintessentially British humour, manages to be highly entertaining. I would certainly recommend it; it has the viewer chortling the entire way through, and is short, snappy, and a good laugh on a Sunday afternoon.",
+         "British humor is distinctly different from American humor and this film illustrates that point nicely. American humor hits you with a sledgehammer, with outrageous gags and extremely explicit content. British humor is full of innuendo, irony and subtlety. It is thoughtful wit, full of `aha!' moments. This is why Americans often refer to British humor as being dry, mostly because we don't like pondering over our comedy. We prefer a guffaw to a good snicker. In this film, Karen (Helena Bonham Carter) and Henry (Sam Neill) meet one night on a bridge where they both went to commit suicide. Henry is interrupted from jumping by the cries of Karen who has botched her attempt. After he saves her, they commiserate and decide that getting revenge would be better than committing suicide. They make a pact where each of them agrees to even the score for the other with their respective objects of contempt. Karen becomes a secretary to Henry's old boss (Steve Coogan) and proceeds to make his life a living hell, convincing his wife he is having an affair. Henry's target is Imogen (Kristen Scott Thomas), whom Karen hates because she stole her husband back from Karen, with whom he was having an affair. The film is replete with highbrow humor that you would only see in an English film. There is plenty of class-warfare comedy poking fun at the aristocracy. Helena Bonham Cater is brilliantly droll as the diabolical Karen. She is deliciously evil as she cunningly plots Bruce's demise. Long known as a terrific dramatic actor, Bonham Carter shows here that she can convert that energy into an intensely offbeat and funny character with equal impact. Sam Neill is also entertaining as Henry, a bumbling victim of fate who allows himself to be swept along by circumstances. Kristin Scott Thomas does a superb job of portraying Imogen, a woman steeped in affectation and arrogance, who ultimately becomes a casualty of love. This highly entertaining film requires a certain refined sense of humor to enjoy. I rated it an 8/10. It will lack punch for the average viewer, but for the viewer who enjoys subtlety and irony it will be amusing and enjoyable.",
+         "If you want to know what people mean when they say the British are superb in creating droll comedies and you do not know what they are talking about, watch this movie! You also get the benefit of seeing a movie that gives new meanings to words like ironic, satiric, quaint, bucolic, whimsical and hilarious. The three leads are superb, but watch for the secondary leads, such as the boss who gets the axe by his wife due to his being set up, or the husband who gets shot by accident and everyone is ecstatic or, best of all, the head housekeeper who is taking two or three years to break in her replacement. Get it, rent it, do whatever you need to do to see it and laugh. Then sit around as I am with impatience waiting for the sequel.",
+         "If you view a great British comedy in the right mood, it can be a splendid evenings entertainment. First you have to get past the dialect, and the faster the lines are delivered, the more challenging this becomes. However, if the laughs are there they will come through loud and clear. Unfortunately this is not the case with \"Sweet Revenge\". This totally predictable and uninspired effort, fails on several levels. The punchlines are telegraphed well in advance. The script is in many places more mean spirited than funny. Do yourself a favor. If you want to see a wonderful, dark, British comedy, seek out \"Car Trouble\" and skip this one. - MERK",
+         "I like this movie, and when I was in the habit of watching films, or sections of them, over and again, this was a favourite of mine to dip into. It has some very good moments, for the reason of being both funny and very well acted. I'd heard the play in a lengthier form on the radio some years before, so I was familiar with the story, and I was pleased to see Steve Coogan in an early film role (he is horribly wonderful as Bruce Tick). However, something about the film has always bothered me, and it actually only occurred to me very recently just what it is. It is that all of the young male leads are in the wrong roles. I just can't believe that Sam Neil would even consider the option of suicide (not a giveaway - this is the beginning of the film). Martin Clunes would have been better as Henry Bell - but it was the central role, and Sam Neil was the bigger name. Helena Bonham-Carter has lots of fun playing the psychotic woman. Utterly convincing, and it's easy to see why poor old Henry gets mixed up with her. The Revengers Comedies (Sweet Revenge is a better title for this movie)is not a classic, but it's better than a lot of recent British comedy films, and is a faint echo of a craft in which we once excelled, a long time ago.",
+         "Like Harvey Fierstein's TORCH SONG TRILOGY, this two-part play almost demanded a name change before lensing, but all except the US market chose to do so (SWEET REVENGE, to us Yanks). Alan Ayckbourn's cutting comic caper concerns two desperate losers who opt for revenge instead of a midnight dive into the Thames. Fine Britress Helena Bonham Carter is the controlling \"she\" while sedate Ozian Sam Neil is the duller \"he\". Stick insect Kristin Scott Thomas replaces the much-missed Joanna Lumley from the stage version while a mopey Rupert Graves is serviceable as the wayward brother. This is only one of three Ayckbourn plays (out of 69) to make it to the big screen (A CHORUS OF DISAPPROVAL and SMOKING/NO SMOKING, the other two) and it's compression proves it's failing. The quaint Liz Smith is antic as the doddering maid. In the end, though, the fabric has been sliced and mended till the narrative is less than satisfying.",
+         "\"Sweet Revenge\" tells of a suicidal man (Neill) and woman (Carter) who meet on a London bridge and hatch a plot to dispose of the trouble-maker in each other's life. The film is a delightful British romp full of stodginess, stuffiness, silliness, and very dry British humor. Those with a taste for British wit will likely find this a fun comedy while those with no such taste will find it dull.",
+         "Since I saw this film when it was first aired in 1999 I was desperate to own it. I enjoyed it so much. Having also read the play I thought it was one of the best films I had ever seen. I finally managed to buy it after two years of searching, but it really is worth waiting two years for. The cast are amazing, especially Steve Coogan, who does an amazing job of playing the oily Bruce Tick. His acting is excellent, as is the rest of the celebrity cast. This is definitely one of the best British films I have ever seen, and is definitely worth watching, especially if you're a fan of British movies!",
+         "What a refreshing change to see such a witty comedy. The cast was excellent, especially Helena Bonham Carter who was outrageously wicked. But my only complaint is that it was too short. I wanted to see Helena's character work out the rest of her revenge plot.",
+         "This is a waste of 90 minutes, starring some excellent actors. What happened? I think this was intended to be another quirky English comedy. Unfortunately, the supposed humor generally feels mean-spirited. I kept expecting the plot was all about a scam or practical joke, and that the dead folks would pop up and start laughing. No such luck. The ending seems arbitrary and abrupt. The narration is pointless (was it intended to \"fix\" a major re-editing?). The other comments talk about this being a wonderful example of droll English humor. Yes, I realize the English tend to have a different sense of humor, but I wouldn't have considered this an example.",
+         "This movie put me to sleep. Classic example of how you can garner up all the great talent. But, with no script and bad direction, it just goes down the drain. Just keep walking past this one..... I was especially surprised since this group of actors usually is pretty picky about what they sign up for.",
+         "Alan Ackybourn has written some brilliantly black and farcical plays, but in Macolm Mowbray's hands, his 'Revenger's Comedies' come across merely as a jolly romp of little social relevance. The script sparkles in places, and Martin Clunes is very funny in his role, but as a whole, the piece never comes to life: perhaps it needs the intensity of theatrical staging, where the escalating sequence of events can be unfolded in greater mutual proximity than in a film. But there's also a sense I had in watching this that the script had been cut down; I don't know if this is true, but if so, it could explain why the script had an emasculated feeling, as if the dialogues between the characters had been reduced to outline form only. In general, I'm a big fan of this writer; but if you want to explore his work, you might be better starting somewhere else.",
+         "Henry (Sam Neill) has just lost his job and has been very unlucky in love, too. After hatching a plan to jump off a tall bridge, Henry is surprised to see that someone else is there ahead of him, with the same idea. Its Karen (Helena Bonham Carter), who has been dumped by a man she thought loved her very much. As Henry and Karen convince each other not to end it all, Karen proposes a plan straight out of Hitchcock. Karen will get revenge on Henry's ex boss if Henry will go after her ex and the wife to whom he returned. Bewildered and still emotionally raw, Henry agrees to talk about the idea back at Karen's home. Wait, its a castle and obviously the lady is quite rich. Doubting whether Henry is really sincere, she invites him to spend the night but, when he wakes, Henry's clothes are gone and he is tied to a bed. Nothing will free him except the promise of taking her ex down. He agrees. Soon, Karen has disguised herself as a frump and wormed her way into a temp job as Henry's ex-boss' (Steve Googan) secretary. Meanwhile, Henry reluctantly seeks out the farm where his targeted couple abide, including the lovely wife, Imogen (Kristin Scott Thomas). All too soon, Karen seems to be achieving her goals while Henry drags his feet, because Imogen has transfixed him. What, what will Karen do as revenge to Henry if he doesn't do her bidding? This is a funny tale but by no means exceptional. Neill is great as the hero trying to turn to the dark side for a bit while Bonham Carter is one nasty female. Thomas, Coogan, Rupert Graves and the others do nice supporting work. Sets, costumes, script and direction are quite above average. Therefore, those who enjoy British comedy and light romance will find this a satisfying view for an evening.",
+         "I really enjoyed this unusual mildly black comedy/drama of the kind only the British seem to be able to do well. It is understated and unpredictable with very solid performances all around. I even liked Helena Bonham Carter, who fit her role to a tee, since she was as annoying as usual, which was exactly what was called for. Although I expect that many people may find this film a bit slow and maybe even too cerebral compared with more modern fare (which doesn't really say much for our society, I think), I personally loved it and consider it another hidden gem.",
+         "Henry Bell is at the end of his rope having lost his job to the loathsome Bruce Tick and he heads to a bridge to kill himself. There he finds Karen Knightly trying to do the same but stuck on the ledge \u0096 he helps her of course and the two go for coffee. They discuss each others problems \u0096 basically both have been driven to despair by a different person each, in Karen's case, the wife of her lover Anthony Staxton-Billing. Karen hits on the plan that they swap revenges and each kill the source of the other's pain. Before he knows what is happening, Henry is put up as a guest at the Staxton-Billing's home and Karen heads to the city to work as Tick's secretary. However, as she manages to start to pick at her victim's life, Henry finds himself falling for his. Taking its starting point as the Hitchcock film Strangers on a Train, this comedy goes down a fairly predictable route without doing a great deal to make it stick in my mind. The script splits the film down the middle \u0096 on one hand we have the scheming Karen destroying Tick, while on the other we have Henry battling with Anthony for the love of his wife. The former is amusing if simple, while the latter is rather plodding mainly because it has to carry a narrative thread that will give the film something to end on. While it just about does enough to keep moving forward and be watchable, it never does anything that well. At no point did I laugh more than one chuckle perhaps, neither was I engaged by the plot beyond watching it unfold along the lines I knew it would. Failure to excel in any area whatsoever means that the end result is rather bland if not actually \"bad\". The cast match this tone and none of them have much that they can do a great deal with. Neill is therefore a bit wooden because he has the lesser role; Carter on the other hand enjoys herself and hams it up, providing at least a bit of colour to the role. Scott Thomas is rather bland and doesn't add a great deal, although Clunes is his enjoyable annoying self. Coogan is amusing but not annoying enough to make us wish for his fate \u0096 instead I felt rather sorry for him. Graves is \"wacky\" but Smith is funny, Wood is OK, Dobson plays the same screaming old tart that she always does although Coleman is cute. Overall, a fairly bland film that doesn't do anything that well. The plot is predictable but of some value in at least moving the film forward, but it moves it without providing any drama or laughs to engage the audience. It may provide enough to distract you if you are really undemanding but it is probably not worth the effort.",
+         "Anyone who thinks this is a good example of British humour has obviously had a humour bypass. A good example of why the British film industry is going down the pan! Do not encourage bad films like this...they'll only make more!",
+         "If I hadn't seen Hitchcock's Strangers on a Train so recently, I might not have felt the deja vu so strongly. Instead of the murder-swapping of the Hitchcock, Karen Knightly (Helena Bonham-Carter) suggests revenge-swapping. But it is most definitely a comedy as Henry Bell (Sam Neill) discovers more and more about Knightly and becomes more and more involved with the object of her revenge. The scene where Bell and Knightly's neighbor Anthony Saxton-Billing (Martin Clunes) argue about Saxton-Billing's wife Imogen (Kristen Scott Thomas) in front of a group of girls during a dressage competition is hilarious. But it still smacked of having seen it done better once before.",
+         "Sir Alan Ayckbourn is one of Britain's most successful and prolific playwrights, but the British film industry, unlike the British theatre and British television, has never taken much interest in his work. Although he has written more than seventy full-length plays, most of which have been performed in London's West End and many of which have been adapted for television, the number of feature films based on his work can be counted on the fingers of one hand. (Two have been made by the French director Alain Resnais; the only other one in English is Michael Winner's version of \"A Chorus of Disapproval\"). \"The Revengers' Comedies\" is the other British exception to the general cinematic disregard of Ayckbourn's work, although I must say that it was a strange choice to adapt for the screen. The original play was not a success when it was put on in the West End in 1991, largely because it runs for five hours and was presented in two parts over two successive evenings. Malcolm Mowbray's film makes no attempt to match the play in length; indeed, at only 86 minutes it is shorter than most films these days. This means that, inevitably, much of Ayckbourn's original material has to be jettisoned. Mowbray, however, keeps the plural noun \"comedies\" in the title, which Ayckbourn used to signify that this was a two-part play. The title is a play on \"The Revenger's Tragedy\", the Jacobean tragedy which has been attributed to both Cyril Tourneur and Thomas Middleton. The plot owes something to Alfred Hitchcock's film \"Strangers on a Train\". It starts with the two principal characters meeting when they attempt to commit suicide by jumping from Tower Bridge. (The Albert Bridge in the play). Henry Bell, a middle-aged business executive, has recently been sacked from his job. Karen Knightly, the eccentric daughter of a wealthy country family, has been involved in an unhappy love affair with a married man. When both fail in their suicide bids, they compare stories and agree that each will exact revenge for their misfortunes on behalf of the other. Karen will seek revenge on Henry's unpleasant former boss Bruce Tick while Henry will seek revenge, not against Karen's former lover Anthony Staxton-Billing, with whom she is still in love, but against his wife Imogen whom Karen blames for her misfortunes. A complication arises, however, when Henry meets Imogen and starts to fall in love with her. The film features a number of well-known names from the British acting profession, most of whom play their parts very well. I felt that Sam Neill perhaps made Henry too staid and conservative compared to Griff Rhys Jones' interpretation when he played the part on stage; I felt that Henry must have had a darker side to his character to have gone along with Karen's mad scheme in the first place. Helena Bonham Carter, however, was brilliant as Karen, a spoilt, wilful upper-class brat, wildly eccentric to the point of insanity. I felt that Steve Coogan's Tick was insufficiently arrogant and bullying, but Martin Clunes' Anthony was suitably obnoxious, essentially a crude thug in the clothing of an English country gentleman. Kristin Scott Thomas seems to play upper-class horsey types at regular ten-year intervals; her Brenda Last from 1988's \"A Handful of Dust\" and her Veronica Whittaker from 2008's \"Easy Virtue\" are, socially speaking, very similar characters to the one she plays here. Imogen, however, is more sympathetic than either Brenda or Veronica; although she initially comes across as a hard-bitten snob, we soon realise that underneath she is a vulnerable figure, the victim of a selfish, womanising husband. There is a lot of humour in the film; the funniest scenes, I felt, were those where Karen disguises herself as a frumpy office temp in order to infiltrate Tick's company and that strange duel between Henry and Anthony. And yet the film as a whole did not work for me quite as well as the play. (I seem to be not only one of the few people who actually saw the 1991 production but also one of the even smaller group of people who liked it). Ayckbourn's success as a dramatist is due not merely to the quality of his plots and dialogue but also on matters which transfer less easily to the cinema screen, such as complexity of structure and his knowledge of stagecraft. (Besides being a playwright, he is also the artistic director of a theatre). By condensing the five hours of his \"Revengers Comedies\" into less than an hour and a half, much of the dramatic material in the plays has had to be sacrificed, and the result is something less complex and less well-structured than the original play. (The ending in particular is rather disappointing). The film version also loses something of the dark quality of Ayckbourn's black comedy. It is a valiant attempt to adapt Ayckbourn for the screen, but it perhaps also indicates why such an attempt is fraught with difficulty and why so few films have been based on his plays. 7/10"
+      ],
+      "genres": [
+         "Comedy",
+         "Romance"
+      ],
+      "productionCompanies": [
+         "Artisan Films",
+         "Arts Council of England",
+         "British Broadcasting Corporation (BBC)"
+      ],
+      "summaries": ["Depressed businessman Henry Bell and aristocrat Karen Knightly save each other's lives one night when they are ready to jump off London's Tower Bridge. Karen invents a revenge plot - she will punish Henry's enemy Bruce Tick and Henry will destroy the life of Karen's enemy Imogen."],
+      "budget": 0
+   },
+   "movielensId": 138852,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1998-06-09",
+      "dvdReleaseDate": null,
+      "directors": ["Malcolm Mowbray"],
+      "runtime": 86,
+      "movieId": 138852,
+      "title": "The Revengers' Comedies",
+      "mpaa": "",
+      "actors": [
+         "Sam Neill",
+         "Helena Bonham Carter",
+         "John Wood",
+         "Rupert Graves",
+         "Martin Clunes",
+         "Steve Coogan",
+         "Kristin Scott Thomas",
+         "Liz Smith",
+         "Adrian Scarborough",
+         "Charlotte Coleman",
+         "Anita Dobson",
+         "Sandra Reinton",
+         "Zoe Hilson",
+         "Jamie O'Brien",
+         "François Domange",
+         "Dicken Ashworth"
+      ],
+      "imdbMovieId": "0120013",
+      "originalTitle": "The Revengers' Comedies",
+      "genres": [
+         "Comedy",
+         "Crime",
+         "Romance"
+      ],
+      "youtubeTrailerIds": [],
+      "plotSummary": "After saving each other from jumping off a bridge, Henry Bell (Sam Neill) and Karen Knightly (Helena Bonham Carter) plot to avenge the people who drove them to suicide. Henry will ruin the life of the woman (Kristin Scott Thomas) who married Karen's boyfriend, while Karen will work as a secretary for the man (Steve Coogan) who took Henry's job. Whether revenge will be sweet \u2013 or bittersweet \u2013 is anyone's guess.",
+      "tmdbMovieId": 2166,
+      "avgRating": 3.66667,
+      "releaseYear": "1998",
+      "numRatings": 3,
+      "posterPath": "/2JU461VrEjmYaqiEVRz0Mla5Ih9.jpg"
+   }
+}

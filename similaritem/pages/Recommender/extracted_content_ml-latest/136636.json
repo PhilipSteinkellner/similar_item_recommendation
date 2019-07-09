@@ -1,0 +1,696 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "serial killer",
+            "id": 10714
+         },
+         {
+            "name": "frightening visions",
+            "id": 12645
+         },
+         {
+            "name": "parent killed",
+            "id": 166578
+         }
+      ],
+      "imdb_id": "tt2924442",
+      "video": false,
+      "title": "The Pact II",
+      "recommendations": [
+         111440,
+         257093,
+         328763,
+         268725,
+         314065,
+         294308,
+         354924,
+         354220,
+         324986,
+         24116,
+         279968,
+         336850,
+         336271,
+         159211,
+         258086,
+         135368,
+         32229,
+         10109,
+         32162,
+         74718
+      ],
+      "backdrop_path": "/2EAVTi0kjFhbkZcgBISYabg6gjQ.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "June Abbott",
+               "gender": 1,
+               "credit_id": "52fe4ec99251416c75162441",
+               "name": "Camilla Luddington",
+               "profile_path": "/6Sb0pXr8Z4m4l7QMbeqO4Dadl57.jpg",
+               "id": 236021,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Annie Barlow",
+               "gender": 1,
+               "credit_id": "5408f9120e0a263a10000930",
+               "name": "Caity Lotz",
+               "profile_path": "/hTY1MlyY39nOXCbx7GUDZmak1GN.jpg",
+               "id": 1046143,
+               "order": 1
+            },
+            {
+               "cast_id": 16,
+               "character": "Officer Meyer",
+               "gender": 2,
+               "credit_id": "540a3e730e0a262b3d000d56",
+               "name": "Scott Michael Foster",
+               "profile_path": "/y8t1wXbs7YzSF1KGGw5UDRVUvei.jpg",
+               "id": 110945,
+               "order": 2
+            },
+            {
+               "cast_id": 17,
+               "character": "Stevie",
+               "gender": 1,
+               "credit_id": "540a3e990e0a262b46000c8a",
+               "name": "Haley Hudson",
+               "profile_path": "/4He22Zr4W5w2oHUzqnAnxtNe1fa.jpg",
+               "id": 159985,
+               "order": 3
+            },
+            {
+               "cast_id": 20,
+               "character": "Maggie Abbot",
+               "gender": 1,
+               "credit_id": "54cb46fd9251416794013127",
+               "name": "Amy Pietz",
+               "profile_path": "/oCe6UQJSug2rqHbAsusigaA2AuR.jpg",
+               "id": 134082,
+               "order": 4
+            },
+            {
+               "cast_id": 21,
+               "character": "FBI Agent Ballard",
+               "gender": 2,
+               "credit_id": "55f5d79d9251413ed9000407",
+               "name": "Patrick Fischler",
+               "profile_path": "/x7btvLV8RnW5dw9Of1uYRp86E7V.jpg",
+               "id": 52801,
+               "order": 5
+            },
+            {
+               "cast_id": 22,
+               "character": "Charles Barlow/Judas",
+               "gender": 2,
+               "credit_id": "55f5d7ca9251414f6d001ae1",
+               "name": "Mark Steger",
+               "profile_path": "/1GQ4frsZlkGcs2f7IIb8NpWhZqM.jpg",
+               "id": 1052211,
+               "order": 6
+            },
+            {
+               "cast_id": 23,
+               "character": "Lt. Eileen Carver",
+               "gender": 1,
+               "credit_id": "55f5d7f492514142f7000424",
+               "name": "Nicki Micheaux",
+               "profile_path": "/nqE5xYVNyTs3RusvYRNKPXHtqXV.jpg",
+               "id": 81725,
+               "order": 7
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "5417c7c40e0a26380b001ac9",
+               "name": "Dallas Richard Hallam",
+               "profile_path": null,
+               "id": 932417,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5417c7d3c3a36819a8001b23",
+               "name": "Patrick Horvath",
+               "profile_path": null,
+               "id": 142398,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5698ee91925141253a002919",
+               "name": "Dallas Richard Hallam",
+               "profile_path": null,
+               "id": 932417,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5698eea5c3a368760b002b81",
+               "name": "Patrick Horvath",
+               "profile_path": null,
+               "id": 142398,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5698eec19251412536002b55",
+               "name": "Carl Sondrol",
+               "profile_path": null,
+               "id": 1563649,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5698ef03c3a3687605002ab6",
+               "name": "Carmen Cabana",
+               "profile_path": null,
+               "id": 1058981,
+               "department": "Crew",
+               "job": "Cinematography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5698ef23c3a36875fc00292e",
+               "name": "Saul Herckis",
+               "profile_path": null,
+               "id": 1455850,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5698f0a8c3a36875fe0030b0",
+               "name": "Csaba Bereczky",
+               "profile_path": null,
+               "id": 1072731,
+               "department": "Production",
+               "job": "Line Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5698f0bec3a36875fe0030c6",
+               "name": "Juliana Cardarelli",
+               "profile_path": null,
+               "id": 1563653,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5698f0da9251412536002cc5",
+               "name": "Jamie Carmichael",
+               "profile_path": null,
+               "id": 56626,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5698f0f19251412543002a65",
+               "name": "Ross M. Dinerstein",
+               "profile_path": "/ehWP4rgOnrGeSgQ3X9C61f46Bjv.jpg",
+               "id": 59657,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5698f103925141253a002aa7",
+               "name": "Daniel Sollinger",
+               "profile_path": null,
+               "id": 929970,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5698f12d9251412536002d02",
+               "name": "Elisha Gruer",
+               "profile_path": null,
+               "id": 1563654,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5698f140c3a36875fe00315c",
+               "name": "Michelle Levy",
+               "profile_path": null,
+               "id": 1563657,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5698f154925141253d002bc8",
+               "name": "Helen Harwell",
+               "profile_path": null,
+               "id": 1414143,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5698f1679251412536002d32",
+               "name": "Molly Grundman",
+               "profile_path": null,
+               "id": 1321334,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5698f18e9251412540002b8f",
+               "name": "Jason Collins",
+               "profile_path": null,
+               "id": 175183,
+               "department": "Crew",
+               "job": "Makeup Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5698f1a39251412543002ae9",
+               "name": "Alyssa Fall",
+               "profile_path": null,
+               "id": 1563659,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5698f1bbc3a3687600002ab0",
+               "name": "Shelley Rucker",
+               "profile_path": null,
+               "id": 1304300,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Department Head"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5698f21bc3a36875fc002b53",
+               "name": "Brett Mlinarich",
+               "profile_path": null,
+               "id": 1563663,
+               "department": "Production",
+               "job": "Unit Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5698f26c9251412543002b6a",
+               "name": "Christopher Battaglia",
+               "profile_path": null,
+               "id": 1563668,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5698f2b5c3a36875fa002e78",
+               "name": "Adam Douglass",
+               "profile_path": null,
+               "id": 1563669,
+               "department": "Sound",
+               "job": "Sound mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5698f2ca9251412540002c79",
+               "name": "Joseph Loera",
+               "profile_path": null,
+               "id": 1563670,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5698f2e4c3a36875fc002be4",
+               "name": "Chance Pemberton",
+               "profile_path": null,
+               "id": 1483830,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5698f3079251412534002eb7",
+               "name": "Eric Schrecongost",
+               "profile_path": null,
+               "id": 1563671,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5698f31a925141253d002cf4",
+               "name": "Sean Christopher",
+               "profile_path": "/keHN5D9IC9hMGDj3mGDINawbt5z.jpg",
+               "id": 1338421,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5698f32bc3a3687605002db5",
+               "name": "James Croak",
+               "profile_path": null,
+               "id": 1563672,
+               "department": "Crew",
+               "job": "Utility Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5698f34e9251412534002ef8",
+               "name": "T.J. White",
+               "profile_path": null,
+               "id": 92507,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5698f361c3a36875fc002c66",
+               "name": "Oliver Bukowsky",
+               "profile_path": null,
+               "id": 1407262,
+               "department": "Camera",
+               "job": "Grip"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5698f373c3a3687600002c04",
+               "name": "Michael Chomieniec",
+               "profile_path": null,
+               "id": 1563673,
+               "department": "Camera",
+               "job": "First Assistant Camera"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5698f3b9c3a36875fa002f62",
+               "name": "Walker Forshee",
+               "profile_path": null,
+               "id": 1563674,
+               "department": "Lighting",
+               "job": "Best Boy Electric"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5698f3e29251412536002f1b",
+               "name": "Jorge Gómez",
+               "profile_path": null,
+               "id": 1417466,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5698f3f5c3a36875fe0033c4",
+               "name": "David Graves",
+               "profile_path": null,
+               "id": 1563682,
+               "department": "Lighting",
+               "job": "Best Boy Electric"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5698f4049251412546002adb",
+               "name": "Boyd Hobbs",
+               "profile_path": null,
+               "id": 1563683,
+               "department": "Camera",
+               "job": "Steadicam Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5698f598c3a3687605003036",
+               "name": "Kenneth Marc",
+               "profile_path": null,
+               "id": 1563688,
+               "department": "Lighting",
+               "job": "Electrician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5698f5b6c3a368760500305f",
+               "name": "Anthony Roldan",
+               "profile_path": null,
+               "id": 1563689,
+               "department": "Lighting",
+               "job": "Best Boy Electric"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5698f5cfc3a3687603002c87",
+               "name": "Skoti Collins",
+               "profile_path": "/uFGtLgwv992w9Ey904Y0KZpEy45.jpg",
+               "id": 74498,
+               "department": "Production",
+               "job": "Casting Associate"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5698f5e7c3a3687600002e60",
+               "name": "Saul Herckis",
+               "profile_path": null,
+               "id": 1455850,
+               "department": "Crew",
+               "job": "Post Production Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5698f5fac3a368760b0031a5",
+               "name": "Ezequiel Mirol",
+               "profile_path": null,
+               "id": 1563690,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5698f628c3a36876050030d7",
+               "name": "Justin Sostre",
+               "profile_path": null,
+               "id": 1563691,
+               "department": "Editing",
+               "job": "Assistant Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5698f637c3a3687608002bf3",
+               "name": "Nicholas Thurkettle",
+               "profile_path": null,
+               "id": 1563692,
+               "department": "Editing",
+               "job": "Assistant Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5698f6519251412546002d14",
+               "name": "Skoti Collins",
+               "profile_path": "/uFGtLgwv992w9Ey904Y0KZpEy45.jpg",
+               "id": 74498,
+               "department": "Crew",
+               "job": "Picture Car Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5698f6909251412543002f31",
+               "name": "Cristina Fanti",
+               "profile_path": null,
+               "id": 1349972,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5698f6a3c3a36875fe003681",
+               "name": "Sanyu Adair Enos",
+               "profile_path": null,
+               "id": 1563693,
+               "department": "Production",
+               "job": "Production Coordinator"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Mystery",
+            "id": 9648
+         },
+         {
+            "name": "Horror",
+            "id": 27
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 6.997946,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 228358,
+      "vote_count": 73,
+      "budget": 0,
+      "overview": "The sequel is set just weeks after Annie Barlow's deadly confrontation with the Judas Killer. In this elevated sequel, we meet June, a woman whose carefully constructed life is beginning to unravel due to lucid nightmares so awful they disturb her waking life",
+      "similar": [
+         10781,
+         10285,
+         1696,
+         39874,
+         2832,
+         948,
+         12521,
+         984,
+         4488,
+         9411,
+         5486,
+         12662,
+         10092,
+         274,
+         30833,
+         1359,
+         1991,
+         4232,
+         238636,
+         181283
+      ],
+      "original_title": "The Pact II",
+      "runtime": 96,
+      "poster_path": "/7wgdW7nMRyILnt5IAvizZjEZlsA.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "Preferred Film & TV",
+         "id": 41046,
+         "origin_country": ""
+      }],
+      "release_date": "2014-09-05",
+      "vote_average": 4.4,
+      "belongs_to_collection": {
+         "backdrop_path": "/xaDieVQyxBl0ZF5QWRKnLrgwrhQ.jpg",
+         "name": "The Pact Collection",
+         "id": 292068,
+         "poster_path": "/rbUjkAEvcoywQ9FtOznhPus2upy.jpg"
+      },
+      "tagline": "It's Starting Again...",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": [
+         "Dallas Richard Hallam",
+         "Patrick Horvath"
+      ],
+      "runtime": 96,
+      "synopsis": null,
+      "writers": [
+         "Dallas Richard Hallam",
+         "Patrick Horvath"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt2924442/",
+      "coverLink": "https://ia.media-imdb.com/images/M/MV5BNzE4NTc1OTU5MF5BMl5BanBnXkFtZTgwODUwODU3MjE@._V1_UY268_CR1,0,182,268_AL_.jpg",
+      "actors": [
+         "Camilla Luddington",
+         "Caity Lotz",
+         "Scott Michael Foster"
+      ],
+      "reviews": [
+         "The Pact was a good movie. Great even, but why it got a sequel is beyond me. The Pact 2 is connected by the fact that the killer from the first one, Judas, has a copycat going around and it's somehow tied to this forensic cleaner. The lead is fine in the role, quite good actually, and the main girl from the last movie makes an appearance. There's also a creepy FBI agent who's the guy who plays a creepy character in basically everything he's in, and he's fine, and then there's the main character's love interest who is a cop. This dude is a terrible actor and unfortunately a good amount of the plot rests on his shoulders. The plot itself is so ludicrous though it's impossible for anyone to save it. They tie a supernatural element to the whole thing, combined with a murder mystery and psychological drama and it just bites off way more than it can chew. After a while it gets convoluted to the point that you just want to see it end. The scares are mediocre at best. There are a few cheap jump scares, but a majority of the movie is atmospheric and slow burning. Unfortunately slow burning comes across as boring when trying to piece together a plot that makes absolutely no sense. I wouldn't say The Pact 2 is an awful movie. There's some promise here, but it's muddled in messy storytelling and a lack of quality scares. Maybe worth watching on a drunken night if you've seen the first movie. Even then, The Pact 2 is a sloppy and forgettable sequel.",
+         "June Abbott (Camilla Luddington) is a young woman that lives with her boyfriend, the police officer Meyer (Scott Michael Foster) and works cleaning up crime scenes. June has dreadful visions at home of the deceased killer Judas and his victims and she draws her visions in her leisure time expecting to make a book. When her stepmother is cruelly murdered in a copycat crime, June believes that Judas must have returned from the afterlife. But she becomes the prime suspect of the FBI Agent Ballard (Patrick Fischler) that is investigating the cases. June contacts the former victim of Judas, Annie Barlow (Caity Lotz), expecting that she might help her. But when Annie is murdered, Meyer warns June that Agent Ballard is the copycat killer; but June is alone at home with Ballard. Will she survive? \"The Pact II\" is a movie with a reasonable story but a messy screenplay and bad acting of Patrick Fischler and Scott Michael Foster in the roles of two important characters. The plot is hard to be followed and I slept two consecutive nights trying to watch \"The Pact II\". Only yesterday night I succeeded in watching this movie, but I do not recommend it. My vote is three. Title (Brazil): \"Pesadelos do Passado 2\" (\"Nightmares from the Past 2\")",
+         "I was quite surprised to see that The Pact got a sequel, but that was a great movie and every successful movies these days gets a sequel i guess. What's no surprise is that The Pact 2 is inferior to it's predecessor in almost every way, cinematography which is very nice is on par and in the same vein as it's predecessor. The Pact 2 does also like the first movie build up the suspense through tension and atmosphere, but it only partly succeed and relies too much on cheap jump scares. Plotwise it's rather hard to follow and sometimes confusing to see the connections, especially through her nightmare visions and the supernatural elements. I also find the acting sometimes awkward and unnatural, especially FBI agent Ballard.",
+         "Amazing how the screenplay can make simple scenes look very tiring. Each conversation are twice the length of normal movie's, one might press fast forward or skip a chunk of it and still be at the same agonizing slow pace. Acting is limping, it has small cast and half of it are awfully delivering rigid performance. It feels disjointed at every corner, even the scares are poorly constructed and overly used. Story is an inconsistent struggle to bring supernatural theme and mystery thriller, both of which fail at making any momentum. It's crucial to highlight the FBI officer, which is the weakest character on the small roster. Every time he's in the screen, he brings inhumanely stiff performance. If this is an effort to build mystery, it's highly misguided. Random passerby reading the script out loud would probably be more capable. The boyfriend and mother roles are also awkwardly played. They never seem to be convincing nor do they sync well with others. Thus, Camilla Luddington as June, the troubled girl and returning Caity Lotz, as Annie are the most decent, by default. To their credits, both of the female actors try to set-up the horror and they do have better screen presence. Nevertheless, the scenes are either plodding or rushed. Caity Lotz doesn't feel as she's introduced to the story naturally, she just pops up and becomes instant best friend with Luddington's June. Their interactions are more fluid than most, unfortunately the movie doesn't take advantage of that. Luddington isn't entirely bad, she has good expression, but she must deal with insipid screenplay which makes her looking bizarre and enacting the same motions repeatedly. There might a few scares with flicker lights or angle shifts, yet even these instances are overly done. Without spoiling anything the mix between paranormal and mystery doesn't pan out well. The Pact 2 instills more boredom than horror or dread.",
+         "As a huge fan of the first \"Pact\" movie, I was skeptical when I first heard about this sequel. Then I looked up the trailer and saw that Annie and Stevie were making a return to the screen and I was like, \"Okay, this could be cool!\" I finally watched it last night and boy was I let down. First off, the identity of the killer was pretty obvious. The moment the boyfriend gave her the ring, I knew it was going to be from one of the victims. And it seemed like they were trying really, really hard to make the FBI agent seem like the bad guy, so I cancelled that out. I cheered when Annie finally came into the story (it was pretty dull up to that point). She was the only likable character in the whole film and she gets killed! I literally booed at my TV screen. I was also disappointed that Stevie wasn't in the movie more, although I can't blame her for getting the hell out of there. The score for the film comes nowhere close to Ronen Landa's beautiful melodies from first film (listen to the track \"Her Little Dreams\" on the soundtrack). Instead we get long drones and the occasional pang of cymbals. Pretty boring. Things I did like: the shadow scene. Judas's creepy alien-like shadow slowly moving across the wall was really eerie. I also liked the use of Suziey Block (from the movie \"Entrance\"). She is beautiful! And I absolutely hated the ending with \"It's starting again!\" Dun dun DUNNNNNNN! It leaves it open for another movie that really isn't necessary. \"The Pact II\" just doesn't have the tense atmosphere that the first one had. I give it a 4/10 and that's being generous.",
+         "The Plot. A woman who is plagued by nightmares involving a serial killer learns her dreams have a horrifying connection to the real world. Slow, plodding, muddled, hard to follow movie. The acting is horrible. Especially the guy who plays the FBI agent. He's got an annoying fey lisp and cannot act his way out of a paper bag. He ruins the movie right out of the box. But that's not the half of it. The movie is poorly constructed, poorly written, poorly directed and will put you to sleep. It really sucks.",
+         "I'm going to get straight to the point here and say that The Pact 2 is absolute garbage and it is definitely one of the worst movies you'll see this year. How anyone can actually think that this is better than the first film is beyond me as well. I rated the first movie 5-Stars simply because I found it a bit slow going and was a bit hard to stick with, but other than that it was a decent film to watch. This second one, however, doesn't even come close to touching the first one as at least that film had a bit of atmosphere, suspense, and some creepy moments here and there. This second film one had none of that. I won't go as far to say that I had huge hopes for this sequel because it's not as if it was being promoted as one of the \"scariest\" or \"creepiest\" movies of the year, but it was still a let down and I was hoping for more considering what the first film had. The acting was pretty poor as well from a couple of the main cast members, the main one being Camilla Luddington who played June Abbott. Her performance was less than convincing and it was more wooden than Pinocchio (probably won't come as a surprise that she's mainly a TV actress). The other pretty poor performance was from Patrick Fischler who played FBI Agent Ballard. I think he was trying to play the character as having this deep, mysterious, many layered persona but just came across as a pretty creepy, but bland, stalker-type of character. Even Mark Steger, who plays Judas, didn't have the same creepy presence as before. Was the film scary? No. Was it suspenseful? Never. Was it thrilling? Ha, yeh right! What it was, though, was boring, pretty unimaginative, poorly written, poorly acted, and just an utter waste of time. I'd recommend giving The Pact a watch, but as for this tripe of a sequel, I'd give it a wide berth if I were you.",
+         "A less terrifying sequel to the sleeper hit horror film, The Pact. The Pact 2 fails mainly in its story that may keep you engaging, but is poorly connected and concluded together in the end. The climax is unsatisfying and is not even scary or memorable here comparing to the first film. The SCARES here might not be as genuinely creepy as the first but it does have some effective ones as well as cheap ones to have you jump from time to time. There are also some bloody kills but nothing GORY or anything. Overall, this film series has potential to be the next horror hit series like Insidious films due to its engaging story and creepy scares but for now, this sequel will be remembered as the most disappointing one, yet >>C+<<",
+         "Where to start? First off let me say, The Pact, is one of the best horror films of the last decade. Nicholas McCarthy did an amazing job setting up the mood, atmosphere, and killer sound design. Annie (Caity) created a role that connected with me and I felt her terror as it was playing out. The movie ended perfectly. Do I feel like there needed to be a sequel? Not at all. Did I want to see a sequel? Yes. Was I sorely disappointed? Yes. The Pact 2 had big shoes to fill. You can tell from the first shots that this is a movie done by different directors/writers. The studio clearly wanted to cash in on the title. The pace was poor and the character development was non-existent bringing in sub- characters that had no weight to the store. The mood from the first was gone as they tried to replicate scares from the first but only resulted in cheap \"boo\" scares. In my head, I wanted the movie to go a certain way because I didn't want it to fall into the gap of becoming a cliché sequel. But it did, It became 2014's The Grudge 2. Annie wasn't billed until the movie was announced for a release date so I was happy to see the strong lead back. Unfortunately the script written for her was really confusing/brief. She was delegated to on-screen time of maybe a total of 10 minutes and that's it. To go any farther would be spoiler territory, but let's say it follows the same unfortunate fate of The Grudge 2. That is what did me in. With an even more pitiful climax leaving it open-ended for a sequel, I am almost ready to consider this movie not canon to the series. It's a bad connection, and I hope they do not make The Pact 3 with that ending. If they do, they have some plot/character correction to do. Back track, guys. I really wanted to love this movie, I really did. The Pact is one of my all-time favorite films. The Pact 2 failed on practically on all levels alongside some jump scares. 4/10",
+         "While I agree that this wasn't as good as the first Pact movie, I tried an experiment and watched it again after watching the first Pact again. The second time I saw it, directly after watching the first one on Net Flix, it became much clearer and more effective. I can understand people not liking this if they didn't see the first Pact, and I can understand people not liking it if they saw the first pact a few years ago, but try watching them both right in a row. There are some things that you can only understand if you just saw the first Pact, because they're small details that you'd probably forget if you hadn't just seen the first one. There are also a lot of little details that you might have missed (such as the ring) if you didn't pay close attention to Pact 2. While I usually dislike sequels, this one did a pretty good job of establishing a pattern that will hopefully continue.",
+         "It's hard to surprise people anymore when it comes to supernatural thrillers or mystery films. The best any writer or director can do these days is institute great pacing and hope that an engaging storyline will keep spectators invested as they deliver their version of something we've all probably witnessed before. \"The Pact 2\" successfully does this and delivers some truly great scares in an era where everyone knows exactly when and where to expect something to happen. June Abbott (Camilla Luddington) spends the days cleaning up crime scenes and the nights using her experiences as fuel for a book she is illustrating. She begins having visions of the Judas Killer (Mark Steger) and his victims just as her police officer boyfriend (Scott Michael Foster) starts investigating a new case. It involves a psycho patterning his killings after the infamous murderer. Are her nightmares trying to warn her of something genuine she has to fear? When real life begins to spiral out of control, June contacts a former victim of the Judas Killer named Annie (Caity Lotz) to help her make sense of the events unraveling around her. Many out there are reading this with a furrowed brow while thinking, \"I've never even heard of the first 'The Pact.' How did it get a sequel?\" The original 2012 flick terrified crowds on the festival circuit and gained critical praise before being picked up by IFC Films for home entertainment distribution. It did well enough that producers felt it warranted a sequel. It's not often that a sequel to a movie is effective at following up its predecessor, but \"The Pact 2\" makes a valiant attempt at doing so. Instead of retreading the same ground the first one did, it continues the story and moves into unexplored territory. I'm highly impressed at how great this turned out without the hands of original Director / Writer Nicholas McCarthy so far in the background. The only credit he gets here is as an executive producer. Good horror movies need to build up the tension to scare people now. The days of a black cat jumping out of a closet and making you pee yourself are long gone. Now it's about the anticipation of something happening that keeps people on their toes and the edges of their seats. \"The Pact 2\" had me recoiling in fear throughout its entirety thanks to the navigation of fairly new directors Dallas Richard Hallam and Patrick Horvath. A lot of the eerie and unsettling atmosphere instituted in \"The Pact 2\" comes from its sinister musical score supplied by composer Carl Sondrol. It perfectly complements every scene in the movie and conjures feelings of dread in the viewer. Just the music alone could make your hair stand on end, even without the help of any visuals. Caity Lotz returns from \"The Pact\" to help link things to the first film. She acts as a sort of guide to the subject of the Judas Killer's torment this time around. You can tell Lotz doesn't think of \"The Pact 2\" as just another independent job to collect some quick cash. She pours herself into the character and genuinely delivers a strong performance. \"The Pact 2\" is unrated but doesn't cross any lines that would keep it from gaining an R or even PG-13. There's some sensuality with no nudity. Frightening sequences overpower any gore seen on screen. The language is nothing we haven't heard in any other PG-13 or R rated movies. Although you have your suspicions of how \"The Pact 2\" is going to turn out in the end, the journey getting there is rewarding and entertaining. Much like \"Insidious Chapter 2,\" it doesn't settle with just repeating what its predecessor did. It builds on the mythos already established and takes you further into the nightmare Director / Writer Nicholas McCarthy originally conceived.",
+         "the pact II (2014) directed by the duo of Dallas Richard Hallam and Patrick Horvath is everything anyone would expect from a low budget sequel to a sleeper hit like the first pact movie. there are many issues with this movie but also a few positives. so let's get started. firstly the script is very messy in the way that it goes about telling its story. it attempts to tie a supernatural element to a real life serial killer plot line (much like the first pact movie) and fails in almost every way. the biggest issue here is that it tries extremely hard to mirror the script of the first movie but pales in comparison. the story they intended to tell here could have been pulled off but its execution was awful and messy mainly because of what type of movie it is trying to be. the pact II tries very hard to be more of a horror movie than a mystery where the first movie was a carefully crafted blend of the two genres. this means that the pact II tries to tell it's story through jump scares and ghostly visuals. this comes off as very cheap and annoying. in no way is the story itself bad, it's just the way it's executed and the over abundance of cheap scares rather than actual mystery. in technical terms the camera work, lighting, and score all pale in comparison to the original. they are not necessarily bad it's just that they aren't really given a chance to truly shine due to the over abundance of jump scares. the acting is also something that should be mentioned. the acting in this film is truly the most horrifying part. this probably wouldn't have been such a major issue if the acting in the first movie wasn't so great. the lead does an alright job but everybody else give awful performances in every regard. the only real positive thing I can say about this messy, messy film is that the first 20 minutes are a pretty darn good buildup and also had the only scene of any real tension in it. I wont spoil it, but this scene is actually very good. if the film had more scenes like this one it probably would have fared much better. overall The Pact II is a cheap imitation of its predecessor with none of the diligent story telling and excellently directed scare scenes of the original. a messy script, bad acting, mediocre direction, a less than memorable score as well as an over abundance of cheap jump scares this movie fails in almost every way. the verdict: 3.5/10",
+         "If your hoping the pact 2 is as good as the first outing of this impressive horror thriller film well im sorry to say you will be disappointed. The first film had something extra to add to the recent outings of horror films and gave the feeling this could be a new exciting franchise. The story was well thought and carried on from the first film but the acting and how it was put together was the let down for this sequel, the fright scenes were few and far between which after watching the first one I was excited to watch the sequel but 30 mins into the 95 minute attempt of a sequel you really lose interest. The saving grace is there is potential to make a third outing for the carpet hateing killer and lets hope they do make it and go back to how they done the first one as this has the potential to be a good franchise as lets be honest there have not been many lately and the only competition would be the never ending paranormal activity which has gotten dull. The pact 3 could work the same as sinister 2 and insidious 3, the future could be bright for horrors.",
+         "Well, I should have stuck with my gut instinct and not actually delude myself into thinking that they might do a whole lot better with the sequel, because the first movie was a snooze-fest. \"The Pact II\" is much akin to the first movie, also being a snooze-fest with very little happening throughout the entire course of the movie. For a horror / mystery / thriller, then there is surprisingly little thrilling or shocking about this movie, aside from the fact that so little could happen over such a long course of time. I will say that the acting in the movie was good, and people were doing good jobs with their given roles. And it was nice to have Caity Lotz reprising the role of Annie, although that did very little to lift up the rest of the movie. Patrick Fischler did a good job with his particularly odd role as Ballard, and he was actually the most memorable in the entire movie. Story-wise, then \"The Pact II\" does continue on from the first movie, but again, it is nothing interesting, so don't get your hopes up. It was progressively becoming more and more of a struggle to sit through this movie, and more than once did my attention start to drift away because the movie offered very little that captures the audience. At least the first movie had a moment or two that was impressive, but \"The Pact II\" does not. \"The Pact II\" scores a meager 3 out of 10 stars from me, and that is based on the acting, the camera-work and the production value. The rest of the movie is most likely to be forgotten as soon as you get out of the chair once the movie ends.",
+         "Two years after the first part the sequel came out and usually you expect not much of them. Most of them are cash grabs and mostly they add nothing special to even justify their sheer existence. Not so with The Pact II! Instead of director Nicholas McCarthy we get two directors with Dallas Richard Hallam and Patrick Horvath, the budget must have been much higher (already assumed because of the way better camera work) and with Camilla Luddington not only a very beautiful actress, but also someone who immediately transports the film out of the amateur-like appearance of the first part. Even FBI agent Ballard, played by Patrick Fischler, did a great job by playing this type of personality that you immediately want to hate. Scott Michael Foster didn't convince me in this movie at all though. Maybe that was a lack of chemistry thing between him and Camilla. Part two may not have that many scary moments as the first one, but therefore it adds way more tension via the writing. And it does show another thing very clearly. By letting the main actresses of both movies act together in some scenes, you can compare the screen presence perfectly. But don't get me wrong, the first part is essential for the story and you should see it before watching The Pact II. I still like the first one, just found myself enjoying this part here way more. A sequel that is better than the first one. Who would have thought?",
+         "Horrible , horrible boring picture .I feel like they felt obligated to make a part 2 for The pact , but why . Why to cripple such a well made horror movie , ill tell you why : to milk the dead cow of money. Sure they could have made a better film i believe but they failed miserably .This movie is not horror , it is plain boring from A to Z. Have you ever wondered how the first one would look like if they took all of the scary and interesting parts out , well here you go .This time i agree with the score it got on site ,you know what ? it should get an even worse one. One good thing are the actors, who are by the way are not so good but still if it wasn't for them , the movie would probably look like a trash can.",
+         "June is an artist who illustrates the dark visions she has. She is also a crime scene cleaner for hire. The film opens to her scrubbing up the mess in Annie's apartment after the first film. Some weeks later, there is a semi-copycat killing. June's boyfriend is Officer Meyer from the local police force. Early on, they squabble about June's spending time with her mother Maggie. He tells her about the latest bloody crime, and the arrival of FBI agent Ballard. He agrees to recommend her as the cleaner for this latest mess. Maggie has many needs, and expects daughter June to fulfill them, but she is not that good at notification in regards to scheduling. June gets tired of her professional schedule being squeezed. Officer Meyer thinks the FBI agent Ballard is a high-handed pain; Ballard thinks Daniel is a low level factotum. June keeps venting her dark visions through illustration, and lets Ballard know her low opinion of him. Ballard has plenty of demands for Lt Carver, but little to offer in return. Ballard delivers some information bombshells to June about her mother and her connection to the original crimes of the Judas Killer. This increases June's distress, and everyone's hard feelings in general. As one might expect from such films, more bad things start to happen. As the second act deepens, the petty irritations are still there, but pale in comparison to the quest to identify and stop the murderer. Is June the murderer, or perhaps Ballard? Is the supernatural truly involved, or do we have odd behaviour due to stress? Will it actually help to bring Annie and Stevie (both from the first film) back to consult? On the one hand, there was nothing inventive or new. On the other hand, there were plenty of clichés, irritation instead of suspense, unexplained phenomena, and unconcluded conversations.",
+         "I liked the horror film The Pact very much, but when I found out about the making of a sequel, I decided to have low expectations for it, because sequels are rarely at the same level (let's not even say \"surpass\") the original film. Unfortunately, The Pact II didn't end up being an exception. The screenplay is pathetic, some performances are horrible, and co- directors Dallas Richard Hallam and Patrick Horvath couldn't create any suspense or terror. Camilla Luddington brings a decent performance in the leading character despite how poorly written her role is, but Scott Michael Foster, who plays her boyfriend, lacks of any conviction and presence, while Patrick Fischler, as a profiler from the FBI, ends up being laughable due to his forced intensity and \"attitude\". Caity Lotz, the leading actress of the first film, comes back in this sequel for 15 or 20 minutes, but she isn't given too much to do. In conclusion, The Pact II is an atrocious horror film, and my suggestion is definitely for you to watch the original The Pact if you haven't yet.",
+         "Likes : I'm normally a fan of supernatural horror film, special when they are done right at a good pace with keep the audience on the edge of the seat wait for the next shock moment that make you jump out of you skin. Trouble with this type of film the pace has to be even sadly after the first film that was some what creepy & frightening this one sadly is a massive let down with so many flaws, don't get me wrong i think Caity Lotz is a talented actress but seriously stop her doing bad film because it not good for her imagine because this film really make her look bad. Sadly i cant say this film is any good as it the worst sequel to a film I've seen. Dislikes : I'm not normally one for rip a film apart but (WTH) Dallas Richard Hallam & Patrick Horvath you could not of been more lazy with the screen writing & script writing, this is why it important to have good screen writers because it make the film much better. This film was a complete mess, the pace of the film is so slow the audience will get board of watching it, the pace of the film complete destroys any scary moments because you so bored watching seriously you made Caity Lotz look bad on screen, which I've seen her in better roles. There is hardly any scary moments because of the pace which i was really falling sleep watching it, it just didn't have the same Creepy feel as the first did, it felt like a complete bad rehash of the first film sadly this film could of been done better, this is a film to avoid or wait for the bargain bin prices because this in one word is terrible.",
+         "I've never written a review for a film but after seeing the amount of negative reviews, I felt it needed to be done. So bear with me! Like I said, after reading so many negative reviews I was hesitant to watch the Pact II. Being a big fan of the first film, I didn't want this one to ruin it. Typically, the sequel doesn't hold as much excitement as the first film. This movie was completely different. The story was a little cliché, as most horror films are; you see it over and over. But they make it work by putting in old characters and starting to add new ones. It wasn't nearly as slow as the first film but this one was a bit faster paced. I feel the character development wasn't all too extensive but you get to know and feel for them quickly. I enjoyed this one so much more than the last film and I am very eager to see a 3rd (hopefully). I hope you'll give this movie a chance!",
+         "The heroine of the 1996 film \"Curdled\" is a young woman who works for the post-murder cleaning service; The heroine, or rather the damsel, of \"The Pact II\" does the same job, but that is where the similarity ends. To begin with, this film is distinctly lacking in humour. June is closer to murder than her job; her mother was the victim of a serial killer known as Judas - as in the Biblical connection - and now after a 20 year hiatus, he's back. The only problem here is that Judas is dead, one of his intended victims got the better of him. So who is committing murders in her neck of the woods now, and is she being haunted by something not of this Earth, or is she simply going mad? Dream/nightmare sequences and the like often present problems for the director, not to mention the viewer, and they are not handled well here. Terrestrial murders and hauntings? Not a good combination, but if you like your damsels feisty and showing plenty of cleavage, you might find that some consolation for the dismal plot.",
+         "I don't know why I watched it , I did not even like the first one. This movie is really forgettable , I saw about two week bug trying hard think what i remember from the movie I know that it was even worse then the first movie , which was a least watchable but this is not I found the movie really boring and I didn't find any of the movie creepy or scary what so ever The movie could not have been more predilection then was , you now what going on screen the whole time even twist but it not really a twist or more turn but still you could see coming a mile away . The acting was really poor from all the cast The only thing I did like W's one scene , which thought decent but still could have been a lot better 2 out of 10",
+         "It's difficult for me to rate The Pact II. I don't think it does anything horribly and it maintains the low-key, left-from-center tilt of the first film, but it doesn't really add anything besides more back-story and a new central character. It isn't particularly frightening, with none of the stand-out scares or nightmare sequences of the original, but it isn't painful to watch and the acting is serviceable. The Pact II is a film where you can't really give much of a synopsis without ruining the plot. Who everyone is, where Annie (the lead from the original, played by Arrow's Caity Lotz) figures into the events, what the intention of the film is... It can be said that June Abbott (Camilla Luddington, the new Lara Croft, doing a pretty killer American accent), is a crime-scene cleaner who becomes involved in a series of murders linked to the original film when an FBI Agent, Ballard, begins to push in on her life, suggesting she has a connection with the investigation beyond scraping blood off the walls. Ballard, by the way, is portrayed by the always quirky Patrick Fischler, whom I most fondly remember from an enormously weird diner sequence in David Lynch's 'Mulholland Drive'. He was intense and bizarre in that, and he's been intense and bizarre pretty much ever since. He is, for me, the shining point of The Pact II, as giving him a larger role than I normally see him get proves to be the best part of the film. June also has a mother (Amy Pietz) and a cop boyfriend (Scott Michael Foster) who think she works too much, and they both figure prominently in the story. As June becomes more involved with the investigation and the case becomes more personal, the film begins to lose touch with reality, much as the original did. Bad dreams, visions of the dead, phantoms yanking characters into and out of rooms and lost hours invade the story and are probably meant to scare, but for the most part we're just wondering when Annie's going to show up and where exactly the film is heading. When Annie does arrive, pulling bits of the first film with her, it is sadly not the breath of fresh air the movie needed to liven things up. It just keeps limping towards a conclusion, occasionally waving its hands and shouting 'boo', trying to ape the original's panache. The film does conclude, kind of. The climax eschews any sense of dread or otherworldly malice in favor of stabbings, beatings and revelations, à la Scream, only (thankfully) without the self-referential winks and the nods. Apparently, someone saw the first film and saw franchise potential, because the ending comes with a promise of more. \"It's starting again,\" a character says. More what, though? And what's starting again, exactly? Murders? Floating bodies? Bad dreams? The questions that were answered in the film pretty much sealed the deal on the original's back-story, so we're left scratching our heads as to what the hell they're talking about. Patrick Fischler is awesome, and I'm more than happy to watch Caity Lotz and Camilla Luddington duke it out with the otherworldly, but The Pact II does little more than coast on the high praise of the original, and its suggestion that it's not quite done yet feels more like a threat to entertainment than to comely young twenty-somethings. 4/10 - It's below average, but it's not offensively bad"
+      ],
+      "genres": [
+         "Horror",
+         "Mystery",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Campfire",
+         "Preferred Film & TV"
+      ],
+      "summaries": ["A woman who is plagued by nightmares involving a serial killer learns her dreams have a horrifying connection to the real world."],
+      "budget": 0
+   },
+   "movielensId": 136636,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2014-09-05",
+      "dvdReleaseDate": null,
+      "directors": [
+         "Dallas Richard Hallam",
+         "Patrick Horvath"
+      ],
+      "runtime": 96,
+      "movieId": 136636,
+      "title": "The Pact II",
+      "mpaa": "NR",
+      "actors": [
+         "Camilla Luddington",
+         "Caity Lotz",
+         "Scott Michael Foster",
+         "Haley Hudson",
+         "Amy Pietz",
+         "Patrick Fischler",
+         "Mark Steger",
+         "Nicki Micheaux"
+      ],
+      "imdbMovieId": "2924442",
+      "originalTitle": "The Pact II",
+      "genres": [
+         "Mystery",
+         "Horror",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": ["R3xKJ6RDN7Q"],
+      "plotSummary": "The sequel is set just weeks after Annie Barlow's deadly confrontation with the Judas Killer. In this elevated sequel, we meet June, a woman whose carefully constructed life is beginning to unravel due to lucid nightmares so awful they disturb her waking life",
+      "tmdbMovieId": 228358,
+      "avgRating": 2.46875,
+      "releaseYear": "2014",
+      "numRatings": 32,
+      "posterPath": "/7wgdW7nMRyILnt5IAvizZjEZlsA.jpg"
+   }
+}

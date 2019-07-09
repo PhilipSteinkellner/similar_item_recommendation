@@ -1,0 +1,947 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "pennsylvania",
+            "id": 904
+         },
+         {
+            "name": "kidnapping",
+            "id": 1930
+         },
+         {
+            "name": "maze",
+            "id": 2158
+         },
+         {
+            "name": "vigilante",
+            "id": 7002
+         },
+         {
+            "name": "rural setting",
+            "id": 11004
+         },
+         {
+            "name": "candlelight vigil",
+            "id": 166625
+         }
+      ],
+      "imdb_id": "tt1392214",
+      "video": false,
+      "title": "Prisoners",
+      "recommendations": [
+         242582,
+         181886,
+         1949,
+         109424,
+         45612,
+         77016,
+         23168,
+         59440,
+         103663,
+         210479,
+         322,
+         273481,
+         4553,
+         4771,
+         320,
+         1538,
+         193756,
+         168672,
+         164457,
+         7345
+      ],
+      "backdrop_path": "/cLGKawjQ5tUJCuDyR0OnGYT4fyf.jpg",
+      "revenue": 122126687,
+      "reviews": [
+         {
+            "author": "Andres Gomez",
+            "id": "553bab6a92514135c8002309",
+            "content": "Really intense and well done thriller. One of the few in the last years with great performances by Jackman, Gyllenhaal and Dano.\r\n\r\nIt also has some content to chew. I really enjoyed watching it.",
+            "url": "https://www.themoviedb.org/review/553bab6a92514135c8002309"
+         },
+         {
+            "author": "Gimly",
+            "id": "589842ebc3a36877150072ef",
+            "content": "Certainly Villenueve's most accessible film, but still a very good one.\r\n\r\nFinal rating:★★★½ - I strongly recommend you make the time.",
+            "url": "https://www.themoviedb.org/review/589842ebc3a36877150072ef"
+         },
+         {
+            "author": "StbMDB",
+            "id": "590b07a09251414f9901272b",
+            "content": "What a powerful film and what a great acting. I just couldn't help rewinding various scenes throughout, especially when Jackman's character showed anger and frustration for either his child being abducted or having what he thought was the culprit being tortured, although getting nowhere. Definitely a must for Mystery/Drama.\r\n\r\n8/10",
+            "url": "https://www.themoviedb.org/review/590b07a09251414f9901272b"
+         }
+      ],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Keller Dover",
+               "gender": 2,
+               "credit_id": "52fe4b799251416c75103ef7",
+               "name": "Hugh Jackman",
+               "profile_path": "/dFbNlPpiEPupTAlNVNh5vrxBU1h.jpg",
+               "id": 6968,
+               "order": 0
+            },
+            {
+               "cast_id": 1,
+               "character": "Detective Loki",
+               "gender": 2,
+               "credit_id": "52fe4b789251416c75103ef3",
+               "name": "Jake Gyllenhaal",
+               "profile_path": "/wRgIPBzVzIIhWcdJAduPOKJJHsL.jpg",
+               "id": 131,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Alex Jones",
+               "gender": 2,
+               "credit_id": "52fe4b799251416c75103efb",
+               "name": "Paul Dano",
+               "profile_path": "/zEJJsm0z07EPNl2Pi1h67xuCmcA.jpg",
+               "id": 17142,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Grace Dover",
+               "gender": 1,
+               "credit_id": "52fe4b799251416c75103eff",
+               "name": "Maria Bello",
+               "profile_path": "/tFkbad0JoWvYc6XYBITv6EfeLwR.jpg",
+               "id": 49,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Holly Jones",
+               "gender": 1,
+               "credit_id": "52fe4b799251416c75103f03",
+               "name": "Melissa Leo",
+               "profile_path": "/fcDdsUAyp7DZEi4UEzGXZEjXlUC.jpg",
+               "id": 6832,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Nancy Birch",
+               "gender": 1,
+               "credit_id": "52fe4b799251416c75103f07",
+               "name": "Viola Davis",
+               "profile_path": "/9nhqKVGA09DLeZqsvWVoNeTRlRQ.jpg",
+               "id": 19492,
+               "order": 5
+            },
+            {
+               "cast_id": 14,
+               "character": "Franklin Birch",
+               "gender": 2,
+               "credit_id": "52fe4b799251416c75103f2f",
+               "name": "Terrence Howard",
+               "profile_path": "/MZeLxOH0PgL7xcvt865WVBvQDw.jpg",
+               "id": 18288,
+               "order": 6
+            },
+            {
+               "cast_id": 22,
+               "character": "Ralph Dover",
+               "gender": 2,
+               "credit_id": "52fe4b799251416c75103f57",
+               "name": "Dylan Minnette",
+               "profile_path": "/4H7ycJx7nU3PRUEn5N3843DJASM.jpg",
+               "id": 112476,
+               "order": 7
+            },
+            {
+               "cast_id": 23,
+               "character": "Eliza Birch",
+               "gender": 1,
+               "credit_id": "52fe4b799251416c75103f5b",
+               "name": "Zoë Borde",
+               "profile_path": "/m40sSN2l2tQtpKbhRbjm7sksNV9.jpg",
+               "id": 1208406,
+               "order": 8
+            },
+            {
+               "cast_id": 24,
+               "character": "Captain Richard O'Malley",
+               "gender": 2,
+               "credit_id": "52fe4b799251416c75103f5f",
+               "name": "Wayne Duvall",
+               "profile_path": "/zCgi06IEyC3BM36PuscNdcXCTAC.jpg",
+               "id": 1470,
+               "order": 9
+            },
+            {
+               "cast_id": 25,
+               "character": "Bob Taylor",
+               "gender": 2,
+               "credit_id": "52fe4b799251416c75103f63",
+               "name": "David Dastmalchian",
+               "profile_path": "/3cdrnfthY40ZsIhq1FBEwGJq9mE.jpg",
+               "id": 83854,
+               "order": 10
+            },
+            {
+               "cast_id": 26,
+               "character": "Father Patrick Dunn",
+               "gender": 2,
+               "credit_id": "52fe4b799251416c75103f67",
+               "name": "Len Cariou",
+               "profile_path": "/sXYaqG6en0MGbXG0zpVaWD7y76W.jpg",
+               "id": 41247,
+               "order": 11
+            },
+            {
+               "cast_id": 27,
+               "character": "Mrs. Milland",
+               "gender": 1,
+               "credit_id": "52fe4b799251416c75103f6b",
+               "name": "Sandra Ellis Lafferty",
+               "profile_path": "/x84X0jwGl063wTGSmw7M8J0SxhS.jpg",
+               "id": 427,
+               "order": 12
+            },
+            {
+               "cast_id": 52,
+               "character": "Anna Dover",
+               "gender": 0,
+               "credit_id": "57f5c117c3a368160c0022cb",
+               "name": "Erin Gerasimovich",
+               "profile_path": null,
+               "id": 1224251,
+               "order": 13
+            },
+            {
+               "cast_id": 53,
+               "character": "Joy Birch",
+               "gender": 1,
+               "credit_id": "57f5c1dbc3a368161600279f",
+               "name": "Kyla Drew Simmons",
+               "profile_path": null,
+               "id": 1371108,
+               "order": 14
+            },
+            {
+               "cast_id": 54,
+               "character": "Officer Carter",
+               "gender": 0,
+               "credit_id": "57f5c2a4c3a36816250026e5",
+               "name": "Brad James",
+               "profile_path": "/4AWcuJXdiFjqN8gSFMOhOXiRzLh.jpg",
+               "id": 935722,
+               "order": 15
+            },
+            {
+               "cast_id": 55,
+               "character": "Officer Wedge",
+               "gender": 0,
+               "credit_id": "57f5c2f7925141360100278a",
+               "name": "Anthony Reynolds",
+               "profile_path": "/qxyE7oezAs67CYP5NaFTObiJXGm.jpg",
+               "id": 1088938,
+               "order": 16
+            },
+            {
+               "cast_id": 56,
+               "character": "Forensics Guy",
+               "gender": 2,
+               "credit_id": "57f5c3eb925141360300274b",
+               "name": "Robert C. Treveiler",
+               "profile_path": "/2WQt89JHH5F8pRfAviRsyXUK7aV.jpg",
+               "id": 52490,
+               "order": 17
+            },
+            {
+               "cast_id": 57,
+               "character": "Check Out Girl",
+               "gender": 1,
+               "credit_id": "57f5c45192514116e60002d8",
+               "name": "Victoria Staley",
+               "profile_path": "/8JMSptluq31c01Ut3k30zQirSTa.jpg",
+               "id": 1071346,
+               "order": 18
+            },
+            {
+               "cast_id": 58,
+               "character": "Detective Chemelinski",
+               "gender": 0,
+               "credit_id": "57f5c4a1c3a3681607002611",
+               "name": "Todd Truley",
+               "profile_path": "/40LiLjZINuAopHCRm68326DVe85.jpg",
+               "id": 156874,
+               "order": 19
+            },
+            {
+               "cast_id": 59,
+               "character": "Desk Sergeant",
+               "gender": 0,
+               "credit_id": "57f5c4f3925141360d002860",
+               "name": "Brian Daye",
+               "profile_path": null,
+               "id": 1689933,
+               "order": 20
+            },
+            {
+               "cast_id": 60,
+               "character": "Police Clerk",
+               "gender": 1,
+               "credit_id": "57f5c5a9c3a3681616002942",
+               "name": "Alisa Harris",
+               "profile_path": "/lOQPYsCsRtNYyJD2NBK8klG3LTA.jpg",
+               "id": 1407899,
+               "order": 21
+            },
+            {
+               "cast_id": 61,
+               "character": "Roger",
+               "gender": 0,
+               "credit_id": "57f5c65392514136130029b3",
+               "name": "Robert Mello",
+               "profile_path": null,
+               "id": 1388694,
+               "order": 22
+            },
+            {
+               "cast_id": 62,
+               "character": "Sex Offender",
+               "gender": 2,
+               "credit_id": "57f5cab4925141360d002abe",
+               "name": "Jeff Pope",
+               "profile_path": "/a8a1ZE5oflELBa3h9JiWUIPbTo4.jpg",
+               "id": 1658615,
+               "order": 23
+            },
+            {
+               "cast_id": 63,
+               "character": "Sex Offender",
+               "gender": 0,
+               "credit_id": "57f5cc22c3a3681616002be1",
+               "name": "Rodrick Goins",
+               "profile_path": null,
+               "id": 1689980,
+               "order": 24
+            },
+            {
+               "cast_id": 64,
+               "character": "Sex Offender",
+               "gender": 0,
+               "credit_id": "57f5ccdcc3a36816040029a8",
+               "name": "Mark Drum",
+               "profile_path": null,
+               "id": 1689981,
+               "order": 25
+            },
+            {
+               "cast_id": 65,
+               "character": "Chinese Waitress",
+               "gender": 1,
+               "credit_id": "57f5cd7bc3a3681625002af3",
+               "name": "Lana Yoo",
+               "profile_path": "/yMH02narpDESle2uEVwkT8Vqaje.jpg",
+               "id": 1689982,
+               "order": 26
+            },
+            {
+               "cast_id": 66,
+               "character": "Police Station Reporter",
+               "gender": 0,
+               "credit_id": "57f5ce619251413603002b3b",
+               "name": "Pam Smith",
+               "profile_path": null,
+               "id": 1689983,
+               "order": 27
+            },
+            {
+               "cast_id": 67,
+               "character": "Police Station Reporter",
+               "gender": 1,
+               "credit_id": "57f5cef69251413613002ced",
+               "name": "Gloria Webber",
+               "profile_path": null,
+               "id": 1689984,
+               "order": 28
+            },
+            {
+               "cast_id": 68,
+               "character": "Woman at Vigil",
+               "gender": 0,
+               "credit_id": "57f5cf77c3a3681604002b04",
+               "name": "Michelle Keller",
+               "profile_path": null,
+               "id": 1689985,
+               "order": 29
+            },
+            {
+               "cast_id": 69,
+               "character": "Newscaster",
+               "gender": 0,
+               "credit_id": "57f5d03bc3a3681616002df8",
+               "name": "John Atwood",
+               "profile_path": "/n0EYEuaqazopiwTn3vZI8sV0Vb1.jpg",
+               "id": 1567589,
+               "order": 30
+            },
+            {
+               "cast_id": 70,
+               "character": "Woman Motorist",
+               "gender": 0,
+               "credit_id": "57f5d086925141360d002d33",
+               "name": "Stacy Melich",
+               "profile_path": null,
+               "id": 1377068,
+               "order": 31
+            },
+            {
+               "cast_id": 71,
+               "character": "Cop in Hospital",
+               "gender": 2,
+               "credit_id": "57f5d0c1c3a3681604002ba8",
+               "name": "J. Omar Castro",
+               "profile_path": "/gAcpNnOVwuzXM1IghKR2sTIacx4.jpg",
+               "id": 206027,
+               "order": 32
+            },
+            {
+               "cast_id": 72,
+               "character": "Nurse",
+               "gender": 0,
+               "credit_id": "57f5d16ac3a368161c002d62",
+               "name": "Jane McNeill",
+               "profile_path": "/r8ss9Gv9zABNrc3pz4k06THuhw6.jpg",
+               "id": 1078610,
+               "order": 33
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4b799251416c75103f0d",
+               "name": "Denis Villeneuve",
+               "profile_path": "/433lXlkdMGXzrpwnKM4Ul1sln15.jpg",
+               "id": 137427,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4b799251416c75103f13",
+               "name": "Aaron Guzikowski",
+               "profile_path": "/7QbiXxPB8u6VxsGiAX6B5O5ZzmE.jpg",
+               "id": 935990,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4b799251416c75103f19",
+               "name": "Kira Davis",
+               "profile_path": null,
+               "id": 74038,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4b799251416c75103f1f",
+               "name": "Broderick Johnson",
+               "profile_path": null,
+               "id": 47285,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4b799251416c75103f25",
+               "name": "Adam Kolbrenner",
+               "profile_path": null,
+               "id": 1122643,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4b799251416c75103f2b",
+               "name": "Andrew A. Kosove",
+               "profile_path": null,
+               "id": 47286,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4b799251416c75103f35",
+               "name": "Jóhann Jóhannsson",
+               "profile_path": "/eUYIMfC2UBd7FK8SHGhTqI4tXGJ.jpg",
+               "id": 117992,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4b799251416c75103f3b",
+               "name": "Joel Cox",
+               "profile_path": null,
+               "id": 384,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4b799251416c75103f41",
+               "name": "Gary D. Roach",
+               "profile_path": null,
+               "id": 74319,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4b799251416c75103f47",
+               "name": "Patrice Vermette",
+               "profile_path": null,
+               "id": 102873,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4b799251416c75103f4d",
+               "name": "Paul D. Kelly",
+               "profile_path": null,
+               "id": 1206767,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4b799251416c75103f53",
+               "name": "Renée April",
+               "profile_path": null,
+               "id": 6057,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4b799251416c75103f71",
+               "name": "Roger Deakins",
+               "profile_path": "/pSCN7CfILlfQrxX43Kgqrx5mBYQ.jpg",
+               "id": 151,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "53625174c3a368397e0016bb",
+               "name": "Kerry Barden",
+               "profile_path": "/zb3khdNgVHerkFz4esvjSZHnbDW.jpg",
+               "id": 5328,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53625187c3a3683965001546",
+               "name": "Paul Schnee",
+               "profile_path": null,
+               "id": 19689,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "536251a3c3a368397600169d",
+               "name": "Donald Mowat",
+               "profile_path": null,
+               "id": 1315700,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Department Head"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56919e9092514179a6000ef6",
+               "name": "Taylor Knight",
+               "profile_path": null,
+               "id": 1096345,
+               "department": "Costume & Make-Up",
+               "job": "Key Hair Stylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56919eadc3a36802e8000f23",
+               "name": "Gail Hunter",
+               "profile_path": null,
+               "id": 1458202,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56919ec992514179a000101d",
+               "name": "Wilson Webb",
+               "profile_path": null,
+               "id": 1452675,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56919ee192514179a6000f01",
+               "name": "Frank Galline",
+               "profile_path": null,
+               "id": 1560275,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56919f0fc3a36802e4000f64",
+               "name": "Mary H. Ellis",
+               "profile_path": null,
+               "id": 1550166,
+               "department": "Sound",
+               "job": "Sound mixer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56919f2cc3a36802ec000dfa",
+               "name": "Alan Robert Murray",
+               "profile_path": null,
+               "id": 1368865,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5691a01f92514179b0000f0a",
+               "name": "Gregg Rudloff",
+               "profile_path": null,
+               "id": 1341858,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5691a02cc3a36802e4000fe1",
+               "name": "John T. Reitz",
+               "profile_path": null,
+               "id": 1342626,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5691a042c3a36802ec000e4e",
+               "name": "Hugo Weng",
+               "profile_path": null,
+               "id": 1050930,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5691a04e92514179a6000f87",
+               "name": "Tom Ozanich",
+               "profile_path": null,
+               "id": 1368866,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5691a06092514179aa000e14",
+               "name": "Katy Wood",
+               "profile_path": null,
+               "id": 1458578,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5691a07592514179a3000dcc",
+               "name": "Paul Apted",
+               "profile_path": null,
+               "id": 1406190,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5691a08c925141799e000eb7",
+               "name": "Bub Asman",
+               "profile_path": null,
+               "id": 375,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5691a0a492514179b0000f2c",
+               "name": "Jason King",
+               "profile_path": null,
+               "id": 1428595,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5691a0bbc3a36802f6000fdd",
+               "name": "Mark Larry",
+               "profile_path": null,
+               "id": 1399632,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5691a18392514179a6001000",
+               "name": "Steven Ritzi",
+               "profile_path": null,
+               "id": 1333222,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5691a1a2c3a36802e8001023",
+               "name": "Chris Napolitano",
+               "profile_path": null,
+               "id": 1401988,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5691a1b7c3a36802e2000f1b",
+               "name": "Kevin J. Lang",
+               "profile_path": null,
+               "id": 1536000,
+               "department": "Lighting",
+               "job": "Rigging Gaffer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5691a1e292514179b3000f44",
+               "name": "Roger Deakins",
+               "profile_path": "/pSCN7CfILlfQrxX43Kgqrx5mBYQ.jpg",
+               "id": 151,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5691a1f392514179a0001125",
+               "name": "Bela Trutz",
+               "profile_path": null,
+               "id": 1560966,
+               "department": "Camera",
+               "job": "Steadicam Operator"
+            },
+            {
+               "gender": 1,
+               "credit_id": "57fe1df7c3a368504a0029e7",
+               "name": "Mirela Rupic",
+               "profile_path": "/5z0I2eRwBrJjSv27ig4VnU0lmCZ.jpg",
+               "id": 1693424,
+               "department": "Costume & Make-Up",
+               "job": "Assistant Costume Designer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         },
+         {
+            "name": "Crime",
+            "id": 80
+         }
+      ],
+      "popularity": 34.601352,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 146233,
+      "vote_count": 4091,
+      "budget": 46000000,
+      "overview": "When Keller Dover's daughter and her friend go missing, he takes matters into his own hands as the police pursue multiple leads and the pressure mounts. But just how far will this desperate father go to protect his family?",
+      "similar": [
+         562,
+         275,
+         8067,
+         2163,
+         1571,
+         4771,
+         431,
+         11412,
+         298312,
+         156022,
+         6947,
+         2652,
+         336843,
+         395990,
+         14869,
+         123109,
+         270487,
+         82507,
+         33107,
+         8834
+      ],
+      "original_title": "Prisoners",
+      "runtime": 153,
+      "poster_path": "/yAhqW57pwMAsCgmZpM5zSIVQVTh.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Madhouse Entertainment",
+            "id": 12199,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Alcon Entertainment",
+            "id": 1088,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": null,
+            "name": "8:38 Productions",
+            "id": 18208,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2013-09-18",
+      "vote_average": 7.9,
+      "belongs_to_collection": null,
+      "tagline": "Every moment matters.",
+      "adult": false,
+      "homepage": "http://prisonersmovie.warnerbros.com/",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Denis Villeneuve"],
+      "runtime": 153,
+      "synopsis": "Keller Dover (Hugh Jackman) and his son Ralph are hunting deer, Ralph drops a buck as Keller recites the Lord`s Prayer, then smiles approvingly at the teen. On the drive home Keller tells his son to always ``be ready``. An old RV drives past the Dover house. Later they talk about the family finances, Ralph wonders why they don't rent out the grandfather's old apartment, Keller says it is in too poor condition. The family, Keller, his wife Grace, son and daughter walk to a neighbor`s house for Thanksgiving dinner with their friends the Birches. The families have a good time together. While the adults cook the kids go out, Anna Dover jumps on the old RV parked by the curb, they realize someone is inside and return back to the Birch house. Franklin Birch (Terrence Howard) is an affable man and plays a bad trumpet. After dinner, the younger6-year old daughters leave to go back to Anna's house to get her safety whistle she is supposed to carry at all times. Some time later Keller realizes the girls haven`t returned and that the teens hadn`t escorted the two young ones. Keller searches his own home to no avail. Ralph returns from looking also and mentions the RV from earlier. Detective Loki (Jake Gyllenhaal) has Chinese food alone and chats with the waitress. His phone buzzes. After a police hunt, the white RV is found parked outside a gas station next to a wooded area. When Det. Loki, who heads the case, goes to confront the RV's driver, Alex Jones (Paul Dano), Alex panics, tries to speed away but crashes into the trees. Alex is taken in for questioning, but it is found that he has the IQ of a 10-year-old and rarely speaks. Detective Loki goes to see Alex's aunt, Holly Jones (Melissa Leo), who raised him with his uncle after his parents died when he was six. Alex's uncle left the home a couple years ago after a domestic dispute with his aunt. Alex spends most nights sleeping in the RV and does not have many things. The RV shows no forensic evidence indicating the girls were forcibly taken into or struggled inside the RV, and Alex's low intelligence means he couldn't have covered up such evidence. At night many volunteers search the woods calling for the girls. Loki comes to the Birch house and gets better photos of their daughter. At the Dovers, Loki tells Grace they passed the lie detector tests they did, he asks if there was a reason the girls ran away. Grace is weepy and says the girls were happy, Loki vows to find the girl. He greets Keller, who seems sure it must be the RV driver. Loki tells the Dovers the evidence against Alex Jones is weak and tries to calm him down. The polygraph tests of him prove inconclusive due to his low IQ, and he repeatedly denies ever having seen the children. As the police are unable to find evidence against Alex, he will be released in two days. Loki asks his Capt to hold Alex longer but the senior refuses. Loki updates him on the search. Loki interviews sex offenders within a 10 mile radius of the girls' homes. Loki discovers that a Father Patrick Dunn has a bound and mummified body in a barricaded basement. The body is wearing a circular medallion with a maze design. Father Dunn claims that he did not know who the man was, but that in confession the man talked about killing sixteen children and also admitted to having a marital dispute. Father Dunn confesses that he convinced the man to come to his house, where he killed him \"to save the children\" and is arrested for murder. The search of the woods and river continues. Keller has found out when Alex is being released and attacks him in the police parking lot. He hears Alex say \"They didn`t cry until I left them.\" Though no one is close enough to hear this to corroborate, but Keller takes this as proof that Alex took the girls. Captain O`Malley lets Dover off with a warning and sends him home after a brief talk with Loki. At the Jones house Loki interviews Alex and Holly again about the parking lot incident. He threatens to send the aunt to jail if Alex is not honest. He then leaves and stands in front of an old car. Grace is distraught, Keller gives her a sedative to help her sleep. He tells his son to be brave and grownup and look after his mother, then leaves the house. That night, Keller abducts Alex at gunpoint while walking his dog, and imprisons him in his father's old abandoned, run-down apartment house. The next morning He shows Franklin Birch, the captured man bound with duct tape; Birch is horrified as Keller starts questioning. Detective Loki researches past unsolved missing children's cases. One is Barry Milland, a boy missing since age 6, 26 years ago. An interview with his mother shows her playing and replaying a VHS tape of him just before his abduction. He interviews Father Dunn again, in custody. Dunn says the man abducted kids in daylight and took more than one at a time. Loki feels the info is useless. The body is not identified by DNA or missing persons' reports. Keller repeatedly beats Alex for information, enraged that the man won't say what he did with the girls. During a candlelight vigil for the missing girls, Detective Loki notices a man acting suspicious, but loses him in a chase. That evening Birch watches the news item on TV about the man, they show a sketch and the next day he goes to see Dover to tell him there is another possible man. Loki and his boss, Capt. O`Malley argue about resources for the continuing hunt. Loki watches the video of Alex' interview, he gets a phone call tip. A discount store clerk recognizes him and states that he comes in from time to time to examine children's mannequins and buy children's clothing. The clerk gives Loki the man's license plate to track him down. Franklin is overcome with guilt and tells his wife Nancy (Viola Davis) what they have done and brings her to see Keller. Dover brings her to the apartment where Alex is brutally beaten, bloody and tied to the bathroom floor. Shocked, she unties Alex and tries to talk to him nicely, but he attempts to escape. Dover grabs him. Tied again, Alex watches as Dover starts building something from plywood. Later, Dover then brings the Birches back to the apartment. Keller has built an enclosure around the bath tub in which he nails Alex. It is devoid of light except for a small PVC tube talk-hole. Keller says otherwise he would kill the man, and challenges the Birches to let him go. Franklin says it has to stop but does nothing when Nancy tells him to think of Joy. While the Birches teen daughter Eliza is in the bath the strange man walks silently in their house. Later the hooded man enters the Dovers house, Grace hears something and jumps out of bed. She finds an open window and believes Anna had come back. Detective Loki arrives writes down her statement of someone coming in through the window. Grace shows him the basement, Kellers well organized workshop. Loki sees a bag of lye and asks Grace where Keller is, she says he is out looking for their daughter. In a pouring rain, Loki follows Dover, but is \"made\", Dover turns back from the apartment and goes to a nearby liquor store instead.Loki wonders what he was doing in the area. Dover approaches with a bottle , and asks why he is being followed. He says this is first drink in nine years. Loki urges Dover to take care of himself and his wife. It has been six days, Dover gets very angry, but then goes home to sleep. He dreams he sees Anna. Loki works at his computer. He reads an old news archive of a suicide, which occurred at 234 Campobello, the same location Dover was near. The next day Keller tortures Alex with alternating scalding and freezing water from the showerhead. Alex tries to talk but Dover just wants to hear where the girls are. Dover kneels to pray. Loki arrives at the boarded up building and enters the ground floor. He finds Dover pretending to sleep on the floor. Dover gives the policeman a short tour of the ramshackle building, then his cell phone rings with the store clerk, the intruder has been spotted. Loki leaves quickly. Loki confronts Taylor at his home, notices he is strange and forcibly handcuffs hime. He calls it in and searches the house. The walls are covered in drawings of intricate mazes. In a back room, locked boxes are filled with maze books, venomous snakes, and bloody children's clothing. At the police station both the Dovers and Birches identify clothing belonging to their children from the crates, and Taylor confesses to killing them. Taylor is weeping while handcuffed in the interrogation room and draws a maze. Loki watches for awhile then enters. He loses control and beats Taylor during questioning, other cops rush in. Taylor manages to grab one of the officers' gun from his belt and commits suicide. Back at the apartment prison Keller sits and recites the Lord`s Prayer. At the police station the Captain chides Loki for the death. Keller is drinking as Alex finally talks and mentions something about finding the girls in a maze. Keller goes to the Jones home to \"apologize\" to Holly for attacking Alex at the police station. She invites him in and tells Dover her son died of cancer and commiserates. Keller says he dreams of Anna in a maze. Holly also mentions her husband kept snakes. A newspaper headline grabs Dover`s attention, the report of Taylor's suicide. Capt. O`Malley tries to tell Loki to get over it, you can`t win them all and to find a girlfriend. Loki goes to his workstation in a rage. In a pile of photos he notices a picture of a maze similar to the one Taylor was drawing. Back at Taylor`s house another cop reveals the blood on the children's clothes is later found to be pig's blood. Taylor is now felt to be a fake killer copying a book titled \"The Invisible Man\" which prominently features mazes, especially a circular maze (seen in the \"O\" in the \"Prisoners\" logo and as the maze medallion worn by the body in Father Dunn's basement) which Taylor was drawing while in custody. Loki can`t figure out how Taylor had the missing girl`s clothes. He returns to the Dover`s house and finds a small sock in the bushes. Someone calls Grace and she excitedly finds Keller. Joy Birch has been found wandering, drugged and is hospitalized. Keller tries to question the young girl. Anna remains missing. In her drugged state, Joy rambles that Keller was there, giving the people around her the impression that Keller is somehow in on it. Keller rushes off as Loki chases him in the hospital, then to a car chase outside. Loki loses Keller, but heads towards Keller's apartment building and discovers the imprisoned Alex. Keller has gone to Holly's, with a tool belt and offering to do some penance for his behaviour. Holly once again is friendly and invites him in for a tea. Keller confronts her about the girls but the woman holds him at gunpoint and forces him to put on handcuffs and consume the same sedative used to drug Anna and Joy. At gubnpoint she directs him to an old car outside . She reveals that she and her husband had been religious people, like Keller, until their son died of cancer at a young age. Holly and her husband decided to make a war on God by making children disappear without a trace to turn their parents into demons, as evidenced by what Keller had become. Her husband then disappeared and she ``does what she can``. She orders Keller to drive slowly, and tells him Alex never touched the girls. The car had been covering a pit, Holly tries to force him in and shoots him in the leg, he drops into the hole. She closes the lid and parks the car again over the lid. The Capt. tells Loki to go to Holly`s and let her know about Alex. With a small flashlight Keller explores his dungeon. He finds his daughter's whistle, and prays for Anna`s safety. Loki arrives. Holly goes to a locked room to get Anna. Loki enters the house and sees an old photo of Alex and his RV. He then creeps toward a noise. Holly is injecting the girl with a syringe and Loki demands she stop, they both fire their weapons. Holly is killed and a wounded,bloody Loki races the girl to the hospital. The next morning a bandaged Loki reads a newspaper, the headline says Barry Milland, aka Alex Jones has been reunited with his family. Grace comes in and says Anna will be fine, the Birches and Dovers leave. Grace says Keller still hasn`t contacted her, she realizes Keller will be going to jail when caught. At night, at the Jones house the CSI techs say they have found some dead snakes but the ground is frozen. They leave for the night. Loki stays behind for a while then hears a whistle.",
+      "writers": ["Aaron Guzikowski"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt1392214/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_SY317_CR0,0,214,317_AL_.jpg",
+      "actors": ["Stars: Hugh Jackman, Jake Gyllenhaal, Viola Davis | See full cast and crew »"],
+      "reviews": [
+         "This was one intense movie-going experience. Throughout the entire running time of the movie, the suspense never lets up. The director masterfully weaves the haunting atmosphere, and I was at the edge of my seat. The plot is a wonderful puzzle, unraveling slowly to reveal hidden layers of depth and complexity. The acting was wonderful, emotional and nuanced, with some unforgettable moments (The two leads - Gyllenhaal and Jackman - give their career best performances, but the biggest achievement in my opinion is Paul Dano's). The musical score contributes to a sense of dread, as well as the rich sound design and the chilly color palette of the breathtaking cinematography. All those parts add up to a rare, gut-wrenching, dark and fascinating masterpiece - the kind that lingers with you long after the credits roll.",
+         "There is a sensitivity that Director Denis Villenueve and writer Aaron Guzikowski inhabit in bringing their newest film \"Prisoners\" from Warner Bros. to the screen. Starring an Academy Award nominated cast that includes Hugh Jackman, Jake Gyllenhaal, Terence Howard, Maria Bello, Viola Davis, Oscar-winner Melissa Leo, and Paul Dano, this is a smartly constructed and emotionally resound mystery thriller that is thoroughly enjoyable. The synopsis is fully in the trailer. When two young girls go missing, one belonging to Keller and Grace (Jackman and Bello), the other to Franklin and Nancy (Howard and Davis), a hot-shot detective (Gyllenhaal) is assigned to the case and relentlessly tries to find the clues that could lead to the whereabouts of the missing. When a mentally handicapped Alex Jones (Dano) is found near the scene of the disappearance with no hard evidence, Keller takes matters into his own hands. I have to say that I've never been this hypnotized with the works of Hugh Jackman and Jake Gyllenhaal. Jackman, who is fresh of his inaugural nomination for Tom Hooper's \"Les Miserables\" has capitalized in a massive way. Approaching his character with the ferocity that made him a star in the \"X-Men\" franchises, he hammers his way into every scene, keeping the audience guessing about their own moral complexities. He tears into scenes in a way we've never seen him and layers his character with plenty of affection, empathy, grief, and rage. It's his best dramatic endeavor he's ever done. When it comes to Jake Gyllenhaal, many, and probably for the right reasons, gravitate towards his work in Ang Lee's \"Brokeback Mountain\" as his shining moment in film history. I believe he's gone deeper in works like \"Jarhead\" and \"Zodiac\" but those were just the surface of what he can do as an actor. As Detective Loki, Gyllenhaal stands firm and tall in one of the year's finest performances. Terrifically executed as a man disconnected from real emotion, he finds himself enamored by the mystery surrounding two missing girls. He also orchestrates character beats and ticks that's reminiscent of Joaquin Phoenix's towering work in \"The Master\" last year. What is very refreshing in the film is it offers a great reminder of how brilliant an actor Terence Howard is. The Oscar-nominated actor seemed to fall by the wayside following his nomination for \"Hustle and Flow\" in 2006, coincidentally the same year Gyllenhaal snagged his first, and now has realized his capabilities when he chooses more dynamic and passionate characters. In a film that centers around his involvement, Paul Dano doesn't have too much to offer but is completely adequate in form. The film however is not entirely perfect. Aaron Guzikowski's depth screenplay offers a great mystery story, full of twists and turns, all the bit a tad predictable, but that's not where he falters so much. His construction of the female counterparts, Maria Bello, Viola Davis, and Melissa Leo, are not as crisply or smoothly put together as I'd like them to be. They each have one \"scene\" that gives us their character's motivation and the look into their cinematic psyche however, some are thrown in quite lazily and manages to halt the story in spots. The film's technical merits all rise to the abilities of its cast. Roger Deakins, the most overdue Cinematographer in the business, captures stunning portraits of conversations, weather, and scenes that continue to prove his brilliance in the film world. The film's score is masterfully placed by Jóhann Jóhannsson while Joel Cox and Gary Roach edit the film to an impeccable pace. At 153 minutes, the film is detailed, precise, and engaging nearly throughout. I feel there's a shorter cut of the film that would surely be a Best Picture nominee for this year's Academy Awards if it existed. The film could still garner that support with what they have now, but I think there are aspects of the film members won't be able to get around. A high level of violence and torture scenes infused with a longer run time could keep people at a distance. One thing that can't be denied is the towering works of Hugh Jackman and Jake Gyllenhaal. The two have offered plenty of memorable performances in their filmography, but their work in \"Prisoners\" is cut and clear their best they've offered. \"Prisoners\" is a magnificent achievement for the film year. Thorough, enigmatic, and purely amazing. A must-see for the movie lovers. The film opens in theaters this Friday, September 20.",
+         "Prisoners is a gritty, incredibly well-acted, suspenseful, thought-provoking crime drama thriller. The film mainly focus on the choices taken and the consequences faced by the characters when worst things happen to them. It simply raises the question: When your kid's life is at stake, how far are you willing to do to protect your family? It explores the likelihood of human behaviour when such crime is happening to us, blurring the lines between good and bad people. For a 153 minute movie, the story does unfolds at a slow and solemn pace (which hurts the film and might bore some audiences) but the dramatic scenes performed by the main cast members in the film will keep you engaged. Hugh Jackman and Jack Gyllenhaal both giving intense, Oscar-worthy performances here, defining and developing their characters with various layers of emotions: affection, anger, grief, empathy, guilt...throughout the film. The film's atmosphere, heavy rains, stormy days and icy cold winter managed to create a dark, dreadful environment to make up the dreary and haunting mood in the film. Every violent action taken by the characters are acts of desperation given that they are running out of time. However, the film is not perfect. Despite some plot problems from the various twists and turns shown in the film, the superb performances from the casts was sufficient enough to make the story succeed and believable. Highly recommended for those who wanted to watch a serious drama thriller with powerful, engaging acting performances from its talented casts. http://yjcool.blogspot.com/2013/09/movie-review-prisoners.html",
+         "Hugh Jackman takes you on a trip through the intense emotions a family is put through during its darkest hour. This may be his best role to date. From the trailers you know that his character will be out for blood as their daughter was kidnapped, but throughout the film you feel his pain, anger and moral struggles as he deals with this situation. The director does an excellent job of keeping you invested in the film emotionally even through some intensely violent scenes. Its dreary setting provides no comfort, but goes hand and hand with the narrative. This film may not be for those faint of heart but should be a must see for most viewers.",
+         "Wow, what an intensely suspenseful film Prisoners was. The film commences with a naturalistic and peaceful look of a suburban neighborhood, leafless trees calmly swaying along with the cool air that encompass them. All is fine, and a perfectly normal family visits their friends/neighbors for a delightful dinner and some music. Everything is fine and dandy until both family's two kids run off to retrieve a toy they left outside. After pleasant conversation, the two families begin to realize that their kids haven't gotten back yet. The noiseless environment around them feels incredibly unusual, and once they realize that their kids have officially gone missing, chaos breaks loose. We are suddenly presented with a ruthless father (played by Hugh Jackman) who loves his daughter so much that he's willing to transcend any morally difficult obstacles to hopefully locate her. A spectacular cast, ranging from the likes of Hugh Jackman to Jake Gyllenhaal to Viola Davis and Terrence Howard, create such a chilling atmosphere that everyone in the audience immediately notices the discomforting subject matter as they prepare for a disturbing viewing. One should know prior to visiting the movie theater that this film doesn't feature morally perfect individuals. They are all human beings cast into an unbelievably frightening situation, and this is where larges amounts of debate will stir. There's one side of the audience that will persistently detest the characters' actions and the characters themselves, and there's the other side (which I am proudly a part of) that will essentially understand that people can't possibly (always) be the \"goody-two-shoes\" heroes, perceived in Hollywood blockbusters, in reality- that, by god, I will partake morally and ethically questionable activities to save a precious, loved one, absolutely! Such conversation/argument is healthy for it proves the memorability factor of the film itself. After you witness the terrifically-crafted picture, you will find enjoyment in discussing the movie's events with friends and family with- eventually- two sides forming over the talk. And holy crap is Hugh Jackman entirely convincing in his performance. You can see the longing to find his sweet, innocent daughter through his miserable eyes, filled with redness, desperation, and anger. Then, there's Jake Gyllenhaal as the second lead, playing an ambitious cop who holds a very impressive resume: no unsolved cases left under his plate. Can that mean his skill will greatly help in this predicament? On a similar note, Paul Dano takes the prize after Hugh Jackman for another wonderful performance. No offense or anything, but he completely fits into these immensely creepy and eerie roles. Speaking of, the soundtrack will definitely remain in that shocked mind of yours long after you've left the theater because it fills us with a sense of hopelessness and discomfort. At times, it sounds exceptionally ominous with the disconcerting sound of those violins in play. At others, it sounds like the music weeps for all those involved. The pace never seems to drag even though it clocks in at around 150 minutes as you remain at the edge of seat the entire time, utterly perplexed by everything that's transpiring and wholly befuddled by the choices that these people are making. The film will make you cringe and question the humanity of the participants or the competence of our law (that word could mean two things). Although I was slightly disappointed with the end result, the majority of the film strongly intrigued me. And, oh, how could I forget, the cinematography is simply amazing. Roger Deakins, the brilliant cinematographer behind last year's Skyfall, manages the camera-work of this film as well. As one wise critic said, a drive in the rain never felt so disquieting- a moment of foreboding. Furthermore, I would not recommend skipping out on Prisoners unless you're of the type that prefers more lighthearted and fun movies like The Avengers. If you love films that explore more than just entertainment and \"fun,\" such as important themes and moral ambiguity as a whole, you cannot go wrong with Prisoners. With a mix of top-notch cinematography, remarkably unsettling music, superb performances, and a thrilling/powerful story, Prisoners will definitely be one of this year's features that I'll surely be remembering. The true cinema season has started; now, let's hope every film from here on out delivers like this one did.",
+         "I just came back from the theater and to be honest I went into this movie with very low expectation! But WOW did it prove me wrong. The film left me on the edge of my seat all the time, one could argue things were slow sometimes but it only adds to the beauty of the big picture. Performance are top notch and if it was for me I would give Jackman his very deserved Oscar for this amazing performance, of course all the other performances were really great also but Hugh's stands out for me. This movie is worth your time, and I'm sure by the end of it you'll keep talking about it with your friends, for me that is a success stamp if the movie can keep my mind busy all the time. This is not your feel-good movie. This is a perfectly paced thriller which I haven't seen anything like it in a very long time. For me this was a totally new experience as I usually go for lighter movies in the cinema, but after this movie I will go out of my comfort-zone in movies more often to find masterpieces like this one.",
+         "Prisoners, the new film from Canadian director Denis Villeneuve (Polytechnique), is a top notch nail-biting crime-drama that is as good a theatre as modern Hollywood has the ability to produce. Hugh Jackman and Maria Bello play the parental figures of the Dover family. They are your average hard-working blue-collar family who begin their story by visiting neighbours Franklin and Nancy Birch (Terrence Howard and Viola Davis) for a Thanksgiving dinner. The Franklins and the Dover's each have two children, the youngest of which (Anna and Joy) head out from their home on a November afternoon to play only to mysteriously disappear. Upon a frantic search, the Franklins and the Dover's suspect the worse. Especially when their elder children tell them of a mysterious camper that was parked just down the street. Police soon find the camper with Alex Jones (Paul Dano) behind the wheel. Alex has the mentality of a 10-year-old and tries fleeing when surrounded by authorities. But when Detective Loki (Jake Gyllenhaal) begins to interrogate Alex, he is less convinced that Alex was a part of the abduction. As days pass, Loki and Keller Doller work in opposite directions on the investigation. Keller is convinced that Alex Jones was a part of the abduction and kidnaps the frail and challenged Jones and tortures him for days in an attempt to extract answers. Meanwhile, Detective Loki follows leads that open up possibilities of a crime where multiple persons may be involved. And Oscar nominee Melissa Leo appears in a supporting but pivotal role that will assist in the closure. The trailer for Prisoners may have audiences hearkening back to Ron Howard's Ransom, but this is hardly the cookie-cutter kidnapping film that Mel Gibson lead back in 1996. Prisoners instead is an engulfing drama. One with a superb performance by lead Hugh Jackman that challenges how far someone would/should go in an effort to locate their stolen child. The script, from writer Aaron Guzikowski (Contrband) takes audiences down many different paths and emotional rides and Jackman's performance will have you rooting for his quest for answers even though his methods are unorthodox and highly illegal. The film is gritty and full of realistic characters and situations culminating in a perfect ending that goes 9/10ths of the way in giving its audience full closure. Not as much an edge-of-your seat thriller as it is a Zodiac type of crime drama where the stakes are the lives of two small children. Denis Villeneuve's last effort, Incendies, was nominated for an Academy Award for Best Foreign Film in 2011. Prisoners shows that he can move solidly into big star larger scaled films with the ease of a well worn slipper. And Prisoners catapults Villeneuve into not just a director to watch, but a director whose work should be awaited with palpable excitement. www.killerreviews.com",
+         "Prisoners is extremely suspenseful and equally disturbing. Canadian director Denis Villeneuve, whose last film was the equally spellbinding and disturbing Incendies, builds up the tension from the first frame and does not let up for the full 153 minutes of the movie. Aaron Guzikowski's script, though on the surface a child kidnapping thriller, bucks all Hollywood trends and, as well as being a taut thriller, poses serious moral issues. It also helps that the film has a first rate cast doing outstanding work: Hugh Jackman, Jake Gyllenhaal, Paul Dano, Terence Howard, Melissa Leo, Maria Bello and Viola Davis. Prisoners is not for the faint heated but is likely to feature strongly at next year's Oscars.",
+         "Prisoners movie review Prisoners is a Mystery/Thriller film starring Hugh Jackman, Jake Gyllenhaal, Terrence Howard, and Paul Dano. Prisoners is a film about two families who both of their daughters get kidnapped and both of the families with the help of the police, investigate and look for their daughters. This is a very dark, grim, and at times is a hard film to sit through. That being said, I have created a PainOmeter scale out of five (five being the worst) to inform you guys if you simply cannot take very violent and painful scenes. This will be addressed along will the film's final score. I loved this film! Hugh Jackman plays Anna's father and is the protagonist of the film. You can see how Jackman really loses his rag and does a great job as Keller Dover. There is one scene that involves Jackman doing something that I won't spoil but you will notice it and go WOW! The story is also very thought provoking and will keep you on the edge of your seat because of the direction and character building involved with this movie. Also Paul Dano who plays Alex Jones, is this weird adult with the IQ of a ten year old and is the main suspect of the investigation. I thought he nailed just the right tone of the character and was hard to \"look at\" at times. My favorite part of the film was surprisingly Jake Gyllenhaal's performance as the detective looking for the missing girls. Gyllenhaal still plays the role of a cop very well after all of that training for End Of Watch. Another great part of the film is that it manages to never take a rest on character building and story development. I hate when films give you time to take a break then start all over again and this film really avoids that entirely. I really have no problems with the film except for the runtime. Even though this was a great movie I just couldn't go for a perfect grade of an A+. I will give Prisoners an A solid.",
+         "Why You Might Like It: I can go on and on about the good things in this film and why most viewers will enjoy it. It has an outstanding cast that play their parts well, the directing and cinematography are gripping, and the story is something to marvel. This is an excellent film that I highly recommend. Why You Might Not Like It: I don't know why anyone wouldn't enjoy the movie. It does run over 2 hours, so some movie-goers might think that is a bit too long, but I don't think this movie will lose anyone's interest. Acting/Casting: 9.5* - As mentioned, the casting and acting is outstanding. Hugh Jackman gives the best performance of his career in my opinion. Paul Dano is downright creepy and plays his part to a tee. Jake Gyllenhaal, Terrence Howard, Maria Bello and the rest of the cast do great work as well. Directing/Cinematography/Technical: 8.5* - Let me just say that Denis Villeneuve has made his mark in the US after this one. The directing in this movie is gripping and pulls the viewer in from start to finish. I can't say enough about all of the small things that go into making the atmosphere in the movie amazing (the weather, the buildings, music, etc.) Plot/Characters: 8.5* - This is arguably one of the better abduction/kidnapping stories that I have seen. The plot is deep and has many layers that keep the viewer guessing all the way up until the very end. There is no doubt that the story plays a huge role in the final product that you see on the screen. Entertainment Value: 9* - It keeps you guessing throughout and on the edge of your seat from start to finish. Movies like this are why we go to the movies. Get out and see it. My Score: 9.5+8.5+8.5+9 = 35.5/4 = 8.875 Email your thoughts to filmwatchinfool@gmail.com"
+      ],
+      "genres": [
+         "Crime",
+         "Drama",
+         "Mystery",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Alcon Entertainment",
+         "8:38 Productions",
+         "Madhouse Entertainment"
+      ],
+      "summaries": [
+         "How far would you go to protect your family? Keller Dover is facing every parent's worst nightmare. His six-year-old daughter, Anna, is missing, together with her young friend, Joy, and as minutes turn to hours, panic sets in. The only lead is a dilapidated RV that had earlier been parked on their street. Heading the investigation, Detective Loki arrests its driver, Alex Jones, but a lack of evidence forces his release. As the police pursue multiple leads and pressure mounts, knowing his child's life is at stake the frantic Dover decides he has no choice but to take matters into his own hands. But just how far will this desperate father go to protect his family?",
+         "When two girls go missing, the families call the police. The brother of one of the girls says that an RV was parked on the street. The police find the RV and the man inside is a mentally challenged man. The detective in charge questions him but says nothing. The father of one of the girls tells the detective to keep him locked up so they can work on him. But he says without more evidence they have to let him go. When the father learns of this he goes to confront the man and the man says something which makes the father think he knows something. So he grabs him and works on him to make him talk but he doesn't. The detective continues to try and find the girls.",
+         "On the Thanksgiving, Keller Dover, his wife Grace, their teenage son Ralph and their little daughter Anna go to the home of their neighbors and friends Franklin Birch, his wife Nancy, their teenage daughter Eliza and their little daughter Joy to celebrate together in a lunch party. Anna and Joy want to play on the street and Ralph stays with them. The girls play in a ROV and Ralph brings them back home. Later Anna asks her father to go to their house with Joy to seek her emergency whistle and Keller tells her to call Ralph or Eliza to go with them. Later the families realize that the girls went alone have vanished and they call the police department. Detective Loki is assigned to the case and he arrests the teenager Alex Jones that drives the trailer. Soon they learn that Alex has the IQ of a ten year-old boy and he is discharged. When he is leaving the precinct with his aunt Holly Jones, Keller presses Alex and he says to Keller that \"the girls have not cried when he left them\". Keller asks to keep Alex imprisoned during the investigations, but Loki cannot hold him anymore. While Detective Loki investigates the pedophiles near the location, Keller decides to abduct Alex to torture him and find where his beloved daughter and her friend are, crossing the thin line between right and wrong.",
+         "When Keller Dover's daughter and her friend go missing, he takes matters into his own hands as the police pursue multiple leads and the pressure mounts. But just how far will this desperate father go to protect his family?"
+      ],
+      "budget": 46000000
+   },
+   "movielensId": 104879,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2013-09-18",
+      "dvdReleaseDate": "2013-12-17",
+      "directors": ["Denis Villeneuve"],
+      "runtime": 153,
+      "movieId": 104879,
+      "title": "Prisoners",
+      "mpaa": "R",
+      "actors": [
+         "Hugh Jackman",
+         "Jake Gyllenhaal",
+         "Paul Dano",
+         "Maria Bello",
+         "Melissa Leo",
+         "Viola Davis",
+         "Terrence Howard",
+         "Dylan Minnette",
+         "Zoë Borde",
+         "Wayne Duvall",
+         "David Dastmalchian",
+         "Len Cariou",
+         "Sandra Ellis Lafferty",
+         "Erin Gerasimovich",
+         "Kyla Drew Simmons",
+         "Brad James",
+         "Anthony Reynolds",
+         "Robert C. Treveiler",
+         "Victoria Staley",
+         "Todd Truley",
+         "Brian Daye",
+         "Alisa Harris",
+         "Robert Mello",
+         "Jeff Pope",
+         "Rodrick Goins",
+         "Mark Drum",
+         "Lana Yoo",
+         "Pam Smith",
+         "Gloria Webber",
+         "Michelle Keller",
+         "John Atwood",
+         "Stacy Melich",
+         "J. Omar Castro",
+         "Jane McNeill"
+      ],
+      "imdbMovieId": "1392214",
+      "originalTitle": "Prisoners",
+      "genres": [
+         "Drama",
+         "Thriller",
+         "Crime"
+      ],
+      "youtubeTrailerIds": [
+         "bpXfcTF6iVk",
+         "hB-jNPVK674",
+         "wCYRAH0jQH4",
+         "Y-zDBRtdf2w",
+         "EZiycCVzHpo",
+         "NOBzBMiSY2U"
+      ],
+      "plotSummary": "When Keller Dover's daughter and her friend go missing, he takes matters into his own hands as the police pursue multiple leads and the pressure mounts. But just how far will this desperate father go to protect his family?",
+      "tmdbMovieId": 146233,
+      "avgRating": 3.95249,
+      "releaseYear": "2013",
+      "numRatings": 4399,
+      "posterPath": "/yAhqW57pwMAsCgmZpM5zSIVQVTh.jpg"
+   }
+}

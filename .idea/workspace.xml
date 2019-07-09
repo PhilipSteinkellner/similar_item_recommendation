@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c005509-c168-4161-a506-62f8d307804d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/similaritem/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similaritem/manage.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/similaritem/pages/Recommender/extracted_content_ml-latest/1.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/similaritem/pages/Recommender/extracted_content_ml-latest/10.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/similaritem/pages/Recommender/extracted_content_ml-latest/100232.json" afterDir="false" />
@@ -2999,50 +2997,10 @@
       <change afterPath="$PROJECT_DIR$/similaritem/pages/Recommender/extracted_content_ml-latest/99899.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/similaritem/pages/Recommender/extracted_content_ml-latest/99906.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/similaritem/pages/Recommender/extracted_content_ml-latest/99957.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similaritem/pages/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similaritem/pages/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similaritem/pages/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similaritem/pages/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similaritem/pages/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similaritem/pages/static/pages/css/ie6.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similaritem/pages/static/pages/css/images/body-bg.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similaritem/pages/static/pages/css/images/coming-soon1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similaritem/pages/static/pages/css/images/coming-soon2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similaritem/pages/static/pages/css/images/comments.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similaritem/pages/static/pages/css/images/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similaritem/pages/static/pages/css/images/image-hover.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similaritem/pages/static/pages/css/images/logo.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similaritem/pages/static/pages/css/images/movie1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similaritem/pages/static/pages/css/images/movie10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similaritem/pages/static/pages/css/images/movie11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similaritem/pages/static/pages/css/images/movie12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similaritem/pages/static/pages/css/images/movie13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similaritem/pages/static/pages/css/images/movie14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similaritem/pages/static/pages/css/images/movie15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similaritem/pages/static/pages/css/images/movie16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similaritem/pages/static/pages/css/images/movie17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similaritem/pages/static/pages/css/images/movie18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similaritem/pages/static/pages/css/images/movie2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similaritem/pages/static/pages/css/images/movie3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similaritem/pages/static/pages/css/images/movie4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similaritem/pages/static/pages/css/images/movie5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similaritem/pages/static/pages/css/images/movie6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similaritem/pages/static/pages/css/images/movie7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similaritem/pages/static/pages/css/images/movie8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similaritem/pages/static/pages/css/images/movie9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similaritem/pages/static/pages/css/images/social.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similaritem/pages/static/pages/css/images/stars.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similaritem/pages/static/pages/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similaritem/pages/static/pages/js/jquery-1.4.2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similaritem/pages/static/pages/js/jquery-func.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similaritem/pages/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similaritem/pages/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similaritem/similaritem/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similaritem/similaritem/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similaritem/similaritem/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/similaritem/similaritem/wsgi.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/similaritem/pages/Recommender/movie_recommender.py" beforeDir="false" afterPath="$PROJECT_DIR$/similaritem/pages/Recommender/movie_recommender.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/similaritem/pages/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/similaritem/pages/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/similaritem/templates/result.html" beforeDir="false" afterPath="$PROJECT_DIR$/similaritem/templates/result.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -3055,22 +3013,26 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/similaritem/pages/Recommender/movie_recommender.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="539" column="47" selection-start-line="539" selection-start-column="47" selection-end-line="539" selection-end-column="47" />
+            <state relative-caret-position="1489">
+              <caret line="354" column="36" selection-start-line="354" selection-start-column="36" selection-end-line="354" selection-end-column="36" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
-                <element signature="e#1010#3328#0" />
-                <element signature="e#3379#6015#0" />
-                <element signature="e#6062#8657#0" />
-                <element signature="e#8705#10788#0" />
-                <element signature="e#10953#14606#0" />
-                <element signature="e#14622#18831#0" />
-                <element signature="e#18864#22222#0" />
-                <element signature="e#14076#14136#0" />
-                <element signature="e#14262#14545#0" />
-                <element signature="e#14602#14892#0" />
-                <element signature="e#14926#15570#0" />
+                <element signature="e#1213#3559#0" />
+                <element signature="e#3610#6246#0" />
+                <element signature="e#8949#12574#0" />
+                <element signature="e#16857#20175#0" />
+                <element signature="e#20451#20727#0" />
+                <element signature="e#20765#21057#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/similaritem/pages/Recommender/ml-20m/movies.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="1018" column="13" selection-start-line="1018" selection-start-column="4" selection-end-line="1018" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -3078,14 +3040,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/similaritem/pages/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+            <state relative-caret-position="185">
+              <caret line="64" column="8" lean-forward="true" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="8" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
-                <element signature="e#778#884#0" />
-                <element signature="e#1969#2041#0" />
-                <element signature="e#2090#2175#0" />
-                <element signature="e#2214#2935#0" />
+                <element signature="e#2383#2468#0" />
+                <element signature="e#2833#3207#0" />
               </folding>
             </state>
           </provider>
@@ -3094,19 +3054,19 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/similaritem/templates/result.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="41" column="50" selection-start-line="41" selection-start-column="50" selection-end-line="41" selection-end-column="50" />
+            <state relative-caret-position="648">
+              <caret line="147" selection-start-line="147" selection-end-line="147" />
               <folding>
+                <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#div#0;n#div#0;n#div#0;n#!!top" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#div#1;n#div#0;n#div#0;n#!!top" />
                 <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#div#2;n#div#0;n#div#0;n#!!top" />
-                <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#div#3;n#div#0;n#div#0;n#!!top" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#div#1;n#div#0;n#div#0;n#!!top" />
                 <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#div#4;n#div#0;n#div#0;n#!!top" />
+                <element signature="n#div#3;n#div#0;n#div#0;n#!!top" />
                 <element signature="n#style#0;n#div#5;n#div#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#div#5;n#div#0;n#div#0;n#!!top" />
               </folding>
@@ -3132,6 +3092,21 @@
       <find>main</find>
       <find>movielns</find>
       <find>movies_big</find>
+      <find>Interstellar</find>
+      <find>Lord of the Rings:</find>
+      <find>Lord of the Rings</find>
+      <find>4993</find>
+      <find>4992</find>
+      <find>lord of the rings</find>
+      <find>Going Places</find>
+      <find>Jesus Christ Superstar</find>
+      <find>tmdb</find>
+      <find>keywo</find>
+      <find>The good</find>
+      <find>ugly</find>
+      <find>Hangover</find>
+      <find>Star wars</find>
+      <find>die hard</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -3158,16 +3133,17 @@
         <option value="$PROJECT_DIR$/similaritem/templates/home.html" />
         <option value="$PROJECT_DIR$/similaritem/pages/static/pages/css/style.css" />
         <option value="$PROJECT_DIR$/similaritem/templates/base.html" />
-        <option value="$PROJECT_DIR$/similaritem/templates/result.html" />
-        <option value="$PROJECT_DIR$/similaritem/pages/views.py" />
+        <option value="$PROJECT_DIR$/similaritem/pages/Recommender/ml-20m/movies.csv" />
         <option value="$PROJECT_DIR$/similaritem/pages/Recommender/movie_recommender.py" />
+        <option value="$PROJECT_DIR$/similaritem/pages/views.py" />
+        <option value="$PROJECT_DIR$/similaritem/templates/result.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="27" />
+    <option name="x" value="62" />
     <option name="y" value="23" />
-    <option name="width" value="1680" />
+    <option name="width" value="1565" />
     <option name="height" value="949" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -3182,6 +3158,32 @@
             <path>
               <item name="similar_item_recommendation" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="~/PycharmProjects/Recommender/similar_item_recommendation" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="similar_item_recommendation" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/PycharmProjects/Recommender/similar_item_recommendation" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="similaritem" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="similar_item_recommendation" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/PycharmProjects/Recommender/similar_item_recommendation" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="similaritem" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="pages" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="similar_item_recommendation" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/PycharmProjects/Recommender/similar_item_recommendation" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="similaritem" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="pages" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Recommender" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="similar_item_recommendation" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/PycharmProjects/Recommender/similar_item_recommendation" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="similaritem" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="pages" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Recommender" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ml-20m" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -3290,7 +3292,8 @@
       <workItem from="1562079382581" duration="25481000" />
       <workItem from="1562316396895" duration="844000" />
       <workItem from="1562318173591" duration="69000" />
-      <workItem from="1562487422201" duration="5215000" />
+      <workItem from="1562487422201" duration="7983000" />
+      <workItem from="1562569418506" duration="8809000" />
     </task>
     <task id="LOCAL-00001" summary="implemented function same_actors">
       <created>1560429462412</created>
@@ -3348,16 +3351,24 @@
       <option name="project" value="LOCAL" />
       <updated>1562491682082</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Added some django related stuff">
+      <created>1562492983432</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1562492983432</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43733000" />
+    <option name="totallyTimeSpent" value="55310000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="27" y="23" width="1680" height="949" extended-state="0" />
+    <frame x="62" y="23" width="1565" height="949" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3003663" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32698622" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -3368,8 +3379,8 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.68070817" visible="true" weight="0.25437573" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.31929183" side_tool="true" visible="true" weight="0.25437573" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.6802364" visible="true" weight="0.3395566" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.31976363" side_tool="true" visible="true" weight="0.3395566" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
@@ -3510,13 +3521,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/similaritem/pages/Recommender/ml-1m/movies.dat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4946">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/similaritem/templates/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -3524,36 +3528,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/similaritem/pages/Recommender/extracted_content_ml-latest/1.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="2357" column="4" selection-start-line="2357" selection-start-column="4" selection-end-line="2357" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/similaritem/pages/models.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/similaritem/templates/result.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="41" column="50" selection-start-line="41" selection-start-column="50" selection-end-line="41" selection-end-column="50" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#!!top" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#!!top" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#div#2;n#div#0;n#div#0;n#!!top" />
-            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#div#3;n#div#0;n#div#0;n#!!top" />
-            <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#div#4;n#div#0;n#div#0;n#!!top" />
-            <element signature="n#style#0;n#div#5;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#div#5;n#div#0;n#div#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/similaritem/pages/Recommender/ml-20m/README.txt">
       <provider selected="true" editor-type-id="text-editor" />
@@ -3568,40 +3544,75 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/similaritem/manage.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/similaritem/pages/Recommender/ml-1m/movies.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="2047" column="23" selection-start-line="2047" selection-start-column="6" selection-end-line="2047" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/similaritem/pages/Recommender/extracted_content_ml-latest/1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/similaritem/pages/Recommender/ml-20m/movies.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="1018" column="13" selection-start-line="1018" selection-start-column="4" selection-end-line="1018" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/similaritem/pages/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        <state relative-caret-position="185">
+          <caret line="64" column="8" lean-forward="true" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="8" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
-            <element signature="e#778#884#0" />
-            <element signature="e#1969#2041#0" />
-            <element signature="e#2090#2175#0" />
-            <element signature="e#2214#2935#0" />
+            <element signature="e#2383#2468#0" />
+            <element signature="e#2833#3207#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/similaritem/manage.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/similaritem/templates/result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="147" selection-start-line="147" selection-end-line="147" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#!!top" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#!!top" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#!!top" />
+            <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#div#3;n#div#0;n#div#0;n#!!top" />
+            <element signature="n#style#0;n#div#5;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#div#5;n#div#0;n#div#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/similaritem/pages/Recommender/movie_recommender.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="539" column="47" selection-start-line="539" selection-start-column="47" selection-end-line="539" selection-end-column="47" />
+        <state relative-caret-position="1489">
+          <caret line="354" column="36" selection-start-line="354" selection-start-column="36" selection-end-line="354" selection-end-column="36" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
-            <element signature="e#1010#3328#0" />
-            <element signature="e#3379#6015#0" />
-            <element signature="e#6062#8657#0" />
-            <element signature="e#8705#10788#0" />
-            <element signature="e#10953#14606#0" />
-            <element signature="e#14622#18831#0" />
-            <element signature="e#18864#22222#0" />
-            <element signature="e#14076#14136#0" />
-            <element signature="e#14262#14545#0" />
-            <element signature="e#14602#14892#0" />
-            <element signature="e#14926#15570#0" />
+            <element signature="e#1213#3559#0" />
+            <element signature="e#3610#6246#0" />
+            <element signature="e#8949#12574#0" />
+            <element signature="e#16857#20175#0" />
+            <element signature="e#20451#20727#0" />
+            <element signature="e#20765#21057#0" />
           </folding>
         </state>
       </provider>

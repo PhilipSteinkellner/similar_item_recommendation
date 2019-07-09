@@ -1,0 +1,610 @@
+{
+   "tmdb": {
+      "original_language": "ru",
+      "keywords": [],
+      "imdb_id": "tt1127702",
+      "video": false,
+      "title": "Mission London",
+      "recommendations": [80355],
+      "backdrop_path": "/qpenvde61OCOQLTON8a7f6QlxEA.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 5,
+               "character": "Sibling",
+               "gender": 2,
+               "credit_id": "52fe47c6c3a36847f814794b",
+               "name": "Alan Ford",
+               "profile_path": "/3HtCLGRkuLmObyp1oJNJzplxOkI.jpg",
+               "id": 1116,
+               "order": 0
+            },
+            {
+               "cast_id": 6,
+               "character": "Munroe",
+               "gender": 2,
+               "credit_id": "52fe47c6c3a36847f814794f",
+               "name": "Tomas Arana",
+               "profile_path": "/sx8tDGA7e7d5oDYpQwaydmGcc93.jpg",
+               "id": 941,
+               "order": 1
+            },
+            {
+               "cast_id": 7,
+               "character": "Detective Collway",
+               "gender": 2,
+               "credit_id": "52fe47c6c3a36847f8147953",
+               "name": "Ralph Brown",
+               "profile_path": "/ksIVhmaAB5oRiOkm9mDKALVkaJk.jpg",
+               "id": 53916,
+               "order": 2
+            },
+            {
+               "cast_id": 8,
+               "character": "Chavo",
+               "gender": 2,
+               "credit_id": "52fe47c6c3a36847f8147957",
+               "name": "Georgi Staykov",
+               "profile_path": "/uuf8Vkg1hU3jeT1gE0H98UE56Lz.jpg",
+               "id": 92645,
+               "order": 3
+            },
+            {
+               "cast_id": 9,
+               "character": "Varadin Dimitrov",
+               "gender": 2,
+               "credit_id": "52fe47c6c3a36847f814795b",
+               "name": "Julian Vergov",
+               "profile_path": "/foGATlcfkauYJGtEcHSO7Wnh09E.jpg",
+               "id": 105692,
+               "order": 4
+            },
+            {
+               "cast_id": 12,
+               "character": "Kamal",
+               "gender": 2,
+               "credit_id": "52fe47c6c3a36847f814795f",
+               "name": "Velizar Binev",
+               "profile_path": "/rp5hKo8WEFcqIuh6eDGix2QxYwA.jpg",
+               "id": 22018,
+               "order": 7
+            },
+            {
+               "cast_id": 13,
+               "character": "Miss Cunningham",
+               "gender": 1,
+               "credit_id": "52fe47c6c3a36847f8147963",
+               "name": "Rosemary Leach",
+               "profile_path": "/vx4XTLfekw3RYQwFmAjnfSWAnvQ.jpg",
+               "id": 96408,
+               "order": 8
+            },
+            {
+               "cast_id": 17,
+               "character": "Dale Rutherford",
+               "gender": 2,
+               "credit_id": "52fe47c6c3a36847f8147967",
+               "name": "Jonathan Ryland",
+               "profile_path": null,
+               "id": 119414,
+               "order": 12
+            },
+            {
+               "cast_id": 23,
+               "character": "Expert",
+               "gender": 2,
+               "credit_id": "52fe47c6c3a36847f814796b",
+               "name": "Hristo Mitzkov",
+               "profile_path": null,
+               "id": 85511,
+               "order": 18
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "56f9301f9251414c32002d4c",
+               "name": "Dimitar Mitovski",
+               "profile_path": null,
+               "id": 1255962,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f930279251410c170041c5",
+               "name": "Dimitar Mitovski",
+               "profile_path": null,
+               "id": 1255962,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f93048c3a3686a6b00a071",
+               "name": "Dimitar Mitovski",
+               "profile_path": null,
+               "id": 1255962,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f9305a92514172760019bf",
+               "name": "Delyana Maneva",
+               "profile_path": null,
+               "id": 1597582,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f9306fc3a3686a6b00a07a",
+               "name": "Alek Popov",
+               "profile_path": null,
+               "id": 1597583,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f93087c3a3686a5e00ae41",
+               "name": "Ivan Doykov",
+               "profile_path": null,
+               "id": 1597584,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f9309bc3a3686a5c00a20d",
+               "name": "Konstantin Tzekov",
+               "profile_path": null,
+               "id": 1597585,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f930ab92514171050035d4",
+               "name": "Balázs Zságer",
+               "profile_path": null,
+               "id": 1597587,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f930c1c3a3686a6700ada3",
+               "name": "Nenad Boroevich",
+               "profile_path": null,
+               "id": 1597588,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f930d49251410c170041e1",
+               "name": "Marko Glušac",
+               "profile_path": null,
+               "id": 28390,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f930e49251414c32002d6c",
+               "name": "Amanda Tabak",
+               "profile_path": null,
+               "id": 1089828,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f930f59251412fdd005c09",
+               "name": "Rossitsa Bakeva",
+               "profile_path": null,
+               "id": 1324123,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56f93105c3a3686a5c00a225",
+               "name": "Gabriella Simon",
+               "profile_path": null,
+               "id": 1597589,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f931189251410c170041f0",
+               "name": "Mina Kaye",
+               "profile_path": null,
+               "id": 1597590,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56f9312a92514168d500093b",
+               "name": "Gabriella Simon",
+               "profile_path": null,
+               "id": 1597589,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f93149c3a3686a6e00ab40",
+               "name": "Mila Maslarova",
+               "profile_path": null,
+               "id": 1350262,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f931639251414c1d002ef7",
+               "name": "Asen Karanikolov",
+               "profile_path": null,
+               "id": 1350257,
+               "department": "Costume & Make-Up",
+               "job": "Assistant Costume Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f93176c3a36816e8009a08",
+               "name": "Rosen Daskalov",
+               "profile_path": null,
+               "id": 1597593,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f9319f9251414c32002d7f",
+               "name": "Alexander Stanishev",
+               "profile_path": null,
+               "id": 1476247,
+               "department": "Crew",
+               "job": "Second Unit Cinematographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f931bbc3a3686a6e00ab55",
+               "name": "Kiril Prodanov",
+               "profile_path": null,
+               "id": 1596976,
+               "department": "Camera",
+               "job": "First Assistant Camera"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f931d5c3a3686a61009bed",
+               "name": "Hristo Genkov",
+               "profile_path": null,
+               "id": 1412718,
+               "department": "Camera",
+               "job": "Steadicam Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f931ffc3a3686a6700addf",
+               "name": "Kenneth Cassar",
+               "profile_path": null,
+               "id": 1556505,
+               "department": "Visual Effects",
+               "job": "Special Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f932129251410a3100361c",
+               "name": "Paul Dunn",
+               "profile_path": null,
+               "id": 117245,
+               "department": "Visual Effects",
+               "job": "Special Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f9322c92514172760019fe",
+               "name": "Liubomir Savov",
+               "profile_path": null,
+               "id": 1556977,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f93242c3a3686a6700adea",
+               "name": "Svetlosar Georgiev",
+               "profile_path": null,
+               "id": 1597598,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f93259c3a36816e8009a30",
+               "name": "James Shannon",
+               "profile_path": null,
+               "id": 1392614,
+               "department": "Sound",
+               "job": "Dolby Consultant"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f9326c925141710500360f",
+               "name": "Linus Gidstedt",
+               "profile_path": null,
+               "id": 997669,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f93280c3a3686a6e00ab74",
+               "name": "Lucas Nilsson",
+               "profile_path": null,
+               "id": 1428529,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f932dbc3a3686a6700ae02",
+               "name": "Jens Johansson",
+               "profile_path": null,
+               "id": 1597605,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f932fbc3a3686a61009c10",
+               "name": "Per Nyström",
+               "profile_path": null,
+               "id": 1455304,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f933139251412fdd005c55",
+               "name": "Per Sundström",
+               "profile_path": null,
+               "id": 1597607,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f9332b9251412fdd005c5b",
+               "name": "Peter Rakovski",
+               "profile_path": null,
+               "id": 1463992,
+               "department": "Crew",
+               "job": "Property Master"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f9333bc3a3686a6e00ab99",
+               "name": "Goran Ignjatovski",
+               "profile_path": null,
+               "id": 1597429,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f9334f9251417105003634",
+               "name": "Valentin Valov",
+               "profile_path": null,
+               "id": 1429341,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Comedy",
+         "id": 35
+      }],
+      "popularity": 0.912636,
+      "production_countries": [
+         {
+            "iso_3166_1": "BG",
+            "name": "Bulgaria"
+         },
+         {
+            "iso_3166_1": "HU",
+            "name": "Hungary"
+         },
+         {
+            "iso_3166_1": "MK",
+            "name": "Macedonia"
+         },
+         {
+            "iso_3166_1": "SE",
+            "name": "Sweden"
+         },
+         {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+         }
+      ],
+      "id": 50400,
+      "vote_count": 8,
+      "budget": 1850000,
+      "overview": "A concert to celebrate Bulgaria joining the EU is being planned at the Embassy in London and it is the job of VARADIN, the new ambassador, to ensure the Queen attends. But with corrupt staff, criminal gangs operating out of the kitchen, falling in love with a stripper and a little misunderstanding with a PR firm that provides look-alike royalties - his simple task turns into a chaotic nightmare.",
+      "similar": [],
+      "original_title": "Мисия Лондон",
+      "runtime": 107,
+      "poster_path": "/9EexKS8DVVPGAcwRiNoiYnPuDMp.jpg",
+      "spoken_languages": [
+         {
+            "name": "български език",
+            "iso_639_1": "bg"
+         },
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Pусский",
+            "iso_639_1": "ru"
+         },
+         {
+            "name": "Srpski",
+            "iso_639_1": "sr"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Euroimages Fund of the Council of Europe",
+            "id": 23192,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Új Budapest Filmstudió",
+            "id": 1655,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Premiere Picture",
+            "id": 3870,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "SIA Advertising",
+            "id": 19381,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Dream Factory Macedonia",
+            "id": 46293,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Fidelity Films",
+            "id": 55267,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Bulgarian National Film Center",
+            "id": 64275,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Film Väst",
+            "id": 74636,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Cinematrix Film",
+            "id": 74792,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Macedonian Film Fund",
+            "id": 74793,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2010-04-16",
+      "vote_average": 6.8,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": "http://www.mission-london.com/",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Bulgaria",
+      "color": "Color",
+      "budgetCurrency": "\u20ac",
+      "directors": ["Dimitar Mitovski"],
+      "runtime": 107,
+      "synopsis": null,
+      "writers": [
+         "Delyana Maneva",
+         "Dimitar Mitovski"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt1127702/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTQ3MjIzMDU1M15BMl5BanBnXkFtZTcwNTQ3Mjk0Mw@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Alan Ford, Tomas Arana, Ralph Brown | See full cast and crew »"],
+      "reviews": [
+         "This is a hilarious movie, especially for Bulgarians. I am not sure how much of it will be comprehensible for a foreign audience, and I'm looking forward to some non-Bulgarian reviews. Anyway, there is a lot to laugh about. The film presents in a very benign, comical way many of the shortcomings and limitations of the Bulgarian mindset. The First Lady, the Ambassador, the embassy cook - the characters are fleshy and ring true, yet very funny. I also liked the cinematography. The soundtrack was cool, but a few Bulgarian songs could definitely be added for more authenticity. All in all Mission London is definitely worth watching if you want to know more about the peculiarities and daily challenges of the Bulgarian spirit.",
+         "I'm not a Bulgarian, but I absolutely loved this movie (well, in the beginning it seemed a bit vague, but soon the jokes began to fall out of the closet), probably because I'm from the same region and sharing similar history, therefore I have recognized many of the cultural clichés used in the movie. I loved the character of the President's wife, as well as the ambassadors. Well casted and brilliantly written. Loved the worried British ornithologist part. These scenes beautifully infiltrated some of the English clichés - as we, Eastern Europeans see them - into the movie. Overall I am really happy that Bulgarians could produce such a movie. Never could have happened in Lithuania - we are too serious. It's very brave and it's a talent to be able to laugh from yourself.",
+         "For years, I've heard Bulgarian audiences wonder why we cannot produce a movie that holds up when compared to Hollywood comedies. Well, now we have. And the result is pretty satisfying. The first thing that struck me about the movie was how professionally it was made. The camera-work, the editing, the sound mixing, everything was of a pretty high standard, which is not something that Bulgarian films have recently managed. The acting was generally mediocre and the dialogue was sloppy at times, but overall all scenes were watchable, even the more talky ones. The focus of the movie was not in the performances anyway. The tempo was brilliant. At one point I thought the scenes were too short and the film would lack cohesiveness, but by the ending this style of editing makes sense and the film plays great, seeming neither too short, nor too long. While this is predominantly a comedy, deeper themes are there and they are examined in a non-intrusive way even if they are mainly Bulgarian-specific. Being able to understand all the jokes will enhance the viewing immensely but that does not mean that foreign audiences will not appreciate the film. Overall I give it 8/10 simply because the movie is head and shoulders above any Bulgarian comedy that has been attempted in the last decades. For non-Bulgarian audiences the film is a solid 7.",
+         "I've never really appreciated the \"modern\" Bulgarian humor. It always has to be vulgar and obvious... not to mention repetitive. When I walked into the theater I was expecting to be bored out of my mind and if lucky to catch some Z's. I was pleasantly surprised. The movie had taste. The comedy was well thought through. The plot was interesting and hard to predict. While blown out of proportions Mission London perfectly describes Bulgarian mentality and way of life. And for a nation that gets things done half way this movie was almost perfect with no cutbacks and unnecessary BS. I'm glad this movie wasn't a disappointment. And will gladly watch it again.",
+         "I'm not giving this movie a 10 just because I'm a Bulgarian. I laughed really hard - something that hasn't happened for years watching a Hollywood production. Yes, it wasn't a deep, meaningful movie, but who expects that from a comedy?!? The script was really original, nothing like the comedies I've seen in the last few years. We should admit at least that - we tried to do something different. That's the main reason this movie deserves an excellent rate - it's nothing like the movies we are used to watch. No hollow and unreal love story, no happy ending, no glorifying the nation. It's the exact opposite of that - short fling; interesting and unexpected, yet the only believable ending; exposing the main features (mostly the bad ones) of our nation. Shortly - the real life. And may be the main reason this movie has to be watched is to contribute the Bulgarian cinema - we showed talent and ambition, probably over time we will make something really great!",
+         "Let me straighten this up-the movie isn't bad at all, but I think, the main problem of Bulgarian movies isn't the lack of ideas, but the lack of genre.When i walked in, the posters as well as the trailer, talked about some kind of a comedy.This isn't a comedy-it has funny moments, but one can count them easily, because they were that few.And at least 50 percent of them, and that means three, were in the trailer. The movie has politics involved in it, but it isn't a political movie either-this is a movie with fine actors, both Bulgarian and British, but without doubt, a movie made mostly for Bulgarians-there are political references, only a Bulgarian can understand, and jokes made specifically for them. The acting was one of the things i liked, but when a movie doesn't stick up to it's genre, you can't be sure, if those were one-time performances, or not.Alan Ford, a British actor, known mostly with his parts in Guy Ritchie's movies, wasn't at his regular level.He was good, but looked a little bit spooked and shy in a foreign movie. Something i liked was the cinematography-the movie was shot in great style i little bit blurry and old-fashioned, but in a good way- and that's the director to blame-hi did a fine job in this movie-making aspect. The one thing about the plot, i really don't understand is, how the ending adds up with the rest of the movie.The one thing i don't like about movies, is when it is all the same in the end.The characters haven't evolved, the whole situation hasn't been changed since the very beginning.Nothing changed, except a few missing ducks and a dead man lying on a pavement-that's all,Nothing really matters.Nothing significant to appreciate and value as useful the rest of the time. Overall, this movie isn't bad, it just isn't what it promises to be.Above average, considering all the American \"movies\", that are flushing out of nowhere, but could've been way better.With this fresh story, and talented actors, and the charisma one could accomplish in the middle of two different religions, traditions, cultures, worlds, this could've been a pretty memorable and intriguing roller-coaster ride. My rate would've been a little lower, but considering the obvious fact i'm a Bulgarian, i just can't rate it lower...Instead of a six, i'm giving it a seven... My rate: 6.5/10",
+         "Mission London never gets boring and entertains 100%. The actors - most of them very well known to the Bulgarian public and completely unknown to the rest of the world, are full of qualities and motivation to do their best. That makes them very persuasive. In fact this movie is so good, if it was a woman I would have married her brother (Bulgarian way of expressing). Of course it will be fair to say that the humor in the film is directed a little bit more towards the Bulgarians, there are some specific touches connected with the Bulgarian culture and style of living that the Bulgarians will grasp more effectively than others. So in my opinion that makes the film more enjoyable for a Bulgarian than anybody else. But nevertheless this one is a fine piece of a movie. If you watch carefully you will eventually know something more about Bulgarians and a lot more about the way they organize foreign adventures.",
+         "I may be Bulgarian, but I will not close my eyes for the total lack of creativity displayed with this movie. All of Bulgaria was flooded with ads for this movie. And to be honest, while watching the ads I thought \"well, this movie might be worth watching\"... well, I was wrong. First the whole concept of the movie is stupid. The actors... They did their best, but it was not enough to compensate for the poor script. They might of tried to make up some better looking tracking devices instead of using 1,5V batteries. The only funny moment of the movie (the grand fiasco) was totally predictable. I hate to say it, but Bulgarian movie producers have the talent to make some of the worst movies ever (that is all after 1990, there are some great Bulgarian movies before that). Only Germans are able to compete with the lack of creativity and stupidity of Bulgarian movie makers. For a long time I thought that no one can make a worse movie than a German, but if we keep up the pace, soon Germany will be second and Bulgaria will be the top producer of worthless movies.",
+         "This is an average attempt at creating a serious movie. All due respect for the efforts of the staff and cast and directors, but the result differed my expectations. First is the plot. Isn't it out of date to aim for hilarious by overexposing Bulgarian (supposedly) flaws in a movie, especially in such a simple way? It is a mere continuation of national characteristics to brag and complain nonstop about our flaws, what \"the state\" and the \"politicians\" can't and do not do for us, etc. etc. These 'national characteristics' our outdated, and belong better to the 90s. Second is the lack of focus. One of the other reviewers rightfully note a 'lack of gender', and 'chaotic'. For me it was a \"hotchpotch\" of too many different stories attempted in the same movie: - Politic satire of the over-stretching wife of the president and her pawns - Bulgarian habits applied in a foreign country - blackmarket buy/sell/drink/swear in the embassy - A banal reference to other immigrant communities - Russians, Jews. - A romance between 'excellency' and his 'failed student/cleaning lady/stripper/actress wannabe' - such clichés - Absurd scenarios around which the entire plot is spinning - ducks etc. - Unnecessary scenes as the dance show in front of the 'queen' and the fireworks and predictable fire - Other sub-stories intermixing and giving the taste of a \"mandzha s grozde\" to feeling you get from the movie Third - execution: One would expect a much better execution in all aspects of a movie with a budget of around 3Mil. The acting was sufficient, but mostly among the British actors. Alan Ford has created such an image in his Guy Ritchie movies, that the role of an 'agency executive' is kind of soft for his strong presence and characters. The Bulgarian actors in general have proved again they are suitable for theater, but not movies - they exaggerate too much in their acting, creating live cartoon characters. That especially goes for the ladies, Papadopolu and Shinova. Slight exceptions are Vergov and Krustev, and the only actor from the old generation, Mr. Peev. Unfortunately, Bulgaria has not produced any good TV and Movie actors for about two decades now. Besides acting, shooting and cinematography are on an acceptable level, but nothing extraordinary. It is a good start to not have 'annoying' shots or camera movement. Some minor editing goofs, e.g. one of the early scenes had an unsynchronized video/sound. Fourth is a controversial topic of 'product placement' and financing of Bulgarian cinema. Although I am an ardent supporter of any Bulgarian movies made, and I really want to see the real comeback of Bulgarian cinema with 10 movies/year, I cannot accept such a blunt financing of movies, which requires the entire script adopted to fit character lines such as \"what is better than KFC at midnight\" or sth. Movie posters are presenting \"Zagorka\" playing the major part in the movie; the 'duty-free' shop was full of \"Peshterska\" etc etc. This is a 'silent' rape of viewers, forcing them to watch commercial ad spots, and having them pay for that. Finally, I did not like the entire message of the movie, underlined for dummies at the end of the movie in the completely obsolete scenes of '1/2 years later' � \"this is Bulgarian, hahahaha\". Cheap humor, based on old stereotypes, guys� Give us something new and entertaining, at last!",
+         "Well , the great commercials about this movie made me think that it would be something very interesting and entertaining movies...well I WAS WRONG. May be I didn't catch the line...but it was such a mess.Some story for some people who actually do...nothing , excuse me , but I believe that kind of commercials blurs the view of the spectator. I was expecting for something different ... what about the actors...well again bigger expectations. But may be the mistake is mine , I had bigger expectations, in future I'll try expect the worst looking for the best! I really need something good !It was partly funny,but not good enough."
+      ],
+      "genres": ["Comedy"],
+      "productionCompanies": [
+         "SIA Advertising",
+         "Fidelity Films",
+         "Cinematrix Film"
+      ],
+      "summaries": ["A concert to celebrate Bulgaria joining the EU is being planned at the Embassy in London and it is the job of VARADIN, the new ambassador, to ensure the Queen attends. But with corrupt staff, criminal gangs operating out of the kitchen, falling in love with a stripper and a little misunderstanding with a PR firm that provides look-alike royalties - his simple task turns into a chaotic nightmare."],
+      "budget": 1400000
+   },
+   "movielensId": 116507,
+   "movielens": {
+      "languages": [
+         "български език",
+         "English",
+         "Pусский",
+         "Srpski"
+      ],
+      "releaseDate": "2010-04-16",
+      "dvdReleaseDate": null,
+      "directors": ["Dimitar Mitovski"],
+      "runtime": 107,
+      "movieId": 116507,
+      "title": "Mission London",
+      "mpaa": null,
+      "actors": [
+         "Alan Ford",
+         "Tomas Arana",
+         "Ralph Brown",
+         "Georgi Staykov",
+         "Julian Vergov",
+         "Velizar Binev",
+         "Rosemary Leach",
+         "Jonathan Ryland",
+         "Hristo Mitzkov"
+      ],
+      "imdbMovieId": "1127702",
+      "originalTitle": "Мисия Лондон",
+      "genres": ["Comedy"],
+      "youtubeTrailerIds": [],
+      "plotSummary": "A concert to celebrate Bulgaria joining the EU is being planned at the Embassy in London and it is the job of VARADIN, the new ambassador, to ensure the Queen attends. But with corrupt staff, criminal gangs operating out of the kitchen, falling in love with a stripper and a little misunderstanding with a PR firm that provides look-alike royalties - his simple task turns into a chaotic nightmare.",
+      "tmdbMovieId": 50400,
+      "avgRating": 3.5,
+      "releaseYear": "2010",
+      "numRatings": 4,
+      "posterPath": "/9EexKS8DVVPGAcwRiNoiYnPuDMp.jpg"
+   }
+}

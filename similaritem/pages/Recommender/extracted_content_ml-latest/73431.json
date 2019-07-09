@@ -1,0 +1,429 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "sculpture",
+            "id": 6024
+         },
+         {
+            "name": "theft",
+            "id": 14604
+         },
+         {
+            "name": "security guard",
+            "id": 41180
+         }
+      ],
+      "imdb_id": "tt1107860",
+      "video": false,
+      "title": "The Maiden Heist",
+      "recommendations": [
+         14549,
+         75622,
+         121824,
+         25927,
+         10169,
+         1783,
+         45675,
+         14809,
+         25935,
+         16279,
+         11022,
+         9843,
+         89326,
+         26486,
+         60309,
+         41135,
+         27135,
+         59441,
+         22076,
+         13534
+      ],
+      "backdrop_path": "/7NKaU3Bm07UXhsYWeNzjNav4eRy.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Charles",
+               "gender": 2,
+               "credit_id": "52fe448dc3a368484e029571",
+               "name": "Morgan Freeman",
+               "profile_path": "/oGJQhOpT8S1M56tvSsbEBePV5O1.jpg",
+               "id": 192,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Roger",
+               "gender": 2,
+               "credit_id": "52fe448dc3a368484e029575",
+               "name": "Christopher Walken",
+               "profile_path": "/ApgDL7nudR9T2GpjCG4vESgymO2.jpg",
+               "id": 4690,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "George",
+               "gender": 2,
+               "credit_id": "52fe448dc3a368484e029579",
+               "name": "William H. Macy",
+               "profile_path": "/cYmHYCGxkOVZgu2oDyhF6lKgfaj.jpg",
+               "id": 3905,
+               "order": 2
+            },
+            {
+               "cast_id": 5,
+               "character": "Lead Villain",
+               "gender": 2,
+               "credit_id": "52fe448dc3a368484e029583",
+               "name": "Joseph McKenna",
+               "profile_path": "/4jDyI8L28ldmzc6RXZuucB8b95Y.jpg",
+               "id": 141458,
+               "order": 3
+            },
+            {
+               "cast_id": 6,
+               "character": "Docent",
+               "gender": 1,
+               "credit_id": "52fe448dc3a368484e029587",
+               "name": "Wynn Everett",
+               "profile_path": "/hWLWcoqXumM9NY9vfByvQmmcFdb.jpg",
+               "id": 203734,
+               "order": 4
+            },
+            {
+               "cast_id": 7,
+               "character": "Rose Barlow",
+               "gender": 1,
+               "credit_id": "52fe448dc3a368484e02958b",
+               "name": "Marcia Gay Harden",
+               "profile_path": "/9TYI6LAu4S0vkn47RjLLgFrhtrc.jpg",
+               "id": 4726,
+               "order": 5
+            },
+            {
+               "cast_id": 8,
+               "character": "Curator",
+               "gender": 2,
+               "credit_id": "52fe448dc3a368484e02958f",
+               "name": "Todd Weeks",
+               "profile_path": "/nMev7xcq6gKz1QzNijUn4Mai8xJ.jpg",
+               "id": 150203,
+               "order": 6
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe448dc3a368484e02957f",
+               "name": "Peter Hewitt",
+               "profile_path": "/wP8EyttEB2xca7udNERQb07eAda.jpg",
+               "id": 18357,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "533e8795c3a36813a70010ec",
+               "name": "Michael LeSieur",
+               "profile_path": null,
+               "id": 19273,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "533e87c2c3a36813810010a1",
+               "name": "Lori McCreary",
+               "profile_path": null,
+               "id": 24205,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "533e87e3c3a36813860010df",
+               "name": "Rob Paris",
+               "profile_path": null,
+               "id": 1075095,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "533e87fbc3a36813810010a8",
+               "name": "Bob Yari",
+               "profile_path": null,
+               "id": 4232,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "533e8836c3a3681383001071",
+               "name": "Susan Shopmaker",
+               "profile_path": null,
+               "id": 32604,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "533e8852c3a36813a5000fb5",
+               "name": "Randi Glass",
+               "profile_path": null,
+               "id": 983638,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "533e88cfc3a36813810010c6",
+               "name": "Ha Nguyen",
+               "profile_path": null,
+               "id": 14352,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "552e352dc3a3686be2002584",
+               "name": "Ueli Steiger",
+               "profile_path": null,
+               "id": 6050,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5831b23092514162cf0257ca",
+               "name": "David J. Schwartz",
+               "profile_path": null,
+               "id": 1551352,
+               "department": "Sound",
+               "job": "Sound Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57e9699ac3a3687fe9001275",
+               "name": "Ines Mongil-Echandi",
+               "profile_path": null,
+               "id": 72110,
+               "department": "Production",
+               "job": "Production Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5831b20892514162cf0257a5",
+               "name": "Rupert Gregson-Williams",
+               "profile_path": "/6qr9v5tsFrZtAA8EUfO1XQtUHhB.jpg",
+               "id": 2593,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5831b25992514162c3025196",
+               "name": "Chris Roope",
+               "profile_path": null,
+               "id": 45057,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5831b2bbc3a3685b9d026ed0",
+               "name": "Carole Kravetz",
+               "profile_path": null,
+               "id": 21717,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5831b345c3a3685bad0237be",
+               "name": "Gershon Ginsburg",
+               "profile_path": null,
+               "id": 54160,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5831b389c3a3685bad0237f2",
+               "name": "Lisa Nilsson",
+               "profile_path": null,
+               "id": 1711516,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5831b508c3a3685b9a025dde",
+               "name": "Walter Thomson",
+               "profile_path": null,
+               "id": 1401167,
+               "department": "Camera",
+               "job": "Still Photographer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Crime",
+            "id": 80
+         }
+      ],
+      "popularity": 9.713492,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 24271,
+      "vote_count": 125,
+      "budget": 20000000,
+      "overview": "A comedy centered on three museum security guards who devise a plan to steal back the artworks to which they have become attached after they are transferred to another museum.",
+      "similar": [
+         11078,
+         11676,
+         629,
+         680,
+         7461,
+         1593,
+         59436,
+         156022,
+         594,
+         120467,
+         256961,
+         180863,
+         14560,
+         77866,
+         539,
+         146,
+         225574,
+         429200,
+         401246,
+         306
+      ],
+      "original_title": "The Maiden Heist",
+      "runtime": 91,
+      "poster_path": "/w4B1dt2aB9CuhzEgoW6IGZJBtqn.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Dog Pond Productions",
+            "id": 4302,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Yan Film Group",
+            "id": 4303,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Paris Film",
+            "id": 7046,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Revelations Entertainment",
+            "id": 906,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2009-05-09",
+      "vote_average": 5.8,
+      "belongs_to_collection": null,
+      "tagline": "They're not bad guys, just bad thieves.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Peter Hewitt"],
+      "runtime": 90,
+      "synopsis": null,
+      "writers": ["Michael LeSieur"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt1107860/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTc0MTc0MjE0MF5BMl5BanBnXkFtZTcwMDU1NzI4Mg@@._V1_SY317_CR16,0,214,317_AL_.jpg",
+      "actors": ["Stars: Christopher Walken, Joseph McKenna, Wynn Everett | See full cast and crew »"],
+      "reviews": [
+         "I really Enjoyed this film, and it was full of some suspense. Its a rather different film for sure. Other reviewers do not like how its unbelevable, but have they worked in such a place for any period of time, are they art lovers themselves? are they ever captivated by anything in life. I think this shows very well the obsessive nature of people. Anything can take a persons fancy, and become an obsession, a piece of sting, how mundane it is to some, could be someones obsession, and they could know all manner of things about it. so in that respect this film touches on a good subject, has fun moments, and is not made to be a serious film, its a fun film, just i think people need to relax more and learn to just enjoy it.",
+         "This film has less to do with art than some might suggest. Rather, this great satire is centred on the ridicule of the modern man. Having rid himself of any history, cultural belief and, ultimately, of his identity, in the name of liberty, equality and multiculturalism while the superficial industrial regimes imposed their utilitarian philosophy during the last couple centuries, the meaninglessness of the modern man's life is ever so flagrant. Peter Hewitt casts great actors to play the role of museum security guards who have spent the better part of their lives standing still. Each of these guards becomes attached to and finds meaning for his life in one of the pieces of art of the museum. However unexciting the main storyline might be, Hewitt uses the script to build this satire on so much realism that it makes for a good comedy. If you are looking for a light and innocent comedy, can look past a couple stereotypes and predictable twists, than you might enjoy this movie.",
+         "I loved this movie. Hubby brought it home for my birthday pizza-movie night and it was wonderful. The characters are different from what you would normally see these fine actors playing and it seems like they enjoyed it! The performances were uniformly excellent. The story was lovely. And I, at least, believed that these pieces were THAT important to these characters. I think if you stand in the presence of art for hours...days...months...years...you could easily find in it the source for what you feel you are missing. Some of the reviews say it is slow, but I think sometimes it is so nice to take a little time to get to know the characters in a story rather than having their life story shoved down your throat in 90 seconds so that the explosions can begin...give it a try...please...",
+         "Maiden Heist (2008) The Maiden Heist quickly sold out at its opening at the Edinburgh International Film Festival. It's a light-hearted caper that makes for undemanding viewing. It is a fairly entertaining comedy heist film starring Morgan Freeman, William Macy, and Christopher Walken. Plot. Great art has its protectors every day in the major museums. Three guards are more than dedicated to the job they do. Their museum brings in modern work that has no appeal to the guards, and the museum authorities plan to sell the classic pieces, sending them elsewhere in the world. When Roger (Christopher Walken) and George (William H. Macy) and Charles (Morgan Freeman) find their long-beloved work transplanted to Europe, they not only miss their favorite art pieces, but they make plans to steal the works with which they have become obsessed. Roger becomes the mastermind of an inside plot to perform the biggest art heist in the history of their museum. First each must obtain a forgery; then, they have to smuggle the forgeries into the museum and find a way to make the switches. The heist is complicated by Roger's intrusive wife - he's promised her a trip to Florida for their anniversary - and George's proclivity for taking his clothes off when standing in front of the warrior statue he loves. THE MAIDEN HEIST was originally going to have a theatrical release, but the bankruptcy of the Yari Film Group put the film in a direct to DVD status. It feels like a 70s movie that Walter Matthau and Jack Lemon would have done, where slightly nutty characters would made the film but that's not the case anymore. This is a comedy that might make Woody Allen fans recall (affectionately) Small Time Crooks, even though this film is very different to Allen's caper. The Maiden Heist isn't another turkey unceremoniously dumped to Netflix. It's an above average straight-to-DVD effort, it is weaker than one might expect considering its power stars in the cast . It's really quite an entertaining comedy though more could have been done but I like it OK as it was. Not a great film but not a bad film 3 stars.",
+         "What's up with Morgan Freeman appearing in heist movies that go direct to video? Just a few months ago we got THE CODE, and now we have THE MAIDEN HEIST. Actually, it does appear that THE MAIDEN HEIST was originally going to have a theatrical release, but the bankruptcy of the Yari Film Group put an end to those plans and no other distributor seemed interested in releasing it to theaters. Based on that fact, you might think that this is a bad movie, but it's not. There are some positive things about it. The production values are pretty strong for what was reportedly a somewhat limited budget; nothing about the movie looks cheap. The planning of the heist and the execution of the heist have some believable complications, and what's done about them are believable as well. Some humorous touches are amusing. Freeman, Walken, and Macy play a likable bunch of fellows that you hope will succeed. But there's also some not-so-decent things about the movie. The violent opening fantasy sequence seems way out of place with its harsh tone. Except for Walken's character, we don't learn too much about the characters in the movie. There are some unexplained things in the movie, like where the thieves got the van and how Walken's character adjusted the vacation he was going to take with his wife. The main problem, however, is that while the movie is refreshingly low key, it's TOO low key. It's lacking a bit more edge to it. Some more excitement or some more laughs would have helped a lot. Maybe it's best that this didn't land in theaters; I wouldn't have recommended to pay full price to see it in a theater. But if you like caper movies, like any or all of the three lead actors, and you can see it for little or no cost, it's an acceptable time waster.",
+         "That could. Not because of the story so much, but more because of the actors that are in it. And is it a bad thing, that this movie works mainly because of the three main actors? Don't be fooled by the mention of Breckin Meyers though, he doesn't have a big role in this (just in case you're a fan of his). No this movie belongs to the \"big three\". Mainly to Christopher Walken, because he is the lead. But everyone else gets his time and they are really great. They have funny scenes and the movie roles along quite nicely. Maybe if it had a better script, a greater antagonist (there really isn't one), it could have been better. But it is a nice watch and a good film.",
+         "THE MAIDEN HEIST (there is a more to the title than you might think) is like getting together with old friends for a chuckle. Michael LeSieur has written a feel good comedy and Peter Hewitt has directed that script with the help of a fine cast and the results are a fun film that has some gentle hidden messages about friendship, relationships, and loving your job. A Boston art museum is making plans to ship an exhibition of works to Denmark. This news is hocking and upsetting to three of the museum guards: Charles (Morgan Freeman, in a subtle gender twist) is passionate for a painting of a girl with cats, Roger (Christopher) is literally enamored by a painting of a lonely girl on a beach, and military minded George (William H. Macy) is so obsessed by a bronze sculpture of an athlete that he secretly poses au natural imitating the pose of the athlete when no one is around. When these three works are designated to be part of the shipment to Denmark the three men pop into action - they find artists to copy their beloved artworks to 'exchange' in the crates when the exhibition leaves the museum. How they achieve this bold heist is the plot of the film. There are many problems: the exchanged crate must contain the authentic pieces accompanied by George until the shipment leaves the museum, and Roger's intrusive wife Rose (Marcia Gay Harden) nearly aborts the boys' plan by insisting on an anniversary trip to Florida. The heist has its problems, as the museum guards are simply good guys trying to prevent the sale of their beloved art works they guard every day. The poster line says it all: 'They're not bad guys, just bad thieves.' It is a pleasure to see three fine actors such as Freeman, Walken and Macy pull off this comedy, aided by the absurd character Marcia Gay Harden inhabits. It is well-scripted full and it is very obvious that these actors are having a great time with the film. Grady Harp",
+         "Of course it was no :Lion in Winter, but it was funny, lighthearted and had 4 good actors in it. If you are a fan of any of them you won't be disappointed. I was surfing and just happened to come across it. Cute and a great way to spend a rainy afternoon. I am sorry some others have taken such a negative view. It does not pretend to be a serious drama, and I am sure Walken, Freeman, Harden and Macy had a great time making it. It plays to characters they have all played.....and there is no blood or gore. I did enjoy the 'getting ready\" scenes they played really well..and so what if the background is not what you expected..it is still worth the time..",
+         "Well it's quite a surprise for me that this movie being so funny is lowly rated. What's worth watching is the star cast,and above all the plot. The movie gets even more interesting towards the end. The role of Rose played by Marcia Harden is too good and she nicely fits into the role. This movie will definitely give good hearty laughs,don't miss out on this. Although they could have got more comic element into it but, still its good entertainment. The characters of Roger,George and Charles are outstanding. Roger has the uncanny habit of getting into embarrassing situations. Roger does most of the comedy. A real thumbs up for this movie.",
+         "A quaint little heist comedy, with a nifty romantic resolution, THE MAIDEN HEIST stars Morgan Freeman, Christopher Walken and William H. Macy as security guards at a Boston art museum, so enamored with certain art pieces that when those pieces are sold to a European museum, they decide to steal the pieces for themselves and replace them with fakes. Theft for love not money. There are layers to be discovered in THE MAIDEN HEIST that most people won't take the time to tease out. Director Peter Hewitt and writer Michael LeSieur ambitiously recruit three of the greatest actors in the world to convey the levels of irrational passion that beholders of art are victim to. These guys can convey more in a raised eyebrow than most people can convey with a GLENGARRY monologue and a John Woo helicopter explosion combined. Still, it seems like the film is one long exercise in comedic opportunities gone missing. The slogan says, \"They're not bad guys. Just bad thieves.\" But they pull off the heist with a minimum of farty slapstick. So they're not really bad thieves, they're just marketed that way. The real story is buried beneath the heist and its attendant farcical passages. It is amusing just watching Walken Being Walken, as Roger the neurotic security guard, who has been guarding a painting called The Lonely Maiden for so long, it has become his surrogate love over his real wife (Marcia Gay Harden, who creates a devilishly spot-on Florida-bound retiree). No prizes for guessing that Roger realizes his love was right there all along - but this reveal is where the movie shines in its own subtle way. If you blink, you'll miss beige Breckin Meyer's two-minute cameo as a Starving Artist. Thankfully. Meanwhile, we can't AVOID William H. Macy going Full Monty - at every opportunity, he poses nude before his favorite sculpture, The Bronze Warrior. (For an older guy, Macy is pretty taut and he himself admits this may be the last time he will have the opportunity to go bareback and still look good.) Morgan Freeman's character is a little harder to pin down, as he moons over the painting Lady With Cats, ambiguously gay in all the subtle ways only a great actor can convey, without having to lisp ferociously. Like I said, quaint. --Review by Poffy The Cucumber (for Poffy's Movie Mania)."
+      ],
+      "genres": [
+         "Comedy",
+         "Crime"
+      ],
+      "productionCompanies": [
+         "Dog Pond Productions",
+         "Paris Film",
+         "Revelations Entertainment"
+      ],
+      "summaries": [
+         "Three middle-age guards learn that their museum has sold a wing of art to a Danish museum. Each has a favorite in that collection, and none can imagine life without the peace and completion it brings. Though mere acquaintances, they plot a theft of the three pieces between the time they are packed and the time they're loaded onto a plane. First each must obtain a forgery; then, they have to smuggle the forgeries into the museum and find a way to make the switches. The heist is complicated by Roger's intrusive wife - he's promised her a trip to Florida for their anniversary - and George's proclivity for taking his clothes off when standing in front of the warrior statue he loves.",
+         "A comedy centered on three museum security guards who devise a plan to steal back the artworks to which they have become attached after they are transferred to another museum."
+      ],
+      "budget": 20000000
+   },
+   "movielensId": 73431,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2009-05-09",
+      "dvdReleaseDate": "2009-10-27",
+      "directors": ["Peter Hewitt"],
+      "runtime": 91,
+      "movieId": 73431,
+      "title": "The Maiden Heist",
+      "mpaa": "PG-13",
+      "actors": [
+         "Morgan Freeman",
+         "Christopher Walken",
+         "William H. Macy",
+         "Joseph McKenna",
+         "Wynn Everett",
+         "Marcia Gay Harden",
+         "Todd Weeks"
+      ],
+      "imdbMovieId": "1107860",
+      "originalTitle": "The Maiden Heist",
+      "genres": [
+         "Comedy",
+         "Crime"
+      ],
+      "youtubeTrailerIds": ["UOWUwTlnxhM"],
+      "plotSummary": "A comedy centered on three museum security guards who devise a plan to steal back the artworks to which they have become attached after they are transferred to another museum.",
+      "tmdbMovieId": 24271,
+      "avgRating": 2.95794,
+      "releaseYear": "2009",
+      "numRatings": 107,
+      "posterPath": "/w4B1dt2aB9CuhzEgoW6IGZJBtqn.jpg"
+   }
+}

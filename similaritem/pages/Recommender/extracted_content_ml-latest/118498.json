@@ -1,0 +1,455 @@
+{
+   "tmdb": {
+      "original_language": "it",
+      "keywords": [
+         {
+            "name": "witch",
+            "id": 616
+         },
+         {
+            "name": "photographer",
+            "id": 1003
+         },
+         {
+            "name": "dream",
+            "id": 1566
+         },
+         {
+            "name": "magic",
+            "id": 2343
+         },
+         {
+            "name": "nightmare",
+            "id": 3030
+         },
+         {
+            "name": "supernatural",
+            "id": 6152
+         },
+         {
+            "name": "based on comic",
+            "id": 9717
+         },
+         {
+            "name": "curse",
+            "id": 10541
+         },
+         {
+            "name": "violence",
+            "id": 14819
+         },
+         {
+            "name": "death",
+            "id": 34079
+         },
+         {
+            "name": "occult",
+            "id": 156174
+         },
+         {
+            "name": "mysterious",
+            "id": 197582
+         }
+      ],
+      "imdb_id": "tt0069753",
+      "video": false,
+      "title": "Baba Yaga",
+      "recommendations": [
+         86644,
+         91884,
+         46768,
+         77029,
+         120186,
+         89384,
+         65572,
+         29547,
+         109962,
+         89351,
+         37820,
+         18588,
+         29039,
+         79649,
+         39924
+      ],
+      "backdrop_path": "/c5JC52rUGbUl4leyEGHh1Pi5hiw.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Baba Yaga",
+               "gender": 1,
+               "credit_id": "52fe48dbc3a36847f817d0df",
+               "name": "Carroll Baker",
+               "profile_path": "/iLjfUkmVv9B9WAvvuJpcKpVNpZA.jpg",
+               "id": 14701,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Arno Treves",
+               "gender": 2,
+               "credit_id": "52fe48dbc3a36847f817d0e3",
+               "name": "George Eastman",
+               "profile_path": "/aE8C5uGqystShl13VcrZSjcraJ5.jpg",
+               "id": 33807,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Valentina Rosselli",
+               "gender": 0,
+               "credit_id": "52fe48dbc3a36847f817d0e7",
+               "name": "Isabelle De Funès",
+               "profile_path": null,
+               "id": 39236,
+               "order": 2
+            },
+            {
+               "cast_id": 9,
+               "character": "Annette",
+               "gender": 1,
+               "credit_id": "54267f220e0a2659fd0012c6",
+               "name": "Ely Galleani",
+               "profile_path": "/cYxERXm1NwTAPNCceGkOlcjAqc6.jpg",
+               "id": 99482,
+               "order": 3
+            },
+            {
+               "cast_id": 10,
+               "character": "Romina",
+               "gender": 0,
+               "credit_id": "54267f34c3a3681c2b001341",
+               "name": "Daniela Balzaretti",
+               "profile_path": null,
+               "id": 1368041,
+               "order": 4
+            },
+            {
+               "cast_id": 11,
+               "character": "Carlo, Hippie in the Demonstration",
+               "gender": 0,
+               "credit_id": "54267f480e0a265a0b001273",
+               "name": "Mario Mattia Giorgetti",
+               "profile_path": null,
+               "id": 1368042,
+               "order": 5
+            },
+            {
+               "cast_id": 12,
+               "character": "Sandro",
+               "gender": 0,
+               "credit_id": "54ba4fe2c3a368142100300f",
+               "name": "Sergio Masieri",
+               "profile_path": null,
+               "id": 1414563,
+               "order": 6
+            },
+            {
+               "cast_id": 13,
+               "character": "Tony",
+               "gender": 0,
+               "credit_id": "54ba4ff09251411d79005f80",
+               "name": "Angela Covello",
+               "profile_path": "/idosbYm02AC2jA1OIL5OC53dyZj.jpg",
+               "id": 111278,
+               "order": 7
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe48dbc3a36847f817d0ed",
+               "name": "Corrado Farina",
+               "profile_path": null,
+               "id": 1013895,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54267ebe0e0a265a0500131a",
+               "name": "Corrado Farina",
+               "profile_path": null,
+               "id": 1013895,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54267edb0e0a2659fd0012bd",
+               "name": "François de Lannurien",
+               "profile_path": null,
+               "id": 51836,
+               "department": "Writing",
+               "job": "Dialogue"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54267ef90e0a2659f6001348",
+               "name": "Guido Crepax",
+               "profile_path": null,
+               "id": 1368039,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54ba5009c3a3681411003239",
+               "name": "Simone Allouche",
+               "profile_path": null,
+               "id": 1414564,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54ba501fc3a368145e0038ed",
+               "name": "Pino de Martino",
+               "profile_path": null,
+               "id": 224439,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54ba50329251411d6a00681d",
+               "name": "Piero Umiliani",
+               "profile_path": null,
+               "id": 91546,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54ba50449251411d79005f84",
+               "name": "Aiace Parolin",
+               "profile_path": null,
+               "id": 50749,
+               "department": "Crew",
+               "job": "Cinematography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54ba505f9251411d6a006824",
+               "name": "Giulia Mafai",
+               "profile_path": null,
+               "id": 33814,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54ba510a9251411d79005f8c",
+               "name": "Giulia Mafai",
+               "profile_path": null,
+               "id": 33814,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5633cb4d9251414ad8013981",
+               "name": "Giulio Berruti",
+               "profile_path": null,
+               "id": 1529413,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5633cca0c3a3681b5c015ca2",
+               "name": "Giulio Berruti",
+               "profile_path": null,
+               "id": 1529413,
+               "department": "Writing",
+               "job": "Writer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Horror",
+            "id": 27
+         },
+         {
+            "name": "Mystery",
+            "id": 9648
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 1.429367,
+      "production_countries": [{
+         "iso_3166_1": "IT",
+         "name": "Italy"
+      }],
+      "id": 55689,
+      "vote_count": 16,
+      "budget": 0,
+      "overview": "Caroll Baker stars in this psychedelic shocker about a mysterious witch who casts a spell over attractive, youthful fashion photographer Valentina Rosselli (Isabelle De Funes). Thrust into a world of sadism, Valentina must figure out whether the torture being inflicted on her is because of one woman's twisted agenda \u2026 or a curse known as Baba Yaga.",
+      "similar": [
+         675,
+         11342,
+         36647,
+         377,
+         281,
+         561,
+         379149,
+         60304,
+         381283,
+         292280,
+         238636,
+         347882,
+         588,
+         1903,
+         10014,
+         14564,
+         8413,
+         9946,
+         441701,
+         418078
+      ],
+      "original_title": "Baba Yaga",
+      "runtime": 91,
+      "poster_path": "/5fQBefm5GKZ2x4pac79EBZwqNto.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Français",
+            "iso_639_1": "fr"
+         },
+         {
+            "name": "Italiano",
+            "iso_639_1": "it"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Productions Simone Allouche",
+            "id": 34038,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "14 Luglio Cinematografica",
+            "id": 19485,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1973-09-20",
+      "vote_average": 5.7,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Italy",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Corrado Farina"],
+      "runtime": 91,
+      "synopsis": null,
+      "writers": [
+         "Corrado Farina",
+         "Guido Crepax"
+      ],
+      "originalLanguage": "Italian",
+      "imdbLink": "http://www.imdb.com/title/tt0069753/",
+      "coverLink": "https://ia.media-imdb.com/images/M/MV5BODdkZmRiYjItYmE4MS00NWRkLWFkY2MtZTBhNTNlZmQ4YWQwXkEyXkFqcGdeQXVyMjA0MzYwMDY@._V1_UY268_CR4,0,182,268_AL_.jpg",
+      "actors": [
+         "Carroll Baker",
+         "George Eastman",
+         "Isabelle De Funès"
+      ],
+      "reviews": [
+         "'Baba Yaga' is a fascinating mess. Corrado Farina seems like an intelligent guy but even he admits that he failed in his attempt to adapt the erotic comics of Guido Crepax to the movie screen. Farina's initial choices for the lead roles of Valentina and Baba Yaga fell through and so he had to reluctantly make do with Isabelle De Funes and Carroll Baker. On top of that his movie was recut behind his back by a producer with second thoughts and he had to fight to salvage it. Despite all this behind the scenes drama it is a movie which will appeal to fans of arty Eurotrash like Franco's 'Vampyros Lesbos' and 'Eugenie De Sade' and Bava's 'Lisa And The Devil'. The plot of the film is minimal and frankly not its strong point. Valentina (De Funes) is a successful photographer who comes under the spell of a mysterious witch Baba Yaga (Carroll). That's about it folks. The movie attempts to create a dreamlike atmosphere, mixing up fantasy and reality. It isn't entirely successful but some sequences are quite impressive. In fact it's probably best enjoyed if you ignore the minimal story and just concentrate on the imagery and the music. Farina complained that Carroll Baker wasn't the right physical type to play Baba Yaga, who in the original comic strip was androgynous and not conventionally beautiful. That may be so but I certainly enjoy looking at Ms. Baker, an actress who made several left of center movie choices in the '60s and '70s including 'Orgasmo', 'The Sweet Body Of Deborah', 'Bad' and 'Bloodbath'. The DVD by the way includes a brief outtake of a full frontal scene from her for those that are interested. 'Baba Yaga' is one of those movies that you either love or hate. I'm in the former camp.",
+         "Until relatively recently comic books in the US were mostly aimed at kids (and thanks to a self-censorship body called the Comics Code Authority--which made sure little Johnny didn't get hold of a copy of \"The Fabulous Furry Freak Brothers\" or \"Cherry Poptart\" and be scarred for life--adult comics were often unavailable even for adults). But things were different in Europe, especially in France and Italy in the 60's and 70's where \"fumetti\" were very popular with adults, exploring adult themes and experimenting with narrative structure in ways that the American \"graphic novels\" are only just getting around to today. Fumetti were also pretty hip in Europe at the time (again in contrast to America where the coolest guy who publicly admits to reading comics even today is \"Clerks\" director Kevin Smith). There have been a handful of movies based on fumetti. The most famous is \"Barbarella\" because it featured Jane Fonda, but this has also made it an easy target for people like idiot critic/right-wing ben-wah ball Michael Medved. \"Diabolik\" has become highly respected today because of director Mario Bava and the two incredibly attractive leads, but it was reputedly not a well-regarded fumetti. I've heard \"Satanik\" is pretty bad period. Some years later there was also \"Cemetery Man\" based on a novel by the author of the famous fumetti \"Dylan Dog\". It was this movie though that has just confused the hell out of everybody since it's based on a comic strip \"Valentina\" few outside of Italy have read and few in Italy probably understood. Valentina is a photographer who through the agency of a magic camera falls under the spell of a strange lesbian witch, Baba Yaga. That's the basic plot, but it goes off on so many bizarre and surreal tangents that the movie itself is almost impossible to describe. At one point, for instance, Baba Yaga gives Valentina a doll which suddenly turns into a real-life dominatrix who strips her naked, ties her up, and whips her while the witch looks on approvingly. In another scene, Valentina's suddenly part of a firing squad shooting a naked woman on a Jean Rollinesque deserted beach. Carol Baker is the witch and although she is woefully miscast (too young and voluptuous)she acquits herself well (and even did a full-frontal nude scene which was censored out). The actress that plays Valentina, Isabella de Funes couldn't act her way out of an 8mm porno loop with a German shepherd co-star, but she really doesn't have to in this very visual, non-linear movie. Ditto with Ely Galeani, who apparently auditioned for Valentina role but was (hard as it is too imagine) even worse than de Funes,so she took the living doll role. It's also interesting to see George \"The Grim Reaper\" Eastman in a romantic role as Valentina's lover (maybe they got him confused with George Hilton?) Rounding out the cast is Angela Covello (\"So Sweet/So Dead\", \"Torso\") one my favorite obscure Italian actresses. This movie definitely isn't for everybody, but if you're on this site reading this review (and you've heard of any of these people) I expect you'll probably like it.",
+         "I saw it last night for the first time and thought it was spectacular! Filled with style and inventive camera work that could leave Argento in shame, the movie had a bizarre, interesting story. The pace was slow and lethargic (similar to Franco's Succubus and Vampyros Lesbos); the music was excellent, including a melancholic jazz tune and a stylish rock score; and the acting was above average: Carroll Baker, as opposite of what many reviewers said, shines in the role of the evil witch (and looks very attractive also), and Isabelle de Funes was a nice revelation. Cult favorite George Eastman is also good in is supporting role. For the sleazy guys, there was also some mild S&M and some T&A, but nothing worth mention . Too bad the director only made this film, as he looked very talented. A 8/10 from me.",
+         "In Milan, the professional photographer Valentina Rosselli (Isabelle De Funès) takes a ride close to her home with two friends in a party and decides to walk alone in the middle of the night. She saves a dog from a fancy car driver by Baba Yaga (Carroll Baker), a mysterious older woman that insists to drive her home. From this moment on, the life of Valentina changes and she has nightmares and her camera seem to be cursed. She believes Baba Yaga is a witch and that she is under a spell to possess her but her skeptical friend and filmmaker Arno Treves (George Eastman) does not believe. Until the day Valentina visits Baba Yaga´s house. \"Baba Yaga\" is a film with stylish cinematography, beautiful music score that becomes tiresome after many repetitions, and a storyline typical from the Italian films from the 70´s (especially from Jesse Franco) with eroticism and cult elements such as references to Goddard and \"The Golem\". The conclusion is a plus in this interesting witch movie. My vote is six. Title (Brazil): \"Baba Yaga - A Bruxa Maldita\" (\"Baba Yaga - The Coursed Witch\")",
+         "Apparently inspired by a comic book, \"Baba Yaga\" is an unusually compelling, surreal nightmare of movie that also is vibrant with the essence of the late 1960s. The story follows pretty young fashion photographer Valentina (Isabelle De Funes) who runs afoul of seductive sorceress Baba Yaga (Carroll Baker) who proceeds to meddle in her life via a tiny doll in an S&M getup. Baba is not one to take rejection lightly, and subjects Valentina to physical and psychological torments. Well-made, hard-to-pigeonhole film, director Corrado Farina succeeds in creating moody atmosphere and a warped logic in which anything can and will happen. Funes in particular does a superb job of convincing the audience of the vacuum that's engulfing her; a young George Eastman (\"Anthropophagous\") fares well in the role of her disbelieving commercial-director boyfriend. The direction, which intercuts comic-book imagery with hallucinogenic dream sequences (which all seem to possess a Nazi angle), is skillful and unpretentious.",
+         "Lounge revival fans and obscuro movie freaks should definitely take a look at this gem. (Very) loosely based on the erotic graphic novels by Italy's own Guido Crepax, BABA YAGA is a \"giallo\" movie on acid. Call it Dario Argento's SUSPIRIA on peyote. Kinky, weird, and sometimes just plain funny: miss it at your own risk. Oh, and dig the killer soundtrack, too!",
+         "If you answered \"Yes\" you should not bother seeing this movie. However, if you can view a haunted house dark ride style movie as a satisfying cinematic viewing experience, then strap yourself in and enjoy the view as creepy weird unexplained visions flash in front of you. Pouty-lipped Valentina is smack-dab in the middle of the art house European revolution crowd of the time - photographing nude woman by day and walking the lonely city streets at night alone, which is how she meets up with \"Baba Yaga\" a mysterious woman who dresses in black (played by the always lovely Carroll Baker). She instantly weaves a spell over Valentina haunting her thoughts, her dreams and her camera. She also does a pretty decent job of weaving her magic spell over the viewer. \"Baba Yaga\" takes Gothic Horror, stylish pop art, comic books and bondage sex, whirls them in a blender and spews the concoction forth. Although very often defined as a \"Giallo\" film this certainly belongs more to the \"Art Horror\" genre. Those who are fans of the trippy stylish body-baring Giallo/Horror output from Italy circa 1970 should put \"Baba Yaga\" on their \"must-watch\" list.",
+         "Is this artsy fartsy seventies jive or compelling allegory of the so called enlightened intellects versus the unknown? That's up to you to decide. I know nothing about the comic strip so I can't compare\u0085 Valentina is a fashion photographer being romantically pursued by George Eastman (aka Luigi Montefori, from The Unholy Four and The New Barbarians). Fobbing him off one night and walking home herself, she finds a puppy lying within a circle of candles and narrowly manages to save it from being run over by a car driven by the mysterious Baba Yaga (Carrol Baker, from The Devil with Seven Faces). Baba Yaga's immediately starts getting weird on Val, taking a clip from her suspenders and saying she'll be back the next day. And the next day indeed (after Val indulges in some topless photography), Baba turns up and gives her the clip back and gives her address. Intrigued in a way only free living seventies people can be, Val goes to Baba's house, takes photos of things, finds a bottomless pit in the hall, finds a strange glove and puts in on, which prompts her to do a bit of invisible banjo playing while the film turns into a comic. Baba also gives her doll in bondage gear and curses her camera so that every time she takes a picture of someone, they die. The doll on occasion turns into Ely Galleano (from Lizard in a Woman's Skin and High Crime) who puts in a performance so erotic, I felt obliged to send her some money in the post. Sounds weird, eh? It is, all done in a surreal, playful manner with plenty of topless women and kinky situations. It's not overly pervy though, but highly stylish. The sets and general execution are very good indeed, involving scenes that turn from reality to comic strip, a nazi trial, a boxing match with a guy dressed like Jesus, and a soap powder commercial that's truly bizarre. Gore hounds will be disappointed, as will though who like things fast paced. As for me, I liked it. Made a nice change from all the violence you usually get from Italian films from this era. The copy that Shameless Screen Entertainment have released looks to be the fullest version (including a full frontal scene with Baker!), and it looks beautiful. This is the only version I've seen so I can't comment on anything that's gone before.",
+         "Baba Yaga is the story of Valentine, a photographer who photographs women(just one is model is used throughout the movie however), usually in various states of undress. She meets the mystical Carroll Baker and becomes entranced with Baker(Mystically not sexually at first). Carroll Baker puts some sort of hex on Valentine's camera and ,everytime Valentine shoots a picture of an individual, she metaphorically, at least I think, injures them as well. Slowly, The attraction pulling Valentine to Baker's character evolves into a sexual one. Valenntine is lured to Baker's home, molested and whipped and saved in the end by her boyfriend. It is a fascinating movie. I will not say that it is a great movie cause there are a few things that the viewer is left wanting. Partly, It is, in my opinion at least, based on an adult comic book that was probably relevant more in 70's Italy, and partly because of censor's scissors that chopped a bit of the movie. Farina, the director, creates wonderful atmosphere and lures you in. Isabelle De Funes, as Valentine, is absolutely gorgeous and intriguing. The Blue Underground version of this film has the censored scenes that were cut out in the extra section of the DVD. Of note in that is a full frontal nude scene from Carroll Baker. Also, A twenty two minute interview with Corrado Farina who, though no great surprise, says Jean-Luc Goddard was an inspiration of his.",
+         "I saw this in my local video store for a while, and only rented it after finally reading the reviews here, and I must say, it was quite bizaare. Valentina is a photographer who, one night, has a run-in with a mysterious woman named Baba Yaga. Baba Yaga asks to borrow something from Valentina, promising to give it back the next morning. (I have no idea what the thing was--I decided to just forget it.) Valentina agrees, and after a very odd photoshoot with one model the next morning, she finds Baba Yaga at her door, with the item as promised. The woman also inspects Valentina's camera, and then everything Valentina photographs is plagued by something horrible. Things continue, including a creepy photoshoot at Baba Yaga's home, the gift of a strange leather-clad doll named Annette, all leading up to an extremely bizaare ending. Definitely not for everyone, but still an okay movie. Fans of giallo thrillers will like this very offbeat, trippy movie. I didn't really understand the meaning behind Valentina's SS-influenced dreams, and in fact, they were quite disturbing. The bottomless pit in Baba Yaga's house was a nice touch, and actually, the house in total was quite creepy. Annette was very weird, the living doll. And the ending--that was the oddest part of the whole movie! As I said, not for everyone, but still entertaining. And am I the only one who thought the music was nothing special? Sorry, I didn't get what all the hype was about from the other reviewers. Oh well. Still, check this movie out if you can find it.",
+         "During the late '60s and early '70s, Carroll Baker expatriated from the United States and made some horror flicks in Italy. Among these giallo movies was \"Baba Yaga\". It portrays a fashion photographer (Isabelle De Funes) getting involved with an otherworldly older woman (Baker). The title identifies who she is, but people unfamiliar with Slavic mythology may not know who that is. Baba Yaga is a witch in Slavic, especially Russian, folklore. Depending on which story, she can be good or evil, but they usually portray her living in a house standing on chicken legs. We in the west usually mispronounce the second part of her name: we say YAH-gah, but it's actually yah-GAH. But let's not get off topic. I liked this movie. It was sort of half horror, half look at the mod culture in early 1970s Italy (although it seems like all the giallo movies back then showed it). And of course, there's plenty of eroticism to go around; as far as I'm concerned, Carroll Baker embodies (pun intended) eroticism. Quite cool. Also starring George Eastman.",
+         "From the beginning, with a credits sequence set against a background of stark, stylized black and white illustrations while we hear the driving yet haunting theme song, this movie grabs you. If you are already a fan of the \"giallo\" genre, you will be delighted by this film. If you're not, or don't know the genre, don't expect much in the way of a coherent plot or continuity, just lose yourself in the studied weirdness of the individual sequences. This film is particularly interesting as it has a certain \"hip\" and even political sensibility that gives it a real late 60s/early 70s feel. Neat music!",
+         "This film might disappoint horror fans, or it may delight them. But it should thrill fans of Fellini, Roeg, Goddard and other artists who pushed the limits of cinema. Italian director Corrado Farina weaves a stunning tapestry of imagery, dexterously jumping from crisp pop design to bled-dry Goth color to full blown experimental cinema. Story involves a stylish fashion photographer who attracts the attention of a beautiful witch. In the title role, Carroll Baker looks like the star of a haute Goth wet dream. As intense and free-form as the imagery and editing get, the story structure is solid and the film is entertaining. If you love intelligent artsy horror films like Roeg's \"Don't Look Now\" you should definitely check this out.",
+         "This is an interesting film, and one that is wildly uneven but still ultimately watchable. Many of the flaws are admitted by Farina in his interview on the Blue Underground DVD, especially the casting of Carroll Baker as Baba Yaga, which simply doesn't work, but there are other flaws which he doesn't mention. For one, it has that strange quasi-conservative response to sex that tainted the work of many so-called liberal artists of this period. For all its attempts to be daring and original, it always seems to fall back on a relatively conventional framework, culminating in a deeply disappointing ending. It's also full of bizarre non-sequiturs, such as Guido Crepax, author of the graphic novels upon which the film is based, appearing as himself, and Valentina even reading pages from them at one point (pages which seem to feature herself) - had they been handled better, these ideas might actually have been very effective. Still, the film has a jaunty atmosphere and, despite being savaged by the censors, has a suitably erotic undercurrent.",
+         "Sure this isn't the typical horror wanna be film with blood, gore, no plot, etc but this is a very deep movie with multitudes of depth, innuendo and symbolism. The plot deals with a young female photographer who becomes unwilling struck under the spell of b*tch bondage witch, and midaged woman portrayed by Baba Yaga (Carroll Baker). Valentina (the photographer) finds out she is being used by the witch to cast onto others. The film is subtitled from the original version into english but isn't really too noticable. Lots of details within the film have an almost artsy feel; a clock with no hands, the old witch stroking her pussy/cat. You could watch this movie over and over and find new details each time. Even the deleted scene on the DVD was interesting, with the anti-American flag burning senitments of the 70's cut out for american distribution. A neat piece of film history indeed.",
+         "First, I must say I`m a big fan of the recently deceased Guido Crepax`s work and have readed and studied most of it, including the storyline Baba Yaga for the Valentina saga. Just after I have seen the movie for the first time, I´m a little perplexed on how wrong an adaptation it turned out to be. Farina (in \"Valentina and I\", included in the DVD) tells he was a very good friend of Crepax himself, he really seemed to understand the linguistical narrative that Crepax does in his fumettos, and he had the firm intention of doing the best adaptation posible of the Baba Yaga storyline (trying to avoid bad results as Modesty Blaise and Barbarella). Then, how in hell has the movie ended being so bad (as those same movies he refers to)? While there are some interesting aproximations (the photomontage used directly from a layout of the fumetto) and intertext to the work of Crepax (some pages of Bianca are readed by Valentina and Arno, or the including of Crepax himself as a character) the feeling of it all its just wrong. First, athmosphere is not that of a terror movie as is promoted, but is more like a campy pop sixties feel, including music and the cinematography. Second, Isabelle de Funes was the worst actress they could have choosen to play Valentina: she´s not sexy nor ludic nor naive; she inspires boredom, not seduction. Tough the plot is faithfull (most part of it, anyway, Rembrant, the long time and true Valentina`s lover, is replaced by Arno Treves, a existing character in the saga but from another storyline), it is rendered in the most boring and unimaginative way a director could. I conclude, that tough Farina understand´s the linguistic mechanics of Crepax`s fumetto, he is a bad director and can`t help it (prove is, that he only did two feature films, this being his second). R",
+         "If, judging by the title, you're expecting a film about a cannibalistic old lady who lives in a hut with chicken legs in a Russian forest, than you'll certainly by surprised, for the only similarities between this film and the old folktale is having an old witch who preys on the young. Corrado Farina's \"Baba Yaga\" is a delirious art-house gem adapted from Guido Crepax's \"Valentina\" comics, which centers around the sex life of a popular fashion photographer. Though Corrado Farina made only about four films in his career, none of which were very well praised, he really shows his potential as filmmaker in this one, whose unique vision of horror cinema stands out from almost every single genre film made in Italy at that time (most of which consisted of cheap Bava imitations). As a matter of fact, it's much more like something Godard would do had he done a horror film, and not surprisingly, Farina himself admitted that the French maestro was indeed an inspiration for this one. Though reportedly it wasn't an easy shoot, Farina really believed in the project, and one can really see how this film is indeed a labor of love. There's something of an 'extra care' and finesse that lacks in so many films of it's kind that were released around the same time (even the dialog which is usually laughable, is well written). Also, he makes full advantage of comic book motifs in translating the story to screen, with some scenes framed just like a comic book as well as some other interesting editing techniques. Another bonus for the film is a great cast that, though weren't exactly what the direction originally intended, do very well in their jobs. Isabelle De Funés is pretty and very sympathetic as our protagonist Valentina, George Eastman is a likable hero, and last but not least, Caroll Baker is eerily seductive as the titular sorceress, conveying both the creepy and sensual qualities her role requires (even if her performance does borrow something of Delphine Seyrig as Countess Bathory in the equally hypnotic \"Daughters of Darkness\"). Other highlights include Piero Umiliani's beautiful score which often shifts from haunting piano melodies to funky disco motifs, as well as the very disturbing and spine-chilling nightmare sequences, which resembles a cross between Fellini at his darkest and Roman Polanski. Still, the film is not without it's flaws. For one, I just can't take that dominatrix doll too seriously, and also, the ending felt too rushed and anti-climatic, which is a shame really, considering there was so much suspense build up for what turned out to be not much really. I suspect the ending problem might have something to do with the producers' total butchering of the film before it was released (though Shameless' cut is probably the closest thing we'll ever get to Farina's original vision, there's still lots of stuff that has been cut out or changed). Nevertheless, the film manages to hold up quite well even with it's flaws. It is overall a highly atmospheric, original, often creepy and throughly mysterious piece of artsy fun. 9/10",
+         "The erotic comics of Guido Crepax get adapted for the big screen with this generally watchable, if not inspired, piece of sexy Italian cinema. American sex symbol Carroll Baker (\"Baby Doll\") stars as the title character, an enigmatic stranger. She just might be a witch. She comes into the life of Valentina Rosselli (Isabelle De Funes), a photographer by trade who dabbles in various subjects but mostly deals in fashion shoots. Valentina is definitely not sure WHAT to make of this stranger, and relays her suspicions to TV director Arno Treves (Italian icon Luigi Montefiori, a.k.a. George Eastman), her would-be boyfriend. Director / writer Corrado Farina (who also makes a couple of cameos) gives this a valiant effort, even if he himself admits that his film isn't all that successful. As befitting a comic adaptation, he makes the visuals of \"Baba Yaga\" its strongest suit, and gives it a healthy dose of surrealism as well. Voyeurs will be pleased enough with the sex and skin on display, especially when it's provided by Ely Galleani as the provocative Annette. (*Love* that costume.) The problem is, there just isn't all that much story tension here, and the narrative certainly isn't all that compelling. If it weren't for the girl-watching, some people could even find this to be boring. Further harming the film is the fact that Valentina is not a particularly interesting character, and De Funes may be attractive, but her performance isn't all that great. Picking up some of the slack are old pro Eastman, the lovely Ms. Baker (who does seem to be enjoying herself to some degree) and Ms. Galleani. There's also some nice music by Piero Umiliani, and at least one memorable twist, but \"Baba Yaga\" may still not appeal to *all* fans of arty Eurotrash. Viewers may be thunderstruck by the questionable taste of a commercial shot by Arno and his crew at one point. Six out of 10.",
+         "Guido Crepax erotic comic 'Valentina' was the basis for this movie. The comics themselves were not very plot-driven so the screenplay here was more inspired by them rather than being a straight adaption. Perhaps because of this, plot is not a strong point in this one. A fashion photographer called Valentina encounters a mysterious witch called Baba Yaga. The latter puts a hex on Valentina's camera meaning that anyone she photographs experiences some trauma. It's a fairly basic narrative but it has been used as a framework here for all manner of stylish madness. Isabelle De Funès plays Valentina and she looks suitably chic in the part, regular Italian genre actress Carroll Baker is the enigmatic Baba Yaga, while George Eastman gets to appear in a role that unusually does not call for him to be a psychopath but instead is a romantic lead of sorts who works as a director of commercials (his effort for a soap power advert really has to be seen to be believed!). The director here is Corrado Farina who had previously helmed another strange art-horror film called They Have Changed Their Faces (1971). While both films are in the horror bracket, it would be fair to say that their arty leanings are at least as strong as any horror angle. Baba Yaga is very dreamlike in tone with a deliberate pace. It is highly stylish in its visual approach with its sensibilities being divided between pop art and surrealism. Of the latter there are several dream sequences involving Nazis. Odd moments happen in the dead of night such as Valentina discovering a puppy lying within a circle of candles. There are strange items such as an S&M doll which has the power to transform into a woman. So, there is a great deal of oddness to this one, resulting in a film with a strange tone. Farina executes this kind of stuff with a bold visual style which is the movies main strength. Particularly nice were the sequences in which the action suddenly becomes visually formatted like one of the fumetti comics from which it was inspired. Piero Umiliani provides a pretty varied musical score which splits itself into three styles \u2013 upbeat easy-pop for the fashion shoot scenes, slower orchestral stuff for scenes involving Baba Yaga and jazzy compositions to accompany the more surreal episodes. On the whole, this is quite a strange movie which will not have widespread appeal. It's quite restrained as a horror movie and is not visceral in any way. While it does have some erotic elements, they aren't very exploitative. This is very much an art-house/horror hybrid in a lot of ways. It's not necessarily entirely successful in execution but it definitely does a lot of things very well and has some admirable ambition. It's one that is mainly aimed at those who have an affinity with style-heavy early 70's Italian movies. A very intriguing oddity that's for sure.",
+         "This film is a bit of an oddity, a movie that has more in common with art-house cinema than the more conventional stalk-n-slash murder movies that were popular at the time. The story of a woman descending into madness is a familiar one that was utilised through the '70s, so don't expect anything new from the plot. The style of direction, the fashions and the camera-work is also very typical of the period which gives this film a solid grounding as well as making it extremely dated \u2013 but hey, isn't that part of the fun of watching? Ultimately, BABA YAGA, DEVIL WITCH is a disappointment because nothing seems to happen. Once the story has evolved, the movie alternates between scare scenes and dialogue, neither of which are done very well. It's a shame, because many of the horror ingredients here have the opportunity to be extremely frightening, had better use been made of them. The idea of a hole in the ground leading to hell I loved, and the weird fetish doll is an extraordinarily creepy idea. As another plus, Carroll Baker is effective in the role of Baba Yaga, the witch, even though she isn't given much to work with...she certainly gave me the chills! Sadly too much of the film is filled with filler material, and it seems that the director struggled to adapt this movie from its comic book roots. There seems to be a focus on female nudity rather than plot, and minor characters like the black man come and go with little impact on the actual storyline. There's no faulting the acting, as Isabelle De Funes' heroine is pleasingly complex, far more than a simple screaming victim, and big George Eastman gives one of his better performances early on in his career. It's just that BABA YAGA, DEVIL WITCH is so familiar. There's absolutely nothing in the way of originality here, and while a good few individual moments are decently done, as a whole the film is run-of-the-mill entertainment.",
+         "Italian cinema never ceases to amaze me and this was not an exception. Baba yaga is very stylish Italian horror movie but at the same time it's not as graphic as many movies of the spaghetti cinema. I can assume that it was intended for mainstream cinemas as it is quite bland in today's terms. It's plausible as a nightmare, offering very little shocks and more mystery. I wasn't looking for a masterpiece and i was entertained. It should be noted that this movie is an old kind of horror movie without excessive gore. There definitely is symbolism in this movie that many viewers might not understand. Why'd presumably wealthy, old and lonely woman want to extort a young photographer to obey her will? I thought the witch symbolized power and money and its will to gain more control. The witch wanted to corrupt and enslave the main character. She fought for her freedom and prevailed. I thought the movie was actually very political, like on other movie by the same director, \"They've changed their face\". I find it intriguing that a movie has a message of this kind. Many Hollywood movies just lack that aspect completely. This movie is also quite slow and if one has to have a new scene every third second, then it might get boring. I can recommend this movie to everyone (adults mostly) and not just for retro fans. It's not a masterpiece and if you're not looking for one then you won't be disappointed. It's more like a lost gem.",
+         "A somewhat strange offering that is based on folklore and erotic Italian comic books, Kiss Me, Kill Me is a first rate film set in modern Milan. Baba Yaga (played wonderfully by Caroll Baker) is a witch who tries to seduce and control a beautiful photographer, Isabelle De Funès (Valentina Rosselli). There is a love interest for Isabelle, Arno Treves (George Eastman), who also acts as a hero in the appropriate parts. Also involved is a doll that seems to sometimes be human, and who happens to be clad in leather and ready made for bondage and s&m sessions. Isabelle meets Baba Yaga one evening on the street and is invited to Baba Yaga's house sometime. She takes her up on the offer and discovers in the house a hole in the floor that seems to have no bottom. Baba Yaga gives Isabelle a doll that she says will protect her. Baba has also fondled a camera belonging to Isabelle which then seems to cause bad things to happen whenever someone is photographed with it. Throughout the movie Isabelle has dreams that are filled with eroticism and violence. A lot of these dreams are shown in very grainy film or as a set of grainy stills. Pretty effective camerawork all through the movie and the sets, acting and dialogue are better than average. The are a lot of breasts and behinds in the movie and also a whipping scene. Very little blood and no gore. The dvd version released by Diamond Entertainment is bottom of the barrel, but the price is cheap enough at $6-10 that it makes buying the movie worth it. I read at one review website that the movie would be released in early 2003 by synapse films with a few minutes of added footage and hopefully a better transfer, but they do not mention it at the synapse website. I'm glad I own it and I would definitely recommend this as an interesting addition to any horror dvd collection.",
+         "My DVD copy claims Umberto Lenzi directed this very late 1960s movie and the director listed on IMDB is a well-known alias of the great Lenzi. This movie covers a lot of topics, S&M (which I found rather disturbing.), Witchcraft, Dream Sequences, Fascism, Nazism, European Student Protests and Photography. American viewers (like myself) will appreciate the European (Italian/Germanic) feel to this film, especially considering it was made over 30 years ago. I would recommend this film. It isn't an over-the-top Lenzi Gorefest (these came later in his career), but certainly is an interesting 90 minutes of your time one saturday or sunday afternoon. I purchased my copy for $7.00 at an FYE store in New York, so the price is right. I give it a 9/10 for an early lenzi mystery/horror shocker.",
+         "Isabelle De Funès stars as a fashion photographer in Milan who has a bizarre incident one night with a black-clad woman who calls herself Baba Yaga (played by Carroll Baker). Soon after, Baba Yaga becomes a pervasive presence in her life, eventually gifting her a bizarre doll that is the catalyst for all sorts of mayhem. Not dissimilar to its national peers of the era, \"Baba Yaga\" (alternately released as \"The Devil Witch\" and \"Kiss Me, Kill Me,\" depending on which cut you see) is a true Italian horror disaster. The film blends elements of supernatural horror with soap opera drama and lesbian subplots which ultimately add little to the narrative. There isn't much of a story here to speak of; the film was based on a series of comics, and director Corrado Farina does use this basis to craft some clever snapshot still photography, sometimes inserting the comic illustrations themselves. The payoff is purely aesthetic though, and again, offers little substance. I suppose \"style over substance\" is the grouping factor for the film, as it is actually quite well-photographed, boasting impressive shots of the city (particularly at night), as well as the key actors. The score is overplayed and hokey, and seems like it belongs in a porno more than it does a horror film. In terms of performances, Isabelle De Funès makes for a likable (if not distant) lead; Carroll Baker, whom I consider one of the most underrated actresses of her generation, is actually quite weak in this film, though it's difficult to say if it's a result of her performance itself or the echoey overdubbing that was done. All in all, \"Baba Yaga\" is in the ranks of the the some of Jess Franco or Mario Bava's most middling pictures (\"Succubus\" or \"Lisa and the Devil\" come to mind), epitomizing the term \"Eurotrash\" in just about every sense. Visually speaking, it is a beautiful film, but it is so wonkily-arranged that it's difficult for the audience to find anything to grab onto. As a visual curiosity and time capsule of the era and place, it's worth a viewing, but it's very much a mess that may or may not be enjoyed. 5/10."
+      ],
+      "genres": ["Horror"],
+      "productionCompanies": [
+         "14 Luglio Cinematografica",
+         "Productions Simone Allouche",
+         "Rewind Film"
+      ],
+      "summaries": [
+         "Strange things have been happening to Valentina, a young and beautiful professional photographer, ever since she made the acquaintance of Baba Yaga, a mysterious older woman who gave her a lift home late one night. For one thing, Valentina has been having weird, kinky nightmares. For another, one of Valentina's cameras seems to have acquired a deadly curse. And then there was that visit to Baba Yaga's house, where Valentina discovered bizarre relics, including a dominatrix doll, and a bottomless pit in the living room. Valentina comes to realize that Baba Yaga is a witch who is out to possess her - body and soul.",
+         "In Milan, the professional photographer Valentina Rosselli takes a ride close to her home with two friends in a party and decides to walk alone in the middle of the night. She saves a dog from a fancy car driver by Baba Yaga , a mysterious older woman that insists to drive her home. From this moment on, the life of Valentina changes and she has nightmares and her camera seem to be cursed. She believes Baba Yaga is a witch and that she is under a spell to possess her but her skeptical friend and filmmaker Arno Treves does not believe. Until the day Valentina visits Baba Yaga's house.",
+         "A photographer finds herself falling under the spell of a witch."
+      ],
+      "budget": 0
+   },
+   "movielensId": 118498,
+   "movielens": {
+      "languages": [
+         "English",
+         "Français",
+         "Italiano"
+      ],
+      "releaseDate": "1973-09-20",
+      "dvdReleaseDate": null,
+      "directors": ["Corrado Farina"],
+      "runtime": 91,
+      "movieId": 118498,
+      "title": "Baba Yaga",
+      "mpaa": null,
+      "actors": [
+         "Carroll Baker",
+         "George Eastman",
+         "Isabelle De Funès",
+         "Ely Galleani",
+         "Daniela Balzaretti",
+         "Mario Mattia Giorgetti",
+         "Sergio Masieri",
+         "Angela Covello"
+      ],
+      "imdbMovieId": "0069753",
+      "originalTitle": "Baba Yaga",
+      "genres": [
+         "Horror",
+         "Mystery",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": [
+         "wiGaSI1Azjs",
+         "k0yZXgAtwQ0"
+      ],
+      "plotSummary": "Caroll Baker stars in this psychedelic shocker about a mysterious witch who casts a spell over attractive, youthful fashion photographer Valentina Rosselli (Isabelle De Funes). Thrust into a world of sadism, Valentina must figure out whether the torture being inflicted on her is because of one woman's twisted agenda \u2026 or a curse known as Baba Yaga.",
+      "tmdbMovieId": 55689,
+      "avgRating": 2.8,
+      "releaseYear": "1973",
+      "numRatings": 5,
+      "posterPath": "/5fQBefm5GKZ2x4pac79EBZwqNto.jpg"
+   }
+}

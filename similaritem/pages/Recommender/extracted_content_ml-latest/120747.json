@@ -1,0 +1,643 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [{
+         "name": "speech",
+         "id": 6001
+      }],
+      "imdb_id": "tt0031565",
+      "video": false,
+      "title": "Let Freedom Ring",
+      "recommendations": [],
+      "backdrop_path": null,
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 4,
+               "character": "Steve Logan",
+               "gender": 2,
+               "credit_id": "52fe4d609251416c91113de3",
+               "name": "Nelson Eddy",
+               "profile_path": "/aO3WMMqtgE7yDrFLSh6lc1ji1MN.jpg",
+               "id": 78847,
+               "order": 0
+            },
+            {
+               "cast_id": 5,
+               "character": "Maggie Adams",
+               "gender": 1,
+               "credit_id": "52fe4d609251416c91113de7",
+               "name": "Virginia Bruce",
+               "profile_path": "/qTtSm59QeywDqLYi1LJSQQ4YWH9.jpg",
+               "id": 95314,
+               "order": 1
+            },
+            {
+               "cast_id": 6,
+               "character": "Chris Mulligan",
+               "gender": 2,
+               "credit_id": "52fe4d609251416c91113deb",
+               "name": "Victor McLaglen",
+               "profile_path": "/cjW8XGG2KjZ1nFvNJKwG80dJvpy.jpg",
+               "id": 30495,
+               "order": 2
+            },
+            {
+               "cast_id": 7,
+               "character": "Thomas Logan",
+               "gender": 2,
+               "credit_id": "52fe4d609251416c91113def",
+               "name": "Lionel Barrymore",
+               "profile_path": "/5BsoVPE4FBzmiRsPQK14LdcbGCK.jpg",
+               "id": 17753,
+               "order": 3
+            },
+            {
+               "cast_id": 8,
+               "character": "Jim Knox",
+               "gender": 2,
+               "credit_id": "52fe4d609251416c91113df3",
+               "name": "Edward Arnold",
+               "profile_path": "/oYJfe7rvtubC8CNNa8gqY36iNP8.jpg",
+               "id": 30211,
+               "order": 4
+            },
+            {
+               "cast_id": 9,
+               "character": "David Bronson",
+               "gender": 2,
+               "credit_id": "52fe4d609251416c91113df7",
+               "name": "Guy Kibbee",
+               "profile_path": "/pqWHnvlW3oDUTHl8KzgBeHJwgQ0.jpg",
+               "id": 30002,
+               "order": 5
+            },
+            {
+               "cast_id": 10,
+               "character": "The Mackerel",
+               "gender": 2,
+               "credit_id": "52fe4d609251416c91113dfb",
+               "name": "Charles Butterworth",
+               "profile_path": "/gSkAFgaUCw0F7MKURMBmELslt5a.jpg",
+               "id": 90380,
+               "order": 6
+            },
+            {
+               "cast_id": 11,
+               "character": "Rutledge",
+               "gender": 2,
+               "credit_id": "52fe4d609251416c91113dff",
+               "name": "H.B. Warner",
+               "profile_path": "/kYHCNllR7guQTtgROCb3z5dLusa.jpg",
+               "id": 33278,
+               "order": 7
+            },
+            {
+               "cast_id": 12,
+               "character": "Underwood",
+               "gender": 0,
+               "credit_id": "52fe4d609251416c91113e03",
+               "name": "Raymond Walburn",
+               "profile_path": "/pKt1WAQqKhCbTfnWfyLpn8BhjuR.jpg",
+               "id": 89673,
+               "order": 8
+            },
+            {
+               "cast_id": 13,
+               "character": "'Bumper' Jackson",
+               "gender": 0,
+               "credit_id": "52fe4d609251416c91113e07",
+               "name": "Dick Rich",
+               "profile_path": null,
+               "id": 1177873,
+               "order": 9
+            },
+            {
+               "cast_id": 14,
+               "character": "Gagan",
+               "gender": 2,
+               "credit_id": "52fe4d609251416c91113e0b",
+               "name": "Trevor Bardette",
+               "profile_path": "/lHJscOQmunxaih6bZgbT7XZfmrk.jpg",
+               "id": 110204,
+               "order": 10
+            },
+            {
+               "cast_id": 15,
+               "character": "'Pop' Wilkie (as George F. Hayes)",
+               "gender": 2,
+               "credit_id": "52fe4d609251416c91113e0f",
+               "name": "George 'Gabby' Hayes",
+               "profile_path": "/bW3k2dyTraxwWJTRB5UoUI8JD3H.jpg",
+               "id": 88978,
+               "order": 11
+            },
+            {
+               "cast_id": 16,
+               "character": "Ned Wilkie",
+               "gender": 2,
+               "credit_id": "555396f4925141499000248f",
+               "name": "Louis Jean Heydt",
+               "profile_path": "/tVGkYRK3ogEapJ0NMAdvyy4SJO1.jpg",
+               "id": 13979,
+               "order": 12
+            },
+            {
+               "cast_id": 17,
+               "character": "'Ma' Logan",
+               "gender": 1,
+               "credit_id": "555396ff9251414990002494",
+               "name": "Sarah Padden",
+               "profile_path": "/9Fs52o6cYURJ6aScQ0odorcH7dv.jpg",
+               "id": 34749,
+               "order": 13
+            },
+            {
+               "cast_id": 18,
+               "character": "'Curly'",
+               "gender": 2,
+               "credit_id": "5553970ac3a368633e0025fd",
+               "name": "Eddie Dunn",
+               "profile_path": "/lxKCH5fUBwf73igBfHnIjbm11Di.jpg",
+               "id": 133342,
+               "order": 14
+            },
+            {
+               "cast_id": 19,
+               "character": "Sheriff Hicks",
+               "gender": 0,
+               "credit_id": "555397179251414997002482",
+               "name": "C.E. Anderson",
+               "profile_path": null,
+               "id": 1109652,
+               "order": 15
+            },
+            {
+               "cast_id": 20,
+               "character": "Tony",
+               "gender": 2,
+               "credit_id": "55539729c3a3686347002751",
+               "name": "Luis Alberni",
+               "profile_path": "/reMnlbERut9m3VWis9if3i9lCJw.jpg",
+               "id": 30264,
+               "order": 16
+            },
+            {
+               "cast_id": 21,
+               "character": "Hilda - Cook",
+               "gender": 0,
+               "credit_id": "5553973292514162d10022dc",
+               "name": "Maude Allen",
+               "profile_path": null,
+               "id": 974965,
+               "order": 17
+            },
+            {
+               "cast_id": 22,
+               "character": "Rancher",
+               "gender": 0,
+               "credit_id": "5553973c92514162d10022e1",
+               "name": "Jimmy Aubrey",
+               "profile_path": "/nDEzS7B7C2Lrn2Wopn7OJ2SKIMa.jpg",
+               "id": 88778,
+               "order": 18
+            },
+            {
+               "cast_id": 23,
+               "character": "Stage Driver",
+               "gender": 2,
+               "credit_id": "55539746c3a368634d002a15",
+               "name": "Hank Bell",
+               "profile_path": "/jb4n9VFv7ykyWQxBrs2pFQeVsoA.jpg",
+               "id": 1095107,
+               "order": 19
+            },
+            {
+               "cast_id": 24,
+               "character": "Cockney",
+               "gender": 0,
+               "credit_id": "5553975192514162d10022e6",
+               "name": "Billy Bevan",
+               "profile_path": "/b71bTzqUZ60ij9aErlaat6BWkTK.jpg",
+               "id": 100763,
+               "order": 20
+            },
+            {
+               "cast_id": 46,
+               "character": "Gagan's Henchman (uncredited)",
+               "gender": 2,
+               "credit_id": "59ff460992514146bd045069",
+               "name": "Francis X. Bushman Jr.",
+               "profile_path": "/6itMMpLPGK6OkLdrGv5wARIRDUU.jpg",
+               "id": 1670560,
+               "order": 21
+            },
+            {
+               "cast_id": 26,
+               "character": "Rancher",
+               "gender": 0,
+               "credit_id": "5553976692514162d10022eb",
+               "name": "Heinie Conklin",
+               "profile_path": "/uRZLQZjvyCVnY5nY4cyLJgkNEYF.jpg",
+               "id": 1250223,
+               "order": 22
+            },
+            {
+               "cast_id": 27,
+               "character": "Gagan's Henchman",
+               "gender": 0,
+               "credit_id": "5553977dc3a3686347002767",
+               "name": "Harry Fleischmann",
+               "profile_path": null,
+               "id": 1422864,
+               "order": 23
+            },
+            {
+               "cast_id": 28,
+               "character": "Railroad Worker (uncredited)",
+               "gender": 2,
+               "credit_id": "5553978c925141563c000b32",
+               "name": "John George",
+               "profile_path": "/gEhNTzAQ2EoZzpAQWMYQuOVkSpF.jpg",
+               "id": 97999,
+               "order": 24
+            },
+            {
+               "cast_id": 29,
+               "character": "Hunky",
+               "gender": 0,
+               "credit_id": "55539798c3a368635100254d",
+               "name": "Tenen Holtz",
+               "profile_path": "/xkw24oNHErN8CivKHwfaLmwvow0.jpg",
+               "id": 1235622,
+               "order": 25
+            },
+            {
+               "cast_id": 30,
+               "character": "Ivan - Pole",
+               "gender": 2,
+               "credit_id": "555397a59251414997002492",
+               "name": "Adia Kuznetzoff",
+               "profile_path": null,
+               "id": 939680,
+               "order": 26
+            },
+            {
+               "cast_id": 31,
+               "character": "Joe",
+               "gender": 2,
+               "credit_id": "555397c192514149970024a4",
+               "name": "Mitchell Lewis",
+               "profile_path": "/8pMeRxkO2wDydRt0JVhHxIN9y7H.jpg",
+               "id": 13558,
+               "order": 27
+            },
+            {
+               "cast_id": 32,
+               "character": "Worker",
+               "gender": 0,
+               "credit_id": "555397cb925141499e00267c",
+               "name": "Jack Low",
+               "profile_path": null,
+               "id": 1420479,
+               "order": 28
+            },
+            {
+               "cast_id": 33,
+               "character": "Bar Fly",
+               "gender": 2,
+               "credit_id": "555397d5925141563c000b3a",
+               "name": "Jim Mason",
+               "profile_path": null,
+               "id": 98022,
+               "order": 29
+            },
+            {
+               "cast_id": 34,
+               "character": "Gagan's Henchman",
+               "gender": 2,
+               "credit_id": "555397de925141499e002680",
+               "name": "Philo McCullough",
+               "profile_path": "/pmzSq7WkC8qQd1e6jMALKctQZP0.jpg",
+               "id": 1173173,
+               "order": 30
+            },
+            {
+               "cast_id": 35,
+               "character": "Rancher",
+               "gender": 2,
+               "credit_id": "555397edc3a3686347002781",
+               "name": "Bruce Mitchell",
+               "profile_path": null,
+               "id": 1092484,
+               "order": 31
+            },
+            {
+               "cast_id": 36,
+               "character": "Bar Fly",
+               "gender": 0,
+               "credit_id": "555397f692514149970024ab",
+               "name": "Art Mix",
+               "profile_path": "/ApqC9z8rSwWJJvbwPc32lAuiXt2.jpg",
+               "id": 557086,
+               "order": 32
+            },
+            {
+               "cast_id": 37,
+               "character": "Axel - 1st Swede",
+               "gender": 2,
+               "credit_id": "555397ff92514149a4002505",
+               "name": "Emory Parnell",
+               "profile_path": "/1duv3EnZjZSz8jgtXGZS4MOArNK.jpg",
+               "id": 124875,
+               "order": 33
+            },
+            {
+               "cast_id": 38,
+               "character": "Ole Swensen - 2nd Swede",
+               "gender": 2,
+               "credit_id": "5553980ac3a368634d002a33",
+               "name": "Victor Potel",
+               "profile_path": "/obZCOU7xnxvlkLLfHtlZPs3EB3Q.jpg",
+               "id": 99468,
+               "order": 34
+            },
+            {
+               "cast_id": 39,
+               "character": "Rancher",
+               "gender": 2,
+               "credit_id": "55539814c3a368634900253f",
+               "name": "Cyril Ring",
+               "profile_path": "/uvRIQmdFTRZwWL34dtgAIqLOnwp.jpg",
+               "id": 34818,
+               "order": 35
+            },
+            {
+               "cast_id": 40,
+               "character": "Russian",
+               "gender": 2,
+               "credit_id": "5553981e925141563c000b42",
+               "name": "Constantine Romanoff",
+               "profile_path": null,
+               "id": 148402,
+               "order": 36
+            },
+            {
+               "cast_id": 41,
+               "character": "German",
+               "gender": 2,
+               "credit_id": "55539828925141499e002690",
+               "name": "Lionel Royce",
+               "profile_path": "/atNNYG6uRqngjDpoSbPjan2hXY6.jpg",
+               "id": 120706,
+               "order": 37
+            },
+            {
+               "cast_id": 42,
+               "character": "Surveyor",
+               "gender": 2,
+               "credit_id": "55539831c3a368634d002a3a",
+               "name": "Syd Saylor",
+               "profile_path": "/5VKk3UNGktDsZCEtIqN1Z0GIcmg.jpg",
+               "id": 88728,
+               "order": 38
+            },
+            {
+               "cast_id": 43,
+               "character": "Bar Fly",
+               "gender": 2,
+               "credit_id": "5553983bc3a368633e002632",
+               "name": "Harry Tenbrook",
+               "profile_path": null,
+               "id": 955691,
+               "order": 39
+            },
+            {
+               "cast_id": 44,
+               "character": "Surveyor",
+               "gender": 0,
+               "credit_id": "5553984592514149900024c6",
+               "name": "Teddy Thompson",
+               "profile_path": null,
+               "id": 1237210,
+               "order": 40
+            },
+            {
+               "cast_id": 45,
+               "character": "Barfly / Workman",
+               "gender": 0,
+               "credit_id": "5553984fc3a36863410027da",
+               "name": "Harry Wilson",
+               "profile_path": "/jbJHEyDbCRyD7hnUbmNjCNqWTMT.jpg",
+               "id": 1045763,
+               "order": 41
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4d609251416c91113dd3",
+               "name": "Jack Conway",
+               "profile_path": "/9XtA1YzzVibf1xl907PB9uQYdyi.jpg",
+               "id": 82413,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4d609251416c91113dd9",
+               "name": "Ben Hecht",
+               "profile_path": "/is5faYjaFObagG3b8xgwocMkUcX.jpg",
+               "id": 4341,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4d609251416c91113ddf",
+               "name": "Ben Hecht",
+               "profile_path": "/is5faYjaFObagG3b8xgwocMkUcX.jpg",
+               "id": 4341,
+               "department": "Writing",
+               "job": "Screenplay"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Music",
+            "id": 10402
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 0.625911,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 197737,
+      "vote_count": 1,
+      "budget": 0,
+      "overview": "A Harvard man (Nelson Eddy) fights a railroad baron with a disguise and the power of the press.",
+      "similar": [
+         72976,
+         38050,
+         45269,
+         118628,
+         78256,
+         152060,
+         246876,
+         45190,
+         3396,
+         45581,
+         280794,
+         331320,
+         480971,
+         148559,
+         416828,
+         496238,
+         126453,
+         250190,
+         36029
+      ],
+      "original_title": "Let Freedom Ring",
+      "runtime": 87,
+      "poster_path": "/whOVwe2hQKLEe6wsYs76OLABlD1.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/zcxym93i5BTqqjhVvAhV5HPwYTR.png",
+         "name": "Metro-Goldwyn-Mayer",
+         "id": 21,
+         "origin_country": "US"
+      }],
+      "release_date": "1939-02-24",
+      "vote_average": 6,
+      "belongs_to_collection": null,
+      "tagline": "Thrill-Blasting Drama of Men and Women at the Turn of a New Era with a cast as big as the Majestic land they Glorify !",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Black and White",
+      "budgetCurrency": null,
+      "directors": ["Jack Conway"],
+      "runtime": 87,
+      "synopsis": null,
+      "writers": [
+         "Ben Hecht",
+         "Ben Hecht"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0031565/",
+      "coverLink": null,
+      "actors": [
+         "Nelson Eddy",
+         "Virginia Bruce",
+         "Victor McLaglen"
+      ],
+      "reviews": [
+         "Scenarist Ben Hecht's tract to ethnic toleration does not lack the production values and quality of acting necessary for its artistic success. Within the format of a Hollywood-style Western, it is an easy task for Hecht to insert his typical hyperbole in the form of some truly crimson prose directed against big business represented by expanding railroad interests. Edward Arnold gives a solid performance as Jim Knox, a railway plutocrat who is determined to manipulate and exploit a polyglot force of European immigrant workers, led by their rough and ready Irish foreman, played to the hilt by Victor MacLaglen in this post-War Between the States musical melodrama. How to oppose Knox' land grabbing is the plight of a small coterie of settlers led by Tom Logan and his recently Harvard-graduated son Steve, portrayed by Lionel Barrymore and baritone Nelson Eddy. Reliable Jack Conway directs with proletarian emphasis, featuring closeups of seamed and craggy-faced railroad laborers, whose basic needs are apparently implemented whenever the sturdy Eddy bursts into song. Eddy employs the method of a clandestine newspaper to undermine the plans of the villainous capitalist Knox, working hand-in-hand with a sidekick, acted very nicely by the extraordinary ad lib performer, Charles Butterworth, whose nonpareil timing is a delight in his every scene. This is the first appearance of the seasoned Eddy without an equal singing partner, and he proves more than capable of carrying the show, although he is joined briefly during one number by his romantic interest, the talented and beautiful Virginia Bruce. Without question a disputation against capitalist profiteering, LET FREEDOM RING is even more a rousing entertainment, knitted with wonderful music, a top-flight cast, and neatly crafted direction.",
+         "LET FREEDOM RING is at its best whenever NELSON EDDY is permitted to sing forth in his strong baritone voice with a number of pleasant songs and this he does frequently. Sometimes it's at the request of VICTOR McLAGLEN who does a funny turn as the simple-minded villain of the piece who takes time out from fisticuffs to do an Irish jig when it pleases him. One of the nicest scenes has Eddy honoring McLaglen's request to sing \"When Irish Eyes Are Smiling\". In Eddy's hands, the song never sounded so good. The plot has something to do with railroads vs. cattlemen and some skullduggery on the part of Nelson who rallies support from the townspeople to literally \"let freedom ring\" by opposing the mob boss (Edward Arnold) and demanding their own right to liberty and the pursuit of happiness. Yes, it's got that flag-waving flavor throughout, no doubt because the world was on the brink of entering into World War II which was all about fighting for freedom. As a story, it's somewhat jumbled in the telling, relying solely on the strength of Nelson Eddy to deliver a solid central performance--and he does. He's obviously having a good time, even without Jeanette. Not too much can be said for Virginia Bruce, his demure blonde leading lady, who lifts her voice in song only once. She is demure and sweet, even when she's supposed to be feisty, and that about sums up her performance. Not the kind of film that most of Eddy's fans would clamor to see, but it passes the time pleasantly enough.",
+         "\"Let Freedom Ring is an undeservedly little-known \"patriotic western\" with comedy and, of course, music, written by veteran screenwriter Ben Hecht and featuring practically every character actor in Hollywood at the time (Victor McLaglen in a hilarious performance, Charles Butterworth ditto, the wonderful Edward Arnold, Lionel Barrymore, Raymond Walburn, Guy Kibbee, Gabby Hayes, H. B. Warner, Louis Jean Heydt) and the lovely and gentle Virginia Bruce as leading lady. Nelson Eddy looks terrific and natural--no eye makeup, no lipstick and no Jeanette MacDonald!--and, needless to say, sings divinely. His performance is relaxed, funny and charming, he was clearly an expert horseman, and the fistfight near the end of the movie between him and Victor McLaglen is worth the price of admission. It was performed by themselves; no stunt doubles. Highly recommended to anyone who hasn't seen it.",
+         "LET FREEDOM RING is a well intentioned musical comedy about the post-Civil War age of the robber barons. So, who should play a smiling, unscrupulous business tycoon but that most realistic one Edward Arnold - in the year that he also played Boss Jim Taylor in MR. SMITH GOES TO WASHINGTON (and shortly before his fascist minded tycoon in Capra's MEET JOHN DOE). Only his attempt to dominate a small western town that is in the way of his planned railroad somehow comes to the attention of the U.S. Government, who send Nelson Eddy as a special agent to unite the townspeople to confront and defeat the nefarious Arnold. This should tip one off as to this being a Hollywood fantasy. The government in Washington in the 1870s would not only have not bothered sending any agent out to do this, but it would have sent word to Arnold (with palm outstretched) that it was there to assist him in his land grabbing activities. If you doubt me, read Allan Nevins' biography of Stuyvesant Fish, President Grant's Secretary of State - the most honest man in his government. Nevins chronicles the series of scandals that tarnished Grant's two terms, several dealing with railroads. It is a disparate group that Eddy has to bring together. Besides his love interest (Virginia Bruce) there is the Mayor (Guy Kibbee), the local newspaper editor (Raymond Walburn), the railroad's leading bully boy (a misguided one, as it turns out) Victor MacLaghlan, and such strong, firm citizens as Charles Butterworth. Yet, at the end of this cute little film Eddy manages to get the townspeople united against Arnold and his moneyed army. They sing their defiance in Edward's face. Watch the conclusions of this bizaare movie closely. Arnold is not defeated at the end...he justs realizes he has miscalculated in that he picked a route that goes through a town full of lunatics. He shakes his head in bewilderment, picks himself up (probably realizing that the route through some more promising town is better), and leaves. Knowing how smart Edward was, he probably did build his railroad through a better route after all!",
+         "Let Freedom Ring is a pleasant way to kick back and relax for part of an afternoon. It isn't without its corniness and the story is thin and jumbled, even with these there isn't really anything that is terribly wrong about Let Freedom Ring. It is beautifully shot with an evocatively rendered setting, there's definitely a western aura about it. The music is catchy with clever lyrics, When Irish Eyes are Smiling comes off best, while the dialogue is mostly witty, heartfelt and thoughtful with the odd corny moment. The western and patriotic parts are rousing and don't preach at all, and the more romantic parts are full of charm. The message is a good one and it is one that still resonates. The direction is efficient and done with professionalism. The performances are great, Lionel Barrymore, Edward Arnold(on menacing villain duty) and especially Victor McLaglen fare the best in support, while Virginia Bruce is a smart and alluring female lead, also exuding a great deal of charm. Nelson Eddy is in glorious voice, not a surprise as his voice is a contender for the most beautiful baritone voice on film(between him and Howard Keel), and it is here where he gives one of his better acting performances, he can be wooden but here he looks very comfortable and his performance is very solid. In conclusion, a really nice film. 8/10 Bethany Cox",
+         "He may have written this script in the hopes that it would have been given a more serious treatment by MGM. Instead his rail against internal industrial fascism on the eve of America's entry into WW2 to fight external fascists was turned into a starring vehicle for Nelson Eddy of all people. Hecht must have gone on an extended bender when he heard his story was going to be punctuated by several of Eddy's baritone interludes. Does it all gel? No. It's a bit of shizophrenic curiosity piece to say the least. But Hecht's message resonates now as it did then, and the picture does provide many pleasing moments and is actually quite entertaining to sit through. Eddy is likable and is even believable as a two fisted hero. His scenes with Victor McLaglen, actually beating the hell out of McLaglen in the last act, are a hoot. McLaglen is always a fun ham to watch and here he's playing his usual larger than life Irishman, though more like his turn in the Quiet Man than his lovable appearances as the Sergeant in John Ford's Cavalry trilogy. McLaglen was branded (no doubt unfairly) with the reputation of being a crypto-fascist around the time this came out. This role probably had a lot to do with it. As far as villains go, Edward Arnold played the most menacing corporate/political wolves captured on film in that era. Here he's at it again, playing Dick Cheney to good effect a couple of years before Dick Cheney was even hatched. He also appeared in a very similar role in Mr. Smith Goes to Washington the very same year as this release. This film is uneven, at times unbelievable, and very corny. It lands short of being good but it's still fun, thought provoking (what with the current political climate), and worth seeing.",
+         "It's Nelson Eddy again, but this time without Jeanette - in an unusual Western musical! \"Let Freedom Ring\" (1939) is finally available on DVD. It is a patriotic action picture based on the 19th century struggle of farmers against the railroads. History with distant echoes where I grew up in the Midwest, from stories I heard and reflected by novelists such as Frank Norris with \"The Octopus\" and \"the Pit\". First was land grabbing by nefarious means as dramatized in the film. Later, of course, came the gaming of freight rates to rob the farmers even further, into the 20th century. See Nelson Eddy lead the charge against Edward Arnold, notorious villain from Wall Street, and his hired thug Victor McLaglen, who exploit the immigrant railroad workers and homestead farmers alike! \"Wall Street\" is mentioned pejoratively three times; this would never happen in today's ideologically sanitized Hollywood. Otherwise, a wholesome Ben Hecht script with Arson! Fistfights! Gunfire! Noble Nelson in fine voice with codger Lionel Barrymore, comic Charles Butterworth, and comely Virginia Bruce. Plus many others in a star spangled film.",
+         "Let Freedom Ring was probably made with the best of intentions, but it sends out a curious mixed message in the final product. The folks at a western town where the railroad is coming through are overwhelmed by the arrival of immigrant railroad workers, working on the railroad being financed by robber baron Edward Arnold. There are a few ranchers and farmers whose land stands in the railroad's path and these folks are dealt with summarily by Arnold's hired men. One man who won't give in is Lionel Barrymore whose son is coming home from Harvard a lawyer and ready to take up the rancher's cause. Only Nelson Eddy decides the best way to fight is to go Zorro on the bad guys. But other than Charles Butterworth no one knows he's the Wasp (a very interesting choice of names by the way). What Arnold's done is used the tried and true methods of the political bosses of the east, getting the immigrants to vote. Nelson's idea is simple, if the immigrants only knew the truth about what a bad guy Arnold is, they'll vote with the original settlers and knock out the alien urban political machine in their midst. He kidnaps newspaper editor Raymond Walburn and takes him and the press to a mountain cave where some subversive newspapers are printed and distributed. The railroad workers are a real mixed bunch of immigrants, not the Irish working west or the Chinese working east as history has it. It's a real United Nations working on Arnold's railroad. The workers are kept in line by foreman Victor McLaglen and Nelson has the unenviable task of beating some sense into him like John Wayne did in The Quiet Man. Of all the films that starred Jeanette and Nelson and they certainly have come down in history as a duo, this was the worst of what they did at MGM. Nelson is about to be hanged along with Barrymore for crimes that are undefined at best, but certainly nothing worth being hung for. And Virginia Bruce who plays the Nelson's girlfriend saves the day with a rendition of My Country Tis of Thee that the immigrants join in with. In the face of a revolt by his paid for immigrant voters, Arnold quite rationally packs up and leaves town to build his railroad somewhere else. I kid you not, that's the ending here. Just what is the message, vote with the settlers and lose your jobs with Arnold? But somehow you'll get by here? I do wonder some times if 20 years from after the incidents of this film take place and the town as settled into a sleepy backwater of the west while some towns where the railroad has come through that are now cities, that the good citizens of that town haven't rethought about what Nelson Eddy did. If they did they're probably running him out on a rail. Nelson is of course in good voice and has a variety of concert and popular pieces to sing including a ballad to the immigrants written by Sigmund Romberg, Where Else But Here. The song is a heartfelt tribute from an immigrant who did make good in his adopted country. Too bad it didn't have a better venue. The almost platinum blonde Virginia Bruce I'm sure is dubbed here. And I'm sure Jeanette MacDonald was just as happy she wasn't accompanying Nelson on this trip west."
+      ],
+      "genres": [
+         "Drama",
+         "Musical",
+         "Romance"
+      ],
+      "productionCompanies": ["Metro-Goldwyn-Mayer (MGM)"],
+      "summaries": [
+         "Railroad owner Jim Knox uses everything to get the land he needs for his new railroad cheaply. Everybody hopes, that Steve Logan ends his regime, but he allies with Jim Knox. Nobody knows, that he's actually a government agent. But when Jim finds out, he tries to kill Steve.",
+         "When the railroad advances westward agent Jim Knox chooses expedite ways to obtain the land he needs, aided by his fierce Irish lieutenant Mulligan. Everybody expects homecoming lawyer Steve Logan will stop him, but he chooses instead an alliance, to even her sweetheart's rejection. Only a good friend finds the truth and will help him act this double role to restore freedom and dignity."
+      ],
+      "budget": 0
+   },
+   "movielensId": 120747,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1939-02-24",
+      "dvdReleaseDate": null,
+      "directors": ["Jack Conway"],
+      "runtime": 87,
+      "movieId": 120747,
+      "title": "Let Freedom Ring",
+      "mpaa": "",
+      "actors": [
+         "Nelson Eddy",
+         "Virginia Bruce",
+         "Victor McLaglen",
+         "Lionel Barrymore",
+         "Edward Arnold",
+         "Guy Kibbee",
+         "Charles Butterworth",
+         "H.B. Warner",
+         "Raymond Walburn",
+         "Dick Rich",
+         "Trevor Bardette",
+         "George 'Gabby' Hayes",
+         "Louis Jean Heydt",
+         "Sarah Padden",
+         "Eddie Dunn",
+         "C.E. Anderson",
+         "Luis Alberni",
+         "Maude Allen",
+         "Jimmy Aubrey",
+         "Hank Bell",
+         "Billy Bevan",
+         "Francis X. Bushman Jr.",
+         "Heinie Conklin",
+         "Harry Fleischmann",
+         "John George",
+         "Tenen Holtz",
+         "Adia Kuznetzoff",
+         "Mitchell Lewis",
+         "Jack Low",
+         "Jim Mason",
+         "Philo McCullough",
+         "Bruce Mitchell",
+         "Art Mix",
+         "Emory Parnell",
+         "Victor Potel",
+         "Cyril Ring",
+         "Constantine Romanoff",
+         "Lionel Royce",
+         "Syd Saylor",
+         "Harry Tenbrook",
+         "Teddy Thompson",
+         "Harry Wilson"
+      ],
+      "imdbMovieId": "0031565",
+      "originalTitle": "Let Freedom Ring",
+      "genres": [
+         "Drama",
+         "Music",
+         "Romance"
+      ],
+      "youtubeTrailerIds": ["zYuFv7Iw7o4"],
+      "plotSummary": "A Harvard man (Nelson Eddy) fights a railroad baron with a disguise and the power of the press.",
+      "tmdbMovieId": 197737,
+      "avgRating": 0,
+      "releaseYear": "1939",
+      "numRatings": 0,
+      "posterPath": "/whOVwe2hQKLEe6wsYs76OLABlD1.jpg"
+   }
+}

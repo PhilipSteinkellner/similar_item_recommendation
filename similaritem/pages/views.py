@@ -12,10 +12,10 @@ def result_view(request, *args, **kwargs):
 
     if request.method == 'POST':
         form = request.POST
-        #print(form)
+        print(form)
         name = form['search field']
         movie_id = rec.get_id(name)
-        #print(movie_id)
+        print(movie_id)
 
     else:
         movie_id = 1
@@ -102,6 +102,7 @@ def create_movie_data(output):
 
         data_all[index].append(poster)
         data_all[index].append(name)
+        print(name)
         indexes.append(index)
         #print(index)
 

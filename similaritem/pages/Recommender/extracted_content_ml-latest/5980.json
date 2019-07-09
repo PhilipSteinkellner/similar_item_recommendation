@@ -1,0 +1,661 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "winter",
+            "id": 1442
+         },
+         {
+            "name": "murder",
+            "id": 9826
+         },
+         {
+            "name": "slasher",
+            "id": 12339
+         },
+         {
+            "name": "prank telephone call",
+            "id": 175514
+         },
+         {
+            "name": "christmas horror",
+            "id": 186466
+         },
+         {
+            "name": "sorority house",
+            "id": 194236
+         },
+         {
+            "name": "obscene telephone call",
+            "id": 207299
+         },
+         {
+            "name": "christmas",
+            "id": 207317
+         }
+      ],
+      "imdb_id": "tt0071222",
+      "video": false,
+      "title": "Black Christmas",
+      "recommendations": [
+         39874,
+         13567,
+         27346,
+         36599,
+         15516,
+         24124,
+         24341,
+         27475,
+         45964,
+         40969,
+         27414,
+         11772,
+         8740,
+         11167,
+         931,
+         24831,
+         16154,
+         40229,
+         27813,
+         22307
+      ],
+      "backdrop_path": "/zfs9QuKkZL6ZCluGvjo5Pk49aMv.jpg",
+      "revenue": 4053000,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 3,
+               "character": "Jess Bradford",
+               "gender": 1,
+               "credit_id": "52fe46f99251416c75089b4f",
+               "name": "Olivia Hussey",
+               "profile_path": "/qe2QxkaW8yQEn9dzFpUhttLs46x.jpg",
+               "id": 24695,
+               "order": 0
+            },
+            {
+               "cast_id": 4,
+               "character": "Peter Smythe",
+               "gender": 2,
+               "credit_id": "52fe46f99251416c75089b53",
+               "name": "Keir Dullea",
+               "profile_path": "/dL9i0nCk2fCgInZNaYVjGck2IBp.jpg",
+               "id": 245,
+               "order": 1
+            },
+            {
+               "cast_id": 5,
+               "character": "Barbara 'Barb' Coard",
+               "gender": 1,
+               "credit_id": "52fe46f99251416c75089b57",
+               "name": "Margot Kidder",
+               "profile_path": "/98HrmSMx8FhMCeoKEODs3OSGYyv.jpg",
+               "id": 20011,
+               "order": 2
+            },
+            {
+               "cast_id": 6,
+               "character": "Lieutenant Kenneth Fuller",
+               "gender": 2,
+               "credit_id": "52fe46f99251416c75089b5b",
+               "name": "John Saxon",
+               "profile_path": "/140sjZuUAGQraBSNO87Y5bVC74i.jpg",
+               "id": 11163,
+               "order": 3
+            },
+            {
+               "cast_id": 7,
+               "character": "Mrs. 'Mac' MacHenry",
+               "gender": 0,
+               "credit_id": "52fe46f99251416c75089b5f",
+               "name": "Marian Waldman",
+               "profile_path": null,
+               "id": 81055,
+               "order": 4
+            },
+            {
+               "cast_id": 8,
+               "character": "Phyllis 'Phyl' Carlson",
+               "gender": 1,
+               "credit_id": "52fe46f99251416c75089b63",
+               "name": "Andrea Martin",
+               "profile_path": "/syS5bfwIeFAFzAWtn0dqPbfPadM.jpg",
+               "id": 8263,
+               "order": 5
+            },
+            {
+               "cast_id": 9,
+               "character": "Mr. Harrison",
+               "gender": 0,
+               "credit_id": "52fe46f99251416c75089b67",
+               "name": "James Edmond",
+               "profile_path": null,
+               "id": 81056,
+               "order": 6
+            },
+            {
+               "cast_id": 10,
+               "character": "Sargeant Nash",
+               "gender": 2,
+               "credit_id": "52fe46f99251416c75089b6b",
+               "name": "Doug McGrath",
+               "profile_path": "/5SymooBkRDbpetuy5VlgMZWcfmZ.jpg",
+               "id": 62033,
+               "order": 7
+            },
+            {
+               "cast_id": 11,
+               "character": "Chris Hayden",
+               "gender": 2,
+               "credit_id": "52fe46f99251416c75089b6f",
+               "name": "Art Hindle",
+               "profile_path": "/cyse2WKDJ5GXCGWGtw4CHsamv8i.jpg",
+               "id": 41256,
+               "order": 8
+            },
+            {
+               "cast_id": 12,
+               "character": "Clare Harrison",
+               "gender": 1,
+               "credit_id": "52fe46f99251416c75089b73",
+               "name": "Lynne Griffin",
+               "profile_path": "/5rEBrM5QzegWEeWjiorTn4SbonN.jpg",
+               "id": 34917,
+               "order": 9
+            },
+            {
+               "cast_id": 14,
+               "character": "Bill Graham",
+               "gender": 2,
+               "credit_id": "52fe46f99251416c75089b7b",
+               "name": "Leslie Carlson",
+               "profile_path": "/nnYVdNB7MpXbBdq3xRzkD5fTzmW.jpg",
+               "id": 12716,
+               "order": 11
+            },
+            {
+               "cast_id": 15,
+               "character": "Mrs. Quaife",
+               "gender": 0,
+               "credit_id": "52fe46f99251416c75089b7f",
+               "name": "Martha Gibson",
+               "profile_path": null,
+               "id": 81058,
+               "order": 12
+            },
+            {
+               "cast_id": 16,
+               "character": "Laughing Detective",
+               "gender": 0,
+               "credit_id": "52fe46f99251416c75089b83",
+               "name": "John Rutter",
+               "profile_path": null,
+               "id": 81059,
+               "order": 13
+            },
+            {
+               "cast_id": 17,
+               "character": "Doctor",
+               "gender": 2,
+               "credit_id": "52fe46f99251416c75089b87",
+               "name": "Robert Warner",
+               "profile_path": null,
+               "id": 81060,
+               "order": 14
+            },
+            {
+               "cast_id": 25,
+               "character": "Farmer",
+               "gender": 0,
+               "credit_id": "58584009925141724d034efb",
+               "name": "Sydney Brown",
+               "profile_path": null,
+               "id": 184054,
+               "order": 15
+            },
+            {
+               "cast_id": 26,
+               "character": "Search Party",
+               "gender": 0,
+               "credit_id": "5858401ec3a3682fb8070822",
+               "name": "Jack Van Evera",
+               "profile_path": null,
+               "id": 126565,
+               "order": 16
+            },
+            {
+               "cast_id": 27,
+               "character": "Search Party",
+               "gender": 0,
+               "credit_id": "5858402cc3a36806a7052998",
+               "name": "Les Rubie",
+               "profile_path": null,
+               "id": 563094,
+               "order": 17
+            },
+            {
+               "cast_id": 28,
+               "character": "Woman",
+               "gender": 1,
+               "credit_id": "58584037c3a3682f5805da1c",
+               "name": "Marcia Diamond",
+               "profile_path": null,
+               "id": 939916,
+               "order": 18
+            },
+            {
+               "cast_id": 29,
+               "character": "Jean",
+               "gender": 0,
+               "credit_id": "58584042c3a3682dfe0620b8",
+               "name": "Pam Barney",
+               "profile_path": null,
+               "id": 1724909,
+               "order": 19
+            },
+            {
+               "cast_id": 30,
+               "character": "Wes",
+               "gender": 0,
+               "credit_id": "5858404e925141724d034f22",
+               "name": "Robert Hawkins",
+               "profile_path": null,
+               "id": 180822,
+               "order": 20
+            },
+            {
+               "cast_id": 31,
+               "character": "Cogan",
+               "gender": 0,
+               "credit_id": "5858405a9251416f6306524a",
+               "name": "David Clement",
+               "profile_path": null,
+               "id": 1504833,
+               "order": 21
+            },
+            {
+               "cast_id": 32,
+               "character": "Jennings",
+               "gender": 0,
+               "credit_id": "58584067c3a368258c0588d2",
+               "name": "Julian Reed",
+               "profile_path": null,
+               "id": 1422741,
+               "order": 22
+            },
+            {
+               "cast_id": 33,
+               "character": "Cop",
+               "gender": 0,
+               "credit_id": "585840729251416f6306525c",
+               "name": "Dave Mann",
+               "profile_path": null,
+               "id": 1724910,
+               "order": 23
+            },
+            {
+               "cast_id": 34,
+               "character": "Cop",
+               "gender": 0,
+               "credit_id": "5858407c9251411a46062134",
+               "name": "John Stoneham Sr.",
+               "profile_path": null,
+               "id": 1195865,
+               "order": 24
+            },
+            {
+               "cast_id": 35,
+               "character": "Cop",
+               "gender": 0,
+               "credit_id": "5858408792514175ad054340",
+               "name": "Danny Gain",
+               "profile_path": null,
+               "id": 1724911,
+               "order": 25
+            },
+            {
+               "cast_id": 36,
+               "character": "Cop",
+               "gender": 0,
+               "credit_id": "58584096c3a3683150059cb0",
+               "name": "Tom Foreman",
+               "profile_path": null,
+               "id": 1228171,
+               "order": 26
+            },
+            {
+               "cast_id": 37,
+               "character": "The Prowler / Phone Voice",
+               "gender": 2,
+               "credit_id": "585840b5c3a36827a5059d07",
+               "name": "Nick Mancuso",
+               "profile_path": "/pDVzlviKTtCwXfVplG3tiTX9PyS.jpg",
+               "id": 49877,
+               "order": 27
+            },
+            {
+               "cast_id": 43,
+               "character": "Patrick Cornell",
+               "gender": 0,
+               "credit_id": "58fe9ba3c3a368539f000c16",
+               "name": "Michael Rapport",
+               "profile_path": null,
+               "id": 1803238,
+               "order": 28
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe46f99251416c75089b45",
+               "name": "Bob Clark",
+               "profile_path": "/yQgRWKPFH2uFWIJiWr5EyWLRbvD.jpg",
+               "id": 12698,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe46f99251416c75089b4b",
+               "name": "Roy Moore",
+               "profile_path": null,
+               "id": 58405,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46f99251416c75089b8d",
+               "name": "Bob Clark",
+               "profile_path": "/yQgRWKPFH2uFWIJiWr5EyWLRbvD.jpg",
+               "id": 12698,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe46f99251416c75089b93",
+               "name": "Findlay Quinn",
+               "profile_path": null,
+               "id": 1122623,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46f99251416c75089b99",
+               "name": "Carl Zittrer",
+               "profile_path": null,
+               "id": 12701,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46f99251416c75089b9f",
+               "name": "Reginald H. Morris",
+               "profile_path": null,
+               "id": 12702,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46f99251416c75089ba5",
+               "name": "Stan Cole",
+               "profile_path": null,
+               "id": 12703,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe46f99251416c75089bab",
+               "name": "Karen Bromley",
+               "profile_path": null,
+               "id": 1015791,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585840d1c3a3682dfe06213e",
+               "name": "Gerry Arbeid",
+               "profile_path": null,
+               "id": 1724912,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585840df925141724d034f7e",
+               "name": "Richard Schouten",
+               "profile_path": null,
+               "id": 1724913,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "585840ffc3a3682dfe062172",
+               "name": "David R. Beecroft",
+               "profile_path": null,
+               "id": 1193691,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "585841169251416f10062608",
+               "name": "Bill Morgan",
+               "profile_path": null,
+               "id": 1351457,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "585841689251416f6306530e",
+               "name": "David M. Robertson",
+               "profile_path": null,
+               "id": 1292380,
+               "department": "Production",
+               "job": "Production Supervisor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Horror",
+            "id": 27
+         },
+         {
+            "name": "Mystery",
+            "id": 9648
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 8.121365,
+      "production_countries": [{
+         "iso_3166_1": "CA",
+         "name": "Canada"
+      }],
+      "id": 16938,
+      "vote_count": 183,
+      "budget": 620000,
+      "overview": "A sorority house is terrorized by a stranger who makes frightening phone calls and then murders the sorority sisters during Christmas break.",
+      "similar": [
+         27414,
+         281957,
+         445954,
+         357096,
+         10781,
+         50719,
+         24124,
+         15069,
+         2832,
+         4771,
+         10285,
+         948,
+         238636,
+         3597,
+         3600,
+         372343,
+         12521,
+         13567,
+         984,
+         28355
+      ],
+      "original_title": "Black Christmas",
+      "runtime": 98,
+      "poster_path": "/qqO98sdPgptFgCua3Z4uZDuPcmP.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "August Films",
+            "id": 43459,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Film Funding Ltd. of Canada",
+            "id": 3238,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Vision IV",
+            "id": 17468,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Canadian Film Development Corporation (CFDC)",
+            "id": 4952,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Famous Players",
+            "id": 36555,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1974-10-11",
+      "vote_average": 6.9,
+      "belongs_to_collection": null,
+      "tagline": "If this movie doesn\u2019t make your skin crawl, it\u2019s on too tight!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Canada",
+      "color": "Color",
+      "budgetCurrency": "CAD ",
+      "directors": ["Bob Clark"],
+      "runtime": 98,
+      "synopsis": "The film opens at night on a snow-covered college campus. There is a Christmas party underway in one of the sorority houses, a large converted mansion. The sorority sisters and many of their boyfriends are inside. Outside in the snow, a point-of-view shot illustrates someone looking into the windows. The person breathes heavily and seems to be a man, but this is all we can tell. The person prowls around before climbing a rose trellis and entering the house through an attic window. He then climbs down through the attic trap door and lurks in the upstairs of the house, watching the girls downstairs. One of the sorority sisters, Barb Coard (Margot Kidder), receives a phone call from her mother. Barb seems to have been planning on going home over the Christmas holiday, but her mother has made plans to go away with her latest boyfriend. Barb calls her mother a gold-plated whore and says she'll make other plans for the break. She asks fellow sorority sisters Phyllis Carlson (Andrea Martin) and Jessica Bradford (Olivia Hussey) to go skiing with her instead. Jess also gets a phone call from her boyfriend, Peter (Kier Dullea), an aspiring concert pianist. She seems tense and wants to talk to Peter about something important. She says she'll see him tomorrow at the rehearsal studio. After their boyfriends leave, the girls get another phone call; Jess answers the phone and announces to all the other girls that its \"The Moaner\". Together they listen to the bizarre phone call, which starts out with simply heavy breathing and then escalates into strange ranting and obscene language. Barb gets on the receiver and bawls out the caller, firing back with her own obscene comments, until the caller suddenly lowers his voice and says \"I'm going to kill you.\" He then hangs up. A sorority sister named Clare Harrison (Lynne Griffin) seems more timid than the others. She questions Barb's judgment in provoking an unstable individual, and reminds her that a girl from town was raped recently by an unknown assailant. Barb reacts angrily and upsets Clare, who then goes upstairs to pack; her father is picking her up the next day to take her home for Christmas. Clare finds Claude, the house mother's cat, in her room, even though the door is closed. She is unaware the killer is watching her from within her closet. In a morbid twist, the psychopath meows like Claude and lures Clare into the closet, where he lunges at her and wraps plastic cleaning bags around her head, smothering her to death. He then carries her body up into the attic and places it in a rocking chair by the window, the plastic bag still over her head. He places a doll in her lap and refers to her as Agnes. Downstairs, the other girls are oblivious to Clare's death, and they welcome in the house mother, Mrs. Mac (Marian Waldman), who seems to have just returned from shopping. They present her with a Christmas gift: a frilly nightgown. She pretends to like it but makes sarcastic remarks about it (and the girls themselves) while she is alone. Mrs. Mac goes to the library and seeks a book--\"B for Booze!\"--and hidden inside of it is a bottle of brandy, from which she takes a secret drink. She later fishes a bottle out of the toilet tank in her bathroom, as well, and rinses her mouth with booze after brushing her teeth. The next day, Clare's father (James Edmond) comes to collect her, but she is not at the appointed place. When he seeks her at the sorority house, he is shocked by the sexually suggestive posters he finds in her room, and also surprised that she has a boy's photo next to her bed (her boyfriend, Chris). Mr. Harrison seems to blame Mrs. Mac for the permissive attitude in the house. Mrs. Mac assures him that Clare is a good girl, and that she's probably just at one of the fraternity houses visiting Chris. Mr. Harrison offers to drop Mrs. Mac off at the store on his way there. Before they leave, Mrs. Mac hears Claude meowing but cannot find him; he is in the attic. Jess visits Peter while he is practicing for a very important audition, and she breaks some news to him: she is unexpectedly pregnant. Peter thinks it's good news, but Jess admits that she wasnt even going to tell Peter about it. Jess intends to get an abortion. Peter is adamantly opposed to this, and makes an ominous threat against Jess for even considering such a thing. Barb is at the fraternity house with Phyl's boyfriend, who is dressed like Santa and taking photos with small children. Barb has a bottle of wine and is getting drunk, and she gives one of the children sips of her alcohol. Mr. Harrison phones home and assures his wife that they will find Clare. Back at the sorority house, Jess receives another obscene phone call. This one is more elaborate; the killer speaks in several different voices and makes references to \"Agnes\" and \"Billy\". He also seems to be speaking in the voices of two adults, presumably the parents of Agnes and Billy. The voices even seem to overlap at times, adding to the unsettling effect. Jess is upset, especially after her confrontation with Peter. Phyl and Barb take Mr. Harrison to the police station to report Clare missing. The officer on duty at the desk, Sgt. Nash (Douglas McGrath), endures hostility from Barb about the incident. Sgt. Nash tells Mr. Harrison that hes sure Clare is just somewhere with Chris. Sgt. Nash asks Barb for the phone number at the sorority house, and she tells him its Fellatio-20880. \"It's a new exchange, FE\" she explains. Nash, who apparently does not know the meaning of the word fellatio, writes it down and thanks her. Back at the sorority house, Mrs. Mac tells Jess that Clare is missing, so Jess goes to see Chris while he is at hockey practice. Chris is furious when Jess tells him that the police are not taking it seriously because they think she's shacked up somewhere with him. Peter performs his audition and fails miserably, distraught about the news Jess has given him. The instructors who listen to the recital are shocked that he cannot seem to hit the right notes, and later he destroys the piano after they've gone. Chris and Jess appear at the police station and Chris angrily lashes out at Sgt. Nash for having a big mouth (meaning his suggestion that Clare was shacked up with him). Lt. Fuller (John Saxon) overhears and becomes interested in the case--he has already been taking another missing person report from a distraught mother named Mrs. Quaife, whose 13-year-old daughter Janice has suddenly disappeared while on her way home from school. Mr. Harrison has dinner with Phyl, Barb, and Mrs. Mac at the sorority house, but Barb is extremely drunk and launches into a vulgar tirade that ends with her lashing out at the others. Barb feels guilty because she was careless to Clare, and she says the others think her disappearance is Barb's fault. Barb's curt suggestion that Clare might be dead shocks Mr. Harrison, and Phyl reacts angrily, telling Barb to go to bed. Barb goes upstairs and leaves them alone. Meanwhile, Jess and Chris come back to the house and tell the others about Janice Quaife's disappearance. A search is underway, and Phyl and Mr. Harrison join them. Mrs. Mac tells them that she's leaving for her sisters house and may not be there when they return. When Jess leaves, Mrs. Mac packs her bags and calls a cab, but she is distracted by sounds from the attic: the killer lures her into the attic by making sounds like the cat. When Mrs. Mac opens the attic door, he swings a large hook at her, designed to pull things up into the attic crawlspace. The hook impales her under her chin and hangs her. Outside, the cabbie becomes impatient and leaves. The extensive search of the park turns up a body: Janice Quaife. Jess rushes back to the house, where she receives another frightening phone call from the killer. Again he uses multiple voices and reenacts some weird scenario involving naughty Billy and baby Agnes. This time, Jess calls the police to report the obscene phone calls. As she talks to Sgt. Nash, a figure approaches her from behind and startles her--it is Peter, who has been napping in the house while waiting for Jess to return. Nash does not take Jess's report seriously, although Mr. Harrison is sitting near him in the police station and overhears him talking to Jess about the calls. He and Phyl and Chris tell Lt. Fuller about it, and Lt. Fuller angrily scolds Nash for being so inept. Meanwhile, Peter proposes to Jess. He would like to quit the conservatory and marry Jess and be a father to her child. Jess, however, refuses. She does not want to get married or have a child yet, as she has things she wants to accomplish first. Peter becomes hurt and angry, telling Jess that she's talking about killing their baby as if it's like having a wart removed. Jess becomes frightened by his mounting hostility, and tells Peter to leave. Just as Peter is walking out, Phyl arrives with Lt. Fuller and a phone company rep named Graham, who puts a tap on the house phone. Fuller notices that Peter seemed angry, and he questions Jess about it. He also looks around Clare's room and asks more questions about her. Graham asks if there is another phone in the house and Fuller tells him that it is a private line belonging to Mrs. Mac and that there have been no obscene phone calls on it, so they don't tap it. Fuller tells Jess that he'll be listening in on all of her phone conversations from the station, and Graham tells her to keep the caller on the line for as long as possible so that he can trace the call. Fuller has also left an officer in a squad car outside to watch the house. When he leaves, Phyl begins crying and tells Jess that she's sure Clare is dead. Tired and emotionally exhausted, she goes to bed, and Jess waits for another phone call. Meanwhile, the killer goes into Barb's room and watches her sleeping. Barb, who has asthma, suddenly suffers an attack, and Jess rushes to her aid with an inhaler. Barb tells her that she had a nightmare about a stranger coming into her room. Barb goes back to sleep, and Jess is distracted by a group of Christmas carolers at the front door. The singing masks the sounds of Barb's murder; the killer returns and stabs her to death using a glass ornament near her bed. The carolers are suddenly rushed off by a concerned parent who has just found out about the murder of the little girl in the park. Jess hears the phone ringing, and it's the killer. He wails at her in a strange voice, and says \"It's just like having a wart removed!\" before hanging up. Jess is shocked; these are words she used in private to Peter. Lt. Fuller picks up on this but Jess denies that it has any significance. Phyl comes back downstairs and Jess tells her about what just happened; Phyl seems to not think the killer could possibly be Peter, and neither does Jess, but she is not sure. Peter himself calls then, and begs Jess not to kill the baby. This conversation doesn't last long enough to trace, either, but Fuller calls to ask Jess about what they were talking about. Jess admits she's pregnant, and that Peter objects to an abortion, and Fuller seems to think that Peter could be the caller after all. Jess, however, has a revelation: Peter was here at the house with her when one of the calls came through, so it couldnt be Peter calling. Fuller is still suspicious, and he requests Peters records from the Dean of Admissions. He goes to the conservatory and finds the piano violently smashed. Jess is convinced that she can now rule out Peter as a suspect, and both she and Phyl are relieved. They have a brief laugh after they are startled by two bumbling men from town who are out looking for the killer. Phyl and Jess go around the house locking all the doors and windows, when Phyl goes into Barb's room. Just inside the door, someone whispers \"Agnes!\" and the door slams shut. Jess tries to find Phyl but the phone rings; its the killer again. This time Jess keeps him on the phone long enough for Graham to trace the calls--they are coming from 6 Belmont Street, the same address as the sorority house itself. Nash radios Fuller with the news, and Fuller realizes the calls are coming from the house mother's phone. He tries to radio the policeman parked outside the sorority house, but the cop is now dead, his throat slit by the killer. Fuller radios Nash and tells him to call Jess and warn her to get out of there, without letting on that the killer is in the house with her. Nash, of course, is unable to do this; when Jess tells him she's going to go upstairs and get Phyl and Barb, Nash admits that the calls are coming from inside the sorority house itself. Jess is terrified, and she screams out for Phyl and Barb over and over again. The house is silent. Instead of leaving, Jess gets a poker from the fireplace and goes upstairs. In Barb's room, she finds the bodies of both Phyl and Barb on the bed. From the crack in the door, Jess sees the killer's eye watching her. \"Agnes, its me, Billy! Don't tell what we did!\" he whispers. Jess slams the door on him and runs. Howling in rage and pain, the killer chases after her. With no time to unlock the front door, Jess heads for the cellar. The killer catches her hair as she passes the stairs, but Jess is able to break free and bolt the cellar door behind her just in time. Eventually the maniac stops pounding on the door, and Jess hears sounds as if he is going out the front door. Unsure, she remains in the cellar. Through the basement windows, Jess can see someone prowling around the house. Unable to gain admittance, the figure seems to spot Jess in the cellar; it is Peter. He calls out to her but Jess ignores him. Peter breaks a window and enters the basement with her. \"Whats the matter, Jess?\" he asks, as she approaches her. He will not be dissuaded. Outside, Fuller arrives with other policemen close behind, and they find the patrolman dead in his car. Hearing Jess screaming from inside the house, they break in. By the time they reach the basement, they find Jess and Peter lying together; they appear to both be dead, but Jess stirs. She has killed Peter with the fire poker. A doctor gives Jess a sedative and she is sleeping, although the house is bustling with activity. Fuller, unable to question her, hypothesizes about the case, convinced that Peter was the killer. Mr. Harrison suddenly goes into shock. The doctor intervenes and wants to take Mr. Harrison to the hospital. Chris leaves with them, and so do the other police officers, leaving Jess alone and unconscious with a guard in front of the house. After they leave, the house is silent, and the attic door opens. The bodies of Clare and Mrs. Mac are still up there, unnoticed by anybody yet. The killer climbs down out of the attic, saying \"Agnes, its me, Billy!\" As the camera slowly pulls away from the house, we see the lone police officer on the front porch, smoking a cigarette. Suddenly the phone begins to ring, just as it did after all the murders that came before.",
+      "writers": ["Roy Moore"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0071222/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTkwMjg3ODgzNV5BMl5BanBnXkFtZTcwMjE5NzAyMQ@@._V1_SY317_CR1,0,214,317_AL_.jpg",
+      "actors": ["Stars: Olivia Hussey, Keir Dullea, Margot Kidder | See full cast and crew »"],
+      "reviews": [
+         "Released and ignored in 1973, \"Black Christmas\" became a forgotten classic. The Canadian shocker was eventually re-released as \"Silent Night, Evil Sight\" in order to avoid confusion with the blaxploitation films of the time, but it bombed once again. In the early 80s, it was broadcast on cable as \"Stranger in the House\" in order to snatch up some rantings. Right when the movie seemed dead, NBC decided to cancel a prime-time airing of it because it was deemed \"too scary\" for network television. This was all film-buffs needed to go back and discover the wonderful \"cool movie that you never heard of\" that is \"Black Christmas\". Before I go on, here it goes: \"Black Christmas\" is one of the scariest (and finest) horror films ever made. Major credit must go to director Bob Clark (who went on to direct the epic \"Citizen Kane\" remake and because of legal reasons had to change it's title to \"Porky's\") who like John Carpenter in \"Halloween\", is able to create a current and simplistic creepy atmosphere. \"Black Christmas\" is indeed very similar to \"Halloween\": Both movies are themed with a particular time of year, both movies feature a killer with breathing problems who loves POV shots, and both movies have a long and slow build-up that makes the audience care for the characters that are about to get slashed. The difference is that \"Black Christmas\" does it much better, in fact, I think it is a superior film. The movie begins with a shaky POV shot of a stranger who decides to sneak inside a sorority house in order to get some fresh meat. That's it! Plain and simple. There is no \"your father killed my cousin's cat\" motive, the killer wants to kill because he simply wants to. Isn't it much scarier like that? No motive at all? The cast is not your usual teen slasher stereotypes: There is the not-so-virginal sweet leading lady Jess (Olivia Hussey) who is having trouble because she wants to have an abortion. Her boyfriend Peter (Keir Duella) eventually disagrees. In the sorority house there are many other odd characters, including chain-smoking, foul-mouthed, heavy-drinking Barb (ironically played by Margot Kidder) who steals the show with the much-needed humor. Unlike the countless other slashers out there, \"Black Christmas\" takes time for the audience to get used to these characters and actually care for them. Unlike in \"Halloween\", the entire top-notch cast in \"Black Christmas\" give excellent performances. Olivia Hussey is perfect as not-so-innocent Jess, Keir Duella is scary and misleading as her deranged boyfriend. And of course, Margot Kidder steals the show with an excellent and amusing take playing herself. Also noticeable is cult star John Saxon as Lt. Fuller who many years later started showing his personal love for \"Black Christmas\" on interviews. The well-balanced doses of drama and comedy connects the audience to the characters on screen so strongly that they sometimes we forget it is a horror movie. And when something scary eventually happens, it comes as a total shock. Bob Clark eventually became famous for his comedies, and you can sense his upbeat sense of humor though the entire film. Recent movie audiences lost their patience, so movies like that can't be made anymore. And there is a good reason \"Black Christmas\" is currently labeled as a comedy at the IMDb, it is really funny. So many memorable quotes here: \"These broads could hump the Leaning Tower of Pisa if they could get to top of it!\" or \"I'm a drunk? Here we have the queen of vodka herself!\" and of course, the whole Fellatio address. But isn't this a horror film? It really lives up to it's tagline. To begin with, the killer is not a silent invincible maniac on a Santa Claus costume. Instead, he is never seen. Most of his moments come from POV shots and dark takes. He is confined to the sorority house's attic for most of the time. How is that scary? Sound comes to play. The killer calls the sorority girls though the phone many times (early shades of \"Scream\" and \"When a Stranger Calls\") and uses some of the most disturbing voices you will ever hear. He imitates pigs squeaking, perverted dirty talk, animal noises, screaming, heavy breathing, and many other weird sounds. Does it work? Of course. This guy makes Norman Bates look like Richard Simmons. These disturbing elements are all put together though the brilliant cinematography by Reg Morris, who is able to capture the silent Christmas atmosphere perfectly with the wonderful use of silent snow-covered streets and decoration. Let's face it, Christmas is a bit creepy, isn't it? It certainly will be after watching this flick. The piano score by Carl Zittrer is simplistic and effective as well. The repetitive use of Christmas carols also add up to the tension. Ignored over the years and unknown outside the cult horror fans, this is an underrated classic that deserves much more attention that it ever got. Everything is perfect in this Canadian chiller: The atmosphere, the music, the overall spooky look, and one of the scariest villains in history. No gore (although the killings are so disturbingly shot they don't really need any) no sex, no nudity, just plain old-fashioned horror. This is \"Black Christmas\": Snow-covered silent streets, creepy Christmas carols, spooky use of lightening and color, scary atmosphere and the overall look of the plastic bag suffocated victim in a rocking chair staring from the attic window. Trust me, you will never go to your attic the same way again. \"Twas the night before Christmas, and all through the house, a creature was staring...\"",
+         "The girls of a sorority house are being tormented by a twisted prank caller who continually calls to convey increasingly vile and abusive sentiments. What at first appears to be a sick joke eventually turns violent for the girls during the season of supposed goodwill and merriment. The original and maybe even the best, \u0091Black Christmas' set the ball rolling for the slasher genre and was the biggest influence for the phenomenally successful John Carpenter classic, \u0091Halloween' (1978), which was, in fact, originally conceived as a sequel. Although Italian director, Mario Bava, had previously created what some see as the first slasher movie, \u0091Bay of Blood' (1971), it was \u0091Black Christmas' that was to become recognised as the catalyst for one of the most lucrative sub-genres of horror cinema. Bob Clark (who previously made the kooky, enjoyable, low-budget zombie film \u0091Children Shouldn't Play With Dead Things' (1972)), still at this point something of an amateur director, took a simple yet naturally frightening concept and turned it into one of the most unsettling and nerve-wracking one hundred minutes in cinematic history. Only a select few films such as \u0091The Haunting' (1963) and \u0091Alien' (1979) are atmospheric enough to truly equate to the eeriness and feelings of apprehension that are to be induced by \u0091Black Christmas'. The simplicity of the production is what makes it so endearing. There are no overly bloody death sequences or unlikely, comic-book style events; the viewer is just presented with an unnerving tale which could easily have a strong basis in reality. Inventive camerawork and POV shots as well as a superlative use of lighting are the elements that combine to achieve the desired results. The often pseudo-claustrophobic environment of the sorority house, from where the vast majority of events occur, offers the perfect, vulnerable and unguarded location susceptible to intrusion and thus attributes to the continual foreboding atmosphere. Clark was not afraid to take time building both the story and characterisation as well as introduce the viewer to the aspects that he would use to build the suspense. This is prepared before plunging the viewer into a seemingly uncontrolled nightmare that one experiences along with the protagonists. Another aspect that firmly stands out is the mysterious way that everything is presented; even at the very end, very little has truly been explained yet everything seems like it should have an obvious explanation. Even in its undoubted simplicity, \u0091Black Christmas' has complicated facets that require thought from the viewer to entirely comprehend the film. In some ways, the concealing of several key points puts the viewer's knowledge of events on a par with the actual characters. \u0091Black Christmas' is also complimented wonderfully by strong acting performances from Olivia Hussey, Margot Kidder, John Saxon and a highly pleasant and amusing turn from Marian Waldman. Despite the tiny budget, this is a highly polished horror film that genuinely belongs among the elite of the genre. This is where it all started and those familiar with later slasher films such as \u0091Halloween', \u0091Friday the 13th' (1980), Slumber Party Massacre (1982) and \u0091The House on Sorority Row' (1983) should be able to spot several of the now-clichés that first materialized in \u0091Black Christmas'. My rating for \u0091Black Christmas' - 8½/10.",
+         "It's not often that you find a film in the thriller/horror genre that has something \"new\" to say, so it's even more exciting to find that one of the original films in the \"slasher\" genre is actually still one of the freshest, most unique and utterly entertaining of them all. This is the kind of movie you can't wait to tell your friends about, knowing full well they've probably never seen it, but they've heard of it. Everything about this film is stellar. The acting, to steal the words of a great reviewer who loves this movie, is flawless. The direction is confident and assured. What is Bob Clark's story? How did he go from making quirky, ground-breaking horror to...well...\"Baby Geniuses 2?\" His black-humored wit is on display in all his movies, and here too. Margot Kidder and Marian Waldman shine as foul-mouthed alcohol abusers. Particularly Kidder--it's hard to believe she did this at the BEGINNING of her career, she's that assured...and fun to watch. Olivia Hussey is alluring as the lead, Jessica, and her beauty, as well as her speaking voice are a welcome presence. The plot might seem clichéd now, until you understand that it was all the movies that came AFTER that were the clichés--even \"He Knows Your Alone,\" which seemed so vital at the time, can't compare. \"Black Christmas\" is a FILM, and goes beyond the conventions of a cheap slasher. The key is the ending--only a director with an artistic sensibility would have fought for it (no spoilers here). Suffice to say, in all the slashers I've watched I've never seen the equal. It's a tricky business to sum up a mystery in a plot, and few can maintain the element of surprise, intelligence or creativity required. You will NOT see the ending coming here, and though the end is a surprise, it works well. If you're like I was and hesitating to watch this because you think it'll just be \"another fear film,\" don't waste anymore time! You will NOT be sorry you spent your Christmas \"black...\"",
+         "When I rented this film around the Christmas season of 1999, I did not know what to expect. The only reason why I rented it was that Olivia Hussey and Keir Dullea were in the leading roles (I have a strange and sick obsession with Olivia Hussey and I liked Keir Dullea in 2001). But then when I first watched it that dark and cold Saturday night, I was amazed. The film's style was very dark and mysterious, as well as bizarre. While watching the film, I saw where John Carpenter might have gotten a lot of his filming technique from his 1978 classic, Halloween (one of my personal favorites). It, like Halloween, involves the murders of young women. And in the case of Black Christmas, it's sorority girls. What set this apart from Halloween is that the killer is less human than Michael Myers. You saw Michael Myers, but you do not see the killer in Black Christmas. Plus the killer is insane, especially when he rants. His rants make no sense, making his intentions unknown. He just kills, not for revenge like most horror films. But he just kills. I don't know about you, but that is what makes this film even scarier, aside from the spooky musical score. They say that Jamie Lee Curtis is the \"scream queen.\" Well whoever thinks that obviously has not heard Olivia Hussey's lungs in action. That woman can SCREAM. It's best if you watch this film alone in a quiet house at night during the Christmas season. I did that the second time I watched it. I tell you the truth, I had a hard time walking downstairs to go to the bathroom I was so scared. And no horror film has ever done that to me since the first time I saw Scream about three years ago. Some may argue that the characters in the film are not very developed, but that does not matter because most of them die anyway. One of the few characters that stood out in this film was Barb (Margot Kidder). She is a drunk, trash-talking sorority girl who manages offend just about everybody. The woman who played the sorority house mother, Mrs. Mac (Marion Waldman), also stood out as a trash-talking, drunken woman. Olivia Hussey's character is a bit snobbish, like any sorority girl, but not to her other sisters. Keir Dullea's character is high-strung and unpredictable, which adds to the film mysterious style. But as for the rest, there really was no room for them to grow. Besides, like I just stated, most of them get killed off anyway. The end really surprised me. I mean, really. No questions asked. It even shocked me, but I'm going to spoil it for anyone. But if you loved John Carpenter's Halloween, you'll love this film even more. I guarantee it.",
+         "Bob Clark's \"Black Christmas\" is a horror classic.It's obvious that it was clearly an influence on the slasher films of the late seventies and early eighties.\"Black Christmas\" takes place in a sorority house.Most of the sorority sisters go home for the holidays,while Barb(Margot Kidder),Jess(Oivia Hussey)and Phyl(Andrea Martin)stay behind.At the outset of the film,we see a mysterious killer enter the house and hide in the attic.He then begins to kill the sisters one by one,with each murder being followed by a disturbing phone call.Bob Clark managed to create a startling atmosphere of total dread and fear.The finale is extremely creepy and memorable.The soundtrack,particularly the killer's voice on the phone is frighteningly effective.So if you want to be scared give this gem a look.Highly recommended.",
+         "To those of you Halloween fans, THIS is the film that came first, John Carpenter's Halloween is doused with aspects lifted directly from Bob Clark's Black Christmas. Alongside Psycho it remains one of my personal classics. Very unnearving and in parts horrific - the phone calls for instance. Basically its Christmas time, as the title suggests and an unknown killer has found his way into the attic of a sorority girls house and begins killing them one by one. Kidder's performance of the drunken, outspoken Barb is fantastic, followed closely by Olivia Hussey, who is truly beautiful in this movie. The camera work and direction is first rate, the first person perspective, heavy breathing - which most will know from Halloween, Mr Clark did it here first, and in my opinion, did it better than JC. It's not full of gore its full of suspense and wonderful creepy atmosphere, as I mentioned before, the phone calls really will put you on edge, as will the 'eye' scene. Get ready for a shocking ending and watch it again for all the bits that you didn't catch, believe me there will be some. Alongside Jacob's Ladder, Don't Look Now and The Fog this really is one of the most frightening films I have ever had the pleasure to acquire.",
+         "Long before Jamie Blanks turned popular urban legends into a theme for his routine slasher franchise, director Bob Clark took one of the most vigorously touted of those fables and created a genre staple that would become the forerunner of the stalk and slash cycle. Comparisons can obviously be drawn between this and Halloween, including notorious but unconfirmed reports that Carpenter's film was in fact based upon an un-produced concept that Clark had earlier initiated as a sequel to this 1974 sleeper. Both efforts certainly have a lot in common with one another; including two excellent steady-cam openings - putting the viewer in the killer's shoes as he enters his 'soon to be' scene of a crime - that are almost interchangeable. On the 'making of' featurette for the 25th anniversary of Halloween, perhaps one commentator is fairly unjust when he states that it was that movie that started the excessive use of point of view shots that are so often imitated in horror cinema ever since. Black Christmas was equally as effective with its application of first person cinematography, a feat that John Carpenter clearly recognised before incorporating and perhaps improving upon it for his further acknowledged masterpiece. The story concerns a group of sorority sisters that are preparing for their Christmas celebrations in a remote house. They have been receiving bizarre and threatening calls from what sounds like a group of insane people, although no one takes them seriously at first, believing that they're just a typical prank from a few of the local town boys. However fears are ignited when one of the students, Claire (Lynne Griffin), doesn't arrive to meet her father on time and is reported missing. Later a child is found butchered in the park, whilst all the while the Looney continues his demented ringing and terrorising the young women. Before long Lieutenant Fuller (John Saxon) realises that there may be a link in the occurrences and asks Jess (Olivia Hussey) to remain close to her phone so that he can trace the line when the lunatic next rings. But will there be anyone left alive when that happens? Although this movie is neither graphic, gratuitous nor particularly unpleasant by today's standards, it remains one of the most disturbing and chilling 'slasher' movies ever made. Perhaps as mysteriously alluring as the exploits of Michael Myers and certainly far more alarming than any of the endless Friday the 13ths could ever hope to be. The killer creates the fear himself, but not in the typical methods that have become somewhat old-hat in more recent efforts. This assassin doesn't wear a mask, probably doesn't possess any super-human attributes and may only be threatening towards the female of our species. But his enigmatic ranting and crazy excessive skips between multiple personalities that are portrayed superbly over phone calls, which are all but too short; effortlessly allow him to become one of the creepiest wackos ever set to celluloid. Never has a telephone been implemented as a tool for creating fear so efficiently, there's something really unsettling as this Jekyl and Perhaps ten Mr. Hydes argues potently with himself. He changes his pitch from that of a high female to a deep and aggressive male and then back again, in a manner of pure and unadulterated insanity that really sticks in your throat. He perhaps reaches his most bloodcurdling moment when he drops all the wacky personas to adopt a civil yet curt voice and mutter once; `I'm going to kill you'. Proving to be the one and only direct threat that he makes in the whole movie. Where as Michael Myers' success was brought about by the mystery that surrounded the little that we knew of the true motivations of his character, a similar method has been used here. We never actually see who's terrorising these girls and we are never given a reason for his dementia. He often refers to himself as 'Billy' or 'Agatha' in his one sided conversations, but we never learn of the events that made him spiral into such mindlessness. In a movie like Scream (aka The Outing - not Wes Craven's) this just feels like lazy and incompetent filmmaking, however Bob Clark puts it across in a manner that makes you want to learn and know more and he teases you with revealing that you never will. His talents as a director certainly reached their peak with Black Christmas. Helped excessively by some great cinematography and neatly planned lighting effects that often evade the more recent slasher movies, Clark proved himself as a great filmmaker that would have his inspiration cemented over the years that followed. He produced fairly original ways to keep the killer obscured from view, whilst not forgetting the fundamental silhouette and shadow play. If you do predict the twists in the plot, then it's only because they have been carbonated so many times since this hit the shelves, that they now feel second nature to any horror fan. It's good to remember that this was one of the first to use these elements and you must also note how perfectly this holds up against the less than impressive attempts that have been released up to three decades after. Some brilliant supporting actors whom themselves would make their own slight impressions on the genre (Margot Kidder: The Clown at Midnight, Lynne Griffin: Curtains and John Saxon: Nightmare Beach and The Babydoll Murders) are sadly let down by a weak lead in Olivia Hussey. She's certainly not terrible, but at times her performance was fairly improbable when she could have found chances to shine. Kudos however to the actor(s) that performed the terrorising calls, I don't think titans like Brando or Nicholson could have played them any better! Credit has to be given to whoever helmed that crazy dialogue, for without it, the movie certainly would not have been so fearfully memorable! Perhaps a little further explanation on Peter's (Keir dullea) exact involvement may have helped make the end a little clearer, admittedly I was a little confused. Although I must confess that I can't be sure if that was my fault for not watching properly (it was late at night) or it was crafted deliberately to help cloud the mystery? But those gripes are hardly damaging and mainly I really enjoyed Black Christmas. The slasher genre has gained a reputation over the years for being somewhat over populated by incompetent/amateur filmmakers. But efforts like this, Halloween and The House on Sorority row prove that the category is a necessary ingredient to cinema history when it's handled properly; often able to generate superb and noteworthy results that rank up with any of horror's acclaimed pieces from the past. This has recently been re-released on DVD with minimal extras but maximum value for money and really does warrant a purchase. There's really not a lot more to be said to convince you, this is a true cult-classic and your collection is poorer without a copy. As stylish as the best Giallos and as disturbing as Friedkin's Exorcist, this is certainly worthy to hold its renowned status for years to come. Maybe next time you are bothered by a crank caller, you'll be a little more cautious as to how you handle the situation.",
+         "This film was really great to watch when I saw it last Christmas. I was expecting more of a \"Halloween\" type film, except the fact that the always brilliant Margot Kidder was in it. So I was into it from the start. The film follows a sorority house on the days proceeding Christmas when a psycho stalker starts getting into the house and, quite frankly, under the girls skin. Then the murders begin. The setting has been seen before, and so have the P.O.V. shots, but who cares? This film was scary anyway. Olivia Hussey is terrific and tense as the lead sorority sister, Jesse, who has the burden of dealing with all the other sisters' crisis problems. She looked really great too! And in the finale, she really played her role out for all it was worth. Kier Dullea was descent. A little too humble for the role, and not as, well, intimidating as he could have been. His scenes here are played out like a play. if not Broadway style, more conservative. Margot Kidder, being as good as she is, was not surprisingly fabulous! Her character was the rough tough stuff sister who drinks, swears, and is the only one of them who has the guts to show off some glitz. The rest of the cast does just fine, particularly Andrea Martin as the soft spoken sister, John Saxon as the police chief who only wants to find the answer, and the actress who played Mrs. Mac was certainly worth the view too! Writing wise this film was greatly and adroitly planned. The central theme of this film is that you can't trust anyone, friend or foe, and the scares are genuine, and come psychologically, instead of in your face like \"Halloween\" or \"Friday the 13th.\" Bob Clark is in love with his actors as he photographs them in bright exuberant colors, while his killer is photographed in jaundiced, grainy colors. All in all, a very artistic film and very creepy to the bone. Great atmospheric music too!",
+         "Being a big fan of the horror genre, it takes an above average horror film to give me chills. This highly influential horror-thriller does just that, every time I see it! As a college sorority house empties out for the holidays, the remaining girls are unaware that a warped murderer has just climbed into their attic... Black Christmas is one of the most shamefully over-looked films in the slasher film genre, it's also been one of the most inspiring films of the genre. The story that drives this film is an extremely creepy one, taught with suspense, mystery, and an undying feeling of dread. It's also an intelligent story that wisely remembers that the unseen is scarier than anything one can put on film. Director Bob Clark builds an atmosphere of almost unnerving tension through out this film. Clark makes even the singing of Christmas carols very chilling. Adding even more to the sheer spookiness of this film is Carl Zitter's bizarre music score, which sounds as twisted as the killer's brain. A number of scenes from this film are simply unforgettable - the insane phone calls from the murderer, the glass unicorn stabbing, and my personal favorite, our heroine turning to see the killer's eye staring at her from behind the bedroom door. The cast of this film is great and contains a number of stars. The wonderful Olivia Hussey is sympathetic as our leading lady. Keir Dullea is strong as Hussey's boy friend, who's been behaving rather strangely. Margot Kidder provides some comic relief as the sorority bad-girl. John Saxon is solid as the police lieutenant who's trying to solve a murder. Supporting cast Marian Waldman, Andrea Martin, Art Hindle, and Douglas McGrath are terrific as well. Black Christmas has had a big hand in the slasher genre, such films as Halloween (1978), When a Stranger Calls (1979), and Friday the 13th (1980) were strongly influenced by this forgotten classic. For horror fans, Black Christmas is a must-see terror. I wouldn't recommend that you watch it alone in the dark though. **** out of ****",
+         "\"Black Christmas\" is truly a forgotten gem. Even though the producers intended the film for cinema, \"Black Christmas\" has the look and feel of its precursors, the made-for-television gothic suspense thrillers between 1969 and early 1974. This four year period featured inexpensively-produced but having hi-quality production values that older viewers will remember. These include, \"A Howling In the Woods\", \"When Michael Calls\", \"How Awful About Allen\", \"Don't Be Afraid of the Dark\", \"Home for the Holidays\", et al. \"Black Christmas\", produced at the tail-end of this short-lived genre, clearly displays the same suspenseful and moodily atmospheric elements involving human angst, fears, anxieties, and complicated, sometimes destructive relationships. In one small aspect, \"Black Christmas\" is a transitional film set between the television gothic supsense thrillers and the onset of the slasher genre epitomized by 1978's \"Halloween\" and 1979's \"Friday the 13th\". The violence was certainly more graphic than its television precursors, but not gratuitous. Foul language sprinkled throughout \"Black Christmas\" would never have made it past the television censors. And look again at \"Halloween\". It's reliance on atmosphere, moodiness, suspense, and the fright of awaiting something that is surely around the next dark bend of the house harkens back to the early 70s gothic thrillers. \"Black Christmas\" is from a unique genre long gone and will probably not return, but for those seeking quality shockers without the schlock will no doubt find repeat viewings of this suspense film noir satisfying."
+      ],
+      "genres": [
+         "Horror",
+         "Mystery",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Film Funding Ltd. of Canada",
+         "Vision IV",
+         "Canadian Film Development Corporation (CFDC)"
+      ],
+      "summaries": [
+         "It's time for Christmas break, and the sorority sisters make plans for the holiday, but the strange anonymous phone calls are beginning to put them on edge. When Clare disappears, they contact the police, who don't express much concern. Meanwhile Jess is planning to get an abortion, but boyfriend Peter is very much against it. The police finally begin to get concerned when a 13-year-old girl is found dead in the park. They set up a wiretap to the sorority house, but will they be in time to prevent a sorority girl attrition problem?",
+         "On the evening that the Pi Kappa Sigma sorority (which is headed by their house mother, the booze swilling Mrs. Mac) is holding their Christmas party, the house receives the latest in a string of obscene phone calls from who the girls call \"the moaner\", but who identifies himself as \"Billy\". Some like Jess Bradford don't like the calls, others like brash Barb Coard are somewhat amused by the calls, others like Phyl Carlson don't think much of them, and straight laced Clare Harrison is offended by them. The calls are just the latest trouble for Jess, who is pregnant and who doesn't want to tell her sensitive but volatile boyfriend, music student Peter Smythe. For this latest call, which is a bit more elaborate than those previous, Barb decides to make a snide comment in return, which provokes a threat by Billy. The next morning, one of the girls goes missing. The desk sergeant at the police station doesn't think much about this as a missing person case, especially as the police are already dealing with another missing person case (a thirteen year old girl named Janice Quaife). The police don't act until more information is brought to the attention of Lieutenant Kenneth Fuller by Clare's boyfriend, Chris Hayden. As Lt. Fuller and his men investigate, which includes placing a wire tap on the sorority house phones, more and more incidents happen to those living at the sorority house. In addition, the obscene calls continue and increasingly have a personal connotation to one of the girls, which includes information that could only be known by those involved. Or is there another reason why the caller knows so much about the specific girl in question?",
+         "Olivia Hussey and Margot Kidder star among an ill-fated houseful of sorority sisters celebrating the holiday season. Festivities turn fatal when obscene phone calls break the serenity and it becomes clear that a psychopath is stalking the house.",
+         "A sorority house is terrorized by a stranger who makes frightening phone calls and then murders the sorority sisters during Christmas break."
+      ],
+      "budget": 686000
+   },
+   "movielensId": 5980,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1974-10-11",
+      "dvdReleaseDate": "2002-12-03",
+      "directors": ["Bob Clark"],
+      "runtime": 98,
+      "movieId": 5980,
+      "title": "Black Christmas",
+      "mpaa": "R",
+      "actors": [
+         "Olivia Hussey",
+         "Keir Dullea",
+         "Margot Kidder",
+         "John Saxon",
+         "Marian Waldman",
+         "Andrea Martin",
+         "James Edmond",
+         "Doug McGrath",
+         "Art Hindle",
+         "Lynne Griffin",
+         "Leslie Carlson",
+         "Martha Gibson",
+         "John Rutter",
+         "Robert Warner",
+         "Sydney Brown",
+         "Jack Van Evera",
+         "Les Rubie",
+         "Marcia Diamond",
+         "Pam Barney",
+         "Robert Hawkins",
+         "David Clement",
+         "Julian Reed",
+         "Dave Mann",
+         "John Stoneham Sr.",
+         "Danny Gain",
+         "Tom Foreman",
+         "Nick Mancuso",
+         "Michael Rapport"
+      ],
+      "imdbMovieId": "0071222",
+      "originalTitle": "Black Christmas",
+      "genres": [
+         "Horror",
+         "Mystery",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": [
+         "ufCj6iUM_zY",
+         "loTsV0RGm9w"
+      ],
+      "plotSummary": "A sorority house is terrorized by a stranger who makes frightening phone calls and then murders the sorority sisters during Christmas break.",
+      "tmdbMovieId": 16938,
+      "avgRating": 3.3645,
+      "releaseYear": "1974",
+      "numRatings": 369,
+      "posterPath": "/qqO98sdPgptFgCua3Z4uZDuPcmP.jpg"
+   }
+}

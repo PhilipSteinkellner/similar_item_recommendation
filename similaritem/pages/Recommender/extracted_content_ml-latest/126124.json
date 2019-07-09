@@ -1,0 +1,586 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [],
+      "imdb_id": "tt0099054",
+      "video": false,
+      "title": "Archie: To Riverdale and Back Again",
+      "recommendations": [],
+      "backdrop_path": null,
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1000,
+               "character": "Archie Andrews",
+               "gender": 0,
+               "credit_id": "52fe4823c3a36847f8159997",
+               "name": "Christopher Rich",
+               "profile_path": null,
+               "id": 145746,
+               "order": 0
+            },
+            {
+               "cast_id": 1001,
+               "character": "Betty Cooper",
+               "gender": 1,
+               "credit_id": "52fe4823c3a36847f815999b",
+               "name": "Lauren Holly",
+               "profile_path": "/bWQsB6ueNNkygxCiIxyKznQAiOK.jpg",
+               "id": 34485,
+               "order": 1
+            },
+            {
+               "cast_id": 1002,
+               "character": "Veronica Lodge",
+               "gender": 1,
+               "credit_id": "52fe4823c3a36847f815999f",
+               "name": "Karen Kopins",
+               "profile_path": "/5NKUOroV2OqZpF7GyvPSdkCrfa7.jpg",
+               "id": 145747,
+               "order": 2
+            },
+            {
+               "cast_id": 1003,
+               "character": "Jughead Jones",
+               "gender": 2,
+               "credit_id": "556b6ee192514174a80042ae",
+               "name": "Sam Whipple",
+               "profile_path": "/jAdLfo9cJqMHVu8LhXDwaxa26wv.jpg",
+               "id": 155905,
+               "order": 3
+            },
+            {
+               "cast_id": 1004,
+               "character": "Reggie Mantle",
+               "gender": 0,
+               "credit_id": "5964d7d892514179040729f7",
+               "name": "Gary Kroeger",
+               "profile_path": "/4SfqOb6XgQlcqQVP8eYLV5G19bG.jpg",
+               "id": 1188726,
+               "order": 4
+            },
+            {
+               "cast_id": 1005,
+               "character": "Robert Miller",
+               "gender": 2,
+               "credit_id": "5964d7fac3a36828fc0f6593",
+               "name": "Matt McCoy",
+               "profile_path": "/hBbrWq1WolrEG9kSxEASywFz5OK.jpg",
+               "id": 42206,
+               "order": 5
+            },
+            {
+               "cast_id": 1006,
+               "character": "'Pop' Tate",
+               "gender": 2,
+               "credit_id": "5964d809c3a36825e80fba05",
+               "name": "Mike Nussbaum",
+               "profile_path": "/gcsqhh40flXDPJ9s3U6clD9Jb59.jpg",
+               "id": 9628,
+               "order": 6
+            },
+            {
+               "cast_id": 1007,
+               "character": "Jordan 'Jughead Junior' Jones",
+               "gender": 2,
+               "credit_id": "5964d823c3a368293b118808",
+               "name": "Billy Corben",
+               "profile_path": "/qxHKSiPNiGnlOgf5t6JqkHCkvwX.jpg",
+               "id": 141475,
+               "order": 7
+            },
+            {
+               "cast_id": 1008,
+               "character": "Miss Grundy",
+               "gender": 1,
+               "credit_id": "5964d834c3a368293b118821",
+               "name": "Fran Ryan",
+               "profile_path": "/ht4E3qC3uO9CsldpoY2BeLaUbuX.jpg",
+               "id": 152670,
+               "order": 8
+            },
+            {
+               "cast_id": 1009,
+               "character": "Worker at Pop's",
+               "gender": 0,
+               "credit_id": "5964d85ac3a3680d590e7bbe",
+               "name": "Christian Hoff",
+               "profile_path": null,
+               "id": 1212086,
+               "order": 9
+            },
+            {
+               "cast_id": 1010,
+               "character": "Chip",
+               "gender": 2,
+               "credit_id": "5964d876c3a368293b11887a",
+               "name": "Robert Munic",
+               "profile_path": "/tXkP4CwmFxihWb5rIN8KsybkgfL.jpg",
+               "id": 81702,
+               "order": 10
+            },
+            {
+               "cast_id": 1011,
+               "character": "Max Mason",
+               "gender": 2,
+               "credit_id": "5964d88492514121f00f2ae9",
+               "name": "Aeryk Egan",
+               "profile_path": null,
+               "id": 51215,
+               "order": 11
+            },
+            {
+               "cast_id": 1012,
+               "character": "Mr. Weatherbee",
+               "gender": 2,
+               "credit_id": "5964d89fc3a368265d1081aa",
+               "name": "David Doyle",
+               "profile_path": "/o5ugOCZoaqkz8tjLtGgYZ6PGth4.jpg",
+               "id": 123632,
+               "order": 12
+            },
+            {
+               "cast_id": 1013,
+               "character": "Mr. Hyrum Lodge",
+               "gender": 2,
+               "credit_id": "5964d8c692514121f00f2b3b",
+               "name": "James Noble",
+               "profile_path": "/fly8G2L1fhDQEWTaMsn7LK4rKgt.jpg",
+               "id": 152699,
+               "order": 13
+            },
+            {
+               "cast_id": 1014,
+               "character": "Judge Brown",
+               "gender": 2,
+               "credit_id": "5964d8d59251410c56104f7f",
+               "name": "Raye Birk",
+               "profile_path": "/cYzERLd4HXuQibVztZxQguAfHjF.jpg",
+               "id": 13422,
+               "order": 14
+            },
+            {
+               "cast_id": 1015,
+               "character": "Moose Mason",
+               "gender": 2,
+               "credit_id": "5964d8e5c3a36828fc0f66b2",
+               "name": "Jeff Hochendoner",
+               "profile_path": "/dt54zN4cKss3BG07Hh84bfgNqAu.jpg",
+               "id": 170145,
+               "order": 15
+            },
+            {
+               "cast_id": 1016,
+               "character": "Pam",
+               "gender": 1,
+               "credit_id": "5964d8f2c3a36825e80fbb09",
+               "name": "Christina Haag",
+               "profile_path": "/3hBsm9zWqEr2RBaMY93qKUOHuxe.jpg",
+               "id": 171639,
+               "order": 16
+            },
+            {
+               "cast_id": 1017,
+               "character": "Lodge's Chauffeur",
+               "gender": 2,
+               "credit_id": "5964d937c3a3680dec0e9970",
+               "name": "Monty Bane",
+               "profile_path": "/7myDNmmd1GYHeMRArJH6vsQJ7Yk.jpg",
+               "id": 44616,
+               "order": 17
+            },
+            {
+               "cast_id": 1018,
+               "character": "Midge Mason",
+               "gender": 1,
+               "credit_id": "5964d946c3a368265d10827e",
+               "name": "Debi Derryberry",
+               "profile_path": "/mfmF3MjoL7sV76BSElFkVgDgA30.jpg",
+               "id": 73016,
+               "order": 18
+            },
+            {
+               "cast_id": 1019,
+               "character": "Coach Clayton",
+               "gender": 2,
+               "credit_id": "5964d979c3a3680d590e7d3d",
+               "name": "J.D. Hall",
+               "profile_path": null,
+               "id": 154233,
+               "order": 19
+            },
+            {
+               "cast_id": 1020,
+               "character": "'Big' Ethel Muggs",
+               "gender": 1,
+               "credit_id": "5964d9919251410bfa115c2a",
+               "name": "Cindy Ambuehl",
+               "profile_path": "/dzxVT04oxEZhYidDi9faAu2kmyX.jpg",
+               "id": 79583,
+               "order": 20
+            },
+            {
+               "cast_id": 1021,
+               "character": "Mrs. Muggs",
+               "gender": 1,
+               "credit_id": "5964d9f7c3a36828a1129d0c",
+               "name": "Sharon Conley",
+               "profile_path": null,
+               "id": 167943,
+               "order": 21
+            },
+            {
+               "cast_id": 1022,
+               "character": "Smithers",
+               "gender": 2,
+               "credit_id": "5964da2ac3a3680dec0e9ab0",
+               "name": "William Glover",
+               "profile_path": "/cBtbH3jCG8AHNk7SXrRcSlbfk9Y.jpg",
+               "id": 175078,
+               "order": 22
+            },
+            {
+               "cast_id": 1023,
+               "character": "Psychiatric Patient",
+               "gender": 2,
+               "credit_id": "5964da4b92514122510ee691",
+               "name": "Chip Hipkins",
+               "profile_path": null,
+               "id": 1849222,
+               "order": 23
+            },
+            {
+               "cast_id": 1024,
+               "character": "Laurel",
+               "gender": 1,
+               "credit_id": "5964da919251410b86111860",
+               "name": "Veronica Lauren",
+               "profile_path": "/cS8gnKZaY2vZrCje8U5OnNjwuLo.jpg",
+               "id": 76031,
+               "order": 24
+            },
+            {
+               "cast_id": 1025,
+               "character": "Mrs. Argyle",
+               "gender": 1,
+               "credit_id": "5964dae592514121f00f2daa",
+               "name": "Catherine MacNeal",
+               "profile_path": null,
+               "id": 157673,
+               "order": 25
+            },
+            {
+               "cast_id": 1026,
+               "character": "Atmos",
+               "gender": 2,
+               "credit_id": "5964db3b9251410c561051ff",
+               "name": "Charles D. Miller",
+               "profile_path": null,
+               "id": 1849228,
+               "order": 26
+            },
+            {
+               "cast_id": 1027,
+               "character": "Mr. Argyle",
+               "gender": 0,
+               "credit_id": "5964db849251410bfa115e67",
+               "name": "Rick Podell",
+               "profile_path": null,
+               "id": 1217185,
+               "order": 27
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "5964dba19251410c56105270",
+               "name": "Dick Lowry",
+               "profile_path": null,
+               "id": 33880,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5964dbb4c3a368253c0f354b",
+               "name": "John L. Goldwater",
+               "profile_path": null,
+               "id": 1221415,
+               "department": "Writing",
+               "job": "Characters"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5964dbccc3a3680dec0e9c92",
+               "name": "Evan Katz",
+               "profile_path": null,
+               "id": 1228478,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5964dbe09251415a400e00af",
+               "name": "Graham Cottle",
+               "profile_path": null,
+               "id": 20119,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5964dbee92514122510ee884",
+               "name": "Andy Heyward",
+               "profile_path": null,
+               "id": 1212336,
+               "department": "Production",
+               "job": "Co-Executive Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5964dc1dc3a368253c0f35a1",
+               "name": "Vicki S. Horwitz",
+               "profile_path": null,
+               "id": 1849229,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5964dc5dc3a36828fc0f6a13",
+               "name": "Evan Katz",
+               "profile_path": null,
+               "id": 1228478,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5964dc6c9251417904072ec3",
+               "name": "Kenneth Kaufman",
+               "profile_path": null,
+               "id": 67652,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5964dc97c3a36828fc0f6a4c",
+               "name": "Bob Lemchen",
+               "profile_path": null,
+               "id": 1849230,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5964dccbc3a368293b118db0",
+               "name": "Tom Patchett",
+               "profile_path": null,
+               "id": 67649,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5964dcf99251410b86111ac2",
+               "name": "Mark Snow",
+               "profile_path": null,
+               "id": 12633,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5964dd07c3a368293b118df9",
+               "name": "Frank Byers",
+               "profile_path": null,
+               "id": 15804,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5964dd179251410bfa116044",
+               "name": "Byron 'Buzz' Brandt",
+               "profile_path": null,
+               "id": 13941,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5964dd26c3a368293b118e25",
+               "name": "Anita Brandt-Burgoyne",
+               "profile_path": null,
+               "id": 68295,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5964dd899251410bfa1160d7",
+               "name": "Kristi Frankenheimer",
+               "profile_path": "/tEuUq6LKsZsQ6XUkx1Z5VJ0Syb7.jpg",
+               "id": 1597212,
+               "department": "Production",
+               "job": "Location Manager"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5964dde4c3a36828a112a1f3",
+               "name": "Valerie E. Norman",
+               "profile_path": null,
+               "id": 1849235,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "TV Movie",
+            "id": 10770
+         },
+         {
+            "name": "Comedy",
+            "id": 35
+         }
+      ],
+      "popularity": 0.733172,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 52304,
+      "vote_count": 3,
+      "budget": 0,
+      "overview": "The classic comic book characters created by John L. Goldwater are brought to tv in a slightly older version. Here the characters are adults returning to their high school reunion and remembering old times and romances from good old Riverdale High",
+      "similar": [],
+      "original_title": "Archie: To Riverdale and Back Again",
+      "runtime": 100,
+      "poster_path": "/rOqNMGW3v8F1wnMER3RvuUD2msV.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "DiC Entertainment",
+            "id": 20477,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Patchett Kaufman Entertainment",
+            "id": 4963,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1990-05-06",
+      "vote_average": 4.5,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Dick Lowry"],
+      "runtime": 100,
+      "synopsis": null,
+      "writers": [
+         "John L. Goldwater",
+         "Evan Katz"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0099054/",
+      "coverLink": null,
+      "actors": ["Stars: Christopher Rich, Lauren Holly, Karen Kopins | See full cast and crew »"],
+      "reviews": [
+         "I don't know why people trash this movie, it's not bad at all! Of course I can understand why people don't like it, due to the 'grown-up' Archie characters...Plus this was probably a pilot for a TV series that never took off the ground (I wish that this had been a series.) And remember you can't explain everything in a pilot episode. I'm a fan of the comics and had been for many years when the movie came out. But all in all, it's a great film. Some characters are the same years later, others are very different they where in the comics! It's 15 years since the gang has graduated from the halls of Riverdale High: Christopher Rich plays Archie, now a lawyer, getting ready for a move to the big city, and he's engaged to Pam, a very stuck up woman. Sam Whipple is Jughead, a shrink now, (A very far strech for Juggy) but he's divorced, with a son, and has women problems. Karen Kopkins plays Veronica, Ronnie is still the same, after 4 husbands, and she's still daddy's little girl, but Ronnie is realizing that money doesn't buy happiness. Gary Kroeger is Reggie, He is no longer the wisecracker he was, while in the halls of Riverdale High, Reg probably owns the entire block that houses 'Pop's Choc'late Shop'... and last but not least of the gang is Betty, wonderfully played by Lauren Holly. She does a great job of being the happy-go-lucky character that Betty is! And Betty has a boyfriend, who is not the happier to meet Archie Andrews. Plus we get to meet Moose and Midge, Big Ethyl, Mr Weatherbee, Mrs Gundy, Coach Taylor, but sadly the movie is missing Dilton, and Coach Taylor's son Chuck. All of the characters are back in town for the class reunion others have been in Riverdale since school ended. The movie is like an Archie comic, in a 'years later' kind of way. The storyline has many different side stories, but is a fun movie to watch. I'd give it 8 out of 10 stars....",
+         "I read Archie comics from age 5 to 13--they were like old friends. That was many years ago but I'm still sentimental about them and was eager to see this movie after learning about it years after its initial release. When I finally got the opportunity I viewed it with a bit of trepidation; I'm more or less a purist and for me its success would be dependant on the characters physical resemblance to their comic book counterparts. Personality was important too but the artwork was a big part of what I loved about the comics. I wanted the movie to respect the Archie tradition. I was disappointed that of the original teenagers only Veronica and Reggie bore a strong physical likeness to their comic book originals but during the course of the film Archie, Betty and Jughead seemed to transform...the actors ably portrayed the essence of the characters and convinced me that yes, this is what they would look like and act like fifteen years after graduation. As far as personality goes, that was well captured, too; after all, we all grow up but retain our essential character. There are places where the plot stretches credulity but that's part of the Archie heritage...the comic books were often madcap beyond belief! Except for some unnecessary sexual innuendo which didn't add much to the story, this was a tender hearted look at the power of friendship to endure teenage angst and be the better for it. (For the record I agree with everyone's comments about Jughead and the forgettable rap song--I dare say genuine rappers would be offended! Is there ANYONE out there who liked it?)",
+         "Although this film is not as good as the comic books, it is still worth watching. The acting is a bit cardboard. The guy that said Mr. Lodge would never do anything to physically harm Archie is right and Veronica would never refuse her father's money, I still love to watch this film.",
+         "This was a really good movie. It was entertaining, that's all that matters. I think the \"self-proclaimed\" Archie buffs who gave the bad comments about this movie didn't watch it with an open-mind. Even if you read the comic books, you would find this movie believable. Sure it would've been nice if the characters in the comic books turned out to be just the way you wanted them to be, but that's not what life's about. You should expect to be disappointed in life, just as with this movie. If you plan on being disappointed when you go to watch this movie, then you'll be relieved when you watch this movie (because it isn't all that bad). Going in with high hopes will give you the Siskel-Ebert syndrome where you find yourself scrutinizing every scene and character interaction. So I recommend this movie to anyone who has an open mind, and who's a fan of Mystery Science Theater 3000 (the TV show that's no longer around). If you can make fun of a movie, and still enjoy it, then you're getting your money's worth. Like it or hate it, Return To Riverdale is worth the money (you just gotta be open-minded). >",
+         "(This may contain spoilers, unless you've read anyone else's comments) Just in reply to some of the comments about this movie....it's a movie about Archie, don't take it too seriously! Everyone is arguing about all the inaccuracies....Reggie would never try to close Pop Tate's (if you watched the movie, you would know that he was only following his bosses orders)...Mr. Lodge would never try to physically hurt Archie (near the end he gives his chauffeur heck, saying \"I only wanted you to SCARE him!\")...or that the group had lost contact for 15 years (how many of YOU all keep in touch with all of your highschool friends after 15 years?) I liked the movie, it was fun. I thought that everyone really was in character, and it was neat to see that no matter how much they thought they had changed over the years, the gang getting back together again made them all realize that they were only trying to fool themselves. I really liked the end, despite what everyone else seems to think (although I think that Reggie would have needed a bit more than a simple apology to get back in everyone's good graces)....it was nice to see everyone fallen back into their roles and the idea that they would continue to live their lives following the same dynamic as they had in highschool (who among us hasn't felt that bit of nostalgia looking at an old yearbook?). The downside...definitely the \"Sugar Sugar\" rap, and I would have liked to see a few other characters (Dilton especially).",
+         "To start off, I think this movie definitely was horrible! I have been an Archie fan since I was very young. I love the comic books, but I don't love this movie. This movie sucked because Jughead shouldn't be a shrink, the teenage Jughead we all know does not give a dam* about other people! Yeah, he was an excellent friend to Archie, but Jughead isn't the type to refrain from eating cheeseburgers' all day and listen to pathetic problems. Not only was the character 'Jughead' bad, but Reggie Mantle, the thug we all know would not seek that type of revenge to the gang. Reg was full of dirty gags, but he wasn't like that. Reggie was a jerk, not a jack***! Geez, even Reggie had 'some' morals. And Betty and Veronica's sad attempt to win over Archie didn't seem to be too realistic. The ending is pretty sad, also...\"just friends\"--right. That is the love-sick Archie we all know. NO way, Archie would not loose contact over the woman he loved for his whole teenage years for an annoying fiancee. Puh-lease, who made this movie? Overall, this movie stunk. Big Ethel will never be a model, Jughead had no intentions to become some 'rap wannabe'. Along with Archie's Weird Mysteries, this has been a horrible movie and I'm sorry I ever watched it.",
+         "How any fan of Archie comics could approve of this \"film\", I don't know. This movie is bad in every way imaginable. Whoever made this movie clearly knew nothing about Archie comics and wanted to make a quick made-for-TV buck. Everything about this movie is just wrong. The characters are NOTHING like the characters in the comics. I know that these are older versions of those young characters, but the \"maturity\" and \"development\" of these characters that people talk about are really just arbitrary character traits. Really, would asexual Jughead be that stupid to have a child with some hoe? And then get a career as a psychologist? Absolutely not. Would Hiram Lodge hate Archie enough to want to kill him? Absolutely not. Would Betty OR Veronica knowingly have Archie cheat on his wife with them? Absolutely not. Would Reggie be such a weasel as to help Mr. Lodge evict Pop Tate's Chocklit Shoppe? Absolutely not. Nearly every character trait and action is completely unbelievable. And why was Jughead's son such an obstinate little brat? I could understand an unruly kid, but this kid is a complete jerk! If I were Jughead, I'd have whipped his rear back into the stone age. What's even more outrageous is how Archie almost MURDERS Jughead's son by pushing him off a tall ladder! I know that the scene was supposed to be comedic, but think about it: Archie could have KILLED the kid! Would the Archie in our beloved comics do something that foolish? Absolutely not. By the way, who the heck thought it would be okay to put sex into a movie based on children's comics? Sure, relationships and dating are the main themes of Archie comics, but sex was never discussed(for valid reasons). No sex actually happens in TRaBA, but a scantily clad Veronica literally tries to get Archie in bed and begs him to do it with her! Then there are the embarrassingly bad scenes like where Jughead and Archie are in the runaway car that was rigged by Mr. Lodge to turn into Herbie the Love Bug. Now maybe I missed something, but was there any reason why Archie couldn't have just taken his foot off the gas? He never said that the car wouldn't stop, but just that the brakes didn't work. Again, this is another example of the ridiculous idea that Mr. Lodge would want to murder Archie. Even worse than that was when Jughead does a bad 90s rap version of Sugar, Sugar with his son. The only way to know just how bad this scene was is to watch the move. And of course there's the part where Betty barges into Archie's motel room, unbuttons her blouse, and asks him to have sex with her. Then Veronica shows up, sees that the shower is running and says to Archie \"How did you know that was one of my fantasies? Let's get WET.\" Seriously, how did a semi-wholesome comic strip turn into a borderline nudie film? Again, no actual nudity or sex, but honestly, how would you feel if they made a Flintstones cartoon on Nickelodeon where Betty wants to have sex with Fred and Wilma with Barney? Sure, it's fine if you're adult, but it's a KIDS SERIES!!! Overall, it's a poor tribute to an American icon, and these characters should never have been portrayed as anything but teenagers. Only watch this movie if you want a chuckle. If you're an MST3k fan, you'll probably find some enjoyment in watching this disaster of a film. Maybe Rifftrax will make fun of this someday.",
+         "This movie really f****ng sucks. Growing up, I was a rabid fan of Archie comics, and this movie just didn't do it justice. It took the fun and liveliness of the comics and turned it into a boring, ridiculous, embarassing failure. Lauren Holly (playing Betty) is probably cowering in shame that anyone has seen her in this! Anyway, the girls are sexually obsessed with Archie, who can't make up his mind. Reggie and Mr. Lodge are trying to close down the Choklit Shoppe, where things become totally unrealistic. Reggie, in my opinion, though scum, would never try to close down his favorite childhood hangout. Also, Mr. Lodge tries to \"take out\" Archie with cut brakelines and a bomb. In the books, Mr. Lodge was only annoyed by Archie, not out to plant him 6 feet under. This may be a bit of shock to people (so make small children leave the room) they even corrupted the Archies superhit \"Sugar, Sugar\" by having Jughead and his son turn into a disgusting rap number. Also, for more unbelievable fun, Big Ethel turns out to be supermodel. As anyone who has read the comics knows, Ethel was the female version of Jughead. Anyway, don't bother seeing the movie unless you hate the Archie gang. THen, you'll love it.",
+         "This has to be the stupidest, most worthless comic book movie I/ve ever seen. It starts off trying to make you believe that the \"Archie Gang\" stayed out of touch for 15 (or however many) years after they graduated from High School. Yeah, right. The characters suck too, especially Reggie and Mr. Lodge. Reggir, although a bit mischievous, would never evict Pop Tate from his shop, or be that much of an a**hole. And Mr. Lodge, although slightly irritated by Archie, would never be enough of a tyrant to want to have his car brakes cut or give him a bomb. And finally, Veronica never hated taking Daddy's money, and she would always get her way with him. Then, in the end, (spoiler coming) when Archie has to make the BIG DECISION between Betty and Veronica, the movie makers cop out and just let them all be \"friends forever.\" HOW GAY!!!!!!!!!",
+         "An absolutely laugh-free live-action version of the comic book/cartoon perennial, with sheepish actors portraying the Riverdale High gang as annoying thirty-somethings -- Archie's a lawyer, Reggie's an entrepreneur, Veronica's a multi-divorced billionaire, Betty's a schoolmarm, Jughead's a shrink. The franchise's high point, the catchy \"Sugar Sugar,\" is excruciatingly performed as a rap. Who exactly was this film made for? Adults who grew up with the Archie comics/Saturday morning show won't sit through this poorly-produced film with cheap special effects (in separate scenes, a car crashes through busy downtown Riverdale and a bomb blows up a major storefront -- without ANYBODY getting injured) and the under-8 set who read the comics today won't get the innuendo (there's a pathetic farcical scene at a motel where both Veronica and Betty try to seduce poor Archie, whose snotty fiancée is about to drop in). The final shot (the gang decides to move back to Riverdale, and they pose for a triumphant snapshot) strongly implies that this movie was intended as a pilot for a new series. Be thankful it never came to pass."
+      ],
+      "genres": [
+         "Comedy",
+         "Family"
+      ],
+      "productionCompanies": [
+         "Patchett Kaufman Entertainment",
+         "DIC Entertainment"
+      ],
+      "summaries": [
+         "The classic comic book characters created by John L. Goldwater are brought to tv in a slightly older version. Here the characters are adults returning to their high school reunion and remembering old times and romances from good old Riverdale High.",
+         "The comic book characters of Archie, Jughead, Betty, Veronica, Reggie, and the rest are brought to life in this live action version. They are now adults; Archie's a lawyer, who is looking forward to finally leaving Riverdale, Betty's a school teacher, Jughead's a psychiatrist who spends most of his time talking about his own problems than his patients. Veronica's a socialite and Reggie is still as obnoxious as ever. Currently he plans to demolish Pop's their old hangout, so Pop's asks Archie to look into it and discovers some interesting facts. And all this while they are about to attend their high school reunion. And Archie though engaged has to deal with his feelings for Betty and Veronica."
+      ],
+      "budget": 0
+   },
+   "movielensId": 126124,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1990-05-06",
+      "dvdReleaseDate": null,
+      "directors": ["Dick Lowry"],
+      "runtime": 100,
+      "movieId": 126124,
+      "title": "Archie: To Riverdale and Back Again",
+      "mpaa": "",
+      "actors": [
+         "Christopher Rich",
+         "Lauren Holly",
+         "Karen Kopins",
+         "Sam Whipple",
+         "Gary Kroeger",
+         "Matt McCoy",
+         "Mike Nussbaum",
+         "Billy Corben",
+         "Fran Ryan",
+         "Christian Hoff",
+         "Robert Munic",
+         "Aeryk Egan",
+         "David Doyle",
+         "James Noble",
+         "Raye Birk",
+         "Jeff Hochendoner",
+         "Christina Haag",
+         "Monty Bane",
+         "Debi Derryberry",
+         "J.D. Hall",
+         "Cindy Ambuehl",
+         "Sharon Conley",
+         "William Glover",
+         "Chip Hipkins",
+         "Veronica Lauren",
+         "Catherine MacNeal",
+         "Charles D. Miller",
+         "Rick Podell"
+      ],
+      "imdbMovieId": "0099054",
+      "originalTitle": "Archie: To Riverdale and Back Again",
+      "genres": [
+         "TV Movie",
+         "Comedy"
+      ],
+      "youtubeTrailerIds": [],
+      "plotSummary": "The classic comic book characters created by John L. Goldwater are brought to tv in a slightly older version. Here the characters are adults returning to their high school reunion and remembering old times and romances from good old Riverdale High",
+      "tmdbMovieId": 52304,
+      "avgRating": 2.5,
+      "releaseYear": "1990",
+      "numRatings": 2,
+      "posterPath": "/rOqNMGW3v8F1wnMER3RvuUD2msV.jpg"
+   }
+}

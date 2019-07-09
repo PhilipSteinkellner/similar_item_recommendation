@@ -1,0 +1,502 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "based on novel",
+            "id": 818
+         },
+         {
+            "name": "cold war",
+            "id": 2106
+         },
+         {
+            "name": "weapon",
+            "id": 6110
+         },
+         {
+            "name": "arms dealer",
+            "id": 6163
+         },
+         {
+            "name": "dictatorship",
+            "id": 7606
+         },
+         {
+            "name": "satire",
+            "id": 8201
+         }
+      ],
+      "imdb_id": "tt0085412",
+      "video": false,
+      "title": "Deal of the Century",
+      "recommendations": [
+         47941,
+         16471,
+         46925,
+         32387,
+         28124,
+         44004,
+         18856,
+         16082,
+         1363,
+         18495,
+         67307,
+         20443,
+         38554,
+         68274,
+         29621,
+         31563,
+         91217,
+         16155,
+         42597,
+         14664
+      ],
+      "backdrop_path": "/gCl6xfxsbRcLEzpgKOZEtR4aKSP.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Eddie Muntz",
+               "gender": 2,
+               "credit_id": "52fe43edc3a368484e0064e7",
+               "name": "Chevy Chase",
+               "profile_path": "/svjpyYtPwtjvRxX9IZnOmOkhDOt.jpg",
+               "id": 54812,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Catherine DeVoto",
+               "gender": 1,
+               "credit_id": "52fe43edc3a368484e0064eb",
+               "name": "Sigourney Weaver",
+               "profile_path": "/gxBIAr3CnBjkNRoPovVJCvEGqP0.jpg",
+               "id": 10205,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Ray Kasternak",
+               "gender": 2,
+               "credit_id": "52fe43edc3a368484e0064ef",
+               "name": "Gregory Hines",
+               "profile_path": "/rvvQWFQGeGR14WFVNe0Qg1J7uVY.jpg",
+               "id": 66804,
+               "order": 2
+            },
+            {
+               "cast_id": 7,
+               "character": "Frank Stryker",
+               "gender": 2,
+               "credit_id": "52fe43edc3a368484e006505",
+               "name": "Vince Edwards",
+               "profile_path": "/mr3mDCY6QQEZJHOr32pI0mN8vnc.jpg",
+               "id": 3337,
+               "order": 3
+            },
+            {
+               "cast_id": 8,
+               "character": "Gen. Cordosa",
+               "gender": 2,
+               "credit_id": "52fe43edc3a368484e006509",
+               "name": "William Marquez",
+               "profile_path": "/wg8dfUvpeLH7Pwrwsav6yWEUPH2.jpg",
+               "id": 58637,
+               "order": 4
+            },
+            {
+               "cast_id": 9,
+               "character": "Col. Salgado",
+               "gender": 2,
+               "credit_id": "52fe43edc3a368484e00650d",
+               "name": "Eduardo Ricard",
+               "profile_path": null,
+               "id": 118068,
+               "order": 5
+            },
+            {
+               "cast_id": 10,
+               "character": "Lyle",
+               "gender": 2,
+               "credit_id": "52fe43edc3a368484e006511",
+               "name": "Richard Herd",
+               "profile_path": "/1wsn9V7kkrvD2Qr3bD1vSH2OjpK.jpg",
+               "id": 13732,
+               "order": 6
+            },
+            {
+               "cast_id": 11,
+               "character": "Babers",
+               "gender": 2,
+               "credit_id": "52fe43edc3a368484e006515",
+               "name": "Graham Jarvis",
+               "profile_path": "/fjAY9Z2B9hUuQ8NolfyCHHR0iE9.jpg",
+               "id": 36927,
+               "order": 7
+            },
+            {
+               "cast_id": 12,
+               "character": "Harold DeVoto",
+               "gender": 2,
+               "credit_id": "52fe43edc3a368484e006519",
+               "name": "Wallace Shawn",
+               "profile_path": "/oGE6JqPP2xH4tNORKNqxbNPYi7u.jpg",
+               "id": 12900,
+               "order": 8
+            },
+            {
+               "cast_id": 13,
+               "character": "Ms. Della Rosa",
+               "gender": 1,
+               "credit_id": "52fe43edc3a368484e00651d",
+               "name": "Randi Brooks",
+               "profile_path": null,
+               "id": 91303,
+               "order": 9
+            },
+            {
+               "cast_id": 14,
+               "character": "Bob",
+               "gender": 2,
+               "credit_id": "52fe43edc3a368484e006521",
+               "name": "Ebbe Roe Smith",
+               "profile_path": null,
+               "id": 116778,
+               "order": 10
+            },
+            {
+               "cast_id": 15,
+               "character": "Masaggi",
+               "gender": 2,
+               "credit_id": "52fe43edc3a368484e006525",
+               "name": "Richard Libertini",
+               "profile_path": "/yPJRC8N0ITxLuJzIbIDeGgT6lz6.jpg",
+               "id": 20163,
+               "order": 11
+            },
+            {
+               "cast_id": 16,
+               "character": "Will",
+               "gender": 2,
+               "credit_id": "52fe43edc3a368484e006529",
+               "name": "J.W. Smith",
+               "profile_path": null,
+               "id": 118069,
+               "order": 12
+            },
+            {
+               "cast_id": 17,
+               "character": "Woman Singer",
+               "gender": 0,
+               "credit_id": "52fe43edc3a368484e00652d",
+               "name": "Carmencristina Moreno",
+               "profile_path": null,
+               "id": 118070,
+               "order": 13
+            },
+            {
+               "cast_id": 18,
+               "character": "Dr. Rechtin",
+               "gender": 2,
+               "credit_id": "52fe43edc3a368484e006531",
+               "name": "Charles Levin",
+               "profile_path": null,
+               "id": 118071,
+               "order": 14
+            },
+            {
+               "cast_id": 31,
+               "character": "Announcer (voice)",
+               "gender": 2,
+               "credit_id": "5ab41f2a0e0a265f3001171a",
+               "name": "Jack Angel",
+               "profile_path": "/qYvR57QBtXpdvj1jm2a8hjh7E4L.jpg",
+               "id": 19545,
+               "order": 15
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe43edc3a368484e0064f5",
+               "name": "William Friedkin",
+               "profile_path": "/1iBd92izRHpkSH4hOhcUBmF2cv7.jpg",
+               "id": 15175,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43edc3a368484e0064fb",
+               "name": "Paul Brickman",
+               "profile_path": null,
+               "id": 57383,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43edc3a368484e006501",
+               "name": "Bernard Edelman",
+               "profile_path": null,
+               "id": 118067,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5795a2829251417254000aef",
+               "name": "Arthur B. Rubinstein",
+               "profile_path": null,
+               "id": 12845,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5795a289c3a368673c00287a",
+               "name": "Richard H. Kline",
+               "profile_path": "/1b9iffgT1rS9ff2erVOaPhVowW8.jpg",
+               "id": 1762,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5795a2ae9251410ea9003a8e",
+               "name": "Jere Huggins",
+               "profile_path": null,
+               "id": 48807,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5795a2b69251412c1f005e02",
+               "name": "Ned Humphreys",
+               "profile_path": null,
+               "id": 48808,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5795a2bdc3a36837ae00d249",
+               "name": "Bud S. Smith",
+               "profile_path": null,
+               "id": 23914,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5795a2c49251414239008f1d",
+               "name": "Nancy Klopper",
+               "profile_path": null,
+               "id": 14096,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5795a2d0c3a368673c00289c",
+               "name": "Bill Malley",
+               "profile_path": null,
+               "id": 1052763,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5795a2d79251412c1f005e15",
+               "name": "Richard C. Goddard",
+               "profile_path": null,
+               "id": 14342,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5795a2dfc3a3681f310085ed",
+               "name": "Rita Riggs",
+               "profile_path": null,
+               "id": 7308,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5795a2f4c3a368673c0028c4",
+               "name": "Frank Griffin",
+               "profile_path": null,
+               "id": 24313,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5795a2fb9251417254000b2e",
+               "name": "Kaye Pownall",
+               "profile_path": null,
+               "id": 1511709,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5795a303c3a36866fe0026f0",
+               "name": "David Salven",
+               "profile_path": null,
+               "id": 1551963,
+               "department": "Production",
+               "job": "Unit Production Manager"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Comedy",
+         "id": 35
+      }],
+      "popularity": 2.770223,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 20545,
+      "vote_count": 14,
+      "budget": 0,
+      "overview": "Arms dealers from several companies vie to sell the most expensive and highest tech weapons to a South American dictator. There are complications; understanding the exact nature of how 'gifts' are used to grease the wheels of a sale, a religious conversion from one of the salesman and a romance that begins to grow between two competitors.",
+      "similar": [
+         1830,
+         281957,
+         2048,
+         4771,
+         769,
+         581,
+         562,
+         2503,
+         49529,
+         75780,
+         207932,
+         169917,
+         433808,
+         101299,
+         341013,
+         392044,
+         181283,
+         452507,
+         336843,
+         346364
+      ],
+      "original_title": "Deal of the Century",
+      "runtime": 99,
+      "poster_path": "/JGQOSHYEYO59RTxnXKNOwTyExA.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Dream Quest Images",
+            "id": 79655,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/6rFNo5taSC9i0Sxnl81nucQMsw9.png",
+            "name": "Warner Bros. Pictures",
+            "id": 174,
+            "origin_country": "US"
+         }
+      ],
+      "release_date": "1983-11-04",
+      "vote_average": 4.9,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["William Friedkin"],
+      "runtime": 99,
+      "synopsis": null,
+      "writers": [
+         "Paul Brickman",
+         "Bernard Edelman"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0085412/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjAwNDgyNjcwMl5BMl5BanBnXkFtZTcwOTMwNjIzMQ@@._V1_SY317_CR33,0,214,317_AL_.jpg",
+      "actors": ["Stars: Chevy Chase, Sigourney Weaver, Gregory Hines | See full cast and crew »"],
+      "reviews": [
+         "It seems like everyone's opinion on this movie is evenly divided. People either love it or hate it. Personally, I am not a Chevy Chase fan by any stretch of the imagination. But I like many of William Friedkin's films so I wanted to give this a chance and went in without too many preconceptions. It obviously can't stand up to a comparison to DR. STRANGELOVE as a few here have done. However, it still remains a fairly on-target, unflattering satire of the weapons industry and by extrapolation, other mass production industries that love to sell the government and public crap product cosmetically hyped as the next great answer to all their fears and desires, product that ends up being useless or obsolete within a year (if it even works properly in the first place). There are some pretty funny scenes sprinkled throughout and I was pleasantly surprised through the whole film how much dark, subversively funny jabs Friedkin gets away with. Especially in a big studio movie. There's one scene in particular that makes the film well worth seeing --Gregory Hines (I believe it was him) gets into a verbal altercation with another extremely hotheaded driver (a maniacal Tony Plana) (over a fender bender? it's been a while since I've seen it) -- the verbal sparring quickly escalates into a life-threatening situation and the emotional dynamics the two actors bring to the scene is scarily believable while remaining extremely funny. This scene alone provides a microcosmic metaphor for the provocations of nations going to war and perfectly illustrates the pointless absurdity of aggressive behaviour in general. Also of note, it's great to see the underrated Vince Edwards in a large supporting role as the ruthless air weapons manufacturer. DEAL OF THE CENTURY is never less than amusing and has some extremely funny sequences -- much better than many of these IMDb reviews would lead you to believe.",
+         "I loved this movie when it came out, and I still think it's one of Friedkin's most under- rated efforts. Where it lost a lot of the audience was in its requirement that they actually think about what was being presented to them. The jokes are not the usual Chevvy Chase, fall on his ass kind of thing, but for the most part have an actual point behind them. Where the film failed, I think, is culturally; audiences at the multiplex tend not to like to have to think about the entertainments they consume, so the movie got lukewarm reviews, and poor audiences. Look at the scene for example, where Gregory Hines' character is accosted by a mugger, and the way in which the scene escalates, for a perfect mini-allegory of the cold war, and the simplicity of its essential \"strategies.\" In truth, the movie falls between two stools, in terms of the audience it was aiming at. It's too much a Hollywood production to play on the art-house circuit; but its ethos is too \"political\" to play well in the major exhibition houses, ie, suburban multiplexes. It might be the case too, that because its satirical target is the military, some thought it as somehow \"anti-American\" and stayed away for that reason. But it's a fine film, well-structured and well scripted (in my opinion), having as its core the moral redemption of an immoral man. It also features � a rarity for American commercial movies � a black man in a major, well-thought out role who's not just a comedy sidekick for the hero. Give this one a chance, and it will reward multiple viewings.",
+         "This is a must see for any Chevy Chase fan or anyone who has ever worked at a large defense subcontractor! Office Space for the defense industry. I've worked at big companies (both defense and commercial) and this movie portrays them quite accurately. Even though the inherent humor in the plot line is based on the defense industry, it is very accessible to those who know little about it. Chevy is at his finest as the movie plays his character's extreme comical greed (i.e. will sell any weapon to anyone for any reason) against Gregory Hines' burgeoning conscience about their chosen profession. I was initially shocked by the low average rating of this movie. After reading some of the other reviews about this movie I begin to understand. Because Chevy plays an humorously amoral individual rather than his usually lovably goofy, one I think many viewers were shocked. I didn't think that the humor in this film was subtle; but apparently for many, it was. This movie also makes a very strong moral point about the military industrial complex that should be taught (whether with this movie or not) to all people before they are allowed to vote.",
+         "If you work in certain areas in the defense business, you will be sure that some one who worked in the business did the script. Some of the most outrageous incidents in the film are the most true to life. It may be that you have to have some professional insight to appreciate it fully. It's like a Dilbert cartoon.",
+         "there just aren't any movies about the arms trade. let alone satires. its not supposed to be funny. its supposed to be ironic and make a social statement. but if you cannot see the humor in a bunch of dancing girls throwing hulas around generals at a party/trade-show called \"arms for peace '84\", then maybe you don't have a sense of humor. the only way i can figure that someone doesn't see humor in this is that they have never actually been to an air show, visited a defense plant, or studied anything about the weapons / airplane industry, or perhaps they have completely forgotten the Cold War and what it was like. the idea of selling a bunch of useless weapons off to a third world dictator, while a rich Arabian sells weapons to his enemy, is sick and funny but most of all it's true. anyone who likes family guy or futurama will have a good chance of appreciating this movie.",
+         "It is a satirical look at the industry of arms sales. Chevy Chase is an independent broker who sells rifles, grenades, rocket launchers, etc. to any 3rd rate dictatorial government (or its opposing insurgency) like he's selling vacuum cleaners. Somebody is going to get rich arming South American counties at war with each other so why not him? Gregory Hines is his business partner who is becoming a born again Christain and therefore developing a moral crisis over the implications of their work, which is brilliantly exemplified in a scene where he is sent to Long Beach to check out a good deal on flamethrowers and listens to the client describe them as \"house warmers\" because in North Africa the paramilitary uses them to burn village huts in order to find out who resides in them- a preferable alternative to knocking on doors. This movie is for people who want to learn about the ugly convergence of business and war peppered with a handful of great jokes about the subject. \"Haven't you heard of the separation of church and business? This country was founded on it!\" The movie Lord of War with Nicolas Cage is about to be released, and from the trailer it looks like the writer saw Deal of the Century and decided to update it for 2005.",
+         "The overall plot of this movie is weak however there are A LOT of memorable scenes. These scenes make me watch this movie a couple times a year. This movie has a similar tone to Caddyshack, Head Office, Fletch, etc. I think it's one of Chevy's better performances. His narration in the movie helps add to the overall comical tone. If you are at all a Chevy Chase fan and enjoy his older work (Caddyshack, Fletch, etc.) this is definitely worth renting.",
+         "Deal of the Century is for those with an appreciation of the absurd. A dry, dark comedy, and an ironic portrayal of 1980s American (Reaganite) values. The film is a humorous, critical portrait of the hypocrisy behind Ronald Reagan's deadly cold war shenanigans. Its a political comedy -- very well directed by William Friedkin (The French Connection, The Exorcist). It is also well performed and photographed. Chevy Chase is perfectly cast as a cynical arms dealer. And the late, great, Gregory Hines, as his partner, disenchanted with the arms business and suddenly filled with pathos, desperately and hilariously turns from heavy-weapons to Jesus. It is not a perfectly plotted or written film, but it strives to intelligently portray its era.",
+         "While this wasn't one of the best movies I've seen, it had some really nice comedic bits in it. I particularly liked Wallace Shawn doing the anxious salesman, and Gregory Hines as the born-again who gets the ultimate revenge. Worth seeing just for these two bits, plus a few other great moments.",
+         "Eddie Muntz is a pervasive black market arms dealer who after a missed sale, meets a fellow salesman Harold in the same field for the US Luckup Corporation while in South America. After he commits suicide with the stress of waiting by the phone for the government dictator to ring him back to complete the deal. Eddie answers and takes over the deal which involves a new high-tech, non-pilot plane known as the Peacemaker. Soon enough everybody wants to get on this multi-million dollar deal. Eddie's work pal Ray has found god, and he's doing his best trying to keep him on the job and Harold's icy widow Catherine wants her share of the prize. William Friedkin's \"Deal Of the Century\" is somewhere in between a black comedy and frank pot-shot on the international arms trade. It never distinguishes itself either way, but I think that's the point. Especially how nervously bizarre this turns out to be. I certainly enjoyed this misunderstood satirical item on an interestingly flavorers topic and the sardonically dark humour was neat treat to the senses. Those looking for a laugh-out-loud affair will only get humour that's rather broadly downbeat in tone, despite how over-blown they turn out to be. While, it didn't constantly make me laugh, it got some grimaces out of me. It can feel like a Chevy Chase vehicle most of the time, as the rest of the cast do pale in comparison. That's not their fault, because their characters don't have the material to lift them out of Chase's shadow. Chase is one of my favourite iconic 80's comedians and he immediately fits the role with his causally dry and quick-witted personality. Sigourney Weaver is there to look good in her steely firebrand performance and Gregory Hines doesn't look too interested throughout. There's a short comic performance by Wallace Shawn too. The freshly ammo-packed story by Paul Bickerman is complicatedly knotty and obvious with its attacks. Creeping in were oddball situations and a surrealistic air on the worrying subject at hand. The snappy script works up a creative novelty, smearing it with sneering gags, spicy irony and that of Chase's slyly gruff voice-over narration to string scenes together. Super weapons to ensure peace, nicely put. As for William Friedkin's direction, well at first I didn't even know that this was on his resume. His style is extremely random and kinetic in just what's going to happen, but this unfocused mark goes on to morph its way into the premise. The interestingly high octane climax springs to mind. The production does look cheap, but the sweeping musical score creates the right vibe and there's strikingly framed camera-work. Explosions make there way in and the effects for the plane look rather hokey when its up in the air, but decent enough when on the ground. While, I don't see too much love for this offering. It isn't significantly great and it can be clumsy, but I don't see it as a piece of absurd garbage that it's made out to be. Simply a delightful, if farcical romp that kept me highly entertained."
+      ],
+      "genres": [
+         "Comedy",
+         "Crime"
+      ],
+      "productionCompanies": [
+         "Warner Bros.",
+         "Dream Quest Images"
+      ],
+      "summaries": [
+         "Arms dealers from several companies vie to sell the most expensive and highest tech weapons to a South American dictator. There are complications; understanding the exact nature of how 'gifts' are used to grease the wheels of a sale, a religious conversion from one of the salesman and a romance that begins to grow between two competitors, not to mention the imminient financial collapse of one of the companies if they don't make this sale.",
+         "A small time arms dealer in South America to sell weapons to the revolutionaries, winds up negotiating the sale of an experimental plane to the nation's dictator."
+      ],
+      "budget": 0
+   },
+   "movielensId": 26468,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1983-11-04",
+      "dvdReleaseDate": "2006-02-14",
+      "directors": ["William Friedkin"],
+      "runtime": 99,
+      "movieId": 26468,
+      "title": "Deal of the Century",
+      "mpaa": "PG",
+      "actors": [
+         "Chevy Chase",
+         "Sigourney Weaver",
+         "Gregory Hines",
+         "Vince Edwards",
+         "William Marquez",
+         "Eduardo Ricard",
+         "Richard Herd",
+         "Graham Jarvis",
+         "Wallace Shawn",
+         "Randi Brooks",
+         "Ebbe Roe Smith",
+         "Richard Libertini",
+         "J.W. Smith",
+         "Carmencristina Moreno",
+         "Charles Levin"
+      ],
+      "imdbMovieId": "0085412",
+      "originalTitle": "Deal of the Century",
+      "genres": ["Comedy"],
+      "youtubeTrailerIds": ["KZEEcb_yIAg"],
+      "plotSummary": "Arms dealers from several companies vie to sell the most expensive and highest tech weapons to a South American dictator. There are complications; understanding the exact nature of how 'gifts' are used to grease the wheels of a sale, a religious conversion from one of the salesman and a romance that begins to grow between two competitors.",
+      "tmdbMovieId": 20545,
+      "avgRating": 2.35417,
+      "releaseYear": "1983",
+      "numRatings": 24,
+      "posterPath": "/JGQOSHYEYO59RTxnXKNOwTyExA.jpg"
+   }
+}

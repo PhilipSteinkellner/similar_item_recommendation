@@ -1,0 +1,569 @@
+{
+   "tmdb": {
+      "original_language": "ja",
+      "keywords": [{
+         "name": "disaster",
+         "id": 10617
+      }],
+      "imdb_id": "tt0473064",
+      "video": false,
+      "title": "Japan Sinks",
+      "recommendations": [60275],
+      "backdrop_path": "/htdDOpQSD6Xf8MaFQtGVZT9yjtw.jpg",
+      "revenue": 47636016,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Onodera Tosio",
+               "gender": 0,
+               "credit_id": "52fe46e99251416c750879db",
+               "name": "Tsuyoshi Kusanagi",
+               "profile_path": "/ik1bgeRgFMSRb0ZV0NPRlhoTvBD.jpg",
+               "id": 80753,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Tadogoro Yusuke",
+               "gender": 2,
+               "credit_id": "52fe46e99251416c750879df",
+               "name": "Etsushi Toyokawa",
+               "profile_path": "/gkmAbZ47w7jFfr1ASgs1cqZY9Mi.jpg",
+               "id": 80754,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "Takamori Saori",
+               "gender": 0,
+               "credit_id": "52fe46e99251416c750879e3",
+               "name": "Mao Daichi",
+               "profile_path": "/r6RTQbiPxMkWooKZrgndps57KBq.jpg",
+               "id": 80755,
+               "order": 2
+            },
+            {
+               "cast_id": 5,
+               "character": "Abe Reiko",
+               "gender": 1,
+               "credit_id": "52fe46e99251416c750879e7",
+               "name": "Kou Shibasaki",
+               "profile_path": "/h7uWDk847sApWaJJgOn2I2V1ndX.jpg",
+               "id": 58593,
+               "order": 3
+            },
+            {
+               "cast_id": 6,
+               "character": "",
+               "gender": 0,
+               "credit_id": "54d627ef9251416b93002136",
+               "name": "Mitsuhiro Oikawa",
+               "profile_path": "/fei3Gp8saJEEalIjqaUP0NvNHgX.jpg",
+               "id": 550565,
+               "order": 4
+            },
+            {
+               "cast_id": 7,
+               "character": "",
+               "gender": 1,
+               "credit_id": "54d627f89251416ba8002056",
+               "name": "Mayuko Fukuda",
+               "profile_path": "/joDToUjKGs8kZcWctyyusVzMzxa.jpg",
+               "id": 85938,
+               "order": 5
+            },
+            {
+               "cast_id": 8,
+               "character": "",
+               "gender": 0,
+               "credit_id": "54d62805925141758c001fa2",
+               "name": "Hideko Yoshida",
+               "profile_path": null,
+               "id": 95346,
+               "order": 6
+            },
+            {
+               "cast_id": 9,
+               "character": "",
+               "gender": 2,
+               "credit_id": "54d628189251416ba8002059",
+               "name": "Akira Emoto",
+               "profile_path": "/iugqQb7HjpeMcV46qwz9kU9RMZp.jpg",
+               "id": 13283,
+               "order": 7
+            },
+            {
+               "cast_id": 10,
+               "character": "",
+               "gender": 2,
+               "credit_id": "54d628279251415f75001f0b",
+               "name": "Jun Kunimura",
+               "profile_path": "/zMf3lIodQvte4VDnCBnuG9ZEx72.jpg",
+               "id": 2541,
+               "order": 8
+            },
+            {
+               "cast_id": 11,
+               "character": "",
+               "gender": 0,
+               "credit_id": "54d628349251416ba800205b",
+               "name": "Kôji Ishizaka",
+               "profile_path": "/vclayAvwkP78htT5GeedQ0m2pLe.jpg",
+               "id": 107961,
+               "order": 9
+            },
+            {
+               "cast_id": 12,
+               "character": "",
+               "gender": 2,
+               "credit_id": "54d6283bc3a3683b95002159",
+               "name": "Ken'ichi Endô",
+               "profile_path": "/aifZwBDDgNNhBiz8UfzppwhX5Zf.jpg",
+               "id": 35642,
+               "order": 10
+            },
+            {
+               "cast_id": 13,
+               "character": "",
+               "gender": 2,
+               "credit_id": "54d62848c3a3683b8c00233e",
+               "name": "Takeshi Katô",
+               "profile_path": "/2sX7KHu4x8r1ZfnsJlxqDDy1wO8.jpg",
+               "id": 72540,
+               "order": 11
+            },
+            {
+               "cast_id": 14,
+               "character": "",
+               "gender": 2,
+               "credit_id": "54d62850925141758c001fb2",
+               "name": "Hideaki Anno",
+               "profile_path": "/vdqUa18A8D2lIVgxpzWS4ldU3PL.jpg",
+               "id": 77921,
+               "order": 12
+            },
+            {
+               "cast_id": 15,
+               "character": "",
+               "gender": 0,
+               "credit_id": "54d62856c3a3683b8f002352",
+               "name": "Moyoco Anno",
+               "profile_path": "/1fLMrmrAgntd9nHgvhrecevbfYR.jpg",
+               "id": 1043318,
+               "order": 13
+            },
+            {
+               "cast_id": 16,
+               "character": "",
+               "gender": 0,
+               "credit_id": "54d6285ec3a3683ba00025cb",
+               "name": "Harutoshi Fukui",
+               "profile_path": null,
+               "id": 562941,
+               "order": 14
+            },
+            {
+               "cast_id": 17,
+               "character": "",
+               "gender": 2,
+               "credit_id": "54d628a2c3a3683b95002168",
+               "name": "Narushi Ikeda",
+               "profile_path": "/rMjLVCZPyyNUSvL0RmkFJUvgBds.jpg",
+               "id": 1204781,
+               "order": 15
+            },
+            {
+               "cast_id": 19,
+               "character": "",
+               "gender": 0,
+               "credit_id": "54d628d3c3a3683b95002182",
+               "name": "Tae Kimura",
+               "profile_path": "/ahY2f5WORuDni76dVxL9MSwqAQT.jpg",
+               "id": 144418,
+               "order": 17
+            },
+            {
+               "cast_id": 20,
+               "character": "",
+               "gender": 2,
+               "credit_id": "54d628dfc3a3683b8900209a",
+               "name": "Kazuo Kitamura",
+               "profile_path": null,
+               "id": 63707,
+               "order": 18
+            },
+            {
+               "cast_id": 21,
+               "character": "",
+               "gender": 0,
+               "credit_id": "54d628e4925141758c001fbc",
+               "name": "Kanji Tsuda",
+               "profile_path": "/5SF6Pb7axi78uknOGWB0eF4Beam.jpg",
+               "id": 13256,
+               "order": 19
+            },
+            {
+               "cast_id": 22,
+               "character": "",
+               "gender": 0,
+               "credit_id": "54d628f3c3a3683b8900209d",
+               "name": "Ai Maeda",
+               "profile_path": "/2GbGAFBU5AjHRh1iZL6R3M1J8TL.jpg",
+               "id": 31082,
+               "order": 20
+            },
+            {
+               "cast_id": 23,
+               "character": "",
+               "gender": 0,
+               "credit_id": "54d62900925141758c001fc0",
+               "name": "Takashi Matsuo",
+               "profile_path": "/qJnMKFmyyG9H2xqf69PHq7iTPdf.jpg",
+               "id": 97316,
+               "order": 21
+            },
+            {
+               "cast_id": 24,
+               "character": "",
+               "gender": 0,
+               "credit_id": "54d6290792514171600023f5",
+               "name": "Seminosuke Murasugi",
+               "profile_path": "/vgQ1UWEmRaxxKRa6YrRjJDMBw0V.jpg",
+               "id": 587656,
+               "order": 22
+            },
+            {
+               "cast_id": 25,
+               "character": "",
+               "gender": 2,
+               "credit_id": "54d629119251415f9c002053",
+               "name": "Naomasa Musaka",
+               "profile_path": "/sqqaE4q48HDbQ9CsFCJBtqhuI2i.jpg",
+               "id": 133886,
+               "order": 23
+            },
+            {
+               "cast_id": 26,
+               "character": "",
+               "gender": 0,
+               "credit_id": "54d6291bc3a3683b890020a0",
+               "name": "Aiko Nagayama",
+               "profile_path": null,
+               "id": 552675,
+               "order": 24
+            },
+            {
+               "cast_id": 27,
+               "character": "",
+               "gender": 0,
+               "credit_id": "54d62921c3a3683b8f002376",
+               "name": "Shirô Namiki",
+               "profile_path": null,
+               "id": 80131,
+               "order": 25
+            },
+            {
+               "cast_id": 28,
+               "character": "",
+               "gender": 2,
+               "credit_id": "54d629339251416b93002158",
+               "name": "Koji Okura",
+               "profile_path": "/pcOri4I8CoXXp7RthdjvpAYT6Vf.jpg",
+               "id": 151093,
+               "order": 26
+            },
+            {
+               "cast_id": 29,
+               "character": "",
+               "gender": 0,
+               "credit_id": "54d62945c3a3683b92002557",
+               "name": "Eriko Satô",
+               "profile_path": "/wYwpNEBXG5lEJFFVP2MT1Xmod8j.jpg",
+               "id": 146869,
+               "order": 27
+            },
+            {
+               "cast_id": 30,
+               "character": "",
+               "gender": 0,
+               "credit_id": "54d6294fc3a3683b9200255b",
+               "name": "Pierre Taki",
+               "profile_path": "/n6LKguACBEWMM2FNCqTQVEM7Lpx.jpg",
+               "id": 120434,
+               "order": 28
+            },
+            {
+               "cast_id": 32,
+               "character": "",
+               "gender": 0,
+               "credit_id": "54d629699251416ba1002040",
+               "name": "Toru Tezuka",
+               "profile_path": "/kqeCoDpg3uHDaNsHK9ifbGGxydK.jpg",
+               "id": 58609,
+               "order": 30
+            },
+            {
+               "cast_id": 33,
+               "character": "",
+               "gender": 0,
+               "credit_id": "54d62987c3a3683b99002027",
+               "name": "Yoshiyuki Tomino",
+               "profile_path": "/azV5hFU4wmGdTef5osVZjtHtTP8.jpg",
+               "id": 79737,
+               "order": 31
+            },
+            {
+               "cast_id": 34,
+               "character": "",
+               "gender": 0,
+               "credit_id": "54d6299f9251416b9f0021d6",
+               "name": "Emi Wada",
+               "profile_path": null,
+               "id": 21907,
+               "order": 32
+            },
+            {
+               "cast_id": 35,
+               "character": "",
+               "gender": 2,
+               "credit_id": "54d629aa9251415f9c002060",
+               "name": "Kenichi Yajima",
+               "profile_path": "/8Z1EoMxfYWdazF2aAsM1laDDd07.jpg",
+               "id": 52713,
+               "order": 33
+            },
+            {
+               "cast_id": 36,
+               "character": "",
+               "gender": 2,
+               "credit_id": "54d629b3c3a3683b8f002383",
+               "name": "Tatsuo Yamada",
+               "profile_path": null,
+               "id": 555296,
+               "order": 34
+            },
+            {
+               "cast_id": 37,
+               "character": "",
+               "gender": 0,
+               "credit_id": "54d629b9925141758c001fdc",
+               "name": "Hiroshi Ôguchi",
+               "profile_path": null,
+               "id": 1137395,
+               "order": 35
+            },
+            {
+               "cast_id": 38,
+               "character": "Minister of Defense",
+               "gender": 2,
+               "credit_id": "591b52f29251415723072ace",
+               "name": "Taro Ishida",
+               "profile_path": null,
+               "id": 58158,
+               "order": 36
+            }
+         ],
+         "crew": [{
+            "gender": 2,
+            "credit_id": "52fe46e99251416c750879d7",
+            "name": "Shinji Higuchi",
+            "profile_path": "/9FNkAnJyZibz2E1I6Jn6rgQVqkb.jpg",
+            "id": 80752,
+            "department": "Directing",
+            "job": "Director"
+         }]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         },
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         }
+      ],
+      "popularity": 0.892413,
+      "production_countries": [{
+         "iso_3166_1": "JP",
+         "name": "Japan"
+      }],
+      "id": 16766,
+      "vote_count": 9,
+      "budget": 0,
+      "overview": "Japan sinks! Proving once again that Japan will never cease to find inventive ways to destroy itself on screen, this summer's blockbuster Sinking of Japan brings apocalypse through tectonics. Based on Sakyo Komatsu's best-selling novel, Sinking of Japan was first put on the big screen in Moritani Shiro's 1973 classic. In 2006, director Higuchi Shinji remakes the disaster movie, taking the story to",
+      "similar": [
+         11123,
+         14161,
+         479475,
+         76649,
+         336882,
+         664,
+         254128,
+         8656,
+         9619,
+         296524,
+         95,
+         7191,
+         707,
+         435,
+         597,
+         8645,
+         80278,
+         135397,
+         568,
+         2268
+      ],
+      "original_title": "日本沈没",
+      "runtime": 135,
+      "poster_path": "/ujDLJbk5v42bVYRV7CgO4nWZKJt.jpg",
+      "spoken_languages": [{
+         "name": "日本語",
+         "iso_639_1": "ja"
+      }],
+      "production_companies": [],
+      "release_date": "2006-07-15",
+      "vote_average": 4.2,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Japan",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Shinji Higuchi"],
+      "runtime": 135,
+      "synopsis": null,
+      "writers": [
+         "Sakyo Komatsu",
+         "Masato Kato"
+      ],
+      "originalLanguage": "Japanese",
+      "imdbLink": "http://www.imdb.com/title/tt0473064/",
+      "coverLink": null,
+      "actors": [
+         "Tsuyoshi Kusanagi",
+         "Ko Shibasaki",
+         "Etsushi Toyokawa"
+      ],
+      "reviews": [
+         "It's the best movie I've watched this year! Excellent detail and storyline (for a remake). It presents to you a \"what if\" situation wherein the island of Japan could totally be wiped out of this earth. A thought-provoking, life and death situation and not to mention all life on earth (well in this particular Japan). It also presents a great and genius solution to this massive tragedy. Horror, action, suspense, sci fi, documentary, love story and all the human interest story you can get you'll find everything here! But I also warn you that it is a real tearjerker! The casts, actors and all are all excellent, better than any Hollywood movie! The thing is...this could really happen to anywhere on earth! Now let me ask you this after you've seen it...\"what would you do if you are faced in this life and death situation\"?",
+         "I actually caught an ad for JAPAN SINKS in a Japanese magazine last year, and wondered what the heck it was until I saw the trailer for the film. It was then I remembered that I had seen the English translation of Sakyo Komatsu's novel some years back. I got it, and it was quite good, as well as chillingly realistic. It's enough to make the reader dread hearing any news about earthquakes in Japan. Now, I've read the book, and seen this 2006 movie version (the first movie came out in 1973). And you know what? I thought the movie was quite good, even if there are major changes from novel to film (but that's understandable). The story is simple--a major tectonic shift will cause Japan to sink within a year. Massive earthquakes, volcanic eruptions, and tsunamis rock the country as frantic efforts are made to evacuate as many people as possible. One scientist has a plan that could stop the sinking of the country and save what's left of the landmass, but can it be implemented in time? I saw JAPAN SINKS at Otakon 2007, and while there were a couple of problems I had with it--it does run a bit too long, and a couple of the character moments were a little too sappy--I was nonetheless blown away. The sheer concept of an entire nation sinking into the sea was made terrifyingly real, and the effects were some of the best I've ever seen, rivaling anything that Hollywood has done. The film also plays no favorites with the main characters, with some not making it to the closing credits. Frankly, I've been surprised by some of the negative comments made about this film. Difference of opinions, I guess. Personally, I enjoyed it. And I've read the original book.",
+         "As spectacle, it's hard to fault Nihon chinbotsu. The Japanese people have benefited from their intimate relationship with the sea, and the concept of the film implies that an entire world and way of life at risk - thanks to its volcanic heritage. From the standpoint of reality it's rather silly to have a drama wherein the entirety of Japan vanishes under the waves; why just Japan? So, presume instead that we have movie reality, fueled by spectacle (and popcorn), and some may find this quite affecting. Compared to adventures with Japanese radioactive monsters, this comes off as more mature and better paced. The emotional element is underplayed, and it really works. (It loses a bit with the overblown theme song at the climax, however.) Is Nihon chinbotsu credible? Probably not, but the thrilling eruptions, and the relaxed pacing make for a more pleasing entertainment that one night expect.",
+         "As done with economic theory, disaster movies can be sub-divided into micro (Poseidon, The Towering Infernal) and macro (Deep Impact, Armageddon). SoJ falls somewhere in between. It's neither the destruction of our entire planet, nor does it pertain only to a cruise ship or a building. It's about the threatened obliteration of an entire island nation. I have not seen the 1973 \"original\" and can only dwell on the current \"remake\". It gives you everything you expect from a disaster movie \u0096 the CGI mayhem, the scientific backbone, the action and reaction of various government officials, the plight of the \"little people\", lovers caught in a struggle of life and death. But somehow that doesn't seem enough. The mood is gloomy throughout, accentuated by the faded brown hue and grainy shots. There are not only one, but two claustrophobic deaths you can choke on. What we don't find are the occasional upbeat moments, even in the face of heroic sacrifices. Here, I must digress and mention the excellent made-for-TV docu-drama \"Krakatoa: The last days\" (2006) that I happened to have watched just 7 hours after watching SoJ. Krakatoa is REALLY gloomy, but for a good reason \u0096 it tries to recreate a REAL disaster, possibly among the most devastating known in human history. SoJ however is pure fiction, and the audience has the right to expect more uplifting treatment of the material. The more positive note on this movie comes from the two leads. Tsuyoshi Kusanagi of the top Japanese pop group SMAP plays a likable, gentlemanly role similar to the one he had in Yomagaeri (2002), and more \u0096 with heroic self-sacrificing. Immensely popular Kou Shibasaki (Crying out love in the centre of the world) is distinguished not by her beauty, but by her charm as a character actor. In SoJ, she finds another role that is a perfect match for her screen persona. Some local critics point to the lack of chemistry between the two protagonists and I'll not debate that point. What I find refreshing is the un-Hollywood treatment. On the night when he comes to say goodbye before he seeks refuge in England, his sincerity finally breaks down her inhibitions. Returning his love and promising to join him in England soon, she offers herself to him. After an initial moment of emotional response, he backs off, gently declining her offer, saying that as they will be together in England soon, he can wait. The real reason, however, is that he is not going to England, but a suicide mission \u0096 the last chance to save Japan from sinking. He did not want to take advantage of her. By Hollywood standard, this is unrealistic fairytale. But despite Hollywood, noble sentiments still exist. In the end, the movie is far too long, clocking in at 135 minutes, and poorly paced. Taking away 30 minutes, in my view, should put it in much better light with the audience.",
+         "Nihon Chinbotsu is another example of Japanese creativity and ingenuity. The original story written in the early seventies is truly incredible in terms of thrill and how thought-provoking it was. Very basically, the story is about the Japanese archipelago \"sinking\" into the ocean due to plate tectonics. I'm not an expert on this branch of science, so I can't say how realistic the science behind the disaster is, but it sounded very believable as a layman. There are many elements which make this disaster movie stand out compared to other disaster flicks like Day After Tomorrow, Independence Day, Twister, etc. No matter what devastation there is in the aforementioned movies, the land itself remains to fix. The people can rise out of the rubble, is usually the end of the film. However, Japan sinking means that the Japanese can't do anything to rebuild their homeland. Japanese will have to live somewhere else forever. Which raises many philosophical questions. What happens to a people without a homeland? Are the Japanese going to be worth anything to the other nations when they've lost their factories, cities, cultural artifacts? More specifically, do the Japanese today have any value? Will the Japanese have to simply assimilate into other nations and disappear as a unique civilization? This film is a remake of the 1970s classic which is itself the film adaptation of the novel. There are many changes, one being the obvious CGI which is on par with Hollywood standards (which some may find a prerequisite for a good disaster film). But there are some crucial story edits that some may find for better or worse. I personally found the differences neither better or worse, just another alternate ending. This remake however is a bit faster pace and focuses more on the destruction and relies heavily on the action to keep people excited, which was probably not the intention of Komatsu Sakyo, the author. The questions raised continue to exist in this remake but are not the main focus of the film. In conclusion, this remake is exciting as an action packed disaster flick with great CGI destroying familiar sites (if you're Japanese) as well as a thought-provoking film. What's great about it is that if you want to just watch it as an action flick, you can, if you want to think about the questions raised, you can as well, but you won't be forced to. It's a good balance. I would recommend it.",
+         "Another \"end of the world\" film that begs comparison to the abysmal \"Day After Tomorrow\". Following the same sort of structure as DAT but with a distinctly Japanese style. How does it fare? That depends on your taste for Japanese melodrama. I found that the small human touches to be what makes this film compelling for most of it's 2 + hours. Also the frequent title cards explaining some of the science. The effects are probably the best I've seen in a Japanese film and they compare very well to anything out of Hollywood. Many of the disaster scenes are truly horrifying even though the human carnage is usually off screen. And that is one of the drawbacks. While the terror of thousands of on- screen deaths like in the recent \"War of the Worlds might have too overwhelming, we also don't really get a sense of the chaos of an entire nation crumbling into the ocean. A few scenes touch on the chaos but for the most part this part of the story is barely touched on. Regardless, this film works on a lot of levels and is way more realistic then DAT, that is until the end. Unfortunately the story hinges itself on one clichéd plot device and another plot device that would be at home in the 1960's Japanese Earth in peril film \"Gorath\". After the reasonably good science and mostly realistic take on the disaster, this makes for a bit of disappointment. The sudden stopping of the film for a pop love song doesn't help either (unless you like the song). This made the \"exciting\" ending a bit of a drag for me. The overall direction is good and the art design is excellent. Acting is all good as well. Recommended.",
+         "Nihon Chinbotsu is a science fiction story set in the near future. In this story, geologists discover that all of Japan is being sucked under the ocean by plate tectonics. It covers the ongoing disaster from the perspective of several people directly affected by the events, from ordinary people to scientists, rescue workers, and political leaders. This movie is a remake of a 1973 film of the same title and, in many ways, is a major rewrite. While an excellent premise based loosely upon actual plate tectonics, the elements of social shock which were central to the original film are totally absent from this try, replacing the original message-laden content with Godzilla-style entertainment. If there's any single impression one can get from a side-by-side comparison of the two films, it's just how far special effects have come over the last 30-odd years. Nonetheless, special effects alone cannot make a great film. I gave this a five out of ten rating.",
+         "Earlier this year (March 2011), Japan was hit by one of the biggest and most deadly earthquakes in living memory; this eerily prophetic film from 2006 portrays a similar event in its opening scenes, but takes things several stages further as it progresses, eventually depicting what might happen if the entire country were to be gradually dragged under the ocean as the result of shifting tectonic plates. A big budget remake of the 1973 disaster movie Tidal Wave (based on the novel 'Japan Sinks' by Sakyo Komatsu), Sinking Of Japan unsurprisingly features catastrophic mayhem on a grand scale, all impressively rendered in state-of-the-art CGI. The devastation on display is quite simply jaw-dropping, with entire cities shaken to the ground, massive ships flipped around on turbulent seas like toys in a tub, and volcanoes spewing tons of lava and ash. Sadly, the spectacular destruction of an entire civilisation only makes up a small percentage of the movie's massive 135 minute running time; the rest of the film consists of less than scintillating drama as a selection of characters go through predictable emotional turmoil as they face a very uncertain future (or no future at all!). All of this is pretty uninspired stuff, and matters don't get much better even as a few brave scientists devise a desperate plan to prevent their nation from completely disappearing off the face of the Earth.",
+         "I don't know what Dick steel was talking about, but I found this film to be one of Japan's most thrilling epics to date. As for Armageddon or Deep Impact, or for that matter The day after tomorrow is pale in comparison. For what I know of films, most of the catastrophes in films are basically run of the mill asteroid flicks or one of which of Global Warming. This how ever ran a different course. A course of natural means where the earth's crust is beginning to erode to such a degree, that it will take another piece of land with it for the ride. What the scientific teams had to do was create a way to stop the erosion from going to far and Sinking Japan altogether. In most cases this would simply be called tectonic shifting on steroids. I found the characters rather appealing in every way, from the child who lost her mother only to face her own demise among unfamiliar friends. Or the rescue girl who does all the she can to save lives in the face of disaster. Or a man who thought he could change her mind not to be such a dare devil and go with him to safety, only to become the hero himself and save his homeland. And let's not forget, how the rest of the world just shucked them all back only to be forgotten, by having the world turning their backs on the Japanese citizens who cried for help. This was a great movie in all aspects. What Dick is trying to say is that this movie was not Hollywood made, that it was made in Japan, that it had characters which rival other actors around the world, that the effects are very gorgeous as he mentioned but it's all he was waiting for, and nothing else. He lacks the vision of what's important to everyone, and why this film had every element of feeling, of grandeur, and of humanity. I thought this film was top rate, and I have seen many disaster films to know that Japan Sinks was possibly one of the most original and well thought out projects I have witnessed. I really hope Shinji Higuchi will make another of such films. Oh and by the way, I am not Japanese, though in many ways I wish I was. I am Canadian, born and raised. And an avid movie buff in all aspects. Predjudicial visions are bitter and not worth the effort to be recognized as an opinion. Dick you should watch it with a more open heart and mind, don't just look for the eye candy which makes a films content, look for what's more important, and understand it. They may not be American, but the Japanese have cornered the market lately for some of the most breath taking and down right gritty film making to date. Which is why spending 25,000,000 is just what the Doctor ordered. You heard right, 25,000,000 to make this film. Now you tell me, was it worth it? or was it worth it because American actors weren't in it?",
+         "Epic disaster movie, but totally different from Hollywood-Stuff (may be a budget thing, too). It's more about personal drama and the Big Picture than all-out Smashing Mayhem and people running around, screaming and dying. The actual Sinking of Japan takes place in a few short destruction-sequences throughout the movie and they are superbly executed (for Japanese standards), in between it's all about Love, Hope, and Sorrow in lofty dialog. Kou Shibasaki and her good looks remain the best thing about this movie. One perfect Farewell-Scene is being spoiled by stupid R'nB-Music, the ending had me crying with affection, though, I suck.",
+         "I have seen films come and go in my years,and when i see a disaster film i keep hoping i wont be disappointed.And with this one i was not in the least.The story of a whole country sinking into the ocean was a great concept written by sakyo komatsu,a novelist with intense theories on where this earth is going.The characters were top notch,and even though i am not Japanese,i didn't need a translator to give the idea of how people in their most desperate needs can come together for the common good.The special effects blew me away,i was literally on the edge of my seat watching the tidal waves lava flows and land explosions that must have taken months of work to perfect.As for the acting i thought yes,this is acting at its best,emotions run rampant throughout the film and i cried at the most severe scenes.For movie goers alike,you don't need to speak or understand Japanese to watch this film,you can get the idea and feeling from each person and character to understand it well and to follow it along like you are there.My hats off to Shinji Higuchi for directing it,i hope he can outdo his work with another mind blowing experience.As i said,....Fantastic Film.",
+         "May be spoilers so do not read if you do not want to Just like watching the TV news , everything is already happened, a great tsunami looms over a city bay and CUT , no more to see, Tokay suffers a large earthquake , did anyone see more than the 5 seconds I saw? If you want to make a love story , make a love story but if you want to use a disaster movie title , do please be kind enough to show me THE DISASTER , pd after watching this movie watch JISHIN RETTO or any GODZILLA film to satisfy the part that was willing to see people screaming and buildings collapsing that did not get a chance to do in this movie. Don t take me wrong I love disaster movies and I love the original Nihon chimbotsu and Jishin retto, I even like the latest Poseidon , not to much of a story there but a very good and graphic disaster sequence , New Nihon chimbotsu looses the point as many times as pearl harbour or the day after tomorrow but at least this two movies do show good disaster sequences, and also enough with the expensive FX that did not show anything , give me fake buildings if you like as long as you do destroy them properly , I know I must sound like a sadistic freak, however I did go to see Love actually when I felt like going to see a romantic film , grrrrrrr even kimpachi sensei makes me cry and this movie didn:t . there is also a TV series called napping chimbotsu made in 1975, I have on DVD and it is much better",
+         "This disaster flick is a remake of a 1973 movie of the same title, based on a novel by Sakyo Komatsu. Japan is located right alongside the Pacific Ring of Fire (active volcanoes) and also along the edges of plate tectonics, whose shifting will cause earthquakes and tsunamis (a Japanese term in itself for tidal wave). Naturally, this makes a natural premise for a disaster picture, what with Hollywood having a field day with films like Armageddon, Deep Impact, and more recently, The Day After Tomorrow, which tackles how global warming becomes the catalyst for natural disasters gone bonkers around the world. But I'll have to say this: The Sinking of Japan makes all the films mentioned earlier, look like classics. This disaster movie IS a disaster, and a massive one at that. Having to look at my watch every 10-15 minutes is a signal that the movie doesn't engage, and feels than it had over-clocked its runtime. The special effects are gorgeous to look at. From satellite styled outer space pictures, to the vivid recreation of every conceivable natural disaster that can strike the land of the rising sun, the effects are the star of the show. However, having spectacular computer generated graphics does not in itself make a movie palatable, as too much of a good thing just plain bores. If you had seen the trailer where you're enticed by the effects and specific scenes of chaos and mayhem, then yes, in fact those scenes are just that. There are no details, and everything is seen from afar, in a God-like mode. Things happen just like that on screen, with nary an attempt to try and delve deeper to look at issues up close. It's akin to Godzilla knocking over buildings, and it's as if there are no humans or loss of lives through that single act. Morbid as it might sound, show us the victims! A populous nation like Japan doesn't just suffer disaster after disaster with an extremely low fatality count, not when the filmmakers unleash mayhem in such an epic scale. Trying to weave a romance into the movie, it stood out like a sore thumb. There are many characters in the movie, but each one of them lacking real characteristics, or humanity, and look like wandering zombies, without expression, without emotion, and definitely very stiff and unconvincing. Heroes become stuck in generic control rooms issuing statements, instructions and form policies, and react to incidents like it was a computer game, all settled with a push of a button. These are characters that you don't give a hoot about. If I may just use The Day After Tomorrow as a comparison, while there are terrific effects, there is at least an attempt to provide a microscopic view of the entire disaster from different individual's point of views. And infused within are plenty of action sequences, big ones like the disasters themselves, and small ones with the focus on the triumph of the human spirit, that makes it relatively compelling. Unfortunately for The Sinking of Japan, this movie should preferably be one to sink and tank, and hopefully undergo a short and quick death at the local box office to make way for better stuff.",
+         "This film has some nice special effects, tearing apart the Japanese archipelago to a degree that would humble Godzilla. The two leads also put in above-par performances. Apart from that, it is all a bit ropey in this understated disaster flick. The incongruities in the pacing are bizarre. At one point we have Hokkaido sinking into the sea and pyroclastic snow falling on the rest of Japan, while Osaka is buried under an immense tsunami. Yet elsewhere in the country, people are still strolling around sightseeing and licking ice-cream when another tsunami rolls in... Kusanagi also manages to travel great distances without any hindrance, or even a crease in his cream shirt. Other people turn up with burns, ripped clothes and mud-streaks on their faces. The Japaneseness of the film is both touching and repugnant. Kusanagi's sacrifice in his final evening with Shibasaki is a touch of chivalry seldom seen in this genre these days. However, the ill-fated PMs musings on the Japanese psyche and the seduction of death, and the fact that Japan is abandoned by everyone and has no friends in the last instance, hint at a darker paranoia that infects Japanese concerns regarding their status in the world. Sadly, the final sequence is a rip-off of Armaggedon, edited with a cookie-cutter. Finally, my own particular bug-bear - the heavy handed product placement for cigarettes. This time around, it is mad(-or-is-he?) scientist Toyokawa who gets to be the poster boy for Japan Tobacco. At one point, he manages to light up 5000 meters below the ocean surface, in a miniature sub the size of a phone box. Gimme a break.",
+         "As a disaster film this movie has all of the underpinning requirements (good acting, technical know-how etc) but the face it presents to the viewer is bland in the extreme, and would...not...just...shut...up! I am not going to hark on about art, the soul, humanity, love etc. Like most people I watch disaster films to see death and mayhem close up and personal. I do not watch them to be touched by humanity and feel humble. I do not watch them to listen to endless relationship exposition interspersed with the odd high-level disaster scene. Unfortunately this is what the film provided. That plus awful pop songs with lyrics such as \"Melodies bathed in your reflection...\". The acting was good. The technical aspects were good. However the film was boring. I was thankful when it ended. I am ashamed to admit that, despite the awful acting and story, I enjoyed the terrible 2012 more, as at least it flung disaster after disaster at the viewer. I also found that it had a faint sense of ingratitude to other countries, and rather hypocritical in that some of the characters discussed various countries abandoning Japan and not taking Japanese refugees, when in the real world Japan is one of those countries that refuses to accept refugees! It would have been interesting if that had been discussed as a point of irony. I think the Day After Tomorrow did that vis-a-vis Mexico. I like Japanese films. However the Japanese are quite capable of making unengaging films. Such as this one.",
+         "A moving and quite different disaster movie. It gives us sadness, stoicism, everyday solidarity and love of place where an American film would serve up a roller coaster of forgettable adrenalin-sodden individual heroics. The science is credible, the special effects (at least on my grainy streamed version) convincing and believable, and the reactions of the Japanese people are portrayed with a realism rare in a disaster movie. There's one moment where a trite pop song sabotages a touching farewell, which in itself is an eminently Japanese touch, and the last minute or so strain credulity. But other than that it's emotionally consistent and quietly powerful. As a film, 7/10 - it's no Citizen Kane. As a disaster film, 11/10: it injects a rare degree of intelligence and nobility into a pretty debased genre.",
+         "As a long-time fan of disaster movies, I have to check out everything I can get my hands on, from the big budget Hollywood blockbusters to the cheapest kind of B-movies you find showing on the SyFy Channel. In the past decade, the Asian markets have been trying their hand at homegrown disasters, with the likes of the Chinese AFTERSHOCK and the Korean TIDAL WAVE proving that the East knows how to handle mayhem and chaos on a big scale just as well as us in the West. THE SINKING OF JAPAN, as the title would suggest, is a Nipponese take on a truly catastrophic disaster. The film explores the impact of the country literally sinking into the ocean due to its precarious position on the edge of a tectonic plate, the so-called ring of fire that sees a distinctly high prevalence of natural disasters even at the best of times. Of course, a handful of scientists have a plan to stop it happening, but they have to fight with stubborn officials and national panic at the same time. Despite its Eastern flavour, THE SINKING OF JAPAN is a very familiar sort of film for those brought up on Hollywood equivalents. Sadly, it's also way too long, which seems to be a common concern with disaster flicks these days. I prefer my disaster movies to focus on the individual, showing them battling against nature's fury in a bid for survival; this is one of those films about dedicated scientists with a little bit of disaster thrown in for good measure. The disaster scenes themselves are very well achieved, and dotted throughout the movie, but they're also brief and almost glossed over in places. Instead, we're in for plentiful emoting, lots of long and drawn-out dialogues and arguments, and even a cheesy romance complete with a love song playing over the visual imagery. It's pretty cheesy, downright laughable in places, and not really very entertaining. I want to watch a disaster film; give me the disaster, you know?",
+         "What's plausible about this disaster movie is the science behind the reasons for it, with detailed \u2013 but quick \u2013 graphs and text/dialog that more or less make it seem all too probable. So, hats off to the author of the book and the researchers who put it all together in an understandable fashion. What are also realistic are the attitudes by governments of some countries to Japan's plight as the situation worsens into a projected total catastrophe i.e. the probable complete sinking of the Japanese islands. Some countries are helpful; others prefer to do nothing. All too real, in my opinion. What's not so plausible, though, is, first, the speed with which the scientist's manage to achieve their goals to save Japan; second, the degree of effort by rescue teams to dig out survivors, knowing that only more of the same is very soon inevitable; and finally, the actual process used to retrieve a special explosive device designed to help stop the sinking process. This last one is just pure fantasy, as you will see (that is, if you see this). The production is okay, the CGI is adequate but not extraordinary, in my opinion; but the action drags because there is too much about personal stories that detract from the ongoing disaster. When you produce a monumental disaster movie, by golly you better make the action monumental. This one fails in that regard. The acting is okay, the sub-titles are quite readable and the street mise-en-scene is suitably dramatic and destructive when the earthquakes/volcanoes/tsunamis arrive. Sadly, one is reminded of the destruction at the Fukushima nuclear site in March/April, 2011. On that point, it is noteworthy that, in this film, there is no mention of shutting down reactors prior to the disaster \u2013 an oversight the producers must now regret, for sure. As a curiosity, it's worth seeing this flick. Give it a four out of ten. June 24, 2012.",
+         "Promoted as an 'epic blockbuster', I was under no illusions that this was a film that was likely to be something in the mould of a typical US disaster movie, rather than a serious attempt at in depth story telling and character development. However, much like a Roland Emerich film, any attempt to suspend the audiences belief is abandoned in favour of a too unlikely scenario, occasional cheap thrills and shallow, paper thin characterisations and cliché. All of which I could have coped with if the film were at least vaguely entertaining. Like Armageddon, 2012 and The Day After Tomorrow the film takes a huge pinch of salt and throws it at a premise that has some potential basis in fact; in this case, the precarious location of Japan along the Pacific ring of fire, and the likelihood of apocalyptic disaster; (the like of which we have seen in all to great a reality in recent months). It adds an uninspiring dash of flat; clichéd characters; (you know the ones; male and female protagonists who are divorced but forced to reconcile; cute little orphan girl (Awww); chain smoking, maverick scientist and a bunch of old, stubborn politicians)and shoves in the S L O W cooker until every molecule of freshness, vitality and energy has been vaporised; along with your patience, attention span and desire to keep watching. Before I knew what a disaster this disaster movie would turn out to be, I had prepared for a schlock movie that might numb the brain but would at least delight my senses with elaborate special effects and multiple scenes of mayhem and destruction.... I settled down to watch and within the first few minutes decided that I might end up with just the numb brain. How right I was. A veritable movie by numbers, it became clear that this was an Asain movie that would abandon the usually carefully constructed plot lines and interesting, 3 dimensional characters that usually inhabit the world of Japanese Cinema, rather it would aim to emulate American cinema in practically every way possible. After a rambling introduction that serves as a geology lesson for infants, we are 'told' that a series of events are underway that would ultimately lead to the entire Japanese archipelago sinking within 40 years... within the next hour or so however these events begin to unravel with unbelievable speed; erupting volcanoes, tidal waves and earthquakes soon begin to plague the good citizens of Japan, with an over used satellite POV showing us the scale of the disaster. And so the movie continues, peppered with some extraneous and totally predictable romantic fluff with the male and female 'leads', and the chain smoking maverick scientist coming up with a plan to save the rapidly ailing country. All these scenes are nothing more than long episodes of pointless exposition, the scriptwriters and director using their actors to explain each and every event to the audience... because apparently, we are too stupid to work it out for ourselves; (I could have watched the movie without subtitles and told you exactly what was happening). All this is very, very boring and only sparsely interspersed with some pretty impressive set pieces, which at least have the benefit of being more believable than the rest of what is happening. Sadly, the special effects sequences are far too few and far between, and serve only to jolt you from the frequent bouts of approaching slumber that you will doubtless succumb to as the film plods on with a pacing akin to a snail race. Unfortunately, whilst worthy, these effects cannot do anything to save the film, which crumbles pathetically with each erupting volcano and rumbling earthquake. The ending; when it eventually comes, is woefully inevitable from very early on in the script, rendering the 'plot' (such as it is) redundant for much of the film. With dull characters, predictable and unoriginal script, and a running time of 135 minutes you'll be wishing that the place had sunk in the first 5 minutes of inserting your DVD.",
+         "I've never watched a file in a language I don't understand just because I wanted to see the movie and I couldn't find it with English subs. I don't know how much I missed but it wasn't much. Probably just specific details which sounds silly until you see the emotional level of this movie and how the characters interact together. I want to mention to The Diceman from Germany there's no reason to feel that he 'sucks' when it comes to commenting on the emotional strength of the film. Like I said, I don't understand Japanese -or at least only the very small amount I came away with from reading the very lengthy novel -pro- bably my favorite all time book which I could not put down & took the next day off from work just to finish reading! I don't know if there's an English dubbed or subbed version but if the film but if there is I'd love to see it. The film was incredible in Japanese anything better is icing of the cake!! Slainte', Maegi",
+         "First off, this is the worst movie I've ever seen. That may make you want to see it, but it is not bad in a good way. It's boring, implausible, poorly shot, ridiculously scripted, and lacking in cool disaster effects. Worse, it is intensely patriotic without a trace of irony or fun, wallowing in a sense of Japanese uniqueness and victimhood. Everyone abandons the Japanese in their hour of need. Particularly the Koreans. The most noble characters choose seppaku -- going down with their ship as their beloved island sinks. \"Only Japanese would think this way,\" says the prime minister. If this movie in any way reflects the Japanese opinion of their place in world opinion, the first thing they should do to rectify the problem is stop making movies like this.",
+         "I have just finished watching this movie, and for me.... it takes ages to finish because it is so boring.....and the storyline is extremely bad. now... where should i start....O.... the movie is called \"sinking of japan\" ....yeah yeah... it does show that japan is actually sinking but the action part is very bad. Compare to the movie \"the day after tomorrow\" i would have rate it at least 8/10. The \"sinking of Japan\" does not show much about the disaster that actually happening right in front of our eyes. there isn't much excitement at all...boring... all i can say... one more point... i would recommend this movie to have a better title... maybe something like \"the romance of sinking of japan\" because this movie does have lots of talkings (waste of time... talk nonsense) & the love story is extremely boring & have been dragging too long...honestly.. i almost get frustrated. Overall... this movie does not show enough details of the disasters e.g. many people running like hell to avoid death..love story part was extremely not touching enough for me. but hey... there is one thing we should appreciate about this movie though.... & its has got good songs!",
+         "This review contains MILD SPOILERS, but not enough to spoil the story... Watched Nihon Chinbotsu (Sinking of Japan or Japan Sinks, depending on where you live) recently, a remake of the 1970's movie of the same name, which itself was based on Sakyo Komatsu's best-selling novel. This movie is a gem of Japanese film-making. It appears that Japan is sinking due to a subduction of a tectonic plate to the west. The Americans predict that it would happen in the period of 40 years, but according to Dr.Tadokoro (a seemingly 'mad' scientist), it will happen in less than a year. The Japanese government isn't that convinced but sets up a Disaster evacuation plan as well as form a new D1 team to handle the crisis. While on a trip to China to negotiate evacuation plans, the Japanese Prime Minister was killed, and sends the cabinet into a state of panic. The D1 team is left to handle most matters, and led by the newly elected Minister of Crisis Management, Saoro Takamori (Dr.Tadokoro's ex-wife). She turns instead to Dr.Tadokoro for advice, and he has plans to blow astronomically HUGE holes under Japan to avert the process of sinking. Japan would soon have to negotiate with various countries and persuade them to adopt Japanese refugees. Soon, it seems that a lot of countries are reluctant to accept any more due to the sudden influx of Japanese in their country and the chaos that follows (if this ever happens, touch-wood, I hope Ito Misaki will be safe... she can always stay at my place... hee hee). The scenes of evacuations are really well done, showing the havoc, suffering and desperation civilians have to face in such disastrous times. And the many faces of human beings surface, arrogance, selfishness, bribery, bravery, cowardry... This is a really well-made film. the storytelling is solid, with an engaging storyline and wonderful acting. Dr.Tadokoro (played by Toyokawa Etsushi) was done really well, portraying a divorced and often mad scientist who kicks and bashes up stuff. His frustration and concerns were very visible and that's a really good thing. Reiko (played by gorgeous Shibasaki Kou) was also played rather well, and has the most memorable line in the entire movie (go watch it to find out) and I fancy that she has a nice acting voice. She plays the love interest of Toshio Onodera (played by Tsuyoshi Kusanagi of SMAP). Oh, I almost forgot... she has really, really long hair~ And there's also a subtle but background love story, which is well written and if there's something the Japanese do really well, it's love stories... One thing that makes this movie interesting is the technical explanations of the events that occur, and if you're interested in geography, you'll have a really good time (I know I did... hehe). I can see that they went to great lengths to make this movie's theory believable, and the first few graphical displays and explanation were done rather well (although you'll have to excuse the Japanese's famous \"Engrish\". OK, now about the effects (it's all about the effects, isn't it?). After watching the movie with pure awe, I must say that this movie has special effects that are on par (or even better) with some Hollywood productions. The volcanic eruptions... the massive earthquakes... destruction... tsunamis... explosions... all done splendidly. The opening scene is so cool, the 1st earthquake catches you by surprise, mountains fall, the destruction due to volcanic eruptions makes you cringe... to actually watch Mount Fuji heat up is a marvel... then you see Shibuya fall to the ground... it's so sad!!! However, what I felt was one of the best scenes was the giant tsunami scene, which sees rescue operations fail and people left with nowhere to run and no hope to hold on to... the ending scene also deserves a mention... wonderful stuff. If you like effects, you'll love this movie. Oh ya... every good movie has a great song behind it. The seriously addictive \"Keep Holding U\" sung by the super-cute and adorable SunMin is a duet with Kubota, and it's simply lovely. I feel it suits the movie really well and it shows that no matter what disasters hit us, our love and strength would keep us holding on. The disaster scenes are handled with orchestra music and at times silence (a Japanese specialty) and really gives a sense of chaos to the destruction on screen. Oh, and did I mention it's a really, really, really WIDE screen? Okla, been going on and on about this movie. Yeah, I LOVED it, and hoping to watch again... It does have plot holes, but it's all excusable because it was just a wonderful popcorn movie. Not perfect, but really well-made. I'd give it a 9 out of 10. I'm glad to say that the most expensive movie in Japanese history is also one of their best. If you haven't watched it, you really should today... it is a MUST WATCH!",
+         "Due to rather dubious plate tectonics, Japan starts to slip under the sea. Initial predictions say it'll take about 40 years before the country is submerged, but a rogue scientist adds in some even more dubious science and determines it will actually take less than 1 year! The government think he's a crackpot, but evidence soon starts bearing his theory out. This big budget disaster movie follows the formula set by any number of Hollywood films of the late 90's (I assume, having seen none of them), with the scale of disaster and tragedy bringing out the nobility of the human (well, Japanese) spirit in acts of heroism and sacrifice, and proving the power of love or something like that. i.e. it's as naive in its psychology as it's geology... we all know that half the populace would be out raping and looting the minute they thought the police had their back turned, and the other half would just panic and be useless. The film does have some very nice special effects, but is not as slick or expensive looking as an equivalent Hollywood production would be. It is at least as nationalistic, humourless and lacking in self-awareness as that Hollywood film would be though, and probably has even worse acting. It does have the hot evil chick from Battle Royale as one of the leads... but she's not even slightly evil, and is therefore much less hot. The film is much too long at 132 minutes, and gets worse and worse as it progresses towards a conclusion that had me in danger of puking. I certainly didn't care in the slightest whether Japan sank or not by the half way point, and well before the end I was trying to think of ways to expedite the process should I ever find myself in that situation for real. But, it does have nice special effects, and Kou Shibasaki is still pretty hot, so I magnanimously give it... 3/10.",
+         "excerpt, more at my location - Based on a 1973 novel by Japanese sci-fi writer Komatsu Sakyo, Sinking Of Japan appears strangely timely - the apocalyptic action movie, in which seismic shifts threaten to sink the archipelago of Japan, saw its UK release while an earthquake hit off the coast of the Maule region of Chile, triggering a series of tsunamis. The warning message at the beginning of the film (\"One day soon. Maybe tomorrow\") suddenly rang true. Sinking Of Japan tries hard but ultimately fails to deliver. Higuchi manages to complicate and confuse what could be a relatively simple plot, and in doing so fails to make an innovative or challenging contribution to this well worn genre."
+      ],
+      "genres": [
+         "Adventure",
+         "Drama",
+         "Sci-Fi",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Dentsu",
+         "J Dream",
+         "Mainichi Broadcasting System (MBS)"
+      ],
+      "summaries": [
+         "In the aftermath of a major earthquake under Suraga Bay, Misaki (a young girl) and Toshiro (a pilot of a deep sea submarine) are rescued from a ruined city street just as leaking gasoline ignites. Reiko Abe arrives just in time, lowered from a helicopter. Scientists predict that Japan will sink within 40 years, due to subduction of a tectonic plate to the west. However, Dr. Tadokoro, who leads an oceanic scientific team that includes Toshiro, calculates that this will happen far sooner, in only 338.54 days. He presents his findings to Prime Minister Yamamoto who decides to create a new department for impending disaster relief assigning Saoro Takamori to cover the new duties, since of all his ministers she will take it seriously but also bring \"heart\" to the process. As further earthquakes, tsunamis, and volcanic eruptions devastate Japan, the government pleads with other countries to take refugees. Yamamoto flies to China to negotiate relocations there, but his plane is destroyed by a volcanic eruption. Saoro fills the resulting vacuum in leadership and decides that Dr. Tadokoro's plan to blow holes in the disintegrating tectonic tectonic plate is the best remaining hope to not only save the people, but what remains of the country itself. Ironically it was her career that hastened their divorce 20 years earlier. Misaki becomes orphaned following her mother's death from earthquake injuries, and bonds with Reiko who was similarly rescued from, but orphaned by the Kobe quake. Toshiro is offered a job in England and wants Reiko and Misaki to come with him, but Reiko feels bound to help others and refuses to leave. Fellow submarine pilot Shinji Yuki also turns down Toshiro's offer to work with him in England. Drillships place massive explosives deep in the crust, but the detonator is not placed properly and Yuki dies attempting to place it by submarine.",
+         "Japan will sink down to the deep sea. The governments only hope is evacuate all Japanese to some other countries."
+      ],
+      "budget": 0
+   },
+   "movielensId": 165871,
+   "movielens": {
+      "languages": ["日本語"],
+      "releaseDate": "2006-07-15",
+      "dvdReleaseDate": null,
+      "directors": ["Shinji Higuchi"],
+      "runtime": 135,
+      "movieId": 165871,
+      "title": "Japan Sinks",
+      "mpaa": null,
+      "actors": [
+         "Tsuyoshi Kusanagi",
+         "Etsushi Toyokawa",
+         "Mao Daichi",
+         "Kou Shibasaki",
+         "Mitsuhiro Oikawa",
+         "Mayuko Fukuda",
+         "Hideko Yoshida",
+         "Akira Emoto",
+         "Jun Kunimura",
+         "Kôji Ishizaka",
+         "Ken'ichi Endô",
+         "Takeshi Katô",
+         "Hideaki Anno",
+         "Moyoco Anno",
+         "Harutoshi Fukui",
+         "Narushi Ikeda",
+         "Tae Kimura",
+         "Kazuo Kitamura",
+         "Kanji Tsuda",
+         "Ai Maeda",
+         "Takashi Matsuo",
+         "Seminosuke Murasugi",
+         "Naomasa Musaka",
+         "Aiko Nagayama",
+         "Shirô Namiki",
+         "Koji Okura",
+         "Eriko Satô",
+         "Pierre Taki",
+         "Toru Tezuka",
+         "Yoshiyuki Tomino",
+         "Emi Wada",
+         "Kenichi Yajima",
+         "Tatsuo Yamada",
+         "Hiroshi Ôguchi",
+         "Taro Ishida"
+      ],
+      "imdbMovieId": "0473064",
+      "originalTitle": "日本沈没",
+      "genres": [
+         "Drama",
+         "Thriller",
+         "Adventure",
+         "Science Fiction"
+      ],
+      "youtubeTrailerIds": ["cjTw9qaiE5w"],
+      "plotSummary": "Japan sinks! Proving once again that Japan will never cease to find inventive ways to destroy itself on screen, this summer's blockbuster Sinking of Japan brings apocalypse through tectonics. Based on Sakyo Komatsu's best-selling novel, Sinking of Japan was first put on the big screen in Moritani Shiro's 1973 classic. In 2006, director Higuchi Shinji remakes the disaster movie, taking the story to",
+      "tmdbMovieId": 16766,
+      "avgRating": 2.5,
+      "releaseYear": "2006",
+      "numRatings": 1,
+      "posterPath": "/ujDLJbk5v42bVYRV7CgO4nWZKJt.jpg"
+   }
+}

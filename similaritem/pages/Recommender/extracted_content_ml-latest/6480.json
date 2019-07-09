@@ -1,0 +1,607 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "hotel",
+            "id": 612
+         },
+         {
+            "name": "love",
+            "id": 9673
+         },
+         {
+            "name": "pursuit",
+            "id": 15290
+         },
+         {
+            "name": "flapper",
+            "id": 164641
+         },
+         {
+            "name": "jazz age",
+            "id": 165676
+         },
+         {
+            "name": "stenographer",
+            "id": 191786
+         },
+         {
+            "name": "1920s",
+            "id": 207876
+         }
+      ],
+      "imdb_id": "tt0062362",
+      "video": false,
+      "title": "Thoroughly Modern Millie",
+      "recommendations": [
+         15266,
+         46007,
+         39282,
+         11424,
+         4292,
+         31937,
+         66775,
+         82530,
+         15310,
+         18978,
+         47555,
+         44747,
+         38539,
+         32032,
+         38222
+      ],
+      "backdrop_path": "/jGDPdafQQX9iIWzA8U53XgKK0C6.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Millie Dillmount",
+               "gender": 1,
+               "credit_id": "52fe44d39251416c9101e317",
+               "name": "Julie Andrews",
+               "profile_path": "/yQ0J92DMiLtQYoytLJ6CuBkdeN0.jpg",
+               "id": 5823,
+               "order": 0
+            },
+            {
+               "cast_id": 4,
+               "character": "Jimmy Smith",
+               "gender": 2,
+               "credit_id": "52fe44d49251416c9101e323",
+               "name": "James Fox",
+               "profile_path": "/27vddrOyr0jnT2pi17cFoKPro4A.jpg",
+               "id": 1292,
+               "order": 1
+            },
+            {
+               "cast_id": 2,
+               "character": "Miss Dorothy Brown",
+               "gender": 1,
+               "credit_id": "52fe44d49251416c9101e31b",
+               "name": "Mary Tyler Moore",
+               "profile_path": "/xUPqdaH5E8FsXIwuT4vccz7l6Xl.jpg",
+               "id": 21277,
+               "order": 2
+            },
+            {
+               "cast_id": 3,
+               "character": "Muzzy Van Hossmere",
+               "gender": 1,
+               "credit_id": "52fe44d49251416c9101e31f",
+               "name": "Carol Channing",
+               "profile_path": "/mvz4peZ8QBEWnZIdv4KX4wZh0VC.jpg",
+               "id": 97832,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Trevor Graydon",
+               "gender": 2,
+               "credit_id": "52fe44d49251416c9101e327",
+               "name": "John Gavin",
+               "profile_path": "/mMpkW6q6KVyzsRAkc2AObFQ5lEx.jpg",
+               "id": 7304,
+               "order": 4
+            },
+            {
+               "cast_id": 8,
+               "character": "Oriental #1",
+               "gender": 0,
+               "credit_id": "55099714c3a3682b4e0039d4",
+               "name": "Jack Soo",
+               "profile_path": "/22rYGESZTvuXlCReTS8gVs85r1O.jpg",
+               "id": 87067,
+               "order": 5
+            },
+            {
+               "cast_id": 9,
+               "character": "Oriental #2",
+               "gender": 2,
+               "credit_id": "55099720c3a3682b40003756",
+               "name": "Pat Morita",
+               "profile_path": "/eMLWaQ2uQIpiyVeaU7xl0ozs2B7.jpg",
+               "id": 23915,
+               "order": 6
+            },
+            {
+               "cast_id": 10,
+               "character": "Tea",
+               "gender": 2,
+               "credit_id": "5509972dc3a3682b4e0039eb",
+               "name": "Philip Ahn",
+               "profile_path": "/pVJZ47pTD15MntJUlFe458Mcuhc.jpg",
+               "id": 95014,
+               "order": 7
+            },
+            {
+               "cast_id": 11,
+               "character": "Juarez",
+               "gender": 0,
+               "credit_id": "5509973ac3a3682b40003759",
+               "name": "Anthony Dexter",
+               "profile_path": "/88fGi7dghZ7afjdJrqtirFpDOqi.jpg",
+               "id": 98828,
+               "order": 8
+            },
+            {
+               "cast_id": 12,
+               "character": "Mrs. Meers",
+               "gender": 1,
+               "credit_id": "58954446c3a36808a5004776",
+               "name": "Beatrice Lillie",
+               "profile_path": "/pYquDmzlHozZ0HpZT4heb7FkJUw.jpg",
+               "id": 1221907,
+               "order": 9
+            },
+            {
+               "cast_id": 13,
+               "character": "Miss Flannery",
+               "gender": 0,
+               "credit_id": "5895446a925141294a0010e2",
+               "name": "Cavada Humphrey",
+               "profile_path": null,
+               "id": 1750077,
+               "order": 10
+            },
+            {
+               "cast_id": 14,
+               "character": "Cabbie",
+               "gender": 2,
+               "credit_id": "5895447d9251412e0d004aa3",
+               "name": "Herbie Faye",
+               "profile_path": "/mZ6cKi9WjwdD3KpY7n5gQQ3iwTq.jpg",
+               "id": 153537,
+               "order": 11
+            },
+            {
+               "cast_id": 15,
+               "character": "Second Cabbie",
+               "gender": 2,
+               "credit_id": "5895448f9251412e16004a73",
+               "name": "Robert Foulk",
+               "profile_path": "/pKTK3aa34Xp1J6uQK3bLnAIjPoc.jpg",
+               "id": 2784,
+               "order": 12
+            },
+            {
+               "cast_id": 16,
+               "character": "First Cabbie",
+               "gender": 2,
+               "credit_id": "5895449bc3a36808ab0048b4",
+               "name": "Herbie Faye",
+               "profile_path": "/mZ6cKi9WjwdD3KpY7n5gQQ3iwTq.jpg",
+               "id": 153537,
+               "order": 13
+            },
+            {
+               "cast_id": 17,
+               "character": "Waiter",
+               "gender": 2,
+               "credit_id": "589544af9251412e190047ff",
+               "name": "Benny Rubin",
+               "profile_path": "/iWjnIur6En50YRvC1zkPPGoP5By.jpg",
+               "id": 117029,
+               "order": 14
+            },
+            {
+               "cast_id": 18,
+               "character": "Baron Richter",
+               "gender": 2,
+               "credit_id": "589544da92514129c8000fbd",
+               "name": "Michael St. Clair",
+               "profile_path": null,
+               "id": 91259,
+               "order": 15
+            },
+            {
+               "cast_id": 19,
+               "character": "Party Guest",
+               "gender": 1,
+               "credit_id": "589544fc9251412e140046bf",
+               "name": "Leoda Richards",
+               "profile_path": "/l7DPTWCEIZFesnkg0c97M8GFSg0.jpg",
+               "id": 1191818,
+               "order": 16
+            },
+            {
+               "cast_id": 20,
+               "character": "Secretary (uncredited)",
+               "gender": 1,
+               "credit_id": "594cd02692514131150219c7",
+               "name": "Mae Clarke",
+               "profile_path": "/9u2HttpMOejKjrF61eOdjE9uw8c.jpg",
+               "id": 29814,
+               "order": 17
+            },
+            {
+               "cast_id": 22,
+               "character": "Judith Tremaine",
+               "gender": 0,
+               "credit_id": "5a4aad4ec3a36805e9019872",
+               "name": "Lisabeth Hush",
+               "profile_path": null,
+               "id": 1685863,
+               "order": 18
+            },
+            {
+               "cast_id": 23,
+               "character": "Singer",
+               "gender": 0,
+               "credit_id": "5a4aad670e0a262db901a51e",
+               "name": "Ann Dee",
+               "profile_path": null,
+               "id": 1800919,
+               "order": 19
+            },
+            {
+               "cast_id": 24,
+               "character": "Secretary",
+               "gender": 1,
+               "credit_id": "5a4aad78c3a368060501823b",
+               "name": "Mae Clarke",
+               "profile_path": "/9u2HttpMOejKjrF61eOdjE9uw8c.jpg",
+               "id": 29814,
+               "order": 20
+            },
+            {
+               "cast_id": 25,
+               "character": "Lovely Blonde Girl",
+               "gender": 0,
+               "credit_id": "5a4aad8c9251415c91018304",
+               "name": "Marianne Gordon",
+               "profile_path": null,
+               "id": 12027,
+               "order": 21
+            },
+            {
+               "cast_id": 26,
+               "character": "Talky Girl",
+               "gender": 1,
+               "credit_id": "5a4aada19251415c95018ccc",
+               "name": "Diane Sayer",
+               "profile_path": "/27wDQNyHF2xt09hkFgzDy4uQqrn.jpg",
+               "id": 165176,
+               "order": 22
+            },
+            {
+               "cast_id": 27,
+               "character": "Ethel Pease",
+               "gender": 0,
+               "credit_id": "5a4aadfdc3a36805cc019a81",
+               "name": "Mary Grover",
+               "profile_path": null,
+               "id": 101407,
+               "order": 23
+            },
+            {
+               "cast_id": 28,
+               "character": "Young Lady",
+               "gender": 0,
+               "credit_id": "5a4aae0c9251415ca1018f90",
+               "name": "Bonnie Evans",
+               "profile_path": null,
+               "id": 1370958,
+               "order": 24
+            },
+            {
+               "cast_id": 36,
+               "character": "Passerby (uncredited)",
+               "gender": 2,
+               "credit_id": "5a9b845ec3a3680b7d02ccdb",
+               "name": "Ed Haskett",
+               "profile_path": null,
+               "id": 1990130,
+               "order": 25
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe44d49251416c9101e32d",
+               "name": "George Roy Hill",
+               "profile_path": "/p2CQkWZo3AXFPQ9gussyEC3BEPh.jpg",
+               "id": 9577,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44d49251416c9101e333",
+               "name": "Richard Morris",
+               "profile_path": null,
+               "id": 43817,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a485c87c3a368191300c0bf",
+               "name": "Ross Hunter",
+               "profile_path": "/6bceImSg6xhZMdimjBIm6rdMjXx.jpg",
+               "id": 41408,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a4aae2f0e0a262dc201b28d",
+               "name": "Elmer Bernstein",
+               "profile_path": "/3H3AqKesJnkwJzWFJY9hyFwci5m.jpg",
+               "id": 7182,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a4aae389251415c98018b9a",
+               "name": "Russell Metty",
+               "profile_path": null,
+               "id": 13809,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a4aae400e0a262dcb0198e1",
+               "name": "Stuart Gilmore",
+               "profile_path": null,
+               "id": 30259,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a4aae4b0e0a262dc50198e2",
+               "name": "Alexander Golitzen",
+               "profile_path": null,
+               "id": 12346,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a4aae54c3a368060501830f",
+               "name": "George C. Webb",
+               "profile_path": null,
+               "id": 1147355,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a4aae69c3a36805cc019aed",
+               "name": "Howard Bristol",
+               "profile_path": null,
+               "id": 10918,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a4aaedec3a36806050183a2",
+               "name": "Jean Louis",
+               "profile_path": "/uJ2hQZlHtrMJpcigGtM6KP7svBz.jpg",
+               "id": 12145,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Music",
+            "id": 10402
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 2.170919,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 32489,
+      "vote_count": 28,
+      "budget": 0,
+      "overview": "Millie Dillmount, a fearless young lady fresh from Salina, Kansas, determined to experience Life, sets out to see the world in the rip-roaring Twenties. With high spirits and wearing one of those new high hemlines, she arrives in New York to test the \"modern\" ideas she had been reading about back in Kansas: \"I've taken the girl out of Kansas. Now I have to take Kansas out of the girl!\"",
+      "similar": [
+         24420,
+         1643,
+         10995,
+         1278,
+         38,
+         88,
+         1574,
+         1903,
+         50546,
+         86331,
+         46705,
+         159824,
+         38050,
+         225886,
+         11931,
+         1259,
+         276,
+         258480,
+         82023,
+         288036
+      ],
+      "original_title": "Thoroughly Modern Millie",
+      "runtime": 138,
+      "poster_path": "/oCBBhQLrvcMWSkeltAFThF9F5Tz.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Français",
+            "iso_639_1": "fr"
+         },
+         {
+            "name": "Deutsch",
+            "iso_639_1": "de"
+         },
+         {
+            "name": "Magyar",
+            "iso_639_1": "hu"
+         },
+         {
+            "name": "Italiano",
+            "iso_639_1": "it"
+         },
+         {
+            "name": "Español",
+            "iso_639_1": "es"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Ross Hunter Productions Inc.",
+            "id": 1830,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "id": 33,
+            "origin_country": "US"
+         }
+      ],
+      "release_date": "1967-03-21",
+      "vote_average": 7.1,
+      "belongs_to_collection": null,
+      "tagline": "Julie as you love her... in the happiest motion picture hit of the year!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["George Roy Hill"],
+      "runtime": 138,
+      "synopsis": null,
+      "writers": ["Richard Morris"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0062362/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTAyMjM1MjA0MTReQTJeQWpwZ15BbWU2MDU4MjI4OQ@@._V1_SX122_AL_.jpg",
+      "actors": ["Stars: Julie Andrews, James Fox, Mary Tyler Moore | See full cast and crew »"],
+      "reviews": [
+         "\"Thoroughly Modern Millie\" is a thoroughly wonderful movie! With stars like Julie Andrews, Carol Channing and Beatrice Lillie, how can you lose?. The answer: You can't! Splendid songs, dances and a sometimes hilarious script blend into top entertainment. Julie Andrews stated she took the role because she didn't have much longer to play ingénue parts. And she couldn't have chosen better. She is perfect as Mllie, the Kansas innocent (with a forgivably British accent) who comes to the Big City (circa 1922) to land a rich husband. At the same time, she meets \"Miss\" Dorothy Brown (an appealing Mary Tyler Moore), a self-described \"rich orphan\" out to experience life among the working girls. A chance meeting with Jimmy Smith (James Fox, currently in \"Charlie and the Chocolate Factory\") leads to a meeting with fabulously wealthy playgirl Muzzy Van Hossmere (Carol Channing) and a series of delightful mishaps. Along the way, Millie becomes enamored of her handsome boss, Trevor Graydon (John Gavin) and learns the REAL occupation of her mysterious landlady, Mrs. Meers (Beatrice Lillie). All of the performers are \"just swell\", but inevitably, Lillie and Channing (who got an Oscar nomination) stand out, and there is a terrific turn by Cavada Humphrey as a formidable office manager. A typically polished Ross Hunter production, original songs by Sammy Cahn And James Van Heusen, and a musical background of standards by Oscar-winner Elmer Bernstein make this \"Thoroughly Irresistible!\"",
+         "Julie Andrews really shines in this twisted-up romance. She stars as the young, pretty Millie Dillmount, who came to New York, intent on becoming a \"modern\" and marrying her boss, as was the 'cool' thing to do. She at last finds the 'perfect' boss, a handsome young man named Trevor Graydon. Despite her attempts to suggest her love to him subtly, he doesn't seem to be taking the hint. Along comes Jimmy, too, an irrepressible, lovable paper-clip salesman, who's got his heart set on Millie. Millie tries to stay away from Jimmy and get Mr. Graydon to notice her, going to drastic measures to do so, and all the time while Millie is chasing Mr. Graydon, Jimmy is chasing Millie, and on top of that, Miss Dorothy, Millie's best friend, appears to be chasing both men. In the end, wild and crazy \"jazz baby\" Muzzy is needed to clear the air and match up lovers once and for all. With an upbeat air and a peppery score, along with Millie's realistic problems and the strange behavior of the housemother, this is definitely a ten on my list.",
+         "A brilliant musical offering well worth watching. Whether you like it or not all depends on taste; If you're like me and could watch and listen to Julie Andrews forever, it's for you. The rest of the cast is also fantastic, with Mary Tyler Moore as sweet Miss Dorothy and Beatrice Lillie as the hilarious Mrs Meers, and how could we forget Carol Channing as the fabulous Muzzy? Many people seem to have negative views on this movie; To others, it's great. If you're looking for deep, meaningful and heavy stuff, this probably isn't the movie for you. If you're looking for light, fluffy fun, come and bask in the glory of \"Thoroughly Modern Millie\"!",
+         "I like this movie because it makes fun of itself. It knows it's silly, irreverant, and totally over the top. That's the point of the movie, and it works. It's completely void of substance-my friend claims to loose brain cells every time she sees it, yet she wants to watch it all the time. It's just plain fun and Julie Andrews (my personal fav) is at her most adorable. Even though in real life she was 31 and the mother of a 4-year-old, she's totally convincing as Millie. It does drag sometimes, but it's still a darling musical that's just full of fun-exactly how it's intended to be.",
+         "If you got to see this film when you were six like I did, you pleasantly discover that viewing it at 33 is still a lot of fun. In many ways it's better- contrary to most films you remember enjoying as a kid. Even though my nostalgic memories of this movie included some mildly scary imagery, when I view it now it still has impact but from a more humorous standpoint. I must also add on a more base level that Julie Andrews level of attractiveness is on par with her considerable talent. An interesting observation particularly since I remember being more attracted to Mary Tyler Moore when I was a kid and barely noticed Julie. The director's intention no doubt. Digressions aside, this movie is an ideal choice for a family movie night. Although it has aspects that are not as culturally sensitive as some may like, these details are not intended to be malicious but are included as contrast devices. Particularly for 1967. Do yourself a favor and rent or purchase the DVD. A widescreen treat that will get your feet tapping. The child and the middle aged man in me must both give this film a 9 out of 10.",
+         "Hard for me to be objective, here, since I've been madly in love with Julie Andrews since being first exposed to her crystalline voice when I was three. But I'll try: \"Millie's\" first half is, to quote the screenplay, \"Delish,\" with Andrews vamping and camping throughout. I am unable to take my eyes off her as she clowns, flirts, cavorts, and also sings and dances (getting her hotel elevator to work results in a showstopper). The vehicle--a pastiche of 1920s conventions (including \"moderns\") and filmgoing techniques (including iris-outs and title cards)--is the frothy light story of a British import who comes to America and finds true love. The second half gets bogged down in the overwrought script, with all the machinations of a white slavery plot and a pair of \"inscrutible\" Orientals who, in this day and age of racial sensitivity, get far worse than they deserve. Some history: Ross Hunter, the producer, wanted to film \"The Boy Friend,\" the Broadway musical that had introduced Andrews to the U.S. stage. When the rights were unavailable, he devised his own script, using the same setting--the 1920s. A \"small\" musical evolved. Then Julie's star went through the stratosphere. And the Universal \"suits,\" smelling another payday, insisted that the movie be a road-show presentation--with a road-show running time(and at which road-show prices could be charged). Little \"Millie\" had an intermission added, and her running time was increased considerably. The movie's still a lot of fun and definitely recommendable (especially to Andrews fans), but let's just say that, at times, it more than shows its stretchmarks!",
+         "A crazy but enjoyable parody of the films and fashion trends during the 1920s, it has everything from jazz music to silent movie title cards, and there is a hilarious kidnapping subplot tied in with the main storyline. It is a bit too silly, and plus 130 minutes is a little too long, with a few of the dance routines drawn out, but this is great entertainment otherwise. The title song, costumes and set design all reflect the era very well, the cinematography is excellent, making everything interesting to look at, and some of the editing work and the sound design are great too. The supporting cast adds a lot of flavour to the mix. Beatrice Lillie comes off the best but Jack Soo, Pat Morita, and just about everyone else are close behind. Maybe it is a bit silly, maybe it is overlong, but it is a delight and a compelling film due to its uniqueness and bizarreness.",
+         "I remember seeing this movie in college, and was impressed with it at the time; I bought the DVD recently and find it is a wonderful presentation; the colors are vibrant again and the music is well preserved and very listenable especially in surround sound....this version includes a musical intro. intermission music and exit music; unfortunately not any extras, other than the original trailer, but all in all a good package for the price....The twenties era is well portrayed, with the many fashions and fads brought into play and interwoven into the plot of the movie. The leads are all very good, with the exception of Mary Tyler Moore, whose acting is not very on key...Carol Channing is exceptional in the comic part of Muzzy, and there is a twist ending that involves her, which I won't give away to anyone who has not seen the movie....again the music and dancing make the movie with old standards such as Baby Face, Poor Butterfly, Do it again, and on and on with a few new ditties thrown in, by Elmer Bernstein and Andre Previn....this movie was nominated for several awards and one one for music...Enjoy!!",
+         "Sad to learn that this was Beatrice Lillie's final movie. But her henchman assistants had better things ahead. Oriental #1 would go on to the 12th Precinct (Jack Soo-Barney Miller) while Oriental #2 would go on to own Arnold's in Milwaukee and help Daniel LaRusso become a karate kid (Pat Morita). One of my favorite running gags of the movie is the elevator where you have to dance to get it going. Julie Andrews, Mary Tyler Moore and Beatrice Lillie had to dance. Even Pat Morita and Jack Soo danced to the tune of \"Japanese Sandman\". The last time I ever heard \"Japanese Sandman\" was the theme to an old local TV farm report show in Houston, Texas (Dewey Compton).",
+         "Overlong, granted, but none-the-less spectacular campy musical that makes the most of the choreography, notably the lift moving scene with Andrews and Moore at the start. Fox and Gavin are adequate but show little interest. Channing seems superfluous. Bea Lillie steals the acting honors."
+      ],
+      "genres": [
+         "Comedy",
+         "Musical"
+      ],
+      "productionCompanies": [
+         "Universal Pictures",
+         "Ross Hunter Productions"
+      ],
+      "summaries": [
+         "In 1922 New York City, Millie Dillmount and Miss Dorothy Brown are just two of the girls living at the Priscilla Hotel for Single Young Ladies run by Mrs. Meers. Orphaned, Miss Dorothy, just recently arrived, is a naive, old-fashioned girl from a seemingly privileged background who has aspirations to be a stage actress. From more modest means, Millie, in New York for three months, used to be old fashioned, but now has a new modern sensibility and look to match, complete with bobbed hair and dresses with hemlines above the knee. Included in this new modern sensibility is Millie's goal of getting a job as a stenographer, with a quick promotion to being her wealthy boss' \"Mrs.\". Love is not to factor into the equation. She believes she's found the right employer in the form of chisel-jawed Trevor Graydon of the Sincere Trust Insurance Company. Millie's pursuit of Mr. Graydon is despite the fact that Mr. Graydon sees her as one of the boys, he has old fashioned sensibilities, and Millie herself has a mutual attraction to another boy named Jimmy Smith. Although she likes Jimmy, Millie feels that Jimmy, as a paper clip salesman with an overwhelming happy-go-lucky attitude, is not driven enough to be husband material. That doesn't stop Jimmy's pursuit of Millie. In her association with Jimmy, Millie meets flamboyant wealthy Renaissance woman Muzzy Van Hossmere. Jimmy's father once worked as Muzzy's gardener. Originally from humble means much like Millie, Muzzy tries to convince Millie that true love will lead to happiness, as that is what happened when she met the now deceased Mr. Van Hossmere who she had no idea was rich. In other goings-on among this new circle of friends, Miss Dorothy leaves New York without a word to anyone except Mrs. Meers. Thinking this situation rather odd, Millie connects Miss Dorothy's leaving with that of other girls previously living at the Priscilla Hotel. With Mr. Graydon's help, Jimmy and Millie try to find out what happened to Miss Dorothy.",
+         "Millie Dillmount, a fearless young lady fresh from Salina, Kansas, determined to experience Life, sets out to see the world in the rip-roaring Twenties. With high spirits and wearing one of those new high hemlines, she arrives in New York to test the \"modern\" ideas she had been reading about back in Kansas: \"I've taken the girl out of Kansas. Now I have to take Kansas out of the girl!\"",
+         "Millie comes to town in the roaring twenties to encounter flappers, sexuality and white slavers."
+      ],
+      "budget": 6000000
+   },
+   "movielensId": 6480,
+   "movielens": {
+      "languages": [
+         "English",
+         "Français",
+         "Deutsch",
+         "Magyar",
+         "Italiano",
+         "Español"
+      ],
+      "releaseDate": "1967-03-21",
+      "dvdReleaseDate": "2003-06-03",
+      "directors": ["George Roy Hill"],
+      "runtime": 138,
+      "movieId": 6480,
+      "title": "Thoroughly Modern Millie",
+      "mpaa": "",
+      "actors": [
+         "Julie Andrews",
+         "James Fox",
+         "Mary Tyler Moore",
+         "Carol Channing",
+         "John Gavin",
+         "Jack Soo",
+         "Pat Morita",
+         "Philip Ahn",
+         "Anthony Dexter",
+         "Beatrice Lillie",
+         "Cavada Humphrey",
+         "Herbie Faye",
+         "Robert Foulk",
+         "Herbie Faye",
+         "Benny Rubin",
+         "Michael St. Clair",
+         "Leoda Richards",
+         "Mae Clarke",
+         "Lisabeth Hush",
+         "Ann Dee",
+         "Mae Clarke",
+         "Marianne Gordon",
+         "Diane Sayer",
+         "Mary Grover",
+         "Bonnie Evans"
+      ],
+      "imdbMovieId": "0062362",
+      "originalTitle": "Thoroughly Modern Millie",
+      "genres": [
+         "Comedy",
+         "Music",
+         "Romance"
+      ],
+      "youtubeTrailerIds": ["jCug0golA6c"],
+      "plotSummary": "Millie Dillmount, a fearless young lady fresh from Salina, Kansas, determined to experience Life, sets out to see the world in the rip-roaring Twenties. With high spirits and wearing one of those new high hemlines, she arrives in New York to test the \"modern\" ideas she had been reading about back in Kansas: \"I've taken the girl out of Kansas. Now I have to take Kansas out of the girl!\"",
+      "tmdbMovieId": 32489,
+      "avgRating": 3.34559,
+      "releaseYear": "1967",
+      "numRatings": 272,
+      "posterPath": "/oCBBhQLrvcMWSkeltAFThF9F5Tz.jpg"
+   }
+}

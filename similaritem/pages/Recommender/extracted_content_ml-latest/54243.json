@@ -1,0 +1,617 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "manager",
+            "id": 554
+         },
+         {
+            "name": "inventor",
+            "id": 1436
+         },
+         {
+            "name": "opera",
+            "id": 2199
+         },
+         {
+            "name": "performance",
+            "id": 6706
+         },
+         {
+            "name": "murder",
+            "id": 9826
+         },
+         {
+            "name": "singer",
+            "id": 10229
+         },
+         {
+            "name": "clinic",
+            "id": 11716
+         },
+         {
+            "name": "wedding",
+            "id": 13027
+         },
+         {
+            "name": "machine",
+            "id": 33618
+         },
+         {
+            "name": "captured",
+            "id": 201774
+         },
+         {
+            "name": "tuner",
+            "id": 202956
+         },
+         {
+            "name": "skills",
+            "id": 202957
+         },
+         {
+            "name": "mechanical",
+            "id": 202958
+         },
+         {
+            "name": "constructs",
+            "id": 202959
+         },
+         {
+            "name": "afterworld",
+            "id": 202967
+         }
+      ],
+      "imdb_id": "tt0342882",
+      "video": false,
+      "title": "The Piano Tuner of Earthquakes",
+      "recommendations": [
+         65456,
+         94653,
+         23990,
+         156231,
+         2777,
+         29515,
+         283536,
+         14173,
+         23434,
+         178522,
+         79392,
+         60261,
+         48161,
+         39840,
+         48775,
+         95043,
+         51866
+      ],
+      "backdrop_path": "/hknaZQoJUNj52k3ikJglA2uNSgf.jpg",
+      "revenue": 27953,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 3,
+               "character": "Malvina van Stille",
+               "gender": 1,
+               "credit_id": "52fe468bc3a36847f8104d3d",
+               "name": "Amira Casar",
+               "profile_path": "/cSKff4J5gT6vMW9EsAwFWwOIHb7.jpg",
+               "id": 20577,
+               "order": 0
+            },
+            {
+               "cast_id": 4,
+               "character": "Dr. Emmanuel Droz",
+               "gender": 2,
+               "credit_id": "52fe468bc3a36847f8104d41",
+               "name": "Gottfried John",
+               "profile_path": "/hOVrTlQwZX4THosi9usXISC7mNS.jpg",
+               "id": 3757,
+               "order": 1
+            },
+            {
+               "cast_id": 5,
+               "character": "Assumpta",
+               "gender": 1,
+               "credit_id": "52fe468bc3a36847f8104d45",
+               "name": "Assumpta Serna",
+               "profile_path": "/9FClxFRNnwcGySxoB8zCPwgbhax.jpg",
+               "id": 42123,
+               "order": 2
+            },
+            {
+               "cast_id": 6,
+               "character": "Adolfo Blin / Don Felisberto Fernandez",
+               "gender": 0,
+               "credit_id": "52fe468bc3a36847f8104d49",
+               "name": "César Sarachu",
+               "profile_path": null,
+               "id": 115932,
+               "order": 3
+            },
+            {
+               "cast_id": 8,
+               "character": "Holz (gardener)",
+               "gender": 0,
+               "credit_id": "537a0eb5c3a368552c005c36",
+               "name": "Ljubisa Gruicic",
+               "profile_path": null,
+               "id": 1321350,
+               "order": 4
+            },
+            {
+               "cast_id": 9,
+               "character": "Marc (gardener)",
+               "gender": 0,
+               "credit_id": "537a0ec5c3a368551e005e2e",
+               "name": "Marc Bischoff",
+               "profile_path": null,
+               "id": 1194754,
+               "order": 5
+            },
+            {
+               "cast_id": 10,
+               "character": "Henning (gardener)",
+               "gender": 2,
+               "credit_id": "537a0ed6c3a368553a005e15",
+               "name": "Henning Peker",
+               "profile_path": "/vAtZTarZEr2q4mkDdaNBsYpsZTA.jpg",
+               "id": 50792,
+               "order": 6
+            },
+            {
+               "cast_id": 11,
+               "character": "Echeverria (gardener)",
+               "gender": 0,
+               "credit_id": "537a0ee6c3a368553a005e17",
+               "name": "Gilles Gavois",
+               "profile_path": null,
+               "id": 233533,
+               "order": 7
+            },
+            {
+               "cast_id": 12,
+               "character": "Volker (gardener)",
+               "gender": 0,
+               "credit_id": "537a0ef6c3a3685531005f09",
+               "name": "Volker Zack",
+               "profile_path": null,
+               "id": 1321352,
+               "order": 8
+            },
+            {
+               "cast_id": 13,
+               "character": "Thomas (gardener)",
+               "gender": 0,
+               "credit_id": "537a0f07c3a368553a005e1b",
+               "name": "Thomas Schmieder",
+               "profile_path": null,
+               "id": 71389,
+               "order": 9
+            },
+            {
+               "cast_id": 14,
+               "character": "Dresser",
+               "gender": 1,
+               "credit_id": "537a0f17c3a368553a005e1d",
+               "name": "Regine Zimmermann",
+               "profile_path": "/sjO67y4TwY0rGRCqW31liIXxh3Z.jpg",
+               "id": 17824,
+               "order": 10
+            },
+            {
+               "cast_id": 15,
+               "character": "Musician",
+               "gender": 2,
+               "credit_id": "537a0f28c3a368551e005e32",
+               "name": "Emil Petrovics",
+               "profile_path": null,
+               "id": 1198065,
+               "order": 11
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe468bc3a36847f8104d33",
+               "name": "Stephen Quay",
+               "profile_path": "/9Z8YMbCDR1xzNwfXdq2IQyUjnHy.jpg",
+               "id": 124237,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe468bc3a36847f8104d39",
+               "name": "Timothy Quay",
+               "profile_path": "/8hGRmypiLEoj4fYGa55kcq01z5s.jpg",
+               "id": 124238,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe468bc3a36847f8104d4f",
+               "name": "Terry Gilliam",
+               "profile_path": "/cFno5isSPvfPEkSdVoEzOs0pJCh.jpg",
+               "id": 280,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "537a0f6ac3a3685542005b06",
+               "name": "Simon Laurie",
+               "profile_path": null,
+               "id": 1321354,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "537a0f84c3a368551e005e38",
+               "name": "Alan Passes",
+               "profile_path": null,
+               "id": 1321355,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "537a0f92c3a368552c005c42",
+               "name": "Stephen Quay",
+               "profile_path": "/9Z8YMbCDR1xzNwfXdq2IQyUjnHy.jpg",
+               "id": 124237,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "537a0fa5c3a368553a005e2e",
+               "name": "Timothy Quay",
+               "profile_path": "/8hGRmypiLEoj4fYGa55kcq01z5s.jpg",
+               "id": 124238,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "577ed1a6c3a368694a00308f",
+               "name": "Björn Eggert",
+               "profile_path": null,
+               "id": 1646881,
+               "department": "Production",
+               "job": "Line Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "577ecfadc3a36868fd002dcd",
+               "name": "Nicholas D. Knowland",
+               "profile_path": null,
+               "id": 47748,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "577ed163c3a36868fd002e7d",
+               "name": "Eric Veenstra",
+               "profile_path": null,
+               "id": 1646878,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "577ed16c925141697600430b",
+               "name": "Nina Aufderheide",
+               "profile_path": null,
+               "id": 1646879,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "577ed174c3a36848950013e5",
+               "name": "Kandis Cook",
+               "profile_path": null,
+               "id": 1646880,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "577ed17bc3a3684977001461",
+               "name": "Stephen Quay",
+               "profile_path": "/9Z8YMbCDR1xzNwfXdq2IQyUjnHy.jpg",
+               "id": 124237,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "577ed181c3a36849e40012bf",
+               "name": "Timothy Quay",
+               "profile_path": "/8hGRmypiLEoj4fYGa55kcq01z5s.jpg",
+               "id": 124238,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "577ed19492514123bb003171",
+               "name": "Christopher Slaski",
+               "profile_path": null,
+               "id": 1321353,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "577ed19f9251416c43001316",
+               "name": "Michael Becker",
+               "profile_path": null,
+               "id": 19748,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "577ed1b2c3a3686a09003121",
+               "name": "Keith Griffiths",
+               "profile_path": null,
+               "id": 229247,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "577ed1b9c3a3684926001681",
+               "name": "Hengameh Panahi",
+               "profile_path": null,
+               "id": 55486,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "577ed1c0925141697600432d",
+               "name": "Alexander Ris",
+               "profile_path": null,
+               "id": 36646,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "577ed1c792514132970056e5",
+               "name": "Jörg Rothe",
+               "profile_path": null,
+               "id": 36645,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "577ed1cfc3a3686a09003129",
+               "name": "Paul Trijbits",
+               "profile_path": null,
+               "id": 55418,
+               "department": "Production",
+               "job": "Executive Producer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Romance",
+            "id": 10749
+         },
+         {
+            "name": "Fantasy",
+            "id": 14
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Music",
+            "id": 10402
+         }
+      ],
+      "popularity": 1.271624,
+      "production_countries": [
+         {
+            "iso_3166_1": "FR",
+            "name": "France"
+         },
+         {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+         },
+         {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+         }
+      ],
+      "id": 44502,
+      "vote_count": 10,
+      "budget": 0,
+      "overview": "Dark fairytale about a demonic doctor who abducts a beautiful opera singer with designs on transforming her into a mechanical nightingale.",
+      "similar": [
+         3134,
+         979,
+         10285,
+         948,
+         4771,
+         4638,
+         238636,
+         281,
+         281957,
+         1949,
+         357096,
+         9093,
+         3597,
+         279,
+         445954,
+         22825,
+         123109,
+         984,
+         133805,
+         2142
+      ],
+      "original_title": "The Piano Tuner of Earthquakes",
+      "runtime": 99,
+      "poster_path": "/mTScLrRqTx0Ei7azTiUU9aLT5x4.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Português",
+            "iso_639_1": "pt"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Arte France Cinéma",
+            "id": 6916,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Koninck Studios",
+            "id": 3541,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Zweites Deutsches Fernsehen (ZDF)",
+            "id": 4606,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "ARTE",
+            "id": 5766,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Lumen Films",
+            "id": 6216,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Mediopolis Film- und Fernsehproduktion",
+            "id": 23617,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2005-09-09",
+      "vote_average": 6.2,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Germany",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": [
+         "Stephen Quay",
+         "Timothy Quay"
+      ],
+      "runtime": 99,
+      "synopsis": null,
+      "writers": [
+         "Alan Passes",
+         "Stephen Quay"
+      ],
+      "originalLanguage": "Portuguese",
+      "imdbLink": "http://www.imdb.com/title/tt0342882/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTI0OTA5NzU4Nl5BMl5BanBnXkFtZTcwOTMyNzI0MQ@@._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "actors": ["Stars: Amira Casar, Gottfried John, Assumpta Serna | See full cast and crew »"],
+      "reviews": [
+         "I watched this film in the Athens Film Festival, having just watched \"Institute Benjamenta\" a few days earlier. The effect both of these films had on me was quite similar - as movies they were incredibly dull and boring, but as visual experiences incredibly beautiful. The main problem is that the Quays are mostly animators, and most of their work has been short films. If I'm not terribly mistaken, these are their only full length movies. They have beautiful images in their minds and an amazing talent to materialize them, but not the ability (or perhaps the desire) to transform them into a watchable 2-hour movie. The brothers were also present at the screening of the film. They admitted they were quite disappointed with the end result of the \"Piano Tuner...\", mostly because they had been forced to direct it with limited funds and in a shorter time than what they would have wanted. Because of the above problems, they had to film it in Liepzig instead of Portugal, and they had to wrap it up about a week earlier than it had originally been agreed. Also, they weren't afraid to admit that they have never been able to finance a full-length animation movie, so they thought that a \"regular\" film would be a good excuse to squeeze some of their own animations in. Indeed, there is a puppet showing up regularly in the film that does not really have anything to do with the happenings. All in all, both these films make excellent memories when you recollect them some time after the screening. You have, however to put up with the actual screening. If these phenomenally talented guys could find themselves a sharp screenwriter, and most importantly, some better financing, they could easily create some timeless masterpieces.",
+         "There are some writers (Kafka, Haruki Murakami), some musicians (Monk, Trane, Beethoven), some artists (Max Ernst) and some directors (The Brothers Quay and possibly David Lynch) whose work never disappoints me. I don't care if a movie makes sense or not. In fact, I prefer dream logic to real logic (forget about Hollywood logic!). The Piano Tuner draws you into a world you cannot forget. The alternately subtle and dramatic lighting choices the directors/cinematographers made were compelling. The fact that the protagonist looks a bit like Kafka and has a similar predeliction for dreams and a similar love life happened to resonate for me. True surrealism did not die out in the Thirties, but what passes for surrealism these days is generally anything that is \"weird\" or \"fantastical.\" The Brothers Quay have put together a movie that the classic surrealists (and today's surrealists!) would have loved is an accomplishment of which the Brothers Quay should be proud. Any movie that changes the way I look at the world when I walk out of theater rates ten quivering mechanical thumbs up for me.",
+         "PTOE is a sumptuous, seven course feast for the senses. Nic Knowland's HD cinematography is wonderfully rich and textural. The sound design is eerie and extremely effective. The art direction is equally fantastic. Amira Cesar is endowed with an ethereal, otherworldly beauty and is perfectly cast in the film. As is Gottfried John who delights as the diabolical Dr. Droz. The Quays have succeeded yet again in creating a strangely compelling parallel universe, falling somewhere between German Expressionism and Kafkaesque Surrealism. The twins have generally been tagged as image-makers rather than story-tellers. That is not necessarily true, as each picture says a thousand words. If you approach PTOE on a purely sensory level - you will be in for a spellbinding ride in which time will cease to exist. If you approach it as a conventional narrative, you will instead find yourself looking constantly at your watch. Alice or the white rabbit - it's really your choice.",
+         "What an amazing movie - so strange, so romantic, so beautiful, so different, so dreamy, so delicate, so imaginative. This is a film that should be seen if only because it is one of the most beautifully shot films of the last several years. Praised to the high heaven \"Pan's Labyrinth\" simply pales and disappears in comparison. The Brothers Quay are the visual masters with astounding talents for capturing dreams and transferring them to the screen in the most hypnotizing ways imaginable. We may not be able to always understand the meaning of a dream by trying to interpret its objects but it would not stop us from feeling the beauty and magic of the film. There is a story of course, a fairytale about an evil doctor who abducts a beautiful opera singer with a magnificent voice whom he wants to transform into a mechanical singing device and a piano tuner of earthquakes who falls in love with her and tries to save her but every image and every sound of the movie are the story themselves. Everyone who feels at home in the worlds of David Lynch or Peter Greenaway, Luis Bunuel or Jan Svankmajer, Guy Maddin or the Brothers Polish; who is impressed by Georges Franju's \"Les Yeux sans visage\", Jean Cocteau's \"Belle et la bête\" (1946), by both Patrick Susskind's and Tom Tykwer's \"Perfume: The Story of a Murderer\" (2006), and by dark romantic fairy tales of E.T. A. Hoffmann, should see and listen to \"The Piano Tuner of Earthquakes\", the film which charm starts with its title. Excellent , and according to my own grading system, a visual and sound masterpiece, I wish I'd seen it in the theater",
+         "Anyone who has seen a Brothers Quay film realizes that narrative is irrelevant, and image is everything. Clock-like 19th century mechanisms appear as a regular motif. By creating an anachronistic, scientific wonder their films derive their greatest strength. The basic plot of THE PIANO TUNER OF EARTHQUAKES could have been lifted right out of a story by German fantasy writer and composer E.T.A. Hoffmann. It concerns a piano tuner who travels to a distant estate, owned by an elusive doctor. This doctor owns a number of clock-like mechanisms (automatons, he calls them) which will be used to create a grand opera. He requests the tuner to get the automatons in perfect-pitch working order. There's a subplot involving a beautiful opera singer whose life may be threatened by performing in the doctor's upcoming production. PIANO TUNER OF EARTHQUAKES was shot in color, on High Definition video. Most of the daytime shots are enveloped in a haze. The color seems muted. Many composite shots with painted backgrounds are used. There's an ethereal feeling to the images. The worst parts of the film are where the narrative is forcefully injected. Some story bit is clarified, and that tactic makes it seem like a cheap, thoughtless movie. Only when sound effects, music, and visuals are used, with no dialog, the emotional effect is stunning. This is NOT an easy movie to watch. Watching this is about as fun as listening to a piece of music by Schoenberg or Webern. However, fun or entertainment isn't the point. This film questions convention. Stop-motion animation shots, for which the Brothers Quay are best known, are used sparingly. The music often seems inappropriate, very 1940's Hollywood sounding - and quite frankly, I found it distracting; it made everything seem more artificial than perhaps intended. Overall, THE PIANO TUNER OF EARTHQUAKES gives one the impression of a moving-photograph gallery. And photographs are usually viewed best when you are not told what to think of them, but instead, are allowed to let your mind wander free from conventional thought, and dream a picture's story for yourself.",
+         "Its a matter of abstraction. Always has been, in everything I suppose. But especially in film. The business is one of sharpening some edges and making others recede so as to cut us in some way. Its a dangerous business for all concerned and if it ever seems too competent, you know the blood is fake. The Quays, like Madden and Greenaway go into forbidden visual zones. They do let me down sometimes when I sense fear, but never when they stumble because stumbling is what shows the risk. These guys already have earned a place on my short list of films you really must see before you die. I only allow two in any year, so it is something that their incredibly short \"Are We Still Married?\" is there. But there it is, something that is so rich and open, yet haunting, it will change your dreams permanently. That short is entirely animated in their preferred style. They are Victorian in nature, both in the junk they assemble to create their worlds, but also in the cosmology they lean on. Its one where explicable means are all broken. Humanity escapes logic. Its the other side of the Holmes syndrome. Its where most of us live. That's that and this is this, something more ambitious, the long form. That means you must support the long arc, a stretch across the cosmology longer than we can retain in our short memory. What they've done is rely on something we've seen before: a man-god who captures life in a life within life fold. We are sometimes in and sometimes out. The \"in\" is one of seven \"automata,\" complex mechanical devices that sing life. The tuner believes himself to be assisting in the maintenance of the machines from the outside but finds himself to be part of the mechanism. The existence of the machines allows the Quays to insert animated sequences that are supposed to merge with the live action. That live action is mostly dream space and when not, is a pseudodream world of Victorian frames and hues. Its all just too lovely and risky and dangerous to be denied a place in your soul. Sure, it comes dangerously close to the banal. Sure, you can see a few seams and we all wish the budget for the final \"performance\" was bigger. But if you allow yourself to be swept in this as you routinely do for other science fiction worlds, you will find a sort of psychic sexual release in some long sequences. In reading about this, some cite Svankmejer as an influence. You need to understand this. Svankmeyer is a Czech animator, a good one. He's an influence in just being there and surviving. But his world is organic and bleak. It is the stuff that comes from repeatedly beaten innocents. The Quays are more mechanical in their images, more episodic in the small. And leagues more optimistic. Their world is one where the sun shines, but just over the edge of a place in which we are stuck. It makes all the difference. One you would bring children to, in hopes that they would remain children in the edges and so make you wise. The Czech, no. That's where you go to die or try. I'm putting this as a four for the time being. It may be bumped. 2005 was a very bad year for film. But I haven't yet seen \"Cache\" or \"History of Violence.\" Ted's Evaluation -- 4 of 3: Every cineliterate person should experience this.",
+         "I'm a big fan of the Brothers Quay. I loved their wonderful animated shorts (Such as \"Street of Crocodiles\", \"Rehearsals for Extinct Anatomies\" and Dramolet), so I had high expectations about this movie. And now, after I saw it, I have to say that I'm somewhat disappointed. I mean, this is definitely not a bad film: The direction, the performances and the music were pretty good, and also the visual aspect from this movie was beautiful (But not as beautiful as the previous works from the brothers Quay) However�I still feel something was missing from this movie. The story and the characters were uninvolving most of the time, and I didn't cared very much about them. The plot was quite strange and surreal, but this feature-film lacks of the powerful and captivating imagery that the shorts of the Quay brothers had. The good direction made this movie worth-watching, but I think this isn't as good as it could have been. I'm still had high expectation about Institute Benjamenta, though.",
+         "The credits rolled and I sat staring, the afterimage of a burning white face and bench buried in the snow still resonating in my eyes. I was sure if I was blown away, confused, enraged or all three. The Piano Tuner of Earthquakes is riddled with problems: the unnecessarily overbearing voice-over exposition during the first forty minutes, the thin plot lines in the opening five minutes. The Quay Brothers seem to not be entirely sure what this film is about, I don't get the sense that there was a mastermind behind this warped world, like I do while watching Mulholland Drive. That said, it is a very interesting film and, if for no other reason, this is a film that should be seen for being one of the most beautifully shot films of the last five years. The dried color palette, the hazy, dream-like quality of the main character's POV and the stop motion animation all combine to create a film rich in texture and beauty. It seems that The Brothers Quay, though maybe not the most talented of writers (this, I believe being only their second feature length as compared to stacks of rich short films), they are certainly masters of the medium visually. It's an intense, droning, paced film. It's slow and garbled. But it's beautiful.",
+         "\"The Piano Tuner of Earthquakes\" is a strange and wonderful dark fairy tale about a piano tuner sent to a mysterious island to assist a malevolent conductor who's keeping an opera singer captive; the conductor wants the tuner to fine tune and repair several large, mechanical, complex Joseph-Cornell like boxes. But the boxes are not what they seem� I agree with those who felt \"Institute Benjamenta\" (the brothers' first full-length film) was boring--it is--but The Brothers Quay have improved by leaps and bounds with this film. The narrative is significantly easier to follow & figure out than, say, \"Mulholland Drive\"; in fact, I'd even say it's more straightforward than executive producer Terry Gilliam's own \"12 Monkeys\" (for a start, it's linear). Everything said about the images is true; Nic Knowland's cinematography and the Quay Brothers' own production design is superb. So don't be put off by the reviews saying \"Piano Tuner\" doesn't make any sense; this is in fact a straightforward movie if you're paying close enough attention. Anyone who likes David Lynch, Gilliam, or Jeunet & Caro needs to see it. It's also one of the best films of the year.",
+         "The Piano Tuner of Earthquakes is the Quay brothers' second feature-length film, and to be sure, it is a real beauty. It is probably most comparable to \"Le Cite des les Enfants Perdus\" as a fantasy feature film that creates its own fairy-tale space in ways much more viscerally beyond the level of typical fantasy; the very air is saturated with the sense of the Otherworldly and the magical, and it's obvious the Quays are working off of a lot of influences from mythology and fairy tales. ...and it's also not nearly as good as their short film animations, partly because it's not an animation. They do mix animation and live-action well, quite well, in this movie, but what The Piano Tuner of Earthquakes lacks more than any other film of theirs I've seen is the gut-reaction most of their shorts give. It is infinitely visually pleasing, but it doesn't have the power to awe or disturb the way their other work does. The reason? As best as I can tell, the movement. There's something eerie and uncanny about the ways the brothers Quay craft actual motion, but so much animation was cut out of this (reportedly, enough to make another feature-length) and left to the live-action that it just doesn't send off the same tone. They also make it worse by constantly fading out in the middle of shots. That approach is explained as an attempt to bring the viewer into a moment of high drama, and then cut the light (something evil Dr. Droz literally does in the movie), but it tends to disappoint the viewer that just wants to revel in the strong visuals. I do really like the plot-point about the ants and the spores, and its re-occurrence later in the narrative. If the rest of the film had the power of that point, it would have been truly unforgettable. I still consider the brothers Quay to be spectacular film artists and amazingly unique creative minds, and I'll bet their further feature-length work will be even better. However, The Piano Tuner of Earthquakes is a surprisingly forgettable film. --PolarisDiB"
+      ],
+      "genres": [
+         "Drama",
+         "Fantasy",
+         "Music",
+         "Romance"
+      ],
+      "productionCompanies": [
+         "Arte France Cinéma",
+         "Arte",
+         "Koninck Studios"
+      ],
+      "summaries": [
+         "Felisberto Fernandez is a piano tuner of exceptional skill, hired by Dr. Emmanuel Droz to come to a remote clinic to clean and refurbish Droz's seven automatons, elaborate mechanical constructs. Droz wants the work done quickly, in time for an opera he's staging for himself. Fernandez's attentions are captured by two women at the clinic, Assumpta, the clinic's manager, and Malvina van Stille, a patient who is also a superb singer. Fernandez works on the machines and is drawn to the women while Droz may be manipulating more than the automatons. Do emotions and choice play any part, or it is all opera?",
+         "Dark fairy-tale about a demonic doctor who abducts a beautiful opera singer with designs on transforming her into a mechanical nightingale."
+      ],
+      "budget": 0
+   },
+   "movielensId": 54243,
+   "movielens": {
+      "languages": [
+         "English",
+         "Português"
+      ],
+      "releaseDate": "2005-09-09",
+      "dvdReleaseDate": "2007-04-24",
+      "directors": [
+         "Stephen Quay",
+         "Timothy Quay"
+      ],
+      "runtime": 99,
+      "movieId": 54243,
+      "title": "The Piano Tuner of Earthquakes",
+      "mpaa": "",
+      "actors": [
+         "Amira Casar",
+         "Gottfried John",
+         "Assumpta Serna",
+         "César Sarachu",
+         "Ljubisa Gruicic",
+         "Marc Bischoff",
+         "Henning Peker",
+         "Gilles Gavois",
+         "Volker Zack",
+         "Thomas Schmieder",
+         "Regine Zimmermann",
+         "Emil Petrovics"
+      ],
+      "imdbMovieId": "0342882",
+      "originalTitle": "The Piano Tuner of Earthquakes",
+      "genres": [
+         "Romance",
+         "Fantasy",
+         "Drama",
+         "Music"
+      ],
+      "youtubeTrailerIds": ["gOxn6XkCYRA"],
+      "plotSummary": "Dark fairytale about a demonic doctor who abducts a beautiful opera singer with designs on transforming her into a mechanical nightingale.",
+      "tmdbMovieId": 44502,
+      "avgRating": 3.08824,
+      "releaseYear": "2005",
+      "numRatings": 17,
+      "posterPath": "/mTScLrRqTx0Ei7azTiUU9aLT5x4.jpg"
+   }
+}

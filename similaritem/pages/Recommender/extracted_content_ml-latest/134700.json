@@ -1,0 +1,512 @@
+{
+   "tmdb": {
+      "original_language": "bg",
+      "keywords": [{
+         "name": "judgment",
+         "id": 11297
+      }],
+      "imdb_id": "tt2199436",
+      "video": false,
+      "title": "The Judgement",
+      "recommendations": [],
+      "backdrop_path": null,
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 0,
+               "character": "Mitio",
+               "gender": 2,
+               "credit_id": "5521042b9251417096000e5c",
+               "name": "Assen Blatechki",
+               "profile_path": "/5XVtSo8Oi4TVNV01UoYJZWW7HNS.jpg",
+               "id": 94696,
+               "order": 1
+            },
+            {
+               "cast_id": 1,
+               "character": "Vasko",
+               "gender": 2,
+               "credit_id": "5521043792514171cb000d8f",
+               "name": "Ovanes Torosian",
+               "profile_path": "/3YwwLpxaknqIRG9voTINGxfUD0z.jpg",
+               "id": 586062,
+               "order": 2
+            },
+            {
+               "cast_id": 2,
+               "character": "Maria",
+               "gender": 0,
+               "credit_id": "5521044dc3a36812ee00286e",
+               "name": "Ina Nikolova",
+               "profile_path": null,
+               "id": 1449971,
+               "order": 3
+            },
+            {
+               "cast_id": 3,
+               "character": "The Captain",
+               "gender": 2,
+               "credit_id": "55210477c3a3684dc9002c53",
+               "name": "Miki Manojlović",
+               "profile_path": "/mIQ7f8wQ18AAGkrR7qMIsurosDM.jpg",
+               "id": 48791,
+               "order": 4
+            },
+            {
+               "cast_id": 4,
+               "character": "Kera",
+               "gender": 1,
+               "credit_id": "5521048d9251415c820032df",
+               "name": "Paraskeva Djukelova",
+               "profile_path": "/tPeakirTARzSJGAs533kn4fpKGr.jpg",
+               "id": 66793,
+               "order": 5
+            },
+            {
+               "cast_id": 5,
+               "character": "The Doctor",
+               "gender": 0,
+               "credit_id": "5521049ec3a368333a000f59",
+               "name": "Meto Jovanovski",
+               "profile_path": "/cFU7RxSeLeMeg0pqll7aeAMQoEy.jpg",
+               "id": 1049532,
+               "order": 6
+            },
+            {
+               "cast_id": 33,
+               "character": "Ramadan",
+               "gender": 0,
+               "credit_id": "59b40ccac3a3684be30005aa",
+               "name": "Vasil Vasilev-Zueka",
+               "profile_path": null,
+               "id": 1056243,
+               "order": 7
+            },
+            {
+               "cast_id": 34,
+               "character": "Yussein",
+               "gender": 0,
+               "credit_id": "59b40cdac3a3684be30005c1",
+               "name": "Luran Ahmeti",
+               "profile_path": null,
+               "id": 1463967,
+               "order": 8
+            },
+            {
+               "cast_id": 35,
+               "character": "The Captain (voice)",
+               "gender": 2,
+               "credit_id": "59b40ce5c3a3684c0200061e",
+               "name": "Harry Anichkin",
+               "profile_path": "/g4p8QC0VnYkCyYBtRBSiFEtIC71.jpg",
+               "id": 131101,
+               "order": 9
+            },
+            {
+               "cast_id": 36,
+               "character": "Diana",
+               "gender": 0,
+               "credit_id": "59b40ceec3a3684c02000625",
+               "name": "Eliza Bone",
+               "profile_path": null,
+               "id": 1595437,
+               "order": 10
+            },
+            {
+               "cast_id": 37,
+               "character": "Zhoro",
+               "gender": 0,
+               "credit_id": "59b40cf7c3a3684c3a0005e1",
+               "name": "Hristo Mutafchiev",
+               "profile_path": "/avMWxWV44Rgi4e9pp6fFJ75MTl2.jpg",
+               "id": 966876,
+               "order": 11
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "552104d5c3a3683453000ef1",
+               "name": "Stephan Komandarev",
+               "profile_path": null,
+               "id": 46199,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552104dfc3a3684dd4003822",
+               "name": "Stephan Komandarev",
+               "profile_path": null,
+               "id": 46199,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5521055e9251417096000e80",
+               "name": "Elena Stoyanova",
+               "profile_path": null,
+               "id": 1449974,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5521057dc3a3684dda003570",
+               "name": "Rossitsa Bakeva",
+               "profile_path": null,
+               "id": 1324123,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f9088cc3a3686a6700a620",
+               "name": "Marin Damyanov",
+               "profile_path": null,
+               "id": 1449972,
+               "department": "Writing",
+               "job": "Co-Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f909279251414c32002749",
+               "name": "Nina Altaparmakova",
+               "profile_path": null,
+               "id": 1348494,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f908a1c3a3686a5e00a743",
+               "name": "Emil Spahiyski",
+               "profile_path": null,
+               "id": 1597418,
+               "department": "Writing",
+               "job": "Co-Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f908c092514172760012aa",
+               "name": "Stephan Komandarev",
+               "profile_path": null,
+               "id": 46199,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f908dc9251412fdd0055fd",
+               "name": "Katya Trichkova",
+               "profile_path": null,
+               "id": 1597419,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f908f492514168d50002ec",
+               "name": "Stefan Valdobrev",
+               "profile_path": null,
+               "id": 584971,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f90905c3a3686a5c009bac",
+               "name": "Krasimir Andonov",
+               "profile_path": null,
+               "id": 1449973,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f9094ec3a3686a5e00a75a",
+               "name": "Alexander Kossev",
+               "profile_path": null,
+               "id": 1596587,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f9096b9251414c32002758",
+               "name": "Boryana Papazova",
+               "profile_path": null,
+               "id": 1556979,
+               "department": "Camera",
+               "job": "First Assistant Camera"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f9098292514168d5000307",
+               "name": "Zheko Manev",
+               "profile_path": null,
+               "id": 1542327,
+               "department": "Camera",
+               "job": "First Assistant Camera"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f90998c3a36816e80093af",
+               "name": "Orlin Ruevski",
+               "profile_path": null,
+               "id": 1191653,
+               "department": "Crew",
+               "job": "Second Unit Cinematographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f909ac9251417105002fd4",
+               "name": "Plamen Soklev",
+               "profile_path": null,
+               "id": 1542332,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f909ce9251410a31002f88",
+               "name": "Philipp Weinrich",
+               "profile_path": null,
+               "id": 1503713,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f909e8c3a3686a6700a658",
+               "name": "Martin Langenbach",
+               "profile_path": null,
+               "id": 1136769,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f909fd9251414c1d00289f",
+               "name": "Kai Tebbel",
+               "profile_path": null,
+               "id": 40495,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f90a17c3a36816e80093cc",
+               "name": "Matthias Schwab",
+               "profile_path": null,
+               "id": 68195,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f90a339251412fdd005624",
+               "name": "Sebastian Schmidt",
+               "profile_path": null,
+               "id": 1539386,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f90a47c3a3686a61009591",
+               "name": "Atanas Cherkezov",
+               "profile_path": null,
+               "id": 1597427,
+               "department": "Crew",
+               "job": "Property Master"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f90a5bc3a3686a610095a5",
+               "name": "Goran Ignjatovski",
+               "profile_path": null,
+               "id": 1597429,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f90a6ac3a3686a6700a686",
+               "name": "Simona Ristevska",
+               "profile_path": null,
+               "id": 1597431,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56f90a7ac3a3686a6700a68c",
+               "name": "Valentin Valov",
+               "profile_path": null,
+               "id": 1429341,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Drama",
+         "id": 18
+      }],
+      "popularity": 0.108954,
+      "production_countries": [
+         {
+            "iso_3166_1": "BG",
+            "name": "Bulgaria"
+         },
+         {
+            "iso_3166_1": "HR",
+            "name": "Croatia"
+         },
+         {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+         }
+      ],
+      "id": 334440,
+      "vote_count": 2,
+      "budget": 0,
+      "overview": "This is the story of Mityo and his son Vasko, who live in a poor area, near to the Bulgarian-Turkish-Greek Border. Mityo had lost everything that has mattered to him \u2013 his wife, his work, the confidence of his son, Vasko. In order to get him back, Mityo has to find forgiveness and pay for his sin, done 25 years ago.",
+      "similar": [
+         20312,
+         54342,
+         79921,
+         1813,
+         22803,
+         389,
+         489,
+         1645,
+         37257,
+         11092,
+         11975,
+         2978,
+         8438,
+         24226,
+         7984,
+         17443,
+         9623,
+         24711,
+         9715,
+         623
+      ],
+      "original_title": "Sadilishteto",
+      "runtime": 115,
+      "poster_path": "/oRXBAhEoVjdSxsV9bE89K417cqA.jpg",
+      "spoken_languages": [{
+         "name": "български език",
+         "iso_639_1": "bg"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Sektor Film Skopje",
+            "id": 33717,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Propeler Film",
+            "id": 46286,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Neue Mediopolis Filmproduktion",
+            "id": 49622,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Argo Film",
+            "id": 74786,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2014-10-16",
+      "vote_average": 6,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Bulgaria",
+      "color": "Color",
+      "budgetCurrency": "BGL ",
+      "directors": ["Stephan Komandarev"],
+      "runtime": 107,
+      "synopsis": "The story takes place nowadays, in a small and poor village in Bulgaria, which is located close to the border with Turkey and Greece. Mityo lives with his son Vasko. The relations between the two of them are strained after the recent death of Fanka - Mityos wife and mother of Vasko. The situation is getting even worse - the dairy, where Mityo has worked for 15 years, went bankrupt. He remains unemployed and he cant cover the payments on the loan, which he has taken several years ago for the treatment of Fanka. There is a real danger that Mityo and Vasco end up homeless the family house serves as a guarantee of the mortgage. Fallen into deadlock Mityo accepts to work for his former commander from the time when he served in the military - the Captain. His job is to smuggle illegal immigrants through the Bulgarian - Turkish border. The road passes through a fateful place for Mityo - the rock The Judgment located on the border. There, during his military service Mityo had killed a young couple of East Germans who tried to escape to the West. Mityo has been living for 25 years with this memory, and every time he goes with another group of immigrants along that cliff it becomes more difficult to bear his guilt. When Vasko reveals the secret of his father, the conflict escalates. Desperate, Mityo takes over one last, risky assignment. He does not know that this time he will have to face the past, in order to regain his internal peace and find forgiveness from his son.",
+      "writers": [
+         "Stephan Komandarev",
+         "Marin Damyanov"
+      ],
+      "originalLanguage": "Bulgarian",
+      "imdbLink": "http://www.imdb.com/title/tt2199436/",
+      "coverLink": null,
+      "actors": [
+         "Assen Blatechki",
+         "Ovanes Torosian",
+         "Ina Nikolova"
+      ],
+      "reviews": [
+         "This movie proves that good film-making is still alive in Bulgaria. One of the best Bulgarian films I've ever seen in my live. This movie should have won Oscar for Best Foreign Language Film with its ravishing performances by the actors, breath-taking plot, Steven-Spielberg-style one-shots and exhilarating landscapes. This is the story of Mitio (The amazing Assen Blatechki), who lives day by day, trying to connect both ends in order to produce a better live for him and his son Vasko (Ovanes Torosian). Mitio's wife, whose name isn't mentioned throughout the film, has died from some kind of illness, again it's not said what kind of illness. Trying to keep her alive, Mitio gets 7000E loan, which he has to return to the bank. Assen Blatechki is unmistakable in Sadilishteto (The Judgment), he again shows us that there are still good Bulgarian actors, who can perform at a very high level, even capable of staring in Hollywood productions. He fits perfectly to the poor villager demeanor and we can really feel and sense his love towards his son, Vasko. When the story slowly unfolds, we see that Mitio is still being haunted by his dark past, when he used to be a soldier, alas he can't run away from it, even though he tries hard to do so. Sadilishteto (The Judgment) is a really well-paced movie, with a top-notch long take that lets us know that Bulgarian cinematographers can do it, too! I can't hide my admirations for Stephan Komandarev, who's done an excellent job directing this movie. I truly hope that there would be more movies like this one in the following years. It was a pleasure watching Sadilishteto.",
+         "The Judgment is a very good cinematic experience. Very well written and expertly directed by one of the best Bulgarian directors nowadays. The cast is excellent. Every aspect of the film is very well executed - music, camera work, editing, make up and sound FX - you just feel that you are part of the story. The style is dark, but everything is presented in the wright way. There is enough excitement and suspense moments. Very strong dialogues and character performances. A must watch - don't miss it.",
+         "A story about a lone father who is struggling with life after he loses his job and faces the possibility of losing his house. To make things worse his past comes to life again and this causes issues between him and his son. The film keeps a realistic feel from start to end. It shows life as it is and relationship between characters look very natural. The story revolves around problems in recent times. Every character has an own story going on which is different from the major one. None of them is straightforward but rather complicated and has good as well as bad personality traits. All characters are story-orientated and none of them stands out from the rest, although Assen Blatechki and Predrag Manojlovic manage to give a really dramatic performances. The script is well-written, the dialogues are very good and there are some philosophical thoughts about the important things in life. The whole film has a bit dark feel to it. The film is well-made and it is worth seeing."
+      ],
+      "genres": ["Drama"],
+      "productionCompanies": [
+         "Argo Film",
+         "Neue Mediopolis Filmproduktion",
+         "Propeler Film"
+      ],
+      "summaries": [
+         "This is the story of Mityo and his son Vasko, who live in a poor area near the Bulgarian-Turkish-Greek border. Mityo has lost his wife, the respect of his 18-year-old son and the job that enabled him to pay off the loan for his mortgaged house. Desperate, he accepts a proposal from his former military commander (Predrag 'Miki' Manojlovic) to smuggle illegal Syrian immigrants across the border he once had to defend. The road leads across a peak called The Judgment, a place full of dark memories from thousands of years of history, but also from Mityo's own past. The revelation of his terrible secret will force him to face the past, in order to regain his internal peace and find forgiveness from his son.",
+         "A father and a son live in a poor area, near the Bulgarian-Turkish-Greek border."
+      ],
+      "budget": 3000000
+   },
+   "movielensId": 134700,
+   "movielens": {
+      "languages": ["български език"],
+      "releaseDate": "2014-10-16",
+      "dvdReleaseDate": null,
+      "directors": ["Stephan Komandarev"],
+      "runtime": 115,
+      "movieId": 134700,
+      "title": "The Judgement",
+      "mpaa": null,
+      "actors": [
+         "Assen Blatechki",
+         "Ovanes Torosian",
+         "Ina Nikolova",
+         "Miki Manojlović",
+         "Paraskeva Djukelova",
+         "Meto Jovanovski",
+         "Vasil Vasilev-Zueka",
+         "Luran Ahmeti",
+         "Harry Anichkin",
+         "Eliza Bone",
+         "Hristo Mutafchiev"
+      ],
+      "imdbMovieId": "2199436",
+      "originalTitle": "Sadilishteto",
+      "genres": ["Drama"],
+      "youtubeTrailerIds": [],
+      "plotSummary": "This is the story of Mityo and his son Vasko, who live in a poor area, near to the Bulgarian-Turkish-Greek Border. Mityo had lost everything that has mattered to him \u2013 his wife, his work, the confidence of his son, Vasko. In order to get him back, Mityo has to find forgiveness and pay for his sin, done 25 years ago.",
+      "tmdbMovieId": 334440,
+      "avgRating": 3.25,
+      "releaseYear": "2014",
+      "numRatings": 2,
+      "posterPath": "/oRXBAhEoVjdSxsV9bE89K417cqA.jpg"
+   }
+}

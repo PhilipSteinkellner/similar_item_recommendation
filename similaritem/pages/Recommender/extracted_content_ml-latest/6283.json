@@ -1,0 +1,518 @@
+{
+   "tmdb": {
+      "original_language": "ja",
+      "keywords": [
+         {
+            "name": "terror",
+            "id": 321
+         },
+         {
+            "name": "halloween",
+            "id": 3335
+         },
+         {
+            "name": "revenge",
+            "id": 9748
+         },
+         {
+            "name": "lethal virus",
+            "id": 14675
+         }
+      ],
+      "imdb_id": "tt0275277",
+      "video": false,
+      "title": "Cowboy Bebop: The Movie",
+      "recommendations": [
+         14282,
+         823,
+         149,
+         42994,
+         13398,
+         12140,
+         9323,
+         9606,
+         10494,
+         18491,
+         36865,
+         15981,
+         18874,
+         55931,
+         11049,
+         4977,
+         33320,
+         13754,
+         51859,
+         46343
+      ],
+      "backdrop_path": "/vUbMwHE817lN2vUigBaZqHixnAt.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 26,
+               "character": "Spike Spiegel",
+               "gender": 2,
+               "credit_id": "55df5c58c3a36813c7000114",
+               "name": "Kouichi Yamadera",
+               "profile_path": "/m5su8OKD2rZn9XWJfh8aPC403Nz.jpg",
+               "id": 20664,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Jet Black",
+               "gender": 2,
+               "credit_id": "52fe44209251416c75029b77",
+               "name": "Unsho Ishizuka",
+               "profile_path": "/msFDooyGBJLzWESwvvnjht6AnbV.jpg",
+               "id": 68916,
+               "order": 2
+            },
+            {
+               "cast_id": 3,
+               "character": "Edward",
+               "gender": 1,
+               "credit_id": "52fe44209251416c75029b7b",
+               "name": "Aoi Tada",
+               "profile_path": null,
+               "id": 68917,
+               "order": 3
+            },
+            {
+               "cast_id": 4,
+               "character": "Electra",
+               "gender": 0,
+               "credit_id": "52fe44209251416c75029b7f",
+               "name": "Ai Kobayashi",
+               "profile_path": "/90iLbU0MZ4gQ9ddi8Sf0wMSPoTE.jpg",
+               "id": 68918,
+               "order": 4
+            },
+            {
+               "cast_id": 16,
+               "character": "Faye Valentine",
+               "gender": 1,
+               "credit_id": "52fe44209251416c75029bc5",
+               "name": "Megumi Hayashibara",
+               "profile_path": "/aYeXdOAsEh2xItISYDefJfvcdA.jpg",
+               "id": 40325,
+               "order": 5
+            },
+            {
+               "cast_id": 19,
+               "character": "Rasheed",
+               "gender": 2,
+               "credit_id": "52fe44209251416c75029bd5",
+               "name": "Mickey Curtis",
+               "profile_path": "/45HFZ6y9DQIqRjYDm9G08k2eHqK.jpg",
+               "id": 28776,
+               "order": 6
+            },
+            {
+               "cast_id": 20,
+               "character": "Vincent",
+               "gender": 2,
+               "credit_id": "52fe44209251416c75029bd9",
+               "name": "Tsutomu Isobe",
+               "profile_path": "/qP5vQMIbLNvSsSFkEMLZRVt4ZW5.jpg",
+               "id": 20661,
+               "order": 7
+            },
+            {
+               "cast_id": 21,
+               "character": "Antonio",
+               "gender": 0,
+               "credit_id": "52fe44209251416c75029bdd",
+               "name": "Jin Hirao",
+               "profile_path": null,
+               "id": 207804,
+               "order": 8
+            },
+            {
+               "cast_id": 22,
+               "character": "Renji",
+               "gender": 2,
+               "credit_id": "52fe44209251416c75029be1",
+               "name": "Renji Ishibashi",
+               "profile_path": "/tlUN7bFXEJfRwQUhYsVCXV6hY8V.jpg",
+               "id": 63706,
+               "order": 9
+            },
+            {
+               "cast_id": 23,
+               "character": "Judy",
+               "gender": 0,
+               "credit_id": "52fe44209251416c75029be5",
+               "name": "Miki Nagasawa",
+               "profile_path": "/tTtlMnLFQsYCTCsyBodGKrhkRPg.jpg",
+               "id": 126484,
+               "order": 10
+            },
+            {
+               "cast_id": 24,
+               "character": "Jobin",
+               "gender": 2,
+               "credit_id": "52fe44209251416c75029be9",
+               "name": "Hiroshi Naka",
+               "profile_path": null,
+               "id": 126282,
+               "order": 11
+            },
+            {
+               "cast_id": 25,
+               "character": "Carlos",
+               "gender": 0,
+               "credit_id": "52fe44209251416c75029bed",
+               "name": "Akihiko Nakajima",
+               "profile_path": null,
+               "id": 1120808,
+               "order": 12
+            },
+            {
+               "cast_id": 27,
+               "character": "Shadkins",
+               "gender": 2,
+               "credit_id": "58cc9020c3a36850f3001db9",
+               "name": "Kazuhiko Inoue",
+               "profile_path": "/kjXAvvqaBI4rw8IKzz4fM9SGFSN.jpg",
+               "id": 89968,
+               "order": 13
+            },
+            {
+               "cast_id": 28,
+               "character": "Robber",
+               "gender": 2,
+               "credit_id": "58cc905c9251415a8b001c50",
+               "name": "Katsuyuki Konishi",
+               "profile_path": "/lxSKVgpbKGhCfxFDXplM8eb4YLk.jpg",
+               "id": 24647,
+               "order": 14
+            },
+            {
+               "cast_id": 29,
+               "character": "Old Woman",
+               "gender": 1,
+               "credit_id": "58cc90849251415a41001ede",
+               "name": "Kujira",
+               "profile_path": "/akW1HjQxB8qrceyok2WzxOEIpyn.jpg",
+               "id": 1241505,
+               "order": 15
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe44209251416c75029b85",
+               "name": "Shinichiro Watanabe",
+               "profile_path": "/11UdgBBNXWWGCDsnvLlmoBaUkp0.jpg",
+               "id": 56342,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44209251416c75029b8b",
+               "name": "Keiko Nobumoto",
+               "profile_path": null,
+               "id": 68919,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44209251416c75029b91",
+               "name": "Haruyo Kanesaku",
+               "profile_path": null,
+               "id": 1690,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44209251416c75029b97",
+               "name": "Yutaka Maseba",
+               "profile_path": null,
+               "id": 1692,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44209251416c75029b9d",
+               "name": "Masahiko Minami",
+               "profile_path": null,
+               "id": 68921,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44209251416c75029ba3",
+               "name": "Minoru Takanashi",
+               "profile_path": null,
+               "id": 68922,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44209251416c75029ba9",
+               "name": "Masuo Ueda",
+               "profile_path": null,
+               "id": 68923,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44209251416c75029baf",
+               "name": "Ryôhei Tsunoda",
+               "profile_path": null,
+               "id": 68924,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44209251416c75029bb5",
+               "name": "Takayuki Yoshii",
+               "profile_path": null,
+               "id": 68925,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe44209251416c75029bbb",
+               "name": "Yoko Kanno",
+               "profile_path": null,
+               "id": 186,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44209251416c75029bc1",
+               "name": "Shuichi Kakesu",
+               "profile_path": null,
+               "id": 12187,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44209251416c75029bcb",
+               "name": "Hajime Yatate",
+               "profile_path": null,
+               "id": 553409,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44209251416c75029bd1",
+               "name": "Shiho Takeuchi",
+               "profile_path": null,
+               "id": 1120806,
+               "department": "Art",
+               "job": "Production Design"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Animation",
+            "id": 16
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         }
+      ],
+      "popularity": 7.628047,
+      "production_countries": [
+         {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+         },
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         }
+      ],
+      "id": 11299,
+      "vote_count": 212,
+      "budget": 0,
+      "overview": "Mars. Days before Halloween 2071. Villains blow up a tanker truck on Highway One, releasing a deadly virus that kills hundreds. Fearing a bigger, even more devastating biochemical attack, an astronomical reward is offered for the arrest and capture of the person behind the destruction. On the space ship \"Bebop,\" Spike Spiegel and his crew of bounty hunters (Jet Black, Faye Valentine, Ed and Ein) are bored and short of cash. But with the news of the reward, everything changes....",
+      "similar": [
+         156022,
+         281,
+         955,
+         357096,
+         281957,
+         37835,
+         445954,
+         26789,
+         6312,
+         133805,
+         8292,
+         23587,
+         3134,
+         979,
+         2652,
+         238636,
+         395834,
+         588,
+         9654,
+         431
+      ],
+      "original_title": "カウボーイビバップ 天国の扉",
+      "runtime": 116,
+      "poster_path": "/xKTg1xbKC6BWpjS09FHNZShrP4v.jpg",
+      "spoken_languages": [{
+         "name": "日本語",
+         "iso_639_1": "ja"
+      }],
+      "production_companies": [
+         {
+            "logo_path": "/rzgMLzPgJ2ZBYnlVwNi8ZDfOMwo.png",
+            "name": "TriStar Pictures",
+            "id": 559,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Bandai Visual Company",
+            "id": 528,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Destination Films",
+            "id": 769,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Sunrise",
+            "id": 3153,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Emotion",
+            "id": 7122,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/cN3JNIKawjOMtfk0GBVIbsx69bg.png",
+            "name": "BONES",
+            "id": 2849,
+            "origin_country": "JP"
+         }
+      ],
+      "release_date": "2001-09-01",
+      "vote_average": 7.4,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": "http://www.sonypictures.com/cthe/cowboybebop/",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Japan",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": [
+         "Shinichirô Watanabe",
+         "Hiroyuki Okiura"
+      ],
+      "runtime": 115,
+      "synopsis": null,
+      "writers": [
+         "Marc Handler",
+         "Keiko Nobumoto"
+      ],
+      "originalLanguage": "Japanese",
+      "imdbLink": "http://www.imdb.com/title/tt0275277/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTA1ODIxMDYyMzFeQTJeQWpwZ15BbWU2MDUwOTQ5Ng@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Beau Billingslea, Melissa Fahn, Nicholas Guest | See full cast and crew »"],
+      "reviews": [
+         "This movie is just as good, if not better, than most of the episodes in the series. If Bebop fans learn to accept the story for what it is--an extended version of a typical(albeit superior) episode, this movie will live up to the exceptional quality of the series. And if someone with no knowledge of the series watches this movie, they will have very little to catch up on. The great thing about the film is its accessibility to all audiences with its stand alone storyline(although Bebop fans can still get new things out of it). With the introduction of the character of Vincent Volaju, the Cowboy Bebop brain trust has provided a great nemesis for the protagonist Spike to interact with. These two characters' fight scenes are exceptional, and the bond that they share works great with the overall tone of the series. The subtle philosophical points of the film may not be mind blowing, but they are definitely above average. Great dialogue is rare in animation, let alone anime, and this is one of the strong points of both the series and the movie. It is obvious that the creators have tried to fit almost all elements of the series into this work, and they have succeeded, despite that great burden. Each of the five major characters from the series(Spike, Jet, Faye, Ed, and Ein) get the right amount of time in the spotlight, while allowing the new characters(Vincent, Electra, and Rashid) time to develop properly. Also, as any fan of the series can vouch for, the music is not only original, but almost like a character unto itself. Ultimately, this film boils down to the centerpiece of the series, Spike Spiegel, and his final meeting with his kindred spirit, the tortured Vincent Volaju. The result of this film helps propel the series into its heart wrenching conclusion and underlying philosophical tone. More than worthy of being associated with the Cowboy Bebop series.",
+         "I'll try to avoid echoing other comments here and cut straight to the chase: This is not perfect, but MAN it's so close. I had some trouble with the pacing, which seemed a bit slow to me--as if they weren't quite sure how to work with a feature-length timeframe; I'm still a bit hazy on just how the villain's threat was resolved, which I'm usually not after a CB episode; and gosh, *why* isn't \"Tank!\" on the soundtrack? Songs with words just don't cut it in a CB score. --But honestly, those seem like such small problems next to everything that's wonderful about this movie. It has all the stuff you love about Bebop the series: the brilliant, flashing action and fight sequences, the character interaction, Spike's nicotine jones =), the gorgeous cinematic visuals, and the dreamlike melancholy that underlies even the funniest moments. The villain, his grip on the fantasy/reality divide completely erased after a genetic experiment on Titan, makes a neat counterpoint to Spike, forever haunted by his dreams of the perfect future he once believed in. Jet's protective concern for his reckless teammates was never better painted than in a scene where he blusters about how much happier he was without any of them and couldn't care less where they are, only to pounce on the phone's first ring like a worried mom on date night. There's just a *little* more of Faye's skin for the fanboys (but only a very little bit more, honest! we're not talking topless here! x my heart!), Ed has a trick-or-treat encounter that would never make it to American TV, and even the Big Shot duo put in an appearance (despite having absolutely nothing to say). It's not intended as a wrap-up or finale to CB the series; it occurs in between episodes and should be thought of that way, as an experimental episode both different from and similar to the original sessions. Kind of like an extended jam on an established theme, with improvisations, in the true bebop style.",
+         "I have to disagree with anyone who says that Knockin' on Heavens Door (Tengoku no tobira) is a throw-away movie version of a popular anime series. I have seen this movie and I loved it. The plot is involving and keeps the viewer involved in the story. The aspect of Vincent being the one who is searching for a way to see if he is really dreaming or awake is a nice twist from it just being Spike who wonders the question. The soundtrack fits well with the action in the movie and heightens the action and suspense. The scenery is dynamic and the characters, the main cast as well as the new additions, carry the weight (yes, yes, I know they're not real) of the movie and the script which is well written and very Bebopish. This movie is a perfect addition to the Cowboy Bebop series and is definitely not a throw-away.",
+         "I've been one of the lucky people able to see Cowboy Bebop: Knockin' On Heaven's Door at the box office. It kicks so much ### on so many levels. Featuring just about the entire main TV series cast at one point or another(with the exception of TV villain Vicious), it is one of the best movies I've seen in 2003. The plot is a bit haunting, especially with the bad guy being a bio-terrorist, but then again, this was made back in 2001, before any of the stuff was going to happen. I'm not going to say much, except it is a bit hard to understand if you only see it once. Also, it helps to better understand the characters if you've seen the TV series. Yoko Kanno once again composes the music, and it's awesome. Just about every tune perfectly fits in with the scenes. And what scenes they are. The action scenes kick dirt in the faces of most live action movies I've seen recently. The fight scenes literally make the weak action in the Matrix films look like ballet. Just see the fight at the end of the film and you'll know what I mean. It's just...... wow. I can't really describe it without spoiling anything, and I do not want to do that. Another thing good about animation... you can get away with stuff you could never do in live films, without a ton of CGI. This helps when you see some really big animation stunt. And of course, it couldn't be CB without one of those awesome chases in Spike's ship, the swordfish. BOTTOM LINE: With the DVD out at most stores, including places like Walmart, you have no excuse to miss this thrill ride.",
+         "This movie was so perfect that it was almost too good to be true. If you are a fan of the Anime, you will LOVE this series. The Anime is without a doubt, the greatest animated series of all time. Everything else is far inferior compared to the greatness that is Cowboy BeBop. So I remember seeing this movie months ago and I set my expectations low because I didn't want to be that disappointed. Boy was I amazed at what I saw! I loved every bit, every aspect of this film. Once again, the Great Watanabe ,Nobumoto and co. have amazed the world of Otaku lovers with this work of sheer brilliance. Amazing production, amazing quality and I just love these people! Oh and I love Bandai, Sotsu, Sunrise. The music in this was astounding, as expected from the super-talented Yoko Kanno. She is in her own domain of musical excellence. The tracks were amazing, and contrary to what a previous reviewer has stated, the opener to this movie is so hip, funky and jazzy that you will want a copy of it and all the other amazing tracks featured in this film. The entire crew did an amazing job! The main characters that we all love, were treated with grace, dignity and were all handled beautifully. We were even treated to new characters that revealed themselves to be very deep and realistic. The script was amazing, so humane and real and yet often at times gush of sheer 'poetry'. The action sequences were a treat and are unforgettable. The animation in this is far superior to that of the series and are so groundbreaking that I feel that no hand-to-hand combat scenes or arial fight scenes have EVER been animated with this sort of amazing quality and sheer realism. They are sight to behold. Again, the crew responsible in this did an amazing job! I can't praise the creators of this enough! As far as the plot, everything seems to flow together smoothly and just as the series, at times, is almost 'artsy' in terms of momentum shifts and 'high and low periods' where everything just seems to fit in perfectly and make perfect sense. Folks, this film is a product that far surpasses anything Hollywood has given us in terms of this genre (non-animated even) for the passed 20 years. This far exceeds anything in terms of entertainment for that time period, IMHO. Granted, the characters and source material was so good that nobody could have ultimately 'messed up' a Cowboy BeBop movie. But still, this movie far exceeded mine and others expectations. When you read all these reviews you must realize that they are not all completely wrong. This movie is very very good, at the very least. Now, I see that some of the later reviewers were more critical of this then they were praising of it. Now, that is just silly, IMHO. I think these reviewers were so overanalyzed this thing to death, that they were only looking for what may be the slightest 'wrong thing' in this movie and decided to expound on them in their reviews. Don't take the very critical critics in here too seriously. These people probably have seen this thing 5 times straight and then after the 6th viewing decided one morning that this movie was not as good as they originally thought it was. This movie is so close to perfect that it would take the most anal of critics or the most yuppy of coffee drinking critics to find something even slightly wrong with this work of art. So, in other words, the critical ones on here are reading too into this and think that this is some sort of arthouse project that must contain some sort of hidden message that reveals the 'secret of life' or something. In conclusion, if you are true BeBop fan, you will absolutely LOVE this movie to no end! If you are not a BeBop fan (as if those even exist) but love anime, you will still find this movie to be utterly amazing. If you do not appreciate any animated films whatsoever, you will still find this movie to be the 'exception' for it will be far superior to anything you have ever seen in years (non-animated wise). This movie was excellent in every aspect and is truly memorable in every way. Bottom line, see this movie and prepare to be entertained.",
+         "I'll start off by saying that I'm a huge fan of Cowboy Bebop. No other anime has characters that are as real and deep, yet fantastic and archetypical as this series. Every episode in the series manages to be visually stunning and/or humorous and uplifting while at the ame time being beautiful and poetic all in a twenty-minute timeframe. So its hard not to judge Coboy Bebop: Knockin' On Heaven's Door under the same light or along the same lines as the series. That said, the movie is very cool and very enjoyable, and from the fansub that I watched, I know I'll be snagging this as soon as (or if ever) it is released on DVD. After the initial five minute attention grabber and wonderfully cheesey rotoscoped-looking opening credits, Spike and the gang set off on the trail of a bearded bioterrorist worth 300,000,000 woolongs who plans to do some bad stuff to whatever planet it is they're on (I think its Mars, but I'm pretty sure they never actually say in the movie). Along the way, we get action, not-so-much action, Maracans, we get to hear some more awesome Yoko Kanno music, Spike reaffirms his position as the most badass character ever in animation, and we almost get to see Faye's boobies. The action scenes are superb, especially two in particular. Spike's first fight with the woefully underdeveloped Electra is easily some of the best martial arts animation ever. Also, the monorail scene is probably one of the coolest and definitely the goriest thing ever seen in Cowboy Bebop. The movie does, however, slow down at parts, especially when the focus is lifted from the main characters. A lot of times I just felt like I was waiting for the movie to pick itself up and get going again, something that never happens in the show, but, then again, this film is nearly two hours long (awesome for an anime). One reason the film seems so slow in comparison to the series is that there are a lot more establishing shots and the like. It makes you wonder whether Shinichiro Watanabe was trying to be theatrical or just padding the film. Its almost as though they got too good at pacing their own show, which, I suppose is a testament to the original series. Every storyline moved so fluidly and was paced so well that the movie seems sluggish in comparison. The movie's supporting characters aren't all that great, either. Electra is pretty bland, as is the antagonist, Vincent. That's kind of disappointing, since the Bebop crew was able to give so much personality to other lesser characters who had a lot less screen time in the original series (like Indian dude and the card-playing old guys, who both, thankfully, show up in the movie and play pretty cool roles in some scenes). Most of the other supporting cast is just fodder for Vincent to off to make him seem less likable. One thing that's sure to annoy a lot of people is Vincent's pseudo-religious rants and vague creepy-talk. The way that he talks and the way that others talk about him is a bit indicative of Shinji Ikari and Evangelion, but really not as good or interesting. If you look hard enough, you might be able to find some meaning in the symbolism they're trying to impose, but most of the time it will just come off as BS. At least he looks cool, and in the end, that's all that really matters in a villain. Electra, on the other hand, is just your average sterotypical good-lookin' hard-ass female cop-type person that shares a mysterious past with Vincent that really isn't all that mysterious or interesting. But the film is really about Spike and the gang, and none of the principal cast go neglected. Each character has some pretty cool/funny scenes, even Ein and Ed (who I'm sure annoys the hell out of some people). The sad thing is that there's none of the ass-slapping hilariousness of \"Mushroom Samba,\" nor is there any of the frenetic and fast-paced shooting action of \"Pierot Le Fou.\" But we do get to see Spike use his 'leet jeet kun do fighting skillz to kick a fair share of ass. In terms of pacing and character development, the movie comes off as an extended version of \"Jupiter Jazz\" parts one and two, probably my least favorite episodes, sans any cool character revelations. I guess you can't really expect to learn anything new about the characters since the series tied itself up so nicely. In the end, though, \"Knockin' On Heaven's Door\" is freaking awesome. It may sound like I've been ragging on it, but that's just because the series is so awesome its hard for anything to hold a candle to it. So does the movie do the series justice? Absolutely, if you're a fan, definitely check it out, but you'd probably have to be a fan to really enjoy it. If the movie were a regular thirty-minute episode, it would be pretty forgettable. Even still, chances are that that's ten times better than most other anime out there.",
+         "This movie combines style, gunplay, a compelling story, deep characters, detailed visuals, and a wonderful jazz score. A+ To be fair though, you must be at least a little familliar with the series to fully appreciate this movie. The series itself is a masterpiece; in my opinion one of the greatest television series of all time. The dub is a cut above most imported anime. Dialogue is often underapreciated in an animated series, so dubbing companies will be indiscreet with selecting voice actors. Bebop's dub, however, is very close to the original script and the voice acting is quite impressive. None of the jokes or subtleties were lost in the translation.",
+         "Cowboy Bebop: Tengoku no tobira(Japan, animated, color, 2001) A.K.A. Cowboy Bebop: Knockin' On Heaven's Door or Cowboy Bebop: The Movie thanks to Bob Dylan's lawyers and the lackwits at Columbia TriStar Films Cast(French dub): Bruno Muellenaerts(Spike Spiegel) Arnaud Leonard(Vincent Volaju) Stephane Flamand(Edward) Shinichiro Watanabe's 1998 series Cowboy Bebop is considered by many to be a classic of animation on television, oozing style, violence and a great jazz-based score from every pore of it's existence. After a somewhat lengthy absence(long enough for Cartoon Network to release an English dub), the Bebop crew return in this fabulous film(released in North America in 2002 to some quite positive reviews from art house critics) that takes an interesting story and expands it in a way the series couldn't, there's some SERIOUS philosophical depth here, not as much as, say, End Of Evangelion, but enough for your average action flick. Opening with an insanely cool convenience store robbery sequence(replete with memorable dialogue and a cool \"fish-eye\" framing technique) and not letting up until it's VERY METAPHORICAL and beautifully animated ending. CB:TNT packs on humor, drama, thrills and DEEP THOUGHT by the crateful. You'll laugh, you'll scream, you'll shout \"THAT WAS F**KING COOL!!!!\", you'll have the distinct urge to crash a lecture on the human psyche! This movie has it all! Our protagonists are Spike(lazily voiced by a bored-sounding Muellenaerts), a slacking loser of a bounty hunter who harbors an \"interesting\" past, Jet(I couldn't find a voice credit for the French dub on IMDb), a ex-cop and master of vegetarian cooking, Faye(same as last note), a problem gambler with amnesia and Edward(given a soulfully bizarre lilt by Flamand), an androgynous female hacker with zero attention span and an unholy amount of flexibility(which she spends most of the film demonstrating). After a search for a local hacker with a five million dollar bounty on his head goes horridly wrong, the gang are left in pursuit of Vincent Volaju(Who Leonard lends an inherent amount of spookiness to), a bioterrorist with a military history who supposedly has been dead for the past three years., and really is! After close to two hours of comedy, violence and mind-f**k plot developments, the end credits roll and you may wedge your way from the edge of your seat. The film entertains on many a level and will more than certainly please fans of the series as well as newcomers. Despite me having the desire to watch it French, the film is best experienced with the English dub(close to flawless, expect minor characters are wooden and there are a few agitating accents) or the original Japanese(despite the \"authenticity\", I never enjoyed the Japanese voices for the Bebop crew, except Jet) with subtitles in a language of your choice. Verdict: 100/100, not be missed by anyone who loves action or anime.",
+         "Watching Cowboy Bebop: The Movie is kind of like reconnecting with an old friend. He's got the same sense of humor, the same style and you recognize him, but at the same time, he's matured. Perhaps he's grown sleeker, taken advantage of improved technologies, or perhaps gotten a little wide around the belly. Everything's back in Cowboy Bebop the movie. Because of the characters and plot as we know it, the movie probably occurs somewhere in the late teen episodes or early twenties episodes of the series, which has a positive and a negative effect. If you've already watched the series, then certain things don't surprise you since you know what happens to the characters later. Furthermore, because this was produced after the series, it also doesn't get to tangle with the central storyline of the series (they mythology), where the series, which was excellent even in the anthology episodes, really shined. On the plus side, it hits where we're most familiar with the series, before things get super serious and with the characters in the state that they spent most of the series. The story deals with a bioterror threat and the Cowboys get caught up in it, while trying to nab bounties to make a little change while in an urban city. There is no space travel or dogfights in space, but The Movie does take efforts to include a little of everything that the series has had (minus the mythos), so expect to see martial arts, gunplay, dogfights (but not in space), goofing off, hungry characters, Ed being silly and such. Unfortunately, the story only lives up to the high standard of a stand-alone episode of Cowboy Bebop, but despite the fact that The Movie is considerably longer than an episode, it all flows along smoothly and feels like you just watched a good two-parter rather than an episode that's been dragged out. Nonetheless, since we hardly get into the Cowboy characters, the story doesn't have the same resonance of the stronger episodes in the series. Instead we get to go deeper into a pair of characters for the movie, who have somewhat interesting stories, but aren't strong enough to really carry the emotional heft of the film since they aren't the protagonists. The art, on the other hand, is still gorgeous and the movie benefits from the widescreen aspect ratio as well as what appears to be an improved budget for the animation, as everything, from backgrounds to characters, are treated with a wonderful level of detail. There are a few scenes involving butterflies that are absolutely beautiful to look at. Furthermore, the sound benefits from a great surround sound mix, adding directionality and heft to the soundtrack. Finally, the score by Yoko Kanno is delicious to listen to and perfectly brings you back into the series while presenting some absolutely stunning new songs in the mix as well. Overall, Cowboy Bebop: The Movie is a fun ride. Although, in the end, it's not as strong (story-wise) as the more compelling episodes of the series, the art, the sound, the music and just getting to spend a little more time again with characters you've come to know and love makes this a thoroughly enjoyable film. Recommended for Cowboy Bebop fans--but you must watch at least most of the series before watching this. 8/10.",
+         "\"Cowboy Bebop: Knocking on Heaven's Door\" is an animated feature based on a tv anime series (released on DVD) that has gained quite a following on both sides of the Pacific. It is interesting to note how Mr. Watanabe manages to pull off a balancing act required to satisfy both the loyal following of the tv series, to whom the introduction of principal characters and setting would be redundant, and to those who are relatively new to the \"Cowboy Bebop\" universe, of which I am the latter. To those not well versed in the \"Cowboy Bebop\" lore, it takes some time to get familiar with various featured characters. The film begins in the same fashion as any of its self-contained tv episode would, in that not a lot of exposition is provided for grasping the setting. The characters are more or less introduced as 'bounty hunters' and that is as much of a background the film lets on before establishing the main plot. It is not too much of a setback not to be given any opportunity to become attached to any of the characters. They are there to simply convey various scenes of the main plot and arrange them into place before they culminate into an oft-tread climax. The plot is briskly disclosed (rather literally spelled out by dialogue, no implication) and turns out to be a fairly mundane yarn that does not break any new ground in narrative nor provide any catalyst for any interesting character development or revelation. The symbolism and nuance that are laid thick in colorful locales and poignant sceneries may merit repeat viewings to appreciate them; a careful analysis of the film brings another level of enjoyment to overall experience. Also relationships between the characters and circumstantial developments of the plot seem to rely too impulsively on coincidence, not mindful of what the viewer is meant to discern. This could be attributed to attempting to weave a credible plot involving diverse elements and subplots in a limited frame of time, or it could have been something else relevant in the context of the \"Cowboy Bebop\" tv series. Some have suggested that this film is nothing but a figurative dream, in which the main character confronts the guilt of his past to help him proceed to his ultimate fate in the last remaining episodes of the tv series. If that was the case, then the film ends up being not as complete or entertaining to the \"Cowboy Bebop\" novices as it would have been for those well acquainted with the tv series. To that effect, it is rather disappointing. \"Cowboy Bebop\" features lush animation that features some of the most impressive displays of action sequences put to cel, particularly the confrontation at the medical lab between Spike and Electra, not to mention the prolonged martial no-holds-barred showdown between Vincent and Spike. The character designs are fairly distinct and varied, although in some instances they linger a bit too long on stereotypical depiction of some races. The details given to many of the locales are unsurpassed in their variety and ambience; it is a testament to how artists went as far as to include references to mainstream culture, dotting the background with \"WcDonald's\" and \"Kodac\" (although I am lead to believe such play on words is the Japanese equivalent of product placement). The music is another highlight of the film, which is not unexpected of Yoko Kano, who is a renowned composer of anime soundtrack who have previously lent her resourceful talents to other popular anime such as \"Macross Plus\" (another collaboration with the director Watanabe). The compact blend of blues and jazz heightens the urgent mood and graces slower parts with an equally effective repertoire. I don't know about others, but I did not mind the dubbing of the film too much. Maybe because the voices are supported by a script that is partially altered to bring out genuine emotion to the dialogue and to resolve colloquial barriers between the languages. \"Cowboy Bebop: Knocking on Heaven's Door\" is a good standard action romp that is further enhanced by superb animation, equally enjoyable music, and more or less succeeds both as a tribute to the series' fans and a good introduction of the series to those who might be interested in one of the better anime licenses to have come ashore. Recommended."
+      ],
+      "genres": [
+         "Animation",
+         "Action",
+         "Crime",
+         "Drama",
+         "Sci-Fi",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Bandai Visual Company",
+         "Bones",
+         "Destination Films"
+      ],
+      "summaries": [
+         "The year is 2071. Following a terrorist bombing, a deadly virus is released on the populace of Mars and the government has issued a 300 million woo-long reward, the largest bounty in history, for the capture of whoever is behind it. The bounty hunter crew of the spaceship Bebop; Spike, Faye, Jet and Ed, take the case with hopes of cashing in the bounty. However, the mystery surrounding the man responsible, Vincent, goes deeper than they ever imagined, and they aren't the only ones hunting him. The original creators of the virus have dispatched Electra to deal with Vincent and take out anyone who may stumble on the truth behind him. As the hunt for the man with no past and no future continues to escalate, they begin to question what about the world is reality and what is a dream as the line between sanity and insanity becomes more apparent.",
+         "A terrorist explosion releases a deadly virus on the masses, and it's up the bounty-hunting Bebop crew to catch the cold-blooded culprit."
+      ],
+      "budget": 0
+   },
+   "movielensId": 6283,
+   "movielens": {
+      "languages": ["日本語"],
+      "releaseDate": "2001-09-01",
+      "dvdReleaseDate": "2003-06-24",
+      "directors": ["Shinichiro Watanabe"],
+      "runtime": 116,
+      "movieId": 6283,
+      "title": "Cowboy Bebop: The Movie",
+      "mpaa": "R",
+      "actors": [
+         "Kouichi Yamadera",
+         "Unsho Ishizuka",
+         "Aoi Tada",
+         "Ai Kobayashi",
+         "Megumi Hayashibara",
+         "Mickey Curtis",
+         "Tsutomu Isobe",
+         "Jin Hirao",
+         "Renji Ishibashi",
+         "Miki Nagasawa",
+         "Hiroshi Naka",
+         "Akihiko Nakajima",
+         "Kazuhiko Inoue",
+         "Katsuyuki Konishi",
+         "Kujira"
+      ],
+      "imdbMovieId": "0275277",
+      "originalTitle": "カウボーイビバップ 天国の扉",
+      "genres": [
+         "Action",
+         "Animation",
+         "Science Fiction"
+      ],
+      "youtubeTrailerIds": ["Au1AO1xaEts"],
+      "plotSummary": "Mars. Days before Halloween 2071. Villains blow up a tanker truck on Highway One, releasing a deadly virus that kills hundreds. Fearing a bigger, even more devastating biochemical attack, an astronomical reward is offered for the arrest and capture of the person behind the destruction. On the space ship \"Bebop,\" Spike Spiegel and his crew of bounty hunters (Jet Black, Faye Valentine, Ed and Ein) are bored and short of cash. But with the news of the reward, everything changes....",
+      "tmdbMovieId": 11299,
+      "avgRating": 3.88415,
+      "releaseYear": "2001",
+      "numRatings": 3526,
+      "posterPath": "/xKTg1xbKC6BWpjS09FHNZShrP4v.jpg"
+   }
+}

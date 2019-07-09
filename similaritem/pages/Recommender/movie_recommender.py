@@ -6,7 +6,6 @@ from sklearn.preprocessing import MinMaxScaler
 from django.urls import path
 import numpy as np
 
-
 import os
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
@@ -28,7 +27,7 @@ class Recommender:
 
     # All movies of movielens 20M
     movies_big = pd.read_csv(file_path_big, header=None, encoding="ISO-8859-1", sep=",",
-                       names=["MovieID", "Title", "Genres"], engine='python')
+                             names=["MovieID", "Title", "Genres"], engine='python')
 
     def __init__(self, username):
 
@@ -89,7 +88,8 @@ class Recommender:
         for key, row in similar_movies.head(5).iterrows():
             list.append(int(row['MovieID']))
 
-        # print(similar_movies.head(5))
+        print("Same Actors")
+        print(similar_movies.head(5))
         return list
 
     def same_directors(self, movie_id):
@@ -170,7 +170,7 @@ class Recommender:
             return []
 
         # for all movies
-        for key, row in self.movies.iterrows():
+        for key, row in self.movies_big.iterrows():
             # movieID of the current movie
             movie_id_2 = row['MovieID']
             # if the current movie is the same movie as the movie for which the similarity values are computed,
@@ -221,66 +221,13 @@ class Recommender:
         # print(similar_movies.head(5))
         return list
 
-    def same_genres2(self, movie_id):
-        # series to store movies with their similarity score
-        similar_movies = pd.Series()
-
-        # check if json file exists for the given movie, if not return an empty list
-        try:
-            with open(self.extractedpath + str(movie_id) + '.json', encoding="utf8") as json_file:
-                data = json.load(json_file)
-                genres = data['movielens']['genres']
-        except FileNotFoundError:
-            return []
-
-        # for all movies
-        features = [(movie_id, 1)]
-        for key, row in self.movies.iterrows():
-            # movieID of the current movie
-            movie_id_2 = row['MovieID']
-
-            print("analyzing movie: " + str(movie_id_2))
-            # if the current movie is the same movie as the movie for which the similarity values are computed,
-            # ignore this movie
-            if str(movie_id) == str(movie_id_2):
-                continue
-
-            # check if json file exists for the given movie, if not skip this movie
-            try:
-                with open(self.extractedpath + str(movie_id_2) + '.json', encoding="utf8") as json_file:
-                    data = json.load(json_file)
-                    genres_2 = data['movielens']['genres']
-                    # avg_rate_2 = data['movielens']['avgRating']
-                    if not genres_2: continue
-            except FileNotFoundError:
-                continue
-
-            # compute len of genres intersection
-            common_genres = len([g for g in genres if g in genres_2])
-
-            # normalize the score on the number of genres of the movie given as input
-            genre_similarity = common_genres / len(genres)
-
-            # add the movie and the score to the series
-            features.append((movie_id_2, genre_similarity))
-
-        # sort the series, the movie with the highest score being on top
-        similarities = sorted(features, key=lambda k: k[1], reverse=True)
-
-        # return the 5 most similar movies
-        list = []
-        for elem in similarities[1:6]:
-            list.append(elem[0])
-
-        return list
-
     def similar_plot_description(self, movie_id):
         # check if json file exists for the given movie, if not return an empty list
         try:
             with open(self.extractedpath + str(movie_id) + '.json', encoding="utf8") as json_file:
                 data = json.load(json_file)
                 plot = data['movielens']['plotSummary']
-                genres = data['imdb']['genres']
+                genres = data['movielens']['genres']
                 movie_title = data['movielens']['originalTitle']
         except FileNotFoundError:
             return []
@@ -369,7 +316,7 @@ class Recommender:
 
         # for all movies
         features = [(movie_id, keywords, 1, 1, 0)]
-        for key, row in self.movies.iterrows():
+        for key, row in self.movies_big.iterrows():
             # movieID of the current movie
             movie_id_2 = row['MovieID']
 
@@ -524,7 +471,6 @@ class Recommender:
 
         return list
 
-
     # ****************************************************************************
     # methods used for django
 
@@ -537,19 +483,16 @@ class Recommender:
 
         id = -1
 
-        for key, row in self.movies.iterrows():
+        print(name)
+
+        for key, row in self.movies_big.iterrows():
+
 
             title = row['Title']
             title = title[:-6].strip()
-
-            #print(title)
-            #print(name)
-
-            #print(title == name)
+            title = title.strip('"')
 
             if title.lower() == name.lower():
-
-                #print(key)
                 id = row['MovieID']
 
             else:

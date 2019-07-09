@@ -1,0 +1,507 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "professor",
+            "id": 1992
+         },
+         {
+            "name": "teaching",
+            "id": 161266
+         },
+         {
+            "name": "pommy",
+            "id": 221055
+         }
+      ],
+      "imdb_id": "tt2509850",
+      "video": false,
+      "title": "The Rewrite",
+      "recommendations": [
+         253344,
+         253283,
+         330115,
+         268238,
+         323967,
+         253279,
+         333344,
+         174343,
+         332340,
+         258099,
+         174316,
+         276843,
+         209271,
+         282296,
+         294132,
+         286521,
+         249923,
+         127370,
+         209244,
+         214096
+      ],
+      "backdrop_path": "/bc8VWJSOGbOBOl6zQ2UfchVbjSb.jpg",
+      "revenue": 4453524,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Keith Michaels",
+               "gender": 2,
+               "credit_id": "540316b3c3a3684366004d3a",
+               "name": "Hugh Grant",
+               "profile_path": "/lzCB9YN6MjGosh8v27o6omhSmjL.jpg",
+               "id": 3291,
+               "order": 0
+            },
+            {
+               "cast_id": 0,
+               "character": "Holly Carpenter",
+               "gender": 1,
+               "credit_id": "540316a6c3a3684372004be6",
+               "name": "Marisa Tomei",
+               "profile_path": "/l87UKhZ1ethWmn8lksmLZ2LcQJ1.jpg",
+               "id": 3141,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "Karen Gabney",
+               "gender": 1,
+               "credit_id": "540316bdc3a3684363004af9",
+               "name": "Bella Heathcote",
+               "profile_path": "/uhNri9He6qWKrXeC68DXz5IlrGA.jpg",
+               "id": 234982,
+               "order": 2
+            },
+            {
+               "cast_id": 3,
+               "character": "Dr. Hal Lerner",
+               "gender": 2,
+               "credit_id": "540316b8c3a3684363004af5",
+               "name": "J.K. Simmons",
+               "profile_path": "/jPoNW5fugs5h8AbcE7H5OBm04Tm.jpg",
+               "id": 18999,
+               "order": 3
+            },
+            {
+               "cast_id": 6,
+               "character": "Jim Harper",
+               "gender": 2,
+               "credit_id": "540316ccc3a3684366004d3f",
+               "name": "Chris Elliott",
+               "profile_path": "/rDbqt5F2x7MDeRdCV6prRdmShnI.jpg",
+               "id": 1534,
+               "order": 4
+            },
+            {
+               "cast_id": 1,
+               "character": "Mary Weldon",
+               "gender": 1,
+               "credit_id": "540316acc3a3685b740001a2",
+               "name": "Allison Janney",
+               "profile_path": "/cDcB8mKP1GiIeoM3Qe7GIucs0iv.jpg",
+               "id": 19,
+               "order": 5
+            },
+            {
+               "cast_id": 8,
+               "character": "Ellen",
+               "gender": 1,
+               "credit_id": "540316d8c3a368119c00023d",
+               "name": "Caroline Aaron",
+               "profile_path": "/9v9h9bR4CX6MrpZFgEktTHFIlgT.jpg",
+               "id": 1910,
+               "order": 6
+            },
+            {
+               "cast_id": 28,
+               "character": "Clem Ronson",
+               "gender": 0,
+               "credit_id": "57b67647c3a3685fcc001b25",
+               "name": "Steven Kaplan",
+               "profile_path": "/ykJbCsWuDsWZ9BRXij6Qn7jcmf5.jpg",
+               "id": 475571,
+               "order": 7
+            },
+            {
+               "cast_id": 5,
+               "character": "Sara Liu",
+               "gender": 1,
+               "credit_id": "540316c3c3a368119c000238",
+               "name": "Annie Q.",
+               "profile_path": "/r4jc87qnenO9hWortDbYkw4xtTE.jpg",
+               "id": 1358460,
+               "order": 8
+            },
+            {
+               "cast_id": 29,
+               "character": "Andrea Stein-Rosen",
+               "gender": 0,
+               "credit_id": "57b67673c3a368335d0008d0",
+               "name": "Emily Morden",
+               "profile_path": null,
+               "id": 1667791,
+               "order": 9
+            },
+            {
+               "cast_id": 7,
+               "character": "Rosa",
+               "gender": 1,
+               "credit_id": "540316d2c3a3684363004aff",
+               "name": "Aja Naomi King",
+               "profile_path": "/euB6B69w3ishCETGHxRJPlUZja1.jpg",
+               "id": 1120699,
+               "order": 10
+            },
+            {
+               "cast_id": 12,
+               "character": "Billy Frazier",
+               "gender": 2,
+               "credit_id": "540316f4c3a3684372004bf2",
+               "name": "Andrew Keenan-Bolger",
+               "profile_path": "/mADeq5GtCC4fToAx7i44zeI4vFJ.jpg",
+               "id": 1358987,
+               "order": 11
+            },
+            {
+               "cast_id": 9,
+               "character": "Flo Bai",
+               "gender": 1,
+               "credit_id": "540316e1c3a3684363004b03",
+               "name": "Maggie Geha",
+               "profile_path": "/tFt879xXm4WoAAu7nyasuKcKB66.jpg",
+               "id": 1358986,
+               "order": 12
+            },
+            {
+               "cast_id": 10,
+               "character": "Jessica",
+               "gender": 1,
+               "credit_id": "540316e7c3a368068c004bb2",
+               "name": "Nicole Patrick",
+               "profile_path": "/aV4InXJFf7M2NYoczFBPLZZnWu0.jpg",
+               "id": 84424,
+               "order": 13
+            },
+            {
+               "cast_id": 30,
+               "character": "Rachel Anslow",
+               "gender": 0,
+               "credit_id": "57b676e99251414c5b0019f5",
+               "name": "Lauren Macklin",
+               "profile_path": null,
+               "id": 1333667,
+               "order": 14
+            },
+            {
+               "cast_id": 11,
+               "character": "Greg Nathan",
+               "gender": 2,
+               "credit_id": "540316edc3a3682d980033ed",
+               "name": "Jason Antoon",
+               "profile_path": "/muhQKtaOAZ7d3kG1zZ8nNakuIuz.jpg",
+               "id": 130749,
+               "order": 15
+            },
+            {
+               "cast_id": 13,
+               "character": "Paramedic",
+               "gender": 2,
+               "credit_id": "540316fac3a368119c000240",
+               "name": "Frank Harts",
+               "profile_path": "/lhdRpw1PIpQubhPi1rFDmWbKYAA.jpg",
+               "id": 946953,
+               "order": 16
+            },
+            {
+               "cast_id": 14,
+               "character": "",
+               "gender": 1,
+               "credit_id": "540316fec3a3682d980033ef",
+               "name": "Olivia Luccardi",
+               "profile_path": "/ox7XsDDE6vahKCwvzXvUrOwp2tE.jpg",
+               "id": 1210610,
+               "order": 17
+            },
+            {
+               "cast_id": 27,
+               "character": "Maya",
+               "gender": 0,
+               "credit_id": "57b676289251414c5e0019ec",
+               "name": "Damaris Lewis",
+               "profile_path": null,
+               "id": 223135,
+               "order": 18
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "54033f5e0e0a2658db007b49",
+               "name": "Marc Lawrence",
+               "profile_path": "/ayItx1leDQbNklqX9wJbPGCD7Yk.jpg",
+               "id": 18323,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54ebc32fc3a3686d640001fd",
+               "name": "Marc Lawrence",
+               "profile_path": "/ayItx1leDQbNklqX9wJbPGCD7Yk.jpg",
+               "id": 18323,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "57b673d29251414c5b00190e",
+               "name": "Ilene Starger",
+               "profile_path": "/dVYmLCzLbFukPENgiQMvw4BnQoH.jpg",
+               "id": 6493,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "57b674109251410cc5000888",
+               "name": "Linda Cohen",
+               "profile_path": null,
+               "id": 17863,
+               "department": "Sound",
+               "job": "Music Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57b6744d9251410d1700094c",
+               "name": "Clyde Lawrence",
+               "profile_path": null,
+               "id": 1667789,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57b674949251414c5e00196f",
+               "name": "Gary Jones",
+               "profile_path": null,
+               "id": 543194,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57b674a79251414c0100195c",
+               "name": "Ken Eluto",
+               "profile_path": null,
+               "id": 1627481,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57b674ca9251414c5e00197f",
+               "name": "Ola Maslik",
+               "profile_path": null,
+               "id": 1475896,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57b674f59251417c21006ba0",
+               "name": "Jonathan Brown",
+               "profile_path": null,
+               "id": 56791,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57b6750f9251410d17000995",
+               "name": "David Koplan",
+               "profile_path": null,
+               "id": 179974,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "57b675229251410cc50008ef",
+               "name": "Liz Glotzer",
+               "profile_path": "/guI0c9r0K5F37ytaT7IqSr8J0la.jpg",
+               "id": 46347,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57b675429251414c5b001983",
+               "name": "Martin Shafer",
+               "profile_path": null,
+               "id": 41377,
+               "department": "Production",
+               "job": "Producer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Romance",
+            "id": 10749
+         },
+         {
+            "name": "Comedy",
+            "id": 35
+         }
+      ],
+      "popularity": 7.261765,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 289727,
+      "vote_count": 237,
+      "budget": 0,
+      "overview": "An Oscar-winning writer in a slump leaves Hollywood to teach screenwriting at a college on the East Coast, where he falls for a single mom taking classes there.",
+      "similar": [
+         11688,
+         14160,
+         11184,
+         8065,
+         11615,
+         207,
+         106,
+         489,
+         9769,
+         181886,
+         12573,
+         1262,
+         1919,
+         13363,
+         19698,
+         214597,
+         284293,
+         11004,
+         8288,
+         2259
+      ],
+      "original_title": "The Rewrite",
+      "runtime": 107,
+      "poster_path": "/49mHOUXZDbRMFavMrzUPv1KoMyj.jpg",
+      "spoken_languages": [
+         {
+            "name": "Français",
+            "iso_639_1": "fr"
+         },
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         }
+      ],
+      "production_companies": [{
+         "logo_path": "/7znWcbDd4PcJzJUlJxYqAlPPykp.png",
+         "name": "Castle Rock Entertainment",
+         "id": 97,
+         "origin_country": ""
+      }],
+      "release_date": "2014-06-15",
+      "vote_average": 5.9,
+      "belongs_to_collection": null,
+      "tagline": "A comedy about getting on the same page.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Marc Lawrence"],
+      "runtime": 107,
+      "synopsis": null,
+      "writers": ["Marc Lawrence"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt2509850/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjQyMDAyODUxOV5BMl5BanBnXkFtZTgwODcxMDMxNDE@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Marisa Tomei, J.K. Simmons, Aja Naomi King | See full cast and crew »"],
+      "reviews": [
+         "Stop us if you've heard this one before. A writer with a huge hit under his belt stumbles headlong into obscurity, but unexpectedly gets his mojo back when he befriends - and falls in love with - a woman who jolts him out of his comfort zone. It's not just the plot of Music And Lyrics, a film made seven years ago, starring Hugh Grant and written and directed by Marc Lawrence. It's also the plot of The Rewrite, a movie made seven years later, starring Hugh Grant and written and directed by Marc Lawrence. This blatant recycling of plot, star and director should be quite enough to turn even the most undiscerning of audience members cynical and dismissive of the final result. And yet, The Rewrite surprises rather than annoys, revealing a newfound and very welcome maturity in both director and star. Oscar-winning screenwriter Keith Michaels (Grant) is down in the dumps: he can't get a job in Hollywood anymore, and he's been estranged from his family for years. To stem - or perhaps as part of - his downward spiral, he reluctantly agrees to teach a screen writing course in a small, remote college town as far-removed from the excesses of Hollywood as it's possible to get. He promptly gets into trouble when he arrives, diving into an inappropriate sexual relationship with student Karen (Bella Heathcote) and offending stern Professor Mary Weldon (Allison Janney) with his vaguely sexist opinions. But, as the term progresses, he begins to find inspiration in his students, ranging from a Star Wars nut through to a writing prodigy, but most importantly, optimistic single mom Holly (Marisa Tomei). On paper, it's a recipe for dire predictability. Arrogant, formerly famous writer brought to his knees and taught the value of humility, feminism and love. Of course Holly will win Keith over with her spirit and heart. Evidently he will find in teaching the meaning that has been lost in his life for far too long. Obviously it means that our protagonist will become - gasp! - a better man. As it turns out, it's pretty safe to make all of these assumptions: The Rewrite doesn't re-invent the romantic comedy, nor does it fling any huge surprises at the audience. Keith's rehabilitation is a foregone conclusion the moment he cruises into town. But The Rewrite subverts expectations by being, well, really rather good. You might be able to see the big plot twists coming from a mile away, but Lawrence's script and characters are sharp and funny enough to provide plenty of tiny, pleasant surprises throughout the film. Keith's Hollywood arrogance and casual sexism are never excused or passed off as part of his roguish charm - instead, he's called out on them at every turn. The women he encounters, especially Karen and Holly, are also very far from being the disposable stereotypes that tend to populate rom-coms. The former isn't simply a brainless, sexual diversion, and the latter gets firmly into Keith's face and refuses to let him take the easy way out, as one suspects he's been doing for a very long time. Even the supporting characters who typically waltz in and out of scenes for a hit-and-run gag or two are memorably drawn, aided by the fact that they're played by some of the best character actors in the business. J.K. Simmons is a hoot as Dr. Lerner, the English department head who gets all weepy at any mention of his wife and daughters; and Janney, marvellous as always, hits the perfect note of imperious disdain as an Austen enthusiast horrified as much by Keith's skirt-chasing as his belief that movie scripts can be considered great literature. It's refreshing, too, to see Grant embrace his age and really exercise his acting muscles. He may be playing the older version of many a suave, shallow-but-not-really character he's played before, but there's a depth and sadness to Keith that feels real. Tomei is just as appealing as Holly - the character is a little underwritten (the fact that she's a single mom barely factors into the film, her daughters appearing for only one brief albeit charming dance sequence), but she doesn't feel that way in Tomei's hands. Grant and Tomei share a sweet, credible chemistry, if not exactly a combustible one, and this adds weight and colour to their unlikely on-screen relationship. Given the nature and quality of Grant's earlier collaborations with Lawrence, most people probably aren't expecting The Rewrite to be anything more than a fun but forgettable rom-com, designed to entertain rather than to engage. And yes, as most people would imagine, the film doesn't reinvent the wheel and its plot is as predictable as it gets. But, as Keith realises during the semester, there's always time to look at things with a fresh eye - to give someone or something a second chance - and The Rewrite, imbued as it is with such welcome wit, heart and maturity, very much deserves that consideration.",
+         "I did not expect much from this movie, surprisingly I smiled from start to finish. The Rewrite is a lively comedy about second chance and self-acceptance. A one-time awarded Hollywood screenwriter takes a job as a writer-in-residence at Binghampton University! \"Gotta pay the bills\"�It's a far cry from his former glorious LA life and his teaching skills are questionable. As the leading man, Grant embraces his maturity in this project, it suits him well. I was charmed by the chemistry from a solid cast including Allison Janney as a humorless Jane Austen scholar and the radiant Marisa Tomei. Sometimes all we need is one humble witty comedy like The Rewrite!",
+         "OK, I had to write a review for this movie.. actually, it's my first review here. Nowadays, there aren't many movies making one smile or giving some good lesson..and I think this movie is very very warm-hearted and shows exactly the reality! There isn't one scene where I can say: \"Wow, that was much exaggerated!\", 'cause it isn't.. Besides being a family-friendly movie, it speaks to every generation, good for the young and the old. Hugh Grant is really someone who can make you laugh with his cold and cool attitude and his bizarre sarcasm. I'm very grateful he did this movie. All other actors are also rightly chosen and a plus for Marisa Tomei for looking awesome!",
+         "Hugh Grant is an icon and icons get older too, like the rest of us mortals. Here's a wonderful movie portraying a 'has been' screenplay writer in Hollywood struggling through life, divorced and no clue how to be a dad to his 18 year old son, which he didn't speak to for over a year. He hits rock bottom and is forced to teach at a remote university upstate New York to pay his bills. In the bumpy process through it all he realizes that teaching gives him a true perspective on his own life and enjoyment for being valued by his students. He finds peace in not juggling anymore in Tinseltown. The script is magnificent, it tells a story through a comic lens with a melodramatic touch. It's a a classic romantic comedy with lots of nice movie clichés. Hugh Grant didn't loose his touch, he matured and accepts it, the floppy hair turned grey. Excellent casting by the way. Nice to see Marisa Tomei, Allison Janney and J.K. Simmons in a supporting role.",
+         "Early this year, this reviewer went to see the 2013 film 'Love Is the Perfect Crime', a French-language film about a student-seducing literature professor, with plenty of bloody murder and mayhem. By contrast 'The Rewrite', from Castle Rock, is a gentle comedy set in the academic world of Binghamton, New York. 'The Rewrite' tells the story of a washed-up script-writer who is forced to take up a job teaching script-writing. The decent trailer for this film shows this, and the selection procedure for the class, which we quickly get to, and so gives you a good idea what to expect in the film. Hugh Grant plays the part of this writer-turned-teacher. Hugh Grant has previously given us classic comedies, such as 'Four Weddings and a Funeral' (1994), 'Mickey Blue Eyes' and 'Notting Hill' both of 1999, and 'About a Boy' (2002). In 'AaB', Mr Grant played a one-hit-wonder pop-star trying to fill the rest of his life, so this role is somewhat similar. In a recent interview Mr Grant described how his life had taken a dramatic change in recent years, which forced him into political activity, thus also forcing him into having a much lesser role in the movie business. With regard to 'The Rewrite', Mr Grant said that audience reaction now made him realize that his age prevented him from playing certain scenes, and one true-life scene had him looking back unable to capture his former glory. Thus this film, 'The Rewrite', in reality, can be seen as a turning point, where the previously foppish young Hugh Grant, has now turned into the now mature Hugh Grant. This real-life journey for Mr Grant, is one that is also faced by his character in this film, thus does the art imitate real-life. The realistic scenario for this film was written by Marc Lawrence, who previously wrote the classic 'Miss Congeniality' (2000). One cannot help wonder how autobiographical the one-hit-wonder script-writer plot is. Certainly all the Hollywood-related scenes have a truly authentic feel to them. Marc Lawrence, who directed, as well as wrote, this film, and actor Hugh Grant, have given us a vision of life that seems very believable. What must be stated, is how good Mr Lawrence's script is. Nearly every line is clever and funny, though if you laugh-out-loud you may miss the next line. There are also some poignant moments in the film too, and these are expertly directed, and are expertly conveyed to us, sometimes just by using silence. Tremendous! Director Marc Lawrence is Brooklyn-born, as is leading-lady Marisa Tomei. Miss Tomei did the lovely rom-coms 'My Cousin Vinny' (1992) and 'Only You' (1994). In more recent years, she did the more serious 'Before The Devil Knows You Are Dead' (2007) and 'The Wrestler' (2008). Miss Tomei turned down appearing in the 1994 film 'Four Weddings and a Funeral'. Here, at last, she plays opposite Hugh Grant. Miss Tomei's character is an optimistic and pushy mature-student, with a very full life. However, unlike Jason Alexander's 'Seinfeld' character George Costanza, who admitted \"I have a thing for Marisa Tomei\" in 'Seinfeld' (Series 7, Episode 14), Hugh Grant's student-seducing character strangely seems unable to lift his eyes from the young bit-of-skirt to see Marisa Tomei. \"What's not to like!\" as George would say. NB Castle Rock made 'Seinfeld'. The plot of 'The Rewrite' has our jaded LA-based script-writer relocating to small-town Binghamton. Thus, it is similar in theme to 'Groundhog Day' (1993), in which the jaded weather-man has to leave New York to meet Punxsutawney Phil, the groundhog, in \"rural Pennsylvania\". How appropriate it is then that this similar rom-com plot, again has Chris Elliott in a supporting role. There is also good support from the supporting-cast who make up the motley-crew of the screen-writing class. Serious actor JK Simmons, who has appeared regularly in several of the Law & Order TV franchises, and who terrified us in the TV series 'Oz', here gets to do some touching comedy. Allison Janney too, gives strong support. Australian-born Bella Heathcote has the biggest part in the writing-class, and she acts it well, but perhaps the more poignant scenes were with Andrew Keenan-Bolger, and particularly, Steven Kaplan, who was in the best scene in the film. The clever and funny script teaches us a little about the English language, script-writing, and life in general. Suitable to those in education, and also those interested in film-making, as well as all others, this film is surprisingly realistic, and has a clever and funny script, as well as some thought-provoking moments. What's not to like! 10/10. PS. Jumping out of my seat at the start of the credits, this reviewer nearly missed some nice scenes that accompanied the credits, so do stay to catch them, as they are well worth seeing.",
+         "Film of Choice in a Boeing 767 at 36,000 feet - The Rewrite. I wanted something light and predictable for a 7 hour transatlantic flight and had about 50 films to choose from, how times have changed. The rewrite stars Hugh Grant as a once bright young Oscar winning screen writer who hasn't written anything of note since. Divorced from his wife, alienated from his son and so broke his electric gets cut off, he is forced to take a teaching position in a small American town in the back of beyond. This is a typical Hugh Grant vehicle, and while there is nothing outstanding about this film, if you are a fan of his acting style and the way he bumbles through his film is the same fashion time and again, you are guaranteed to like this film. I find I can watch his films and enjoy them, and he is helped along here by Marisa Tomei who is a single Mum taking his class. Unlike its main character, this film is not an Oscar winner but is a fairly watchable effort.",
+         "I am not a critic. Hence its very easy for me to rate this movie as 8. Just because of the sheer value in it. Most people will miss it... but please stick till the credits, you'll enjoy it. It's not a movie about which we gossip about, or go to a multiplex to watch with beer and pop-corn... It's a movie about a lonely man finding hope in something real in life and inspiring that hope in many more. Don't just read these comments, and more comments on how to acting, or the story was. Go see the movie yourself. If you are a teacher, take your students with you. If you want to be a teacher then you'll find really good pointers here. Overall a great fun movie with absolutely no sex, murder, villain, politics or crime. It really hard these days to come by such a movie. One thing no one commented about are the background music... smooth",
+         "What a fun and charming movie. It's so good to see Hugh Grant in a film that utilizes both his comedic timing and that let's him ground himself in things a bit more serious. It would be easy to dismiss this film as formulaic (and I suppose it is to a certain extent, but what movie isn't these days?), but it does allow Grant's character to peel back some layers to reveal a man more complicated and not quite so lacking in depth as you might expect at first. Marisa Tomei is wonderful as Grant's student and confidant. It's so nice to see two talented actors of comparable age building a terrific camaraderie and rapport with each other and the dialogue. JT Simmons is terrifically funny with a nice supporting role as the dean. In fact, the whole supporting case is great. This is the movie that happens when you have a tremendous cast, taking a nice story, and making it believable and funny without some of the hackneyed tics that Hollywood always likes to tack on. Really worth your time.",
+         "Marc Lawrence (Miss Congeniality, Miss Congeniality 2: Armed and Fabulous, Two Weeks Notice, Music and Lyrics, etc) both wrote and directed this light hearted comedy and while its focus is on comedy, the film has a lot to say about midlife crises, career choices, student life, and learning to be optimistic. An Oscar-winning writer, Keith Michaels (Hugh Grant) is on hard times � poor followup films, no interest from the industry, bad debts, a divorce, and writer's block � and his agent finds him a screen writing teaching job in Binghamton, NY at SUNY. Arriving in the town he is put off by the incessant rain, drinks in a local bar and picks up a student (Bella Heathcote) who wants to be in his screen writing class and his bed, and makes a fool of himself at the faculty welcoming reception when he angers the Jane Austen expert Mary Weldon (Allison Janney), embarrasses his boss Dr Lerner (JK Simmons), and has a wretched start with his first class (instead of reading the 30 screenplays from which he is to select his class he instead goes online and selects the most attractive girls). He encounters Holly (Marisa Tomei), a single mom taking classes there and that develops slowly into a meaningful, life changing relationship. Despite the efforts of friends he has made, his affair with a student nearly dismisses him from his job, but he stays because of his unexpected growing interest in his students and in teaching � and Holly, of course. The movie is light but good hearted and Hugh Grant, Marisa Tomei et all make it very worth watching.",
+         "OK-so it's rather predictable and gets off to a slow start, but I found this indie as it progressed, enhanced by an excellent cast, won me over with its' wit and humor. It reminded me somewhat of the movie \"Liberal Arts\", from filmmaker Josh Radnor, which I also like quited a lot. Hugh Grant is in fine form here, portraying Keith Michaels. a once highly successful screenwriter, but whose career is now flagging badly. Out of desperation, he accepts a position, set up by his agent (Caroline Aaron), which will have him teach a screen writing course at Binghampton University, in upstate New York. Grant plays the fast-talking and glib cynic as well as anyone, and when he arrives in Binghampton, he undergoes the culture shock of feeling he's in the \"sticks\", and firmly believes all teachers are \"losers\" and that writing can't be taught anyway. Of course over time, he will see he can really help and care about his students, and will learn some important lessons for himself as well. He gets exceptional support here from such screen notables as Marisa Tomei, J.K. Simmons, Allison Janney, and Chris Elliott. All of the students add much to the movie as well, with Bella Heathcote leading the way and getting the most screen time. Overall, this film, ably written and directed by Marc Lawrence, was a pleasant surprise, and I found it quite funny and enjoyable. Even the outtakes, as the credits are rolling, were very humorous."
+      ],
+      "genres": [
+         "Comedy",
+         "Romance"
+      ],
+      "productionCompanies": [
+         "Castle Rock Entertainment",
+         "Resnick Interactive Development"
+      ],
+      "summaries": [
+         "Keith Michaels, an academy award winner for his screenplay for the movie \"Paradise Misplaced\", now faces the challenge of being rejected in Hollywood. To get a breakthrough he is forced to take the job he most hates, teaching. The assignment is at a college is far from his comforts and could possibly take him to a new life.",
+         "An Oscar-winning writer in a slump leaves Hollywood to teach screenwriting at a college on the East Coast, where he falls for a single mom taking classes there."
+      ],
+      "budget": 0
+   },
+   "movielensId": 115502,
+   "movielens": {
+      "languages": [
+         "Français",
+         "English"
+      ],
+      "releaseDate": "2014-06-15",
+      "dvdReleaseDate": null,
+      "directors": ["Marc Lawrence"],
+      "runtime": 107,
+      "movieId": 115502,
+      "title": "The Rewrite",
+      "mpaa": "PG-13",
+      "actors": [
+         "Hugh Grant",
+         "Marisa Tomei",
+         "Bella Heathcote",
+         "J.K. Simmons",
+         "Chris Elliott",
+         "Allison Janney",
+         "Caroline Aaron",
+         "Steven Kaplan",
+         "Annie Q.",
+         "Emily Morden",
+         "Aja Naomi King",
+         "Andrew Keenan-Bolger",
+         "Maggie Geha",
+         "Nicole Patrick",
+         "Lauren Macklin",
+         "Jason Antoon",
+         "Frank Harts",
+         "Olivia Luccardi",
+         "Damaris Lewis"
+      ],
+      "imdbMovieId": "2509850",
+      "originalTitle": "The Rewrite",
+      "genres": [
+         "Romance",
+         "Comedy"
+      ],
+      "youtubeTrailerIds": [
+         "cL-tP03XoH4",
+         "WhEVfpHH9Vk"
+      ],
+      "plotSummary": "An Oscar-winning writer in a slump leaves Hollywood to teach screenwriting at a college on the East Coast, where he falls for a single mom taking classes there.",
+      "tmdbMovieId": 289727,
+      "avgRating": 3.18519,
+      "releaseYear": "2014",
+      "numRatings": 108,
+      "posterPath": "/49mHOUXZDbRMFavMrzUPv1KoMyj.jpg"
+   }
+}

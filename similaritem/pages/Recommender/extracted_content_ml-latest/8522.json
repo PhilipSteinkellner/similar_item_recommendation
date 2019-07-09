@@ -1,0 +1,885 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "bar",
+            "id": 1010
+         },
+         {
+            "name": "con man",
+            "id": 3202
+         },
+         {
+            "name": "bandit",
+            "id": 33344
+         }
+      ],
+      "imdb_id": "tt0032828",
+      "video": false,
+      "title": "My Little Chickadee",
+      "recommendations": [
+         59917,
+         16768,
+         23574,
+         27201,
+         17041,
+         238811,
+         38787,
+         18511,
+         76804,
+         18398
+      ],
+      "backdrop_path": "/2IgjXgARF9n3RJ15D2Wr7OmhF7U.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Cuthbert J. Twillie",
+               "gender": 2,
+               "credit_id": "52fe45d9c3a368484e072777",
+               "name": "W.C. Fields",
+               "profile_path": "/hPUjAJE8HAzMJhH1oc2p3mdDAVj.jpg",
+               "id": 13954,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Flower Belle Lee",
+               "gender": 0,
+               "credit_id": "52fe45d9c3a368484e07277b",
+               "name": "Mae West",
+               "profile_path": "/vYadtnVE1t4X8cF8LA7WCNQXNbh.jpg",
+               "id": 103616,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Jeff Badger",
+               "gender": 0,
+               "credit_id": "52fe45d9c3a368484e07277f",
+               "name": "Joseph Calleia",
+               "profile_path": "/xyb6l5Epo5NXbKUXD7puhLoYca2.jpg",
+               "id": 33747,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Wayne Carter",
+               "gender": 2,
+               "credit_id": "52fe45d9c3a368484e072783",
+               "name": "Dick Foran",
+               "profile_path": "/bOOhd2C58tafUadbbtKNHglyhKD.jpg",
+               "id": 81168,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Aunt Lou",
+               "gender": 1,
+               "credit_id": "52fe45d9c3a368484e072787",
+               "name": "Ruth Donnelly",
+               "profile_path": "/k7ex88hoKxcmYRsfXwewqZLAYDf.jpg",
+               "id": 30214,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Mrs. Gideon",
+               "gender": 1,
+               "credit_id": "52fe45d9c3a368484e07278b",
+               "name": "Margaret Hamilton",
+               "profile_path": "/vZhqGZoHnj3HoVDg1HFGVf3c197.jpg",
+               "id": 9072,
+               "order": 5
+            },
+            {
+               "cast_id": 7,
+               "character": "Amos Budge",
+               "gender": 2,
+               "credit_id": "52fe45d9c3a368484e07278f",
+               "name": "Donald Meek",
+               "profile_path": "/zKB7cWdaXAi12lDOMlc85m1HiqV.jpg",
+               "id": 14968,
+               "order": 6
+            },
+            {
+               "cast_id": 8,
+               "character": "Cousin Zeb",
+               "gender": 0,
+               "credit_id": "52fe45d9c3a368484e072793",
+               "name": "Fuzzy Knight",
+               "profile_path": "/x8aKlYScrZhgSSeV4iyGHyxi9lv.jpg",
+               "id": 103619,
+               "order": 7
+            },
+            {
+               "cast_id": 9,
+               "character": "Uncle John",
+               "gender": 2,
+               "credit_id": "52fe45d9c3a368484e072797",
+               "name": "Willard Robertson",
+               "profile_path": "/obv0gmpXV3hGpnUKQVInkBPKBcA.jpg",
+               "id": 103620,
+               "order": 8
+            },
+            {
+               "cast_id": 10,
+               "character": "Milton, Twillie's Indian confederate",
+               "gender": 0,
+               "credit_id": "52fe45d9c3a368484e07279b",
+               "name": "George Moran",
+               "profile_path": null,
+               "id": 103621,
+               "order": 9
+            },
+            {
+               "cast_id": 11,
+               "character": "Schoolboy",
+               "gender": 2,
+               "credit_id": "52fe45d9c3a368484e07279f",
+               "name": "Jackie Searl",
+               "profile_path": "/y037bKo6eDGULEHWmPqVBwNBpqP.jpg",
+               "id": 103622,
+               "order": 10
+            },
+            {
+               "cast_id": 12,
+               "character": "Mrs. 'Pygmy' Allen",
+               "gender": 0,
+               "credit_id": "52fe45d9c3a368484e0727a3",
+               "name": "Fay Adler",
+               "profile_path": null,
+               "id": 103623,
+               "order": 11
+            },
+            {
+               "cast_id": 13,
+               "character": "Saloon musician",
+               "gender": 2,
+               "credit_id": "52fe45d9c3a368484e0727a7",
+               "name": "Gene Austin",
+               "profile_path": null,
+               "id": 103624,
+               "order": 12
+            },
+            {
+               "cast_id": 14,
+               "character": "Candy",
+               "gender": 0,
+               "credit_id": "52fe45d9c3a368484e0727ab",
+               "name": "Russell Hall",
+               "profile_path": null,
+               "id": 103625,
+               "order": 13
+            },
+            {
+               "cast_id": 15,
+               "character": "Coco",
+               "gender": 0,
+               "credit_id": "52fe45d9c3a368484e0727af",
+               "name": "Otto Heimel",
+               "profile_path": null,
+               "id": 103626,
+               "order": 14
+            },
+            {
+               "cast_id": 19,
+               "character": "Townsman",
+               "gender": 0,
+               "credit_id": "5742a1309251411de400127d",
+               "name": "Mark Anthony",
+               "profile_path": null,
+               "id": 1624664,
+               "order": 15
+            },
+            {
+               "cast_id": 20,
+               "character": "Townsman",
+               "gender": 2,
+               "credit_id": "5742a13dc3a368175f001502",
+               "name": "Hank Bell",
+               "profile_path": "/jb4n9VFv7ykyWQxBrs2pFQeVsoA.jpg",
+               "id": 1095107,
+               "order": 16
+            },
+            {
+               "cast_id": 21,
+               "character": "Lem",
+               "gender": 2,
+               "credit_id": "5742a14e9251416ce6001ec8",
+               "name": "William Benedict",
+               "profile_path": "/uOmA9EUJIW18nBZDvU06yhSQxcM.jpg",
+               "id": 1263061,
+               "order": 17
+            },
+            {
+               "cast_id": 22,
+               "character": "Boy",
+               "gender": 0,
+               "credit_id": "5742a161c3a3686ffd000d1f",
+               "name": "Georgie Billings",
+               "profile_path": null,
+               "id": 1241532,
+               "order": 18
+            },
+            {
+               "cast_id": 23,
+               "character": "Leading Citizen",
+               "gender": 2,
+               "credit_id": "5742a172c3a3686c8c000dba",
+               "name": "Wade Boteler",
+               "profile_path": "/A2B8WDQWBZCV1mXerlJvVX0J2hG.jpg",
+               "id": 120818,
+               "order": 19
+            },
+            {
+               "cast_id": 24,
+               "character": "Barfly Drinking Straight Whiskey",
+               "gender": 2,
+               "credit_id": "5742a1849251414788000ed9",
+               "name": "Al Bridge",
+               "profile_path": "/8Hg4xik4ux0MJfcRGAPvfLWJhPS.jpg",
+               "id": 120785,
+               "order": 20
+            },
+            {
+               "cast_id": 25,
+               "character": "Hotel Clerk",
+               "gender": 2,
+               "credit_id": "5742a1949251414f52000d31",
+               "name": "Harlan Briggs",
+               "profile_path": null,
+               "id": 34238,
+               "order": 21
+            },
+            {
+               "cast_id": 26,
+               "character": "Barfly",
+               "gender": 2,
+               "credit_id": "5742a1a7c3a3687755001bd8",
+               "name": "Bob Burns",
+               "profile_path": "/tERGtEnaSH7ZOsmsFgOCNcYOjCo.jpg",
+               "id": 1090872,
+               "order": 22
+            },
+            {
+               "cast_id": 27,
+               "character": "Henchman",
+               "gender": 0,
+               "credit_id": "5742a1b6c3a3686c8c000dc1",
+               "name": "Eddie Butler",
+               "profile_path": null,
+               "id": 1406920,
+               "order": 23
+            },
+            {
+               "cast_id": 28,
+               "character": "Porter",
+               "gender": 2,
+               "credit_id": "5742a1c79251411de400128b",
+               "name": "Lane Chandler",
+               "profile_path": "/3DN1h5C5qYQ3Efd4demVUmZqP3g.jpg",
+               "id": 90369,
+               "order": 24
+            },
+            {
+               "cast_id": 29,
+               "character": "Indian squaw",
+               "gender": 0,
+               "credit_id": "5742a1d89251415474000c75",
+               "name": "Lita Chevret",
+               "profile_path": "/jBpI1fuOaZpNd89RtDJMDkHesz8.jpg",
+               "id": 229663,
+               "order": 25
+            },
+            {
+               "cast_id": 30,
+               "character": "Henchman",
+               "gender": 0,
+               "credit_id": "5742a1e8c3a36868e4000e4a",
+               "name": "Bing Conley",
+               "profile_path": null,
+               "id": 1427105,
+               "order": 26
+            },
+            {
+               "cast_id": 31,
+               "character": "Squawk Mulligan - Bartender",
+               "gender": 2,
+               "credit_id": "5742a1fcc3a3686942000de8",
+               "name": "Jimmy Conlin",
+               "profile_path": "/dCYGtlO3jXm1jd1oPZiVxEZTEYQ.jpg",
+               "id": 89672,
+               "order": 27
+            },
+            {
+               "cast_id": 32,
+               "character": "Sheriff of Little Bend",
+               "gender": 2,
+               "credit_id": "5742a20ec3a3686942000dec",
+               "name": "William B. Davidson",
+               "profile_path": "/6MmhkoDiuyoW7HxlJ6F42kPkm6J.jpg",
+               "id": 95729,
+               "order": 28
+            },
+            {
+               "cast_id": 33,
+               "character": "Boy on Train",
+               "gender": 0,
+               "credit_id": "5742a21f9251411dc800122c",
+               "name": "Clyde Dembeck",
+               "profile_path": null,
+               "id": 1624665,
+               "order": 29
+            },
+            {
+               "cast_id": 34,
+               "character": "Uppity Little Bend Woman",
+               "gender": 0,
+               "credit_id": "5742a230925141541f000cbf",
+               "name": "Jan Duggan",
+               "profile_path": "/ApgsfI5OCOL8LGMSrbYabs7n2L5.jpg",
+               "id": 544971,
+               "order": 30
+            },
+            {
+               "cast_id": 35,
+               "character": "Townsman Wanting to Form Posse",
+               "gender": 2,
+               "credit_id": "5742a2449251416ce6001eea",
+               "name": "Frank Ellis",
+               "profile_path": "/qYE3wuLA2NQxkuTh16tOhhd9Psi.jpg",
+               "id": 34165,
+               "order": 31
+            },
+            {
+               "cast_id": 36,
+               "character": "Train Passenger",
+               "gender": 0,
+               "credit_id": "5742a258925141111a001297",
+               "name": "Al Ferguson",
+               "profile_path": null,
+               "id": 1090894,
+               "order": 32
+            },
+            {
+               "cast_id": 37,
+               "character": "Chinese Train Passenger",
+               "gender": 2,
+               "credit_id": "5742a2759251414788000ef4",
+               "name": "Chester Gan",
+               "profile_path": "/edAzH2RqpiKtHb2Xuc0x8DnU5nN.jpg",
+               "id": 96259,
+               "order": 33
+            },
+            {
+               "cast_id": 38,
+               "character": "Bowlegged Man",
+               "gender": 0,
+               "credit_id": "5742a29d9251414f52000d52",
+               "name": "Slim Gaut",
+               "profile_path": null,
+               "id": 1250246,
+               "order": 34
+            },
+            {
+               "cast_id": 39,
+               "character": "Schoolboy",
+               "gender": 2,
+               "credit_id": "5742a2b99251414788000efb",
+               "name": "Ben Hall",
+               "profile_path": null,
+               "id": 97398,
+               "order": 35
+            },
+            {
+               "cast_id": 40,
+               "character": "Porter",
+               "gender": 0,
+               "credit_id": "5742a2cbc3a36868e4000e75",
+               "name": "Buddy Harris",
+               "profile_path": null,
+               "id": 1426375,
+               "order": 36
+            },
+            {
+               "cast_id": 41,
+               "character": "Schoolboy",
+               "gender": 0,
+               "credit_id": "5742a2ddc3a3687755001bfc",
+               "name": "Charles Hart",
+               "profile_path": null,
+               "id": 1422267,
+               "order": 37
+            },
+            {
+               "cast_id": 42,
+               "character": "Barfly Drinking Panther",
+               "gender": 2,
+               "credit_id": "5742a2ed925141541f000cd3",
+               "name": "Edward Hearn",
+               "profile_path": "/bI6SabwolYEYxSaprgjfRdSF2iJ.jpg",
+               "id": 975306,
+               "order": 38
+            },
+            {
+               "cast_id": 43,
+               "character": "Pete - Printer",
+               "gender": 0,
+               "credit_id": "5742a2ff9251411dc8001251",
+               "name": "Otto Hoffman",
+               "profile_path": "/1C6VGYklEbMvKffXSNnGOhnv1VI.jpg",
+               "id": 103947,
+               "order": 39
+            },
+            {
+               "cast_id": 44,
+               "character": "Townsman Wanting to Form Posse",
+               "gender": 2,
+               "credit_id": "5742a316c3a3687755001c05",
+               "name": "Lloyd Ingraham",
+               "profile_path": "/kTD4cHNTKODSggq58s6xKGOWkza.jpg",
+               "id": 121247,
+               "order": 40
+            },
+            {
+               "cast_id": 45,
+               "character": "Schoolboy",
+               "gender": 0,
+               "credit_id": "5742a32bc3a368175f00153b",
+               "name": "Danny Jackson",
+               "profile_path": null,
+               "id": 1249528,
+               "order": 41
+            },
+            {
+               "cast_id": 46,
+               "character": "Deputy",
+               "gender": 0,
+               "credit_id": "5742a33e9251411dc8001259",
+               "name": "Si Jenks",
+               "profile_path": "/se1vmf9YDvkI2u6sQB2TLH07RtA.jpg",
+               "id": 89736,
+               "order": 42
+            },
+            {
+               "cast_id": 47,
+               "character": "Henchman",
+               "gender": 2,
+               "credit_id": "5742a354c3a3686ffd000d5c",
+               "name": "John Kelly",
+               "profile_path": "/iu1SLv1ePBPo6cukTWocEPn286q.jpg",
+               "id": 13825,
+               "order": 43
+            },
+            {
+               "cast_id": 48,
+               "character": "Townsman",
+               "gender": 2,
+               "credit_id": "5742a368925141111a0012bd",
+               "name": "Walter McGrail",
+               "profile_path": "/eq2HPrDJk8RyN4lcmaFi56hNkFN.jpg",
+               "id": 121411,
+               "order": 44
+            },
+            {
+               "cast_id": 49,
+               "character": "Townsman",
+               "gender": 2,
+               "credit_id": "5742a379c3a36818050014ca",
+               "name": "Robert McKenzie",
+               "profile_path": "/z61SqdfvuuCVAdjwfTM50rWadZ1.jpg",
+               "id": 88653,
+               "order": 45
+            },
+            {
+               "cast_id": 50,
+               "character": "Townsman",
+               "gender": 2,
+               "credit_id": "5742a388c3a368175f001545",
+               "name": "Charles McMurphy",
+               "profile_path": "/gXEE1kZlWhpPRDN1K43yZZMFoH5.jpg",
+               "id": 1016691,
+               "order": 46
+            },
+            {
+               "cast_id": 51,
+               "character": "Greasewood Sheriff-Elect on Train",
+               "gender": 2,
+               "credit_id": "5742a3999251414f52000d68",
+               "name": "George Melford",
+               "profile_path": null,
+               "id": 931194,
+               "order": 47
+            },
+            {
+               "cast_id": 52,
+               "character": "Train Conductor",
+               "gender": 2,
+               "credit_id": "5742a3ab9251414f52000d6c",
+               "name": "James C. Morton",
+               "profile_path": null,
+               "id": 121250,
+               "order": 48
+            },
+            {
+               "cast_id": 53,
+               "character": "Miss Foster - Schoolteacher",
+               "gender": 1,
+               "credit_id": "5742a3bb9251411dc8001268",
+               "name": "Anne Nagel",
+               "profile_path": "/umJoymalS4sZTPeFEd34iwSWz6O.jpg",
+               "id": 34471,
+               "order": 49
+            },
+            {
+               "cast_id": 54,
+               "character": "Gambler",
+               "gender": 2,
+               "credit_id": "5742a3cd9251415474000ca8",
+               "name": "Vester Pegg",
+               "profile_path": null,
+               "id": 1349871,
+               "order": 50
+            },
+            {
+               "cast_id": 55,
+               "character": "Barfly",
+               "gender": 2,
+               "credit_id": "5742a3de9251414f52000d75",
+               "name": "Bob Reeves",
+               "profile_path": null,
+               "id": 120200,
+               "order": 51
+            },
+            {
+               "cast_id": 56,
+               "character": "Judge",
+               "gender": 2,
+               "credit_id": "5742a3f0c3a368705a000cf2",
+               "name": "Addison Richards",
+               "profile_path": "/ztihdDQTNfW1ASDKkMUBGDlRonc.jpg",
+               "id": 97007,
+               "order": 52
+            },
+            {
+               "cast_id": 57,
+               "character": "Salvation Army Girl",
+               "gender": 0,
+               "credit_id": "5742a401c3a3686c8c000e13",
+               "name": "Betty Roche",
+               "profile_path": null,
+               "id": 1422410,
+               "order": 53
+            },
+            {
+               "cast_id": 58,
+               "character": "Henchman",
+               "gender": 0,
+               "credit_id": "5742a4129251414788000f25",
+               "name": "Jack Roper",
+               "profile_path": null,
+               "id": 128643,
+               "order": 54
+            },
+            {
+               "cast_id": 59,
+               "character": "Man",
+               "gender": 0,
+               "credit_id": "5742a42ac3a3686c8c000e1a",
+               "name": "Dick Rush",
+               "profile_path": null,
+               "id": 932310,
+               "order": 55
+            },
+            {
+               "cast_id": 60,
+               "character": "Schoolboy",
+               "gender": 0,
+               "credit_id": "5742a43c9251416ce6001f2d",
+               "name": "Buster Slaven",
+               "profile_path": "/lrmAXablYi5KsDszBx3mJPjk7Zm.jpg",
+               "id": 1422446,
+               "order": 56
+            },
+            {
+               "cast_id": 61,
+               "character": "Diner",
+               "gender": 1,
+               "credit_id": "5742a475c3a36868e4000eaa",
+               "name": "Dorothy Vernon",
+               "profile_path": "/6P1TPGLYj3X2vt94EbCCCBWlLsM.jpg",
+               "id": 927616,
+               "order": 57
+            },
+            {
+               "cast_id": 62,
+               "character": "Gambler",
+               "gender": 2,
+               "credit_id": "5742a4899251414f52000d85",
+               "name": "Morgan Wallace",
+               "profile_path": "/sJyB7G2YA64IxA8iiGIRZCYrvTp.jpg",
+               "id": 99375,
+               "order": 58
+            },
+            {
+               "cast_id": 63,
+               "character": "Boy",
+               "gender": 2,
+               "credit_id": "5742a49ac3a3687755001c27",
+               "name": "Delmar Watson",
+               "profile_path": "/7ziZucuRxTz7kc9pLKGAKAFGjqL.jpg",
+               "id": 30219,
+               "order": 59
+            },
+            {
+               "cast_id": 64,
+               "character": "Townsman",
+               "gender": 2,
+               "credit_id": "5742a4ae9251411dc8001286",
+               "name": "Blackie Whiteford",
+               "profile_path": "/7MxOraYjMkfxD3DOsCdLLG7j6sJ.jpg",
+               "id": 975598,
+               "order": 60
+            },
+            {
+               "cast_id": 65,
+               "character": "Townsman",
+               "gender": 0,
+               "credit_id": "5742a4bcc3a3686ffd000d79",
+               "name": "Joe Whitehead",
+               "profile_path": null,
+               "id": 33972,
+               "order": 61
+            },
+            {
+               "cast_id": 66,
+               "character": "Barfly in Trance",
+               "gender": 0,
+               "credit_id": "5742a4ce925141111a0012f5",
+               "name": "Bill Wolfe",
+               "profile_path": null,
+               "id": 102069,
+               "order": 62
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe45d9c3a368484e0727b5",
+               "name": "Edward F. Cline",
+               "profile_path": "/lkAs1ydjzF9SjDIXDFOx5VvCxjl.jpg",
+               "id": 13953,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe45d9c3a368484e0727bb",
+               "name": "Mae West",
+               "profile_path": "/vYadtnVE1t4X8cF8LA7WCNQXNbh.jpg",
+               "id": 103616,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe45d9c3a368484e0727c1",
+               "name": "W.C. Fields",
+               "profile_path": "/hPUjAJE8HAzMJhH1oc2p3mdDAVj.jpg",
+               "id": 13954,
+               "department": "Writing",
+               "job": "Screenplay"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Western",
+            "id": 37
+         }
+      ],
+      "popularity": 1.433054,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 29353,
+      "vote_count": 4,
+      "budget": 0,
+      "overview": "Set in the American Old West of the 1880s, Miss Flower Belle Lee (Mae West) is on her way to visit relatives out west. While she is traveling on a stagecoach a masked bandit on horseback holds up the stage for its shipment of gold. As he makes his getaway with the gold, he takes Flower Belle with him. Flower Belle then walks into town under suspicion of being in collusion with the bandit.",
+      "similar": [
+         370755,
+         10147,
+         256591,
+         9277,
+         9472,
+         339967,
+         376659,
+         25196,
+         1991,
+         640,
+         154400,
+         180863,
+         412000,
+         51620,
+         25195,
+         2604,
+         241848,
+         3090,
+         6282,
+         1923
+      ],
+      "original_title": "My Little Chickadee",
+      "runtime": 83,
+      "poster_path": "/bB0ewfiQCrtpdRTd5DQs3cLSigg.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+         "name": "Universal Pictures",
+         "id": 33,
+         "origin_country": "US"
+      }],
+      "release_date": "1940-02-09",
+      "vote_average": 7.5,
+      "belongs_to_collection": null,
+      "tagline": "It's the lafftime of a lifetime ! . . as \"Wild Bill\" Fields tries to tame the West!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Black and White",
+      "budgetCurrency": null,
+      "directors": ["Edward F. Cline"],
+      "runtime": 83,
+      "synopsis": null,
+      "writers": [
+         "Mae West",
+         "W.C. Fields"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0032828/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTcxNjM2ODAwNV5BMl5BanBnXkFtZTcwMDQwMzUyMQ@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Mae West, W.C. Fields, Joseph Calleia | See full cast and crew »"],
+      "reviews": [
+         "You could call it \"slapstick\" at its best. They don't make them like W C Fields and Mae West anymore. Is that a good thing? Probably. Any imitations could hardly live up to their special brand of comedy. That episode on the train where they get acquainted -- \"It is not good for man to be alone\" quoth he, from the Bible at that. \"Yeah, it's not much fun for a woman either,\" says she. \"Do you think it possible for us to be alone together?\" he asks. \"Quite possible,\" is her reply. Who can resist a smile at that dialog! By the way, for one scene how they could get that billy goat to lie down in bed under blankets, I'll never know! There's also a scene of a young girl coming into the bar slightly tipsy and I'm sure it's a young Celeste Holmes but there are no credits to verify this. I wonder if anyone else has noticed this? Flower Belle (Mae West) is burning the midnight oil with \"The Bandit,\" who is masked of course. She also encounters a naive editor (Dick Foran) and conquers that territory too to some extent. Well, for Flower Belle it's all in a day's work, you might say. Townsfolk are up in arms and intent on finding the Masked Bandit. Along the way they make W C Fields their sheriff but that doesn't solve anything. Meanwhile down at the saloon... This movie with Mae is the one I like best.",
+         "Mae West and W. C. Fields were fantastic together, in spite of or their reportedly mutual loathing each other. Fields was at the top of his game here, and Mae West, in spite of her age and build was absolutely lovely. I really must see some of her earlier stuff, before the Hays Office made all films suitable for six-year-bolds. It was a bit incongruous to see Margaret Hamilton in a role here, when she will always be the Wicked Witch of the West. Some memorable lines from West and Fields throughout, and West's continuous streams of double entendres were a lot of fun. Also cute to see each of them say the other's signature line to each other at the end.",
+         "Although My Little Chickadee did not turn out to be the comedy smash of all time, both W.C. Fields and Mae West got in enough of their own shtick to make it worthwhile to see. What I can't figure out is when both were under contract at Paramount earlier in the decade why Adolph Zukor never thought of teaming them. Probably because both of them were highly individualized and highly specialized performers. Both wrote their own material, but Mae believed her words were golden as she wrote them and Bill Fields was notorious with the ad-libs, even with a script he wrote. Like Dallas in Stagecoach, Mae West as Flower Belle gets kicked out of one town and heads for another town accompanied by one of the Lady's League in the person of Margaret Hamilton. She's been spotted by Hamilton entertaining the mysterious masked bandit as only Mae entertains. On the train she meets up with small time con man Cuthbert J. Twillie, a Fields pseudonym if there ever was one. She's convinced she's got a bankroll and she needs a husband to maintain a respectable front. Her gambler friend Donald Meek who looks like a clergyman and remember in Stagecoach Thomas Mitchell originally thought he was one, marries them on the train. As a husband Fields is as ardent as Bob Hope was in The Paleface with Jane Russell who also needed to get married out of necessity to a stooge. He's sure willing enough, but Mae's to smart for him as she's got town editor Dick Foran and saloon owner Joseph Calleia panting hot and heavy for her as well. My favorite moment is when Mae slips a goat into her bed and Fields gets a big surprise when he thinks he's finally going to score. I'd have to say the film's a tie in terms of these two icons trying to top the other. There's plenty enough here to satisfy fans of both Mae and Bill and the many like myself who love both of them.",
+         "I love this little gem of a movie. It has two of the great stars of the early cinema, W.C. Fields and Mae West. Fields is hilarious in his role as con man/card shark Cuthbert J. Twillie, who meets Flower Belle Lee (Miss West's character) on a train bound for Greasewood, a town that is ran by corrupt saloon owner Jeff Badger (Joseph Calleia). Flower Belle was ran out of her previous town and cannot return until she is married and a respectful woman, i.e., not promiscuous. She marries Cuthbert just to give her some respectability and it's hilarious to watch Fields pathetic attempts to try to be with his unwilling bride. Of course, since this a Mae West film (both she and Fields wrote the screenplay) there are several funny double entendres in the film and Mae gets to sing a song, Willie of the Valley. I love both Mae West and W.C. Fields...they were both legends and I really wish they would have made another film together. The Hollywood rumor mill had it that they actually couldn't stand each other off screen, but if this is true, and I tend to believe that their feud was exaggerated for publicity purposes, you could not tell it by their performances. They had terrific on screen chemistry together. \"My Little Chickadee\" is a fun film all the way around.",
+         "I believe that, some time in the 1970's, more than thirty years after MY LITTLE CHICKADEE was made, the term \"high concept\" was coined. So, starting in the seventies, a lot of movies with sure-fire ideas became the trend. (\"What?\", someone, circa 1990 might say, \"Arnold Schwarzenegger is being teamed with Danny DeVito? Why, that must be hilarious!\") So, clearly, somebody thought the idea of W.C. Fields and Mae West sharing the silver screen would work, and MY LITTLE CHICKADEE remains the ultimate example of both the pitfalls and the merits of High Concept movie-making. Fields and West, both iconic figures, were actually so similar that the audience's loyalties are torn. We watch a West picture to observe Mae West turn the tables on men and we watch a Fields picture to watch Fields flout authority. When Fields and West meet and appear to like each other (he wanting sex and she wanting money) we love them both. Fields gets off one of his most memorable lines as he holds her fingers up to his lips and says, \"What symmetrical digits.\") She, in turn, throws her false submission at him, letting us know between the lines that she's a woman of steel. So far, so good. Their romance is viewed suspiciously by a character actress who is the perfect foil for both of them: Margaret Hamilton, who, of course, played the Wicked Witch of the West the year before in THE WIZARD OF OZ. Fields and West are married aboard the train by West's con-man friend -- hence, they are not really being married -- and this actor is also the sort of figure who belongs in a movie with either Fields or West. But let's cut to the chase. Both Fields and West have separate moments for the rest of the movie and each of these moments is somewhat minimal. West's scene teaching a classroom of overgrown adolescents seems to be a whitewashing of a bawdy routine from her stage days. It almost makes it. Fields's various encounters with gamblers and a female drunk (who HAS to be Celeste Holm, uncredited, as someone else on this board has noted) are promising, but somehow never really engaging. Thinking about this movie, nevertheless, brings a smile to the face. There are so many little things which, popping into the memory, are funny, that it has to be acknowledged that MY LITTLE CHICKADEE achieved its goal: driving into our minds the idea of the harmony of two comics who'd made audiences howl with laughter in live performance twenty years earlier. It should also be said that the ideal audience for MY LITTLE CHICKADEE is an audience in a darkened movie theatre. Ideally, the year should be the year it was made and the audience should be made up of people who've been anticipating this pairing and would be more than willing to hoot throughout. Has anybody got a time machine?",
+         "It's a shame that West and Fields had such a dislike for each other. In their few scenes together you can see how incredible this film could've been. Their introduction on the train is a delight, with him slurping all over her \"symmetrical digits\" and she crooning \"you're compromisin' me\". Field's disguising himself as her lover the Masked Bandit and getting some lip action under false pretenses is hilarious. If only they could've spent so much more screen time with each other instead of focusing on their separate routines, this would be a major classic. As it is it is still great fun. And Fields' asides to Margaret Hamilton are priceless! \"I hope she don't get too violent--I haven't strength enough to knock her down!\"",
+         "With these two, it should have been one of the greatest comedy films of all time. Yes, it falls short of that, but only because of the expectations. Be grateful for what it is instead of regretful for what it isn't. If you like these two, the film is a treasure.",
+         "My Little Chickadee is like a home movie W.C. Fields and Mae West just happened to make in their spare time, on the studio lot, back in 1940. The budget was not as ample as Miss West's er, well anyway, it's a pretty big picture but not that big. The dialogue is better than the film, which is frankly an amateurish mess. Both stars were past their prime when they made this western parody, and both seem a little tired, in general, and with one another, in their scenes together. They're much better when reciting the dialogue, which they worked on together (ah, to have been a fly on the wall during their script conferences). Maybe they spent all their energy on the writing. There certainly isn't much in their performing. For all its flaws, the movie has some hilarious moments, such as Fields' suggestion that he has \"some definite pear-shaped ideas\" he would like to discuss with Miss West. Movie censorship was at its peak when this one was made. Fields and West had been two of the shining lights of early talkies, and the advent of the Production Code in the mid-thirties set them both back professionally, especially Miss West, who was the prime cause of it. Since they couldn't quite give this movie their all, due to the extreme censorship of the time, one has to continually read between the lines. There's a lot there, though not as much as I think they imagined there was. The film is an heroic effort none the less, if by today's standards rather quaint.",
+         "Mae West stars alongside W.C. Fields in this comedy classic from the 1930s about the Wild West. She plays Florabell who is disgraced by one town and goes to another town. Aboard the train, she meets up with W.C. Fields's shady character and they get married. Florabell's gentlemen admirers and suitors include the masked bandit who rides on a horse and robs people among others. Anyway, W.C. Fields called Mae West, his favorite co-star, probably because she was his peer. She knew how to write and make some laughs. The scene in the town school is quite memorable. Mae West had her own unique walk, style, and language all of her own worth watching. Want to know who inspired Madonna and Lady Gaga, I think Mae West would have been the first and unforgettable lady of shocking attitude. The film also stars Margaret Hamilton as the dreadful woman who hates Florabell. Hamilton also played the Wicked Witch in the Wizard of Oz. She was a brilliant character actress of her time and is worth watching here. In the days of the Great Depression and a coming war, I could see why people flocked to the theaters every weekend.",
+         "Mae West and W.C. Fields are legendary icons of comedy. Unfortunately, when they teamed up to star in director Edward F. Cline's western comedy \"My Little Chickadee\" that seemed to cancel each other out. Presumably, each performer penned their own lines and scenes, because this black & white oater qualifies as lackluster by anybody's standards. Indeed, each plays their usual roles with West as a seductress and Fields as a con artist, but they end up doing nothing memorable in a thin plot that seems to end too soon and without any resolution. Point in fact is that the notorious Masked Rider is never brought to justice. Typically, the Hollywood Production Code dictated that all wrongdoers be punished but the bandit never receives his comeuppance. Meanwhile, West and Fields are constantly trying to take advantage of each other. She marries him to get his loot, but he has nothing but counterfeit dollars. Former Warner Brothers singing cowboy star Dick Foran plays a newspaper publisher, but he is wasted in this nothing role. Joseph Calleia plays a greedy saloon keeper and town boss who kills without a qualm. Nothing adds up here but it is amusing just to see West and Fields together for the only movie in which they appeared in. Flower Belle Lee (Mae West of \"Klondike Annie\") is riding in a stagecoach bound for Little Bend to visit her Aunt Lou (Ruth Donnelly of \"Petticoat Politics\") and Uncle John (Willard Robertson of \"Kentucky\") when a Masked Rider holds up the coach. He blasts away with his six-gun at a strong box filled with gold pouches and orders our heroine to hand over the bags. Instead of settling for the gold alone, the Masked Rider abducts Flower Belle. No sooner has the outlaw taken Flower Belle hostage than he releases her later and she gets to come home. Everybody welcomes her with open arms, until a snooty busybody woman, Mrs Gideon (Margaret Hamilton of \"The Wizard of Oz\"), spots the Masked Rider one night embracing Flower Belle in her upstairs room. Gideon clamors to high heaven about this union, and Flower Belle is brought to trail where the authorities, principally a judge (Addison Richards of \"Flying Tigers\"), decide to banish her from Little Bend. The judge refuses to let Flower Belle to return until she becomes married and respectable. Mrs. Gideon accompanies Flower Belle to Greasewood City so she can contact the Women's Vigilante Committee about Flower Belle's activities. During the train ride to Greasewood City, the engineer has to halt the train when an Indian on horseback with a man on a travois stops on the tracks. This individual is a con artist, Cuthbert J. Twillie (W.C. Fields of \"The Bank Dick\"), and he needs a ride so he climbs aboard. Along the way, a band of savage Indians attack the train. Cuthbert cowers in fear, while Flower Belle not only slings lead at the redskins but also proves that she is an accurate shot with a revolver. She knocks at least a half-dozen of Indians off their ponies. Later, she spots Cuthbert's open valise bulging with wads of money and arranges for a swindler, Amos Budge (Donald Meek of \"Captain Blood\") to marry her. Of course, since Budge isn't an actual minister, the wedding is a sham. When they arrive in Greasewood City, Flower Belle attracts the amorous attention of local saloon owner and town boss Jeff Badger (Joseph Calleia of \"Gilda\")and he is prepared to kill Cuthbert. Flower Belle convinces him to do otherwise and Badger appoints Cuthbert as town marshal. Later, Flower Belle learns from crusading newspaper editor Wayne Carter (Dick Foran of \"The Petrified Forest\") that town marshals come and go like the breeze. Meantime. the Masked Rider resumes his affair with Flower Belle. Surprisingly, Flower Belle has never seen this outlaw without his mask. Cuthbert decides to impersonate the Masked Rider to get Flower Belle to kiss him and the ruse initially works until she catches a whiff of his breath. Naturally, Mrs. Gideon spots this liaison and howls again to high heaven. Everybody comes scrambling out into the night and they capture Cuthbert and decide to stretch his neck with a noose. At this point, Flower Belle discovers the Masked Rider's identity and convinces him to ride into town and thwart the lynching. When the Masked Rider appears, he slings a set of saddle bags with loot in them. Cuthbert is turned loose and the town has enough money to build a proper school house. Cuthbert heads off for greener pastures while Flower Belle leaves Jeff and Wayne to compete for her affections. Ho-hum! Sure, Mae West utters her suggestive lines and W.C. Fields indulges in his pompous dialogue. They will make your smile a lot, but you rarely feel like laughing out loud at their tame antics. The scene where Fields climbs into bed with a goat is amusing. Nevertheless, at 83 minutes, \"My Little Chickadee\" is thoroughly trite and only worth a gander if you are either a West or Fields compleatist."
+      ],
+      "genres": [
+         "Comedy",
+         "Western"
+      ],
+      "productionCompanies": ["Universal Pictures"],
+      "summaries": ["Rightly suspected of illicit relations with the Masked Bandit, Flower Belle Lee is run out of Little Bend. On the train she meets con man Cuthbert J. Twillie and pretends to marry him for \"respectability.\" Arrived in Greasewood City with his unkissed bride, Twillie is named sheriff by town boss Jeff Badger...with an ulterior motive. Meanwhile, both stars inimitably display their specialties, as Twillie tends bar and plays cards, and Flower Belle tames the town's rowdy schoolboys..."],
+      "budget": 0
+   },
+   "movielensId": 8522,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1940-02-09",
+      "dvdReleaseDate": "2004-11-09",
+      "directors": ["Edward F. Cline"],
+      "runtime": 83,
+      "movieId": 8522,
+      "title": "My Little Chickadee",
+      "mpaa": "",
+      "actors": [
+         "W.C. Fields",
+         "Mae West",
+         "Joseph Calleia",
+         "Dick Foran",
+         "Ruth Donnelly",
+         "Margaret Hamilton",
+         "Donald Meek",
+         "Fuzzy Knight",
+         "Willard Robertson",
+         "George Moran",
+         "Jackie Searl",
+         "Fay Adler",
+         "Gene Austin",
+         "Russell Hall",
+         "Otto Heimel",
+         "Mark Anthony",
+         "Hank Bell",
+         "William Benedict",
+         "Georgie Billings",
+         "Wade Boteler",
+         "Al Bridge",
+         "Harlan Briggs",
+         "Bob Burns",
+         "Eddie Butler",
+         "Lane Chandler",
+         "Lita Chevret",
+         "Bing Conley",
+         "Jimmy Conlin",
+         "William B. Davidson",
+         "Clyde Dembeck",
+         "Jan Duggan",
+         "Frank Ellis",
+         "Al Ferguson",
+         "Chester Gan",
+         "Slim Gaut",
+         "Ben Hall",
+         "Buddy Harris",
+         "Charles Hart",
+         "Edward Hearn",
+         "Otto Hoffman",
+         "Lloyd Ingraham",
+         "Danny Jackson",
+         "Si Jenks",
+         "John Kelly",
+         "Walter McGrail",
+         "Robert McKenzie",
+         "Charles McMurphy",
+         "George Melford",
+         "James C. Morton",
+         "Anne Nagel",
+         "Vester Pegg",
+         "Bob Reeves",
+         "Addison Richards",
+         "Betty Roche",
+         "Jack Roper",
+         "Dick Rush",
+         "Buster Slaven",
+         "Dorothy Vernon",
+         "Morgan Wallace",
+         "Delmar Watson",
+         "Blackie Whiteford",
+         "Joe Whitehead",
+         "Bill Wolfe"
+      ],
+      "imdbMovieId": "0032828",
+      "originalTitle": "My Little Chickadee",
+      "genres": [
+         "Comedy",
+         "Western"
+      ],
+      "youtubeTrailerIds": ["x_Vp23EpguY"],
+      "plotSummary": "Set in the American Old West of the 1880s, Miss Flower Belle Lee (Mae West) is on her way to visit relatives out west. While she is traveling on a stagecoach a masked bandit on horseback holds up the stage for its shipment of gold. As he makes his getaway with the gold, he takes Flower Belle with him. Flower Belle then walks into town under suspicion of being in collusion with the bandit.",
+      "tmdbMovieId": 29353,
+      "avgRating": 3.42222,
+      "releaseYear": "1940",
+      "numRatings": 90,
+      "posterPath": "/bB0ewfiQCrtpdRTd5DQs3cLSigg.jpg"
+   }
+}

@@ -1,0 +1,426 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "detective",
+            "id": 703
+         },
+         {
+            "name": "sherlock holmes",
+            "id": 9401
+         },
+         {
+            "name": "suspense",
+            "id": 9937
+         },
+         {
+            "name": "curse",
+            "id": 10541
+         }
+      ],
+      "imdb_id": "tt0264695",
+      "video": false,
+      "title": "The Hound of the Baskervilles",
+      "recommendations": [],
+      "backdrop_path": "/nWbASG2iOWnyj40QGrfDDDpLrHb.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Sherlock Holmes",
+               "gender": 2,
+               "credit_id": "52fe44c1c3a368484e03504d",
+               "name": "Matt Frewer",
+               "profile_path": "/5yQeoDfwsSOnO8H2g8UjPLg6buG.jpg",
+               "id": 40009,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Dr. Watson",
+               "gender": 0,
+               "credit_id": "52fe44c1c3a368484e035051",
+               "name": "Kenneth Welsh",
+               "profile_path": "/q44fb9FLrA9ZWzP8xGv6PcX24V6.jpg",
+               "id": 6074,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Sir Henry",
+               "gender": 2,
+               "credit_id": "52fe44c1c3a368484e035055",
+               "name": "Jason London",
+               "profile_path": "/z4eSvvH51WsZppswHVHcqFJJm6L.jpg",
+               "id": 52474,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Beryl",
+               "gender": 1,
+               "credit_id": "52fe44c1c3a368484e035059",
+               "name": "Emma Campbell",
+               "profile_path": "/jvjXhnjuIfPEiPM7lNB7ATJH9Kn.jpg",
+               "id": 51538,
+               "order": 3
+            },
+            {
+               "cast_id": 14,
+               "character": "Dr. Mortimer",
+               "gender": 2,
+               "credit_id": "5905c8d0c3a3684a6801c520",
+               "name": "Gordon Masten",
+               "profile_path": "/oeVhRruDyodXDJPsJSpmpNLbTqh.jpg",
+               "id": 179421,
+               "order": 4
+            },
+            {
+               "cast_id": 15,
+               "character": "Stapleton",
+               "gender": 0,
+               "credit_id": "5905c8e1c3a3684af001a672",
+               "name": "Robin Wilcock",
+               "profile_path": "/uQVUewxDrNQF2M1TvbZlJeGDwv5.jpg",
+               "id": 1142866,
+               "order": 5
+            },
+            {
+               "cast_id": 16,
+               "character": "Mr. Barrymore",
+               "gender": 0,
+               "credit_id": "5905c8f192514169d801c9b7",
+               "name": "Arthur Holden",
+               "profile_path": "/y0aCeMJKAzVJO3pydEiVCV2Ca4k.jpg",
+               "id": 115596,
+               "order": 6
+            },
+            {
+               "cast_id": 17,
+               "character": "Mrs. Barrymore",
+               "gender": 1,
+               "credit_id": "5905c90492514169e101cc2e",
+               "name": "Leni Parker",
+               "profile_path": "/4fjzruUJHV5EvTwOipQZ92qg7Td.jpg",
+               "id": 90461,
+               "order": 7
+            },
+            {
+               "cast_id": 18,
+               "character": "Sir Hugo (as Benoit Gauthier)",
+               "gender": 0,
+               "credit_id": "5905c91892514169b801c373",
+               "name": "Ben Gauthier",
+               "profile_path": null,
+               "id": 1785110,
+               "order": 8
+            },
+            {
+               "cast_id": 19,
+               "character": "Frankland",
+               "gender": 2,
+               "credit_id": "5905c92a9251416a1401d167",
+               "name": "John Dunn-Hill",
+               "profile_path": "/bP61W9unS9EzRPAFXtXsensJOMi.jpg",
+               "id": 218899,
+               "order": 9
+            },
+            {
+               "cast_id": 20,
+               "character": "Perkins",
+               "gender": 2,
+               "credit_id": "5905c93bc3a3684ad701c940",
+               "name": "Joe Cobden",
+               "profile_path": "/kTf7OtOY1qBPmEbc4Kky9uMN58K.jpg",
+               "id": 51389,
+               "order": 10
+            },
+            {
+               "cast_id": 21,
+               "character": "Seldon",
+               "gender": 2,
+               "credit_id": "5905c94dc3a3684a7601b028",
+               "name": "Jason Cavalier",
+               "profile_path": "/vziXaR1oew6TwRMqc8G1oNH2IxS.jpg",
+               "id": 30617,
+               "order": 11
+            },
+            {
+               "cast_id": 22,
+               "character": "Mrs. Laura Lyons",
+               "gender": 1,
+               "credit_id": "5905c960c3a3684af001a6d7",
+               "name": "Linda Smith",
+               "profile_path": "/q1I8x4LNp3LYblqEgRecWECi5HO.jpg",
+               "id": 198630,
+               "order": 12
+            },
+            {
+               "cast_id": 23,
+               "character": "Sir Charles (as Barrie Baldaro)",
+               "gender": 0,
+               "credit_id": "5905c97a92514169c001caf9",
+               "name": "Barry Baldaro",
+               "profile_path": null,
+               "id": 98480,
+               "order": 13
+            },
+            {
+               "cast_id": 24,
+               "character": "Maiden",
+               "gender": 0,
+               "credit_id": "5905c98e92514169fb01d5b5",
+               "name": "Nathalie Girard",
+               "profile_path": null,
+               "id": 207880,
+               "order": 14
+            },
+            {
+               "cast_id": 25,
+               "character": "Grimpen Man #1",
+               "gender": 2,
+               "credit_id": "5905c9a1c3a3684af001a70f",
+               "name": "Greg Kramer",
+               "profile_path": "/oyqzMZ5cpsAEOGihB9aj3GXhJrj.jpg",
+               "id": 306574,
+               "order": 15
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe44c1c3a368484e03505f",
+               "name": "Rodney Gibbons",
+               "profile_path": null,
+               "id": 56983,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5905c829c3a3684ad701c865",
+               "name": "Joe Wiesenfeld",
+               "profile_path": null,
+               "id": 29055,
+               "department": "Writing",
+               "job": "Author"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5905c839c3a3684af001a5eb",
+               "name": "Irene Litinsky",
+               "profile_path": null,
+               "id": 82506,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5905c84a92514169d801c937",
+               "name": "Pedro Gandol",
+               "profile_path": null,
+               "id": 1611808,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5905c876c3a3684ab401d48c",
+               "name": "Marc Ouellette",
+               "profile_path": null,
+               "id": 938280,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5905c81a92514169fb01d478",
+               "name": "Arthur Conan Doyle",
+               "profile_path": "/wkfHlJ56PpSqui0Cjhnahs3sfZg.jpg",
+               "id": 25167,
+               "department": "Writing",
+               "job": "Author"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5905c859c3a3684a7601af61",
+               "name": "Michael Prupas",
+               "profile_path": null,
+               "id": 58175,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5905c88c92514169d801c966",
+               "name": "Eric Cayla",
+               "profile_path": null,
+               "id": 110926,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5905c89d92514169d001c3fc",
+               "name": "Vidal Béïque",
+               "profile_path": null,
+               "id": 1515637,
+               "department": "Editing",
+               "job": "Editor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Crime",
+            "id": 80
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Mystery",
+            "id": 9648
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 2.172783,
+      "production_countries": [{
+         "iso_3166_1": "CA",
+         "name": "Canada"
+      }],
+      "id": 25293,
+      "vote_count": 8,
+      "budget": 0,
+      "overview": "The mysterious death of Sir Charles Baskerville is blamed on a longstanding curse that has followed the Baskerville family for two hundred years. Enigmatic sleuth Sherlock Holmes is on the case to uncover the truth about a monstrous, supernatural hound who roams the moors, waiting to attack the latest heir to the Baskerville estate. Written by Echo Bridge Home Entertainment",
+      "similar": [
+         9411,
+         12150,
+         984,
+         4771,
+         949,
+         189,
+         75780,
+         807,
+         1939,
+         1923,
+         21484,
+         10651,
+         11423,
+         4639,
+         15069,
+         8090,
+         20676,
+         10900,
+         1586,
+         320
+      ],
+      "original_title": "The Hound of the Baskervilles",
+      "runtime": 90,
+      "poster_path": "/ywM6951OsC1RfkWhfj6LMbGvSCt.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [],
+      "release_date": "2000-10-28",
+      "vote_average": 6.6,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Canada",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Rodney Gibbons"],
+      "runtime": 90,
+      "synopsis": null,
+      "writers": [
+         "Joe Wiesenfeld",
+         "Arthur Conan Doyle"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0264695/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTQxMjI5OTIzNF5BMl5BanBnXkFtZTcwNjMyMjEzMQ@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Matt Frewer, Kenneth Welsh, Jason London | See full cast and crew »"],
+      "reviews": [
+         "I cannot agree with most of the comments here. Any film version of a Holmes story is going to be a problem - why pick on this one? After all, something of the rather pointed (sometimes uncomfortable) sarcasm of the literary Holmes comes through. No performance is seriously bad in this film; Frewer comes over well, so do the rest. I sometimes wonder if affection for certain film portrayals rather overrides the accuracy of the story - this one was not the worst by a long shot. Utter accuracy is not probable in the film world, so we should, I think, not be all too picky. Even so, the flavour of the stories is one which no director has ever captured, I admit. This film goes some way towards rectifying the matter.",
+         "Before I bought the DVD of this version of the \"Hound of the Baskervilles\" with Matt Frewer playing Holmes, I read the other user comments listed on the IMDB and I have to agree that the script was not very good and in fact, I found it to be somewhat poor in many respects. I also must mention that Jason London's performance as Sir Henry Baskerville was in my opinion dismal. He played the role as if the casting company went out in the street and asked the first guy they came across to please step in and take the role. I would think that Joe Namath could have done better but on the other hand maybe that is what London was trying to do. Maybe London was trying to put into the role such realism as a simple man pulled into a situation as an inheritor to a vast English estate that he played the role with a deadpan delivery of his lines. I wonder. On the other hand I was delighted with Matt Frewer's Sherlock Holmes. His physical appearance fit the role well and his particular charactaristics in stage presentation I think added an interesting twist to the Holmes character. As a Sherlockian, I like to see the differences that various actors give to the character. I would have liked to seen more of Frewer's Holmes in this film but the dismal script distorted and shortened the story so that the Holmes character is only seen in the first quarter of the film and then near the end of the film. In agreement with most of the other comments made on this version, If you are a film buff and a Sherlockian as I am, than this DVD is worth adding to your collection. If you are simply a fan of mystery films perhaps it is better for you to wait for this version to be rerun on TV or if you find it in your video rental store, the film is certainly worth the rental fee. Trailrider",
+         "The four Sherlock Holmes movies by Hallmark are just good fun versions for kids. Don't even try to take 'em seriously folks. Don't expect them to be artistic masterpieces based on literary classics. These TV movies were made for a family audience and there's plenty of comedy for kids in these things. Frewer's Holmes must be seen to be believed! He's a hoot! He's the most eccentric Holmes EVER! Kids will love this guy! Kenneth Welsh is much more traditional in his role and he makes a very fine Watson. These Frewer Holmes flicks are sure to entertain kids and will hopefully encourage them to read more about The Master Detective. They certainly wont get bored watching any of these with the ultra-intense and comedic Frewer on the screen.",
+         "This certainly wasn't the best screen adaptation of The Hound of the Baskervilles that I've ever seen, but it was okay. I want to know why on earth they cast an American/Canadian actor as Holmes rather than a British one. I mean, really, it's Max Headroom, for crying out loud! And wasn't he also the jock father in Honey I Shrunk the Kids? Why would the director ever even consider him to play Holmes? He wasn't that great. He overacted even more than is expected in a TV movie. And his fake British accent was horrible. I didn't like how they had Holmes and Watson's relationship portrayed either. The literary Holmes was cold, calculating, and even arrogant at times, yes, but he wasn't deliberately a jerk. This guy was. And the way Watson got an attitude with him afterwards (which, in all honesty, is completely understandable after this Holmes' behavior) made it hard to understand why these two men would be such great \"friends\" and roomies if Holmes was really such a jerk and Watson resented it so much. And that poor dog. What did they do to its eyes to make them red like that? I hope it was just CG-ed to make them look like that, because it was obviously a real dog. And what kind of dog was that? It looked smaller than my medium-sized Chow Chow. I mean, I was expecting this big, bear-like Newfoundland mix or something and it was just this scrawny little mutt. It was kind of disappointing. Poor dog. Other than that, and the obligatory cutting of half the story (which can be understood, as it's a Hallmark TV movie), this movie was fair. It's worth the $8 DVD what has four other Sherlock Holmes movies on it as well, good for a rainy afternoon with nothing better to do. Other than that... Eh, like I said, it was fair.",
+         "The Canadian TV film 'Hound of the Baskervilles' is by no means all that great of a movie. It is pretty much on par with most other TV movies, but for different reasons. Usually the way to tell a movie made for television apart from those that received theatrical releases lies with the production values. Not so in this case. The production values, especially the atmospheric direction and good performances by Jason London, Matt Frewer and Kenneth Welsh warrant a viewing all on their own, the problems here are with the weak script. It allows little character development and the pacing is all wrong. It doesn't get around to the action until the end, and by then a good portion of the audience would have lost interest in the movie. Good photography, good music, good acting, bad script. Not a great film, but it's worth watching once, especially if you're a fan of the character of Sherlock Holmes, or any of the actors",
+         "In London, Sherlock Holmes (Matt Frewer) and Dr. Watson (Kenneth Welsh) are visited by the countryside Dr. Mortimer (Gordon Masten). He tells that Sir Baskerville has officially died of heart attack; however there are rumors and he believes that he was murdered by the notorious devil hound. Dr. Mortimer asks whether Sherlock Holmes would accept to investigate the case and also provide protection against the curse to the heir Sir Henry Baskerville (Jason London). Dr. Watson travels with Dr. Mortimer to meet Sir Henry and protect him while Holmes stays in London. Will they resolve the case? \"The Hound of the Baskervilles\" is a Canadian version of the famous novel of the same title made for television. The high quality cinematography and the good screenplay are partially wasted with the unbearable arrogance of Sherlock Holmes performed by Matt Frewer, the worst Sherlock Holmes ever. Jason London is also miscast but his performance is satisfactory. My vote is six. Title (Brazil): \"Demônio do Pântano\" (\"Demon of the Swamp\")",
+         "I have seen all of the reviews of this program. First let me say that the original story was NOT a single unit, but was rather run in serial form like a study in scarlet and the sign of four. Any attempts to compare a single flowing movie to an original in serial form is like comparing apples to oranges. This film couldn't possibly be made as presented in serial form. Next, the character of Holmes is, in the opinion of this dedicated Sherlockian, spot on. Of course Mr. Frewer portrayed him as a bombastic clown, a bull in a china shop, and somewhat clownish. Go back and read the stories! Holmes comes across in the canon as a bull in a china shop. Of all the classic screen portrayals of Holmes, none really got that aspect of Holmes until Frewer's interpretation. Christopher plummer comes close (murder by decree, in a couple of scenes) and Peter Cushing (the chess game at the beginning of the Hammer \"hound\") and on occasion, Jeremy Brett. I truly believe that as written, Holmes had a condition that is now known as Asperger's syndrome. (Google this for more information.) I believe this because I have been diagnosed with it. Where Watson sees a bucolic country scene, Holmes sees a perfect opportunity for murder.(Aspergians quite often see the same things as other people, but in a different light...) He focuses to the extreme completely oblivious to to those around him. He bounds over furniture, rudely interrupts people, has very little social skills, but also has one of the keenest minds in literature. (All of these traits are seen in Asperger's people.) No wonder Lestrade hates him! Frewer brings out all of these components of Holmes in high degree here! So for those of you who misunderstand Frewer's character here, Bravo! You are only normal. I hope Mr. Frewer takes your misunderstandings as a compliment. That means he did his job as an actor! Kudos to him for understanding an often overlooked aspect of Holmes' personality! As to content, the original tale in serialized form captialized on suspense, and timing. I am not quite sure this story would truly worked if published as a whole. (I got the most out of it by buying it in strand magazine facsimile, and closing it when seeing the title page of the next installment and then reading again later, and so on...). The events as described by Conan Doyle are all there, and the age of Henry is unknown anyway, so he could reasonably be played by any person of undetermined age. The fellow here does a fine job in my opinion, as does Watson, who seems a bit older than Holmes, but does a masterful job keeping Holmes' impulsiveness in check.",
+         "This is a fairly pleasant television movie, but nothin spectacular either. For those familiar with Sherlock Holmes and this famous story, the ending is known from the beginning. For those who haven't read the book, the plot has some nice twists and changes along the way, before coming to the inevitable ending with Holmes saving the day. If you like low budget murder mystery's give this one a look, but don't expect a gripping version of this story.",
+         "When i saw the promo for this i knew i had to see it. I've always liked Matt Frewer but i could not conceive of him as Sherlock Holmes. Matt Frewer as Sherlock Holmes? Come on! Maybe as inspector LeStrade but not Holmes. But, being a fan of the actor i thought i'd give it a try and i sat down eagerly to watch. Man, i was disappointed. My first thought was he had dealt a serious blow to his career or maybe he had lost it as an actor. His performance was abysmal. It reminded me of Richard Dreyfus's portrayal of Richard III in \"Goodbye Girl\". It was that bad. His Holmes was an effeminate smug superior clown. I am at a loss to see that they actually made more of these. I'll have to check them out to see if they improve. Now, i admit that I am a HUGE fan of the Jeremy Brett Holmes, so take that into account. On the positive side, the portrayal of Watson by Kenneth Walsh was fantastic. Very much in the new tradition established by David Burke and Edward Hardwicke in the Grenada version. It is nice to see Watson portrayed as a thoughtful, intelligent professional man, as a competent doctor and of strong character. Visually the movie is decent and if i had to toll it up i'd say it was worth watching but only just. By the way, having seen Matt Frewer in \"Taken\" i was reassured to see he is still the earnest and entertaining actor i believed he was. One minor disappointment - I cringed to see the deerstalker hat make an appearance. (i don't think Brett wears one once in the Grenada versions) Why is Holmes always pictured wearing one? I don't recall that he ever wears one in the stories. Jeremy Brett rules!",
+         "The bad news is, Matt Frewer (whom I have admired in other roles) is APPALLING as Sherlock Holmes -- a mugging, snickering, snide clown who defeats any belief in his intellectual prowess. The good news (well, sort of good) is that he is not on screen much in this way-too-corrupted version of the classic story. This version changed a vicious murderer into an innocent bystander, gave Watson a trendy but unwarranted (according to the literature) aversion to smoke, and skipped over the most telling scene of the book, Watson's confrontation with Holmes in his hidden lair on the moor. Kenneth Welsh, however, was excellent as Watson within the range allowed him by the script. Jason London was able to overcome the cutesy cowboy role he was stuck with at the beginning to become believable as the Baskerville lord. As a Sherlock Holmes AND a Matt Frewer fan, I had high expectations for this film, and was badly disappointed."
+      ],
+      "genres": [
+         "Crime",
+         "Drama",
+         "Horror",
+         "Mystery"
+      ],
+      "productionCompanies": [
+         "Muse Entertainment Enterprises",
+         "Canadian Film or Video Production Tax Credit (CPTC)",
+         "Canadian Television (CTV)"
+      ],
+      "summaries": ["The mysterious death of Sir Charles Baskerville is blamed on a longstanding curse that has followed the Baskerville family for two hundred years. Enigmatic sleuth Sherlock Holmes is on the case to uncover the truth about a monstrous, supernatural hound who roams the moors, waiting to attack the latest heir to the Baskerville estate."],
+      "budget": 0
+   },
+   "movielensId": 74446,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2000-10-28",
+      "dvdReleaseDate": null,
+      "directors": ["Rodney Gibbons"],
+      "runtime": 90,
+      "movieId": 74446,
+      "title": "The Hound of the Baskervilles",
+      "mpaa": "",
+      "actors": [
+         "Matt Frewer",
+         "Kenneth Welsh",
+         "Jason London",
+         "Emma Campbell",
+         "Gordon Masten",
+         "Robin Wilcock",
+         "Arthur Holden",
+         "Leni Parker",
+         "Ben Gauthier",
+         "John Dunn-Hill",
+         "Joe Cobden",
+         "Jason Cavalier",
+         "Linda Smith",
+         "Barry Baldaro",
+         "Nathalie Girard",
+         "Greg Kramer"
+      ],
+      "imdbMovieId": "0264695",
+      "originalTitle": "The Hound of the Baskervilles",
+      "genres": [
+         "Crime",
+         "Drama",
+         "Mystery",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": [],
+      "plotSummary": "The mysterious death of Sir Charles Baskerville is blamed on a longstanding curse that has followed the Baskerville family for two hundred years. Enigmatic sleuth Sherlock Holmes is on the case to uncover the truth about a monstrous, supernatural hound who roams the moors, waiting to attack the latest heir to the Baskerville estate. Written by Echo Bridge Home Entertainment",
+      "tmdbMovieId": 25293,
+      "avgRating": 2.73529,
+      "releaseYear": "2000",
+      "numRatings": 17,
+      "posterPath": "/ywM6951OsC1RfkWhfj6LMbGvSCt.jpg"
+   }
+}

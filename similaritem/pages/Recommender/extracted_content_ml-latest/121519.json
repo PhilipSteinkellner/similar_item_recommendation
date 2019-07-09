@@ -1,0 +1,497 @@
+{
+   "tmdb": {
+      "original_language": "it",
+      "keywords": [
+         {
+            "name": "mafia",
+            "id": 10391
+         },
+         {
+            "name": "drugs",
+            "id": 14964
+         }
+      ],
+      "imdb_id": "tt0078995",
+      "video": false,
+      "title": "The New Godfathers",
+      "recommendations": [],
+      "backdrop_path": null,
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 0,
+               "character": "Don Francesco Antiero",
+               "gender": 2,
+               "credit_id": "53db3165c3a36821c3000731",
+               "name": "Mario Merola",
+               "profile_path": "/vlfCrc6hZqOYSpPOc98lc1W78aA.jpg",
+               "id": 936728,
+               "order": 1
+            },
+            {
+               "cast_id": 1,
+               "character": "Don Michele Vizzini",
+               "gender": 2,
+               "credit_id": "53db316ec3a36821ea0006fa",
+               "name": "Antonio Sabàto",
+               "profile_path": "/lBWRSkRp2teJSi70szsonl1wLvy.jpg",
+               "id": 33708,
+               "order": 2
+            },
+            {
+               "cast_id": 2,
+               "character": "Capitano Ivano Radovich",
+               "gender": 2,
+               "credit_id": "53db3176c3a36821cc00072a",
+               "name": "Gianni Garko",
+               "profile_path": "/6uHoUXLFqhcCHIjHaU4uR3FkJml.jpg",
+               "id": 97684,
+               "order": 3
+            },
+            {
+               "cast_id": 3,
+               "character": "Don Salvatore Gargiulo (as Jeff Blyn)",
+               "gender": 2,
+               "credit_id": "53db317fc3a36821cc00072c",
+               "name": "Jeff Blynn",
+               "profile_path": "/17w5s2SyTNx5kylx4W6SNGoheYW.jpg",
+               "id": 935923,
+               "order": 4
+            },
+            {
+               "cast_id": 5,
+               "character": "Secret Service Chief",
+               "gender": 2,
+               "credit_id": "53f344fdc3a3685ae7006ee2",
+               "name": "Edmund Purdom",
+               "profile_path": "/3TaWneIJGrhq3RmiXS7xfNbT6bZ.jpg",
+               "id": 26155,
+               "order": 5
+            },
+            {
+               "cast_id": 6,
+               "character": "Lucy Avallone",
+               "gender": 1,
+               "credit_id": "53f34510c3a3685aff006b06",
+               "name": "Sabrina Siani",
+               "profile_path": "/usNmmW3rcB042NTeFcecbsqVH6J.jpg",
+               "id": 38591,
+               "order": 6
+            },
+            {
+               "cast_id": 7,
+               "character": "Lorraine",
+               "gender": 1,
+               "credit_id": "58be4066925141126a0394ea",
+               "name": "Lorraine De Selle",
+               "profile_path": "/cwk63sh59fusph5obzy5qXa2ILk.jpg",
+               "id": 101577,
+               "order": 7
+            },
+            {
+               "cast_id": 8,
+               "character": "Don Calogero Avallone",
+               "gender": 2,
+               "credit_id": "58be408392514134070096d4",
+               "name": "Rik Battaglia",
+               "profile_path": "/jqrk23h0GWTqj3XD4q4teb88jTe.jpg",
+               "id": 5565,
+               "order": 8
+            },
+            {
+               "cast_id": 10,
+               "character": "Don Dallavi",
+               "gender": 0,
+               "credit_id": "58be409f925141609b05556a",
+               "name": "Andrea Aureli",
+               "profile_path": "/rixD8ta8NHNizffika568l1jWFg.jpg",
+               "id": 142134,
+               "order": 10
+            },
+            {
+               "cast_id": 11,
+               "character": "",
+               "gender": 0,
+               "credit_id": "58be40aa925141609b055575",
+               "name": "John Karlsen",
+               "profile_path": "/vKvBi2jGhSSjXke6ZDD4UTDN5hc.jpg",
+               "id": 120613,
+               "order": 11
+            },
+            {
+               "cast_id": 12,
+               "character": "Achmet",
+               "gender": 2,
+               "credit_id": "59b3e6889251414a270149bf",
+               "name": "Franco Diogene",
+               "profile_path": "/8qrDerD68BDFM0a4odEe8pKyZQp.jpg",
+               "id": 100937,
+               "order": 12
+            },
+            {
+               "cast_id": 19,
+               "character": "Cassio",
+               "gender": 0,
+               "credit_id": "5a3be0019251410324226c3d",
+               "name": "Lucio Montanaro",
+               "profile_path": "/zCJclgTAafgTgml3a2W04xgs9sG.jpg",
+               "id": 38598,
+               "order": 13
+            },
+            {
+               "cast_id": 20,
+               "character": "Commissario di Finanza Martinelli",
+               "gender": 0,
+               "credit_id": "5a3be0199251410324226c66",
+               "name": "Nunzio Gallo",
+               "profile_path": null,
+               "id": 569964,
+               "order": 14
+            },
+            {
+               "cast_id": 21,
+               "character": "Gennaro",
+               "gender": 0,
+               "credit_id": "5a3be028c3a36814ae0a2fb0",
+               "name": "Marco Girondino",
+               "profile_path": null,
+               "id": 1223414,
+               "order": 15
+            },
+            {
+               "cast_id": 22,
+               "character": "Carmelina",
+               "gender": 0,
+               "credit_id": "5a3be042c3a3680b9d20cd15",
+               "name": "Marina Valadier",
+               "profile_path": null,
+               "id": 1945850,
+               "order": 16
+            },
+            {
+               "cast_id": 23,
+               "character": "Vito",
+               "gender": 0,
+               "credit_id": "5a3be056925141547509d71c",
+               "name": "Hassan Jaber",
+               "profile_path": null,
+               "id": 1945851,
+               "order": 17
+            },
+            {
+               "cast_id": 24,
+               "character": "Stellatella",
+               "gender": 0,
+               "credit_id": "5a3be0699251410324226cdf",
+               "name": "Letizia D'Adderio",
+               "profile_path": null,
+               "id": 1850347,
+               "order": 18
+            },
+            {
+               "cast_id": 25,
+               "character": "Gambino",
+               "gender": 0,
+               "credit_id": "5a3be0750e0a264cca2223d4",
+               "name": "Mico Galdieri",
+               "profile_path": null,
+               "id": 1194453,
+               "order": 19
+            },
+            {
+               "cast_id": 27,
+               "character": "",
+               "gender": 0,
+               "credit_id": "5a3be0960e0a264cd022a0a3",
+               "name": "Deborah Girondino",
+               "profile_path": null,
+               "id": 1945852,
+               "order": 21
+            },
+            {
+               "cast_id": 28,
+               "character": "",
+               "gender": 0,
+               "credit_id": "5a3be0ae0e0a264cc421c34a",
+               "name": "Massimo Alibrandi",
+               "profile_path": null,
+               "id": 1945853,
+               "order": 22
+            },
+            {
+               "cast_id": 29,
+               "character": "",
+               "gender": 0,
+               "credit_id": "5a3be0ee0e0a264cca222463",
+               "name": "Pino Ferrara",
+               "profile_path": null,
+               "id": 1125590,
+               "order": 23
+            },
+            {
+               "cast_id": 30,
+               "character": "Don Francesco Henchman",
+               "gender": 2,
+               "credit_id": "5a3be0ff0e0a264cd022a12c",
+               "name": "Angelo Boscariol",
+               "profile_path": "/uqZGaaoKv4t6d5olrT8JBHeIMZq.jpg",
+               "id": 25781,
+               "order": 24
+            },
+            {
+               "cast_id": 31,
+               "character": "Man on the Street",
+               "gender": 2,
+               "credit_id": "5a3be110925141547e09ca90",
+               "name": "Alfonso Brescia",
+               "profile_path": null,
+               "id": 41147,
+               "order": 25
+            },
+            {
+               "cast_id": 32,
+               "character": "Woman with Stellatella",
+               "gender": 1,
+               "credit_id": "5a3be122925141547209d551",
+               "name": "Lina Franchi",
+               "profile_path": null,
+               "id": 1496297,
+               "order": 26
+            },
+            {
+               "cast_id": 33,
+               "character": "Smuggler",
+               "gender": 0,
+               "credit_id": "5a3be12d0e0a264cc421c3df",
+               "name": "Salvatore Puccinelli",
+               "profile_path": null,
+               "id": 1945854,
+               "order": 27
+            },
+            {
+               "cast_id": 34,
+               "character": "Don Francesco Henchman at Docks",
+               "gender": 2,
+               "credit_id": "5a3be13c0e0a264cc421c3fd",
+               "name": "Franco Ukmar",
+               "profile_path": null,
+               "id": 1281109,
+               "order": 28
+            },
+            {
+               "cast_id": 35,
+               "character": "Policeman",
+               "gender": 2,
+               "credit_id": "5a3be1500e0a264cbe2218d6",
+               "name": "Angelo Casadei",
+               "profile_path": null,
+               "id": 1465385,
+               "order": 29
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "53db3191c3a36821ea0006fd",
+               "name": "Alfonso Brescia",
+               "profile_path": null,
+               "id": 41147,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a3bdf9ec3a3680b9d20cc3e",
+               "name": "Ciro Ippolito",
+               "profile_path": null,
+               "id": 101590,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a3bdfa8c3a3680b8822796b",
+               "name": "Ciro Ippolito",
+               "profile_path": null,
+               "id": 101590,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3bdfb2925141032c22c56b",
+               "name": "Piero Regnoli",
+               "profile_path": null,
+               "id": 49894,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3bdfbd925141032c22c57c",
+               "name": "Eduardo Alfieri",
+               "profile_path": null,
+               "id": 1176797,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3bdfc6925141033622c54b",
+               "name": "Silvio Fraschetti",
+               "profile_path": null,
+               "id": 1089670,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3bdfd5c3a3680b882279ab",
+               "name": "Carlo Broglio",
+               "profile_path": null,
+               "id": 1355534,
+               "department": "Editing",
+               "job": "Editor"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Crime",
+         "id": 80
+      }],
+      "popularity": 0.338625,
+      "production_countries": [{
+         "iso_3166_1": "IT",
+         "name": "Italy"
+      }],
+      "id": 260872,
+      "vote_count": 0,
+      "budget": 0,
+      "overview": "A revolution in Iran halts a heroin shipment, but an alliance of crime families is set on getting it to the US.  They decide to run the drug through an unsuspecting network of good-natured, local smugglers in Naples, while an international anti-narcotics agent rushes to shut their operation down.  Betrayals and divided loyalties lead to a  final, bloody confrontation in America.",
+      "similar": [
+         627,
+         20289,
+         8012,
+         180863,
+         319,
+         979,
+         9352,
+         1422,
+         4771,
+         6075,
+         23483,
+         106646,
+         59,
+         122081,
+         39939,
+         9366,
+         769,
+         169917,
+         339692,
+         23954
+      ],
+      "original_title": "I contrabbandieri di Santa Lucia",
+      "runtime": 88,
+      "poster_path": "/mMhWiE1VzKJ38unENfkvQhjqERD.jpg",
+      "spoken_languages": [{
+         "name": "Italiano",
+         "iso_639_1": "it"
+      }],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "Produzioni Atlas Consorziate (P.A.C.)",
+         "id": 4745,
+         "origin_country": ""
+      }],
+      "release_date": "1979-08-24",
+      "vote_average": 0,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Italy",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Alfonso Brescia"],
+      "runtime": 88,
+      "synopsis": null,
+      "writers": [
+         "Ciro Ippolito",
+         "Piero Regnoli"
+      ],
+      "originalLanguage": "Italian",
+      "imdbLink": "http://www.imdb.com/title/tt0078995/",
+      "coverLink": null,
+      "actors": [
+         "Mario Merola",
+         "Antonio Sabato",
+         "Gianni Garko"
+      ],
+      "reviews": [
+         "The Poliziotteschi genre is mostly populated by maverick cops and sadistic criminals; so The New Godfathers is something of an original addition to the genre. As the Italian title suggests; this film focuses on contraband - which a popular focus for this genre, but rather than focus on one side of the war; the film is instead bolstered by a working relationship between a customs officer and a top criminal as they work together for mutual gain. It has to be said that the film has some problems in terms of plot pacing and it's not exactly a thrill a minute; but some good characters and interesting plot development at least ensures that the film remains decent for the running time. The New Godfathers begins with a heroin shipment in Iran being halted by a revolution. Naturally there's people intent on getting this heroin to the USA; and so decide to run it through a small group of smugglers in Italy. However, Italian customs get wind of what is going on and seek to strike a bargain with the local criminals. The most interesting parts of the film focus on Naples' smuggler community and thankfully director Alfonso Brescia (who previously directed the disappointing Giallo Naked Girl Killed in the Park) spends a lot of time on this element. There's also a subplot involving two young kids in love that works better than it really had any right to. This genre is usually bolstered by high speed car chases and gunfights; although this one doesn't feature as much of that as other genres, which is disappointing; although it made up for by some superior characters and acting. The cast is lead by the pairing of Mario Merola and Antonio Sabato, who will both be familiar to Eurocrime fans; having starred in a number of these films between them. The second half of the film is more action packed than the first and the move towards the story's conclusion is carried off with style and verve; although the final sequences could have been better edited. Overall, I wouldn't exactly say that this film is at the pinnacle of its genre; but it's a more than decent watch and Eurocrime fans should give it a look.",
+         "As Alfonso Brescia movies go, this one isn't half bad. The worst thing about it is the pacing. The film goes through exactly 11 minutes of globe-hopping to Iran (accomplished largely via stock footage), New York, Italy, and Turkey before finally getting to the opening credits. After that roughly 40 minutes go by before the film gives us any action... but once it gets going it isn't half bad, if a tad chaotic. What's funny is that Gianni Garko is set up early-on as the protagonist of the story, but he's basically forgotten about as the film goes on in favor of Mario Merola's character \"Don Francesco\", a mafia bigwig who makes a deal with the cops. Lots of screen time in the last act is devoted to filler footage of a huge Italian wedding. Also quite atrocious is the dubbing, which is particularly heinous in the case of Don Francesco's annoying son played by Lucio Montanaro. You'll notice a lot of familiar voices like Greg Snegoff, Ed Mannix, Larry Dolgin, etc. but they had a rush-job on this decidedly minor cheaply-made crime movie. Similarly the shootouts and car chase are quite poorly filmed with too little coverage and/or few transition-shots to make them make much sense. Casting-wise the movie isn't half bad with good early roles for Lorraine De Selle, Sabrina Siani, etc. Antonio Sabato makes an okay idiotic villain and Jeff Blynn is on hand to try to capitalize off the fact that he looks like Maurizio Merli's lost twin brother. Amusingly Franco Diogene reprises his role from MIDNIGHT EXPRESS as a sleazy Turkish lawyer who gets blown up right as the beginning credits chime in. Considering the Turkish uproar over the prior film, I'm surprised Turkey allowed him into the country! Perhaps nobody made the connection? The two best points are the gritty photography and scene-setting music. A lot of the cinematography is real up-close in-your-face gritty establishing shots which do a good job promoting the seedy Neopolitan atmosphere. The music similarly is really infectiously Neapolitan with a mean-spirited sleazy undertone to it. Good stuff in an otherwise daft film which I'm sure was cynically churned out with a minimal amount of effort to make maybe a tiny profit."
+      ],
+      "genres": ["Crime"],
+      "productionCompanies": [
+         "Orsa Maggiore Cinematografica",
+         "Produzioni Atlas Consorziate (P.A.C.)"
+      ],
+      "summaries": ["With the American Mafia families pooling their resources to bring huge quantities of cheap heroin into the country, it's up to customs official Ivano Radevic to allow the authorities to intercept the drugs en route to the USA."],
+      "budget": 0
+   },
+   "movielensId": 121519,
+   "movielens": {
+      "languages": ["Italiano"],
+      "releaseDate": "1979-08-24",
+      "dvdReleaseDate": null,
+      "directors": ["Alfonso Brescia"],
+      "runtime": 88,
+      "movieId": 121519,
+      "title": "The New Godfathers",
+      "mpaa": null,
+      "actors": [
+         "Mario Merola",
+         "Antonio Sabàto",
+         "Gianni Garko",
+         "Jeff Blynn",
+         "Edmund Purdom",
+         "Sabrina Siani",
+         "Lorraine De Selle",
+         "Rik Battaglia",
+         "Andrea Aureli",
+         "John Karlsen",
+         "Franco Diogene",
+         "Lucio Montanaro",
+         "Nunzio Gallo",
+         "Marco Girondino",
+         "Marina Valadier",
+         "Hassan Jaber",
+         "Letizia D'Adderio",
+         "Mico Galdieri",
+         "Deborah Girondino",
+         "Massimo Alibrandi",
+         "Pino Ferrara",
+         "Angelo Boscariol",
+         "Alfonso Brescia",
+         "Lina Franchi",
+         "Salvatore Puccinelli",
+         "Franco Ukmar",
+         "Angelo Casadei"
+      ],
+      "imdbMovieId": "0078995",
+      "originalTitle": "I contrabbandieri di Santa Lucia",
+      "genres": ["Crime"],
+      "youtubeTrailerIds": [],
+      "plotSummary": "A revolution in Iran halts a heroin shipment, but an alliance of crime families is set on getting it to the US.  They decide to run the drug through an unsuspecting network of good-natured, local smugglers in Naples, while an international anti-narcotics agent rushes to shut their operation down.  Betrayals and divided loyalties lead to a  final, bloody confrontation in America.",
+      "tmdbMovieId": 260872,
+      "avgRating": 1.5,
+      "releaseYear": "1979",
+      "numRatings": 1,
+      "posterPath": "/mMhWiE1VzKJ38unENfkvQhjqERD.jpg"
+   }
+}

@@ -1,0 +1,780 @@
+{
+   "tmdb": {
+      "original_language": "fr",
+      "keywords": [
+         {
+            "name": "shyness",
+            "id": 367
+         },
+         {
+            "name": "chocolate",
+            "id": 715
+         },
+         {
+            "name": "expensive restaurant",
+            "id": 996
+         },
+         {
+            "name": "chocolaterie",
+            "id": 1917
+         },
+         {
+            "name": "group therapy",
+            "id": 2655
+         },
+         {
+            "name": "salesperson",
+            "id": 5151
+         }
+      ],
+      "imdb_id": "tt1565958",
+      "video": false,
+      "title": "Romantics Anonymous",
+      "recommendations": [
+         51447,
+         78476,
+         41211,
+         81342,
+         190880,
+         57243,
+         48034,
+         1553,
+         200713,
+         6691,
+         14688,
+         12169,
+         123243,
+         136403,
+         267804,
+         137370,
+         32390,
+         71157,
+         121875,
+         10051
+      ],
+      "backdrop_path": "/9oYZv30QfnKM9fzPpZ9i7gvxQVA.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1001,
+               "character": "Angélique",
+               "gender": 1,
+               "credit_id": "52fe4810c3a36847f8156909",
+               "name": "Isabelle Carré",
+               "profile_path": "/phcKjntsViGBvj2NVNIYXutDDvn.jpg",
+               "id": 4166,
+               "order": 0
+            },
+            {
+               "cast_id": 1018,
+               "character": "Jean-René Van Den Hugde",
+               "gender": 2,
+               "credit_id": "52fe4810c3a36847f8156945",
+               "name": "Benoît Poelvoorde",
+               "profile_path": "/1rt37BkFjSYF7imtvJ5t30bqsNM.jpg",
+               "id": 47820,
+               "order": 1
+            },
+            {
+               "cast_id": 1003,
+               "character": "Magda",
+               "gender": 0,
+               "credit_id": "52fe4810c3a36847f815690d",
+               "name": "Lorella Cravotta",
+               "profile_path": "/ogcgzecaUkJrnSjhXt1GMrOfzvU.jpg",
+               "id": 2409,
+               "order": 2
+            },
+            {
+               "cast_id": 1004,
+               "character": "Suzanne",
+               "gender": 0,
+               "credit_id": "52fe4810c3a36847f8156911",
+               "name": "Lise Lamétrie",
+               "profile_path": "/mTZifdKGGJpdQenWHWHd2QZvKh0.jpg",
+               "id": 145119,
+               "order": 3
+            },
+            {
+               "cast_id": 1005,
+               "character": "Antoine",
+               "gender": 2,
+               "credit_id": "52fe4810c3a36847f8156915",
+               "name": "Swann Arlaud",
+               "profile_path": "/rNnt25NME2EXavLGVaDhe1trDFc.jpg",
+               "id": 145120,
+               "order": 4
+            },
+            {
+               "cast_id": 1006,
+               "character": "Ludo",
+               "gender": 2,
+               "credit_id": "52fe4810c3a36847f8156919",
+               "name": "Pierre Niney",
+               "profile_path": "/g84J44XjdrOsJ9zplB4ClAZpeaB.jpg",
+               "id": 145121,
+               "order": 5
+            },
+            {
+               "cast_id": 1008,
+               "character": "Rémi",
+               "gender": 2,
+               "credit_id": "52fe4810c3a36847f815691d",
+               "name": "Jacques Boudet",
+               "profile_path": "/fdTqMaB97xTAJf9jvieONBxvoWj.jpg",
+               "id": 72090,
+               "order": 6
+            },
+            {
+               "cast_id": 1009,
+               "character": "Julien",
+               "gender": 0,
+               "credit_id": "52fe4810c3a36847f8156921",
+               "name": "Grégoire Ludig",
+               "profile_path": "/7K97v7BSoBV5FMHmn3wbtyCxZyG.jpg",
+               "id": 145123,
+               "order": 7
+            },
+            {
+               "cast_id": 1010,
+               "character": "Mimi",
+               "gender": 0,
+               "credit_id": "52fe4810c3a36847f8156925",
+               "name": "Céline Duhamel",
+               "profile_path": "/SncKcJMLcKdU5QRr65obqGhn9p.jpg",
+               "id": 145124,
+               "order": 8
+            },
+            {
+               "cast_id": 1011,
+               "character": "Maxime",
+               "gender": 0,
+               "credit_id": "52fe4810c3a36847f8156929",
+               "name": "Philippe Fretun",
+               "profile_path": "/aw6xAztP7G76WTQbJuG4r34b18L.jpg",
+               "id": 145125,
+               "order": 9
+            },
+            {
+               "cast_id": 1012,
+               "character": "Adèle",
+               "gender": 1,
+               "credit_id": "52fe4810c3a36847f815692d",
+               "name": "Alice Pol",
+               "profile_path": "/iIZXvCswvL0liBt6CsvteBnqKCq.jpg",
+               "id": 129168,
+               "order": 10
+            },
+            {
+               "cast_id": 1013,
+               "character": "Philippe",
+               "gender": 0,
+               "credit_id": "52fe4810c3a36847f8156931",
+               "name": "Philippe Gaulé",
+               "profile_path": "/agYPmDB4oclLcwZqUzs5T8dGjFy.jpg",
+               "id": 145126,
+               "order": 11
+            },
+            {
+               "cast_id": 1014,
+               "character": "Joëlle",
+               "gender": 0,
+               "credit_id": "52fe4810c3a36847f8156935",
+               "name": "Joëlle Sechaud",
+               "profile_path": "/bcEcYn0RvQN45tC2JatnDqb5eLb.jpg",
+               "id": 145127,
+               "order": 12
+            },
+            {
+               "cast_id": 1015,
+               "character": "Isabelle",
+               "gender": 0,
+               "credit_id": "52fe4810c3a36847f8156939",
+               "name": "Isabelle Gruault",
+               "profile_path": "/4eU2RcrpSn8l95fkCz3eWJo8ueO.jpg",
+               "id": 145128,
+               "order": 13
+            },
+            {
+               "cast_id": 1016,
+               "character": "Monsieur Mercier",
+               "gender": 0,
+               "credit_id": "52fe4810c3a36847f815693d",
+               "name": "Claude Aufaure",
+               "profile_path": "/3ipASXqmhVp7y6kYlejyNAou8ET.jpg",
+               "id": 145129,
+               "order": 14
+            },
+            {
+               "cast_id": 1017,
+               "character": "Le Président du jury",
+               "gender": 2,
+               "credit_id": "52fe4810c3a36847f8156941",
+               "name": "Philippe Laudenbach",
+               "profile_path": "/ys8v2twISO62u4ZuukvIpMXotJK.jpg",
+               "id": 20799,
+               "order": 15
+            },
+            {
+               "cast_id": 1021,
+               "character": "Le psychologue",
+               "gender": 0,
+               "credit_id": "52fe4810c3a36847f8156955",
+               "name": "Stéphan Wojtowicz",
+               "profile_path": "/AnPADaw3gddCzOf7RCZJtkXgfqS.jpg",
+               "id": 7285,
+               "order": 16
+            },
+            {
+               "cast_id": 1022,
+               "character": "Madame Legrand",
+               "gender": 1,
+               "credit_id": "569fbbc89251412ec7002a87",
+               "name": "Marie-Christine Demarest",
+               "profile_path": "/6tMIYfcDPx8idbXKd0KGJWHmatc.jpg",
+               "id": 1442076,
+               "order": 17
+            },
+            {
+               "cast_id": 1024,
+               "character": "La mère d'Angélique",
+               "gender": 1,
+               "credit_id": "569fbc14925141370b0028ff",
+               "name": "Christiane Millet",
+               "profile_path": "/w2M5WrwtyHkflfZW6EMXO65hkxo.jpg",
+               "id": 20083,
+               "order": 18
+            },
+            {
+               "cast_id": 1023,
+               "character": "Le serveur restaurant",
+               "gender": 0,
+               "credit_id": "569fbbe9925141370b0028fa",
+               "name": "Pascal Ternisien",
+               "profile_path": "/cCLNCuqnXDwy2jg1QleFNVtCvTs.jpg",
+               "id": 1179157,
+               "order": 19
+            },
+            {
+               "cast_id": 1039,
+               "character": "Le réceptionniste",
+               "gender": 0,
+               "credit_id": "569fbe45c3a36858c8009d71",
+               "name": "Jean-Yves Chatelais",
+               "profile_path": "/i2u7WXCQ5BEJh2zfQhzkXkY7tma.jpg",
+               "id": 146488,
+               "order": 20
+            },
+            {
+               "cast_id": 1040,
+               "character": "Franck, l'amant de la mère",
+               "gender": 0,
+               "credit_id": "569fbe639251412ec7002af5",
+               "name": "Vincent Paillier",
+               "profile_path": "/AsMKXGJw0lzyyFUZZETdDpi3Yul.jpg",
+               "id": 1566158,
+               "order": 21
+            },
+            {
+               "cast_id": 1041,
+               "character": "Woman in Elevator",
+               "gender": 0,
+               "credit_id": "569fbeabc3a36858ce00a514",
+               "name": "Nancy Tate",
+               "profile_path": "/rvUvJXfVH0hGjwZqH1gaNAJaZ30.jpg",
+               "id": 22316,
+               "order": 22
+            },
+            {
+               "cast_id": 1042,
+               "character": "Le gérant méprisant",
+               "gender": 2,
+               "credit_id": "569fe283c3a36858cb009b30",
+               "name": "Éric Naggar",
+               "profile_path": "/pSuOCp4brYsNH1Pxrf7AfK4Fo9g.jpg",
+               "id": 146487,
+               "order": 23
+            },
+            {
+               "cast_id": 1044,
+               "character": "La vendeuse 'À la Mère de Famille'",
+               "gender": 1,
+               "credit_id": "569fe3be9251415e5e00a805",
+               "name": "Noémie Landreau",
+               "profile_path": "/cKdzy3CRV6K74AQWMwaZfKyEFmp.jpg",
+               "id": 1566222,
+               "order": 24
+            },
+            {
+               "cast_id": 1043,
+               "character": "Le vendeur de roses",
+               "gender": 2,
+               "credit_id": "569fe29cc3a36858ce00aad9",
+               "name": "Vijay Singh",
+               "profile_path": "/rWGEf0ApW1gqvQFoNQMhcgnTmf6.jpg",
+               "id": 1566217,
+               "order": 25
+            },
+            {
+               "cast_id": 1045,
+               "character": "Le pianiste bar",
+               "gender": 2,
+               "credit_id": "5776277e9251416dd6001353",
+               "name": "Pierre Adenot",
+               "profile_path": "/aICYU2dWVxt80hxbXeO8bhfGoJl.jpg",
+               "id": 23395,
+               "order": 26
+            },
+            {
+               "cast_id": 1046,
+               "character": "Membre du jury Salon du chocolat",
+               "gender": 0,
+               "credit_id": "577629ef9251416dd6001444",
+               "name": "Christophe Tourrette",
+               "profile_path": "/v5vBmtYOM5r5FpmbTTyVAIUMXU5.jpg",
+               "id": 1352762,
+               "order": 27
+            },
+            {
+               "cast_id": 1047,
+               "character": "Vendeuse Mercier",
+               "gender": 1,
+               "credit_id": "57762b2b9251417ee3000ee0",
+               "name": "Anny Vogel",
+               "profile_path": "/8CTNOWXiwy8nMdJoMvVJ4kkMHB6.jpg",
+               "id": 1643783,
+               "order": 28
+            },
+            {
+               "cast_id": 1048,
+               "character": "Violoniste orchestre restaurant",
+               "gender": 2,
+               "credit_id": "57762e739251417e580010d6",
+               "name": "Philippe Briegh",
+               "profile_path": "/4epJJOhlJUxXfs2NbrOp42AnzCK.jpg",
+               "id": 1643789,
+               "order": 29
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "59caa0159251412b8f0011c8",
+               "name": "Gérard Simon",
+               "profile_path": null,
+               "id": 27224,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4810c3a36847f8156905",
+               "name": "Jean-Pierre Améris",
+               "profile_path": "/iH1RnwRYkYh5MY02aIdwhujdylA.jpg",
+               "id": 145117,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4810c3a36847f815694b",
+               "name": "Jean-Pierre Améris",
+               "profile_path": "/iH1RnwRYkYh5MY02aIdwhujdylA.jpg",
+               "id": 145117,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4810c3a36847f8156951",
+               "name": "Philippe Blasband",
+               "profile_path": null,
+               "id": 19985,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569fbc5f925141370b002914",
+               "name": "Nathalie Gastaldo",
+               "profile_path": null,
+               "id": 661063,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "569fbc749251415e5e00a216",
+               "name": "Philippe Godeau",
+               "profile_path": null,
+               "id": 20074,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569fbc889251415e5e00a21b",
+               "name": "Olivier Rausin",
+               "profile_path": null,
+               "id": 1561257,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569fbca1925141370b00291e",
+               "name": "Sebastian Schelenz",
+               "profile_path": null,
+               "id": 1561259,
+               "department": "Production",
+               "job": "Supervising Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569fbcb9c3a36858e500abcb",
+               "name": "Arlette Zylberberg",
+               "profile_path": null,
+               "id": 994838,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569fbce99251412ec7002aac",
+               "name": "Tatiana Vialle",
+               "profile_path": null,
+               "id": 38919,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569fbcfa92514137d60027c8",
+               "name": "Sylvie Olivé",
+               "profile_path": null,
+               "id": 1147653,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569fbd11c3a36858c3009f5c",
+               "name": "Sophie le Breton",
+               "profile_path": null,
+               "id": 1539072,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569fbd239251415e6700a1fd",
+               "name": "Nathalie du Roscoat",
+               "profile_path": null,
+               "id": 1144203,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569fbd3e9251413849002845",
+               "name": "Pauline Bouvet",
+               "profile_path": null,
+               "id": 1566155,
+               "department": "Art",
+               "job": "Painter"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569fbd619251413849002855",
+               "name": "Françoise Rouge",
+               "profile_path": null,
+               "id": 1566156,
+               "department": "Art",
+               "job": "Painter"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569fbda3c3a36858dc00a084",
+               "name": "Martina Seeber",
+               "profile_path": null,
+               "id": 1566157,
+               "department": "Art",
+               "job": "Painter"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59caa0209251412bd90010a0",
+               "name": "Pierre Adenot",
+               "profile_path": "/aICYU2dWVxt80hxbXeO8bhfGoJl.jpg",
+               "id": 23395,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 6.672148,
+      "production_countries": [
+         {
+            "iso_3166_1": "BE",
+            "name": "Belgium"
+         },
+         {
+            "iso_3166_1": "FR",
+            "name": "France"
+         }
+      ],
+      "id": 51991,
+      "vote_count": 183,
+      "budget": 0,
+      "overview": "What happens when a man and a woman share a common passion? They fall in love. And this is what happens to Jean-René, the boss of a small chocolate factory, and Angélique, a gifted chocolate maker he has just hired. What occurs when a highly emotional man meets a highly emotional woman? They fall in love, and this is what occurs to Jean-René and Angélique who share the same handicap. But being pathologically timid does not make things easy for them. So whether they will manage to get together, join their solitudes and live happily ever after is a guessing matter.",
+      "similar": [],
+      "original_title": "Les émotifs anonymes",
+      "runtime": 80,
+      "poster_path": "/hXL5TgqgFF8159dez0o8EK11ve3.jpg",
+      "spoken_languages": [{
+         "name": "Français",
+         "iso_639_1": "fr"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Dexia",
+            "id": 49147,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Pan-Européenne",
+            "id": 6750,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/8T8OOQe3Xei2mW0DQepwQG1IMT0.png",
+            "name": "StudioCanal",
+            "id": 694,
+            "origin_country": "FR"
+         },
+         {
+            "logo_path": null,
+            "name": "France 3 Cinéma",
+            "id": 591,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Rhône-Alpes Cinéma",
+            "id": 1666,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Climax Films",
+            "id": 9066,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Radio Télévision Belge Francophone (RTBF)",
+            "id": 7466,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Canal+",
+            "id": 5358,
+            "origin_country": "FR"
+         },
+         {
+            "logo_path": null,
+            "name": "CinéCinéma",
+            "id": 6301,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "France Télévision",
+            "id": 7454,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "La Banque Postale Image 3",
+            "id": 12036,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Cinémage 4",
+            "id": 7455,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Uni Étoile 7",
+            "id": 20886,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Le Tax Shelter du Gouvernement Fédéral de Belgique",
+            "id": 11921,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Casa Kafka Pictures",
+            "id": 11924,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Movie Tax Shelter Empowered by Dexia",
+            "id": 49148,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Media Programme of the European Community",
+            "id": 21972,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Procirep",
+            "id": 311,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Angoa-Agicoa",
+            "id": 309,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/h4ZJb3wnffXHeeU6mtcldII84fo.png",
+            "name": "Centre National de la Cinématographie",
+            "id": 310,
+            "origin_country": "FR"
+         }
+      ],
+      "release_date": "2010-12-22",
+      "vote_average": 6.4,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "France",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Jean-Pierre Améris"],
+      "runtime": 80,
+      "synopsis": null,
+      "writers": [
+         "Jean-Pierre Améris",
+         "Philippe Blasband"
+      ],
+      "originalLanguage": "French",
+      "imdbLink": "http://www.imdb.com/title/tt1565958/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BNjk2NDg5MDE4NV5BMl5BanBnXkFtZTcwMjkwNjgwNw@@._V1_SY317_CR104,0,214,317_AL_.jpg",
+      "actors": ["Stars: Benoît Poelvoorde, Isabelle Carré, Lorella Cravotta | See full cast and crew »"],
+      "reviews": [
+         "Les Émotifs Anonymes is a wonderful film: very Fench and truly touching and genuinely funny, with just the right amount of romance versus life and love and chocolate. The two protagonists are two chronically emotional stunted personalities - and you just know they are made for each other - but how they get there is, like the very best of French comedy, imaginative, a little chaotic, somewhat mixed-up, but always well meant. This is a film I can warmly recommend as one of the best French romantic comedies of recent memories - it has touches of Amélie and will appeal to a wide audience - it beautifully shot and lit, and all in all, the script is witty, the situations are funny without being ludicrous or cringeworthy, and above all, this is a charming and truly romantic film, without saccharine, but definitely, with a bitter sweetness of its own.",
+         "Take it as a given, French cinema has a long tradition of romantic comedies, and those are among the best in the genre. The dark side is, at the end of the day, they all look a bit the same. \"Les Émotifs anonymes\" makes no exception, and its first layer storyline is nothing new. From the beginning, you know what is going to happen to the main two characters and how it is going to end. Still, it is nice to watch. What is interesting is underneath. Améris uses this pattern as an alibi to tell a whole other story, this one goes much deeper than expected, though the subject is always treated on a very light tone. The film brings you into the universe of chocolate, this bittersweet treat well known to relieve heartaches, which, this is no coincidence, fits perfectly the characters, over-emotional people. With lightness and subtlety, the film shows the constant struggle of those people to overcome everyday situation, as basic as meeting someone new or shaking a hand. You will love those characters right from the start, understand their sadness and admire their efforts to keep going. Améris keeps up a rhythm with no time out, making of this film a thrilling comedy, with a few scenes to remember. Poelvoorde delivers a perfect, soulfull performance, showing how he masters the genre and the emotion he gives. Isabelle Carré is to fall for in her role of exaggeratedly shy gifted girl.",
+         "Jean-Pierre Améris, a good but somewhat overlooked French director, had hitherto specialized in harsh dramas (such as the intriguing 'Les aveux de l'innocent\" (1996), in which an ordinary man declares he has committed a crime whereas he is innocent, or the profound \"C'est la vie\" (2001), a haunting meditation about life and death). For the first time, with \"Les émotifs associés\" (2010), Améris has opted for a lighter tone, ... without indulging in superficiality for all that. His new effort marks in fact an interesting evolution in Jean-Pierre Améris's way to address his subjects. At ease with the problems of others (his characters), the writer-director has now decided to examine a question that concerns his own self and to do it with optimism. For if there is a subject that Jean-Pierre Améris knows like the back of his hand it is hyper emotionality. A highly emotional person himself since he was a child, Améris has however been able to give a film crew orders, to guide them and to impose himself on them, a thing an overly timid creature would never dream of ever managing to do. Having now overcome his handicap (at least to some extent as he occasionally still finds it hard to make a decision or deal with strangers), the director has undertaken to share his experience with his audiences and help the victims of hyper emotionality to have a better life. And what better way to achieve this goal than resorting to the romantic comedy genre? For sure, provided a filmmaker avoids falling into the trap of over-sentimentality, he or she will make an audience susceptible to the attraction of one character to the other and take advantage of this feeling of empathy to instill his message in the complicit viewers. What Jean-Pierre Améris needed first was two amiable spokespersons to pass on his message and, with the help of his co-writer Philippe Blasband, he has given life to an engaging couple, consisting of Jean-René, the owner of a small chocolate factory who has never overcome his mental blocks and has remained single despite his deep love for women, and Angélique, probably the best chocolate maker alive, but who, for exactly the same reasons, has failed to make a name for herself and to find the genial soul. Mission accomplished, as the two characters are well delineated and remarkably interpreted by Benoît Poelvoorde and Isabelle Carré. This established, all the suspense will lie in the fact that though Angélique and Jean-René share a common passion for chocolate and are drawn to each other, the fear of giving a bad image of themselves and of taking the first step, is a source of misunderstanding and tends to estrange them. Will there be a happy ending? Nothing is less certain... Through this situation and these two characters, Jean-Pierre Améris describes, with the light touch allowed by comedy, the nightmare experienced by those people who are so scared of life that they miss out on it, preferring the safety of doing nothing over the risks of taking action. And not taking action does not only bring frustration to the people concerned , it is also misleading to others. Deep inside themselves neither is Jean-René this gruff unpleasant boss nor Angélique this slightly retarded little girl. They are much better persons and deserve better. \"Les émotifs anonymes\" will thus recount Angélique and Jean René's desperate efforts to become a couple on the one hand and to become who they are on the other, describing the various means they use to this end (consulting a behavioral psychologist, doing exercises to try to ACT even if the odds seem impossible, using auto suggestion, trying to touch someone, to invite a person to the restaurant, joining a mutual aid movement such as the \"Emotifs Anonymes\" (hence the title)... A useful film for the overly timid, an entertaining and charming one for the more extrovert, \"Les émotifs anonymes\" is played to perfection by the ever delightful and fresh Isabelle Carré and cast- against-type Benoît Poelvoorde. There is such a chemistry between the two on-screen partners that you never doubt for a single moment that the princess can be infatuated with a bullfrog! A comedy with a heart, \"Les émotifs anonymes\" contains several scenes to remember : the disaster dinner at the restaurant, Jean-René singing 'Dark Eyes' to Angélique at the hotel, Jean-René's declaration of love to Angélique during an \"Emotifs Anonymes\" meeting. Don't be shy. Go and see it. Your audacity will be rewarded!",
+         "A genuine \"French-made\" romantic comedy, with echoes of \"Chocolat\" and \"Amelie\", starring the most suitable performers for movies like these. There's nothing extraordinary in this modern fable, but here lies its authenticity. We just find two normal adults, or maybe abnormal in their pathological timidity, who just try to come to terms with their emotions and to find a way to live and communicate them. Every next step sounds predictable, but we obviously do not look for plot twists, in pictures like these, that we want to progress and end in the exact way this movie progressed and ended, without ever sounding mawkish, and offering truly amusing moments. But the main protagonist is chocolate, with its healing power, we have all experienced, to make us feel better and to melt many emotional blocks. A truly enjoyable, heartwarming and funny picture.",
+         "If you like to come out of the theatre smiling and nodding to your fellow audience in a manner that says \"that was a lovely bit of nonsense and all's well with the world\" then Romantics Anonymous is the perfect antidote to the Hollywood flash, CGT and emptiness. We all know what the outcome will be more or less from the start but the journey is the thing and for the gentlemen among us there is the beauty of Isabelle Carre to enjoy on the journey. Looking at the other reviews I haven't seen any reference to the director's tip of the hat to Julie Andrews and The Sound of Music in the scene where Angelique dances down the shopping arcade with her samples suitcase. A little gem. Go and see it. You won't be disappointed.",
+         "Romantics Anonymous (2010) Sometimes a feelgood movie is so obvious you know at the start how it's going to end. But it feels so good it doesn't matter, and that's the way \"Romantics Anonymous\" works. The leading woman Isabelle Carre (\"He Loves Me, He Loves Me Not\") is a sweet, cute, lovable introvert, and I suppose any movie with her in it acting vulnerable and awkward would be a winner. Next to her is a very geeky kind of leading French actor, Benoit Pelvoorde, who is utterly brilliant even if he won't quite steal your heart. Or maybe he will. Part of the movie's aim is to take two mild misfits who are lonely and yet rather wonderful inside and get the audience to identify with them. Another major character is the little chocolate factory where they meet. Seeing the chocolates being made, and tasted, is part of the fun of the movie. Even if you don't like chocolate you'll see the pleasure of a superb high-end chocolate being developed as you watch. There are then two groups of sidekicks, one for each character. The woman goes to group therapy for her emotional issues (hence the name of the movie) and the man has his staff at the factory. All of them are, en masse, supportive and sweet. In fact, with all this sweetness going on you might wonder how you can stand it. And I suppose that's where you appreciate that it's just an hour and a quarter. Plenty. Even at this length you yearn for some complication, or some depth. Our two lovebirds are great but they remain oddly cardboard thin, too. It's a bit ogre-ish to complain about such a well-meaning and well-made movie. It's edited with breakneck speed, shot well, acted well, and rises up the television sit-com genre it may somehow owe something to. Give it a look. Totally fun.",
+         "Angélique (Isabelle Carré) is an expert chocolatier, the woman behind the legendary The Hermit who conquered all in the choco stakes. She is also cripplingly shy, and uses various ploys to hide her true nature. She gets job as a sales rep at a small chocolate makers, and embarks on a haphazard romance with the equally shy Jean-René (Benoît Poelvoorde), her erstwhile boss, all the while saving the company from bankruptcy. The film works because Carré and Poelvoorde are perfectly matched, two hapless souls inadvertently thrown together by the fates. The film does not shock or surprise, instead the satisfaction is in seeing the usual romcom set-ups pulled off with aplomb. A mix-up at the hotel sees the couple go to extremes to avoid sharing a double bed. Once love has been established a farcical car chase ensues to bring all the principals together. A psychiatrist plies Jean-René with cues to reveal his inner thoughts. At one point, he ironically repeats his father's mantra about hoping nothing happens to us. His tears seem genuine and a rare moment of depth in what is shallow but well-executed fun. The only jarring points are when the film tries too hard to be cute, the one song in the middle by Angélique being the example that comes to mind. These points ripple rather than jar, and on the whole this is wholesome, lighthearted fare that will bring a smile to you face.",
+         "ROMANTICS ANONYMOUS (Les émotifs anonymes) is a wonder bit of French fluff that may seem like a little love story on the surface, but has a lot to say about our current state of relationships. Written (with Philippe Blasband) and directed by Jean-Pierre Améris this little film takes advantage of the fine comedic talents of the two stars and brings a supporting cast of of actors to the table who demonstrate how fine cameo roles can be polished. Angélique Delange (the perky, multitalented Isabelle Carré) cannot cope with relating to people: she is a shy young student in a chocolate class taught by M. Mercier (Claude Aufaure) who rises to the top of her class as a chocolatier winning employment in the finest chocolate business in France when suddenly M. Mercier dies. Angélique is without a job and is terrified of interviewing (she belongs to a group therapy session called Romantics Anonymous where the group shares their flaws in relating to people. She sees and interview slot for a candy business owned by Jean-René Van Den Hugde (Benoît Poelvoorde) - a man who is terrified of women as he works through sessions with his therapist (Stéphan Wojtowicz). Angélique's interview goes well and she is hired on the spot - as a sales rep! Through a series of trial and error Angélique wins the friendship of the small staff (Lorella Cravotta, Lise Lamétrie, Swann Arlaud, and Pierre Niney) who understand the business is going bankrupt and together they stage a lessons on chocolate making that results is the staff learning all the secrets for the now defunct Mercier Chocolates. Angélique and Jean- René seem to find an attraction to each other but their emotional timidity prevents them from connecting until a big break comes: the business is chosen to attend the chocolate prize competition and in the midst of the trip the two seem to overcome their handicaps. But the future isn't assured until Jean-René attends Angélique's group therapy session, a place where they both must confront their feelings, and from there on the film dashes into a fun French farce. The film is in French with English subtitles and comes off like an uncorked bottle of fine champagne. It is a fun, light, romantic little takeoff on how so many people must join group therapy just to relate to each other. It bubbles! Grady Harp",
+         "ROMANTICS ANONYMOUS: Chocolates form the basis for this funny movie that brings together a nervous man who owns a chocolate factory and a charming girl who has mastered the art of chocolate making. The unexpected turn of events help them overcome their inhibitions, and in that process they also motivate their team of loyal workers to a glorious win. A nice movie about simple human touch that provides fun filled entertainment. When Hollywood is churning out films with so much of violence and brutality for the sake of entertainment, here is a refreshingly different story that is sure to touch your heart and make you feel good that there are still good directors who are willing to tell something that can be simple and heart warming.",
+         "The very words \"Romantic Comedy\" now inflict feelings of dread upon any sober moviegoer, especially those with a stereotypical girlfriend to entertain. Just like the musical genre was once an intelligent and stylistic way of telling an emotionally complex story, but has since become the theatrical equivalent of a mindless action blockbuster, so too has the romantic comedy lost its exciting inventiveness. Although, an unimaginably long time ago, the mixture of colourful romance and witty humour that has the two feeding off and enriching each other was successfully used to create one delightful story. It was about a shy, hapless young bachelor who comes across a seemingly cold, unfeeling and cantankerous young woman. Under ordinary circumstances, they would never even care to look at each other, but there something unusual and convenient happens that allows the man to get up close and personal with the woman, and eventually her heart is softened and the man starts to overcome his social anxieties. Yet, alas, the truth is unravelled about this unusual and convenient event and the two are torn apart because the girl is too upset to hear an explanation, and the man is too lazy to persist and prefers to mope around at a pub where someone is playing a slow, sad tune on the piano. Luckily, the leads' wisecracking best friends are there to set them back on track and deliver a happy ending. I'm sure this story delighted its original audience, however, since then no other story has been created using that promising combination of humour and love, but this same story has been recycled over a hundred times since, rendering the source indiscernible, and slaughtering the impact. Thank goodness that Jean-Pierre Améris has been much more proactive and free-thinking in his approach to co-writing and directing Les émotifs anonymes, where both the guy and the girl are shy, hapless, embarrassed romantics. Although such a twist might seem like the sort of cheesy gimmick usually employed by the money-grubbing directors of a superfluous Hollywood sequel, it's surprising how much it changes and refreshes the dynamic, and how much Améris allows it do so. Whilst he inevitably lets in some aspects of that dreaded, overused narrative, he has the courage to put down the rulebook and fly solo for quite a few scenes. Most notably, after the disastrous first date, where the ceaselessly paranoid but adorable middle-aged Jean-René Van Den Hugde (Benoît Poelvoorde) abruptly jumps ship in a fit of nerves, his lovely but hopelessly jittery employee Angélique Delange (Isabelle Carré) doesn't say a bad word against him. \"Je suis nul\" (\"I'm hopeless\") she repeats to herself after every one of these debacles, believing that she is the maniac who keeps scaring off this perfectly normal, friendly old man. Conversely, Jean-René scolds himself just as harshly. Therefore, the situation is both tragic and enjoyably ironic, giving the audience plenty of opportunities to sob and chuckle heartily. Thankfully though, these complications are never frustrating, because they are believable and in many ways relatable, and because Améris and co-screenwriter Philippe Blasband aren't delving into a bottomless bag of improbable plot points. Another effort worth mentioning is the simultaneous capture of the joys of chocolate and the passion and ingenuity that goes into the craft, showing an impressiveness willingness to tackle more than one piece of subject matter, and not just for future plot conveniences. However, they do interconnect in quite a clever way. Mlle Delange is a uniquely talented chocolatier, but her debilitating social difficulties make it impossible for her to discuss any of her methods, or accept the fulsome praise that critics are desperate to give her, so she invents a hilariously wacky scenario in order to distance herself from her creations. The audience feels just as much frustration for her lack of recognition as they do for the countless misunderstandings between her and René, and for René's incredibly clumsy business operation of the chocolate company for which they both work, and that is teetering on the edge of bankruptcy, despite the efforts of his very kindly employees and supporters. If the story that I am describing doesn't sound particularly amusing, and just unusual and dismal, then that is perhaps for the best for humour is ultimately inexplicable, and if explained in advance it spoils the unconscious reaction of gleeful laughter. All I can tell you is to trust the French to take a quirky story and make it funny, moving and meaningful all at once. The main method Améris employs in order to achieve this balance is to ensure that the audience is familiar with the characters and feels sympathetic towards them before he dares to start mixing in anything sentimental, so that the audience isn't suddenly asked to take seriously the soulless clowns whose misfortune they have just been delighting in. Finally, as well as this nice and even consistency of hilarity and comparative solemnity, he recognises that a few well-timed, irresistible French renditions of the song I Have Confidence from The Sound of Music (1965) can't hurt, but that is the only surprise I'm willing to give away."
+      ],
+      "genres": [
+         "Comedy",
+         "Romance"
+      ],
+      "productionCompanies": [
+         "Pan Européenne Production",
+         "StudioCanal",
+         "France 3 Cinéma"
+      ],
+      "summaries": ["What happens when a man and a woman share a common passion? They fall in love. And this is what happens to Jean-René, the boss of a small chocolate factory, and Angélique, a gifted chocolate maker he has just hired. What occurs when a highly emotional man meets a highly emotional woman? They fall in love, and this is what occurs to Jean-René and Angélique who share the same handicap. But being pathologically timid does not make things easy for them. So whether they will manage to get together, join their solitudes and live happily ever after is a guessing matter."],
+      "budget": 0
+   },
+   "movielensId": 93892,
+   "movielens": {
+      "languages": ["Français"],
+      "releaseDate": "2010-12-22",
+      "dvdReleaseDate": "2012-03-27",
+      "directors": ["Jean-Pierre Améris"],
+      "runtime": 80,
+      "movieId": 93892,
+      "title": "Romantics Anonymous",
+      "mpaa": "",
+      "actors": [
+         "Isabelle Carré",
+         "Benoît Poelvoorde",
+         "Lorella Cravotta",
+         "Lise Lamétrie",
+         "Swann Arlaud",
+         "Pierre Niney",
+         "Jacques Boudet",
+         "Grégoire Ludig",
+         "Céline Duhamel",
+         "Philippe Fretun",
+         "Alice Pol",
+         "Philippe Gaulé",
+         "Joëlle Sechaud",
+         "Isabelle Gruault",
+         "Claude Aufaure",
+         "Philippe Laudenbach",
+         "Stéphan Wojtowicz",
+         "Marie-Christine Demarest",
+         "Christiane Millet",
+         "Pascal Ternisien",
+         "Jean-Yves Chatelais",
+         "Vincent Paillier",
+         "Nancy Tate",
+         "Éric Naggar",
+         "Noémie Landreau",
+         "Vijay Singh",
+         "Pierre Adenot",
+         "Christophe Tourrette",
+         "Anny Vogel",
+         "Philippe Briegh"
+      ],
+      "imdbMovieId": "1565958",
+      "originalTitle": "Les émotifs anonymes",
+      "genres": [
+         "Drama",
+         "Comedy",
+         "Romance"
+      ],
+      "youtubeTrailerIds": ["Jo-r7KjOYtQ"],
+      "plotSummary": "What happens when a man and a woman share a common passion? They fall in love. And this is what happens to Jean-René, the boss of a small chocolate factory, and Angélique, a gifted chocolate maker he has just hired. What occurs when a highly emotional man meets a highly emotional woman? They fall in love, and this is what occurs to Jean-René and Angélique who share the same handicap. But being pathologically timid does not make things easy for them. So whether they will manage to get together, join their solitudes and live happily ever after is a guessing matter.",
+      "tmdbMovieId": 51991,
+      "avgRating": 3.56294,
+      "releaseYear": "2010",
+      "numRatings": 143,
+      "posterPath": "/hXL5TgqgFF8159dez0o8EK11ve3.jpg"
+   }
+}

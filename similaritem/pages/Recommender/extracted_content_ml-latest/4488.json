@@ -1,0 +1,816 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "police brutality",
+            "id": 796
+         },
+         {
+            "name": "ghetto",
+            "id": 2394
+         },
+         {
+            "name": "delinquency",
+            "id": 6147
+         },
+         {
+            "name": "police",
+            "id": 6149
+         },
+         {
+            "name": "east los angeles",
+            "id": 10211
+         },
+         {
+            "name": "gang",
+            "id": 10726
+         },
+         {
+            "name": "gang member",
+            "id": 33426
+         },
+         {
+            "name": "mexican american",
+            "id": 164253
+         },
+         {
+            "name": "barrio",
+            "id": 183637
+         },
+         {
+            "name": "colleague",
+            "id": 221412
+         }
+      ],
+      "imdb_id": "tt0094894",
+      "video": false,
+      "title": "Colors",
+      "recommendations": [
+         10859,
+         9080,
+         12395,
+         11896,
+         10952,
+         9546,
+         13715,
+         12647,
+         11950,
+         10155,
+         2620,
+         14361,
+         6723,
+         11595,
+         1644,
+         11718,
+         13939,
+         11310,
+         10396,
+         6341
+      ],
+      "backdrop_path": "/7cpeCNCYoHSFvZa1ziX0k5CakxI.jpg",
+      "revenue": 46616067,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Officer Danny McGavin",
+               "gender": 2,
+               "credit_id": "52fe432e9251416c75006aab",
+               "name": "Sean Penn",
+               "profile_path": "/f2uy1zq0qmtLBpsr6N9uQ8FktOr.jpg",
+               "id": 2228,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Officer Bob Hodges",
+               "gender": 2,
+               "credit_id": "52fe432f9251416c75006aaf",
+               "name": "Robert Duvall",
+               "profile_path": "/1aBC7NxPy10ofng6HsJBecJ1vMZ.jpg",
+               "id": 3087,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Louisa Gomez",
+               "gender": 1,
+               "credit_id": "52fe432f9251416c75006ab3",
+               "name": "María Conchita Alonso",
+               "profile_path": "/u2cQAgruOQxTE4gwJKodr0u2QmL.jpg",
+               "id": 2051,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Ron Delaney",
+               "gender": 2,
+               "credit_id": "52fe432f9251416c75006ab7",
+               "name": "Randy Brooks",
+               "profile_path": "/AsCnmmzsk6hrH3K4IqjCoke4xcT.jpg",
+               "id": 6938,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Larry Sylvester",
+               "gender": 2,
+               "credit_id": "52fe432f9251416c75006abb",
+               "name": "Grand L. Bush",
+               "profile_path": "/gAh3iIR7Pbpjx6o5qtAa9GTKKKe.jpg",
+               "id": 14333,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Rocket",
+               "gender": 2,
+               "credit_id": "52fe432f9251416c75006abf",
+               "name": "Don Cheadle",
+               "profile_path": "/b1EVJWdFn7a75qVYJgwO87W2TJU.jpg",
+               "id": 1896,
+               "order": 5
+            },
+            {
+               "cast_id": 15,
+               "character": "T-Bone",
+               "gender": 2,
+               "credit_id": "56e5da7092514103c500436d",
+               "name": "Damon Wayans",
+               "profile_path": "/pdSOalf1r7GKlcUhpKeBntAqgA6.jpg",
+               "id": 22675,
+               "order": 6
+            },
+            {
+               "cast_id": 16,
+               "character": "High Top",
+               "gender": 2,
+               "credit_id": "56e5da8ec3a3685aa0008112",
+               "name": "Glenn Plummer",
+               "profile_path": "/esZnjqw2WRA7zaX8SbJKGMp1xBg.jpg",
+               "id": 2683,
+               "order": 7
+            },
+            {
+               "cast_id": 17,
+               "character": "Bailey",
+               "gender": 2,
+               "credit_id": "56e5daab925141518e000925",
+               "name": "Sy Richardson",
+               "profile_path": "/kPlnnAmAbqQB33OcEVXiScK1Brr.jpg",
+               "id": 58623,
+               "order": 8
+            },
+            {
+               "cast_id": 18,
+               "character": "Vietname Vet",
+               "gender": 2,
+               "credit_id": "56e5daeec3a3685a9000862f",
+               "name": "Tony Todd",
+               "profile_path": "/zSg4mRssihYe0msd8KIE2rNKulh.jpg",
+               "id": 19384,
+               "order": 9
+            },
+            {
+               "cast_id": 19,
+               "character": "Whitey",
+               "gender": 2,
+               "credit_id": "56e5db0dc3a3685a960082ee",
+               "name": "Courtney Gains",
+               "profile_path": "/7u8dTzgr4ODfpKwdYoUlTwptoCq.jpg",
+               "id": 18708,
+               "order": 10
+            },
+            {
+               "cast_id": 20,
+               "character": "Frog",
+               "gender": 2,
+               "credit_id": "5a68aab30e0a2653a000d4ff",
+               "name": "Trinidad Silva",
+               "profile_path": "/mvJy15qgxM0cFst7pfnh80RZjVO.jpg",
+               "id": 146798,
+               "order": 11
+            },
+            {
+               "cast_id": 21,
+               "character": "Bird",
+               "gender": 2,
+               "credit_id": "5a68ab07c3a36844c100d93d",
+               "name": "Gerardo Mejía",
+               "profile_path": "/pz7lR2UEpHjQg7Ntr2IzmLSg40x.jpg",
+               "id": 571297,
+               "order": 12
+            },
+            {
+               "cast_id": 22,
+               "character": "Melindez",
+               "gender": 2,
+               "credit_id": "5a68ab630e0a2653a600da6f",
+               "name": "Rudy Ramos",
+               "profile_path": "/mu4DP6WfLWdE36g9EF8sxAcAYx7.jpg",
+               "id": 81445,
+               "order": 13
+            },
+            {
+               "cast_id": 23,
+               "character": "Reed",
+               "gender": 0,
+               "credit_id": "5a68abb20e0a2653af00d818",
+               "name": "Charles Walker",
+               "profile_path": null,
+               "id": 1544863,
+               "order": 14
+            },
+            {
+               "cast_id": 24,
+               "character": "Spanky",
+               "gender": 2,
+               "credit_id": "5a68abef9251411bb800c53f",
+               "name": "Bruce Beatty",
+               "profile_path": "/6lWPrqtnagVMhDOo6VARMjVko8V.jpg",
+               "id": 156532,
+               "order": 15
+            },
+            {
+               "cast_id": 26,
+               "character": "woman in rec center",
+               "gender": 0,
+               "credit_id": "5a68ac920e0a2653af00d957",
+               "name": "Paula Bellamy",
+               "profile_path": null,
+               "id": 1295113,
+               "order": 17
+            },
+            {
+               "cast_id": 27,
+               "character": "crash secretary",
+               "gender": 1,
+               "credit_id": "5a68accb9251411bbb00ca73",
+               "name": "Verda Bridges",
+               "profile_path": "/b3XrA22Y7LrE2t3X5prywRMj1oF.jpg",
+               "id": 167225,
+               "order": 18
+            },
+            {
+               "cast_id": 28,
+               "character": "Gato",
+               "gender": 2,
+               "credit_id": "5a68acf9c3a36844b700c89c",
+               "name": "Steven Camarrillo",
+               "profile_path": null,
+               "id": 1966293,
+               "order": 19
+            },
+            {
+               "cast_id": 30,
+               "character": "tommie hodges",
+               "gender": 0,
+               "credit_id": "5a68ad4e0e0a2653a200d8a8",
+               "name": "Brandon Bluhm",
+               "profile_path": null,
+               "id": 1224746,
+               "order": 21
+            },
+            {
+               "cast_id": 31,
+               "character": "young crip 1",
+               "gender": 2,
+               "credit_id": "5a68ad76c3a36844b400c63c",
+               "name": "Mark Booker",
+               "profile_path": "/tF7cX3gduQ6Y0jiB9u8YVmcMhro.jpg",
+               "id": 1372556,
+               "order": 22
+            },
+            {
+               "cast_id": 32,
+               "character": "Sullivan",
+               "gender": 2,
+               "credit_id": "5a68ada4c3a36844ef00cea4",
+               "name": "Seymour Cassel",
+               "profile_path": "/atWyQvsLNjmXP5dxsOiaf5Qg9j.jpg",
+               "id": 5950,
+               "order": 23
+            },
+            {
+               "cast_id": 33,
+               "character": "diaz",
+               "gender": 2,
+               "credit_id": "5a68adde0e0a2653a000d955",
+               "name": "Gary Carlos Cervantes",
+               "profile_path": "/13kjmeYYdJzdeccnJEXo56KH7CO.jpg",
+               "id": 48136,
+               "order": 24
+            },
+            {
+               "cast_id": 34,
+               "character": "young crip 2",
+               "gender": 2,
+               "credit_id": "5a68ae200e0a2653ac00d994",
+               "name": "Eugene Collier",
+               "profile_path": null,
+               "id": 4605,
+               "order": 25
+            },
+            {
+               "cast_id": 35,
+               "character": "officer young",
+               "gender": 2,
+               "credit_id": "5a68ae450e0a2653ac00d9db",
+               "name": "Lawrence Cook",
+               "profile_path": null,
+               "id": 174942,
+               "order": 26
+            },
+            {
+               "cast_id": 36,
+               "character": "phil",
+               "gender": 0,
+               "credit_id": "5a68ae62c3a36844c900d70b",
+               "name": "Nick Corello",
+               "profile_path": null,
+               "id": 152582,
+               "order": 27
+            },
+            {
+               "cast_id": 37,
+               "character": "preacher",
+               "gender": 0,
+               "credit_id": "5a68ae7d9251411bbe00cffc",
+               "name": "Troy Curvey Jr.",
+               "profile_path": null,
+               "id": 1228822,
+               "order": 28
+            },
+            {
+               "cast_id": 38,
+               "character": "young crip 3",
+               "gender": 2,
+               "credit_id": "5a68aec90e0a2653ac00daa1",
+               "name": "Gregg Dandridge",
+               "profile_path": null,
+               "id": 1966297,
+               "order": 29
+            },
+            {
+               "cast_id": 39,
+               "character": "robert craig",
+               "gender": 0,
+               "credit_id": "5a68aefb9251411bbb00cdd2",
+               "name": "Brian Davis",
+               "profile_path": null,
+               "id": 1682015,
+               "order": 30
+            },
+            {
+               "cast_id": 40,
+               "character": "2nd crash officer",
+               "gender": 0,
+               "credit_id": "5a68af79c3a36844e400c48b",
+               "name": "Dennis Fanning",
+               "profile_path": null,
+               "id": 98092,
+               "order": 31
+            },
+            {
+               "cast_id": 41,
+               "character": "sheriff foster",
+               "gender": 2,
+               "credit_id": "5a68afaf0e0a2653a600e0ad",
+               "name": "Virgil Frye",
+               "profile_path": "/ryJZmbNAFOOLREZUZ2XZlr3kP99.jpg",
+               "id": 8954,
+               "order": 32
+            },
+            {
+               "cast_id": 42,
+               "character": "phillip",
+               "gender": 2,
+               "credit_id": "5a68afea0e0a2653b200d8f3",
+               "name": "Tomás Goros",
+               "profile_path": "/igQHHChnzFv6cLm8dlN8zuuDjKz.jpg",
+               "id": 1020696,
+               "order": 33
+            },
+            {
+               "cast_id": 43,
+               "character": "lee",
+               "gender": 2,
+               "credit_id": "5a68b0320e0a2653a800d804",
+               "name": "Clark Johnson",
+               "profile_path": "/ud7Xtakgpkm0djkWGAbQDDTOUCT.jpg",
+               "id": 47640,
+               "order": 34
+            },
+            {
+               "cast_id": 44,
+               "character": "killer-bee",
+               "gender": 0,
+               "credit_id": "5a68b07cc3a36844ef00d2f2",
+               "name": "Leonard Robinson",
+               "profile_path": "/xjrWB1wlVpBSQcnDbq6hVXp7j6p.jpg",
+               "id": 1237618,
+               "order": 35
+            },
+            {
+               "cast_id": 45,
+               "character": "mrs. craig",
+               "gender": 1,
+               "credit_id": "5a68b09dc3a36844b400ca7a",
+               "name": "Tina Lifford",
+               "profile_path": "/rfeR698pIXf5Ge3aXfNhXW2awrd.jpg",
+               "id": 57992,
+               "order": 36
+            },
+            {
+               "cast_id": 46,
+               "character": "felipe's friend",
+               "gender": 2,
+               "credit_id": "5a68b0c8c3a36844c100e170",
+               "name": "Mario López",
+               "profile_path": "/b9bGymfTx7Zgv26fp44mHnlPnZT.jpg",
+               "id": 19185,
+               "order": 37
+            },
+            {
+               "cast_id": 48,
+               "character": "willie wright",
+               "gender": 0,
+               "credit_id": "5a68b1460e0a2653a600e31f",
+               "name": "Shawn McLemore",
+               "profile_path": null,
+               "id": 1850432,
+               "order": 39
+            },
+            {
+               "cast_id": 49,
+               "character": "joan hodges",
+               "gender": 1,
+               "credit_id": "5a68b17d9251411bc400cf66",
+               "name": "Micole Mercurio",
+               "profile_path": "/rqNwt1vtix7LJ94TjTin0t9vnHC.jpg",
+               "id": 21202,
+               "order": 40
+            },
+            {
+               "cast_id": 50,
+               "character": "locita",
+               "gender": 0,
+               "credit_id": "5a68b1a9c3a36844c900dba1",
+               "name": "Karla Montana",
+               "profile_path": null,
+               "id": 1228755,
+               "order": 41
+            },
+            {
+               "cast_id": 51,
+               "character": "officer samuels",
+               "gender": 2,
+               "credit_id": "5a68b1d90e0a2653a800daa6",
+               "name": "Jack Nance",
+               "profile_path": "/fN9LyZnztco8Tk7NpV0JiGnFkIy.jpg",
+               "id": 6718,
+               "order": 42
+            },
+            {
+               "cast_id": 52,
+               "character": "neighbor woman",
+               "gender": 0,
+               "credit_id": "5a68b2099251411bca00d333",
+               "name": "Frances E. Nealy",
+               "profile_path": "/h8BXU3Doqum2mCd551qFvw5KRXj.jpg",
+               "id": 172538,
+               "order": 43
+            },
+            {
+               "cast_id": 53,
+               "character": "homeboy",
+               "gender": 0,
+               "credit_id": "5a68b2280e0a2653a600e48f",
+               "name": "Ray Oriel",
+               "profile_path": null,
+               "id": 192047,
+               "order": 44
+            },
+            {
+               "cast_id": 54,
+               "character": "traffic officer",
+               "gender": 0,
+               "credit_id": "5a68b2539251411bc400d0aa",
+               "name": "J. Anthony Pena",
+               "profile_path": "/Ah5oKvWSgXrcf8kxNB7un3Hs2eU.jpg",
+               "id": 167316,
+               "order": 45
+            },
+            {
+               "cast_id": 55,
+               "character": "jc",
+               "gender": 2,
+               "credit_id": "5a68b2e0c3a36844b700d0b2",
+               "name": "David Raynr",
+               "profile_path": null,
+               "id": 161858,
+               "order": 46
+            },
+            {
+               "cast_id": 56,
+               "character": "hearing officer",
+               "gender": 2,
+               "credit_id": "5a68b30fc3a36844e400c914",
+               "name": "Richard Rust",
+               "profile_path": "/9nR4DGwmAcppsTp3RdnfFcNyxS2.jpg",
+               "id": 102267,
+               "order": 47
+            },
+            {
+               "cast_id": 57,
+               "character": "vietnam vet",
+               "gender": 2,
+               "credit_id": "5a68b3839251411bc400d274",
+               "name": "Tony Todd",
+               "profile_path": "/zSg4mRssihYe0msd8KIE2rNKulh.jpg",
+               "id": 19384,
+               "order": 48
+            },
+            {
+               "cast_id": 58,
+               "character": "lewis",
+               "gender": 0,
+               "credit_id": "5a68b3bc9251411bbe00d7c2",
+               "name": "Geoffrey Thorne",
+               "profile_path": null,
+               "id": 213108,
+               "order": 49
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe432f9251416c75006ac5",
+               "name": "Dennis Hopper",
+               "profile_path": "/rq1n4dbFRXkaBspAbNzmNgyFMp.jpg",
+               "id": 2778,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe432f9251416c75006acb",
+               "name": "Michael Schiffer",
+               "profile_path": null,
+               "id": 52171,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe432f9251416c75006ad1",
+               "name": "Robert H. Solo",
+               "profile_path": null,
+               "id": 39106,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe432f9251416c75006ad7",
+               "name": "Herbie Hancock",
+               "profile_path": "/hiYIvYhh7jnU2O5RLLdTEVv1a1l.jpg",
+               "id": 15193,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe432f9251416c75006add",
+               "name": "Haskell Wexler",
+               "profile_path": "/k3JSEg2tildKuFl6F6T1gLQSwgf.jpg",
+               "id": 7067,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 1,
+               "credit_id": "53349b56925141444e002454",
+               "name": "Lauren Lloyd",
+               "profile_path": null,
+               "id": 39032,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "53349b6f92514144600024c3",
+               "name": "Robert Estrin",
+               "profile_path": null,
+               "id": 4141,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "53349b819251414451002518",
+               "name": "Ron Foreman",
+               "profile_path": null,
+               "id": 16613,
+               "department": "Art",
+               "job": "Production Design"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Crime",
+            "id": 80
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 6.645263,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 10126,
+      "vote_count": 130,
+      "budget": 6000000,
+      "overview": "A confident young cop is shown the ropes by a veteran partner in the dangerous gang-controlled barrios of Los Angeles, where the gang culture is enforced by the colors the members wear.",
+      "similar": [
+         4771,
+         281,
+         1266,
+         26390,
+         2034,
+         339692,
+         868,
+         2142,
+         10651,
+         1949,
+         979,
+         1368,
+         96,
+         101,
+         275,
+         681,
+         949,
+         23483,
+         8923,
+         769
+      ],
+      "original_title": "Colors",
+      "runtime": 120,
+      "poster_path": "/5KueYME8A449pxaKTJZp3cWKKSX.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Español",
+            "iso_639_1": "es"
+         }
+      ],
+      "production_companies": [{
+         "logo_path": "/wOMD2jDmY6wU2oScXOEgq9hqeNN.png",
+         "name": "Orion Pictures",
+         "id": 41,
+         "origin_country": ""
+      }],
+      "release_date": "1988-04-15",
+      "vote_average": 6.6,
+      "belongs_to_collection": null,
+      "tagline": "70,000 gang members. One million guns. Two cops.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Dennis Hopper"],
+      "runtime": 120,
+      "synopsis": null,
+      "writers": [
+         "Michael Schiffer",
+         "Michael Schiffer"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0094894/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjI1Njg0MDUwMV5BMl5BanBnXkFtZTcwNzc2NjEzNA@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Sean Penn, Robert Duvall, Maria Conchita Alonso | See full cast and crew »"],
+      "reviews": [
+         "Consider the range and the capture of characters in one movie, Colors delivers multiple plot lines from a number of sides. I remember when this movie first came out I was in Jr. high school. Colors was a controversial movie talked about by teachers, principles and parents because, believe it or not, it had a tendency for glorification and encouraging gang membership. To my surprise, the movie has little glorification in it and was a grim summary of Los Angeles gang life (and even that of law enforcement.) The movie does not spoon feed its audience, save for a few minor comments that were cheesy at their worst and cleverly woven in at their best. In some cases the portrayal of gang life in LA might have been TOO broad and sophisticated for many viewers. The title COLORS and its implication was meant to explain the rival Crip and Blood gangs but in fact that was merely a pretext. Soon into the movie the viewer is taken into various other neighborhoods as well as other gangs, including WHITE FENCE and 21st Street. For those that denounce this movie as being outdated, cheesy or otherwise, it's hard for me to understand what you are paying attention to. If you remember the 80's in the slightest, it was a time of decadent and flamboyant neon glow ala Prince, Michael Jackson and various other nonsense. The irony is that COLORS portrays a world that was virtually isolated and separate from the 80's because that is what it was MEANT to point out. This was gang life at its peak, before any of the gangster rap hit white suburbia and became a marketable fad. This was BEFORE white folks thought it was cool. It was isolated from the look and feel of the rest of the 80's because this world was isolated from the general population. For this reason I am surprised that anyone would call the movie outdated in any way. \"Timeless\" is the word I use to describe it. Despite all this, Hopper manages to incorporate the storyline between Duval and Penn. Not only is this a brilliant interaction between two great actors, it also has a more marketable value to a white audience that would otherwise have been turned off by the subject matter and considered it, unfairly, as a \"blacksploitation\" film. Let's face it, Hollywood is big business. The ability to market this movie with ANY semblance of a good plot line but making it even remotely realistic is an amazing achievement. Hopper goes beyond doing both. I would not be surprised to see this movie in the classics section, someday.",
+         "My generation remembers these times...This is before Rodney King and the riots, before the relentless moralizing of Spike Lee and John Singleton. Back then, urban gang warfare was comfortably distant. This is before cell phones, bling, rims, before the thug life became a marketable commodity. Colors is distinctive for Hopper's tight focus, his honest approach and complete lack of sentimentality. The world depicted here is horizontal, and filmed horizontally; it is ugly and unironic, and in a way egalitarian; there are NO courts or lawyers, every introduction of ethics is literally shot down. It's hard to imagine anything being made like this in today's multiculti/PC world, any such attempt would immediately provoke shrieking and clutching of skirts at the sight of 'racism'. This paradigm of movie-making didn't survive, it disappeared like Duvall's soul in that departing helicopter shot. Unfortunately, the trend went the way of \"Boyz n the Hood\".",
+         "Before you had BOYS N THE HOOD or MENACE II SOCIETY, there was COLORS. This movie is the original article in urban-street dramas that spawned many followers in the 90's. But like those films it is an intense, powerful movie that takes you to the streets in an extremely realistic way. The caption on the VHS cover says something like two gangs at war(Bloods & Crips)with the police caught in between. Well, that is pretty misleading. Although most films like this would stick with the gang war as the main focus, COLORS has many different plot levels that all come together very nicely. Sean Penn & Robert Duvall are right on the mark as the two officers on the beat. The film ultimately succeeds through its perspectives, giving points of view from all sides and fully expresses the harsh reality that everyone involved faces. When the film first came out, it was bashed for its extreme violence and portrayal of gang members. Well, I definitely think Dennis Hopper did an excellent job and I feel that violence is crucial in a film like this to add to its strong sense of reality which some people may not be too familiar with.",
+         "Until I checked this out on IMDB, I had no idea that Dennis Hopper was the director. Wow, that says a lot about his directing ability. In a void, this movie might not be great. Someone from the UK complained about it. I'm not from Compton but, this movie rates up there with the other true-to-lifers like Boyz in the Hood, and other gang related \"classics\" (as they deserve to be called). This is a great movie with great acting and a great plotline. It's a pretty realistic view (again, I'm not a gang banger, so maybe my view is skewed) of the gang life in L.A. And it was the first to really portray it... I'm still a big fan of Boyz in the Hood (not for excitement, but for a good story about a tough life). But this was the first (as I recall) and Hopper deserves a great deal of credit for that. Penn and Duvall are fantastic actors and both come through in a big way in this movie. My personal opinion: This movie has been, by far, underrated...",
+         "Dennis Hopper's film Colors may seem like hundreds of miles removed from his first feature as director Easy Rider, but it's made twenty years later and it shows effectively at least two things on his part: first, that he can express himself in material that would appear to be a \"for-hire\" work, specifically with having an older, calmer version of himself in Duvall (the kind that tries to think things through and can be ferocious but has experience from a life of work) and Penn (the young hot-head who you know is good but is troubled in other ways), and secondly that he can go back to some of his earliest acting roots, working in movies featuring rebels and gangs (not least of which Rebel Without a Cause) and actually give them the fire and energy and as-much-as-possible realism so desperately needed. Colors is a mature work from a filmmaker who knows what he's doing, and will let the actors and the mood of the streets and the temperament of the current events (which were practically untenable in the late 80s and early 90s in gang-banger) LA. Matter of fact, this should have been Hopper's professional calling-card, showing that he can make a film that isn't an art-film or too experimental (Last Movie) or under the radar (Out of the Blue). Indeed you'd have to remind most people that Hopper even directed it since, frankly, he lets his stars steal the show, and rightfully so. There's not a solid plot to speak of, more-so a character study of two cops, one older one younger, who are partnered up and have to tackle the ghettos and slums, loaded with \"Blue\" (Crips) and \"Red\") (Bloods), and also the various Hispanic gangs that are not as notorious but still as powerful and dangerous. It's a series of pieces that soon take shape into a story, but it's not even about that. It's just about following these gangs and being true to their nature: of their rites of passage (beating up the new kids and setting them off to prove themselves), their bond and codes, their can-do attitude even when they're behind bars or in hand-cuffs, and the collective wisdom that you can either talk to a cop or just run... or, another alternative, shoot. It's also about a value system and class differences; the former relating, of course, to Hodges (Duvall) and Penn, who don't see eye to eye on how to apprehend suspects or treat them. Penn's younger guy isn't a crooked cop or corrupted, but he's a hot-head, a junkie for adrenaline, while Duvall's been around the block way too many times (and even admits that he had a higher post before and is still on the streets for reasons not totally made clear) to put up with being \"like a gangster\" as he says. And the class part relates to the difference between McGavin (Penn) and his supposed girlfriend, who comes from the Latino parts of the hood and has family that Hodges has come in contact with as a cop, putting them up against the wall. It's through this that we see the split between the people in Lost Angeles, and while it's not a subtle point really (and may even be one of the more cliché things in the picture), it still goes a way to try and add immediacy to the drama, and McGain's own personal conflicts on the streets. And, again, those gangs, some played by actors (Don Cheadle and Damon Wayans in early roles, Sy Richardson), others by I would assume real gang-bangers and people 'from the streets' (another thing Hopper is good at, casting real people, which he doesn't get enough credit for), that are allowed to be fleshed out and made into real people, or as real as they can be in this movie. The filmmakers don't make us feel sympathy for the gang members, but through making them human beings as opposed to just targets and caricatures, it adds to the whole experience of being about something. Nothing here is exploited; it's a well-researched time-capsule that still holds its own years later, least as long as there are crips and bloods and other gangs and, you know, hot-headed cops with old-timer veterans. Very solid, professional film-making.",
+         "Colors First-Viewing, TV(Dennis Hopper)- Sean Penn, Robert Duvall, Don Cheadle, Maria Conchita Alonso, Glen Plummer, Grand L. Bush, Damon Wayans, Leon Robinson Robert Duvall and Sean Penn star as two cops trying to fight gang violence in Los Angelos. Duvall is an old cop, who is going to retire, and Penn plays a rookie who is keen to make his presence felt on the force. Both give good performances, although Penn was clearly the highlight of the film, with an interesting character and very good performance. Robert Duvall was also good though, with a complex performance. Don Cheadle was virtually absent, was a bit of a villain, portraying a Crip gangbanger, but had very little lines, unfortunately. Maria Conchita Alonso played a woman in the ghetto that Officer McGavin (Penn) was interested in, and gave a very average performance. Other gangbangers played by Glen Plummer, Grand L. Bush, Damon Wayans and Leon Robinson, were all good in their small roles. Overall a good film depicting gang violence in LA, also had some good action sequences, and good acting. 8/10",
+         "It was about 1988 when people in my suburban world first became aware of the inner city war between Bloods, Crips, and many of the fringe groups. This film, along with the rise of \"gangster rap\" were probably my first exposure to this culture. And its safe to say that if anything, the problem has only gotten worse in the past two decades. Gangs are still killing each other, and they seldom need a reason to do so. Colors is a fairly daring film directed by Dennis Hopper. The story wishes to point out the plight of inner-city youths caught up in gangs as well as the futility of law enforcement in dealing with them. Robert Duvall and Sean Penn play basically the timeless \"good cop/bad cop\" duo out to learn what they can on the street and help prevent as much gang crime as possible. The film starts out strongly detailing the differences in their respective approaches to the job. Both men are a joy to watch, and continue to be so to this day. There are few American actors as talented as either man. However, as the story progresses, these two main characters seem to get kind of lost in the shuffle, and the story becomes more about the gang members. They are mostly interesting people, but you're going to find yourself wishing for more of the two leads. The film is packed with shootouts and car chases.... perhaps a few too many. A lot of thought went into stunt work, fight scenes, and explosions. Most are not needed. Had Colors stayed more of a thoughtful drama instead of an action pic, it would have had a much bigger impact. The Los Angeles we see here is well filmed, and seems off limits to those who don't live there. This was certainly the intention. There are some wonderful little details that project the local flare. In one scene for example, while Penn and Duvall are questioning a group of Hispanic suspects in the Barrio, you can hear a rooster crowing just off screen. The cast is teeming with soon-to-be famous folks like Damon Wayans, Don Cheadle, Glen Plummer and many others. Look out for a young Mario Lopez as a young gang member. But what on earth was Malakai from Children of the Corn doing in the Barrio???? 7 of 10 stars. The Hound.",
+         "I always enjoy watching this film. Raw, and uncompromising. Great performances by Sean Penn and Robert Duvall. A dark, and gritty portrayal of gang life in LA, and the special cop task force who deals with them. The film is never preachy, or insulting in it's execution. Awash with violence and profanity - but it's not glorified and serves a purpose. This movie isn't without flaws. I could have done without the drawn-out, and pointless lovemaking scene with Penn and Maria Conchita Alonso. T-Bone's arrest scene could have been explained without a feeble attempt at comedy. Also, I think \"eyy hoolmes\" is said about 50 times too many. I feel that these greatly undermine what is overall a solid motion picture. If you're a fan of gritty cop/crime dramas, or of gangsta' movies, I strongly urge you to see this film.",
+         "After viewing Colors you have got to wonder about what our Founding Fathers had in mind when that Second Bill of Rights was passed to amend the Constitution. I don't think this is what they had in mind concerning the right to bear arms. Colors is a film about gang wars in Los Angeles and it's seen through the eyes of two police officers on the gang task force. Older officer Robert Duvall and his young new partner Sean Penn. Penn's a young man in a big hurry looking to make an impression. Duvall is just trying to live through the day and make retirement. Penn gets quite a lesson in police work and in life from Duvall and from his days on the gang task force. His involvement with Maria Conchita Alonso who's seeing it from both sides helps a bit too for Sean, though not how he'd have liked it. Don Cheadle and Trinidad Silva lead a good supporting cast of gang bangers. If you don't recognize him because he hasn't bulked up yet, see Mario Lopez in a small role as a kid who Sean Penn sprays with a can of spray paint to give him an object lesson on the evils of tagging. Duvall and Penn do a fine job each. I doubt this film is on the National Rifle Association recommended list.",
+         "Viewed this film a few years ago and enjoyed it the second time around. Sean Penn, (Officer Danny McGavin) was a rookie who started out knowing just how to handle the various gangs in Los Angeles and even got all hot and bothered about a nice looking gal who could Tease and Please without any problems. His old time partner was, Robert Duvall,(Bob Hodges), who was married and had a family and tried to take Danny McGavin under his wing and calm him down. Bob Hodges was about to retire and had handled the various gangs a different way that most of the other Police officers and it seemed to work out very well. Bob got all kinds of information he needed by just treating the gangs and their leaders with a certain kind of respect. The film had plenty of action, but was entirely too long for a story we have seen many times on the Big Screen. However, Duval and Penn gave outstanding performances and were great working together."
+      ],
+      "genres": [
+         "Action",
+         "Crime",
+         "Drama",
+         "Romance",
+         "Thriller"
+      ],
+      "productionCompanies": ["Orion Pictures"],
+      "summaries": [
+         "A confident young cop is shown the ropes by a veteran partner in the dangerous gang-controlled barrios of L.A. about to explode in violence in this look at the gang culture enforced by the colors that members wear.",
+         "An experienced cop and his rookie partner patrol the streets of East Los Angeles while trying to keep the gang violence under control."
+      ],
+      "budget": 6000000
+   },
+   "movielensId": 4488,
+   "movielens": {
+      "languages": [
+         "English",
+         "Español"
+      ],
+      "releaseDate": "1988-04-15",
+      "dvdReleaseDate": "2001-10-02",
+      "directors": ["Dennis Hopper"],
+      "runtime": 120,
+      "movieId": 4488,
+      "title": "Colors",
+      "mpaa": "R",
+      "actors": [
+         "Sean Penn",
+         "Robert Duvall",
+         "María Conchita Alonso",
+         "Randy Brooks",
+         "Grand L. Bush",
+         "Don Cheadle",
+         "Damon Wayans",
+         "Glenn Plummer",
+         "Sy Richardson",
+         "Tony Todd",
+         "Courtney Gains",
+         "Trinidad Silva",
+         "Gerardo Mejía",
+         "Rudy Ramos",
+         "Charles Walker",
+         "Bruce Beatty",
+         "Paula Bellamy",
+         "Verda Bridges",
+         "Steven Camarrillo",
+         "Brandon Bluhm",
+         "Mark Booker",
+         "Seymour Cassel",
+         "Gary Carlos Cervantes",
+         "Eugene Collier",
+         "Lawrence Cook",
+         "Nick Corello",
+         "Troy Curvey Jr.",
+         "Gregg Dandridge",
+         "Brian Davis",
+         "Dennis Fanning",
+         "Virgil Frye",
+         "Tomás Goros",
+         "Clark Johnson",
+         "Leonard Robinson",
+         "Tina Lifford",
+         "Mario López",
+         "Shawn McLemore",
+         "Micole Mercurio",
+         "Karla Montana",
+         "Jack Nance",
+         "Frances E. Nealy",
+         "Ray Oriel",
+         "J. Anthony Pena",
+         "David Raynr",
+         "Richard Rust",
+         "Tony Todd",
+         "Geoffrey Thorne"
+      ],
+      "imdbMovieId": "0094894",
+      "originalTitle": "Colors",
+      "genres": [
+         "Action",
+         "Crime",
+         "Drama"
+      ],
+      "youtubeTrailerIds": ["TEauBVUJKhA"],
+      "plotSummary": "A confident young cop is shown the ropes by a veteran partner in the dangerous gang-controlled barrios of Los Angeles, where the gang culture is enforced by the colors the members wear.",
+      "tmdbMovieId": 10126,
+      "avgRating": 3.33636,
+      "releaseYear": "1988",
+      "numRatings": 1155,
+      "posterPath": "/hMmgtGOBxeYcObO0eHedztXhZBb.jpg"
+   }
+}

@@ -1,0 +1,401 @@
+{
+   "tmdb": {
+      "original_language": "ru",
+      "keywords": [
+         {
+            "name": "russia",
+            "id": 2139
+         },
+         {
+            "name": "artist",
+            "id": 2679
+         },
+         {
+            "name": "biker",
+            "id": 6951
+         },
+         {
+            "name": "love",
+            "id": 9673
+         },
+         {
+            "name": "wedding",
+            "id": 13027
+         },
+         {
+            "name": "moscow",
+            "id": 186450
+         }
+      ],
+      "imdb_id": "tt0083465",
+      "video": false,
+      "title": "The Pokrovsky Gates",
+      "recommendations": [
+         109774,
+         227998,
+         121688,
+         107705,
+         29299,
+         41043,
+         270249,
+         63573,
+         65142,
+         6029,
+         270393,
+         83486,
+         71393,
+         27863,
+         67958,
+         79702,
+         41961,
+         213321,
+         23898,
+         79216
+      ],
+      "backdrop_path": "/b5pG0s92IJ2seJPp2ZRJ6oVrPMX.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Константин Ромин, он же Костик",
+               "gender": 2,
+               "credit_id": "52fe462f9251416c9104c0f9",
+               "name": "Oleg Menshikov",
+               "profile_path": "/fj6Ie4e1LTVfXKWUpZtD1IOCub7.jpg",
+               "id": 82795,
+               "order": 0
+            },
+            {
+               "cast_id": 18,
+               "character": "Аркадий Варламыч Велюров",
+               "gender": 2,
+               "credit_id": "52fe462f9251416c9104c125",
+               "name": "Leonid Bronevoy",
+               "profile_path": "/l4ulzUc4gyOyQrSlVdTeh5gwNL8.jpg",
+               "id": 1190266,
+               "order": 1
+            },
+            {
+               "cast_id": 5,
+               "character": "Маргарита Павловна Хоботова",
+               "gender": 0,
+               "credit_id": "52fe462f9251416c9104c101",
+               "name": "Inna Ulyanova",
+               "profile_path": "/5ynesRJLpuSVaAneeGKCm2G1zmI.jpg",
+               "id": 271091,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Лев Евгеньевич Хоботов",
+               "gender": 0,
+               "credit_id": "52fe462f9251416c9104c0fd",
+               "name": "Anatoliy Ravikovich",
+               "profile_path": "/oxwo3BlYkBV67ETlMI4ic6xn89Q.jpg",
+               "id": 47918,
+               "order": 3
+            },
+            {
+               "cast_id": 21,
+               "character": "Людочка",
+               "gender": 0,
+               "credit_id": "52fe462f9251416c9104c131",
+               "name": "Yelena Koreneva",
+               "profile_path": "/RPHT9o5ZPWvMfgK4Wb6J1955Av.jpg",
+               "id": 1190712,
+               "order": 4
+            },
+            {
+               "cast_id": 17,
+               "character": "Савва Игнатич",
+               "gender": 0,
+               "credit_id": "52fe462f9251416c9104c121",
+               "name": "Viktor Bortsov",
+               "profile_path": "/vX2o6UTEe8NPucmkHREqIaOgU9o.jpg",
+               "id": 271094,
+               "order": 5
+            },
+            {
+               "cast_id": 6,
+               "character": "тётя Костика, Алиса Витальевна",
+               "gender": 0,
+               "credit_id": "52fe462f9251416c9104c105",
+               "name": "Sofiya Pilyavskaya",
+               "profile_path": "/38Eo40IXWJFfskkwdCodBluzXyw.jpg",
+               "id": 933196,
+               "order": 6
+            },
+            {
+               "cast_id": 9,
+               "character": "Светлана Попова",
+               "gender": 0,
+               "credit_id": "52fe462f9251416c9104c109",
+               "name": "Tatyana Dogileva",
+               "profile_path": "/3kBiCQL37CpcdUubr85N5OQdbXI.jpg",
+               "id": 86957,
+               "order": 7
+            },
+            {
+               "cast_id": 19,
+               "character": "Глеб Николаевич Орлович",
+               "gender": 2,
+               "credit_id": "52fe462f9251416c9104c129",
+               "name": "Igor Dmitriev",
+               "profile_path": "/uUCNq0FiyMpuadtMqkinrBD2oVR.jpg",
+               "id": 568774,
+               "order": 8
+            },
+            {
+               "cast_id": 10,
+               "character": "Нина Андреевна Орлович",
+               "gender": 0,
+               "credit_id": "52fe462f9251416c9104c10d",
+               "name": "Yelizaveta Nikishchikhina",
+               "profile_path": "/dqjhRvg7EdtgpWPvSSTJhZRK1C6.jpg",
+               "id": 270576,
+               "order": 9
+            },
+            {
+               "cast_id": 12,
+               "character": "поэт Соев",
+               "gender": 2,
+               "credit_id": "52fe462f9251416c9104c111",
+               "name": "Yevgeni Morgunov",
+               "profile_path": "/qG6otdHD71RRKCzfj3qxUSHJsVP.jpg",
+               "id": 86693,
+               "order": 10
+            },
+            {
+               "cast_id": 20,
+               "character": "Ольга Яновна \u2014 жена Соева",
+               "gender": 1,
+               "credit_id": "52fe462f9251416c9104c12d",
+               "name": "Natalya Krachkovskaya",
+               "profile_path": "/h1iH5z5gl7adrGVNjHE7RQrDMsQ.jpg",
+               "id": 1190646,
+               "order": 11
+            },
+            {
+               "cast_id": 14,
+               "character": "Рита",
+               "gender": 0,
+               "credit_id": "52fe462f9251416c9104c115",
+               "name": "Valentina Voilkova",
+               "profile_path": "/h38JnWcLbRC6ZkSTSyXuq2qghQf.jpg",
+               "id": 1038585,
+               "order": 12
+            },
+            {
+               "cast_id": 15,
+               "character": "дедушка Савельич",
+               "gender": 2,
+               "credit_id": "52fe462f9251416c9104c119",
+               "name": "Emmanuil Geller",
+               "profile_path": "/fJ1N2ZgMdF1eKQ7jAUCZI9R57Uv.jpg",
+               "id": 86699,
+               "order": 13
+            },
+            {
+               "cast_id": 16,
+               "character": "Константин Ромин много лет спустя",
+               "gender": 2,
+               "credit_id": "52fe462f9251416c9104c11d",
+               "name": "Mikhail Kozakov",
+               "profile_path": "/1dxQjA09IgzP9f2KoUMWJxuAi6c.jpg",
+               "id": 143725,
+               "order": 14
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe462f9251416c9104c0f5",
+               "name": "Mikhail Kozakov",
+               "profile_path": "/1dxQjA09IgzP9f2KoUMWJxuAi6c.jpg",
+               "id": 143725,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "53a4aee0c3a3687a40000283",
+               "name": "Leonid Zorin",
+               "profile_path": null,
+               "id": 1042884,
+               "department": "Writing",
+               "job": "Theatre Play"
+            },
+            {
+               "gender": 2,
+               "credit_id": "53a4aee6c3a3687a43000288",
+               "name": "Leonid Zorin",
+               "profile_path": null,
+               "id": 1042884,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5aa821139251417222019adf",
+               "name": "Georgy Garanyan",
+               "profile_path": null,
+               "id": 1406467,
+               "department": "Crew",
+               "job": "Compositors"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5ab246f4c3a3681cdc006891",
+               "name": "Nikolay Nemolyaev",
+               "profile_path": null,
+               "id": 47446,
+               "department": "Crew",
+               "job": "Cinematography"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 1.666713,
+      "production_countries": [{
+         "iso_3166_1": "RU",
+         "name": "Russia"
+      }],
+      "id": 37176,
+      "vote_count": 13,
+      "budget": 0,
+      "overview": "Stories from the lives of the tenants of the Moscow's communal apartment: Kostik, who is a college student, lives with his aunt while studying; Arkady Velyurov who is a performing artist; Khobotovs, who are a divorced couple; and Sava, who is Margarita Khobotov's new fiancé. All these people live in one apartment and their lives constantly touch each other's.",
+      "similar": [
+         24420,
+         11931,
+         10030,
+         1643,
+         50124,
+         72207,
+         1024,
+         3933,
+         50546,
+         46705,
+         38,
+         86331,
+         329103,
+         225886,
+         979,
+         1903,
+         1259,
+         276,
+         12220,
+         8325
+      ],
+      "original_title": "Покровские ворота",
+      "runtime": 140,
+      "poster_path": "/fLvr6oh5TkxNc3fNnVLpcnwoAUs.jpg",
+      "spoken_languages": [{
+         "name": "Pусский",
+         "iso_639_1": "ru"
+      }],
+      "production_companies": [{
+         "logo_path": "/jmvVH9ULXPQ9MvBfeGc0sJj9xLt.png",
+         "name": "Mosfilm",
+         "id": 5120,
+         "origin_country": ""
+      }],
+      "release_date": "1982-01-01",
+      "vote_average": 6.5,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Soviet Union",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Mikhail Kozakov"],
+      "runtime": 140,
+      "synopsis": null,
+      "writers": [
+         "Leonid Zorin",
+         "Leonid Zorin"
+      ],
+      "originalLanguage": "Russian",
+      "imdbLink": "http://www.imdb.com/title/tt0083465/",
+      "coverLink": null,
+      "actors": ["Stars: Oleg Menshikov, Sofiya Pilyavskaya, Leonid Bronevoy | See full cast and crew »"],
+      "reviews": [
+         "This is a movie you instantly fall in love with -- romantic, refreshing, full of melody and extremely poetic. The actors are brilliant, they all make a history in cinema and theater. Shooting was made on the streets of good \"old\" Moscow, as stylish for some as Paris of 50s, Prague of 60s... Watch out for the movie connections, as you'll meet with cascades of quotations and analogies, both in word and in sound. Personally, I see it as a story of Master and Margo of nowadays. The story has lots of unexpected movements, you don't notice how it transforms from just a very nice intelligent comedy into an extremely philosophic hymn to freedom and beauty of life.",
+         "This is a sweet, kind, beautifully filmed story of life in the late fifties Moscow, as seen by a young student, come from the provinces to live with his elderly aunt (the talented and breathtakingly beautiful Sofiya Pilyavskaya), in a shadowy communal apartment. If you are not watching in translation, take note of the songs. The three main songs of this film are nearly the most famous fifties songs written by the late, great Bulat Okudzhava. Leonid Bronevoy (memorable as Muller in \"The Seventeen Moments of Spring\" mini-series), is charming as the aging singer, Velyurov, and the unforgettable Morgunov has a brief part as the song-writer, dominated by his \"evil genius\" of a wife. This is a charming film.",
+         "This is a great masterpiece of Soviet-era cinematography. The ensemble of unique and likable characters is portrayed by a superb cast. The movie is filled with hilarious one-liners, theatrical satire, genuine emotions, and lovingly examines the lives of six dwellers of a communal apartment in a romantic and somewhat nostalgic setting of 1950's Moscow. Trivia and POSSIBLE SPOILER: the movie underwent considerable scrutiny during the \"Stale Period\" of USSR due to a particular sequence towards the end - the image of a motorcycle flying over the cliff was perceived by the authorities as a subtext reference to immigration. When the director Kozakov was asked to explain its meaning, he replied : \"No, they're just flying to the future.\"",
+         "Just watch this brilliantly made film from the 80s USSR and you will love it. It portrays ordinary Moscow citizens from the 50s, the main hero being Kostik (Oleg Menshikov). He depicts his life from the moment that he arrived in Moscow to attend university. The main heroes have plenty of warm and humorous adventures, several broken hearts, yet everything is always alright at the end. It is quite something to watch this movie now and remember those times. This movie will undoubtedly cause some to get a bit nostalgistic, but that just adds to the quality of this film. It was always pleasing to see such great movies from the Soviet Union and always will be.",
+         "One of the best Soviet comedies. Zorin wrote a wonderful play, based on his life as a student in Moscow in the 50's. Kazakov made a superb film out of it. In a way it's their Declaration of love: to Moscow, post-war Moscow and Muscovites, and to the days when they were young and in love. Besides the plot, the cast forms a beautiful ensemble, where even the smallest roles get stuck in one's head immediately (e.g. Rimma Markova or Elisaveta Nikishchikhina). Have no clue, how would it be to watch this film in translation, but for anyone who knows Russian almost every line the characters say is an absolute masterpiece: laconic, acute, hilarious. The film is an absolute classic!",
+         "It's OK if somebody doesn't get the plot.It's not your fault. Don't get depressed because of this. This is the film from it's era. It has depicted Russian way living and dreaming. When all people are raised in soviet mentality you can only appreciate there are such gems like this. This type of art can only be understood if you have ever experienced how is to live in soviet regime. When people live under depression of their government, and every line in every movie, book, paper or TV program is censored first and can only be released if approved - some artist manage to sneak human feeling in to their art work, showing how humans try to free themselves. this movement of trying to free yourself is the art.",
+         "This is very much overrated. I guess it carries some nostalgic value for many people. It has its moments, but every scene is heavily overacted and the plot is quite shallow. With this cast it could have been much better."
+      ],
+      "genres": [
+         "Comedy",
+         "Drama",
+         "Musical",
+         "Romance"
+      ],
+      "productionCompanies": ["Mosfilm"],
+      "summaries": ["Stories from the lives of the tennants of the Moscow's communal apatment: Kostik, who is a college student, lives with his aunt while studying; Arkady Velyurov who is a performing artist; Khobotovs, who are a divorced couple; and Sava, who is Margarita Khobotov's new fiance. All these people live in one apartment and their lives constantly touch each other's."],
+      "budget": 0
+   },
+   "movielensId": 118302,
+   "movielens": {
+      "languages": ["Pусский"],
+      "releaseDate": "1982-01-01",
+      "dvdReleaseDate": null,
+      "directors": ["Mikhail Kozakov"],
+      "runtime": 140,
+      "movieId": 118302,
+      "title": "The Pokrovsky Gates",
+      "mpaa": null,
+      "actors": [
+         "Oleg Menshikov",
+         "Leonid Bronevoy",
+         "Inna Ulyanova",
+         "Anatoliy Ravikovich",
+         "Yelena Koreneva",
+         "Viktor Bortsov",
+         "Sofiya Pilyavskaya",
+         "Tatyana Dogileva",
+         "Igor Dmitriev",
+         "Yelizaveta Nikishchikhina",
+         "Yevgeni Morgunov",
+         "Natalya Krachkovskaya",
+         "Valentina Voilkova",
+         "Emmanuil Geller",
+         "Mikhail Kozakov"
+      ],
+      "imdbMovieId": "0083465",
+      "originalTitle": "Покровские ворота",
+      "genres": [
+         "Comedy",
+         "Drama",
+         "Romance"
+      ],
+      "youtubeTrailerIds": [],
+      "plotSummary": "Stories from the lives of the tenants of the Moscow's communal apartment: Kostik, who is a college student, lives with his aunt while studying; Arkady Velyurov who is a performing artist; Khobotovs, who are a divorced couple; and Sava, who is Margarita Khobotov's new fiancé. All these people live in one apartment and their lives constantly touch each other's.",
+      "tmdbMovieId": 37176,
+      "avgRating": 4.18966,
+      "releaseYear": "1982",
+      "numRatings": 58,
+      "posterPath": "/fLvr6oh5TkxNc3fNnVLpcnwoAUs.jpg"
+   }
+}

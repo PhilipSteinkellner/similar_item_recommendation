@@ -1,0 +1,776 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "friendship",
+            "id": 6054
+         },
+         {
+            "name": "hollywood",
+            "id": 12396
+         },
+         {
+            "name": "film student",
+            "id": 185505
+         }
+      ],
+      "imdb_id": "tt0096926",
+      "video": false,
+      "title": "The Big Picture",
+      "recommendations": [
+         42176,
+         12704,
+         38222,
+         50812,
+         20242,
+         37296,
+         41971,
+         42597,
+         27224,
+         66600,
+         10729,
+         18966,
+         27171,
+         34101,
+         34014,
+         17956,
+         16214,
+         18203,
+         47045,
+         39140
+      ],
+      "backdrop_path": "/g9xtoXrzBeNloWIbntTtY8pg9gb.jpg",
+      "revenue": 117463,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Nick Chapman",
+               "gender": 2,
+               "credit_id": "52fe46b6c3a36847f810e18f",
+               "name": "Kevin Bacon",
+               "profile_path": "/rjX2Oz3tCZMfSwOoIAyEhdtXnTE.jpg",
+               "id": 4724,
+               "order": 0
+            },
+            {
+               "cast_id": 6,
+               "character": "Susan Rawlings",
+               "gender": 1,
+               "credit_id": "52fe46b6c3a36847f810e19f",
+               "name": "Emily Longstreth",
+               "profile_path": "/jVGECibuxYgom9VPGO9Mcqo4Uky.jpg",
+               "id": 141046,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "Allen Habel",
+               "gender": 2,
+               "credit_id": "52fe46b6c3a36847f810e197",
+               "name": "J.T. Walsh",
+               "profile_path": "/39KZjhJSyDjvBhKGj0IbGVteFAm.jpg",
+               "id": 22131,
+               "order": 2
+            },
+            {
+               "cast_id": 3,
+               "character": "Lydia Johnson",
+               "gender": 1,
+               "credit_id": "52fe46b6c3a36847f810e193",
+               "name": "Jennifer Jason Leigh",
+               "profile_path": "/3OlL9li7qmfXQYEtmpOm34V1huY.jpg",
+               "id": 10431,
+               "order": 3
+            },
+            {
+               "cast_id": 12,
+               "character": "Emmet Sumner",
+               "gender": 2,
+               "credit_id": "561d5511c3a3686f8400012a",
+               "name": "Michael McKean",
+               "profile_path": "/iVcsvBb15nep7TZ07MlJFcxMzvD.jpg",
+               "id": 21731,
+               "order": 4
+            },
+            {
+               "cast_id": 13,
+               "character": "Jenny Sumner",
+               "gender": 0,
+               "credit_id": "561d5531c3a3686f7f000126",
+               "name": "Kim Miyori",
+               "profile_path": "/iflYumhG2Yo0nb6VItKeYcnC820.jpg",
+               "id": 56182,
+               "order": 5
+            },
+            {
+               "cast_id": 5,
+               "character": "Gretchen",
+               "gender": 1,
+               "credit_id": "52fe46b6c3a36847f810e19b",
+               "name": "Teri Hatcher",
+               "profile_path": "/xnvUJvf0vjHliYa2PlXyLGaJe9l.jpg",
+               "id": 10742,
+               "order": 6
+            },
+            {
+               "cast_id": 14,
+               "character": "Jonathan Tristan-Bennet",
+               "gender": 2,
+               "credit_id": "561d564392514156b100015f",
+               "name": "Dan Schneider",
+               "profile_path": "/niuplm8j1LKmbhi6yG8NfjZanAv.jpg",
+               "id": 70804,
+               "order": 7
+            },
+            {
+               "cast_id": 15,
+               "character": "Carl Manknik",
+               "gender": 2,
+               "credit_id": "561d565e92514156ae000157",
+               "name": "Jason Gould",
+               "profile_path": null,
+               "id": 21064,
+               "order": 8
+            },
+            {
+               "cast_id": 16,
+               "character": "Lori Pressman",
+               "gender": 1,
+               "credit_id": "561d567c92514156a7000167",
+               "name": "Tracy Brooks Swope",
+               "profile_path": "/nXQk9WKRWRPzG4YFVT2bunVl8ft.jpg",
+               "id": 75775,
+               "order": 9
+            },
+            {
+               "cast_id": 17,
+               "character": "Todd Marvin",
+               "gender": 2,
+               "credit_id": "561d57de92514156b1000199",
+               "name": "Don Franklin",
+               "profile_path": "/iKzDuQxvzZX1by9o7A9wbxYMcgU.jpg",
+               "id": 49327,
+               "order": 10
+            },
+            {
+               "cast_id": 18,
+               "character": "Mark",
+               "gender": 0,
+               "credit_id": "561d580292514156ae0001a2",
+               "name": "Gary Kroeger",
+               "profile_path": "/4SfqOb6XgQlcqQVP8eYLV5G19bG.jpg",
+               "id": 1188726,
+               "order": 11
+            },
+            {
+               "cast_id": 19,
+               "character": "Mrs. Chapman",
+               "gender": 1,
+               "credit_id": "561d58ad92514156a50001f1",
+               "name": "Alice Hirson",
+               "profile_path": null,
+               "id": 14106,
+               "order": 12
+            },
+            {
+               "cast_id": 20,
+               "character": "Mr. Chapman",
+               "gender": 2,
+               "credit_id": "561d58bec3a3686f690001da",
+               "name": "Grant Owens",
+               "profile_path": null,
+               "id": 1522196,
+               "order": 13
+            },
+            {
+               "cast_id": 21,
+               "character": "Polo Habel",
+               "gender": 1,
+               "credit_id": "561d58d2c3a3686f690001de",
+               "name": "Fran Drescher",
+               "profile_path": "/vQxr8CRgyDkH3GTFLwacs9W9tF4.jpg",
+               "id": 53122,
+               "order": 14
+            },
+            {
+               "cast_id": 22,
+               "character": "Mindy Habel",
+               "gender": 0,
+               "credit_id": "561d58e9c3a3686f840001a4",
+               "name": "Suzy Cote",
+               "profile_path": null,
+               "id": 945392,
+               "order": 15
+            },
+            {
+               "cast_id": 23,
+               "character": "M.C.",
+               "gender": 2,
+               "credit_id": "561d592092514156a50001fc",
+               "name": "Eddie Albert",
+               "profile_path": "/tScju2xZ42MpXqx5WSYKFtwzH8r.jpg",
+               "id": 11998,
+               "order": 16
+            },
+            {
+               "cast_id": 24,
+               "character": "Janet Kingsley",
+               "gender": 1,
+               "credit_id": "561d593392514156ae0001c5",
+               "name": "June Lockhart",
+               "profile_path": "/5Cqdk9yh7A7SNg5jdDqs0g2qUNr.jpg",
+               "id": 13997,
+               "order": 17
+            },
+            {
+               "cast_id": 25,
+               "character": "Attorney",
+               "gender": 2,
+               "credit_id": "561d594e92514156ae0001c7",
+               "name": "Stephen Collins",
+               "profile_path": "/lVcwUavnFQOpIEBgF0BMJXQ8D4Y.jpg",
+               "id": 1756,
+               "order": 18
+            },
+            {
+               "cast_id": 26,
+               "character": "Judge",
+               "gender": 2,
+               "credit_id": "561d5985c3a3686f6f00020e",
+               "name": "Roddy McDowall",
+               "profile_path": "/2vwhHtQoICsqrKB5YVzFPiPKtdA.jpg",
+               "id": 7505,
+               "order": 19
+            },
+            {
+               "cast_id": 27,
+               "character": "Wounded Soldier",
+               "gender": 0,
+               "credit_id": "561d59e4c3a3686f690001fc",
+               "name": "Robert Bauer",
+               "profile_path": null,
+               "id": 66485,
+               "order": 20
+            },
+            {
+               "cast_id": 28,
+               "character": "Man in Nick's Movie",
+               "gender": 2,
+               "credit_id": "561d5a3292514156b4000211",
+               "name": "Vladimir Skomarovsky",
+               "profile_path": null,
+               "id": 155871,
+               "order": 21
+            },
+            {
+               "cast_id": 29,
+               "character": "Joey",
+               "gender": 0,
+               "credit_id": "561d5a5092514156ae0001e7",
+               "name": "C.W. Hemingway",
+               "profile_path": null,
+               "id": 1522197,
+               "order": 22
+            },
+            {
+               "cast_id": 30,
+               "character": "Daughter",
+               "gender": 1,
+               "credit_id": "561d5a8092514156b4000224",
+               "name": "Holly Fields",
+               "profile_path": "/dp6FDOG4f6tg0NlTmNs0X8IjVAR.jpg",
+               "id": 73036,
+               "order": 23
+            },
+            {
+               "cast_id": 31,
+               "character": "Mrs. Feldzar",
+               "gender": 1,
+               "credit_id": "561d5a9392514156a7000212",
+               "name": "Yvonne Peattie",
+               "profile_path": null,
+               "id": 194823,
+               "order": 24
+            },
+            {
+               "cast_id": 32,
+               "character": "Charlie",
+               "gender": 2,
+               "credit_id": "561d5aa492514156a5000234",
+               "name": "Stan Ivar",
+               "profile_path": "/sCVxaM5KtrQc0TzqVEHc9idOdSF.jpg",
+               "id": 168292,
+               "order": 25
+            },
+            {
+               "cast_id": 33,
+               "character": "George",
+               "gender": 2,
+               "credit_id": "561d5ad3c3a3686f8a000247",
+               "name": "David Hayward",
+               "profile_path": "/jpXtgFQTmwyQt9lnWqYAQEfjWiS.jpg",
+               "id": 30619,
+               "order": 26
+            },
+            {
+               "cast_id": 34,
+               "character": "Sharon",
+               "gender": 1,
+               "credit_id": "561d5ae6c3a3686f7700021f",
+               "name": "Caitlin Clarke",
+               "profile_path": "/31Y8yQhExlAsKlzhL3QfeMIXaa2.jpg",
+               "id": 2275,
+               "order": 27
+            },
+            {
+               "cast_id": 35,
+               "character": "Young Sharon",
+               "gender": 1,
+               "credit_id": "561d5afe92514156aa000206",
+               "name": "Nancy Valen",
+               "profile_path": "/4Z8j3v767vS6R0PqqA2xMhPcZEr.jpg",
+               "id": 105197,
+               "order": 28
+            },
+            {
+               "cast_id": 36,
+               "character": "Woman in Cabin",
+               "gender": 0,
+               "credit_id": "561d5b14c3a3686f8a000252",
+               "name": "Wesley Pfenning",
+               "profile_path": null,
+               "id": 1522198,
+               "order": 29
+            },
+            {
+               "cast_id": 37,
+               "character": "Bartender",
+               "gender": 0,
+               "credit_id": "561d5b2fc3a3686f6f000239",
+               "name": "John Cleese",
+               "profile_path": "/kg63gNYQtGPi2fSNIvCnVAclCbi.jpg",
+               "id": 8930,
+               "order": 30
+            },
+            {
+               "cast_id": 38,
+               "character": "Abe Lincoln",
+               "gender": 0,
+               "credit_id": "561d5b8cc3a3686f69000226",
+               "name": "Richard Blake",
+               "profile_path": null,
+               "id": 1183380,
+               "order": 31
+            },
+            {
+               "cast_id": 39,
+               "character": "Babe Ruth",
+               "gender": 2,
+               "credit_id": "561d5ba492514156aa000214",
+               "name": "Walter Olkewicz",
+               "profile_path": null,
+               "id": 45612,
+               "order": 32
+            },
+            {
+               "cast_id": 40,
+               "character": "Waiter",
+               "gender": 2,
+               "credit_id": "561d5bb8c3a3686f7c000255",
+               "name": "Scott Coffey",
+               "profile_path": "/kRA20iJ4hBeHSUlYduRTXEhQyku.jpg",
+               "id": 9306,
+               "order": 33
+            },
+            {
+               "cast_id": 41,
+               "character": "Businessman",
+               "gender": 0,
+               "credit_id": "561d5bcd92514156b400023c",
+               "name": "Bruce Kirby",
+               "profile_path": null,
+               "id": 3042,
+               "order": 34
+            },
+            {
+               "cast_id": 42,
+               "character": "Video Show Host",
+               "gender": 2,
+               "credit_id": "561d5c4692514156b4000245",
+               "name": "Richard Belzer",
+               "profile_path": "/r9X9FzyYlYt20rfl0wUmgRAl5gg.jpg",
+               "id": 32396,
+               "order": 35
+            },
+            {
+               "cast_id": 7,
+               "character": "Stewardess",
+               "gender": 0,
+               "credit_id": "52fe46b6c3a36847f810e1a3",
+               "name": "Beth Chamberlin",
+               "profile_path": "/zNCLiQsJxZDmV0NTrIrasjm6SFG.jpg",
+               "id": 1220815,
+               "order": 36
+            },
+            {
+               "cast_id": 8,
+               "character": "PEZ® People",
+               "gender": 2,
+               "credit_id": "549c8f9d9251415dc10037e9",
+               "name": "Mike Miller",
+               "profile_path": null,
+               "id": 1404084,
+               "order": 37
+            },
+            {
+               "cast_id": 59,
+               "character": "Neil Sussman - Nick's Agen",
+               "gender": 2,
+               "credit_id": "56e0fabb92514108890010b7",
+               "name": "Martin Short",
+               "profile_path": "/oZQorXBjTxrdkTJFpoDwOcQ91ji.jpg",
+               "id": 519,
+               "order": 38
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe46b6c3a36847f810e18b",
+               "name": "Christopher Guest",
+               "profile_path": "/fhEQq0q2aR2sh4HU824xunoyAce.jpg",
+               "id": 13524,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "55fd358192514152a200060f",
+               "name": "Michael McKean",
+               "profile_path": "/iVcsvBb15nep7TZ07MlJFcxMzvD.jpg",
+               "id": 21731,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "561d5d2d92514156b6000253",
+               "name": "Christopher Guest",
+               "profile_path": "/fhEQq0q2aR2sh4HU824xunoyAce.jpg",
+               "id": 13524,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "561d5d3a92514156b100022e",
+               "name": "Michael Varhol",
+               "profile_path": null,
+               "id": 44817,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "561d5ca3c3a3686f7f00021b",
+               "name": "Christopher Guest",
+               "profile_path": "/fhEQq0q2aR2sh4HU824xunoyAce.jpg",
+               "id": 13524,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 0,
+               "credit_id": "561d5d16c3a3686f84000225",
+               "name": "Michael Varhol",
+               "profile_path": null,
+               "id": 44817,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "561d5d5392514156a700024b",
+               "name": "Jeff Jur",
+               "profile_path": null,
+               "id": 720,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "561d5d7c92514156b1000238",
+               "name": "Martin Nicholson",
+               "profile_path": null,
+               "id": 81827,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "561d5d8c92514156a7000250",
+               "name": "Nina Axelrod",
+               "profile_path": "/ow9QmF5xfj8FA7CLwskqCg6Hwjw.jpg",
+               "id": 27241,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "561d5da2c3a3686f69000250",
+               "name": "David Nichtern",
+               "profile_path": null,
+               "id": 1500631,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "561d5db692514156ae000237",
+               "name": "Joseph T. Garrity",
+               "profile_path": null,
+               "id": 81893,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "561d5dc792514156ae00023c",
+               "name": "Karen Patch",
+               "profile_path": null,
+               "id": 19285,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "561d5de092514156b1000241",
+               "name": "Richard Gilbert Abramson",
+               "profile_path": null,
+               "id": 110535,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "561d5df0c3a3686f69000256",
+               "name": "Michael Varhol",
+               "profile_path": null,
+               "id": 44817,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "561d5e01c3a3686f77000273",
+               "name": "Richard Luke Rothschild",
+               "profile_path": null,
+               "id": 116903,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "561d5e0fc3a3686f8a000294",
+               "name": "Valen Watson",
+               "profile_path": null,
+               "id": 1522199,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "561d5e29c3a3686f6900025a",
+               "name": "William E. McEuen",
+               "profile_path": null,
+               "id": 58231,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "561d5e5492514156ba000229",
+               "name": "Judith Saunders",
+               "profile_path": null,
+               "id": 1446549,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 2.353877,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 45225,
+      "vote_count": 30,
+      "budget": 5000000,
+      "overview": "Hollywood beckons for recent film school grad Nick Chapman, who is out to capitalize on the momentum from his national award-winning student film. Studio executive Allen Habel seduces Nick with a dream deal to make his first feature, but once production gets rolling, corporate reality begins to intervene: Nick is unable to control a series of compromises to his high-minded vision, and it's all he can do to maintain his integrity in the midst of filmmaking chaos.",
+      "similar": [
+         509,
+         188222,
+         44564,
+         862,
+         19913,
+         28178,
+         40807,
+         489,
+         13,
+         50544,
+         72105,
+         68718,
+         41630,
+         23168,
+         74643,
+         8839,
+         277547,
+         11176,
+         290762,
+         427900
+      ],
+      "original_title": "The Big Picture",
+      "runtime": 100,
+      "poster_path": "/OZi4iPOXxlCN5dvcQXMYwwV9dp.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+         "name": "Columbia Pictures",
+         "id": 5,
+         "origin_country": "US"
+      }],
+      "release_date": "1989-09-15",
+      "vote_average": 5.9,
+      "belongs_to_collection": null,
+      "tagline": "Film school prepared Nick for everything... everything but Hollywood.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Black and White",
+      "budgetCurrency": "$",
+      "directors": ["Christopher Guest"],
+      "runtime": 100,
+      "synopsis": null,
+      "writers": [
+         "Michael Varhol",
+         "Christopher Guest"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0096926/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTk0NjUzNTQ3M15BMl5BanBnXkFtZTcwMjc4ODUxMQ@@._V1_SY317_CR1,0,214,317_AL_.jpg",
+      "actors": ["Stars: Kevin Bacon, Jennifer Jason Leigh, Emily Longstreth | See full cast and crew »"],
+      "reviews": [
+         "THE BIG PICTURE is a breezy satire of the movie business from the mind of writer/director Christopher Guest (BEST IN SHOW, A MIGHTY WIND). It tells the story of Nick Chapman (Kevin Bacon), a young film director who gets put through the Hollywood wringer. Studio executives, agents, and starlets all prey on Nick's naivete and he eventually sells out, neglecting his girlfriend and best friend in the process. What's interesting about THE BIG PICTURE is its grassroots portrayal of how Nick finally launches his Hollywood career - by starting small, doing his own thing, and involving his friends. Those are basically the tenets of independent film, which boomed in the decade following THE BIG PICTURE. Nowadays, many of those indie directors - among them Steven Soderbergh, Robert Rodriguez, and Christopher Nolan - are getting hired to do big-budget studio pictures. In fact, Soderbergh's \"sex, lies, and videotape\" was released the same year as this movie. Was Nick Chapman's \"Pez People\" video responsible for the indie film movement? Not likely, but THE BIG PICTURE was certainly an advocate of its principles.",
+         "This movie has some slow moments, and I found the idea that Kevin Bacon's character, an aspiring directory, would leave his girlfriend (played by Emily Longstreth) for a bimbo-actress (played by Teri Hatcher and one of the film's weakest characters) pretty unconvincing. In general, I found the bimbo-actress subplot poorly done, and this was the slowest part of the movie. The other characters were done well, with an outstanding cameo by Martin Short as the aspiring director's agent -- the three scenes with Short would make the movie worthwhile by themselves in my opinion. J. T. Walsh was very good as well, as the fatuous studio head, and the gag at the end where the young director's career is revived was very enjoyable. It's not as good as \"The Player\" or \"Get Shorty\", but if you like movies about making movies, you will probably like this one.",
+         "THE BIG PICTURE is a breezy satire of the movie business from the mind of writer/director Christopher Guest (BEST IN SHOW, A MIGHTY WIND). It tells the story of Nick Chapman (Kevin Bacon), a young film director who gets put through the Hollywood wringer. Studio executives, agents, and starlets all prey on Nick's naivete and he eventually sells out, neglecting his girlfriend and best friend in the process. What's interesting about THE BIG PICTURE is its grassroots portrayal of how Nick finally launches his Hollywood career - by starting small, doing his own thing, and involving his friends. Those are basically the tenets of independent film, which boomed in the decade following THE BIG PICTURE. Nowadays, many of those indie directors - among them Steven Soderbergh, Robert Rodriguez, and Christopher Nolan - are getting hired to do big-budget studio pictures. In fact, Soderbergh's \"sex, lies, and videotape\" was released the same year as this movie. Was Nick Chapman's \"Pez People\" video responsible for the indie film movement? Not likely, but THE BIG PICTURE was certainly an advocate of its principles.",
+         "I've watched this many times, and feel that this ranks with the best work of Christopher Guest. Kevin Bacon is outstanding as the idealistic young director Nick Chapman, who falls prey to the jaded Hollywood lifestyle - long before he can afford it personally or financially. Martin Short's role as Nick's agent is hilarious, and other good performances are turned in by Jennifer Jason Leigh, Terri Hatcher, and many others. This is Spinal Tap for the film industry, and well worth a look.",
+         "Los Angeles is a city where one can find, almost at every turn, a director, a starlet, a producer, or a cinematographer if one happen to be in the right places. Nick Chapman, a young man from Ohio, is trying his hand at directing. We meet him as he is going to an award ceremony at an event where the best new short film directors are competing for a prize and a chance to make it in the business. Nick is not prepared for what happens after his film becomes the talk of the town. Nick Chapman is in a relationship with Susan, an architect just starting her career. His good friend is Emmet Sumner, a cinematographer struggling to make it in the industry. Nick is being courted to sign in with different people so he can go to his next project. He has written a screenplay for a film that he wants to direct. Never, in his wildest dreams, he never imagined the strange world he is getting into, and the weird people he will have to deal with while getting his picture produced! For starters, Nick's agent, Neil Sussman, whom we meet during a luncheon at one of those trendy restaurants, is a creature from another planet. The next person Nick gets involved with is Allen Habel, a producer that sees potential in Chapman. As Nick pitches the film, Allen is already changing the way he feels will attract viewers, which has nothing to do with the original concept. Allen wants to set the picture on a beach, not in a cabin in the woods, while it is snowing, as Nick has conceived it. To make matters worse, Allen invites the young man to a party at his house that turns out to be a disaster as Nick gets to meet the film capital's fauna and flora, and ends up losing Susan. Nick gets dazzled at first, but when Allen Habel's business goes bad, he is left on his own. Added to all that, he doesn't have any money, so he has to look for any kind of job in order to survive. All his big shot friends drop him like a hot potato. No one will take his calls. Nick having broke with Susan and having betrayed Emmet, finds himself alone in the middle of all that phony world, until he meets a rock band and he makes a video of a song that becomes a hit. It is at this point Nick gets his creative powers back and as we leave him, he is directing his picture the way he wanted. Christopher Guest, a witty genius in his own right, directed this movie, his first full length film. \"The Big Picture\" shows a great talented director that knows well that strange world of glitter and heartaches that is Hollywood. Christopher Guest has been involved in the movie industry for most of his life and it shows. Kevin Bacon is an asset in any picture where he appears. His take on Nick Chapman is dead on. Mr. Bacon is an excellent actor, as he shows here. It is unfortunate Martin Short, who steals every scene he is in didn't get credit for being in the film. His agent must be a composite on the many characters the director, and him, must have met, at one time, or another. Christopher Guest has a group of actors that are featured in his films. Michael McKean and Mr. Guest have a long history of collaboration. The late J.T. Walsh gives one of his best performances as Allen Habel. The rest of the ensemble cast is also notable, Teri Hatcher, Fran Dresher, and a goofy Jennifer Jason Leigh, among others. Never having seen this film, we were lucky to catch it recently and it was worth the wait.",
+         "Thank God for Christopher Guest. Anyone who loved him as Nigel Tufnel in Spinal Tap and has since appreciated his mockumentaries \"Waiting for Guffman\" and \"Best in Show\" should take a look back at The Big Picture. As with his other films, the humor is subtle and a bit \"inside,\" but the more you see it, the more you love it. Kevin Bacon and J.T. Walsh are perfect, and Martin Short steals every scene he's in. (Added bonus: the Pez People song at the end, obviously sung by Michael McKean, sounds like Spinal Tap with keyboards instead of guitars. Very funny.)",
+         "This is a truly great film. Really. It's fun, and really quality filmmaking. My girlfriend swears I'm obsessed - but this is an opertunity to see some of today's familiar faces \"before they were stars.\" If you like Altman's \"The Player\" you'll love this movie. The point of view is diferent - more comedic and a little less dark.",
+         "This is an under-rated late 80's film that captures the changing entertainment scene of that decade, with much humor and irony. While the usual \"Hollywood is phony\" theme exists here, that story is always interesting, and it really scores when it reminds us of how success can be gained and lost quickly. Martin Short is the uncredited star here, with several hilarious scenes. All in all, a nice movie about movies, with some special surprise locations for movie buffs! The late J.T. Walsh offers a subtle performance here, with one of my favorite lines...Bacon: \"I'm from Ohio\", with Walsh's comeback, \"my first wife is from Illinois\", as in everything outside of LA is one place. Perfect deadpan humor.",
+         "It's hard to believe it's been twenty years since this came out. Kevin Bacon is established as one of the best American actors (also, one of the greats who've never been nominated for an Oscar!). Teri Hatcher is the star of a huge television hit. Christopher Guest still makes brilliant films and gives his actors more freedom than almost any other director today. And my affection for \"The Big Picture\" only grows fonder as the time passes. In \"Rolling Stone\" magazine's 1989 \"Hot Issue\", then newcomer Steven Soderbergh was profiled as that season's hot new filmmaker. One remark was about how students in LA based film schools have their works shown at big events, attended by many hot shots in the entertainment industry. Meaning, a young woman or man could have a \"bomb\" of sorts on their hands before even turning professional! Not the most nurturing environment for youthful talent. Bacon's \"Nick Chapman\" gets the full treatment as a guy on the fast track after winning his school's big prize for his project. And things don't go wonderfully well after he starts meeting the movers and shakers in his new world. The late, great J.T. Walsh is a studio head (for the time being) who seduces Chapman into believing all his dreams are possible. Michael McKean is Chapman's friend, a cinematographer who isn't necessarily the first choice to shoot his debut. And John Cleese, Martin Short and Jennifer Jason Leigh have great turns as Chapman's different associates that can't really stop the grimly funny runaway train he's on until his self respect finally returns and he sees everything for what it really is. Most films about film-making are not that good. This is a major exception to that rule. Very bitter, but also very sweet. Just like life!",
+         "This film is a wonderful example of how to get a movie made in Hollywood. Kevin Bacon stars as a hot new director, with a prestigious award to his credit who has one aim, to make his script his way. What then ensues is a sequence of events that should serve as a warning to people wanting to make their own movie on what to be careful of. Bacon's script starts as a simple movie of two couples on holiday together, while one half of them is having an affair, thanks to various obstacles it transforms into a trashy affair of beaches, cheerleaders and very little story, called Beachnuts. While this happens Bacon's personal life is also falling apart thanks to the lures of Teri Hatcher's struggling young actress. Finally, an extremely low-budget music video puts Bacon back on the map and this time he sticks to his guns. The message for young movie-makers is, do not lose sight of what you want and be aware of the extreme fickleness of Hollywood, which this demonstrates exceedingly well."
+      ],
+      "genres": [
+         "Comedy",
+         "Drama",
+         "Romance"
+      ],
+      "productionCompanies": ["Aspen Film Society"],
+      "summaries": [
+         "Nick Chapman graduates from film school, and his short film wins a special prize. This gives him a high enough profile that he can get Hollywood to back the film he has long dreamed of making. Studio exec Allen Habel is interested. But Nick soon is seduced by Hollywood and makes one concession after another until his original movie is lost altogether. Worse, Nick is lost, too, turning on girlfriend Susan and old buddy Emmet. Will he come to his sense before everything is lost?",
+         "Nick Chapman is a graduate film student. His best friend, Emmet Sumner, is an aspiring cinematographer, the two who hope to make films together. Nick is supported in his pursuits by his girlfriend, aspiring architect Susan Rawlings. Nick's prospects look good when he wins the student film award presented by the National Film Institute. He has a clear idea for his next film, and hopes to get it made with the assistance of those in the movie business who court him, including agent Neil Sussman, and movie studio exec Allen Habel. Sussman and Habel's visions for Nick's movie are vastly different than Nick's original concept. Habel's manoeuvrings include getting Nick to cast a vapid aspiring actress named Gretchen in one of the lead roles. Nick gets caught up more with the process of making the big Hollywood movie than with keeping true to his artistic vision. In the process, he also loses sight of the important personal aspects of his life, such as his friendship to Emmet and Susan. Nick also learns that the fast lane in Hollywood is laden with the potential for serious and irreparable crashes.",
+         "Film school grad Nick Chapman thought his career was made after his award winning short film, but discovered Hollywood wasn't as easy as it seems."
+      ],
+      "budget": 5000000
+   },
+   "movielensId": 4570,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1989-09-15",
+      "dvdReleaseDate": "2002-10-08",
+      "directors": ["Christopher Guest"],
+      "runtime": 100,
+      "movieId": 4570,
+      "title": "The Big Picture",
+      "mpaa": "PG-13",
+      "actors": [
+         "Kevin Bacon",
+         "Emily Longstreth",
+         "J.T. Walsh",
+         "Jennifer Jason Leigh",
+         "Michael McKean",
+         "Kim Miyori",
+         "Teri Hatcher",
+         "Dan Schneider",
+         "Jason Gould",
+         "Tracy Brooks Swope",
+         "Don Franklin",
+         "Gary Kroeger",
+         "Alice Hirson",
+         "Grant Owens",
+         "Fran Drescher",
+         "Suzy Cote",
+         "Eddie Albert",
+         "June Lockhart",
+         "Stephen Collins",
+         "Roddy McDowall",
+         "Robert Bauer",
+         "Vladimir Skomarovsky",
+         "C.W. Hemingway",
+         "Holly Fields",
+         "Yvonne Peattie",
+         "Stan Ivar",
+         "David Hayward",
+         "Caitlin Clarke",
+         "Nancy Valen",
+         "Wesley Pfenning",
+         "John Cleese",
+         "Richard Blake",
+         "Walter Olkewicz",
+         "Scott Coffey",
+         "Bruce Kirby",
+         "Richard Belzer",
+         "Beth Chamberlin",
+         "Mike Miller",
+         "Martin Short"
+      ],
+      "imdbMovieId": "0096926",
+      "originalTitle": "The Big Picture",
+      "genres": [
+         "Comedy",
+         "Drama",
+         "Romance"
+      ],
+      "youtubeTrailerIds": ["6qetxVX_Rrw"],
+      "plotSummary": "Hollywood beckons for recent film school grad Nick Chapman, who is out to capitalize on the momentum from his national award-winning student film. Studio executive Allen Habel seduces Nick with a dream deal to make his first feature, but once production gets rolling, corporate reality begins to intervene: Nick is unable to control a series of compromises to his high-minded vision, and it's all he can do to maintain his integrity in the midst of filmmaking chaos.",
+      "tmdbMovieId": 45225,
+      "avgRating": 3.29299,
+      "releaseYear": "1989",
+      "numRatings": 314,
+      "posterPath": "/OZi4iPOXxlCN5dvcQXMYwwV9dp.jpg"
+   }
+}

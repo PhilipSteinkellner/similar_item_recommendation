@@ -1,0 +1,653 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "adultery",
+            "id": 596
+         },
+         {
+            "name": "robbery",
+            "id": 642
+         },
+         {
+            "name": "bar",
+            "id": 1010
+         },
+         {
+            "name": "motel",
+            "id": 2669
+         },
+         {
+            "name": "murder",
+            "id": 9826
+         },
+         {
+            "name": "violence",
+            "id": 14819
+         },
+         {
+            "name": "death",
+            "id": 34079
+         },
+         {
+            "name": "hired killer",
+            "id": 166571
+         },
+         {
+            "name": "neo-noir",
+            "id": 207268
+         },
+         {
+            "name": "rodeo performer",
+            "id": 232350
+         }
+      ],
+      "imdb_id": "tt2582498",
+      "video": false,
+      "title": "Sweet Virginia",
+      "recommendations": [
+         346684,
+         503517,
+         483205,
+         346699,
+         497757,
+         368182,
+         295196,
+         366964,
+         337407,
+         443055,
+         413852,
+         399231,
+         441762,
+         463940,
+         480603,
+         502426,
+         346558,
+         43711,
+         384452,
+         454417
+      ],
+      "backdrop_path": "/eWZQ2IkBHfltHKUylRyMF5tWzy2.jpg",
+      "revenue": 9771,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 4,
+               "character": "Sam Rossi",
+               "gender": 2,
+               "credit_id": "57cb460d92514163cd0029f3",
+               "name": "Jon Bernthal",
+               "profile_path": "/w3epqN0BlV4TiUV9255d5tSCIRV.jpg",
+               "id": 19498,
+               "order": 0
+            },
+            {
+               "cast_id": 5,
+               "character": "Elwood",
+               "gender": 2,
+               "credit_id": "57cb461792514163d00026d1",
+               "name": "Christopher Abbott",
+               "profile_path": "/l69Ljh94j2NVv3btRjQb2bJ1ywF.jpg",
+               "id": 984629,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Lila McCabe",
+               "gender": 1,
+               "credit_id": "57cb4603925141643e00280a",
+               "name": "Imogen Poots",
+               "profile_path": "/jhirGwxoletj6wAzAttWJj3ra3H.jpg",
+               "id": 17606,
+               "order": 2
+            },
+            {
+               "cast_id": 6,
+               "character": "Bernadette Barrett",
+               "gender": 1,
+               "credit_id": "57cb461f92514163d00026d6",
+               "name": "Rosemarie DeWitt",
+               "profile_path": "/f9iyXCMAXiMOx6E8plQ23NA0QZL.jpg",
+               "id": 14892,
+               "order": 3
+            },
+            {
+               "cast_id": 7,
+               "character": "Maggie Russell",
+               "gender": 1,
+               "credit_id": "57cb4624925141357d005a3d",
+               "name": "Odessa Young",
+               "profile_path": "/3DHyGrm3X2kKUCKydic57AuiIv8.jpg",
+               "id": 1345495,
+               "order": 4
+            },
+            {
+               "cast_id": 12,
+               "character": "Tom Barrett",
+               "gender": 2,
+               "credit_id": "5a115222c3a368628c041d50",
+               "name": "Joseph Lyle Taylor",
+               "profile_path": "/nUxb3tiL1JU9CSGdg6CZTWjzheI.jpg",
+               "id": 159879,
+               "order": 5
+            },
+            {
+               "cast_id": 10,
+               "character": "Paul Anderson",
+               "gender": 2,
+               "credit_id": "5a11517ac3a3686289047e01",
+               "name": "Jared Abrahamson",
+               "profile_path": "/1mk2uZUbP1mnBivQfbVeZRZtXyW.jpg",
+               "id": 1011019,
+               "order": 6
+            },
+            {
+               "cast_id": 14,
+               "character": "Mitchel McCabe",
+               "gender": 2,
+               "credit_id": "5a1155a1c3a368629204538c",
+               "name": "Jonathan Tucker",
+               "profile_path": "/jvJpYDbwmUTACw7Yn7PKOP6CdlJ.jpg",
+               "id": 17243,
+               "order": 7
+            },
+            {
+               "cast_id": 9,
+               "character": "Lawyer",
+               "gender": 0,
+               "credit_id": "57e8b8dbc3a3684743010dc0",
+               "name": "Scott A. McGillivray",
+               "profile_path": null,
+               "id": 1506790,
+               "order": 8
+            },
+            {
+               "cast_id": 11,
+               "character": "Marty Petrowne",
+               "gender": 0,
+               "credit_id": "5a1151f2c3a368628604c58d",
+               "name": "Darcy Laurie",
+               "profile_path": "/bTZgOB4wl4ECbHiGjoKQAQdvTUW.jpg",
+               "id": 1216570,
+               "order": 9
+            },
+            {
+               "cast_id": 13,
+               "character": "Prostitute",
+               "gender": 0,
+               "credit_id": "5a11528592514138f6048fef",
+               "name": "Therés Amee",
+               "profile_path": null,
+               "id": 1926113,
+               "order": 10
+            },
+            {
+               "cast_id": 8,
+               "character": "Woman in Room 128",
+               "gender": 1,
+               "credit_id": "57e8b8d0c3a3687c18004824",
+               "name": "Victoria Bidewell",
+               "profile_path": "/8HqH9Fb5vgmq066jhfhCWcMkPBi.jpg",
+               "id": 1066283,
+               "order": 11
+            },
+            {
+               "cast_id": 15,
+               "character": "Lou Hopkis",
+               "gender": 2,
+               "credit_id": "5a1155f4c3a368628c0423c8",
+               "name": "Garry Chalk",
+               "profile_path": "/1estlif6pDM9uV7sgOsTU3WQeYw.jpg",
+               "id": 26089,
+               "order": 12
+            },
+            {
+               "cast_id": 16,
+               "character": "Gabrielle Rose",
+               "gender": 0,
+               "credit_id": "5a11561f92514138e4048892",
+               "name": "Rose Miller",
+               "profile_path": null,
+               "id": 1895170,
+               "order": 13
+            },
+            {
+               "cast_id": 17,
+               "character": "Rose Miller",
+               "gender": 1,
+               "credit_id": "5a11fcb5c3a36862920554c0",
+               "name": "Gabrielle Rose",
+               "profile_path": "/7mUaad0a3iaAw33VrNmKQuHPlmb.jpg",
+               "id": 58804,
+               "order": 14
+            },
+            {
+               "cast_id": 18,
+               "character": "Mr. Barnes",
+               "gender": 2,
+               "credit_id": "5a11fccac3a368628f05748e",
+               "name": "Mike Dopud",
+               "profile_path": "/2AWev6Jib3VJ3p2FPTxm7Erx81o.jpg",
+               "id": 64674,
+               "order": 15
+            },
+            {
+               "cast_id": 19,
+               "character": "Motel Guest",
+               "gender": 1,
+               "credit_id": "5a11fcf4c3a3686292055518",
+               "name": "Kathryn Kirkpatrick",
+               "profile_path": "/qldrIObn6aCOywn8SYxO9GxRHux.jpg",
+               "id": 90723,
+               "order": 16
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "57cb45dfc3a3685a530061d7",
+               "name": "Jamie M. Dagg",
+               "profile_path": "/9eY5LxZ9omtNr2rajG60DV0Ndv1.jpg",
+               "id": 1498350,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57cb45e8c3a3685c25006105",
+               "name": "Benjamin China",
+               "profile_path": null,
+               "id": 1208422,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57cb45ef9251413514005883",
+               "name": "Paul China",
+               "profile_path": null,
+               "id": 986015,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a11fd2cc3a36862890590b8",
+               "name": "Kris Woz",
+               "profile_path": null,
+               "id": 1888752,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5a11fd3392514138e40592e7",
+               "name": "Kara Eide",
+               "profile_path": null,
+               "id": 1462300,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a11fd4bc3a368627d063188",
+               "name": "Jessica Lee Gagné",
+               "profile_path": null,
+               "id": 1550276,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a11fd67c3a3686289059104",
+               "name": "Danny Vermette",
+               "profile_path": null,
+               "id": 1926482,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a11fd7a92514138e405933f",
+               "name": "Duff Smith",
+               "profile_path": null,
+               "id": 1530614,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a11fd8cc3a36862920555e7",
+               "name": "Will Blair",
+               "profile_path": null,
+               "id": 1315942,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a11fd96c3a368627d0631db",
+               "name": "Brooke Blair",
+               "profile_path": null,
+               "id": 1315941,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a11fdaac3a368628605e225",
+               "name": "Mia Fiddis",
+               "profile_path": null,
+               "id": 1926484,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a11fdc192514138f005bb43",
+               "name": "Jordan Barber",
+               "profile_path": null,
+               "id": 1926485,
+               "department": "Production",
+               "job": "Line Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a11fe03c3a36862890591e8",
+               "name": "Melissa Kostenbauder",
+               "profile_path": null,
+               "id": 1559873,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a11fe0ec3a36862890591f5",
+               "name": "Kate Caldwell",
+               "profile_path": null,
+               "id": 1085296,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a11fe5492514138f605a882",
+               "name": "Brian Kavanaugh-Jones",
+               "profile_path": null,
+               "id": 999763,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a11fe7692514138f005bc28",
+               "name": "Fernando Loureiro",
+               "profile_path": null,
+               "id": 1789098,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a11fe889251416184014054",
+               "name": "Roberto Vasconcellos",
+               "profile_path": null,
+               "id": 1823041,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a11fea492514138f9058be8",
+               "name": "Rian Cahill",
+               "profile_path": null,
+               "id": 1496821,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a11fec9925141618401409f",
+               "name": "Jesse Savath",
+               "profile_path": null,
+               "id": 1926491,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a11fed792514138ea05abc6",
+               "name": "Aram Tertzakian",
+               "profile_path": null,
+               "id": 1001662,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a11fee3c3a368628006082b",
+               "name": "Nate Bolotin",
+               "profile_path": null,
+               "id": 1093640,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a11fefd92514161840140e8",
+               "name": "Gabe Scarpelli",
+               "profile_path": null,
+               "id": 1926492,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a11ff0792514138e705ce03",
+               "name": "Marlaina Mah",
+               "profile_path": null,
+               "id": 1496822,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a7c53bc0e0a2632f600fe68",
+               "name": "Chris Ferguson",
+               "profile_path": null,
+               "id": 1211214,
+               "department": "Production",
+               "job": "Producer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 6.523213,
+      "production_countries": [
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         },
+         {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+         }
+      ],
+      "id": 413992,
+      "vote_count": 44,
+      "budget": 0,
+      "overview": "A former rodeo champ befriends a young man with a propensity for violence.",
+      "similar": [
+         4771,
+         15069,
+         26390,
+         1586,
+         238636,
+         1266,
+         17494,
+         357096,
+         10651,
+         2749,
+         123109,
+         979,
+         77,
+         101,
+         205,
+         949,
+         1572,
+         281,
+         180863,
+         281957
+      ],
+      "original_title": "Sweet Virginia",
+      "runtime": 93,
+      "poster_path": "/qTch1l0ZMU4MiOBDEJ14jVmANVC.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": "/rPnEeMwxjI6rYMGqkWqIWwIJXxi.png",
+            "name": "XYZ Films",
+            "id": 12142,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": null,
+            "name": "Exhibit",
+            "id": 92471,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Automatik Entertainment",
+            "id": 7625,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Oddfellows Entertainment",
+            "id": 85465,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2017-11-17",
+      "vote_average": 6.7,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Canada",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Jamie M. Dagg"],
+      "runtime": 93,
+      "synopsis": null,
+      "writers": [
+         "Benjamin China",
+         "Paul China"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt2582498/",
+      "coverLink": "https://ia.media-imdb.com/images/M/MV5BMjA4NzE0NjQ5NF5BMl5BanBnXkFtZTgwODE0MzIxNDM@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "actors": [
+         "Jon Bernthal",
+         "Christopher Abbott",
+         "Imogen Poots"
+      ],
+      "reviews": [
+         "This is one of those films which goes round in your head for hours or days after you've watched it. I wouldn't at all be surprised if it achieves cult status, with debates on its merits and shortfalls continuing for some time. It often felt like it was on the brink of something exceptional, but that never quite manages to break through to that accolade and even though it certainly swept me away in places, I came away not fully satisfied. Without question it is a very powerful film and there is much to love here. It's great work. The cast is superb. Jon Bernthal who plays Sam 'slam dunks' this role like he does every one, and really was a perfect choice for this part. Actually, the whole cast is superb. Christopher Abbott does a similarly excellent portrayal with the chillingly edgy and psychotic Elwood. Its a deep and rich story, well constructed and thick with the intricacies of real life and complex relationships. There's no glossing over the plot with thin filmed convenience or casual coincidence, it as detailed story that unfolds well and delivers how a good thriller should. The characters all have well constructed identities that give the film excellent realism. Bernthal's character has more meat on its bones than an Angus steak. Great care has been taken to give him a fully laden his persona with all the dimension of real life and I think actually this may be one of the films failings. There's so much meat on the carcass the film never really gets round to addressing all the choice cuts available. At the end your left wondering about delicious morsels untasted and left as carrion for the mystical Hollywood scavengers. The film is well directed well and well structured, but the pacing is slow and consistently so. I think this is another of its failings, a small one, but still a failing. I say this because with a film with so much to depict, accelerating the pace in places would serve to heighten excitement in areas that could have been more engaging while more comprehensively addressing certain aspects of the story. Having said that, what the film does expertly is create a suspense filled ambiance throughout, and that goes a long way to compensating for the issues I have picked at. I liked it a lot but didn't love it. It was just too consistently low key, and everything somehow felt mildly underdone. I will definitely watch it again though, and actually think I will enjoy it more the second time. I do recommend it, as it is still a pretty good film.",
+         "... to regular people and sad music makes us cry... Sorry, but no, it's just not enough. Did I care about the characters? No, why would I? There's little to no character development and they're just not terribly interesting or compelling in any way. Nebulous relationships, an insurance fraud scheme, a few assorted scumbags, a latent hero who somehow dispels his inner demons and emotional funk with a final heroic act in the end does not a great movie make. Dark skies, dark interiors, dingy settings, dismal situations I understand are compelling to some, but it's just not enough. What happened to the craft of screen writing?",
+         "In a small-town Alaska, a triple murder is committed one night. The professional hit-man responsible has been hired by a local woman to wipe out her husband but two other men are killed in the process. The killer sets up stall in a motel run by a former rodeo star. The title Sweet Virginia refers to an earlier draft of the film set in the American south involving a cowboy killer and all the rest of it. Moving the setting further north to Alaska gives the film a different edge, although it does render the title less meaningful. Its director is Jamie M. Dagg recently made the Laos set chase film River (2015) which was good, if a little minimalistic, but with Sweet Virginia he definitely shows progress as a film-maker. This one is a little more expansive in approach with more detailed characters and plot. You could probably fairly say that there is nothing especially new here but it is held together with some good performances such as Jon Bernthal as the motel owner who is not your typical hero in that he takes a beating when you don't expect him to and generally is quite meek in direct contrast to how he looks, even better was Christopher Abbott in the role of the killer who embarks in a bromance of sorts with Bernthal's character, Abbott's portrayal carried an authentic threat and you really believed his character was capable of violence. Imogen Poots doesn't get as much screen-time as the two male leads but her character is perhaps the key to the whole story in that it is her decisions that set the wheels in motion and continue to propel the narrative into the abyss. It's a pretty satisfying film overall and will be of interest to those with a taste for American neo-noirs.",
+         "If you watch this film, be sure to have subtitles available because the actors constantly mumble their lines. It is beyond annoying. Jon Berenthal sleepwalks as if sedated with a massive dose of thorazine. The rest of the cast seem a little bit less asleep. The story is not all that interesting and in the end I just did not care in the least what happened to anyone in the movie. The only saving grace is the short ninety minute running time. I can usually stick with crime stories that have a sense of humor. Sweet Virginia has no wit or wisdom within the script. There is no reason whatsoever to watch this snooze fest.",
+         "Sweet Virginia, where dreams come to die. The movie is dictated by Lila (Imogen Poots) hiring Elwood (Christopher Abbott) to murder her husband, which he ended up killing two more people. I don't really know what was the exact goal of the director, Jamie M. Dagg, with this movie. It's a mix of well placed scenes with some seemingly random scenes. Some scenes helped me understand what motivated the characters, giving a good background and their point of view on the reality they were facing and/or faced. But some scenes throughout the movie, especially scenes involving Sam (Jon Bernthal), just looked like that they were there to fill time until the end, not giving any real purpose or content to the story itself. It made me feel confused, in a somewhat small movie of 93 minutes. I also got the impression that the real goal of the movie was to show how screwed up people are, with all the lies, deceit and lack of truth in their actions. I was able to feel the tension in almost every part of the movie, which was a good thing. I enjoyed watching Jon Bernthal play a character outside his normal roles. Here he is someone non-violent, that shows patience and compassion. Was surprising to say the least, but a good surprise. It was good to see a reality that I personally never experienced. A reality filled with secrets, lies, opportunism and, at some degree, fake. What threw me down to not give a better rating was the way the story was told, I felt kind of empty while watching it, becoming lost in my thoughts \"why is this happening?\", \"what's the point of this?\", \"did they forget about her?\". They could have delivered it a bit better, with more consistency. I really wanted to like this movie, had potential, but, unfortunately, I have to give it 6 out of 10.",
+         "Problem with small towns is everybody leaves 'em. Thus small town stories tend to be based on romanticized memories (be it good or bad) from the point of city slickers. And since most folks reside in giant metropolises, it becomes difficult to pronounce judgement on this evaporating way of life. Sweet Virginia is one such film beast. It is both good and bad. A good film, about bad people, but chiefly it is about America. Set in murky Alaska, but filled with soft, southern accented characters, it takes place in a tiny, forgotten place, where people struggle for money, hide their histories, wear baseball caps, drive pickups, move at a snail's pace, and settle their matters in a violent fashion. At the centre of a nifty noire tangle is an uncomfortable buddy-buddy relationship between an aw-shucks former rodeo star trying unsuccessfully to live a low-key life as a motel owner, and a troubled, snaky hit man. Jon Bernthal is terrific as the reluctant good guy, who innocently befriends the dark stranger in town - a perfectly tense and edgy Christopher Abbott. We know this won't end well, but that is not the point. This is less about the resolution and more about the journey. \"Sweet Virginia\" dares to peek under the covers of a sleepy place rampant with familiarity but teeming with excruciating loneliness. One that usually keeps it's secrets well buried. Usually.",
+         "This movie sure was well worth my time. A decent thriller drama, the villain in this movie did an exemplary performance, certainly award winning. If you like slow burn thrillers that gets into your skin and makes you want to guess the next scene, this is for you.",
+         "This was a strong movie, yet subtle in every way. The acting is superb and cinematography is profoundly impressive. It's a simple plot, but sticks in your head after, very thought provoking. I was impressed with Jon Bernthal's blunt emotional performance as well as Christopher Abbot's take on playing a psychopath with a conscience. It's a mystery, drama that will haunt you at the end. The China Brothers pay close attention to detail and focus in on unexpected, interesting camera angles throughout the film. This movie is ALL about 'less-is-more', unpretentious dialogue and realistic acting. It has its own style though, somewhere in between Robert Altman and The Coen Brothers. I think it's a perfect movie and one hell of an unexpected 'classic' of the year!",
+         "Greetings again from the darkness. Murders-for-hire evidently have a better success rate in real life than in movies, because cinematically speaking, they usually result in quite the mess for all involved (and some who aren't). Fresh off the 2012 Black List for best unproduced scripts, the screenplay from twin brothers Benjamin China and Paul China offers up a neo-noir with a familiar enough premise in a not-so-familiar setting. Director Jamie M Dagg offers little chance for us to settle in, as a violent and seemingly senseless triple murder occurs within the first few minutes. We get our Bang Bang, with the Kiss Kiss soon to follow. The usually friendly game of poker among friends goes south quickly thanks to Elwood (Christopher Abbott, IT COMES AT NIGHT), a stranger in town. We soon enough learn that he is in town on \"business\", and now that the job is done, he expects to be paid. Elwood not-so-patiently awaits his pay day while staying at the Sweet Virginia Motor Motel. It's a simple inn inherited by, and now run by, Sam Rossi (Jon Bernthal) \u2013 a former rodeo star who these days battles multiple physical issues with pain dulled only by his morning weed ritual, and an ongoing affair with one of the ladies recently widowed by the Elwood's gun. Sam is shaggy looking, mellow and quite a pleasant fellow who seems like many in this quite small Alaska town \u0085 living here for the solitude and anonymity. Imogen Poots plays Lila, and Rosemarie DeWitt plays Bernadette. Their unhappy marriages of 3 and 18 years respectively have ended abruptly, and while neither is much into grieving, they both have new problems with which to deal. There is an unusually scarce police presence given that a triple homicide of local citizens has just occurred, but the focus here is on the four main characters, and especially on the two men. Elwood is exceedingly high-strung and prone to violent outbursts, while Sam is congenial to all, and generous with his time and advice to local high schooler and motel employee Maggie (Odessa Young). To ensure that no viewer is left behind, there is a diner scene that emphasizes the polar opposite personalities of Elwood and Sam. Rather than pack the intended punch, it mostly just comes across as obvious and unnecessary. And that in a nutshell, is what keeps the film from being a bit more intriguing. While there is not a lot of excess talking, death hovers over most scenes and conversations. The connection between Sam and Elwood marks the sometimes easy bond of strangers, while the fractured marriages of Lila and Bernadette show how character flaws are unveiled over time. Jessica Lee Gagne's cinematography and the slow pacing to match the setting are both to be admired, but the film lacks any type of artistic or stylish differentiation, and relies solely on the fine performances of the cast. It's certainly no BLOOD SIMPLE or HELL OR HIGH WATER, but it's interesting enough to hold attention for 90 minutes \u0085 despite the mess being all cleaned up and tidy by the end.",
+         "Two thirds of the film are a build-up to an underwhelming ending. Jon Bernthal's physique should grant him a long career but his acting can't lift this very poor script. His portrayal of a sensible tough guy is reduced to some exaggerated mannerisms and speaking with his throat instead of his mouth. Still, everything else is so lame that he somehow ends up owning the film. I watched this because of my huge crush on Imogen Poots. She's awesome but her character is painfully underwritten. She has a couple of promising scenes and then dissapears. There are lots of missed opportunities all the way and, in my opinion, her character is the worst one. Then there is the bad guy, who does feel like a threat sometimes. That 's good, but he seems written in one afternoon as well. A midwest version of Javier Bardem´s role in \"No Country for Old Men\". His relationship with the main character is too vague for a possible confrontation to have any kind of dramatic effect. The technical part of the film is flawless and this could have been great but how anyone would consider this script to be finished is beyond me.",
+         "One of those movies where the trailer looks so promising but then you are so disappointed when you watch the whole movie. This movie joins in with shows like true detective. All people are so sad all the time. They are all somehow broken inside. This can be interesting with the right story and good execution but that is what's missing here. I actually like when actors don't enunciate everything crystal clear but in this movie the line delivery of the men is just plain mumbling. I also have no problem when there are longer scenes where no one speaks but then I should either see some development in the characters by watching their body language or mimic or what they do. But here you have scenes that seem as if the director had to fill time which seems very odd because the movie is very short in the first place. I like Benthal but that this movie fails to deliver anything is not the fault of the cast but of the choices the director makes.",
+         "This was actually a pretty good movie, decent plot and well acted. The movie is essentially about a pathetic woman who instead of leaving her cheating husband decides to have him killed. With little knowledge of his business dealings she believes her husband to be more successful than he was, a miscalculation that left her unable to pay her psychotic hit-man. Rather than face up to her consequences she tells the hit-man about her friend who happens to have the money he needs. The hit-man develops a plan to go and rob her friend which is essentially where things go awry and also where the movie plot ties in. Without giving anything additional away, I will only say again this movie is worth the watch!",
+         "A man (Christopher Abbott) walks into a bar and says. \"I'll have the early bird special.\" The bartender says, \"We're closed.\" So we know who the killer is as the film switches to Sam (Jon Bernthal) a retired rodeo rider and motel manager, the place where the killer stays. The rodeo thing didn't tie back into the script. Normally when you introduce something like that, it should tie back in. The film is a slow burn without an over whelming climax. Filmed in Canada, the location was supposed to be a small community near Roanoke, Virginia. Acting was fine, drama a little slow. Guide: F-word. Sex. partial nudity.",
+         "This movie is stocked with great actors and great plot ideas that just never come together. Bernthal is great but even his character is a bit flimsy with a lot of unanswered details about his past looming over the viewer. The action in the film is great and you'll be engaged, but you'll be wishing there was more character development to really pull things together.",
+         "Hello middle of the road, here we are again with actor's you kind of know but kind of don't. The film is only average, you've seen it before somewhere believe me, anyway i'm mainly here because of Jon Bernthal, I've watched him in numerous TV shows and films now and most recently the Punisher, boy can he act, i don't think anyone ever could do what he does, and what is that i hear you ask?. He acts as a glorified tough man version of himself, in every scene in every show or movie ever. Enough Already. He plays the Punisher in a new TV show and now he's punishing us in real life, Jon Bernthal will surely get the Jon Bernthal Oscar this year, indeed nobody does Jon Bernthal quite like Jon Bernthal over and over and over.......",
+         "this is the kind of film where you are asking yourself a lot of why questions. why don't they lock the door, or call the sheriff, or turn on the lights. this is not to say you won't be on the edge of your seat, because what we do have here is atmosphere. and tension. the plot is simple enough. hired killer wants to be paid. look out if he doesn't. there is a lot of whispering and unheard conversations. don't be put off by the violence. Tarantino is much worse. I don't know who the china brothers are, but their future looks exciting. add Jamie dagg to the list of directors to follow.",
+         "Starting with violent crime scene the movie slowly gains pace and entrance into it's main plot. The plot has great depth with lot of facts hidden into it. It is a complicated story full of layers containing many many unpredicted truth. Those are the main attraction of this whole film. These type of thrillers are always slow and some may find this a bit boring and lenthy. But it has much more compact resources to overthrow the slowness. It can draw you into complete sense of joy when you will finish it. But there are also some limitations. Some dialogues and scenes are too long and unnecessary regarding the context of the movie. Some times the movie is out of tract with unrelated characters. Overall the movie is average with some glimps of thrill in it....",
+         "Modern day noir which steadily builds the tension in a creepy understated way . You can't begin to guess what's gonna happen because the characters are unpredictable in many ways. Unsettling film that for all its good points just fails to reach my idea of a classic as it leaves you wanting a bit more punch st the finale",
+         "Sweet Virginia is a good movie for people who like a bit of a film noir with a decent story. If you expecting fast-paced action scenes just skip this movie then because it all looks a bit slow. But that's how the story is. The soundtrack helps creating the thriller and suspense effect. The movie mainly centers around four characters played by Jon Bernthal, Imogen Poots, Rosemarie DeWitt and Christopher Abbott. They all did a good job playing their respective characters. Some reviewer mentioned this movie could become a cult movie, but that is too far fetched. It will never be a cult movie. It's just a enjoyable movie with a decent story to watch.",
+         "The acting is great, the optics are 1A, the editing : to the point, directing class A not a second of thinking getting one more beer . BUT the script leaves you in the desert : pointless and senseless . If you are up for a good story keep off. Otherwise a terrific movie well worth the time to watch"
+      ],
+      "genres": [
+         "Drama",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Automatik",
+         "Exhibit",
+         "Oddfellows Entertainment"
+      ],
+      "summaries": [
+         "A former rodeo star, with a small time life, unknowingly starts a rapport with a young man who is responsible for the violence that has suddenly gripped his small town. Every character from his loved ones to his business patrons, plays a part in the unravelling of this community. Our aged hero must face his relationships of past and present to come up against this unpredictable predator.",
+         "A former rodeo champ befriends a young man with a propensity for violence."
+      ],
+      "budget": 0
+   },
+   "movielensId": 173731,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2017-11-17",
+      "dvdReleaseDate": null,
+      "directors": ["Jamie M. Dagg"],
+      "runtime": 93,
+      "movieId": 173731,
+      "title": "Sweet Virginia",
+      "mpaa": "",
+      "actors": [
+         "Jon Bernthal",
+         "Christopher Abbott",
+         "Imogen Poots",
+         "Rosemarie DeWitt",
+         "Odessa Young",
+         "Joseph Lyle Taylor",
+         "Jared Abrahamson",
+         "Jonathan Tucker",
+         "Scott A. McGillivray",
+         "Darcy Laurie",
+         "Therés Amee",
+         "Victoria Bidewell",
+         "Garry Chalk",
+         "Rose Miller",
+         "Gabrielle Rose",
+         "Mike Dopud",
+         "Kathryn Kirkpatrick"
+      ],
+      "imdbMovieId": "2582498",
+      "originalTitle": "Sweet Virginia",
+      "genres": [
+         "Drama",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": ["gPE17-BUnFQ"],
+      "plotSummary": "A former rodeo champ befriends a young man with a propensity for violence.",
+      "tmdbMovieId": 413992,
+      "avgRating": 2.91667,
+      "releaseYear": "2017",
+      "numRatings": 6,
+      "posterPath": "/qTch1l0ZMU4MiOBDEJ14jVmANVC.jpg"
+   }
+}

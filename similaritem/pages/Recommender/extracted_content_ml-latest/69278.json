@@ -1,0 +1,661 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "assistant",
+            "id": 3487
+         },
+         {
+            "name": "paleontologist",
+            "id": 4477
+         },
+         {
+            "name": "alien life-form",
+            "id": 4862
+         },
+         {
+            "name": "dinosaur",
+            "id": 12616
+         },
+         {
+            "name": "primate",
+            "id": 177280
+         },
+         {
+            "name": "duringcreditsstinger",
+            "id": 179431
+         }
+      ],
+      "imdb_id": "tt0457400",
+      "video": false,
+      "title": "Land of the Lost",
+      "recommendations": [
+         13260,
+         17610,
+         9718,
+         16991,
+         10762,
+         38319,
+         9955,
+         23048,
+         9750,
+         37931,
+         15373,
+         9981,
+         10074,
+         11635,
+         8427,
+         9429,
+         11017,
+         77953,
+         13257,
+         23742
+      ],
+      "backdrop_path": "/gC5oemo21VQ6BSI6dXgwj3pNRDx.jpg",
+      "revenue": 68688831,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Dr. Rick Marshall",
+               "gender": 2,
+               "credit_id": "52fe47649251416c75097aff",
+               "name": "Will Ferrell",
+               "profile_path": "/dGxt3uGPlUJKIfHYiLasnEgR90e.jpg",
+               "id": 23659,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Holly",
+               "gender": 1,
+               "credit_id": "52fe47649251416c75097b03",
+               "name": "Anna Friel",
+               "profile_path": "/ccSUerm8OyftugbfsVdrrKKbBrv.jpg",
+               "id": 58016,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "Will Stanton",
+               "gender": 2,
+               "credit_id": "52fe47649251416c75097b07",
+               "name": "Danny McBride",
+               "profile_path": "/44DW4hNukuxNhGwyMScNNKhwflN.jpg",
+               "id": 62862,
+               "order": 2
+            },
+            {
+               "cast_id": 7,
+               "character": "Chaka",
+               "gender": 2,
+               "credit_id": "52fe47649251416c75097b17",
+               "name": "Jorma Taccone",
+               "profile_path": "/8NqZvjdsMIT3HgfdltoMBqxsEcB.jpg",
+               "id": 62863,
+               "order": 3
+            },
+            {
+               "cast_id": 9,
+               "character": "Himself",
+               "gender": 2,
+               "credit_id": "52fe47649251416c75097b1b",
+               "name": "Matt Lauer",
+               "profile_path": "/iluW35eWfgmhnbs8xi7lVVWLEUV.jpg",
+               "id": 141525,
+               "order": 4
+            },
+            {
+               "cast_id": 10,
+               "character": "Tar Pits Kid",
+               "gender": 2,
+               "credit_id": "52fe47649251416c75097b1f",
+               "name": "Bobb'e J. Thompson",
+               "profile_path": "/vffCOthyQ4hDQt52L21RW2U2o0w.jpg",
+               "id": 75633,
+               "order": 5
+            },
+            {
+               "cast_id": 11,
+               "character": "Tar Pits Kid",
+               "gender": 1,
+               "credit_id": "52fe47649251416c75097b23",
+               "name": "Sierra McCormick",
+               "profile_path": "/9aY2lNVpDtI3jzZ5aS8e1NAxAcQ.jpg",
+               "id": 141526,
+               "order": 6
+            },
+            {
+               "cast_id": 12,
+               "character": "Tar Pits Kid",
+               "gender": 0,
+               "credit_id": "52fe47649251416c75097b27",
+               "name": "Shannon Lemke",
+               "profile_path": null,
+               "id": 141527,
+               "order": 7
+            },
+            {
+               "cast_id": 13,
+               "character": "Tar Pits Kid",
+               "gender": 0,
+               "credit_id": "52fe47649251416c75097b2b",
+               "name": "Stevie Wash Jr.",
+               "profile_path": "/vJUSTpI7yYmaReZJw8FGUA0nJ1n.jpg",
+               "id": 141528,
+               "order": 8
+            },
+            {
+               "cast_id": 14,
+               "character": "Teacher",
+               "gender": 2,
+               "credit_id": "52fe47649251416c75097b2f",
+               "name": "Brian Huskey",
+               "profile_path": "/krewoXz2qgDdIAB2PTGRuilX0K5.jpg",
+               "id": 54728,
+               "order": 9
+            },
+            {
+               "cast_id": 15,
+               "character": "Teenager",
+               "gender": 0,
+               "credit_id": "52fe47649251416c75097b33",
+               "name": "Kevin Buitrago",
+               "profile_path": null,
+               "id": 141529,
+               "order": 10
+            },
+            {
+               "cast_id": 16,
+               "character": "Teenager",
+               "gender": 2,
+               "credit_id": "52fe47649251416c75097b37",
+               "name": "Noah Crawford",
+               "profile_path": "/hDp1OJd7dZyeeV6xHJPYOnC3xvA.jpg",
+               "id": 141530,
+               "order": 11
+            },
+            {
+               "cast_id": 17,
+               "character": "Teenager",
+               "gender": 0,
+               "credit_id": "52fe47649251416c75097b3b",
+               "name": "Jon Kent Ethridge",
+               "profile_path": "/fkKJgPlvtHp82uTFDdLqioCdKoS.jpg",
+               "id": 141531,
+               "order": 12
+            },
+            {
+               "cast_id": 18,
+               "character": "Teenager",
+               "gender": 0,
+               "credit_id": "52fe47649251416c75097b3f",
+               "name": "Logan Manus",
+               "profile_path": "/vq4oR5nhNKZqiKgqZESnqN2RQXy.jpg",
+               "id": 141532,
+               "order": 13
+            },
+            {
+               "cast_id": 19,
+               "character": "Enik",
+               "gender": 0,
+               "credit_id": "52fe47649251416c75097b43",
+               "name": "John Boylan",
+               "profile_path": "/o36xFCXNVtIhnxYVVRd7vQVb7hQ.jpg",
+               "id": 560159,
+               "order": 14
+            },
+            {
+               "cast_id": 40,
+               "character": "Sleestak",
+               "gender": 0,
+               "credit_id": "52fe47649251416c75097bbf",
+               "name": "Marti Matulis",
+               "profile_path": "/r7I8OnQpK4QvI62cQcWYKMtW4Fe.jpg",
+               "id": 1287088,
+               "order": 15
+            },
+            {
+               "cast_id": 49,
+               "character": "Tar Pits Kid (uncredited)",
+               "gender": 1,
+               "credit_id": "57df3e1ac3a36808ec00b4da",
+               "name": "Kiernan Shipka",
+               "profile_path": "/k2nVQVHu3quZgQxkM0HGA1YuiVm.jpg",
+               "id": 934289,
+               "order": 16
+            },
+            {
+               "cast_id": 50,
+               "character": "Tar Pits Kid (uncredited)",
+               "gender": 2,
+               "credit_id": "57df3e279251413d7400ac4c",
+               "name": "Dylan Sprayberry",
+               "profile_path": "/pBVSPaXOFZqhwt2COhkLaOq9MSW.jpg",
+               "id": 236302,
+               "order": 17
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe47649251416c75097afb",
+               "name": "Brad Silberling",
+               "profile_path": "/4JR2TYCatx5YFACxGB74il7EMhq.jpg",
+               "id": 11887,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47649251416c75097b0d",
+               "name": "Chris Henchy",
+               "profile_path": "/1yDD1LJlQZBe7oozr0SvKX9BEA4.jpg",
+               "id": 99410,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47649251416c75097b13",
+               "name": "Dennis McNicholas",
+               "profile_path": null,
+               "id": 141524,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47649251416c75097b55",
+               "name": "Marty Krofft",
+               "profile_path": null,
+               "id": 944364,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47649251416c75097b5b",
+               "name": "Sid Krofft",
+               "profile_path": null,
+               "id": 944363,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47649251416c75097b61",
+               "name": "Jimmy Miller",
+               "profile_path": null,
+               "id": 61397,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47649251416c75097b67",
+               "name": "John Swallow",
+               "profile_path": null,
+               "id": 1125156,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47649251416c75097b6d",
+               "name": "Joshua Church",
+               "profile_path": null,
+               "id": 1125157,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe47649251416c75097b73",
+               "name": "Jessica Elbaum",
+               "profile_path": null,
+               "id": 80175,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47649251416c75097b79",
+               "name": "Michele Panelli-Venetis",
+               "profile_path": null,
+               "id": 92342,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47649251416c75097b7f",
+               "name": "Will Weiske",
+               "profile_path": null,
+               "id": 1125158,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47649251416c75097b85",
+               "name": "Ryan Kavanaugh",
+               "profile_path": "/hHEZuaDeSXWWxaDzQp13AzeYSg5.jpg",
+               "id": 54419,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47649251416c75097b8b",
+               "name": "Daniel Lupi",
+               "profile_path": null,
+               "id": 4769,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47649251416c75097b91",
+               "name": "Adam McKay",
+               "profile_path": "/pwc6pHC5d3y8NVsphURkKK8y2fL.jpg",
+               "id": 55710,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe47649251416c75097b9d",
+               "name": "Julie Wixson Darmody",
+               "profile_path": null,
+               "id": 66822,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47649251416c75097ba3",
+               "name": "Michael Giacchino",
+               "profile_path": "/2YW8sSVvRhCwiQmsFCgtFsGkbv8.jpg",
+               "id": 15347,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47649251416c75097baf",
+               "name": "Peter Teschner",
+               "profile_path": null,
+               "id": 11372,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe47649251416c75097bb5",
+               "name": "Avy Kaufman",
+               "profile_path": "/yQPGktsmkKkhkOQAUlmYlxHJOiJ.jpg",
+               "id": 2952,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47649251416c75097bbb",
+               "name": "Bo Welch",
+               "profile_path": "/lYSuKR7b8aNYnZmzVQh4CPk5YMe.jpg",
+               "id": 5133,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "548da95fc3a36820b800495c",
+               "name": "Dion Beebe",
+               "profile_path": "/q24Jkyu8VclqhdYhPpti7fXoSkS.jpg",
+               "id": 647,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "548dad1ac3a36820b5004c9d",
+               "name": "Marty Krofft",
+               "profile_path": null,
+               "id": 944364,
+               "department": "Writing",
+               "job": "Original Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "548dad30c3a36820be003b49",
+               "name": "Sid Krofft",
+               "profile_path": null,
+               "id": 944363,
+               "department": "Writing",
+               "job": "Original Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "555eebdb9251417e4f002307",
+               "name": "Brad Silberling",
+               "profile_path": "/4JR2TYCatx5YFACxGB74il7EMhq.jpg",
+               "id": 11887,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "548daea892514122ff00407f",
+               "name": "Mark Bridges",
+               "profile_path": "/mw2M3u5WtvBcbL3QdudnaWlWjiV.jpg",
+               "id": 40471,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "548daec592514122fc0040eb",
+               "name": "Lauri Gaffin",
+               "profile_path": null,
+               "id": 14348,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5546817dc3a368573b004369",
+               "name": "Sachin Bangera",
+               "profile_path": null,
+               "id": 1453019,
+               "department": "Crew",
+               "job": "Technical Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "554ae0aac3a3685e4e000bf8",
+               "name": "Sagar Patil",
+               "profile_path": null,
+               "id": 1460634,
+               "department": "Crew",
+               "job": "Visual Effects Art Director"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         }
+      ],
+      "popularity": 14.95247,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 18162,
+      "vote_count": 475,
+      "budget": 100000000,
+      "overview": "On his latest expedition, Dr. Rick Marshall is sucked into a space-time vortex alongside his research assistant and a redneck survivalist. In this alternate universe, the trio make friends with a primate named Chaka, their only ally in a world full of dinosaurs and other fantastic creatures.",
+      "similar": [
+         329,
+         88751,
+         351286,
+         18890,
+         15997,
+         425,
+         135397,
+         105864,
+         10567,
+         12144,
+         34851,
+         1593,
+         2756,
+         2787,
+         1091,
+         49519,
+         124905,
+         126889,
+         211672,
+         8355
+      ],
+      "original_title": "Land of the Lost",
+      "runtime": 102,
+      "poster_path": "/tcb3yslo5U1iuubH34Eawp7qofr.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "id": 33,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": "/62E1B91PxZw8q4KNkge5Qemo7EM.png",
+            "name": "Relativity Media",
+            "id": 7295,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Sid & Marty Krofft Pictures",
+            "id": 11916,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Mosaic Media Group",
+            "id": 748,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2009-06-05",
+      "vote_average": 5.3,
+      "belongs_to_collection": null,
+      "tagline": "Right place. Wrong time.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Brad Silberling"],
+      "runtime": 102,
+      "synopsis": "Three years after being kicked out of the science department for his theory of Time warps, and his attempt on Matt Lauer's life, Rick Marshall is reduced to working as a teacher at the George C. Page Museum until he meets Holly Cantrell whose finding urges him to create a tachyon amplifier to enable time warp travel. They go to the Devils Cave attraction where the finding was found, hiring its tour guide Will Stanton. But once they've activated the tachyon amplifier, losing it in the process, the three end up in a parallel universe where all timelines converge. They soon meet some ape men, Pakuni, two of whom were going to kill the younger one, when Stanton unintentionally gives the other two the secret of fire as they run off. The gang then proceed to help the other one, named Cha-Ka, until he runs off with them in pursuit. Once catching up to Cha-Ka, they are trapped by a tree which turns out to be a dinosaur feeding site, being attacked by a Tyrannosaurus. The T. rex chases them until they come to a small land bridge. Marshall is convinced they are safe as he explains how a T. rex has a walnut-sized brain, and is incapable of judging depth and distance. Hearing this as he stalks away, the T. rex stops in his tracks, turns, and runs full speed to jump across the chasm. Chasing them until they reach a crevice in a cave, it gives up, though still wanting to eat Marshall. Holly, knowing the dinosaur's attitude, gives him the name \"Grumpy\". Though Marshall didn't believe it to be possible, Grumpy's vendetta becomes more apparent when he leaves a gift, beach-ball sized walnut, gift-wrapped. The next day, Cha-Ka brings fruit full of spiders. Rick pours dinosaur urine all over himself as a way to masks his scent from \"Grumpy\" he then has visions about a strange creature begging for his help, running out into the Lost City. The others follow as Cha-Ka gets agitated and attempts to tell them they should leave as they are attacked by the slow yet deadly Sleestaks. But when the Pylon opens, Marshall and company enter, meeting the creature who contacted them, Enik. Enik tells them that the evil Zarn is out to control the universe and needs the tachyon amplifier. In spite of Will's feelings, Marshall offers his aid as Cha-Ka takes the group through the jungle and onto a salt flat landscape that is a feeding site for Compsognathus and Velociraptors, who proceed to tear an ice cream man to pieces until Grumpy comes and scares them off. However, a female Allosaurus arrives as well. The two territorial predators prepare to fight when the both of them catch Marshall's urine-drenched scent and chase after him. Though managing to outsmart Grumpy, Marshall runs from \"Big Alice\", the Allosaurus, until he reaches Holly and Will, using the tank of liquid nitrogen to freeze the Allosaur before she explodes with the tachyon amplifier among her remains. After that, a Pteranodon steals their time machine. Though down in the dumps, Marshall regains his confidence as he attempts to apologize to his friends in song (The theme song to the original TV series) while unknowingly attacked by a giant mosquito. After managing to get the tachyon amplifier back from a nest of pterosaurs, they return to a motel back in the salt flat. While Marshall, Will and Cha-Ka laze in the pool, Holly goes, finding a Pylon. Inside, she finds dinosaur eggs lodged in dinosaur feces, taking one out before she find a holographic message from the Zarn, learning that Enik is the real villain and being taken by a Sleestak to stand trial for aiding him. Meanwhile, after eating a Giant Crab, which killed itself by stepping on a geyser while advancing on them, the three realize Holly's missing and go find her. They meet two mating Sleestaks, that shed their skin, which Marshall and Will use to disguise themselves while Cha-Ka goes to get Enik. Arriving to Holly's aid as she is condemned to death by the Library of Skulls, Marshall and Will learn that Enik was the one who wiped out the Altrusians while confirming Will's feelings about the villain's tunic. After saving Holly, the gang confront Enik and his Sleestak slaves, taking the tachyon amplifier while revealing his plans on using the Sleestaks to overpopulate the worlds. He then leaves Marshall and company to their fate as Grumpy arrives to get his revenge. Seeing no other way, Marshall takes on Grumpy one-on-one, ending with Marshall vaulting into the dinosaur's mouth. Though Holly chides him for it, Grumpy shrugs her off and leaves as she and Will attempt to fight off the numerous Sleestaks. However, after being excreted out while taking out some intestinal trouble, Marshall and a \"less grumpy\" Grumpy make their peace as they arrive to kill most of the Sleestaks. Entering the Pylon, Marshall and company manage to destroy the crystal shard that powers it, with Will choosing to stay with Cha-Ka in the Land of the Lost while holding Enik off so Marshall and Holly can return home. Will takes advantage of his new life by meeting Cha-Ka's harem which he was told earlier by Cha-Ka that they were ugly only to find them to be very hot Caribbean tanned women wearing only a loincloth. He almost immediately get surrounded by half a dozen women who start rubbing him all over. He responds to this by saying \" I made the right choice.\" Back on Earth, Matt Lauer reluctantly gives a second interview with Marshall this time proven right and proceeds to rub it in Matt Lauer's face by bringing a dinosaur egg back and giving him a signed copy of his new book. But after being forced to show off the title of Marshall's new book, ''Matt Lauer Can Suck It'', history repeats itself with Matt trying to kill Marshall. Soon after the show ended, unaware of what Marshall and she left behind on the set, the dinosaur egg Holly found hatches into a baby Sleestak. [D-Man2010]",
+      "writers": [
+         "Chris Henchy",
+         "Dennis McNicholas"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0457400/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BOTkzNDg2OTc1NF5BMl5BanBnXkFtZTcwNDcxODE2Mg@@._V1_SY317_CR0,0,214,317_AL_.jpg",
+      "actors": ["Stars: Will Ferrell, Danny McBride, Anna Friel | See full cast and crew »"],
+      "reviews": [
+         "I could tell from the trailers that if you were not a committed Will Ferrell fan, or stoned out of your mind, that this movie would probably be trashed by the experts. You either find his absurd comedy funny or find it a senseless insult to your intelligence. For me, there were a couple times when I really laughed out loud (and I was sober as a judge), most of the time I simply had a smile on my face as I watched the master make a complete fool of himself - which is what Will Ferrell does. I read some of these in-depth critiques in utter amazement. I mean, really, what were you expecting to see? It is a very light hearted spoof of one of the most ridiculous TV series in history. Generally, I thought it was funny, we've been repeating some of the funnier, albeit, totally ridiculous scenes all day. I do strongly caution parents with children. When Will Ferrell says PG-13 he isn't kidding. Sexual innuendo and drug references are going to be quite uncomfortable for the prudish crowd.",
+         "This movie is definitely better then most of the reviews on this page have been saying. From reading the comments it seems like it is mostly due to parents bringing their kids to see a movie including an actor from movies such as Old School and Anchorman and getting mad when they see crude humor. If you like Will Ferrell you will like most jokes in this movie, it is very funny and in my opinion close to The Hangover. This movie is not supposed to be taken seriously and as long as you don't try to compare it to the original show and go along with it you will laugh. Go in with an open mind and don't listen to the critics this movie is for sure worth checking out.",
+         "I have just watched 'Land of the Lost' and i was curious to find out what everyone else thought about it. As i was expecting to see a family, comedy film i was pleasantly surprised that it was not just your ordinary clichéd family movie but something aimed for a slightly older audience. This maybe why it was so poorly received. Looking at trailers and TV spots, this movie did really look like just another pointless summer blockbuster, which may have appealed to all you people looking for something family friendly. But for me i was so thrilled to be watching something that is just plain FUN! That's all it is! just fun, fun, fun! You people that have posted nothing but negative comments about this title don't know a great movie if it slapped you in the face. so relax a little, sit back again and realise that your watching another fantastic movie from will ferrell, and lets face it: when has will ferrell released a movie for families? (excluding ELF) Just stop your complaining and enjoy a non-stop, exciting, unpredictable movie that has everything you could ask for. and even more---- what do you really expect from a movie based on a TV show created by someone who practically lived off acid? Three words to sum up this movie: trippy, adventurous and fun!",
+         "First I must state that I am NO fan of Will Ferrell. Outside of his SNL days of doing a dead-on spoof of Bush, Ferrell hasn't made a movie that I wanted to see. After reading these reviews I was even more set on avoiding it. However, I decided to suffer thru it for my sis's birthday. To my surprise, we laughed quite a lot at the sweet goofiness of this movie. I agree that they could have cut out the useless mature sights and words that left the kids out because it would have appealed to them. We particularly loved the scenes between Farrell and the obviously more intelligent Dino. Danny McBride was sweetly silly too. The female actress was okay as eye candy for the guys. All the criticism on this site is for people who place stock on what others have to say. Happy to say, we avoided these critics. By the way, if you hated the movie so much, why spend so much of your time to write such long-winded diatribes??? Seems to me these are people who need to feel a sense of importance that they don't have. Oh well, the movie goer should always make up their own minds. We did, and I'm happy to say it turned out well. We really laughed!! And my sister is not one to laugh easily. I just wish they wouldn't show so much of the sight gags in the commercials for the movie. But don't let that keep you away. There's more context for the funny parts in the movie.",
+         "Many reviews for this will have you thinking this film is terrible, i'm baffled as to why this is the case. The fact of the matter is that this film is fun and well made. To get some negatives out of the way first, its definitely got a few obnoxious crude jokes. It also could have been a bit funnier at times. But overall it definitely put me in a good mood, especially because I'm a huge Will Ferrell and Danny McBride fan. I love how Wll Ferrell can deliver such ridiculous lines of dialogue with a straight face. Despite being a major Hollywood film, I felt like this film had heart to it and didn't really feel hollow. I know I had already touched on this before but I just don't think all the hate on this movie is justified. It's coherent from beginning to end, all the lines are delivered well and it's very goofy. Not to mention the cgi isn't half bad as well. Overall it's definitely a fun movie with a few small flaws. Ignore all the hate and go into this with an open mind, not expecting it to be quite like the old TV show, and you'll probably enjoy yourself.",
+         "\"Land of the Lost\" is another in a long line of old TV shows lazily packaged into summer movies, too dumbed-down for fans of the original show and nothing all that memorable for those younger viewers coming into it for the first time. There is no doubt it will join the class (\"Bewitched\"-which Will Ferrell also was in, \"Dukes of Hazard\" and \"Wild Wild West\") of films so bad that they make \"The Brady Bunch Movie\" look like the \"Ben-Hur\" of the genre. There is just zero reason to care about anything in this movie. Will Ferrell, you should have known better. Ferrell plays Dr. Rick Marshall, a paleontologist disgraced by what others call his nonsensical theories about space-time vortexes. The only one who cares to believe him is Holly Cantrell (Anna Friel), a research assistant from one of those fancy British universities who encourages him to keep working on his tachyon thingie-majigger, a device that finds tachyon particles that somehow allow people to jump between worlds. They find the most amount of the stuff in a crappy little souvenir shop run by a redneck named Will (Danny McBride), and before they know it Marshall, Holly, and Will are traveling back to another dimension that's all desert. The place is complete with T-Rex, creepy-crawly bugs, a bunch of things from our world littered about like a stretch limo, Bobs Big Boy and Golden Gate Bridge, and a primate named Chaka (Jorma Taccone) who befriends them and helps them navigate their way back to their dimension. What needs to get lost is the screenplay by Chris Henchy and Dennis McNicholas. When Matt Lauer, playing himself, is the funniest thing in a movie, you know that something went horribly wrong. The laughs are childishly inane. Ferrell is forced to embarrass himself considerably, in one scene drenching himself in, and yes, even drinking dinosaur urine. Dino poop and gross insect infections also get high regard. Then you have Chaka, a supposedly lovable primate who's big comic bit is molestation. Hilarious! And this is the big-laugh stuff. The rest is hard to even remember. That this movie manages any chuckles at all is due to Ferrell and McBride's improvisation abilities. Ferrell is the arrogant goof-off and McBride the brash sidekick, but they're facing an uphill battle with this screenplay. And the plot�wait, what plot? And what character development for that matter? It's all very basic, aimless, and easy to follow, except you'll be too bored to do so. Characters run around like idiots, dinosaurs and insects chase after them, not much happens. And when not being chased, the aimlessness doesn't stop, it just gets more persistent. A scene where Marshall, Will, and Chaka sit around in a stupor getting high off of some coconut drink (yes, this is a family movie) is unbelievably drawn out, unnecessary, and above all, pointless. Finally in the third act the Slestaks, reptilian villains bent on world domination, start to put their plan into effect but even then it's too little, too late to care. The special effects are cheesy. I'm assuming that was the plan cause the show was the exact same way but what you can see at home for free and what your willing to pay for are two different things. A dinosaur against an obvious green screen isn't much fun and little green reptilian men in obvious costumes and masks that barely move, other than to open and close their mouths, are hard to take seriously. \"Land of the Lost\" is just lost, misguided in every way, starting with even deciding to make the movie in the first place. It deserves to be shunned and left to be the summer's first big box-office bomb. Ferrell, McBride, and Matt Lauer are the only things that keep it from being horribly unwatchable but not from being one of the very worst of the summer and the year thus far.",
+         "What I hate about people is how they don't give Will Ferrell a chance. He's a funny man. Granted not all his works are great, but neither were all of Chris Farley's or Adam Sandler's. \"Land of the Lost\" is worth the ticket price because it's funny, random, most likely improvised and holds true throughout. Granted the last half hour is a bit of a drag compared to the first hour, the movie is still full of laughs and unbelievably original story-line. Yes the costumes are weak in detail, and the whole interaction between the humans and animals is far-fetched, but that's the whole point of the comedy: it's supposed to make you laugh. All those people expecting their 1970's TV show to be revived can get a life. The movie is good, definitely makes a good rental, and I enjoyed it.",
+         "I cannot believe after watching this film that it is rated 5.5 or less, so I start reading the reviews and I find ratings of 1/10...seriously...why can't people give this film a realistic rating. OK if you thought the film was bad give it a low rating, but 1/10?? there are numbers in between 1 and 10. I thought Love Actually was one of the worst films I ever saw but I would give it at least a 3. All I'm asking for is abit of consistency take a look at another film I really hated - Crank high voltage 2 rated above 6 how are these scores accurate?? you're telling me that crank is funnier than this film...I can't accept this, so here I am I've signed up at IMDb because of the unfair ratings this film is getting. Anyway about this film I thought it was kind of similar to hitchhikers guide to the galaxy but not really aimed towards kids both in my opinion were great films. Key point to this rant**if you do not like sci-fi comedy don't watch this film** even more important if you disregard my last comment Do Not then go on IMDb and then think oh I don't like this film so I will vote it 1/10 because I didn't know there are any other numbers apart from 1 and 10. I read another review about how this film had no plot...are plots key to comedies?? uh no. Also this person stated his kids found it boring, is this a kids film?? not really. One more thing there are quite a few saying this film was not very intelligent...have you watched crank 2?? if you expected to watch a film with an intelligent plot and intricate story lines watch death note this may satisfy thirst but then again it probably won't. Because how people can say this is for people with low IQ and then these people will go on watch things like crank 2, quantum of solice with require even less intelligence than this film.",
+         "I really enjoyed this movie; I think it might be the best Ferrell movie I've seen in a while. Yes it's goofy and silly, but I think a lot of the negative reviewers here are people who were fans of the original and are judging thru the haze of nostalgia. The original was every bit as goofy and ridiculous, it's just that this movie has the good sense to acknowledge it. And yes, it may not be appropriate for very young viewers as there is some sexual innuendo and cursing, but it does have a PG-13 rating so I don't know why you would be dragging young children to it anyways... 'Land of the Lost' starts with a quirky and oddly arrogant scientist, played by Ferrell, claiming to Matt Lauer on 'Today' that we can solve our energy problems by tapping into inter-dimensional blah blah blah. Of course, no one believes him but a beautiful student from England (Friel) who convinces him to build his whatsit to open the portal to other dimensions. And of course they soon find themselves trapped in what appears to be a large dumping ground for inter-dimensional portals along with a yokel (McBride). From there it's just a journey across this strange land to find their way back home. I realize I'm glossing over a lot of details here but you really don't need to know them. The whole point is to get a kick out of the satire and broad physical shtick as they encounter the bizarre inhabitants of this world and react to them. If you don't get too hung up on the logic of it all and just roll with the jokes, I think it's quite good. And Ferrell, who I have often disliked in previous works because of his tendency to gnaw on the scenery, was reserved enough to deliver a good number of very funny scenes. In short, don't go to this expecting a children's film, a summer action flick, or something akin to the original. And, as with almost all Ferrell movies, don't go if you don't like physical humor. But do go if you are looking for a pleasant hour or two of goofy gags and simple fun.",
+         "This was a great movie.The visuals were superb! My girlfriend and I are both big fans of the original 1974 series and we had a fun time. We went into the theater having heard all the negative reviews, expecting a horrible film. Glad we ignored the critics. It doesn't deserve the rap it's getting and if this is the movie Sid and Marty wanted then that's fine with us. It's their creation and we enjoyed their take on it. I can't help but think that a more serious treatment might have been more pleasing to hard-core fans like us but a film has to span the masses so we understand the direction they went. Now bring on the Sony H.R. Pufnstuf movie!"
+      ],
+      "genres": [
+         "Adventure",
+         "Comedy",
+         "Sci-Fi"
+      ],
+      "productionCompanies": [
+         "Universal Pictures",
+         "Relativity Media",
+         "Sid & Marty Krofft Pictures"
+      ],
+      "summaries": [
+         "Palaeontologist Rick Marshall takes Will and Holly into a new world of danger, dinosaurs and big bug-eyed lizard people while trying to find their way back home and, too, save the universe and in doing so saving his reputation. With the dinosaur with brains, brawn and personality and the adventure of scientific advancement and exotic beasts in a far away land, it all adds up to time traveling fun and frolics.",
+         "On his latest expedition, Dr. Rick Marshall is sucked into a space-time vortex alongside his research assistant and a redneck survivalist. In this alternate universe, the trio make friends with a primate named Chaka, their only ally in a world full of dinosaurs and other fantastic creatures."
+      ],
+      "budget": 100000000
+   },
+   "movielensId": 69278,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2009-06-05",
+      "dvdReleaseDate": "2009-10-13",
+      "directors": ["Brad Silberling"],
+      "runtime": 102,
+      "movieId": 69278,
+      "title": "Land of the Lost",
+      "mpaa": "PG-13",
+      "actors": [
+         "Will Ferrell",
+         "Anna Friel",
+         "Danny McBride",
+         "Jorma Taccone",
+         "Matt Lauer",
+         "Bobb'e J. Thompson",
+         "Sierra McCormick",
+         "Shannon Lemke",
+         "Stevie Wash Jr.",
+         "Brian Huskey",
+         "Kevin Buitrago",
+         "Noah Crawford",
+         "Jon Kent Ethridge",
+         "Logan Manus",
+         "John Boylan",
+         "Marti Matulis",
+         "Kiernan Shipka",
+         "Dylan Sprayberry"
+      ],
+      "imdbMovieId": "0457400",
+      "originalTitle": "Land of the Lost",
+      "genres": [
+         "Adventure",
+         "Comedy",
+         "Science Fiction"
+      ],
+      "youtubeTrailerIds": ["CiCDnG_AdmA"],
+      "plotSummary": "On his latest expedition, Dr. Rick Marshall is sucked into a space-time vortex alongside his research assistant and a redneck survivalist. In this alternate universe, the trio make friends with a primate named Chaka, their only ally in a world full of dinosaurs and other fantastic creatures.",
+      "tmdbMovieId": 18162,
+      "avgRating": 2.69198,
+      "releaseYear": "2009",
+      "numRatings": 711,
+      "posterPath": "/tcb3yslo5U1iuubH34Eawp7qofr.jpg"
+   }
+}

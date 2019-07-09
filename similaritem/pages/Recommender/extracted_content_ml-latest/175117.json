@@ -1,0 +1,485 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "christianity",
+            "id": 186
+         },
+         {
+            "name": "communion",
+            "id": 2292
+         },
+         {
+            "name": "jesus christ",
+            "id": 2974
+         },
+         {
+            "name": "last supper",
+            "id": 3034
+         },
+         {
+            "name": "bible",
+            "id": 3036
+         },
+         {
+            "name": "synagogue",
+            "id": 3902
+         },
+         {
+            "name": "resurrection",
+            "id": 6506
+         },
+         {
+            "name": "religion",
+            "id": 11001
+         },
+         {
+            "name": "jewish",
+            "id": 11508
+         },
+         {
+            "name": "judaism",
+            "id": 11704
+         }
+      ],
+      "imdb_id": "tt0199232",
+      "video": false,
+      "title": "Jesus",
+      "recommendations": [
+         33201,
+         158097,
+         15494,
+         42274,
+         30780,
+         10960
+      ],
+      "backdrop_path": "/4wQLjg2gehczRA081fjrlKny4uV.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 15,
+               "character": "Jesus",
+               "gender": 2,
+               "credit_id": "52fe434fc3a36847f804a85f",
+               "name": "Jeremy Sisto",
+               "profile_path": "/o2FDlQQWOxF18Bq6hDvhiQZE8i9.jpg",
+               "id": 23958,
+               "order": 0
+            },
+            {
+               "cast_id": 16,
+               "character": "José",
+               "gender": 2,
+               "credit_id": "52fe434fc3a36847f804a863",
+               "name": "Armin Mueller-Stahl",
+               "profile_path": "/cKdfUl7EuUpBncwvJo2t3hYJPNi.jpg",
+               "id": 12647,
+               "order": 1
+            },
+            {
+               "cast_id": 17,
+               "character": "Maria Madalena",
+               "gender": 1,
+               "credit_id": "52fe434fc3a36847f804a867",
+               "name": "Debra Messing",
+               "profile_path": "/d2LQbdccJbMSDC9Qm6vTn4qa0Ly.jpg",
+               "id": 23959,
+               "order": 2
+            },
+            {
+               "cast_id": 18,
+               "character": "Poncio Pilatus",
+               "gender": 2,
+               "credit_id": "52fe434fc3a36847f804a86b",
+               "name": "Gary Oldman",
+               "profile_path": "/tofLS5A6lBXNjeROGvgpfe2JwaT.jpg",
+               "id": 64,
+               "order": 3
+            },
+            {
+               "cast_id": 19,
+               "character": "João Batista",
+               "gender": 2,
+               "credit_id": "52fe434fc3a36847f804a86f",
+               "name": "David O'Hara",
+               "profile_path": "/zPWpTV19nPLawd1E9A1jUDdcT2H.jpg",
+               "id": 2482,
+               "order": 4
+            },
+            {
+               "cast_id": 20,
+               "character": "Barrabás",
+               "gender": 2,
+               "credit_id": "52fe434fc3a36847f804a873",
+               "name": "Claudio Amendola",
+               "profile_path": "/wOLO9h2QvyrzWlG9dUpqhG3NAAc.jpg",
+               "id": 23961,
+               "order": 5
+            },
+            {
+               "cast_id": 21,
+               "character": "Caifás",
+               "gender": 2,
+               "credit_id": "52fe434fc3a36847f804a877",
+               "name": "Christian Kohlund",
+               "profile_path": "/6kiGbf4ml11wii9QnpwMHPHZsyg.jpg",
+               "id": 23962,
+               "order": 6
+            },
+            {
+               "cast_id": 22,
+               "character": "Maria",
+               "gender": 1,
+               "credit_id": "52fe434fc3a36847f804a87b",
+               "name": "Jacqueline Bisset",
+               "profile_path": "/ys2YfG4d26jUiGvok0jplWgUhzP.jpg",
+               "id": 14061,
+               "order": 7
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe434fc3a36847f804a813",
+               "name": "Roger Young",
+               "profile_path": null,
+               "id": 23946,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe434fc3a36847f804a819",
+               "name": "Suzette Couture",
+               "profile_path": "/1O7I84PgYZan9eqTdNTV82F4KVC.jpg",
+               "id": 23947,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe434fc3a36847f804a81f",
+               "name": "Roberta Cadringher",
+               "profile_path": null,
+               "id": 23948,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe434fc3a36847f804a825",
+               "name": "Russell Kagan",
+               "profile_path": null,
+               "id": 23949,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe434fc3a36847f804a82b",
+               "name": "Paolo Piria",
+               "profile_path": null,
+               "id": 23950,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe434fc3a36847f804a831",
+               "name": "Patrick Williams",
+               "profile_path": null,
+               "id": 7422,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe434fc3a36847f804a837",
+               "name": "Raffaele Mertes",
+               "profile_path": null,
+               "id": 23951,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe434fc3a36847f804a83d",
+               "name": "Benjamin A. Weissman",
+               "profile_path": null,
+               "id": 23952,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe434fc3a36847f804a843",
+               "name": "Barbara Giordani",
+               "profile_path": null,
+               "id": 23953,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe434fc3a36847f804a849",
+               "name": "Wendy Kurtzman",
+               "profile_path": null,
+               "id": 21812,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe434fc3a36847f804a855",
+               "name": "Paolo Biagetti",
+               "profile_path": null,
+               "id": 23956,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe434fc3a36847f804a85b",
+               "name": "Giovanni Viti",
+               "profile_path": null,
+               "id": 23957,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe434fc3a36847f804a881",
+               "name": "Cornelia von Braun",
+               "profile_path": "/ddrwUg31gx9cTDqjPAAFLa9DQH1.jpg",
+               "id": 21072,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5782cca6c3a3685c840021f4",
+               "name": "Jeremy Zimmermann",
+               "profile_path": null,
+               "id": 8313,
+               "department": "Production",
+               "job": "Casting"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "History",
+            "id": 36
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         }
+      ],
+      "popularity": 5.235217,
+      "production_countries": [
+         {
+            "iso_3166_1": "CZ",
+            "name": "Czech Republic"
+         },
+         {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+         },
+         {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+         },
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         }
+      ],
+      "id": 2331,
+      "vote_count": 10,
+      "budget": 20000000,
+      "overview": "The film is notable for presenting a more human Jesus, compared to more solemn portrayals in earlier films; here Jesus laughs and cries like anyone else. Among other things, he weeps at Joseph\u2019s funeral, throws stones in Lake Galilee when meeting Simon Peter and James son of Zebedee for the first time, dances at the wedding at Cana, and starts a water-splashing fight with his disciples as well. Satan is portrayed as a man in modern dress (and as a woman in red). During his temptation of Jesus, he shows him the Earth from the vantage point of space. Satan also shows Jesus images of wars and destruction carried out in his name. The film adds an apocryphal Roman historian named \u201cLivio\u201d who watches and comments as events unfold; he is presumably named after Livy.",
+      "similar": [
+         335778,
+         615,
+         6844,
+         583,
+         235260,
+         11051,
+         1813,
+         324786,
+         9946,
+         12545,
+         310,
+         5876,
+         13363,
+         9411,
+         7340,
+         1023,
+         30998,
+         45139,
+         1683,
+         46332
+      ],
+      "original_title": "Jesus",
+      "runtime": 240,
+      "poster_path": "/jkyll5jAzT6UT8gFp40e0iWzdYA.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Italiano",
+            "iso_639_1": "it"
+         },
+         {
+            "name": "Português",
+            "iso_639_1": "pt"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Česká televize",
+            "id": 5928,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Five Mile River Films",
+            "id": 974,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Beta Film",
+            "id": 1080,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "CBS Television",
+            "id": 1081,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Lux Vide",
+            "id": 1082,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1999-12-25",
+      "vote_average": 5.2,
+      "belongs_to_collection": {
+         "backdrop_path": "/21bK2Eg8kEMu9OsQvP4MoofBXSF.jpg",
+         "name": "The Bible Collection",
+         "id": 2704,
+         "poster_path": "/neB5ufQZdq0NxLBJYkgQRhIQfdE.jpg"
+      },
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Czech Republic",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": [],
+      "runtime": 240,
+      "synopsis": "The movie starts just before Jesus began his ministry and taking the viewer through His baptism, ministry, death, resurrection, and ascension.",
+      "writers": [],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0199232/",
+      "coverLink": "https://ia.media-imdb.com/images/M/MV5BOWNhYWIzNmQtN2ZhYy00NmU3LTg0ODctNzdiYTAyZjZkZjBkXkEyXkFqcGdeQXVyNzMwOTY2NTI@._V1_UY268_CR0,0,182,268_AL_.jpg",
+      "actors": [
+         "Jeremy Sisto",
+         "Debra Messing",
+         "Armin Mueller-Stahl"
+      ],
+      "reviews": [
+         "Seeing Mel Gibson's \"The Passion of the Christ\" made me want to re-watch this CBS Mini-series. What a compassionate, loving movie! Jeremy Sisto was excellent in the title role. This film was helped greatly by good music and costumes and excellent F/X. The most difficult thing about \"Jesus\" is it's flawed script and dumbed-down dialogue. Thats OK, it more than makes up for it. Sisto's Jesus is so human, so full of love and compassion. Debra Messing was an fine choice for Mary Magdalene and Jaqueline Bisset a surprisingly effective Mary. They take lots of chances. Jesus is shown as the perfect priest, telling Mary of Bethany that his \"life is not my own\" and loving everyone as His Mother, sister and brother. What a beautiful message! The final hour of the film is the the best part, The brutal crucification and the playing of \"Pie Jesu\" over Jesus' burial moved me to tears. The resurrected Christ is shown joyful and smiling!!!!! This finally is Jesus, who could find joy in clear skies and still waters, who tell his apostles, in a brilliantly done \"upper room\" that he is \"with them always\". In other films they act like the story is over after Easter Sunday. In \"Jesus\" we know it is just beginning. Highly recommended.",
+         "From the opening sequences of the film, I knew this would be a \"different\" movie about Jesus from others I had seen. I am not implying, by any means, that there is anything \"faulty\" about other versions, such as \"Jesus of Nazareth\" and \"The Greatest Story Ever Told\". Both are quite accurate and reverent accounts of Jesus Christ's life and ministry, and are among my favorite re-tellings of Jesus' story. I also extend praise to \"The Last Temptation of Christ\", a great production as well, because it proposes a unique, albeit controversial, question on what Christ's significance and impact on humanity would have been if he had not died on the cross. What makes \"Jesus\" one-of-a-kind is that it takes the main elements of the three aforementioned films and skillfully blends them into a portrait of Christ as a man who was, very much, both human--experiencing temptations and doubts, and having wants and needs such as the desire to lead an average life: working as a carpenter, possibly marrying and raising a family--and divine, performing miracles and healing the sick to support the message of God's love of all humankind. \"Jesus\" is definitely a fresh, yet dignified and very believable depiction of a man, his life and mission, all of which continue to be somewhat of a mystery to many.",
+         "I recently rented this version of the story of Jesus and find myself impressed with its message. This vision of Jesus focuses on his humanity and mission, rather than on his divinity. Jeremy Sisto captures a happy Jesus with the weight of salvation on his shoulders. Jacqueline Bisset and Debra Messing find a solid voice as two of the most important women in the story of Jesus. I believe the movie gives a unique and balanced viewpoint of Jesus, different from the too-divine vision of \"The Greatest Story Ever Told\" and the too-human vision of \"The Last Temptation of Christ\" and without the gore of \"The Passion.\" Christians and fans of historical cinema would enjoy this movie, its message, and its style.",
+         "This is the best version of a Jesus film I have ever seen. Realistic, made so by the human emotions and the diverse personal viewpoints casually merged with the storyline. It seems everyone gets to see it from their perspective without the story of Jesus losing the focal point..Jesus.. Jesus is portrayed as I have come to see Him. Truly the Son of God while having lived as a human being. Laughed, joking, crying, in pain, alone and truly human while still doing the will of the Father and triumphing gloriously. I couldn't stop crying throughout, it was as if I was there. \"Jesus\" is brought without giving offense to Christians and non-christians alike. Brilliantly played by Jeremy Sisto, giving Jesus the human side so sadly lacking because of the mostly \"holy\" attitude forced upon Jesus in earlier films. A special mention for Jeroen Krabbé who excellently portrayed the devil in a way that follows the description the Bible brings, far from weak but wily, devious, power hungry, scared and very much aware of his position in the grand scheme of things and of his ultimate defeat. The filmography, lighting and scenery were done exceptionally and add to the experience. Heartily recommended.",
+         "I am glad that someone has finally portrayed Jesus as a man and not as an angelic Superman. This is a Jesus that I could follow. A Jesus that joked with his friends and yet they knew He was more than just a man. A Jesus who could fall into temptation and yet knew he had a higher calling. I'm sure that some will be upset with Sisto's Jesus as being TOO modern, but he portrayed Him as a Christ for all the ages. I wish that more biblical movies would have their characters as human beings and not cardboard cut-outs.",
+         "Forget Mel Gibson's \"The Passion of the Christ\". \"Jesus\", the television mini-series first aired in 1999, and reprised (the second half only) in March 2004, offers a more comprehensive view of Jesus' ministry, mission, death and resurrection. It provides a better understanding of the reason for His death -- not so much the result of political infighting between Romans and Jews, as Jesus' acceptance of His Father's will that humanity should be redeemed by one deed, one life of perfect obedience and love. Sure, there are some historical improbabilities in the mini-series. For one thing, Pilate (Gary Oldman) and Herod are shown as being on good terms with each other. The Gospels tell us they did not become friends until the day Jesus died. The calling of the apostles looks amusingly as if Jesus is choosing up sides for a game of scrub, followed by a group hug. But the crucifixion scene is accurate in its detail, yet not as excruciating (I use the term deliberately because it is derived from the Latin noun \"crux\" or cross) as Gibson's gorefest. There are also some other very nice touches. Chief among them is Jesus' temptation by Satan, played by Jeroen Krabbe, attired as a 21st-century corporate executive. Satan tries to convince Jesus (Jeremy Sisto) that His sacrifice will be in vain because humanity will use religion to perpetrate acts of hatred such as the Crusades. He suggests that, with a wave of His hand, Jesus can make humans and life on earth perfect. But that would mean denying people freedom of choice. Jesus resists the temptation, believing in the power of love freely chosen. Debra Messing (\"Will and Grace\") turns in a very creditable performance as Mary Magdalene. So does Jacqueline Bisset as Mary, the mother of Jesus. The raising of Lazarus is a very powerful scene, and Jesus' own resurrection goes beyond the empty tomb to its effect on the apostles -- something Gibson fails to show. \"Jesus\", the TV miniseries, succeeds where Gibson's movie fails -- by showing less passion, and more compassion.",
+         "I have just recently rented \"Jesus\" and I have watched it about 3 times and I'll probably eventually buy it. I absolutely loved this interpretation of Jesus and feel that this movie has brought me closer to him. I now have a more lovable, happy, and caring picture of Jesus in my mind, not that I didn't think of him that way before, it's just that this movie puts across a side of Jesus that we have not often seen in other movies. Watching this movie has just brought him to life for me and (even though I undoubtedly knew that he was real before) makes him seem even more real to me now. I love the fact, like so many others, that this movie portrayed Jesus to be HUMAN, happy, laughing, crying, and all the other emotions that we all, as humans, go through. Only he was not just any human. My absolute favorite part in the movie is when Jesus is crucified. Even though it might not have been long enough, it still captured the pain and agony that Jesus felt. It made my heart break watching this scene, and made me love him and appreciate him even more for the price he paid for us.",
+         "What a mess this film is! This unneeded \"update\" of the story of Jesus Christ has the depth (and feel) of a Calvin Klein commercial. I guess they felt that no one would pay attention unless the dialogue was written to sound like a 1990's soap opera set in Los Angeles...and the devil made to seem like a game show host. I appreciate the effort, but unlike an earlier attempt at \"modernizing\" the Jesus story (\"Jesus Christ Superstar\"), this thing falls completely flat and really has a ludicrous, bad feeling to it...the power of the story is completely lost.",
+         "This is yet another attempt to show a more \"human\" Jesus, and ends up showing him as indecisive, hesitant, weak, and needing the help and guidance of a few mortals to get him through. That is hardly the Jesus most Christians believe in. On the positive side, it does show a more playful and humorous Jesus, instead of merely a stoic and sterile portrayal. But this is quickly drowned out in the story's failures. By far the biggest fault in this story is that it starts off from the very beginning with an *agenda* - that is the Jews are completely blameless and all the guilt falls on the Romans. It even warps scripture to portray this. In the Gospels you read how Jesus makes attacks on hypocricy and the false piety of the scribes and Pharisees; in this film they're nowhere to be seen. For the Sermon on the Mound Jesus is mocked and argued down. In many instances Jesus looks more like just some guy chosen to be the Christ, instead of a Messiah sent from God. The second problem with the story is that it's just too hard to tell the Gospel in 4 tv hours. And some of that is wasted on a cool looking Satan in an Armani suit leaving the Gospels altogether and taking Jesus on a time trip. In short, if you want a far more uplifting and accurate portrayal, see Zeferelli's \"Jesus of Nazareth\". It's still the creme de la creme of the story of Jesus, and after seeing it you'll know how weak Jesus (1999) really is.",
+         "Quite possibly the worst Jesus movie I've ever seen. I know \"artistic liberties\" are taken in all movies, but this script molested the Bible, and the writer should be called before a Tribunal at the Hague for torturing Scripture. I didn't mind Jesus being considerably more light-hearted than in most movies (even though Isaiah describes Him as \"A man of sorrows and acquainted with grief\"), but I did resent the gratuitous liberties taken with actual Bible accounts. Whether it's the depiction of the Christ announcing his impending death to His mother, the death scene of His earthly father Joseph, the timing and method of choosing the 12, the extremely poor sound mixing ... well, it would take a pamphlet to cover every insulting aspect of this illegitimate facsimile of a \"Bible\" movie. The kindest thing I can say for this production is that Debra Messing made a drop-dead gorgeous hooker, Mary M. From all other errors in this movie, I wouldn't expect the writer to do a bit of research and discover that Magdalene actually wasn't a prostitute. I turned it off after Jesus told His mother that He would die in a couple days. So, I agonized through much of it, but enough was enough. I don't know what Suzette Couture is doing for a living nowadays, but it should be criminal if she is still trying to impersonate a writer. I don't want to sell the movie on Ebay; my conscience wouldn't let me do that. Maybe I'll sail it like a Frisbee and let the pieces fall where they may. I do know I wouldn't recommend it to anyone.",
+         "After becoming enchanted by Jeremy Sisto in the recent TNT \"Caesar\" I bought this film. Being a Christian, I have always been left flat by the way Jesus is portrayed in film and pulpit alike. For Christ to have successfully died for my sins, He had to be like me. He had to share my emotions, my temptations, and my pain as well as my happiness, joy and love of life. He had to triumph over those human weaknesses when I can not. IF it were not so, He did not complete God's plan. Sisto's portrayal did not leave me disappointed in him, OR in my Christ. Jesus in this film is a man who loves life, loves people, and loves his God. This is not a Jesus who seems to withdraw into the knowledge that he is destined for early death, but rather embraces those for whom he will die. The Crucifiction scene left me shaken and on my knees in praise and thanksgiving. This Jesus did not meekly or stoically have his life taken. The howls and screams of pain and rejection from his God left me in tears and weak. When crying to God asking why he had forsaken him, every muscle in Sisto's body was shaking. Truly a shattering event when you have come to see your Lord in this man's portrayal of the Christ. When Christ says he will be with us \"always\" I believe him and I am thankful. Truly a masterpiece, but without Jeremy Sisto's performance and vision, I'm not sure this film works as well. With it, it's a 10 of 10.",
+         "Poor casting choices and terrible dialogue coupled with cheesie camera angles and bad cinematic clichés make this a very forgettable journey into biblical history. In this film, Christ seems to be oblivious to his mission as he stumbles through Israel with a coy grin and too much Ben Nye. A few good actors get lost in the jumble. My feeling is that the makers of this film wanted to humanize Jesus. This is demonstrated early on as the movie wallows in Jesus's early years, spending at least 30 dull minutes dwelling on a girl who is infatuated with Jesus and wants to marry him. Later, we get to see Jesus turn water to wine at his cousin's wedding. This miracle is reduced to a ridiculous parlor trick, as are the rest of his miracles throughout this film. This is a great example of why people who don't understand the Bible shouldn't make movies about the Bible. Don't buy it, don't rent it. Forget it. Read the bible instead. God made the world in six days. This film looks like it was made in two.",
+         "Shame on the makers of this film. I agree, this movie is an abomination! In this version, John the Baptist tells Jesus to repent of his sins. Jesus had NO sins! That's why He was able to redeem us of our sins when He was crucified. Mother Mary has to prompt Jesus to go out into the world to find His way??! WRONG! Jesus needed NO prompting to do God's will and accomplish His mission. Jesus knew exactly who he was from the time he was a small child, which is why he stayed in His Father's Temple at 12 years old. Nothing in this film is scripturally accurate! It's disgusting and pathetic. Watch \"Jesus of Nazareth\" starring Robert Powell, which is the closest-to-the-truth film version that you will find about our Lord Jesus Christ.",
+         "What poor acting, poor story telling and completely unbelievable \"Jesus\" as it pertains to Biblical accuracy. The movie never establishes character building of any of the apostles and the time-line sequence of the story is haphazard. Jeremy Sisto's acting was better suited for a Saturday afternoon lifetime channel B movie sleeper than that of portraying \"Jesus\". He had the attitude of Jim Morrison in the \"Doors\" movie than a serious portrayal of the messiah. The dialect, modern day language and Satan in an Armani suit looking like a car salesman was all unbelievable. Very disappointing. People who make movies of Jesus and the bible have a huuuuuuuuuuge responsibility to get it right. It was the Jesus of Nazareth movie (1977) that started my journey in becoming a believer and I had to laugh through most of this attempt. Shamefully awful.",
+         "I was hideously appalled at this Soap-Opera version of the Life of Jesus. Jeremy Sisto did not portray Jesus in a divine light. I was unconvinced that his character even had a clue he was the Son of God. He acted like it was a surprise. Like Jesus woke up one morning and went, \"I am the Son of God?\"....\"No Way\"..... blasphemy. Jesus did Fully GOD and fully man. Period! He knew always! The Fact is that Jesus was never in love with Mary. Either Martha's sister or the prostitute. This film adds so many unbiblical ideals, that 90% of the movie is not even found in scripture. The bible never showed Jesus' mother Mary and Mary Magdalene as friends. There are so many biblical screw-ups in this film. My advice is do not watch it. It will lead you away from the scriptures. It will put ideas in your head about the Bible which are not true. Avoid this blasphemous work of trash and read your bible. There is the only true account of Jesus Christ of Nazareth. I ordered it off of Amazon. I am taking it tomorrow to sell. Trash!",
+         "I saw the first part of this mini-series a few years back when it was on. My wife and I rented it a few weeks back because I remembered wanting to see the rest of it. What a wonderful movie! I have a Seminary Degree and am the pastor of the church and I have ordered a copy of the DVD to use with the Youth Group of the church I am serving. Finally, we see Jesus as he most likely was. He isn't the stiff character we have seen in other installments of the Gospel story. Those who call this movie blasphemy must not have read too many pages of the Gospel. Jesus was considered an undisciplined by many people including his mother (Matthew 12:46-50). Of course, we all know today that an undisciplined person would not have been able to bear the cross, not to mention sacrificing Himself for others. Christ offers us new life, and this mini-series offers new life to a colorful, wonderful, and historical story about our Savior, Jesus Christ. Was there some creative license involved in this production? No doubt there was. But the basic story was the same. Christ was born, he lived and taught and healed. He faced execution for crimes He did not commit and He left the tomb three days later alive. That is the story we get here. All of you critics of this mini-series relax. It could have been a whole lot worse.",
+         "This film honors the last three years of Jesus of Nazareth, his crucifixion and resurrection. It is the study of a great man, and projects the consequences of His teachings into the present. Raised Catholic, I left the church at 16 after many missteps by both myself and the church. For instance, I was taught at an early age that anyone not baptized in the Church would suffer eternal damnation. I questioned the priests about the souls of the billions who had never heard of Christ, the millions baptized in other faiths. I never heard a logical answer. So I became a fallen away Catholic, searching years for a spiritual home. 10 years ago I found refuge in Red Tara practice, a branch of Buddhism that honors Tara, Mother of the Victorious Ones. That's a sidebar, but an important one as you read this review. Right out of the chute, it is very brave for storytellers to tackle a comprehensive biography about any avatar, and do it in a fair, open minded manner. Filming it is complicated further by all the behind the scenes politics, egos, financing, and Hollywood glamor. Consider also the legion of religious institutions that have sprung up in 2000 years staking claim as the one true faith of Jesus Christ, and the task is quite formidable. The production values are impressive. Perhaps the times are not presented as gritty and dirty as they must in fact have been, but the historical and anecdotal research has been extensive, and sincerely executed. Though there are CGI sequences, my imagination was gratefully allowed to rest in many \"real\" locations. Future producers of this Holy story be forewarned! Jesus did not deliver His sermons to computer generated crowds, and God willing never shall! There is a disappointing lack of racially diverse casting, a glaring fault compounded by many Western European accents, including a standout Scottish brogue in the mouth of John the Baptist. Despite these faults, the filmmakers show quite a bit of rapport for not only the Master and his followers, but His opponents, specifically Caiaphas, Pilate, Herod, and Judas. I was particularly taken with the script's focus on the \"character\" development of these antagonists in social and political contexts presented with painstaking clarity and compassion. One example: Judas' portrayal was a startling revelation of a man dedicated to the overthrow of Roman and Jewish authoritarianism. On his revolutionary course Judas crosses paths with the Master, who invites him to become one of His apostles. As Judas' sees it, if in fact there is a Messiah, and if Jesus proves to be the Messiah, that Messiah must lead the violent overthrow of the entrenched and corrupt status quo. Judas has reason to believe Jesus is that Messiah. After all, he witnesses incidents in which the Messiah's actions might favor such a revolution, i.e., the violence with which Jesus throws the money changers out of the Temple. As Jesus preaches, lives, loves, harmonizes, a schism widens between Apostle and Master that ultimately leads to betrayal. Well known as that betrayal is, what is thought provoking and even haunting here is that the complex relationship of Master and Apostle is developed and nurtured by the Christ, who knew (and did not keep it secret) that Judas would in fact betray Him. This film's portrayal allows the viewer to experience the complexity on a personal level, thereby opening up to the viewer a sense of freedom regarding interpretation of the Scriptures. (The film's greatest gift is this freedom to challenge the sacred text.) It explodes the myth of the Evil, Despicable, and Damnable Judas. Neither does it let him off the hook. One can reject the details; however, one cannot reject the sincerity with which the enigma of Judas is investigated. The film opens the way for the individual to test and surmise, even penetrate the betrayal of God by man in ways uncharted heretofore -- especially by the individual seeker. It is mentally exhilarating to explore with the filmmakers the historical currents and events in the background through which a person of New Testament times -- be it Jew, Roman, priest, gentile -- moved. Seeing Jesus negotiate those currents gave considerable weight to the Word Made Flesh doctrine; it gives Jesus substantiation, because he is vulnerable to what all human beings face regardless of space and time. Its one thing to tell me to love God and my neighbor, another to witness it in practice, and quite another to personally realize it's practice in the context of Roman occupation, civil unrest, and scriptural wrangling and money changing in the temple. The film gives me concrete clues as to how I might actively embrace the Golden Rule in my daily practice in a world equally chaotic. The strongest element in this film is the portrayal of Jesus (Jeremy Sisto) in script and performance as a person that I could not only relate to, but found I liked. Here's a person with extraordinary powers and insights, who lives moment to moment, embracing life. Too often the church(es) portray Him as a divinity without a clue about food, children, marriage, joy, finances, politics, and so on. Not this Jesus. He is no longer a mystical, mythical figure out of reach because of teachings and traditions and institutions and time long gone. Seeing Him walk so carefree and carefully in a tumultuous, dangerous era, gives me hope, confidence, and above all a God given sense of freedom on the road to spiritual awareness.",
+         "To say that this Jesus blew righteous chunks is to insult the blowing of chunks everywhere. Hubby and I lasted five minutes with the bad Jesus movie, during which time we groaned, we laughed, we mocked the production values. I know you're dying of curiosity, so let me just highlight a few aspects of Really Bad Jesus Movies and How to Avoid Them. 1. \"Holy\" does not equal \"Constipated.\" Bear this in mind while watching. 2. If the actor's idea of Jesus involves a lot of turning his face into the light and attempting to look \"beatific\" WHILE playing the Son of God as an irrevocably constipated surfer-dude, change the channel. 3. A man whose personal charisma induced people to fundamentally change their lives and beliefs probably didn't deliver his sermons like Al Gore on 'ludes. Also, see #1 above for further clarification. 4. If the production values for the Walking on Water scene resemble something filmed in your bathtub, change the channel. Also, if the Walking on Water scene reminds you of the old Cars video for \"It's Magic,\" just give up and go to bed. 5. I am fairly certain that the inhabitants of the Holy Land did not punctuate every utterance by either flailing their arms, rolling their eyes beseechingly heavenward, or dropping to their knees. 6. Overwrought soundtrack? Why yes, yes it is. NEXT! 7. Lots of eyeliner = visual shorthand for morally compromised. See: Mary Magdalene and Judas. It makes you want to yell at the screen: \"No, Jesus! Don't trust him! Don't you see he's just a shill for Mary Kay? This can only end badly!\" 8. Language--for folks brought up with the King James version, hearing classic Biblical quotes spoken as, \"you have little faith,\" makes you long for Aramaic. 9. The soft focus and back lighting. Please. It's just too Touched By An Angel to be taken seriously. Holy. We GET IT. 10. Repeat after me: Jesus? Not a hippy. I know he wore robes and sandals and had longish hair and a beard, but there's a difference between period-appropriate costuming and hippie wear. The former actually involves some grooming. There. I hope my list will be helpful to you, particularly in the two weeks before Easter, when Jesuses (Jesii?) will be everywhere. Watch at your own risk.",
+         "I am amazed to see how many \"life changing\" reviews there were on this movie. Don't get me wrong, I think that is a wonderful thing regardless of my opinion of the movie. That is what makes the world a wonderful place - our uniqueness... Having said that, I would like to offer what appears to be my unique opinion of this movie. I was actually very disappointed in the results. I felt as though Jesus was portrayed as a weak and doubting figure. The best word I can come up with in how He was portrayed was \"flippant\". Even his disciples appeared unsure of Him at times. While I appreciated the effort to portray Jesus as a smiling and loving man, I think it was overdone. It was so much the focus of His character that I believe his strength was lost. Certainly the Son of God would have had more conviction in his actions and words than what was portrayed. When I think back on the movie, all I can remember is Jesus twirling around laughing. I don't remember them spending any amount of significant time on His teachings. This is another area in which I feel a movie such as \"Jesus of Nazareth\" really excelled and this one fell short. They also seemed to take some liberties where scripture is concerned and added a few \"twists\". Nothing personal, but I would rather stick to God's version, not man's. It is, after all, His book...",
+         "My entire family enjoyed watching this presentation of \"Jesus\" vs. the present day film,\"The Passion\",'04 with less violence which is entirely unnecessary, which of course is my opinion!! Jeremy Sisto,(Jesus),\"Manfast\",'03, put his great talents to work in his portrayal of JESUS and even showed Jesus had a good sense of humor in some of the scenes. Jacqueline Bisset,(Mary),\"Fascination\",'02, was excellent as the Mother of Jesus and acted out great pain and suffering she had to endure. Debra Messing(Mary Magdalene),\"Will & Grace\",'98 TV Series, showed great repentance for her sins as a woman of the streets and showed great joy when she found out that her Lord was ALIVE! This film showed all the important Biblical facts of the Passion of Christ which my entire family was able to view.",
+         "Couldn't watch more like about ten minutes of this. Jesus walks by Mary (Martha's sister) and she eyes him and obviously has a crush on him and he gives her a suave look. Latter someone asks Jesus to marry Mary. Then Mary eyes him again and Jesus looks but tries to avoid looking at her. It was just insane. Then Jesus makes a joke about Joseph not helping him... Too humanistic. Jesus was like a model off a catwalk! Yes Jesus was human but he was also our LORD and saviour and the Son Of GOD. Not a man from 1999 from America. The bible series did a much better job with their other films. It's a shame this so bad. I understand they wanted a \"human Jesus\" but they made him far too human from what I saw. This is not the nature of GOD. The 'Gospel of John\" with Selva Rasalingham and Robert Powell's \"Jesus of Nazareth\" (not seen this fully yet) are more my cup of tea. The more \"human\" Jesus i felt was portrayed better in \"Gospel of John\" with Henry Ian Cusack. I loved that film! He was not portrayed as a joker or giving the \"Oh yeah I have the life\" type of vibe Made me feel sick. Total blasphemy.",
+         "I just finished watching \"Jesus\" on CBS and it was a terrific movie. It is the best mini-series I have ever seen! This time of year all the major networks come out with all kinds of different mini-series. For example: NBC had \"Jason and the Argonauts\"(if thats how you spell it); ABC had \"Arabian Nights\", which was O.K., but \"Jesus\" was a whole lot better than those two. The acting was great! Jeremy Sisto was a terrific as Jesus. It was a well-cast film! This film is great for all ages. I'm 17 and I enjoyed it, yet I was the only one in my family to watch it. It was a great film all around.",
+         "Now I know why Muslims ban any depictions of the prophet Mohammed. When I saw this movie I was schlocked and awed by the casting. Admittedly, I've seen it in rerun, but seeing Billy from Six_Feet_Under play Jesus opposite Grace from Will_and_Grace's Mary Magdalen gave me a new level of respect for The_Life_of_Brian. The dialog was trite, and the treatment of Jesus as charismatic guy really detracted from his mission and message. The scene with Satan the greaser showing Jesus the shape things to come was boring and I think some footage of televangelists and right-wing, hate mongering Christians would have been thought provoking. I haven't seen, nor do I intend to see, The_Passion..., for the same reason I abhor seeing Captain Pike from the Star Trek pilot episode portray my Lord and Savior. But of all the treatments of the life, death, and resurrection of Jesus, this one was the hardest to sit through. Here's the spoiler: When Jesus gets crucified, don't worry, because he rises from the dead and the government and organized religious types are powerless to prevent a new way of thinking of God as a \"daddy\" and not some \"Big Brother\" figure waiting for us to screw up. In about 500 years, though, the government and organized religious types get together and are able to pervert Jesus original message to the point where people kill each other.",
+         "I called the CBS store and bought this film as soon as I could after seeing it on TV. This was Christ the way I wanted to believe he was (and is!). Kind and charismatic. It would not be an understatement to say that this movie changed my life. I cried the first time that I saw this mini-series, and am moved each time I see the film. When the mini-series came out on tv, I was going through a cynical period of my life. Now, whenever I feel cynical, I picture Jesus as he was portrayed here, and it strengthens my faith. While Christ said, \"blessed are those who do not see and believe\" (rough quote), it is harder to believe if we cannot picture him. We all need to picture Christ in our minds, and not having him physically with us makes it hard at times to remember that he exists. Jeremy Sisto's portrayal gave us something to latch on to, and made the divine more human."
+      ],
+      "genres": [
+         "Biography",
+         "Drama",
+         "History"
+      ],
+      "productionCompanies": [
+         "Antena 3 Televisión",
+         "Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland (ARD)",
+         "Beta Film"
+      ],
+      "summaries": [
+         "Jesus dreams of a medieval battle in the name of Jesus Christ and of a dying world war soldier who, in desperation, calls out the name: Jesus. Jesus awakes, distraught. What is the meaning of this nightmare? Why are these strangers using his name? Jesus is a simple carpenter, like his father Joseph. Both are presently looking for work, but they've been wandering for days from town to town without finding any. Times are difficult in Galilee. Roman taxes are stifling the country. The hated Jewish tax collectors, viewed by the people as traitors, rob people of their last means of subsistence. Revolts and bands of revolutionary thieves are spreading uncertainty throughout the land. Herod Antipas, the Jewish king, is merely a weak shadow of his feared father Herod the Great. The real power lies in the hands of Caiphas, the high priest. To strengthen his position, he plays the Jewish interests against the Roman interests with religious fervor. His most dangerous opponent is the new Roman procurator, Pontius Pilate. This hard, people despising military man has an ideal comrade in arms in the cynical author and spy Livius. The two callously attempt to keep rebellious Judea under Roman control. Countless crosses with executed rebels line the streets. The Romans, however, observe the growing power of itinerant preachers and prophets with suspicion. The most influential of these prophets is John the Baptist. He fearlessly condemns Roman lust for power, the decay of religious customs and the reprehensible immorality in the house of Herod. After Joseph's death, Jesus feels abandoned and lonely. He believes that he is not yet strong enough to take up his calling. Then his mother Mary tells him how an angel once revealed to her that she would bear a son, and she tells how determinedly Joseph declared his support for this miraculous child, despite the fact that it was not his own. Further, Mary describes the foreign kings who paid homage to the newborn child. Jesus now realizes that it is time for him to follow his calling. He takes his leave from his previous life and from Mary of Bethany, the woman who loves him. From now on, his life is to be completely devoted to his great mission. Jesus visits John the Baptist. In their childhood days, Joseph raised these two as brothers. They remember their first shared visit to the temple, as well as the fact that, back then, it was Jesus who, as a 12 year old boy, went to the temple without his parents' knowledge, in order to teach in his father's house. Now that Jesus is ready to take up his calling, John agrees to baptize him. At the baptism, a glowing dove appears and a voice calls Jesus by name. After the baptism, Jesus retreats to the desert, alone, to meditate. There, Satan appears to him in the form of a beautiful, beguiling woman and a man in contemporary street clothes. Satan shows Jesus all the unhappiness that his teachings will one day bring to humanity and offers him in exchange real, unlimited power over the Earth. Jesus resists the temptation and, now steadfast, returns home. The first disciples are already slowly beginning to gather around Jesus. They still have doubts, however, as to whether their master is really the heralded Messiah. Only Mary trusts in her son. When the wine runs out at her nephew Benjamin's wedding, she is able to talk Jesus into giving everyone a visible sign of his divine heritage. Jesus asks to have the amphora filled with water and transforms it into wine. This miracle allays his disciples' doubts. Through miracles, Jesus succeeds in allaying the doubts of Simon the Fisher and even those of Thomas, the skeptic. They, too, follow him. At the same time, however, Jesus continually perplexes his followers with his incomprehensible behavior. He shuns the Jewish freedom movement lead by the wild Zealot leader Barnabas, for example, and instead accepts the invitation of Matthew the tax collector. Matthew, too, becomes a follower of Jesus, despite the other disciples' mistrust. When a recently discovered adulteress is to be stoned by an angry mob, Caiphas sees his chance expose to Jesus. He invites the crowd to demand a verdict from Jesus. Jesus, however saves the desperate young woman by declaring that only he who is without sin himself may cast the first stone at her. Ashamed, the mob disperses. Deeply moved by this scene, the former prostitute Mary Magdalene joins the disciples. When Jesus wants to go with his students to the temple to pray, he finds the temple court full of traders and money changers. Suddenly overcome with rage, Jesus hurls their stands to the ground and, wielding a whip, drives the profiteers out of the temple. When neither the Jews nor the Romans show signs of resistance, it becomes clear that Jesus will play an important role in Judea's future religious and political development. John the Baptist, in the meantime, has been executed at the wish of Queen Herodias, the wife of Herod Antipas. Jesus mourns his loss greatly, but he can hardly give in to his pain, as more and more people are coming to him to hear his teachings, even though many of these still seem strange and incomprehensible. For example, Jesus preaches that God favors the meek, the poor and the faint. Above all, however, he doesn't put strict observance of the laws first, but rather love of one's fellow man. Jesus doesn't even shun non-Jews, to his disciples' dismay. All attempts by the ambitious disciple Judas to give Jesus' teachings a political twist fail. Judas is forever trying in vain to gain Jesus' support for the Zealots' freedom fight. Finally, when Jesus brings Lazarus, who is dead and has already been lying in his grave for several days, back to life in front of several onlookers, his popularity knows no bounds. Sitting on a donkey, Jesus rides into Jerusalem and is received like a king by an enormous crowd. Caiphas sees a real threat to his religious authority. He goes to Pilate, who, in fact, officially wants to have nothing to do with Jewish religious matters, but secretly has already planned Jesus' death, together with scheming Livius. He was just waiting for Caiphas to take the initiative. This way, Pilate can pretend that he is merely carrying out the will of the Jewish authorities and does not have to take any personal responsibility for Jesus' death. Jesus himself knows quite well that his death is inevitable. At a last shared supper, he bids his disciples farewell. He tells Judas, however, that he should listen to his conscience for a change. Judas has long been contemplating delivering Jesus to the authorities in order to provoke a rebellion and thus to force Jesus to take political action. He leaves the meal to betray Jesus' location to Caiphas' henchmen. Jesus spends his last hours of freedom with select disciples in a garden near Jerusalem. Again Satan appears to him and tries to talk Jesus into avoiding his death. He tries to convince Jesus that, not only will his death be meaningless, but quite the contrary: it will bring that much more suffering and atrocity into the world. He shows him religious wars and witches being burned. But Jesus believes in the love in people and surrenders to Judas, who is approaching with Caiphas' henchmen. While Jesus is being sent back and forth between Caiphas, Pilate and Herod in a cruel farce, being brutally whipped all the while, his disciples hide in fear. Even courageous Simon, who Jesus once called Peter, the rock, denies knowing his master. Jesus is sentenced to death. Undergoing dreadful torture, he is crucified on a hill near the city. When he dies, the sky becomes dark and an earthquake rocks the land. The disciples take him down from the cross and bury him in a cave. Three days later, however, they find the cave empty. Jesus, alive, appears to them and commands them to proclaim everywhere that love has conquered death. Even doubtful Thomas has to believe the miracle when he is allowed to touch the crucifix wounds on Jesus' hands.",
+         "A movie about the life, work and death of Jesus as we know it from the Bible."
+      ],
+      "budget": 20000000
+   },
+   "movielensId": 175117,
+   "movielens": {
+      "languages": [
+         "English",
+         "Italiano",
+         "Português"
+      ],
+      "releaseDate": "1999-12-25",
+      "dvdReleaseDate": null,
+      "directors": ["Roger Young"],
+      "runtime": 240,
+      "movieId": 175117,
+      "title": "Jesus",
+      "mpaa": "",
+      "actors": [
+         "Jeremy Sisto",
+         "Armin Mueller-Stahl",
+         "Debra Messing",
+         "Gary Oldman",
+         "David O'Hara",
+         "Claudio Amendola",
+         "Christian Kohlund",
+         "Jacqueline Bisset"
+      ],
+      "imdbMovieId": "0199232",
+      "originalTitle": "Jesus",
+      "genres": [
+         "History",
+         "Drama"
+      ],
+      "youtubeTrailerIds": [],
+      "plotSummary": "The film is notable for presenting a more human Jesus, compared to more solemn portrayals in earlier films; here Jesus laughs and cries like anyone else. Among other things, he weeps at Joseph\u2019s funeral, throws stones in Lake Galilee when meeting Simon Peter and James son of Zebedee for the first time, dances at the wedding at Cana, and starts a water-splashing fight with his disciples as well. Satan is portrayed as a man in modern dress (and as a woman in red). During his temptation of Jesus, he shows him the Earth from the vantage point of space. Satan also shows Jesus images of wars and destruction carried out in his name. The film adds an apocryphal Roman historian named \u201cLivio\u201d who watches and comments as events unfold; he is presumably named after Livy.",
+      "tmdbMovieId": 2331,
+      "avgRating": 3.5,
+      "releaseYear": "1999",
+      "numRatings": 1,
+      "posterPath": "/jkyll5jAzT6UT8gFp40e0iWzdYA.jpg"
+   }
+}

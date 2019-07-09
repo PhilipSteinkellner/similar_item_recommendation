@@ -1,0 +1,835 @@
+{
+   "tmdb": {
+      "original_language": "fr",
+      "keywords": [],
+      "imdb_id": "tt0108435",
+      "video": false,
+      "title": "One, Two, Three, Sun",
+      "recommendations": [],
+      "backdrop_path": "/dxoq2XpIf4WNPo1hElxRY2acpIi.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Victorine",
+               "gender": 1,
+               "credit_id": "52fe46c09251416c9105e907",
+               "name": "Anouk Grinberg",
+               "profile_path": "/sIAgE8FzSsxccdE9bv2B1uwobsy.jpg",
+               "id": 40883,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "La mère / The mother",
+               "gender": 1,
+               "credit_id": "52fe46c09251416c9105e90b",
+               "name": "Myriam Boyer",
+               "profile_path": "/quLXmjxo9nGiTOPtqKonux2QeVq.jpg",
+               "id": 120571,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "Petit Paul",
+               "gender": 2,
+               "credit_id": "52fe46c09251416c9105e90f",
+               "name": "Olivier Martinez",
+               "profile_path": "/2jGpw7G64BlnONreDZMsVEBQgXQ.jpg",
+               "id": 15533,
+               "order": 2
+            },
+            {
+               "cast_id": 5,
+               "character": "Le père / The father",
+               "gender": 2,
+               "credit_id": "52fe46c09251416c9105e913",
+               "name": "Marcello Mastroianni",
+               "profile_path": "/mZCdZhu5UfS8As8gSoyxYAsXVNl.jpg",
+               "id": 5676,
+               "order": 3
+            },
+            {
+               "cast_id": 6,
+               "character": "Maurice Le Garrec",
+               "gender": 0,
+               "credit_id": "52fe46c09251416c9105e917",
+               "name": "Jean-Michel Noirey",
+               "profile_path": "/72CqtzfTcXC7vWGXo5R7FqAluZ1.jpg",
+               "id": 28787,
+               "order": 4
+            },
+            {
+               "cast_id": 7,
+               "character": "L'homme seul / The lonely man",
+               "gender": 2,
+               "credit_id": "52fe46c09251416c9105e91b",
+               "name": "Jean-Pierre Marielle",
+               "profile_path": "/o97t34AsOoHWmFMVZZNOkCby8QL.jpg",
+               "id": 20795,
+               "order": 5
+            },
+            {
+               "cast_id": 8,
+               "character": "L'enfoiré / The dumb",
+               "gender": 2,
+               "credit_id": "52fe46c09251416c9105e91f",
+               "name": "Claude Brasseur",
+               "profile_path": "/5x3Q8hgDe8hdRMoqV8T9vuYdAJs.jpg",
+               "id": 1958,
+               "order": 6
+            },
+            {
+               "cast_id": 18,
+               "character": "l'institutrice",
+               "gender": 0,
+               "credit_id": "52fe46c19251416c9105e959",
+               "name": "Denise Chalem",
+               "profile_path": "/AkML9VI9Ztc2AXdICoXnCVZB2ix.jpg",
+               "id": 146375,
+               "order": 7
+            },
+            {
+               "cast_id": 19,
+               "character": "Jeannine",
+               "gender": 1,
+               "credit_id": "52fe46c19251416c9105e95d",
+               "name": "Eva Darlan",
+               "profile_path": "/vMVsYB9ZQS2r2QOZ4smkMbjSUuD.jpg",
+               "id": 25346,
+               "order": 8
+            },
+            {
+               "cast_id": 20,
+               "character": "Gladys Boigny",
+               "gender": 0,
+               "credit_id": "52fe46c19251416c9105e961",
+               "name": "Irène Tassembédo",
+               "profile_path": "/vxMreP6TvgL2yF7KtULQimcNzkq.jpg",
+               "id": 579182,
+               "order": 9
+            },
+            {
+               "cast_id": 21,
+               "character": "Marcel, le barman",
+               "gender": 2,
+               "credit_id": "52fe46c19251416c9105e965",
+               "name": "Patrick Bouchitey",
+               "profile_path": "/eKW0Wr6Elo4Bm8grOz35CO7I1pa.jpg",
+               "id": 35911,
+               "order": 10
+            },
+            {
+               "cast_id": 22,
+               "character": "le sergent Boigny",
+               "gender": 2,
+               "credit_id": "52fe46c19251416c9105e969",
+               "name": "Charles Schneider",
+               "profile_path": "/2JOPjL7A6hof1Eois8HeKnFYjva.jpg",
+               "id": 532781,
+               "order": 11
+            },
+            {
+               "cast_id": 23,
+               "character": "Rafik",
+               "gender": 0,
+               "credit_id": "52fe46c19251416c9105e96d",
+               "name": "Stéphane Slima",
+               "profile_path": "/tGXM6NaRV8doGxjx05EFacclfh7.jpg",
+               "id": 534830,
+               "order": 12
+            },
+            {
+               "cast_id": 24,
+               "character": "",
+               "gender": 0,
+               "credit_id": "545bf729c3a368536b001f08",
+               "name": "Solenn Jarniou",
+               "profile_path": "/2h4H274zIArL6tItc49nZGZxtuj.jpg",
+               "id": 149413,
+               "order": 13
+            },
+            {
+               "cast_id": 25,
+               "character": "",
+               "gender": 0,
+               "credit_id": "545bfe7b0e0a261fb9002899",
+               "name": "Baptiste Roussillon",
+               "profile_path": "/jNAlEuCeZKYiQyGvtocJHzyS0zu.jpg",
+               "id": 41033,
+               "order": 14
+            },
+            {
+               "cast_id": 26,
+               "character": "",
+               "gender": 0,
+               "credit_id": "545c027bc3a3685358002315",
+               "name": "Pascal Librizzi",
+               "profile_path": null,
+               "id": 1382545,
+               "order": 15
+            },
+            {
+               "cast_id": 27,
+               "character": "",
+               "gender": 0,
+               "credit_id": "545c05db0e0a261fbd002897",
+               "name": "Chad Chenouga",
+               "profile_path": "/4pgq3JiXrItRdHvHW2YrDAhNoUz.jpg",
+               "id": 53666,
+               "order": 16
+            },
+            {
+               "cast_id": 28,
+               "character": "",
+               "gender": 0,
+               "credit_id": "545c08b20e0a261fbd0028d9",
+               "name": "Jean-Jacques Devaux",
+               "profile_path": "/dWsf30cakBTXhBL0QOnYhYy1fMo.jpg",
+               "id": 1130687,
+               "order": 17
+            },
+            {
+               "cast_id": 29,
+               "character": "",
+               "gender": 0,
+               "credit_id": "545c726fc3a3685365002f8d",
+               "name": "Bass Dhem",
+               "profile_path": "/4r6dTdYphUnzfeekzkJve9PtvYx.jpg",
+               "id": 1382587,
+               "order": 18
+            },
+            {
+               "cast_id": 30,
+               "character": "",
+               "gender": 0,
+               "credit_id": "545c744dc3a368535d0036f4",
+               "name": "Évelyne Garde",
+               "profile_path": null,
+               "id": 1382590,
+               "order": 19
+            },
+            {
+               "cast_id": 31,
+               "character": "",
+               "gender": 0,
+               "credit_id": "545c7554c3a36853580033f4",
+               "name": "Alexis Cossou",
+               "profile_path": null,
+               "id": 1382591,
+               "order": 20
+            },
+            {
+               "cast_id": 32,
+               "character": "",
+               "gender": 0,
+               "credit_id": "545c75f10e0a26472d00093c",
+               "name": "Farid Menaa",
+               "profile_path": null,
+               "id": 1382592,
+               "order": 21
+            },
+            {
+               "cast_id": 33,
+               "character": "",
+               "gender": 0,
+               "credit_id": "545c76b3c3a3685368003133",
+               "name": "Prescilla Reami",
+               "profile_path": null,
+               "id": 1382593,
+               "order": 22
+            },
+            {
+               "cast_id": 34,
+               "character": "",
+               "gender": 0,
+               "credit_id": "545c77260e0a261fb6003ae4",
+               "name": "Feyçal Adamou",
+               "profile_path": null,
+               "id": 1382594,
+               "order": 23
+            },
+            {
+               "cast_id": 35,
+               "character": "",
+               "gender": 0,
+               "credit_id": "545c7764c3a368535300323f",
+               "name": "Abou Watte",
+               "profile_path": null,
+               "id": 1382595,
+               "order": 24
+            },
+            {
+               "cast_id": 36,
+               "character": "",
+               "gender": 0,
+               "credit_id": "545c779cc3a368536b003157",
+               "name": "Didier Fokine",
+               "profile_path": null,
+               "id": 1382596,
+               "order": 25
+            },
+            {
+               "cast_id": 37,
+               "character": "",
+               "gender": 0,
+               "credit_id": "545c77d4c3a36853620032bd",
+               "name": "Choukri Bounad",
+               "profile_path": null,
+               "id": 1382598,
+               "order": 26
+            },
+            {
+               "cast_id": 38,
+               "character": "",
+               "gender": 2,
+               "credit_id": "545c780ac3a3685365003018",
+               "name": "Jonathan Polidoro",
+               "profile_path": null,
+               "id": 1382599,
+               "order": 27
+            },
+            {
+               "cast_id": 39,
+               "character": "",
+               "gender": 0,
+               "credit_id": "545c78cac3a36853620032f1",
+               "name": "Kader Setouti",
+               "profile_path": null,
+               "id": 1382600,
+               "order": 28
+            },
+            {
+               "cast_id": 40,
+               "character": "",
+               "gender": 0,
+               "credit_id": "545c79450e0a261fb6003b31",
+               "name": "Renaud Plion",
+               "profile_path": null,
+               "id": 1382601,
+               "order": 29
+            },
+            {
+               "cast_id": 41,
+               "character": "",
+               "gender": 0,
+               "credit_id": "545c79920e0a26042c0035eb",
+               "name": "Olivier Gamès",
+               "profile_path": null,
+               "id": 1382602,
+               "order": 30
+            },
+            {
+               "cast_id": 42,
+               "character": "",
+               "gender": 0,
+               "credit_id": "545c7a15c3a368536200330a",
+               "name": "Christian Banoyan",
+               "profile_path": null,
+               "id": 1382603,
+               "order": 31
+            },
+            {
+               "cast_id": 43,
+               "character": "",
+               "gender": 0,
+               "credit_id": "545c7a860e0a261fb3003c3d",
+               "name": "Hafid Fedaouche",
+               "profile_path": null,
+               "id": 1382604,
+               "order": 32
+            },
+            {
+               "cast_id": 44,
+               "character": "",
+               "gender": 0,
+               "credit_id": "545c7ac6c3a368535000302f",
+               "name": "Thierry Blein",
+               "profile_path": null,
+               "id": 1382605,
+               "order": 33
+            },
+            {
+               "cast_id": 45,
+               "character": "",
+               "gender": 0,
+               "credit_id": "545c7cf30e0a261fb3003c84",
+               "name": "Jean-Jérôme Esposito",
+               "profile_path": "/mSMumoLGw55Jxi4EV8DYbYSgLKh.jpg",
+               "id": 1064454,
+               "order": 34
+            },
+            {
+               "cast_id": 46,
+               "character": "",
+               "gender": 0,
+               "credit_id": "545c7d30c3a368535d0037f7",
+               "name": "Zam Mari",
+               "profile_path": null,
+               "id": 1382611,
+               "order": 35
+            },
+            {
+               "cast_id": 47,
+               "character": "",
+               "gender": 0,
+               "credit_id": "545c7d700e0a261fb3003c92",
+               "name": "Sada Mari",
+               "profile_path": null,
+               "id": 1382612,
+               "order": 36
+            },
+            {
+               "cast_id": 48,
+               "character": "",
+               "gender": 0,
+               "credit_id": "545c7dacc3a3685362003364",
+               "name": "Frédéric Putto",
+               "profile_path": null,
+               "id": 1382613,
+               "order": 37
+            },
+            {
+               "cast_id": 49,
+               "character": "",
+               "gender": 0,
+               "credit_id": "545c7de40e0a261fbd0039f2",
+               "name": "Stéphane Mouries",
+               "profile_path": null,
+               "id": 1382614,
+               "order": 38
+            },
+            {
+               "cast_id": 50,
+               "character": "",
+               "gender": 0,
+               "credit_id": "545c7e180e0a261fbd0039fe",
+               "name": "Morad Rabah",
+               "profile_path": null,
+               "id": 1382615,
+               "order": 39
+            },
+            {
+               "cast_id": 51,
+               "character": "",
+               "gender": 0,
+               "credit_id": "545c7e4ec3a368535d003820",
+               "name": "François Ferrandi",
+               "profile_path": null,
+               "id": 1382616,
+               "order": 40
+            },
+            {
+               "cast_id": 52,
+               "character": "",
+               "gender": 0,
+               "credit_id": "545c7eb5c3a368535000308e",
+               "name": "Sébastien Grazzini",
+               "profile_path": null,
+               "id": 1382617,
+               "order": 41
+            },
+            {
+               "cast_id": 53,
+               "character": "",
+               "gender": 0,
+               "credit_id": "545c7f0cc3a368535300330d",
+               "name": "Cyril Egla",
+               "profile_path": null,
+               "id": 1382619,
+               "order": 42
+            },
+            {
+               "cast_id": 54,
+               "character": "",
+               "gender": 0,
+               "credit_id": "545c7f4b0e0a26042c00367d",
+               "name": "Aziz Ladjaj",
+               "profile_path": null,
+               "id": 1382620,
+               "order": 43
+            },
+            {
+               "cast_id": 55,
+               "character": "",
+               "gender": 0,
+               "credit_id": "545c803cc3a368536b003235",
+               "name": "Victorien Delamare",
+               "profile_path": "/fMTU1sGJ017UvIOC37rwaxEu8zU.jpg",
+               "id": 73716,
+               "order": 44
+            },
+            {
+               "cast_id": 56,
+               "character": "",
+               "gender": 0,
+               "credit_id": "545c805f0e0a261fbd003a44",
+               "name": "Gilles Terussi",
+               "profile_path": null,
+               "id": 1382623,
+               "order": 45
+            },
+            {
+               "cast_id": 57,
+               "character": "",
+               "gender": 0,
+               "credit_id": "545c8091c3a368536b003240",
+               "name": "Lotti Ouerghi",
+               "profile_path": null,
+               "id": 1382624,
+               "order": 46
+            },
+            {
+               "cast_id": 58,
+               "character": "",
+               "gender": 0,
+               "credit_id": "545c80c40e0a26042c0036b1",
+               "name": "Nordine M'Djassiri",
+               "profile_path": null,
+               "id": 1382625,
+               "order": 47
+            },
+            {
+               "cast_id": 59,
+               "character": "",
+               "gender": 0,
+               "credit_id": "545c812a0e0a261fb3003d08",
+               "name": "Anthony Guerini",
+               "profile_path": null,
+               "id": 1382626,
+               "order": 48
+            },
+            {
+               "cast_id": 60,
+               "character": "",
+               "gender": 0,
+               "credit_id": "545c8160c3a368535300334a",
+               "name": "Bouhaleme Boudjema",
+               "profile_path": null,
+               "id": 1382627,
+               "order": 49
+            },
+            {
+               "cast_id": 61,
+               "character": "",
+               "gender": 0,
+               "credit_id": "545c8193c3a36853620033c0",
+               "name": "Mourir Trabelsi",
+               "profile_path": null,
+               "id": 1382628,
+               "order": 50
+            },
+            {
+               "cast_id": 62,
+               "character": "",
+               "gender": 0,
+               "credit_id": "545c81cbc3a3685368003294",
+               "name": "Aissa Omar",
+               "profile_path": null,
+               "id": 1382629,
+               "order": 51
+            },
+            {
+               "cast_id": 63,
+               "character": "",
+               "gender": 0,
+               "credit_id": "545c820f0e0a261fb6003c0d",
+               "name": "Touati Feyçal",
+               "profile_path": null,
+               "id": 1382630,
+               "order": 52
+            },
+            {
+               "cast_id": 64,
+               "character": "",
+               "gender": 0,
+               "credit_id": "545c82440e0a261fa9003c71",
+               "name": "Mourad Taibi",
+               "profile_path": null,
+               "id": 1382631,
+               "order": 53
+            },
+            {
+               "cast_id": 65,
+               "character": "",
+               "gender": 0,
+               "credit_id": "545c82b80e0a26472d000aa2",
+               "name": "Nordin Kadri",
+               "profile_path": null,
+               "id": 1382632,
+               "order": 54
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe46c09251416c9105e903",
+               "name": "Bertrand Blier",
+               "profile_path": "/wlAFSiO2T5u8KJ1MVdkbRmm11xW.jpg",
+               "id": 34262,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46c09251416c9105e925",
+               "name": "Bertrand Blier",
+               "profile_path": "/wlAFSiO2T5u8KJ1MVdkbRmm11xW.jpg",
+               "id": 34262,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46c09251416c9105e92b",
+               "name": "Patrice Ledoux",
+               "profile_path": null,
+               "id": 60,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe46c09251416c9105e931",
+               "name": "Cheb Khaled",
+               "profile_path": null,
+               "id": 579165,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe46c09251416c9105e937",
+               "name": "Gérard de Battista",
+               "profile_path": null,
+               "id": 38492,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe46c19251416c9105e93d",
+               "name": "Claudine Merlin",
+               "profile_path": null,
+               "id": 34908,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe46c19251416c9105e943",
+               "name": "Théobald Meurisse",
+               "profile_path": null,
+               "id": 11199,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe46c19251416c9105e949",
+               "name": "Jean-Jacques Caziot",
+               "profile_path": null,
+               "id": 32075,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46c19251416c9105e94f",
+               "name": "Georges Glon",
+               "profile_path": null,
+               "id": 420348,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe46c19251416c9105e955",
+               "name": "Jacqueline Bouchard",
+               "profile_path": null,
+               "id": 54284,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Comedy",
+            "id": 35
+         }
+      ],
+      "popularity": 1.386498,
+      "production_countries": [{
+         "iso_3166_1": "FR",
+         "name": "France"
+      }],
+      "id": 38505,
+      "vote_count": 4,
+      "budget": 0,
+      "overview": "A provocative, seemingly absurd patchwork movie which sends a worthwhile message about hope against all odds, love, children and human understanding. Schoolgirl Victorine has an insane mother and an alcoholic father who can never find his way home in their maze of slum apartment blocks. Aggressive, sexually threatening boys of all ages are everywhere, and while the teacher eventually relents to a gang of adolescent rapists, Victorine gives herself to a rowdy gang of older layabouts, eventually winning the heart of burglar Paul.",
+      "similar": [],
+      "original_title": "Un, deux, trois, soleil",
+      "runtime": 104,
+      "poster_path": "/lbukkuDxWEzT6Q79CwetoO8QGjQ.jpg",
+      "spoken_languages": [{
+         "name": "Français",
+         "iso_639_1": "fr"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Canal+",
+            "id": 5358,
+            "origin_country": "FR"
+         },
+         {
+            "logo_path": "/weCaiLyIQXuN7T5SH7zQEjQgUFs.png",
+            "name": "Gaumont",
+            "id": 9,
+            "origin_country": "FR"
+         },
+         {
+            "logo_path": null,
+            "name": "France 3 Cinema",
+            "id": 16804,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Ciné Valse",
+            "id": 1523,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1993-08-18",
+      "vote_average": 5.6,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "France",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Bertrand Blier"],
+      "runtime": 104,
+      "synopsis": null,
+      "writers": ["Bertrand Blier"],
+      "originalLanguage": "French",
+      "imdbLink": "http://www.imdb.com/title/tt0108435/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BNzUxNjQ0NDU5NV5BMl5BanBnXkFtZTcwNDM1MDYyMQ@@._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "actors": ["Stars: Anouk Grinberg, Myriam Boyer, Olivier Martinez | See full cast and crew »"],
+      "reviews": [
+         "I have only seen 3 Bertrand Blier movies, but this one is easily my favorite of the 3. BUFFET FROID, starring Gerard Depardieu, was the first I saw -- and the fact that it was basically plot less and full of absurdist humor made it instantly a favored flick. I more recently saw Blier's Oscar-winning GET OUT YOUR HANDKERCHIEFS but thought it was a little too conventional and strained next to the more flat-out freewheeling BUFFET. About 15 years after that pair of movies comes this one, which marries the sensibilities of the other two perfectly. Like HANDKERCHIEFS, it actually has a story, but like BUFFET, it doesn't bother with real-world logic, good taste, or linear chronology in telling that story. SOLEIL is sort of a movie about coming-of-age in the projects, sort of a movie about sexual psychology, and sort of a cut-and-pasted collage of unusual moments. The magical thing is that the damn thing winds up more moving than it probably would have if it was a straightforward tearjerker about hard living. Of course, Blier can't be credited completely for this, as his actors are wonderful, especially Anouk Grinberg as Victorine, our perpetually childish heroine, and Marcello Mastroianni as her charming perpetually drunk papa. An under-seen gem.",
+         "The early life of a girl in multiracial poor suburbs of Marseilles. An original vision of the tough life of a girl between 12 and 25, facing a harsh initiation to adulthood. Probably to show that she had no real childhood between an irresponsible mother, a drunk father (Marcello Mastroiani at his best) and gangs of ruthless boys, the girl at different ages (about 12, 15, 18, 20 and 25) is played by Anouk Grinberg. She does a good job but can't avoid a few stereotypes. In addition, the various moments of her life are interlaced in a kind of stream of consciousness and dead people that she loved reappear, as they still live in her memory. A fairly dark picture where occasional rays of sun shine even more brightly. Great music by Khaled.",
+         "Memory and longing can make of our lives a continuous present tense in which those we've lost have dinner with us, in which we can call them from the grave whenever we wish, in which we can kill them as often as we like. And if we are the pretty, hyperactive daughter of demented (Italian? Spanish?) mother and pastis-drowned father, living in a nightmare suburban project in Marseilles among the walking driftwood and the detritus of loving humanity, in which crime is a career and rape a rite of passage, we are seven, seventeen, twenty-seven in the same moment while the hybrid sounds of Euro/Algerian/Camerounian music, chewing, cursing, laughing, fighting, sexing, loving, accompany us perpetually as in the old melodrama, except that it is so alive, funny, moving, devastating and rescuing all at once that we are enthralled and left with the happy/sad feeling of a life lived. A movie to be lived in and remembered with fondness.",
+         "This is a one of the most underrated movies of all time. It's worth viewing if only for the excellent performance of Marcello Mastroianni. It tells the story of Victorine, a girl living in a suburb of a big city. The movie has a surreal undertone and does not explain everything so the viewer can use their own imagination to fill in the gaps. A special mention for the suberb music by Khaled.",
+         "In a warm town of Marseille, a teenager, clamped among a crazy mother and an alcoholic father, looks desperately for tenderness. On bottom of gloomy suburb, Bertrand Blier delivers, once more, an unclassifiable film and gladly provocative, who can leave you perplexed but not indifferent.",
+         "I am rarely moved to comment on movies but I think that this little gem has been overlooked. This is a poignant, even beautiful movie about growing up, poverty, life in seedy housing projects and, for me, most importantly loving, giving mixed ethnic communities that nurture and support everyone. It may be a little idealized but the point is well made. Anouk Grinberg is utterly captivating as the gamine adolescent, strong and vulnerable, playing her part with an intelligence that is rare and to be cherished. The cast, including the children, play their roles with spirit and are absolutely believable. I did not find the subtitles distracting (knowing a little French helped) and let the performances speak for themselves. A remarkable little movie that has spirit, is socially relevant, even today, and brilliantly filmed. I am so glad I didn't listen to the overly negative review that was prominent on IMDb and would urge everyone with a grain of compassion to watch this movie and be moved and uplifted.",
+         "I used to look forward to Blier, I think because he knew how to surprise. Then his two regulars moved on. Patrick Dewaere died. Depardieu, working constantly and still talented, became fat and rich. Blier continued to turn out idiosyncratic works, but eventually I was reading about them in the Cahiers more often I could see them in this country. What I used to anticipate, was a single startling thought exercise transformed into an hour-and-a-half-long conversation between usually three, maybe four, at least slightly frantic individuals: Get Out Your Handkerchiefs; Buffet Froid; Beau Pere; My Best Friend's Girl; Too Beautiful for You. Un, Deux, Trois, Soleil, disappointed me a little because it lacks the earlier films' challenging premises. In it, Blier experiments with style. It's an exercise in form more than in thought. Though it surprises constantly, it poses nothing as intriguing as those older films' puzzles. Nearly everything in this film, even adults playing themselves as children and the dead getting in their two cents and more long after they're cold, is some degree of cliché. That's not to fault Blier. His title announces as much: 1\u00852\u00853\u0085Boo! Cliché...cliché...cliché...Soleil! Drunken Pa, domineering mother, boring husband, exiting past fling, hot school teacher(Where are the rest of the girls in the class?), incapable-of-guilt bar-keeper. The surprises, and nearly the only real pleasure, come from the clichés' arrangement, from distortions in narrative order. Though it's set up mid-film, with references to the 722 door, Mastroianni's big scene at the finish struck me as a producer's move, not a director's. This wasn't Mastroianni's film. It was Anouk Grinberg's (Victorine). Any of many actors could have played his role. There was no need for the character to be Italian. Grinberg began and should have finished the film.",
+         "the film isn't anything special, except a subplot, which I think is the best plot, contains the best scene and best quote ever in a film.IMDb didn't let me update the quotes for the politic motive. one of the subplots is : an old french retard played by Jean-Pierre Marielle adopts(kidnaps? buys?) several dozens of sub-sahara African boys , teaches them nothing but to try their best to screw as many white french girls as possible when they grow up....he forces them to promise him. and he says, they are(the black boys) the hope of France....because he worships African culture, an afrocentrist? he is annoyed and offended by french politics and corruption? he is just a misogynist??who knows.. the dialogue is very graphic, very un-PC..I don't know mr blier 's political orientation but that moment is probably the most satirical or realistic moment in history of cinema..blier was a master of sex satire.. now he tried race related ones, he won again! from other aspects, this film is so-so.. but those a few minutes lift it from 5 to 7 viewed along long time ago, until today I decided to write something about it..",
+         "\"Un, Deux, Trois, Soleil\" is a ten year old French flick recently released on DVD probably to capitalize on the names of Bier or the late Mastroianni. However, the film, a dramady, which tells of the misadventures of a post pubescent school girl growing up in Marseille (played by 30 year old Grinberg) is neither sufficiently engaging nor funny to make it worth all the subtitle reading. Much of the humor is lost in translation and the film's warmth soon grows fallow as the weak slice-of-life plot grows increasingly insipid. Probably not worthwhile for anyone other than French speakers into French films who have seen all the more recent and much better stuff. (C)"
+      ],
+      "genres": [
+         "Comedy",
+         "Drama"
+      ],
+      "productionCompanies": [
+         "Gaumont",
+         "France 3 Cinéma",
+         "Ciné Valse"
+      ],
+      "summaries": [],
+      "budget": 0
+   },
+   "movielensId": 8776,
+   "movielens": {
+      "languages": ["Français"],
+      "releaseDate": "1993-08-18",
+      "dvdReleaseDate": "2004-07-13",
+      "directors": ["Bertrand Blier"],
+      "runtime": 104,
+      "movieId": 8776,
+      "title": "One, Two, Three, Sun",
+      "mpaa": null,
+      "actors": [
+         "Anouk Grinberg",
+         "Myriam Boyer",
+         "Olivier Martinez",
+         "Marcello Mastroianni",
+         "Jean-Michel Noirey",
+         "Jean-Pierre Marielle",
+         "Claude Brasseur",
+         "Denise Chalem",
+         "Eva Darlan",
+         "Irène Tassembédo",
+         "Patrick Bouchitey",
+         "Charles Schneider",
+         "Stéphane Slima",
+         "Solenn Jarniou",
+         "Baptiste Roussillon",
+         "Pascal Librizzi",
+         "Chad Chenouga",
+         "Jean-Jacques Devaux",
+         "Bass Dhem",
+         "Évelyne Garde",
+         "Alexis Cossou",
+         "Farid Menaa",
+         "Prescilla Reami",
+         "Feyçal Adamou",
+         "Abou Watte",
+         "Didier Fokine",
+         "Choukri Bounad",
+         "Jonathan Polidoro",
+         "Kader Setouti",
+         "Renaud Plion",
+         "Olivier Gamès",
+         "Christian Banoyan",
+         "Hafid Fedaouche",
+         "Thierry Blein",
+         "Jean-Jérôme Esposito",
+         "Zam Mari",
+         "Sada Mari",
+         "Frédéric Putto",
+         "Stéphane Mouries",
+         "Morad Rabah",
+         "François Ferrandi",
+         "Sébastien Grazzini",
+         "Cyril Egla",
+         "Aziz Ladjaj",
+         "Victorien Delamare",
+         "Gilles Terussi",
+         "Lotti Ouerghi",
+         "Nordine M'Djassiri",
+         "Anthony Guerini",
+         "Bouhaleme Boudjema",
+         "Mourir Trabelsi",
+         "Aissa Omar",
+         "Touati Feyçal",
+         "Mourad Taibi",
+         "Nordin Kadri"
+      ],
+      "imdbMovieId": "0108435",
+      "originalTitle": "Un, deux, trois, soleil",
+      "genres": [
+         "Drama",
+         "Comedy"
+      ],
+      "youtubeTrailerIds": [],
+      "plotSummary": "A provocative, seemingly absurd patchwork movie which sends a worthwhile message about hope against all odds, love, children and human understanding. Schoolgirl Victorine has an insane mother and an alcoholic father who can never find his way home in their maze of slum apartment blocks. Aggressive, sexually threatening boys of all ages are everywhere, and while the teacher eventually relents to a gang of adolescent rapists, Victorine gives herself to a rowdy gang of older layabouts, eventually winning the heart of burglar Paul.",
+      "tmdbMovieId": 38505,
+      "avgRating": 2.63889,
+      "releaseYear": "1993",
+      "numRatings": 18,
+      "posterPath": "/lbukkuDxWEzT6Q79CwetoO8QGjQ.jpg"
+   }
+}

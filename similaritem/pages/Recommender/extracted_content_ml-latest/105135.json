@@ -1,0 +1,517 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "forest",
+            "id": 5774
+         },
+         {
+            "name": "revenge",
+            "id": 9748
+         },
+         {
+            "name": "canuxploitation",
+            "id": 206850
+         }
+      ],
+      "imdb_id": "tt0086113",
+      "video": false,
+      "title": "The Pit",
+      "recommendations": [
+         41775,
+         37936,
+         40026,
+         40229,
+         40220,
+         56383,
+         40969,
+         55538,
+         85567,
+         13570,
+         39868,
+         82315,
+         42532,
+         52022,
+         31579,
+         29852,
+         125558,
+         22455,
+         42870,
+         28218
+      ],
+      "backdrop_path": "/lsYaqcXnrIR4Rvb1cnxusqmRMSC.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1001,
+               "character": "Jamie Benjamin",
+               "gender": 0,
+               "credit_id": "52fe471bc3a36847f8123c3f",
+               "name": "Sammy Snyders",
+               "profile_path": null,
+               "id": 217313,
+               "order": 0
+            },
+            {
+               "cast_id": 1002,
+               "character": "Sandy O'Reilly",
+               "gender": 1,
+               "credit_id": "52fe471bc3a36847f8123c43",
+               "name": "Jeannie Elias",
+               "profile_path": "/pKkRp73OBxjyygjLHnar3diVM32.jpg",
+               "id": 89452,
+               "order": 1
+            },
+            {
+               "cast_id": 1003,
+               "character": "Mrs. Lynde",
+               "gender": 1,
+               "credit_id": "52fe471bc3a36847f8123c47",
+               "name": "Sonja Smits",
+               "profile_path": "/8vLGIGKq8kzoCpSXU6iHEXlgByC.jpg",
+               "id": 12482,
+               "order": 2
+            },
+            {
+               "cast_id": 1004,
+               "character": "Mrs. Benjamin",
+               "gender": 1,
+               "credit_id": "52fe471bc3a36847f8123c4b",
+               "name": "Laura Press",
+               "profile_path": null,
+               "id": 166445,
+               "order": 3
+            },
+            {
+               "cast_id": 1005,
+               "character": "Marg Livingstone",
+               "gender": 0,
+               "credit_id": "52fe471bc3a36847f8123c4f",
+               "name": "Laura Hollingsworth",
+               "profile_path": null,
+               "id": 1205941,
+               "order": 4
+            },
+            {
+               "cast_id": 1006,
+               "character": "Mr. Benjamin",
+               "gender": 2,
+               "credit_id": "52fe471bc3a36847f8123c53",
+               "name": "Richard Alden",
+               "profile_path": null,
+               "id": 102921,
+               "order": 5
+            },
+            {
+               "cast_id": 1007,
+               "character": "Abergail",
+               "gender": 0,
+               "credit_id": "52fe471bc3a36847f8123c57",
+               "name": "Andrea Swartz",
+               "profile_path": null,
+               "id": 1205942,
+               "order": 6
+            },
+            {
+               "cast_id": 1015,
+               "character": "Library Janitor",
+               "gender": 0,
+               "credit_id": "5506f2c3c3a3682529004920",
+               "name": "John Auten",
+               "profile_path": null,
+               "id": 1440879,
+               "order": 7
+            },
+            {
+               "cast_id": 1016,
+               "character": "Freddy",
+               "gender": 0,
+               "credit_id": "5506f2d69251415347002f84",
+               "name": "Paul Grisham",
+               "profile_path": null,
+               "id": 1440880,
+               "order": 8
+            },
+            {
+               "cast_id": 1017,
+               "character": "Christina",
+               "gender": 0,
+               "credit_id": "5506f2e292514179fb0020e5",
+               "name": "Wendy Schmidt",
+               "profile_path": null,
+               "id": 1440882,
+               "order": 9
+            },
+            {
+               "cast_id": 1018,
+               "character": "Louise",
+               "gender": 0,
+               "credit_id": "5506f30ac3a36862e50046f7",
+               "name": "Edith Bedker",
+               "profile_path": null,
+               "id": 1440883,
+               "order": 10
+            },
+            {
+               "cast_id": 1019,
+               "character": "Miss Oliphant",
+               "gender": 0,
+               "credit_id": "5506f3229251415347002f8d",
+               "name": "Lillian Graham",
+               "profile_path": null,
+               "id": 1440884,
+               "order": 11
+            },
+            {
+               "cast_id": 1022,
+               "character": "Allan",
+               "gender": 0,
+               "credit_id": "590448c592514169e10094a8",
+               "name": "Gerard Jordan",
+               "profile_path": null,
+               "id": 1806585,
+               "order": 12
+            },
+            {
+               "cast_id": 1023,
+               "character": "Library Clerk",
+               "gender": 0,
+               "credit_id": "590448c5c3a3684ab4009398",
+               "name": "Cindy Auten",
+               "profile_path": null,
+               "id": 1806586,
+               "order": 13
+            },
+            {
+               "cast_id": 1024,
+               "character": "Butcher",
+               "gender": 0,
+               "credit_id": "590448c692514169fb0097db",
+               "name": "Patrick Patterson",
+               "profile_path": null,
+               "id": 1806587,
+               "order": 14
+            },
+            {
+               "cast_id": 1025,
+               "character": "Truck Driver",
+               "gender": 0,
+               "credit_id": "590448c6c3a3684a68008eb8",
+               "name": "Roger Van Haren",
+               "profile_path": null,
+               "id": 1806588,
+               "order": 15
+            },
+            {
+               "cast_id": 1026,
+               "character": "Garth",
+               "gender": 0,
+               "credit_id": "590448c692514169e10094ac",
+               "name": "John Stoneham Sr.",
+               "profile_path": null,
+               "id": 1195865,
+               "order": 16
+            },
+            {
+               "cast_id": 1027,
+               "character": "Sgt. McNally",
+               "gender": 0,
+               "credit_id": "590448c6c3a3684a76008857",
+               "name": "J.R. Zimmerman",
+               "profile_path": null,
+               "id": 1806589,
+               "order": 17
+            },
+            {
+               "cast_id": 1028,
+               "character": "Officer Bentley",
+               "gender": 0,
+               "credit_id": "590448c79251416a140095dc",
+               "name": "Sandy Kovack",
+               "profile_path": null,
+               "id": 1806590,
+               "order": 18
+            },
+            {
+               "cast_id": 1029,
+               "character": "Caren",
+               "gender": 0,
+               "credit_id": "590448c7c3a3684ab400939d",
+               "name": "Jennifer Lehman",
+               "profile_path": null,
+               "id": 1806591,
+               "order": 19
+            },
+            {
+               "cast_id": 1030,
+               "character": "Greg",
+               "gender": 0,
+               "credit_id": "590448c792514169d0009044",
+               "name": "John C. Bassett",
+               "profile_path": null,
+               "id": 1806592,
+               "order": 20
+            },
+            {
+               "cast_id": 1031,
+               "character": "Trog",
+               "gender": 0,
+               "credit_id": "590448c8c3a3684af0008639",
+               "name": "Harris Kal",
+               "profile_path": null,
+               "id": 1806593,
+               "order": 21
+            },
+            {
+               "cast_id": 1032,
+               "character": "Trog",
+               "gender": 0,
+               "credit_id": "590448c8c3a3684ad700901c",
+               "name": "Alison McCuaig",
+               "profile_path": null,
+               "id": 1806594,
+               "order": 22
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe471bc3a36847f8123c3b",
+               "name": "Lew Lehman",
+               "profile_path": null,
+               "id": 225316,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe471bc3a36847f8123c5d",
+               "name": "John F. Bassett",
+               "profile_path": null,
+               "id": 1205943,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe471bc3a36847f8123c63",
+               "name": "Bennet Fode",
+               "profile_path": null,
+               "id": 1195959,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54618187c3a3686f4c0011c9",
+               "name": "Rik Morden",
+               "profile_path": null,
+               "id": 1384321,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "546181650e0a2672a00011c3",
+               "name": "Manfred Guthe",
+               "profile_path": null,
+               "id": 163196,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "546181780e0a2672b3001214",
+               "name": "Victor Davies",
+               "profile_path": null,
+               "id": 1384320,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "546181980e0a2672a3001195",
+               "name": "Karen Hazzard",
+               "profile_path": null,
+               "id": 959421,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5506f3689251416cb70026d8",
+               "name": "Ian A. Stuart",
+               "profile_path": null,
+               "id": 1440887,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5506f3889251415347002f99",
+               "name": "Peter E. Stone",
+               "profile_path": null,
+               "id": 1440888,
+               "department": "Art",
+               "job": "Art Direction"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Horror",
+            "id": 27
+         },
+         {
+            "name": "Mystery",
+            "id": 9648
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 2.485674,
+      "production_countries": [{
+         "iso_3166_1": "CA",
+         "name": "Canada"
+      }],
+      "id": 47038,
+      "vote_count": 32,
+      "budget": 1000000,
+      "overview": "Twelve year-old Jamie Benjamin is a solitary misunderstood boy in his preteens. His classmates pick on him, his neighbors think he's weird and his parents ignore him. But now Jamie has a secret weapon: deep in the woods he has discovered a deep pit full of man-eating creatures he calls Trogs... and it isn't long before he gets an idea for getting revenge and feeding the Trogs in the process!",
+      "similar": [
+         281957,
+         357096,
+         74997,
+         395834,
+         588,
+         3134,
+         45569,
+         9373,
+         10781,
+         15069,
+         979,
+         2652,
+         238636,
+         156022,
+         281,
+         3600,
+         8456,
+         37835,
+         301846,
+         663
+      ],
+      "original_title": "The Pit",
+      "runtime": 97,
+      "poster_path": "/lVrCPMeQY3XMPtRJrXwfUkSePcf.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "Amulet Pictures",
+         "id": 37437,
+         "origin_country": ""
+      }],
+      "release_date": "1981-10-23",
+      "vote_average": 6,
+      "belongs_to_collection": null,
+      "tagline": "Jamie wouldn't kill anyone\u2026 unless Teddy told him to!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Canada",
+      "color": "Color",
+      "budgetCurrency": "CAD ",
+      "directors": ["Lew Lehman"],
+      "runtime": 97,
+      "synopsis": null,
+      "writers": ["Ian A. Stuart"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0086113/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTIwNjc3NjYzN15BMl5BanBnXkFtZTYwMzc2Mjg5._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Sammy Snyders, Jeannie Elias, Sonja Smits | See full cast and crew »"],
+      "reviews": [
+         "When twelve-year-old alienated boy Jamie Benjamin stumbles across a deep pit housing centuries-old troll-like creatures,he takes it upon himself to see that the monsters are well fed.But the finances of a twelve-year-old go only so far.After stealing both money and meat prove to be dead ends,Jamie decides to take the advice of his perverse teddy bear and lure all the unfriendly members of town into the inescapable bowls of 'The Pit'.\"The Pit\" by Lew Lehman is a mixed bag:it definitely has an interesting concept and the acting is surprisingly decent,however the plot is quite boring and there is a minimal amount of blood and gore.Still the relationship between Jamie and Teddy is well-developed and has to be the strongest aspect of the film.Despite some obvious flaws \"The Pit\" is a truly original horror flick that kept me entertained.Give it a look.7 out of 10.",
+         "The Pit could be the most unintentionally funny movie that I have ever watched. And let me say that I've seen a lot of those. There are some parts that are so funny. Like ever time someone accidentally falls into the huge, gaping hole in the ground that no one can seem to see. The wheelchair scene is a standout. And I'm not saying that the movie is bad. I own it and I recommend it to friends. Mainly because of the dark comedy elements. And also because Jamie gives me the creeps. He's way scarier than the Tra-la-logs. The back of the box mentions that he is autistic, but no where in the movie is the word autism ever used. Instead, you hear words like weird, stupid, crazy, funny person, and even hippie. The Pit is an extremely ridiculous movie, and I hope no one takes it too seriously.",
+         "Here's a particularly weird, warped and flat-out unsettling little low-budget killer kid horror favorite. This truly strange offering centers on 12-year-old oddball Jamie, a friendless, sexually precocious and socially maladjusted pre-pubescent teen creep whose sole pal is a teddy bear with glowing red eyes that occasionally talks to him. Jamie's heretofore lousy lot in life perks up considerably when two good things go his way: his parents hire a sexy young lady (nicely played by brunette hottie Jeannie Ellis) to look after him and, better still, Jamie discovers a deep hole in the nearby woods with a bunch of big, hairy, carnivorous prehistoric humanoid beasts he dubs \"trogalogs\" residing in it. Pretty soon Jamie is not only spying on his babysitter in the shower, but also feeding various folks who mercilessly persecute him and/or put a crimp in his lifestyle -- his babysitter's football player boyfriend, the mean schoolyard bully and his equally nasty girlfriend, even some cranky old biddy in a wheelchair who lives down the street -- to his newfound butt-ugly, fanged and hirsute flesh-eating monster buddies. Director Lew Lehman really plays up the intrinsic perversity of the alarmingly aberrant premise; he has the evil little brat \"hero\" cut out nude photos from a book and force the uptight, yet attractive local librarian to secretly strip for him in front of an open window (!). Lehman's aided substantially in his goal to present Jamie as one deliciously deviant and depraved puppy by the strikingly obnoxious performance by homely and charmless child actor Sammy Snyders: With his stringy build, bumpy nose, grating raspy voice and unsightly salad bowl haircut, Snyders qualifies as one of the most grotesquely off-kilter and unsympathetic murderous little twerps you will ever see in a fright flick. The movie has a very cool surprise ending, too. The Anchor Bay DVD offers this demented dilly on a two-sided flipper disc with the hilariously horrendous late 80's direct-to-video clunker \"Hellgate;\" it's a satisfyingly clean and crisp widescreen presentation with a skimpy still and poster gallery as the only extra.",
+         "The Pit is a great film not in the traditional sense. If you are looking for an award winning movie, go look at something else. The Pit is great on B movie levels. This is the definition of a cult classic. Jamie is what you call an \"Autistic\" child. Getting in trouble by running around in his underwear with a superman cape on at the age of 12 is rather unusual. He also has a good friend, that being his Teddy, his Teddy bear. He also has a few more friends. They live in a big hole in the ground. They are called trollalogs and they like to eat... people that is! When Jamie discovers that they aren't getting enough food and that they may die, Teddy tells him he should start luring all the people that have been mean to him to the pit. This is such a strange movie. Originally, I don't even think it was suppose to be a horror film. The idea of the pit, originally, was suppose to all be in Jamie's head but the directer didn't want to have such a serious approach. Thus, we end up with the silliness that is The Pit. Not to say that the film doesn't have a few gory moments or not to say that this movie dosen't have a few decent scary moments in it, because it does have a few very memorable scenes, in general it is just hilarious though. Look for scenes like when Jamie is pushing an old blind lady in a wheelchair to the pit. If you don't laugh during that scene there is something seriously wrong with you. Anyway, The Pit is an awesome film and if you are a fan of B horror I highly recommend this movie. 9/10",
+         "I must say that I have watched this film probably twenty times, and for those handful of people who have even heard of this movie - I have a feeling you think that that is excessive. I own two copies of the film, one reprint from 1992 which can be found in the 9.99 section at any Suncoast, and the other an original miraculously found in a bargain bin at a small Wal-Mart. I have had many profound thoughts about this movie and why I am so attracted to an obviously bad movie. The answer: Sammy Snyders' eyes. No actor can say so much with once glance like Sammy. When Sandy doesn't allow Sammy to pick up the knife Sammy's eyes say - I am 12, I am a little pervert, I am crazy. And no actor can mask the subtle signs of autism like Sammy can. The cover claims Sammy has autism, however, it is never brought up in the movie. It is a stain that Sammy covers well. And even you can't admit you didn't laugh when Sammy wheels Mrs. Oliphant's wheelchair through the meadow. What a rollicking time that was! God bless Sammy Snyders, it is a shame that Hollywood and fame consumed him.",
+         "I totally agree with Mike from K.C. This film is obviously bad, but you will definitely find yourself enjoying it. I am lucky enough to have a local video store that carries loads of obscure horror movies quite like this. I am spending much of my free time in the summer watching eccentric horror movies at night and this time I wasn't let down. I personally believed Jeannie Elias (Ms. O' Reilly) was a total babe. The funniest thing about this film was the fact that the little trolls resemble the stage costume of Rob Zombie. G'day, eh!",
+         "Jamie is a 12 year old boy that cannot seem to get attention from his parents or avoid getting picked on. Left home alone with the babysitter, he begins to fixate on her. And when he discovers a pit full of Trogs (man-eating creatures), he seeks his revenge on his bullies. Jamie is exceptionally creepy and well-acted by Sammy Snyders. Director Lehman effectively shows the child's abuse at the hands of his peers and how he is outcast. He is punched for wanting to join a club, called a weirdo for admiring a young girl's bike, and called a hippie by an old lady for just standing on a sidewalk. But there are the more disturbing scenes like when he talks to his Teddy and Teddy talks back! When his parents abandon him amidst his weird personality changes, he begins to fall in love with his nubile babysitter Sandy. Sandy is cherub faced and acts just as angelic with her endless patience with the weird kid. There are a variety of scenes with Jamie hitting on Sandy. He sneaks in when she showers, watches her sleep with her breast exposed (because women never notice drafts!), and makes her bath him in a tub because he is \"dirty\". When he discovers the Trogs, he notices that they like fresh meat. He begins buying meat wherever he can get it and then turns to people when the money runs out. Soon he is luring random \"mean\" people into the woods and then into the pit. He even hijacks an old lady in a wheelchair and pushes her through the city, through the woods, into the pit, and then the cruises around in her wheelchair after. There is a cute scene where he has exhausted his resources meat-wise and must feed the Trogs. He attempts to kidnap a cow, but it won't budge. He talks to it and tries to convince it that it will die anyway, so might as well be for his friends. It doesn't work by the way. Jamie begins to run into trouble when a pesky librarian notices his penchant for art (nudes) and animal husbandry (carnivores). One scene of interest would be when he sneaks to her house, phones in as a man that kidnapped her daughter, and makes her strip in front of the window for him to take pictures! Produced by Amulet Pictures, it clocks in at a solid 96 minutes with an Aspect Ratio of 1.85:1. Weird Fact: The director's wife refused to let him shoot the nude scenes, so the screenwriter shot them instead. The only shot involving nudity that the director was allowed to film was the \"skinny dipping\" scene and only because the actress was his daughter. Umm, this sounds incredibly gross and creepy to me. Also, this is the only film Lehman ever directed. Favorite Quote: An 8 year old girl asks her mom, \"What is wrong with boys? Is that boy Jamie crazy? They are all the same. Always stressing.\" DVD Extras: Just the poster and some stills. Bottom Line: The movie is a weird combo of a serial killer flick and a troll movie. Good acting plus the strange premise helps it to hold up well over time. Rating: 7/10 by Molly Celaschi www.HorrorYearbook.com",
+         "Yes, this is a bad movie - the previous user comments have touched upon some of the more ridiculous parts of it. And the movie doesn't know when to quit! We have those monsters, ghosts, voyeurism, murder, talking teddy bears, nudity, perversion... this movie puts EVERYTHING in it! It's a glorious mess, but it's one that remains quite entertaining all the same, because it's so nutty that you can't help but see just what insanity will come next. As well, the movie actually succeeds in being somewhat disturbing at times, in the portrayal of Jaimie. Having personally encountered autistic children, I can say that Snyder's performance, though uneven to say the least, does at times capture how one of these unfortunate children can act. Autism does happen in various degrees, and Snyder does at times creepily capture the mild infliction of it, as well as the added infliction of being disturbed (to say the least). So although this movie is (entertainingly) bad, there is at least a little something to give genuine praise to.",
+         "Strange movie filled with bad acting and unsettling images. Story basically is about a lonely 12-year old kid who is picked on by people in his neighborhood, and has a crush on his live-in babysitter. He does creepy stuff to get her attention (watching her sleep while her boob hangs out, sneaks in the bathroom while she showers, feeds her boyfriend to monsters-whoops, I'm not there yet...). He also talks to his worn and torn teddy bear, that talks back to him. Before long, he announces to his babysitter that he knows of a hole in the woods that holds 4 monsters he calls Tra-la-logs. The middle of the film has the kid feeding his enemies to the beasts, and the last 20 minutes has the police hunting for the Trogs after the kid lets them escape. This movie jumps around a bit. I feel there were some problems with the script, because the whole thing unfolds like it suffered from last minute script changes. Sub-plots are brought in and out of the movie to no avail, and the first 75 minutes is more like a character study on a perverted little kid, rather than a horror film about monsters in a pit. The horror elements take a back seat until the last 20 minutes. However, I do enjoy this movie. The acting is absurd and over-acted. Some of the things the creepy kid does holds attention, and some of the lines in this film are wacky(funny person, I'm gonna look at these a lot...etc.,etc.). The shocker ending is okay and there are some good moments when the beasts escape the hole.For some reason, the main characters are not included in the last 20 minutes and the lead girl is unexpectedly offed (them script changes, I'm sure).There is no blood until after the 75 minute mark. And why do those people just walk into the hole? It's a big hole! How could ya miss it? Not bad, but I would like to know what the original script was like. Two and a half stars.",
+         "I can honestly say that THE PIT is unlike any film I've ever seen. There are several different themes running concurrently in this one-all wrapped up in a strange, low-budget, horror film. Jamie is quite obviously a severely emotionally disturbed loner of a pre-teen weirdo. He has no friends, save for 'Teddy'-his teddy-bear (that talks back to him...), and some troll-like creatures that live in a pit in the woods. He's also a bit of a pervert and has an unhealthy obsession with his latest live-in babysitter. When Jamie runs out of money and can't afford to provide his troll-buddies with meat from the local grocer-he turns to the locals that have wronged him as a new source of food for the pit- dwellers... THE PIT is one of those seriously 'what the f!ck' type films that really makes you wonder what types of psychedelic drugs the writers were on to come up with such a story. There's no shortage of bizarrity going on in this one. The talking teddy-bear, some alluded to incest themes ('do you know why my mother washes me so much? Is she really trying to make me clean? Do you like washing me???'), Jamie's overall creepy nature, pit trolls-the list goes on. The kid that plays Jamie is surprisingly good in his role as the freakish outcast-and his ability to switch from vulnerable and almost sympathy-inducing, to deranged and homicidal on-the-fly is pretty noteworthy. My only real problem with THE PIT is there are parts toward the middle and end that are (I hope intentionally) 'funny' and sorta kills the mood at times-and the parts toward the end where the trolls get out feels a little disjointed compared to the rest of the film (though the very last scene is priceless and suitably twisted). There's very little gore to speak of, and just a few quick titty shots-so don't expect anything in terms of graphic sex or violence. In the case of this film though-I was entertained enough that I didn't really notice it-and for once-I'll go so far as to say that the film didn't suffer from the lack of graphicness. Definitely an odd-ball of a film-and since I tend to dig the 'evil kids' sub-genre, I was pleasantly surprised by this one. Not a 'great' film so-to- speak...but definitely original and entertaining. 8.5/10"
+      ],
+      "genres": [
+         "Horror",
+         "Mystery"
+      ],
+      "productionCompanies": ["Amulet Pictures"],
+      "summaries": [
+         "Twelve year-old Jamie Benjamin is a misunderstood lad. His classmates pick on him, his neighbors think he's weird and his parents ignore him. But now Jamie has a secret weapon: deep in the woods he has discovered a deep pit full of man-eating creatures he calls Trogs... and it isn't long before he gets an idea for getting revenge and feeding the Trogs in the process!",
+         "A solitary and strange boy wreaks revenge on the people who harasses him when he makes a disturbing discovery in the depth of a forest."
+      ],
+      "budget": 1000000
+   },
+   "movielensId": 105135,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1981-10-23",
+      "dvdReleaseDate": null,
+      "directors": ["Lew Lehman"],
+      "runtime": 97,
+      "movieId": 105135,
+      "title": "The Pit",
+      "mpaa": "R",
+      "actors": [
+         "Sammy Snyders",
+         "Jeannie Elias",
+         "Sonja Smits",
+         "Laura Press",
+         "Laura Hollingsworth",
+         "Richard Alden",
+         "Andrea Swartz",
+         "John Auten",
+         "Paul Grisham",
+         "Wendy Schmidt",
+         "Edith Bedker",
+         "Lillian Graham",
+         "Gerard Jordan",
+         "Cindy Auten",
+         "Patrick Patterson",
+         "Roger Van Haren",
+         "John Stoneham Sr.",
+         "J.R. Zimmerman",
+         "Sandy Kovack",
+         "Jennifer Lehman",
+         "John C. Bassett",
+         "Harris Kal",
+         "Alison McCuaig"
+      ],
+      "imdbMovieId": "0086113",
+      "originalTitle": "The Pit",
+      "genres": [
+         "Horror",
+         "Mystery",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": [
+         "qlHflEmjmQU",
+         "T-fSOX9tyoY"
+      ],
+      "plotSummary": "Twelve year-old Jamie Benjamin is a solitary misunderstood boy in his preteens. His classmates pick on him, his neighbors think he's weird and his parents ignore him. But now Jamie has a secret weapon: deep in the woods he has discovered a deep pit full of man-eating creatures he calls Trogs... and it isn't long before he gets an idea for getting revenge and feeding the Trogs in the process!",
+      "tmdbMovieId": 47038,
+      "avgRating": 2.55,
+      "releaseYear": "1981",
+      "numRatings": 10,
+      "posterPath": "/lVrCPMeQY3XMPtRJrXwfUkSePcf.jpg"
+   }
+}

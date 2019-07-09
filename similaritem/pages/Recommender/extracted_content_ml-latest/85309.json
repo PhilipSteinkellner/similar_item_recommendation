@@ -1,0 +1,437 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "small town",
+            "id": 1415
+         },
+         {
+            "name": "musical",
+            "id": 4344
+         },
+         {
+            "name": "vacation",
+            "id": 6876
+         },
+         {
+            "name": "valedictorian",
+            "id": 166262
+         },
+         {
+            "name": "puppy love",
+            "id": 173534
+         }
+      ],
+      "imdb_id": "tt0040848",
+      "video": false,
+      "title": "Summer Holiday",
+      "recommendations": [],
+      "backdrop_path": "/r7E63BWaPGjiRU9GnZwkKx2pfp3.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Richard Miller",
+               "gender": 0,
+               "credit_id": "52fe4648c3a36847f80f66c3",
+               "name": "Mickey Rooney",
+               "profile_path": "/bgCm55k2eo2YV5bMn3D0O4NPwU.jpg",
+               "id": 1937,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Muriel McComber",
+               "gender": 1,
+               "credit_id": "52fe4648c3a36847f80f66c7",
+               "name": "Gloria DeHaven",
+               "profile_path": "/a6zK5paGr1XaORfbySeCeCkp1vr.jpg",
+               "id": 120306,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "Mr. Nat Miller",
+               "gender": 2,
+               "credit_id": "52fe4648c3a36847f80f66cb",
+               "name": "Walter Huston",
+               "profile_path": "/17N08QrQ6Am3hQD5noz5zozGaFH.jpg",
+               "id": 19020,
+               "order": 2
+            },
+            {
+               "cast_id": 5,
+               "character": "Uncle Sid",
+               "gender": 2,
+               "credit_id": "52fe4648c3a36847f80f66cf",
+               "name": "Frank Morgan",
+               "profile_path": "/wqZaxQOgxkBnfSP7i2OMbBAVMI9.jpg",
+               "id": 9067,
+               "order": 3
+            },
+            {
+               "cast_id": 10,
+               "character": "Tommy Miller (as Butch Jenkins)",
+               "gender": 2,
+               "credit_id": "549880c8c3a3681cff0000fa",
+               "name": "Jackie 'Butch' Jenkins",
+               "profile_path": "/r4LLeYcVv7hQtr5uFQJRF5OyV36.jpg",
+               "id": 1020650,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Belle",
+               "gender": 1,
+               "credit_id": "52fe4648c3a36847f80f66d3",
+               "name": "Marilyn Maxwell",
+               "profile_path": "/yVBUEuyAdR2IkduRQqwEx9m5XR1.jpg",
+               "id": 94343,
+               "order": 5
+            },
+            {
+               "cast_id": 7,
+               "character": "Cousin Lily",
+               "gender": 1,
+               "credit_id": "52fe4648c3a36847f80f66d7",
+               "name": "Agnes Moorehead",
+               "profile_path": "/ajpbxYhFVcpGAGMnux9zCwzRYlo.jpg",
+               "id": 11025,
+               "order": 6
+            },
+            {
+               "cast_id": 11,
+               "character": "Mrs. Essie Miller",
+               "gender": 1,
+               "credit_id": "549880d8c3a3681cff0000fe",
+               "name": "Selena Royle",
+               "profile_path": "/q6Uk4luE3a4BrErvVMY5zALRf3G.jpg",
+               "id": 95271,
+               "order": 7
+            },
+            {
+               "cast_id": 12,
+               "character": "Arthur Miller",
+               "gender": 0,
+               "credit_id": "57817fc9c3a3687476000dc0",
+               "name": "Michael Kirby",
+               "profile_path": "/wceEDL6HE1ekCddQWeG4BBYBeLD.jpg",
+               "id": 1223338,
+               "order": 8
+            },
+            {
+               "cast_id": 13,
+               "character": "Mildred Miller",
+               "gender": 1,
+               "credit_id": "578180059251417b8e000ce8",
+               "name": "Shirley Johns",
+               "profile_path": null,
+               "id": 1002873,
+               "order": 9
+            },
+            {
+               "cast_id": 14,
+               "character": "Wint",
+               "gender": 0,
+               "credit_id": "5781802dc3a3687476000dec",
+               "name": "Hal Hackett",
+               "profile_path": null,
+               "id": 1647731,
+               "order": 10
+            },
+            {
+               "cast_id": 15,
+               "character": "Elsie Rand (as Ann Francis)",
+               "gender": 1,
+               "credit_id": "5781805f9251417c28000db7",
+               "name": "Anne Francis",
+               "profile_path": "/f6JaUHF5ByqIqc0EpCJpqkKVGgg.jpg",
+               "id": 12309,
+               "order": 11
+            },
+            {
+               "cast_id": 16,
+               "character": "Mr. Dave McComber",
+               "gender": 2,
+               "credit_id": "57818077925141196e002e5a",
+               "name": "John Alexander",
+               "profile_path": "/pRfrSsL3exXrj0rjvx8CG2xhhuX.jpg",
+               "id": 2671,
+               "order": 12
+            },
+            {
+               "cast_id": 17,
+               "character": "Miss Hawley",
+               "gender": 1,
+               "credit_id": "5781808ec3a36875ce000d36",
+               "name": "Virginia Brissac",
+               "profile_path": "/At0bnWMBlJNqWKCg7uBe66nRdXL.jpg",
+               "id": 2780,
+               "order": 13
+            },
+            {
+               "cast_id": 18,
+               "character": "Mr. Peabody",
+               "gender": 0,
+               "credit_id": "578180a892514105c2003913",
+               "name": "Howard Freeman",
+               "profile_path": "/upSwGkX6f5LKQgXHk2LkkaE9zHK.jpg",
+               "id": 14361,
+               "order": 14
+            },
+            {
+               "cast_id": 19,
+               "character": "Mrs. McComber",
+               "gender": 0,
+               "credit_id": "578180c4c3a3685922003698",
+               "name": "Alice MacKenzie",
+               "profile_path": null,
+               "id": 1647733,
+               "order": 15
+            },
+            {
+               "cast_id": 20,
+               "character": "Crystal",
+               "gender": 1,
+               "credit_id": "578180dbc3a3681387002772",
+               "name": "Ruth Brady",
+               "profile_path": "/pLgPRPNppIlSolRa4u2sYRk4Phk.jpg",
+               "id": 103368,
+               "order": 16
+            },
+            {
+               "cast_id": 21,
+               "character": "Scorekeeper (uncredited)",
+               "gender": 0,
+               "credit_id": "578180fcc3a36873b8003669",
+               "name": "Oliver Blake",
+               "profile_path": "/68AmFqZCnccFJzzSh9S8hp7jRZr.jpg",
+               "id": 114402,
+               "order": 17
+            },
+            {
+               "cast_id": 22,
+               "character": "Passerby (uncredited)",
+               "gender": 0,
+               "credit_id": "578181159251417c28000e1e",
+               "name": "Jack Rube Clifford",
+               "profile_path": "/2cPiEmbi2cYSWYxfSuAg57Al1Ux.jpg",
+               "id": 1492406,
+               "order": 18
+            },
+            {
+               "cast_id": 23,
+               "character": "Mr. Lipska (uncredited)",
+               "gender": 2,
+               "credit_id": "5781813f9251417b95000d59",
+               "name": "Charles Halton",
+               "profile_path": "/fQqMqIJRMSqQCM6HET2O34hD2Ar.jpg",
+               "id": 2502,
+               "order": 19
+            },
+            {
+               "cast_id": 24,
+               "character": "Hatcheck Girl (uncredited)",
+               "gender": 1,
+               "credit_id": "57818166925141196e002ef2",
+               "name": "Terry Moore",
+               "profile_path": "/rAMtJjKEE31jJU5D6jUbT4zwJ3O.jpg",
+               "id": 33716,
+               "order": 20
+            },
+            {
+               "cast_id": 25,
+               "character": "Dannville Beach Club Bartender (uncredited)",
+               "gender": 2,
+               "credit_id": "57818183925141196e002f00",
+               "name": "Emory Parnell",
+               "profile_path": "/1duv3EnZjZSz8jgtXGZS4MOArNK.jpg",
+               "id": 124875,
+               "order": 21
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4648c3a36847f80f66bf",
+               "name": "Rouben Mamoulian",
+               "profile_path": "/znwjHbmTNc3AlXDTXpg6PSbWJ8m.jpg",
+               "id": 29595,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 1,
+               "credit_id": "549880a9925141502d0000f4",
+               "name": "Frances Goodrich",
+               "profile_path": null,
+               "id": 26159,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "549880b3c3a3681cf2000154",
+               "name": "Albert Hackett",
+               "profile_path": null,
+               "id": 26160,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "578181b8925141196e002f16",
+               "name": "Eugene O'Neill",
+               "profile_path": null,
+               "id": 126544,
+               "department": "Writing",
+               "job": "Theatre Play"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5844a4ccc3a36844df00f28e",
+               "name": "Arthur Freed",
+               "profile_path": "/dzPxN7pBVeSgW46YEOuCzcDbIv2.jpg",
+               "id": 9055,
+               "department": "Production",
+               "job": "Producer"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Music",
+         "id": 10402
+      }],
+      "popularity": 0.602045,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 43451,
+      "vote_count": 2,
+      "budget": 0,
+      "overview": "Danville, Connecticut at the turn of the century. Young Richard Miller lives in a middle-class neighborhood with his family. He is in love with the girl next-door, Muriel, but her father isn't too happy with their puppy-love, since Richard always share his revolutionary ideas with her.",
+      "similar": [
+         872,
+         15121,
+         10020,
+         3933,
+         252,
+         254470,
+         316029,
+         353616,
+         2005,
+         16367,
+         11970,
+         812,
+         824,
+         1547,
+         1585,
+         8587,
+         9325,
+         630,
+         927,
+         9479
+      ],
+      "original_title": "Summer Holiday",
+      "runtime": 93,
+      "poster_path": "/xY98XzWkcc5F4nv2nzzWSIH7bQc.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/zcxym93i5BTqqjhVvAhV5HPwYTR.png",
+         "name": "Metro-Goldwyn-Mayer",
+         "id": 21,
+         "origin_country": "US"
+      }],
+      "release_date": "1948-04-15",
+      "vote_average": 5.3,
+      "belongs_to_collection": null,
+      "tagline": "M-G-M's Great American Musical!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Rouben Mamoulian"],
+      "runtime": 93,
+      "synopsis": null,
+      "writers": [
+         "Eugene O'Neill",
+         "Frances Goodrich"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0040848/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTIxNjA0Mzk3OF5BMl5BanBnXkFtZTcwODE1MjAyMQ@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Mickey Rooney, Gloria DeHaven, Walter Huston | See full cast and crew »"],
+      "reviews": [
+         "The play on which it was based was a piece of homey Americana and this version continues that. True Mickey Rooney sometimes overacts but he is a real personality and believable. The idea of singing some of the speeches is what's unusual and I believe it works. It sets this film apart from the rest. I always felt the bar room scene was almost a different play and it's done well especially by M. Maxwell. Have you noticed that her hat and dress changes color depending on how Mickey sees her in that scene?",
+         "Quite bland musical version of Eugene O'Neill's gentle comedy play about a family in rural America before the first world war. MGM made the first (non-musical) version in 1935 under the play's original title, AH, WILDERNESS! That film, which stars Eric Linden, Lionel Barrymore, and Wallace Beery is superb. Here we get Mickey Rooney (aged 28 playing a high school senior), Walter Huston, and Frank Morgan. Huston and Morgan are OK, but Morgan can't hold a candle to Beery's Uncle Sid. The rest of the cast here is competent but all the \"edge\" has been taken out of the original story. Agnes Moorehead plays the old maid aunt, Selena Royle is the mother, Gloria DeHaven is the girl next door, Butch Jenkins is the kid brother (Rooney played the role in the '35 film), and John Alexander plays the blowhard neighbor. Not helping is the bland and forgettable music score. They would have been better off using real songs from the period. The main problem is that Rooney is simply too old for this, and his acting is pretty bad. By 1948 he was already about to end his second marriage (first was to Ava Gardner). And here he is trying to play a virginal high schooler. It gets really sticky when he rebels and meets Belle. In this version Belle is a chorus girl rather than a prostitute. Marilyn Maxwell is a breath of fresh air as the salty, plain-talking, overly made-up woman trying to take the green kid for a few bucks ... until another guy shows up. This is a nicely lit and interesting scene as Belle is \"transformed\" in Rooney's eyes from the cheap chorus girl into a colorful woman of the world. Maxwell is terrific. It's a great small role; in the '35 version Helen Flint was also terrific. Bottom line is that this is just a so-so film. It can't compare with the '35 version of the story, and it certainly doesn't come up to the MGM standard for its '40s musicals. The movie was not a box office success.",
+         "I don't have the prejudice of having seen \"Ah Wilderness!\" so that is why I'm rating this so high. I just watched the film on TCM Europe and was expecting to change the channel or lose interest and do other things on the internet, but this film kept me watching, thats saying a lot since I'm not a big musical kind of person. Actually the musical part seems subtle, I liked that. I am also a Rooney fan so I am biased in that as well, I liked every thing I've seen him in that I can remember and I don't go out actively seeking his stuff. When I do come across one of his films I always seem to enjoy it but this film really seemed to click on all cylinders because it has a very very cool dark side and also discusses politics which rings true today. The supporting cast of many does a great job of course, and a musical bit about a Stanley Steamer? C'mon, thats awesome! Great colors and production values, I am not saying it's Mickey's best but I really was entertained, good flick!",
+         "\"Summer Holiday\" is a summer treat that has become an annual ritual at our house. I never fail to slip the video tape into the VCR as May morphs into June and the last days of school are rolling into summer vacation. Mickey Rooney is exuberant as Richard, and Gloria DeHaven is cute and charming as his timorous girlfriend Muriel. Walter Huston is at his reassuring best as Richard's wise and rock-steady father, while Frank Morgan plays the likable, avuncular family drunk who can never quite overcome his dependence on the bottle. The scenery is gorgeous, particularly in the opening scene as protagonists Richard and Muriel sing \"Afraid to Fall in Love\" to one other then go dancing off into a summery green field together - and also in the celebratory Fourth of July number \"Independence Day,\" shot at the lush Busch Gardens in Pasadena. My one complaint is that the extended barroom scene in which Richard is lured into a night of drunkenness by the temptress bar-girl (Marilyn Maxwell) doesn't seen to match the wholesome tone of the rest of the movie. But it is the Harry Warren/Ralph Bane music that compels me to return for more and more re-viewings. (I must have watched this movie over twenty times since I first spotted it - then taped it - on TNT in the late eighties.) Honestly, I cannot fathom what drives certain reviewers to term the score as \"uninspired\" or a \"dud\" except perhaps that they have not listened to the songs enough times or with sufficient earnestness. A disappointing score? Quite the contrary. The Warren/Blane music is extraordinary - even those songs that meddling MGM executives chose to delete from the final version of the film. As it turned out, gorgeous numbers such as \"Never Again,\" in which the rueful but determined Morgan character sadly recounts his battles with alcohol; the exquisitely haunting \"Omar and the Princess\"; Muriel's lovely confessional, \"I Wish I Had a Braver Heart\"; and Huston's wistful \"Spring Isn't Everything\" were inexplicably cut. (One needs to buy the CD soundtrack to hear those and other excised numbers.) Mere disappointment turned into artistic tragedy when a nitrate-vault fire in the mid-fifties destroyed the musical outtakes, rendering impossible any possible restoration of the film to the version envisioned by Warren and Blane. That huge chunks of the score were slashed from the film left Warren so embittered he refused to view the film for over thirty years. Perhaps, the critics should listen to the score a second, third, or fourth time, for a few of the melodies may strike some ears as somewhat subtle and may require repeated hearings. I remember being unimpressed the first time I saw the film and heard the score but have since come to adore the music. I'd categorize the uniquely delightful \"Afraid to Fall in Love\" as one of the songs that needs to be heard more than once to be fully appreciated. Despite the meat-cleaver cuts, what remains of the score makes for luscious listening. From the brief but tuneful overture while credits are rolling, to the winsome \"Our Home Town\" - extended opening-scene dialog set to music, to the rousing anthem \"Dan-Dan Danville High,\" to the gloriously catchy \"The Stanley Steamer,\" the music lilts. One of my personal favorites is \"While the Men Are All Drinking,\" a brief number sung by the ladies as they organize their picnic food in the park while their men are off competing in an Independence Day beer-drinking contest and the children are off diving into a nearby pond. To my ears, the music is stunning beautiful and the reason I place \"Summer Holiday\" in my top ten, all-time-favorite movie list and why I consider Warren one of the top seven or eight composers of popular music that ever lived. He considered this score his best, and I enthusiastically concur.",
+         "Summer Holiday is the forgotten musical version of Eugene O'Neill's Ah Wilderness and deservedly so with the Broadway musical adaptation of Take Me Along. With the exception of the Stanley Steamer song, none of the other Harry Warren-Ralph Blane songs are worth remembering and even that one is questionable. It was right after the release of this film that MGM let Mickey Rooney go and I don't think it was a coincidence. The film was made in 1946 and released in 1948, so Mickey was 26 playing an Andy Hardy like teenager. He was just way too old for the part of the 17 year old who was affecting radical ideas in a spirit of youthful rebellion. Rooney made four films for MGM from 1946 to 1948, this one, Killer McCoy a remake of Robert Taylor's A Crowd Roars, Love Laughs at Andy Hardy and Words and Music. In all of them Rooney was playing an adult part. Even in the Andy Hardy film, Mickey played an adult Andy Hardy returned from World War II. Why he was in this Louis B. Mayer only knows. Rooney's bad casting makes Summer Holiday all the worse because in the original Ah Wilderness the emphasis is on the father's character played here by Walter Huston. And in the Broadway show Take Me Along which won a Tony Award for Jackie Gleason, the Great One played the inebriated brother-in-law Uncle Sid here played by Frank Morgan and that's the central character. Gloria DeHaven steps in for Judy Garland as Rooney's sweet and adorable girl friend and Marilyn Maxwell plays the show girl who gives Rooney an adult education. In the original play O'Neill has her as a prostitute, but this was the Hollywood of the Code so all Marilyn does is get young Rooney soused. A lot of really talented people had a hand in this one and they do their best, but Summer Holiday fades rather quickly into a chilly autumn.",
+         "If you are a fan of Mickey Rooney, or if you loved \"Ah, Wilderness!\" (1935 movie) and \"Take Me Along\" (Broadway musical version of \"Ah, Wilderness!\"), you will find this version of Eugene O'Neill's only comedy worth seeing. Mickey Rooney is in both films. In \"Summer Holiday,\" he does a good job as the older brother, but I liked him better as the little brother in the 1935 movie. Butch Jenkins plays the little brother in \"Summer Holiday\" (the Mickey Rooney role in the 1935 movie). Somebody must have decided the role was not cute enough, so they gave poor little Butch a lot of extra lines and cutesy costumes. Remembering Mickey's robust performance in the earlier version, I found Butch embarrassing. The music in \"Summer Holiday\" is not very inspired. \"Take Me Along\" has better songs. I don't dislike \"Summer Holiday.\" It just doesn't live up to my expectations of it.",
+         "It is odd that three of our endearing and enduring Broadway musicals were adaptations of plays that had previously been turned into film musicals by different writing teams. PARFUMERIE became IN THE GOOD OLD SUMMERTIME on film, before becoming SHE LOVES ME on Broadway. MY SISTER EILEEN retained its title in the Hollywood musical adaptation and became WONDERFUL TOWN on Broadway. AH! WILDERNESS was turned into SUMMER HOLIDAY on film and later became Broadways' TAKE ME ALONG. The film of SUMMER HOLIDAY has more going for it in artistic attempts gone wrong than in actual achievement. Rhyming dialogue flows into song and out of it (ala Rodgers and Hammerstein)quite frequently. The colors are lovely - the opening number -OUR HOME TOWN - owes a great deal to R&H's OUR STATE FAIR opening in their Fox film released two years earlier. What is the problem? Nothing much happens for 90 minutes. We don't particularly care about any of the characters- whether Sid stops drinking, whether Richard and Muriel get together or not - whether Lily gets Sid. The Broadway vehicle by Bob Merrill is much better written - we care very much about Sid, Lily and Richard - and the songs are exceptionally well written. Here all the songs are duds - there are eight of them - not to mention four more that wound up on the cutting room floor and two that were written for the film and not used. That's nearly half the originally conceived score tossed out. What remains does not reveal character or move the plot along and are musically quite mediocre. It's a colorful and nostalgic romp - MGM was probably hoping for a success similar to the one they had achieved with MEET ME IN ST. LOUIS - also plotless but bubbling over with personality and unforgettable songs. Mamoulian's direction here is tired and uninspired. Only worth catching if you are a fan of any of the players.",
+         "Musicalization of Ah! Wilderness is okay with Mickey one of the oldest high school graduates you'll ever see. This was a huge flop upon release and coupled with Rooney's next film Words and Music, also a significant money loser, it signaled the end of his reign as a box office champ and a long slide until he reemerged as a character actor in his up and down career. It's the supporting cast of Huston, Morgan, Selena Royale and Marilyn Maxwell that make the picture worth seeing. Agnes Moorehead, who looks great in the period costumes, is wasted in the part of Cousin Lily which has been reduced from the original. Even though it's O'Neill's only comedy the original has touches of drama and pathos all of which have been drained from this. Still a pleasant film with gorgeous color and MGM's accustomed quality production values, the clothes in particular are beautiful, but as musicals go this is minor with no memorable songs nor dances.",
+         "I cannot imagine the conversations that must have gone on in the Freed offices during the development of this property! It is so completely unlike anything that the Freed Unit had ever done, reflecting a more dissonant period of American history (during the making of this film). This is an extraordinary reflection on the MGM Everyman (especially Andy Hardy grown up). How did they get this past Louis B. Mayer? In my mind the history of MGM's innocence is resolved in this picture. When Andy Hardy/Mickey Rooney stands outside the family home, at the end of the picture, looking into the darkness that his future might bring it completes the Series that was so loved by MGM. I must believe Mamoulian really understood the dark journey he was taking his characters into and the dark post war future the American audience would soon face. A remarkable historical document that doesn't always work. Well worth viewing with a perspective on it's origins (Ah, Wilderness!). This film should be viewed as an original. Roy H. Wagner ASC Director of Photography",
+         "The rather dull plot seems like an attempt to wed \"Andy Hardy\" to \"Meet Me in St. Louis\". But with an over-aged Rooney as the male teen star,a poor screen play, and without the memorable musical scores and charm of the latter film, it doesn't really work very well, except perhaps as a portrait of ideal Americana of that period.The rather abundant Harry Warren-Ralph Blane songs are OK, but not really memorable the way Berlin could make memorable songs. The first half of the film flaunts conservative Victorian outward mores, as practiced by well off small townies of the early 20th century, countered only by Rooney's occasional espousal of French Revolution-derived socialist arguments.It also includes some romantic dabblings between Rooney and costar Gloria DeHaven in lush outdoor settings. Rooney's long-winded high school graduation speech was as boring for the film audience as it was for the graduation participants. The last portion of the film turns dark with, thus far, seemingly model son Rooney being led into an implied one-night stand with an exploitive chorus girl(played by Marilyn Maxwell), who sings some of her monologues. This has dire repercussions for his romantic relationship with prim Gloria, which is unrepaired when the film unexpectedly ends.The last portion of the film seems hurried and truncated, as if the producer recognized that it was already too long for its interest level. Even in '46, when this was made, not all MGM musicals were shot in color. Thus, we are treated to some colorful outdoor scenes and sometimes to colorful period outfits. Gloria had a good singing voice and a made a good looking girl next door, but she lacked Judy Garland's screen charisma as an actress, thus comes across as somewhat bland, in comparison. As MGM executives apparently feared, the film didn't do well at the box office when it was finally released in '48, losing money. I guess audiences preferred the likes of \"Easter Parade\", released the same year."
+      ],
+      "genres": ["Musical"],
+      "productionCompanies": ["Metro-Goldwyn-Mayer (MGM)"],
+      "summaries": ["Danville, Connecticut at the turn of the century. Young Richard Miller lives in a middle-class neighborhood with his family. He is in love with the girl next-door, Muriel, but her father isn't too happy with their puppy-love, since Richard always share his revolutionary ideas with her."],
+      "budget": 2258325
+   },
+   "movielensId": 85309,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1948-04-15",
+      "dvdReleaseDate": "2010-09-14",
+      "directors": ["Rouben Mamoulian"],
+      "runtime": 93,
+      "movieId": 85309,
+      "title": "Summer Holiday",
+      "mpaa": "",
+      "actors": [
+         "Mickey Rooney",
+         "Gloria DeHaven",
+         "Walter Huston",
+         "Frank Morgan",
+         "Jackie 'Butch' Jenkins",
+         "Marilyn Maxwell",
+         "Agnes Moorehead",
+         "Selena Royle",
+         "Michael Kirby",
+         "Shirley Johns",
+         "Hal Hackett",
+         "Anne Francis",
+         "John Alexander",
+         "Virginia Brissac",
+         "Howard Freeman",
+         "Alice MacKenzie",
+         "Ruth Brady",
+         "Oliver Blake",
+         "Jack Rube Clifford",
+         "Charles Halton",
+         "Terry Moore",
+         "Emory Parnell"
+      ],
+      "imdbMovieId": "0040848",
+      "originalTitle": "Summer Holiday",
+      "genres": ["Music"],
+      "youtubeTrailerIds": ["Ebc4anpcnQ8"],
+      "plotSummary": "Danville, Connecticut at the turn of the century. Young Richard Miller lives in a middle-class neighborhood with his family. He is in love with the girl next-door, Muriel, but her father isn't too happy with their puppy-love, since Richard always share his revolutionary ideas with her.",
+      "tmdbMovieId": 43451,
+      "avgRating": 2.66667,
+      "releaseYear": "1948",
+      "numRatings": 3,
+      "posterPath": "/xY98XzWkcc5F4nv2nzzWSIH7bQc.jpg"
+   }
+}

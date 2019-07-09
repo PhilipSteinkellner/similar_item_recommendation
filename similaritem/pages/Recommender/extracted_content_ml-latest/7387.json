@@ -1,0 +1,888 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "helicopter",
+            "id": 720
+         },
+         {
+            "name": "news broadcast",
+            "id": 1774
+         },
+         {
+            "name": "materialism",
+            "id": 3431
+         },
+         {
+            "name": "machete",
+            "id": 3544
+         },
+         {
+            "name": "bite",
+            "id": 4197
+         },
+         {
+            "name": "chaos",
+            "id": 4630
+         },
+         {
+            "name": "martial law",
+            "id": 4632
+         },
+         {
+            "name": "state of emergency",
+            "id": 4633
+         },
+         {
+            "name": "rock gang",
+            "id": 4634
+         },
+         {
+            "name": "infection",
+            "id": 4884
+         },
+         {
+            "name": "army",
+            "id": 6092
+         },
+         {
+            "name": "biker",
+            "id": 6951
+         },
+         {
+            "name": "truck",
+            "id": 9276
+         },
+         {
+            "name": "gore",
+            "id": 10292
+         },
+         {
+            "name": "zombie",
+            "id": 12377
+         },
+         {
+            "name": "motorcycle gang",
+            "id": 14736
+         },
+         {
+            "name": "violence",
+            "id": 14819
+         },
+         {
+            "name": "store",
+            "id": 157598
+         },
+         {
+            "name": "mall",
+            "id": 157690
+         },
+         {
+            "name": "pittsburgh",
+            "id": 193594
+         }
+      ],
+      "imdb_id": "tt0077402",
+      "video": false,
+      "title": "Dawn of the Dead",
+      "recommendations": [
+         8408,
+         10331,
+         1694,
+         11683,
+         765,
+         10925,
+         764,
+         13025,
+         763,
+         19185,
+         814,
+         30497,
+         16307,
+         15516,
+         9003,
+         7219,
+         837,
+         790,
+         948,
+         17814
+      ],
+      "backdrop_path": "/vCD9mRgSY4HuoSowm8JO4tm2mhj.jpg",
+      "revenue": 55000000,
+      "reviews": [{
+         "author": "talisencrw",
+         "id": "577961db9251415ede000591",
+         "content": "This is one of the finest sequels ever, in that it's both of comparable quality with the original, yet is fundamentally different from it at the same time. Marvelous stuff, with aspects copied thousands of times over the past two generations, with no end in sight.\r\n\r\nThis and 'Salo, or the 120 Days of Sodom', from about the same time frame, would make one of the best double-bills ever on the evils of consumerism gone rampant...",
+         "url": "https://www.themoviedb.org/review/577961db9251415ede000591"
+      }],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 27,
+               "character": "Stephen",
+               "gender": 0,
+               "credit_id": "52fe428dc3a36847f8027b7d",
+               "name": "David Emge",
+               "profile_path": "/nvgIp1mkMQurbUUlgF3wDhOurVJ.jpg",
+               "id": 15069,
+               "order": 0
+            },
+            {
+               "cast_id": 28,
+               "character": "Peter",
+               "gender": 2,
+               "credit_id": "52fe428dc3a36847f8027b81",
+               "name": "Ken Foree",
+               "profile_path": "/wGgcIcKwF4n8yLuaoAKtXoHAOZt.jpg",
+               "id": 15070,
+               "order": 1
+            },
+            {
+               "cast_id": 29,
+               "character": "Roger",
+               "gender": 0,
+               "credit_id": "52fe428dc3a36847f8027b85",
+               "name": "Scott H. Reiniger",
+               "profile_path": "/zX3UySm5yhFR0KyF1nzydcrKM60.jpg",
+               "id": 15071,
+               "order": 2
+            },
+            {
+               "cast_id": 30,
+               "character": "Francine",
+               "gender": 1,
+               "credit_id": "52fe428dc3a36847f8027b89",
+               "name": "Gaylen Ross",
+               "profile_path": "/afGvRColYStNZ7jM9ArIdpMCrpP.jpg",
+               "id": 15072,
+               "order": 3
+            },
+            {
+               "cast_id": 31,
+               "character": "Dr. Foster",
+               "gender": 0,
+               "credit_id": "52fe428dc3a36847f8027b8d",
+               "name": "David Crawford",
+               "profile_path": null,
+               "id": 15073,
+               "order": 4
+            },
+            {
+               "cast_id": 32,
+               "character": "Mr. Berman",
+               "gender": 2,
+               "credit_id": "52fe428dc3a36847f8027b91",
+               "name": "David Early",
+               "profile_path": null,
+               "id": 15074,
+               "order": 5
+            },
+            {
+               "cast_id": 33,
+               "character": "Dr. Milliard Rausch",
+               "gender": 0,
+               "credit_id": "52fe428dc3a36847f8027b95",
+               "name": "Richard France",
+               "profile_path": null,
+               "id": 15075,
+               "order": 6
+            },
+            {
+               "cast_id": 34,
+               "character": "TV Commentator",
+               "gender": 0,
+               "credit_id": "52fe428dc3a36847f8027b99",
+               "name": "Howard Smith",
+               "profile_path": null,
+               "id": 15076,
+               "order": 7
+            },
+            {
+               "cast_id": 35,
+               "character": "Givens",
+               "gender": 2,
+               "credit_id": "52fe428dc3a36847f8027b9d",
+               "name": "Daniel Dietrich",
+               "profile_path": null,
+               "id": 15077,
+               "order": 8
+            },
+            {
+               "cast_id": 36,
+               "character": "Police Commander",
+               "gender": 0,
+               "credit_id": "52fe428dc3a36847f8027ba1",
+               "name": "Fred Baker",
+               "profile_path": null,
+               "id": 15078,
+               "order": 9
+            },
+            {
+               "cast_id": 37,
+               "character": "Wooley",
+               "gender": 0,
+               "credit_id": "52fe428dc3a36847f8027ba5",
+               "name": "James A. Baffico",
+               "profile_path": null,
+               "id": 15079,
+               "order": 10
+            },
+            {
+               "cast_id": 38,
+               "character": "Roy Tucker",
+               "gender": 0,
+               "credit_id": "52fe428ec3a36847f8027ba9",
+               "name": "Rod Stouffer",
+               "profile_path": null,
+               "id": 15080,
+               "order": 11
+            },
+            {
+               "cast_id": 39,
+               "character": "Old Priest",
+               "gender": 0,
+               "credit_id": "52fe428ec3a36847f8027bad",
+               "name": "Jese Del Gre",
+               "profile_path": null,
+               "id": 1047720,
+               "order": 12
+            },
+            {
+               "cast_id": 40,
+               "character": "Officer in Project Apt.",
+               "gender": 0,
+               "credit_id": "52fe428ec3a36847f8027bb1",
+               "name": "Clayton McKinnon",
+               "profile_path": null,
+               "id": 1047721,
+               "order": 13
+            },
+            {
+               "cast_id": 41,
+               "character": "Officer in Project Apt.",
+               "gender": 2,
+               "credit_id": "52fe428ec3a36847f8027bb5",
+               "name": "John Rice",
+               "profile_path": "/olYzjAsd8kMHpgjHoWd7kDp2wCs.jpg",
+               "id": 162074,
+               "order": 14
+            },
+            {
+               "cast_id": 42,
+               "character": "Officer at Police Dock",
+               "gender": 0,
+               "credit_id": "52fe428ec3a36847f8027bb9",
+               "name": "Ted Bank",
+               "profile_path": null,
+               "id": 1047722,
+               "order": 15
+            },
+            {
+               "cast_id": 43,
+               "character": "Officer at Police Dock",
+               "gender": 2,
+               "credit_id": "52fe428ec3a36847f8027bbd",
+               "name": "Randy Kovitz",
+               "profile_path": "/77ot4s2NATwJUzIHhFOEf0MIZ4r.jpg",
+               "id": 152902,
+               "order": 16
+            },
+            {
+               "cast_id": 44,
+               "character": "Officer at Police Dock",
+               "gender": 0,
+               "credit_id": "52fe428ec3a36847f8027bc1",
+               "name": "Patrick McCloskey",
+               "profile_path": null,
+               "id": 1047723,
+               "order": 17
+            },
+            {
+               "cast_id": 45,
+               "character": "Officer at Police Dock",
+               "gender": 2,
+               "credit_id": "52fe428ec3a36847f8027bc5",
+               "name": "Joseph Pilato",
+               "profile_path": "/6rlSP8oxYygfjri8beGlFLDxSy1.jpg",
+               "id": 54855,
+               "order": 18
+            },
+            {
+               "cast_id": 46,
+               "character": "Motorcycle Raider",
+               "gender": 2,
+               "credit_id": "52fe428ec3a36847f8027bc9",
+               "name": "Pasquale Buba",
+               "profile_path": null,
+               "id": 15840,
+               "order": 19
+            },
+            {
+               "cast_id": 47,
+               "character": "Motorcycle Raider",
+               "gender": 2,
+               "credit_id": "52fe428ec3a36847f8027bcd",
+               "name": "Tom Savini",
+               "profile_path": "/yOZPKC3TXlxkvx4HoDrhq1PgXrU.jpg",
+               "id": 11161,
+               "order": 20
+            },
+            {
+               "cast_id": 51,
+               "character": "Motorcycle Raider",
+               "gender": 2,
+               "credit_id": "58e91ffdc3a3687326062df5",
+               "name": "Marty Schiff",
+               "profile_path": null,
+               "id": 193248,
+               "order": 21
+            },
+            {
+               "cast_id": 52,
+               "character": "Motorcycle Raider",
+               "gender": 0,
+               "credit_id": "58e92008c3a368731a069379",
+               "name": "Taso N. Stavrakis",
+               "profile_path": "/eCNJTH4h2a55KKuX2EllpFVy21w.jpg",
+               "id": 107373,
+               "order": 22
+            },
+            {
+               "cast_id": 53,
+               "character": "Lead Zombie (Nurse)",
+               "gender": 1,
+               "credit_id": "58e92015c3a36872ee069170",
+               "name": "Sharon Ceccatti",
+               "profile_path": "/uTVLh4NKFK3ALR7rzJ1Y4Sn8Mnl.jpg",
+               "id": 41706,
+               "order": 23
+            },
+            {
+               "cast_id": 54,
+               "character": "Lead Zombie (Hare Krishna)",
+               "gender": 0,
+               "credit_id": "58e9203e9251412810066898",
+               "name": "Mike Christopher",
+               "profile_path": null,
+               "id": 1792196,
+               "order": 24
+            },
+            {
+               "cast_id": 55,
+               "character": "Lead Zombie",
+               "gender": 0,
+               "credit_id": "58e9204992514134eb02a013",
+               "name": "Clayton Hill",
+               "profile_path": null,
+               "id": 1327987,
+               "order": 25
+            },
+            {
+               "cast_id": 49,
+               "character": "TV Producer / Zombie / Mall Announcer (voice) (uncredited)",
+               "gender": 1,
+               "credit_id": "53a069220e0a26508100301d",
+               "name": "Christine Forrest",
+               "profile_path": null,
+               "id": 100507,
+               "order": 26
+            },
+            {
+               "cast_id": 48,
+               "character": "TV Director / Biker (uncredited)",
+               "gender": 2,
+               "credit_id": "53a068d00e0a26506e003008",
+               "name": "George A. Romero",
+               "profile_path": "/zNP7wdy48eNNJAAmM0pYbSelUAd.jpg",
+               "id": 14999,
+               "order": 27
+            },
+            {
+               "cast_id": 56,
+               "character": "2nd Guy on Roof (uncredited)",
+               "gender": 0,
+               "credit_id": "58e9205a9251414b28022dc7",
+               "name": "John Amplas",
+               "profile_path": "/ikLsiyNsmWiqRxXH58Xcf42LIkg.jpg",
+               "id": 15057,
+               "order": 28
+            },
+            {
+               "cast_id": 63,
+               "character": "Fu Manchu Zombie (uncredited)",
+               "gender": 0,
+               "credit_id": "58e921f692514128100669c1",
+               "name": "Greg Besnak",
+               "profile_path": null,
+               "id": 1706719,
+               "order": 29
+            },
+            {
+               "cast_id": 64,
+               "character": "Mall Suit Zombie",
+               "gender": 0,
+               "credit_id": "58e921ffc3a3687302060107",
+               "name": "Rik Billock",
+               "profile_path": null,
+               "id": 125635,
+               "order": 30
+            },
+            {
+               "cast_id": 57,
+               "character": "Pie-in-Face Zombie (uncredited)",
+               "gender": 0,
+               "credit_id": "58e920c092514134eb02a063",
+               "name": "Roy Frumkes",
+               "profile_path": null,
+               "id": 88448,
+               "order": 31
+            },
+            {
+               "cast_id": 62,
+               "character": "Zombie (uncredited)",
+               "gender": 1,
+               "credit_id": "58e92182c3a368731a069488",
+               "name": "Debra Gordon",
+               "profile_path": "/wTQjf2atFRwhs1JO7uL9xhiuEk3.jpg",
+               "id": 96021,
+               "order": 32
+            },
+            {
+               "cast_id": 61,
+               "character": "Radio News Reporter (voice) (uncredited)",
+               "gender": 2,
+               "credit_id": "58e9216392514152ac018ecf",
+               "name": "Michael Gornick",
+               "profile_path": null,
+               "id": 15056,
+               "order": 33
+            },
+            {
+               "cast_id": 60,
+               "character": "Parking Lot Zombie (uncredited)",
+               "gender": 0,
+               "credit_id": "58e92105c3a368731a069421",
+               "name": "Donald Rubinstein",
+               "profile_path": null,
+               "id": 552620,
+               "order": 34
+            },
+            {
+               "cast_id": 59,
+               "character": "Security Guard Zombie (uncredited)",
+               "gender": 2,
+               "credit_id": "58e920e8c3a36872af05e3fd",
+               "name": "Warner Shook",
+               "profile_path": null,
+               "id": 190119,
+               "order": 35
+            },
+            {
+               "cast_id": 58,
+               "character": "Leotard Zombie (uncredited)",
+               "gender": 0,
+               "credit_id": "58e920d69251414b28022e16",
+               "name": "Sara Venable",
+               "profile_path": null,
+               "id": 100511,
+               "order": 36
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe428dc3a36847f8027af5",
+               "name": "George A. Romero",
+               "profile_path": "/zNP7wdy48eNNJAAmM0pYbSelUAd.jpg",
+               "id": 14999,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe428dc3a36847f8027afb",
+               "name": "George A. Romero",
+               "profile_path": "/zNP7wdy48eNNJAAmM0pYbSelUAd.jpg",
+               "id": 14999,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe428dc3a36847f8027b01",
+               "name": "Richard P. Rubinstein",
+               "profile_path": null,
+               "id": 15000,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe428dc3a36847f8027b07",
+               "name": "Dario Argento",
+               "profile_path": "/nx5qLi7mcGzBuRVmFFW2x12c6wq.jpg",
+               "id": 4955,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe428dc3a36847f8027b0d",
+               "name": "Agostino Marangolo",
+               "profile_path": null,
+               "id": 15052,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe428dc3a36847f8027b13",
+               "name": "Massimo Morante",
+               "profile_path": null,
+               "id": 15053,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe428dc3a36847f8027b19",
+               "name": "Fabio Pignatelli",
+               "profile_path": null,
+               "id": 15054,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe428dc3a36847f8027b1f",
+               "name": "Claudio Simonetti",
+               "profile_path": "/gJxL4JXgOAANbAoXsHKP9Yc9bbY.jpg",
+               "id": 15055,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe428dc3a36847f8027b25",
+               "name": "Michael Gornick",
+               "profile_path": null,
+               "id": 15056,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe428dc3a36847f8027b2b",
+               "name": "George A. Romero",
+               "profile_path": "/zNP7wdy48eNNJAAmM0pYbSelUAd.jpg",
+               "id": 14999,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe428dc3a36847f8027b31",
+               "name": "John Amplas",
+               "profile_path": "/ikLsiyNsmWiqRxXH58Xcf42LIkg.jpg",
+               "id": 15057,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe428dc3a36847f8027b37",
+               "name": "Josie Caruso",
+               "profile_path": null,
+               "id": 15058,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe428dc3a36847f8027b3d",
+               "name": "Barbara Lifsher",
+               "profile_path": null,
+               "id": 15059,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe428dc3a36847f8027b43",
+               "name": "Josie Caruso",
+               "profile_path": null,
+               "id": 15058,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe428dc3a36847f8027b49",
+               "name": "Nancy Allen",
+               "profile_path": null,
+               "id": 15060,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe428dc3a36847f8027b4f",
+               "name": "Jeannie Jefferies",
+               "profile_path": null,
+               "id": 15061,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe428dc3a36847f8027b55",
+               "name": "Zilla Clinton",
+               "profile_path": null,
+               "id": 15063,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe428dc3a36847f8027b5b",
+               "name": "Jay Stover",
+               "profile_path": null,
+               "id": 15064,
+               "department": "Production",
+               "job": "Unit Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe428dc3a36847f8027b61",
+               "name": "Tony Buba",
+               "profile_path": null,
+               "id": 15065,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe428dc3a36847f8027b67",
+               "name": "Tom Savini",
+               "profile_path": "/yOZPKC3TXlxkvx4HoDrhq1PgXrU.jpg",
+               "id": 11161,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe428dc3a36847f8027b6d",
+               "name": "Gary Zeller",
+               "profile_path": null,
+               "id": 15067,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe428dc3a36847f8027b73",
+               "name": "Arthur J. Canestro",
+               "profile_path": null,
+               "id": 15068,
+               "department": "Visual Effects",
+               "job": "Visual Effects"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe428dc3a36847f8027b79",
+               "name": "Tom Savini",
+               "profile_path": "/yOZPKC3TXlxkvx4HoDrhq1PgXrU.jpg",
+               "id": 11161,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 1,
+               "credit_id": "53a069540e0a26506e003010",
+               "name": "Christine Forrest",
+               "profile_path": null,
+               "id": 100507,
+               "department": "Directing",
+               "job": "Assistant Director"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Horror",
+         "id": 27
+      }],
+      "popularity": 11.554234,
+      "production_countries": [
+         {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+         },
+         {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+         },
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         }
+      ],
+      "id": 923,
+      "vote_count": 708,
+      "budget": 650000,
+      "overview": "During an ever-growing epidemic of zombies that have risen from the dead, two Philadelphia SWAT team members, a traffic reporter, and his television-executive girlfriend seek refuge in a secluded shopping mall.",
+      "similar": [
+         588,
+         381288,
+         19204,
+         341006,
+         434873,
+         273477,
+         10185,
+         9373,
+         9659,
+         8810,
+         10781,
+         24920,
+         1690,
+         948,
+         170,
+         19908,
+         126889,
+         298250,
+         375366,
+         16288
+      ],
+      "original_title": "Dawn of the Dead",
+      "runtime": 127,
+      "poster_path": "/8D6WEfNZr6JadQrqJr5OOq1QlV0.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Dawn Associates",
+            "id": 83715,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Laurel Group",
+            "id": 638,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1978-09-02",
+      "vote_average": 7.5,
+      "belongs_to_collection": {
+         "backdrop_path": "/inPPfnJ9Wzc9rg1MpkPm0P3D9rJ.jpg",
+         "name": "Living Dead Collection",
+         "id": 261590,
+         "poster_path": "/mSJ20RTWWgtt3aTyn1iwNZ9fbYl.jpg"
+      },
+      "tagline": "When there's no more room in hell, the dead will walk the earth.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Italy",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["George A. Romero"],
+      "runtime": 127,
+      "synopsis": "Tensions are running high in the United States. The recently deceased are returning to life as shambling, flesh-eating ghouls, and political dissidents are threatening social stability. In the city of Philadelphia, Fran (Gaylen Ross) an employee of WGON-TV and Radio learns that her program director Givens is broadcasting out-of-date information about rescue stations that have been overrun by the living dead. Fran's boyfriend Stephen (David Emge), who pilots the station's traffic helicopter, arrives at the station and tells her that they must escape in order to survive. He plans on stealing the station's helicopter and demands that Fran meet him on the roof at 9pm. Meanwhile, in another part of Philadelphia, the city's SWAT team is preparing to launch an assault on a low-income tenement building filled with refugees who refuse to leave their homes for emergency shelters; they also refuse to give up their dead, harboring them in the basement of the tenement. After gun battle with armed bandits on the roof, the police and National Guard soldiers break into the building using tear gas. Roger (Scott H. Reiniger) one of the SWAT troopers, becomes disgusted by the bloodthirsty behavior of some of their fellow SWAT members when one of them goes crazy and begins shooting at both zombies and innocent bystanders. A tall figure in a gas mask shoots the rogue officer dead. Roger retreats to the basement to escape the confusion, but the tall figure follows him. He removes his mask and reveals himself to be an imposing man named Peter (Ken Foree). They have some small talk and agree that the zombie plague will only get worse. Roger tells Peter about his friend who has a helicopter; he plans to leave with Stephen and Fran, and suggests Peter join their escape. A priest emerges from a room in the cellar; the man is missing a leg and walks with a crutch. He tells them that he has administered the last rites to the dead people in the next room, and that the soldiers may now \"do what they will\" with them. Peter and Roger kill all the zombies in the cellar, the gravity of the situation nearly overcoming them. Meanwhile, Stephen and Fran arrive in their helicopter at an abandoned police station pier on the Delaware River to refuel and wait for Roger to show up. They are surprised when four rogue policemen arrive and threaten them for looting the place. Roger and Peter arrive and the rogue cops back down allowing the four to go on their way. Stephen and Fran are surprised that Roger has brought someone with him, but they agree to take Peter with them. The four of them fly all night. In the morning, Stephen lands the helicopter at a small, deserted rural airport depot to refuel. While exploring the area, zombies attack them from out of nowhere. Stephen tries to prove his manliness before Fran -- who is carrying his child -- but he is both clumsy and a poor shot. Roger has to kill the zombies Stephen weakly shoots at, and Stephen nearly kills Peter when aiming for a zombie. Later, while in the air again, they see a deserted shopping mall. They land on its roof and break in through a skylight to rest and to collect supplies. The place is full of zombies milling about inside, drawn to a place that had meant so much to them when they were alive. Despite the growing number of undead outside, the four refugees realize that they could successfully live there for a long time. It even has a gun shop so they will be able to find weapons to defend themselves. Using the mall's floor plans and master keys, Peter, Roger and Stephen race around the mall, collecting the supplies they will need to make a home. They take these supplies to an upstairs area where they and Fran build a home in an annex of former offices and storage rooms. Fran is resistant to the idea; she thinks it is a bad idea to leave what is left of society, but perhaps because she is pregnant and wants to do what's right for her child, she stays. They realize they need to rid the mall of zombies. A decision is made to block the entrances to the mall with semi-trucks from a nearby warehouse. While Stephen watches from his circling helicopter, Peter and Roger hotwire the trucks and drive them to the mall. Peter is disturbed that Roger seems to be losing his grip on reality; he becomes arrogant and takes unnecessary risks in order to demonstrate his mastery of the situation. Unfortunately, he is bitten by zombies while trying to get into one of the trucks. They all realize that Roger's wound will prove fatal, as nobody can survive a bite for more than a few days. Fran is conflicted; she wants to take Roger to a medical facility, but the others won't hear of it. They are convinced Roger is doomed. Over the next several days, they begin to make the mall their home. They care for the ailing Roger as best they can, but his condition rapidly deteriorates until it is clear he is on the verge of death. Peter builds a fake wall in front of the only hallway that leads to their home, disguising it from any potential looters that may come through the area. They monitor a television to see if the zombie crisis ever ends but the news is dismal. Roger makes Peter promise to kill him if he comes back as a zombie, because he tells Peter he's going to try not to return. Roger does return, however, and Peter is forced to shoot his animated corpse in the head. They bury Roger inside of a large planter that houses decorative palm trees inside the mall. One night Peter prepares a romantic dinner for Fran and Stephen. When Peter leaves them alone, Stephen proposes marriage to Fran. Fran declines, saying that they can't make that kind of commitment given what has become of the world. \"It wouldn't be real,\" she explains. Eventually, all television transmissions cease. The remaining three bicker as their sense of isolation gets stronger. Fran demands to learn how to fly the helicopter in case anything were to happen to Stephen. But when he teaches her how to fly it, they are spotted by a gang of motorcycle-riding survivalists. That evening, the survivalists/looters approach, coveting the supplies inside the mall. They try to contact Peter, Fran and Stephen by radio, but Peter is smart enough not to respond. He knows that they will be killed if the survivalists find them. His plan is to let the looters break in and take what they want, then leave. The looters break into the mall, and zombies flood in with them. Stephen, believing that the mall belongs to him and his friends, sneaks into the mall and tries to shoot the bikers, who return fire. With no choice but to help his friend, Peter creeps through air shafts, picking off isolated bikers and zombies. Unable to cope with both Peter and the zombies, the bikers decide to leave. Before they do, two of them enter the elevator where Stephen is hiding on top, and begin blindly shooting, severely wounding him. He is later attacked and bitten by zombies, and dies in the elevator. In the mall, the zombies corner and eviscerate several of the remaining looters. Peter returns to the hidden fortress and waits with Fran; they are unsure if Stephen has survived, but they know he will return either way. Now a zombie, Stephen remembers how to get through the hidden wall to the storeroom. He leads the horde of zombies up the stairwell. When Stephen appears, Peter kills him. He tells Fran to leave, but he refuses to go with her. He helps Fran onto the roof, where she prepares the helicopter. Peter stays in the storeroom, waiting for the zombies to flock in and attack him. He plans to shoot himself in the head before the zombies can kill him. But at the last minute he decides he wants to live and fights his way through the zombies to the helicopter. Fran delayed taking off until the last possible moment, and Peter is able to hop into the helicopter. The two fly off to an uncertain future, with little fuel left.",
+      "writers": ["George A. Romero"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0077402/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjE1NzI5OTA1OF5BMl5BanBnXkFtZTcwMjg1MDUyMQ@@._V1_SY317_CR6,0,214,317_AL_.jpg",
+      "actors": ["Stars: David Emge, Ken Foree, Scott H. Reiniger | See full cast and crew »"],
+      "reviews": [
+         "By turns horrific, hilarious, disgusting and absurd Dawn of the Dead is the work of a director truly on top of his game. Given almost total control (something which was to be denied Romero in later years) George Romero gives us his unique and vivid view of a world in absolute turmoil. Not just a mockery of the hedonistic and empty America of the late 70's Dawn is also a parable or warning if you like of the brittle structure of society and how easily it can be disintegrated. Many have criticised the film for being too over the top and questioned the quality of the acting. This for me is one of the joys of the film, Romero uses gaudy sets and effects and combines this with comic book hero dialogue to lull us into a false sense of security. Then masterfully Romero pulls the rug out from under us and brings the reality of the situation crashing in on our heads. Dawn stands alone well but really comes into its own as part of the trilogy to which it belongs. One theory of mine is that the Alien trilogy (forgetting the miserable fourth installment) takes a lot from the dead trilogy namely the pace and claustrophobia of the two which book-end the mass hysteria and over the top horror and violence of the middle film. Undoubtedly one of the great Horror films of modern time. Or perhaps there is something about being the only people left alive and living in a shopping mall that appeals to the kid in all of us. 10/10",
+         "This review refers to the theatrical cut of the film. When George A. Romero's no-budget horror movie Night of the Living Dead hit screens in 1968, the same year that had already given audiences the all time genre classic Rosemary's Baby, no one could have predicted the indelible effect it would have on the history of cinema. The film introduced audiences to a degree of graphic violence never before witnessed on American screens. However, it was the film's intense, omnipotent terror that forever scarred a generation of viewers. Although the film enjoyed unprecedented mainstream success for an independent production, the filmmakers saw little of the movie's earnings. Romero's string of box office disappointments in the years to follow would diminish his clout in Hollywood, and as such he found it was an uphill battle to fund his ambitious sequel to the film. Then along came Italian horror maestro Dario Argento, hot off the heels of such international blockbusters as Deep Red and Suspiria. Argento helped secure funding for the film, in exchange for the rights to personally oversee the international cut of the film. The collaboration would be a match made in horror movie heaven, for the end product would be Dawn of the Dead, one of the most acclaimed and enduringly popular horror movies of all time. Dawn of the Dead's plot is so effectively simple, and now thoroughly familiar, that it almost goes without description. While the world approaches a still unexplained and ever growing zombie apocalypse, four individuals-two millitary men, a helicopter pilot, and his TV reporter girlfriend-barricade themselves in an abandoned suburban shopping mall. The mall provides fodder not only for the film's well known social commentary, but also for some truly thrilling-if not terrifying-setpieces. With its graphic depictions of human evisceration, exploding heads, and gruesome flesh eating, Dawn of the Dead may well be the goriest American film of all time. The film is actually so violent and gruesome that it was released unrated in the United States for fear of being slapped with an X Rating. That didn't stop the film from being a huge hit at home and abroad. The film earned rave reviews from critics (most famously, from Roger Ebert, who called it `one of the best horror movies of all time'). It instantly became recognized not only as a genre classic, but also as one of the sharpest social satires of the decade, with its often hilarious commentary on an ever growing consumer culture embodied by the film's mall location. Internationally, the film was even bigger. The movie was released in a special 117 minute cut overseas (the US theatrical version was 120 minutes) which was edited by Dario Argento and featured a more prominent presentation of the soundtrack by rock band Goblin as well as a much faster overall pace. Released in most countries as `Zombie: Dawn of the Dead' or `Zombies', it was so big in Italy that the following year Lucio Fulci, previously a director of `giallo' thrillers, helmed a gory semi-sequel. His `Zombie 2', released in the US as `Zombie', would become one of the most popular drive in hits of the 1970s, a massive international success that solidified the zombie/cannibal craze of the early 1980s and sparked Lucio Fulci's own reign as a horror movie icon. Dawn of the Dead is a truly stunning example of the horror genre's ability to produce works that are as socially relevant as they are terrifying, films which break free of the constraints of conventional horror movie elements and in doing so establish themselves as being truly timeless. While I would still give Night of the Living Dead the slight edge between the two, Dawn of the Dead is still an extraordinary film in its own right as well as an almost superior sequel to another of the scariest movies ever made.",
+         "Dawn of the Dead is concrete proof that extreme gore and violence doesn't always equal a dumb movie and that the two can make very nice bedfellows indeed. This film is a rare thing in that it will please both gorehounds and fans of art cinema, and there isn't a vast amount of films that do that. Aside from doing what I've just mentioned, this follow up to Night of the Living Dead established George Romero as a household name in many a gore fan's home and his trilogy of zombie films will ensure for ever more that the name 'Romero' and the zombie film will always go hand in hand. The plot of this film follows four survivors of the zombie apocalypse that has ensued after the events of Night of the Living Dead as they hold up in a shopping mall to try and hide from the events going on in the outside world. However, this poses another problem, as once their home has been built up in the midst of the atrocities; will our hero's be able to give up all that they have built? The commentary on society and the trappings of consumerism that Romero appears to be keen to implement in his film come off as being somewhat muddled, due to the fact that it's lost under the reality that what we see our hero's doing makes absolute perfect sense. This, however, is where the genius behind the commentary comes into play; it's a depiction of what people within a consumerist society would do in this situation, which makes the commentary all the more potent. Despite it being a film about zombies, Romero implements a sense of realism into the proceedings, which works due to the fact that he never overindulges in anything. Sure, the gore towards the end is over the top; but even that is realistic as it is what you would expect a zombie massacre to be. Because of his sense of realism, we are able to care for the characters that Romero has presented us with, even though we really know little about them. The audience is able to put themselves into their situation and we are constantly given the feeling that we are actually involved in the events on screen. This makes the ending of the movie more potent by way of the sense of security that Romero has lulled you into throughout the movie, and at the end; we really feel for what is happening to our characters and even though we want to see the massacre happen (as that's why we're watching the film at the end of the day), we sort of don't want to see it at the same time. This kind of mind-game isn't carried off successfully very often, but Romero has it down to an art form here. The movie benefits massively from a great score by Dario Argento's house band, Goblin. In fact, with the obvious exception of Suspiria; I would even go as far as to say that this is their best work ever. The score blends so well with the happenings on screen that it's impossible to have one without the other. Some films have a superfluous score, or one that doesn't add anything to the film; but it's undeniable that the score of Dawn of the Dead not only adds to what we're seeing, but 'makes' it. As many people will be tuning in to see gore, I am pleased to tell you that this film doesn't disappoint in that respect. It's one of the goriest films ever made, with many sequences reaching a level of disgustingness that is rarely seen in cinema (intestine dinner, anyone?). As you are probably aware, Tom Savini did the make-up effects for Dawn of the Dead and it is the film that made his career and established him as the gore guru that he is often seen as today. The film is also notable for a certain line that has been quoted more times than any other line uttered in any other horror movie. I am of course talking about the fabulous; \"When there's no more room in hell, the dead will walk the Earth\". Dawn of the Dead is undoubtedly one of the most important films ever made. It inspired a barrage of rip-off's that are still being made today and it stands tall on many a horror fan's list of favourite horror films. Dawn of the Dead is one of the most recent films to inspire a remake and, unfortunately, it turned out to be terrible. Not that it matters, as the original is where it's at; and this film is an undeniable masterpiece.",
+         "When you want brutal, look no further, but when you also want to see perhaps the greatest of all comic-book movies not based on a comic-book, it's in George Romero's original take on his continuing mythology. It's not just one of the towering horror films, or horror comedies (what will a poor dead fellow do when the escalator starts?!) but one of the great sequels, more ambitious and ass-kicking than its predecessor, with a filmmaker more confident and technically proficient with his abilities. Romero didn't originally want to do *any* sequel to his original 'Night', but after a visit by some friends to a soon-to-open mall nearby his hometown of Pittsburgh, it struck a chord as to who would be coming here \u0096 and what so much consumerism in one place would mean. \"Why do they come here?\" one of the four survivors that happens upon this mall swarming with these flesh-eaters asks another. \"This meant something to them. Instinct, maybe. This was an important part of their lives,\" he responds. I don't think necessarily Romero meant to show the film as any sort of 'This is what will happen!\" type of social horror thing. It's more about, this is where we are at NOW, and in that sense, though broader and a whole LOT bloodier, it holds a place right next to a film like Network as one of the magnificent satires of its time and place, and as much about what the public is like. Romero acts as both pessimist and optimist in this world though; past all the chopped limbs, exploding heads (oh yeah!), Tom Savini stunt and make-up and intestines ripped apart, what holds up the film for me is seeing these four characters come to grip with the horror they've made for themselves, holding up in this \"paradise\" of a mall. Balls-to-the-wall horror, social horror, and some genuine paranoid horror stuff (note to self, never try and fire a gun at a single zombie when in a dark room full of electrical wiring and pipes), and plenty of rock and roll attitude, this is a personal favorite and the most entertaining horror film of its time. And the Goblin music soundtrack\u0085 yummy.",
+         "Dawn of the Dead- ****/**** George A. Romero's masterful classic is least of anything a film about zombies. \"Dawn of the Dead\" is thinly disguised as a zombie gore flick, but it is really three things. 1. A cultural statement portraying racism, angst, counter-culture and degradation. 2. An account of human bonding and human reaction to different environments, harsh and eclectic. 3. Least of this trio, it is a black comedy. Rather, it contains dark comedic elements. Somewhere early along in the film, I looked past the initial plot of four strangers hiding in a mall from hordes of zombies swarming the world, as the government attempts to find a solution to the chaotic massacres. Peter Washington (Ken Foree) is the strong, black, courageous SWAT team member who rises above the other three protagonists to become their leader. Steven Andrews (David Emge) is the somewhat timid and hesitant traffic reporter, lover of the pregnant Francine (Gaylen Ross). Ostensibly hapless and useless, Francine is actually a valuable aide to the quartet. Last, is the resourceful and daring Roger (Scott H. Reiniger). From where I left off, I overlooked the premise of the quartet defending themselves from hordes of flesh-eating monsters and instead saw thoroughly fleshed out character personalities, bonds, and interactions. Throughout the movie's length, we learn to genuinely love these guys; Roger is so smooth and fun, easily likeable, Peter is quiet, warm-spirited, and reliable, Steven and Francine are charming. We knows them like our friends and heroes, so when they are attacked by the ferocious zombies, the suspense is so nerve-wracking and our hearts beat so rapidly because we really care about the four protagonists and could not bear to watch them die. They started off as strangers and parted as companions. Also, it is very interesting to watch how they monopolized the mall, how, in the beginning, they slept on cold hallway floors, constantly keeping watch. Later, they eliminated the threat, dined in the mall's fancy restaurant, ice skated on the mall's link, visited the gun shop for weapons, slept in rooms with beds, dressers, televisions, and other luxuries. This is an accurate representation of how it is human nature to manipulate and survive through alien atmospheres. I found that vision ingenious. Another brilliant message the film brings attention to regards the 1970-decade. I found that like \"Pulp Fiction,\" \"Dawn of the Dead\" captures the spirit of its era. The racism, tumult, riots, counter-culture, degradation are all well represented here. The film shows SWAT teams, complete with racist officers, who kill for fun, raiding an unruly group of Hispanics and Blacks, hillbillies heading out in troops to battle zombies for sport, mercenaries and vigilantes running wild, all events indistinguishable from incidents in the 70's. Perhaps the most disturbing and ironic \"70's incident\" in the movie involves raiding gangs of bikers who explode into the mall, mirthfully slaughtering zombies (not that that is an offense) and vandalizing stores, stealing jewelry, guns, clothes, and everything they can find; whereas our heroes took only their necessities. What happens next is very scathingly satirical and ironic. In between the battle for the survival of the human species, the bikers find it necessary to start their own little civil war amongst the not-so-numerous survivors. They hunt down both zombies and our good guys; a perfectly timed paradoxical and cynical scene. Just like the battles between non-conformists and conventionalists during the 1970's and 1960's, when America was on the brink of disaster, this cinematic revolution is hard-hitting, gut wrenching, and very real. One fascinating facet of the movie is how the audience learns to disregard the now \"minor\" threat of the slow-moving zombies (a bullet or incision to the head will do the job). At this point, one would not even notice that this film had the slightest relevance to the horror genre. Instead, we fear the vicious bikers, a bigger threat, villains with swords and guns. This time, the suspense and uneasiness detonates, for there is a much greater chance of death for the heroes. I found the scariest part of the movie was the deterioration of the planet during the zombie apocalypse; how the human species' decline is morbidly presented effectively and expertly by George A. Romano. However, a refreshing sense of black humor is tossed in towards the middle of the film. Zombies attempt to walk up escalators, ice skate, and explore their surroundings, with chuckles as the result of their clumsiness. One biting laugh comes when Steven explains to Francine why all these creatures have returned to the mall. \"Instinct, memory. This was an important place in their lives,\" he points out. And of course, there are many, many thrills and chills. This film isn't very \"jump-out-from-the dark-with-a-chainsaw\" scary, but more disturbing and extremely tense, because we actually care about our characters and don't want them to die. The movie is unpredictable in this aspect, unlike slashers where you are guessing who the one survivor is and how the others die. As the zombies close in, we plead, \"Don't die, don't die!\" I have two minor complaints with this film. My biggest one is that the movie seems to carry on forever, the way \"Goodfellas\" did. Despite the brilliance I felt enraptured with, I kept asking myself, \"When will this movie end?!?\" However, I realize that Romano could not have trimmed any more scenes without damaging the potency of his work. Also, the gore was at times just too much. For instance, the exploding head scene was revolting, and most of all, the intestinal feeding scene when a biker is torn apart was repulsive; I couldn't watch as his guts were graphically shown ripping apart. Aside from those two unfortunate aspects, I strongly encourage you, rather you HAVE to, watch \"Dawn of the Dead.\" Thrilling and suspenseful thanks to extremely distinct characters, whose fate you hope a happy one, and grippingly socially relevant, this is a unique horror, or really of all genres, treasure.",
+         "'Dawn of the dead' may lack the pulverising immediacy of 'Night of the Living Dead', but it gains in exhilirating, epic scope. It is one of the best films of the 1970s, a reckless, hubristic, over-ambitious masterpiece whose excess is reined in by its Langian formal precision. The claustrophobia of the first film is replaced by a wider frame of reference, including the media, the military and suburbia; although, typically, the move is once again towards the indoors. The film starts explosively, inside a panicking TV station trying to report on the inexplicable emergence from the earth of the undead. An assorted quartet - two media, two army; three white, one black; three men, one woman - escape in a helicopter used for rush-hour traffic reports. There is a sense of relief in this, a sense of breaking free from the circle of undead enclosing America's major cities. But not for long - it seems that modern American man, unlike his pioneering ancestors, cannot stand open spaces, and holes up in a building, a shopping mall, which is crawling with zombies, and recognised by the woman as a prison. Not content with this level of confinement, our heroes draw plans, erect barriers, shut down grids. Romero pinpoints this national insularity by framing his modern horror movie as a transposed Western, with the foursome as latterday frontiersmen wiping out the natives, and erecting a new civilisation. Some might say that Romero's irony is a little heavy here - the mock-triumphal Western music on the soundtrack; the composition of the four at the height of the crisis standing in front of a sign with just the letters 'U' and 'S' visible; the glee in the gun culture, including an ersatz Western gun store in the mall the 'Red River' like beseiging of the mall by the 'Indian' Hells' Angels on their motorbike/horses complete with tomahawks. But such irony is never stable - Romero keeps pulling the ground from under the viewers' feet, both in terms of character identification, and the shifting meanings embodied by the zombies. Romero's terrifying vision is of an America turned in on itself, eating itself through cannibalistic greed, the very system of capitalism based on a cycle of power and repression in which the repressed will never quite go away. 'Night' pulsated with a late 1960s urgency reflecting contemporary social and political upheaval, white capitalist America beseiged by the peoples it had oppressed for centuries. By 1978, that political anger is gone, and America has reverted to being a race of consumer zombies, congregating around massive shopping malls like they're the religious temples of the Incas, trapped there not by the freedom of choice of capitalist propaganda, but mindless instinct. the zombies are supposed to be the enemy, the Other in conventional horror terms, but the first thing the so-called heroes do on landing at the mall is substitute urgent survival for gleeful consumerism (compare with the very similar silent fantasy, 'Paris Qui Dort'). There's no way to deal with any outside threat because we are numbed and bloated by products. Reality ceases to exist; there are some beautifully surreal scenes, as our heroes make homes in showrooms. The mall sequence as a whole has a Bunuellian savagery about it, and the film builds up an aggression like the characters until all is chaos - tones, modes, genres all colliding, the 'reality' or 'integrity' or, even, 'seriousness' of the film as much in question as the modern world the protagonists live in, where even time seems to stand still, the weeks of the action compressed into the framework of a day, with the night of the living dead giving onto the dawn. It is probably allegorically significant which characters survive, but by the end we're not sure whether we're watching a horror, a comedy, a thriller, a Western, or a very bitter joke. Certainly scarier than 'The Stepford Wives'",
+         "Thoughtful if unsubtle epic follow-up to Night of the Living Dead was one of THE influential movies of the late 70's; pity, then, that the people it influenced paid more attention to the amped-up gore than to the sense of contained hysteria that makes what should be tough going (there are basically three scenes in this movie: zombies attack people, people attack zombies, people stand around talking) a uniquely involving and provocative self-analysis of the zombie film. The symbolism is, well, not delicate. Just in case we missed it the first time, the trope that the mall attracts the zombies \"because it was an important place to them\" is repeated for our rumination. But the overall sustained atmosphere, inside and outside of the banal environment of the shopping mall, is by far the film's salient contribution; even when there is no obvious action onscreen, there is the threat of an attack to come, and the clock is clearly ticking on the four protagonists during their idyll. Moreover, it takes the conspicuously familiar and catapults it into an apocalyptic situation, creating a powerful sense of displacement. The violence, which is primarily what draws people to or repels them from this movie, comes on strong, but quickly becomes monotonous (as it is, the vast majority of the violence in the movie is inflicted against the zombies rather than by them, though is none the less repulsive for that); the scariest part of the movie is how plausible it makes the concept of total disintegration of what we perceive as civilization. The soundtrack, highlighting pulsing, insistent synthesizer chords, contributes much to the onscreen tension, which the action choreography is exemplary. An unlikely masterpiece.",
+         "If only every horror movie was made with such determination as this one. A zombie classic, Dawn of the Dead succeeds in every aspect. It has enough violence and gore to gratify any horror fan, and then some! The weird thing is that the gore in this movie isn't unnecessary, it suits the purpose. In this sequel to the classic Night of the Living Dead, the zombies have taken over the land and have spread to immense numbers. A group of people escape the carnage in a helicopter, and take refuge in a huge mall where they can live off the supplies inside for years. They have to fend off the zombies trying to get in, as well as a sadistic group of bikers who want to loot the place. Great film, lots of gory action and flesh-munching. Make sure to check out the newly remastered director's cut for terrific picture and sound, and extra footage.",
+         "After being introduced to \"Halloween,\" I was introduced to other horror movies for which I heard my peers talked about in school and after watching this movie on the movie channel, I was introduced to something more gruesome than anything else. \"Dawn of the Dead\" is the sequel to the popular cult \"Night of the Living Dead\" in which two national guards, a reporter and a pilot have escaped Philadelphia on a chopper after finding out that the whole globe has been affected with zombies resurrecting from the dead and attacking the living. The four of them hide out in a deserted mall where they think everything is safe until they realize that the reporter is pregnant and that they're zombies invading the mall. After exterminating the zombies, the survivors make the mall their own home where they shop for food, steal the cash and turn a small room into a personal resting place. \"Dawn of the Dead\" is by far one of the best horror films and sequels I have ever seen. It's dark, mean and much more violent than the original black and white horror film.",
+         "This movie has always been a big favorite of mine. I went through a zombie phase in high school and this is, hands down, the best zombie film ever made. With all the crap coming out today, it still stands out. Dawn is a great satire of materialistic modern society. All of the performances are spot on, George Romero's writing and direction is flawless as usual, and the gore is brilliant. What could be better than a bunch of zombies taking over a shopping mall? That's right, nothing. If you call yourself a horror fan and you haven't seen the original Dawn of the Dead, you need to get with the program immediately! No one messes with Romero, no one!"
+      ],
+      "genres": ["Horror"],
+      "productionCompanies": ["Laurel Group"],
+      "summaries": [
+         "Following the events of Die Nacht der lebenden Toten (1968), we follow the exploits of four survivors of the expanding zombie apocalypse as they take refuge in an abandoned shopping mall following a horrific SWAT evacuation of an apartment complex. Taking stock of their surroundings, they arm themselves, lock down the mall, and destroy the zombies inside so they can eke out a living--at least for a while. Tensions begin to build as months go on, and they come to realize that they've fallen prey to consumerism. Soon afterward, they have even heavier problems to worry about, as a large gang of bikers discovers the mall and invades it, ruining the survivors' best-laid plans and forcing them to fight off both lethal bandits and flesh-eating zombies.",
+         "Sequel of \"Night of the Living Dead.\" It's some time after the dead have started to rise and attack the shocked living, and civilization has started to crumble. In the city of Philadelphia, Pennsylvania, USA, TV station workers Stephen and Francine decide to run as the situation worsens and, after meeting Roger and Peter, two special policemen ordered to move any people into rescue stations who have also choose to run, steal the station's helicopter and fly west in an attempt to find a safe place. After several attempts during their flight across Pennsylvania, they find a deserted mega-mall in Monroeville, outside Pittsburgh, and decide to wait there until the crisis is over. They clear the mall of the undead and board the entrances up with tractor-trailers and then sit down and wait. Can they hold out, not only against the growing, moaning, and hungry masses of the undead outside, against murderous looters, but, most importantly of all, can they hold out and not lose their sanity...?",
+         "This sequel of \"Night of the Living Dead\" is filled with splattered blood and brains in living color. The dead have come back to life to eat the living. This is the story of the escape of four people from an urban nightmare to a suburban nightmare. They barricade themselves in a shopping mall and try to start new lives. Much of this movie was filmed outside Pittsburgh.",
+         "In this sequel of \"Night of the Living Dead,\" it's a few weeks later after the events of \"Night.\" The situation is getting worse, so two reporters, along with two SWAT team members, decide to steal a helicopter to find a place where they can hide from flesh-eating zombies. They find a secluded mall and decide to stop there for the night in order to get some sleep. Then, they decide to stay in the mall for much longer, and they barricade themselves in a small room while periodically going downstairs to get things they need, while defending themselves against the zombies and a biker gang in the meantime.",
+         "Following an ever-growing epidemic of zombies that have risen from the dead, two Philadelphia S.W.A.T. team members, a traffic reporter, and his television executive girlfriend seek refuge in a secluded shopping mall."
+      ],
+      "budget": 650000
+   },
+   "movielensId": 7387,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1978-09-02",
+      "dvdReleaseDate": "2004-09-07",
+      "directors": ["George A. Romero"],
+      "runtime": 127,
+      "movieId": 7387,
+      "title": "Dawn of the Dead",
+      "mpaa": "NR",
+      "actors": [
+         "David Emge",
+         "Ken Foree",
+         "Scott H. Reiniger",
+         "Gaylen Ross",
+         "David Crawford",
+         "David Early",
+         "Richard France",
+         "Howard Smith",
+         "Daniel Dietrich",
+         "Fred Baker",
+         "James A. Baffico",
+         "Rod Stouffer",
+         "Jese Del Gre",
+         "Clayton McKinnon",
+         "John Rice",
+         "Ted Bank",
+         "Randy Kovitz",
+         "Patrick McCloskey",
+         "Joseph Pilato",
+         "Pasquale Buba",
+         "Tom Savini",
+         "Marty Schiff",
+         "Taso N. Stavrakis",
+         "Sharon Ceccatti",
+         "Mike Christopher",
+         "Clayton Hill",
+         "Christine Forrest",
+         "George A. Romero",
+         "John Amplas",
+         "Greg Besnak",
+         "Rik Billock",
+         "Roy Frumkes",
+         "Debra Gordon",
+         "Michael Gornick",
+         "Donald Rubinstein",
+         "Warner Shook",
+         "Sara Venable"
+      ],
+      "imdbMovieId": "0077402",
+      "originalTitle": "Dawn of the Dead",
+      "genres": ["Horror"],
+      "youtubeTrailerIds": [
+         "cHbOwpkqBIk",
+         "E9aXHumUv6Y"
+      ],
+      "plotSummary": "During an ever-growing epidemic of zombies that have risen from the dead, two Philadelphia SWAT team members, a traffic reporter, and his television-executive girlfriend seek refuge in a secluded shopping mall.",
+      "tmdbMovieId": 923,
+      "avgRating": 3.78885,
+      "releaseYear": "1978",
+      "numRatings": 3855,
+      "posterPath": "/8D6WEfNZr6JadQrqJr5OOq1QlV0.jpg"
+   }
+}

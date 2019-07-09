@@ -1,0 +1,436 @@
+{
+   "tmdb": {
+      "original_language": "es",
+      "keywords": [
+         {
+            "name": "civil war",
+            "id": 393
+         },
+         {
+            "name": "cow",
+            "id": 5543
+         },
+         {
+            "name": "basque country ",
+            "id": 6559
+         }
+      ],
+      "imdb_id": "tt0103186",
+      "video": false,
+      "title": "Cows",
+      "recommendations": [
+         98997,
+         102492,
+         168502,
+         118898,
+         184915,
+         429866,
+         226343,
+         115695,
+         163422,
+         313563,
+         368432,
+         300488,
+         130457,
+         117897,
+         116314,
+         194246,
+         259146,
+         79359,
+         423179,
+         143529
+      ],
+      "backdrop_path": "/rkats1rmJFxJYyeIjlXBpqKMEhv.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 10,
+               "character": "Cristina",
+               "gender": 1,
+               "credit_id": "52fe4357c3a36847f804d139",
+               "name": "Emma Suárez",
+               "profile_path": "/eBD2XiAO6s1pnmx1JD8ihCw0bYW.jpg",
+               "id": 24974,
+               "order": 0
+            },
+            {
+               "cast_id": 11,
+               "character": "Manuel, Ignacio and Peru Irigibel",
+               "gender": 2,
+               "credit_id": "52fe4357c3a36847f804d13d",
+               "name": "Carmelo Gómez",
+               "profile_path": "/zJ08c4TbL1VV958cW9Olq1ToyGv.jpg",
+               "id": 24975,
+               "order": 1
+            },
+            {
+               "cast_id": 12,
+               "character": "Catalina",
+               "gender": 1,
+               "credit_id": "52fe4357c3a36847f804d141",
+               "name": "Ana Torrent",
+               "profile_path": "/xIpRwiCl2xAp2R3i9jV10ZfW2kC.jpg",
+               "id": 24976,
+               "order": 2
+            },
+            {
+               "cast_id": 13,
+               "character": "Ilegorri/Lucas",
+               "gender": 2,
+               "credit_id": "52fe4357c3a36847f804d145",
+               "name": "Karra Elejalde",
+               "profile_path": "/kHODqgc2c7RaZz9Sp7cedgadvzG.jpg",
+               "id": 24977,
+               "order": 3
+            },
+            {
+               "cast_id": 14,
+               "character": "Madalen (als Clara Badiola)",
+               "gender": 1,
+               "credit_id": "52fe4357c3a36847f804d149",
+               "name": "Klara Badiola",
+               "profile_path": "/uqC8WwNe324ZJWddvehUm8gH0su.jpg",
+               "id": 24978,
+               "order": 4
+            },
+            {
+               "cast_id": 17,
+               "character": "Paulina",
+               "gender": 1,
+               "credit_id": "52fe4357c3a36847f804d155",
+               "name": "Pilar Bardem",
+               "profile_path": "/aPtXpY9memp6SQvAVZpzBbysI9U.jpg",
+               "id": 3812,
+               "order": 5
+            },
+            {
+               "cast_id": 15,
+               "character": "Manuel",
+               "gender": 2,
+               "credit_id": "52fe4357c3a36847f804d14d",
+               "name": "Txema Blasco",
+               "profile_path": null,
+               "id": 24979,
+               "order": 6
+            },
+            {
+               "cast_id": 16,
+               "character": "Carmelo/Juan",
+               "gender": 0,
+               "credit_id": "52fe4357c3a36847f804d151",
+               "name": "Kandido Uranga",
+               "profile_path": null,
+               "id": 24980,
+               "order": 7
+            },
+            {
+               "cast_id": 18,
+               "character": "Peru as a child",
+               "gender": 2,
+               "credit_id": "52fe4357c3a36847f804d159",
+               "name": "Miguel Ángel García",
+               "profile_path": null,
+               "id": 24981,
+               "order": 8
+            },
+            {
+               "cast_id": 19,
+               "character": "Cristina as a child",
+               "gender": 0,
+               "credit_id": "52fe4358c3a36847f804d15d",
+               "name": "Ane Sánchez",
+               "profile_path": null,
+               "id": 24982,
+               "order": 9
+            },
+            {
+               "cast_id": 20,
+               "character": "Daughter as a child",
+               "gender": 0,
+               "credit_id": "52fe4358c3a36847f804d161",
+               "name": "Magdalena Mikolajczyk",
+               "profile_path": null,
+               "id": 24983,
+               "order": 10
+            },
+            {
+               "cast_id": 21,
+               "character": "Daughter as a child",
+               "gender": 0,
+               "credit_id": "52fe4358c3a36847f804d165",
+               "name": "Enara Azkue",
+               "profile_path": null,
+               "id": 24984,
+               "order": 11
+            },
+            {
+               "cast_id": 22,
+               "character": "Ilegorri/Lucas as a child",
+               "gender": 0,
+               "credit_id": "52fe4358c3a36847f804d169",
+               "name": "Ortzi Balda",
+               "profile_path": null,
+               "id": 24985,
+               "order": 12
+            },
+            {
+               "cast_id": 23,
+               "character": "Old Daughter",
+               "gender": 0,
+               "credit_id": "52fe4358c3a36847f804d16d",
+               "name": "Elisabeth Ruiz",
+               "profile_path": null,
+               "id": 24986,
+               "order": 13
+            },
+            {
+               "cast_id": 24,
+               "character": "Juez",
+               "gender": 2,
+               "credit_id": "52fe4358c3a36847f804d171",
+               "name": "Ramón Barea",
+               "profile_path": "/esfwYqO53LdykT2cvaZURY5ntyh.jpg",
+               "id": 24987,
+               "order": 14
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4357c3a36847f804d105",
+               "name": "Julio Médem",
+               "profile_path": "/ohftr2f6JyITzMios6RTpCKS54j.jpg",
+               "id": 16435,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4357c3a36847f804d10b",
+               "name": "Michel Gaztambide",
+               "profile_path": null,
+               "id": 24971,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4357c3a36847f804d111",
+               "name": "Julio Médem",
+               "profile_path": "/ohftr2f6JyITzMios6RTpCKS54j.jpg",
+               "id": 16435,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4357c3a36847f804d117",
+               "name": "Fernando de Garcillán",
+               "profile_path": null,
+               "id": 24972,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4357c3a36847f804d11d",
+               "name": "José Luis Olaizola",
+               "profile_path": null,
+               "id": 24973,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4357c3a36847f804d123",
+               "name": "Enrique López Lavigne",
+               "profile_path": null,
+               "id": 17603,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4357c3a36847f804d129",
+               "name": "Alberto Iglesias",
+               "profile_path": "/2PGZyiqdAAyi2S0ZpFw5V0ojCqY.jpg",
+               "id": 405,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4357c3a36847f804d12f",
+               "name": "Carles Gusi",
+               "profile_path": null,
+               "id": 16982,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4357c3a36847f804d135",
+               "name": "María Elena Sáinz de Rozas",
+               "profile_path": null,
+               "id": 19845,
+               "department": "Editing",
+               "job": "Editor"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Drama",
+         "id": 18
+      }],
+      "popularity": 4.113521,
+      "production_countries": [{
+         "iso_3166_1": "ES",
+         "name": "Spain"
+      }],
+      "id": 2441,
+      "vote_count": 21,
+      "budget": 0,
+      "overview": "A film set in the Basque region, beginning in the Carlist war of 1875 and ending during the Spanish Civil war of 1936. The film portrays how one single act of cowardice shapes the life of the next three generations of two families and fuels the intense rivalry which will span the next sixty-one years.",
+      "similar": [
+         961,
+         31906,
+         10655,
+         664,
+         770,
+         72976,
+         6637,
+         72331,
+         271110,
+         296099,
+         22267,
+         109491,
+         399019,
+         25195,
+         10747,
+         625,
+         9665,
+         1656,
+         13700,
+         9825
+      ],
+      "original_title": "Vacas",
+      "runtime": 96,
+      "poster_path": "/j9c3HPCwuPGfFNHzjt0taANaC78.jpg",
+      "spoken_languages": [{
+         "name": "Español",
+         "iso_639_1": "es"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Idea",
+            "id": 82310,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Departamento de Cultura del Gobierno Vasco",
+            "id": 32718,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Instituto de la Cinematografía y de las Artes Audiovisuales (ICAA)",
+            "id": 9974,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1992-02-26",
+      "vote_average": 5.9,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Spain",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Julio Medem"],
+      "runtime": 96,
+      "synopsis": null,
+      "writers": [
+         "Michel Gaztambide",
+         "Julio Medem"
+      ],
+      "originalLanguage": "Spanish",
+      "imdbLink": "http://www.imdb.com/title/tt0103186/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTMwOTc2NDcwMV5BMl5BanBnXkFtZTcwNzQyNDMzMQ@@._V1_SY317_CR3,0,214,317_AL_.jpg",
+      "actors": ["Stars: Emma Suárez, Carmelo Gómez, Ana Torrent | See full cast and crew »"],
+      "reviews": [
+         "With this brilliant debut film, Julio Medem placed himself almost instantly into the ranks of Spain's leading directors, along with Carlos Saura and Pedro Almodovar. From the suspenseful footage of barefoot woodchoppers to the sprawling family rivalries to the chaos of war, Medem brings a unique vision and a sharp edge to this Basque historical saga. His later films are equally masterful, but this is the one time he chooses to grapple with the history of his Basque homeland instead of telling a contemporary and character-centered story. The plot can be a bit tricky to follow for those unfamiliar with Spanish history, and the lush beauty of the film definitely calls more for a big screen than for video. I can't make your screen bigger, but as for the history, I may be able to help with what most confuses the typical American viewer: The Carlists were supporters of a series of 19th century pretenders to the Spanish throne and constituted an alliance of Basque nationalists with right-wing Spaniards, allied on the basis of Catholic faith. The Carlists advocated absolute monarchy (against the ruling liberal constitutional monarchy), but were willing to grant the Basque region considerable autonomy. Later, in the Spanish Civil War, the Basque nationalists allied to the left, siding with the secular Republic (which also offered them autonomy) against Franco's centralizing fascist forces. Thus to be a Basque nationalist family over the span of this history led to some paradoxical alliances over time.",
+         ". but this is not one. So what ? The opening scene, where a woodcutter's keeps swinging an axe, is a masterpiece of manipulation : you keep on expecting something dreadful until the tension becomes unbearable, though nothing really happens. This is a current running through the film, which makes you think that Medem could make the scariest thriller if he wanted to, all through a weird familial story. After this brilliant first attempt, he did the masterpiece \"Red Squirrel\", so what more could you ask for ? One of today's most underrated films.",
+         "What is most remarkable about VACAS in hindsight is how quickly Medem settled into his unique, thrilling style - elliptical narrative which foregrounds inter-generational families, subjectivity, ambiguity, fate, magic, repetition, doubling; transcendent philosophical concerns grounded in brutal violence, earthy humour, identifiable characters and animal imagery; an astonishing use of colour as both emotional and ironic signifier; a busy, almost cheerful camera style which switches with ease from the panorama to the extreme detail, making great mental demands, but offering even greater rewards. VACAS invokes many genres, in particular the historical epic, and subverts them with dark glee, offering a dizzying, disturbing, unpalatable, ornate, sickening, epiphanic classic that might lose its way halfway through, but paves the way for an even greater masterpiece like TIERRA.",
+         "If life itself is cyclical, the telling of it must be so, too. This is evident in films like `Los Amantes del Círculo Polar' (1998) (qv) and `Lucía y el Sexo' (2001) (qv), both seen a long way previously to `Vacas' which I have only just recently been able to see - and where better but on the Basque Channel (Euskal Telebista). This story takes up over 60 years leading up to the eve of the Spanish Civil War in the high valleys and hills of Euskadi (Basque Country). Two rival families eke out a living. Highly charged with symbolisms - cows - and metaphorisms, as well as the ever-present rôle of Basque culture, such as the `aizkolari', the film proceeds unhurriedly through the years, unveiling an almost mysterious world of superstitions, envy and mistrust. The cyclical effect of the film is enhanced by some of the main actors - Carmelo Gómez, for example - playing more than one character as the years go by, thus assuring that the spectator has to be on his toes and aware of how the film's story is progressing. Good work here by Carmelo Gómez, and the rest of the cast is well up to Medem's demands. Superb photography by Carles Gusi, and as ever Alberto Iglesias' music is really good, mirroring well the scenery, its people and the story line. Well worth watching if you get the chance.",
+         "two of the most fascinating subjects in Carl Jung's psychoanalysis are synchronicity and the collective unconscious with its archetypes. i am sure Jung would have loved this movie if he was alive this same day. the subliminal moments of the movie are those when the most remote events, people and/or things seem to coincide in one point regardless of time and space. this is what Carl Jung calls 'synchronicity'. according to Jung, this synchronicities happen in our lives and their function is to indicate a meaning and purpose in life. from the beginning we can see how this strange coincidences point towards a destiny. this type of strange coincidences happen to many people around the world during their lives. the symbolism is most obvious in manuel's drawings. the way that manuel who appears as disconnected and insane, is on the contrary a well tuned connection with the collective unconscious, therefore, he has developed a strong sense of intuition where he can transcend and 'see' meaningful events in the future. the shape of things to come is what his drawings are about. an excellent movie! by the way, please excuse my English if you find some wrong spelling and some grammatical mistakes. English is my second language. thank you",
+         "Watching Vacas was an incredible experience for me, to say the least! This was the second, and probably the last, movie-experience that totally blew me off my feet in ways I didn't think was possible (the first similar experience was watching The Texas Chainsaw Massacre in my pre-teen days). After the credits stopped rolling my eyes were all misty and my head full of strange, strong emotions that I couldn't, and still can't, explain. I could not utter a word for hours. Excuse me for sounding so pretentious, but this movie really hit a nerve in me, it obviously triggered something deeply hidden in my subconsciousness. I'm afraid I would only ruining your own experiences by telling you about the story and the characters, since this is a movies thas has to take you by surprise to be fully enjoyed. Although I liked all of director Julio Medem's films, I'm willing to bet my last dime that he could never outdo this; he's already done the picture he was born to. The only filmmaker I can think of that has explored the same realms as Medem was when he did Vacas, is the great Soviet director Andrei Tarkovsky, although Medem's film works on a much stronger, more emotional and less intellectual, level. 10/10 and actually deserving it",
+         "\"Vacas\" a film debut by Julio Medem is an astonishing work and one of the best films in the spanish filmaking history. It is a masterpiece about the conflict between two basque families, from XIX to XX century. Masterly directing, superb acting and writing, and excellent photography and music. Everything filmed with poetic and lyric, that gives the film a very special image, and with the presence of the cows (vacas) and the basque tradition of cutting trunks. Do not miss that film, it is a superb work by a director, that in my opinion is one of the best directors around the world for the last ten years.",
+         "From 1875, (second Carlist war) to 1935 (Spanish CIvil War) in Basque Country, we are able to see the relationship between two near families, their discussions, their fight and their envies. All is viewed form the point of view of the cows, so quiet, so peaceful, so able to forgive, while we watch to the humane, their madness their lack of respect for life, their irresponsibility. Though it is hard to digest (too much for my taste) it is clear that it is a Medem's movie: the treatment of time, the sense of quietness in the environment and the development of the story. But we can see a young Medem, not so expert in these tools, and the result is not good as is used in these author, as he was still a noob, but we are able to see that he was a promising talent. Carmelo Gómez makes a terrific triple part and he is the one that builds the movie, everything happens around him and he is able to take the responsibility. The director is able to mix in a curious way the peaceful live of cowman's in Basque Country (and cows too) with the horrors of the war. It is not the best Medem's movie (well it is the worst he has done), but, being his opera prima, it is a pleasure to watch to it. If you are able to digest more or less correctly his films, you should not let pass the opportunity of watching this one, although it is not as good as \"Tierra\" or \"Los Amantes del Círculo Polar\"",
+         "I originally saw Vacas at the Mill Valley Film Festival before its general release and thought then that it was one of the most exceptional films I had ever seen. If you have the opportunity to view it, you are in for a rare visual and story treat. Since it failed to make general US release in 1991, I have been searching for a VCR/DVD copy of it, with at the least English subtitles, in order to share it with others. If anyone knows where to obtain such a copy, please let me know. TIA!!",
+         "Since 'Los Amantes del Círculo Polar' (1998), Julio Medem has been in my good books. This is one of his earlier masterpiece and I think this is one of the most powerful European movie in the 1990s, but very underrated, maybe because the Basque region (where the film sets) is not very popular nowadays. But if you watch this film, you will realize that those people are just like us with human feelings (fear, love, courage) and you will tolerate them. The only thing to do is to look into their eyes and you will understand that these people have been suffer and fight for freedom for centuries. Julio Medem is the most sophisticated and most sensitive contemporary Spanish director and in lot of aspects his works are much better than Almodóvar's and Saura's films because his style is cleared-out. This film is only 91 minutes long but it covers the story of two rival families from 1875 till 1936 so the story is very tense. But in my opinion if someone knows what he wants to say, he can say it in short and says the entity. Medem says the entity. The scenes of the woodsmen contest is one of the most thrilling and exciting scene what I've ever seen. The cinematography and the music are also superb it's full of surprising cinematographical solutions, like in the 'Los Amantes...'. Check this film, you won't be disappointed and you will find a real treasure and become a fan of Julio Medem. 100%"
+      ],
+      "genres": [
+         "Drama",
+         "Mystery",
+         "Romance",
+         "War"
+      ],
+      "productionCompanies": [
+         "Departamento de Cultura del Gobierno Vasco",
+         "Idea",
+         "Instituto de la Cinematografía y de las Artes Audiovisuales (ICAA)"
+      ],
+      "summaries": [
+         "A film set in the Basque region, beginning in the Carlist war of 1875 and ending during the Spanish Civil war of 1936. The film portrays how one single act of cowardice shapes the life of the next three generations of two families and fuels the intense rivalry which will span the next sixty-one years.",
+         "Biscay, Basque Country, 1875. For decades Spain has been the scene of the Carlist Wars, civil wars, of which the third and final now draws to a conclusion. On the Carlist front sergeant Carmelo Mendiluce hears his fellow villager Manuel Irigibel has arrived as a new soldier. The rookie seems pretty afraid and when the enemy attacks Carmelo tries to help him. But Manuel is a coward and due to his cowardliness Carmelo dies. To escape the war, he uses Carmelo's blood to pretend he's killed. Manuel's act is the start of a long period of rivalry and hatred between the Irigibel and Mendiluce families. 1915, however, is the time of a new generation, the generation of Peru Irigibel and Cristina Mendiluze.",
+         "Set in the Basque region, a story of the rivalry of two families, period 1870-1935"
+      ],
+      "budget": 0
+   },
+   "movielensId": 5104,
+   "movielens": {
+      "languages": ["Español"],
+      "releaseDate": "1992-02-26",
+      "dvdReleaseDate": "2002-01-29",
+      "directors": ["Julio Médem"],
+      "runtime": 96,
+      "movieId": 5104,
+      "title": "Cows",
+      "mpaa": null,
+      "actors": [
+         "Emma Suárez",
+         "Carmelo Gómez",
+         "Ana Torrent",
+         "Karra Elejalde",
+         "Klara Badiola",
+         "Pilar Bardem",
+         "Txema Blasco",
+         "Kandido Uranga",
+         "Miguel Ángel García",
+         "Ane Sánchez",
+         "Magdalena Mikolajczyk",
+         "Enara Azkue",
+         "Ortzi Balda",
+         "Elisabeth Ruiz",
+         "Ramón Barea"
+      ],
+      "imdbMovieId": "0103186",
+      "originalTitle": "Vacas",
+      "genres": ["Drama"],
+      "youtubeTrailerIds": ["wRFgORD3dkA"],
+      "plotSummary": "A film set in the Basque region, beginning in the Carlist war of 1875 and ending during the Spanish Civil war of 1936. The film portrays how one single act of cowardice shapes the life of the next three generations of two families and fuels the intense rivalry which will span the next sixty-one years.",
+      "tmdbMovieId": 2441,
+      "avgRating": 3.50806,
+      "releaseYear": "1992",
+      "numRatings": 62,
+      "posterPath": "/emCCvX5wc7C6sszY95sS2q0SkIn.jpg"
+   }
+}
