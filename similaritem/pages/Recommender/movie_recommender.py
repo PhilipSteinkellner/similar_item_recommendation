@@ -391,28 +391,14 @@ class Recommender:
 
     def similar_genome(self, movie_id):
         # check if json file exists for the given movie, if not return an empty list
+        # check if json file exists for the given movie, if not return an empty list
 
+        global genome
 
-        import csv
-        with open(file_path_genome, 'r') as f:  # opens PW file
-            reader = csv.reader(f)
-            # skip header
-            next(reader, None)
-            # genome_list = np.array(genome.values.tolist())
-            # values are ("last movie id" + 1, "last tag id" + 1)
-            genome = np.zeros((131171, 1129))
-            # building a genome list
-            for row in reader:
-                mov_id = int(row[0])
-                tag_id = int(row[1])
-                tag_relevance = float(row[2])
-                genome[mov_id][tag_id] = tag_relevance
-
-        genome = np.array(genome)
         print("genome list contruction done")
 
         try:
-            with open(self.extractedpath + str(movie_id) + '.json', encoding="utf8") as json_file:
+            with open(file_path_genome + str(movie_id) + '.json', encoding="utf8") as json_file:
                 data = json.load(json_file)
                 # extracting movie genres
                 genres = data['imdb']['genres']
@@ -422,7 +408,7 @@ class Recommender:
         # genome vector of the movie we want to get the recommendation for
         movie_genome_vector = genome[movie_id].reshape(1, -1)
         similarities = []
-        for key, row in self.movies.iterrows():
+        for key, row in self.movies_big.iterrows():
 
             # movieID of the current movie
             movie_id_2 = row['MovieID']
@@ -445,32 +431,30 @@ class Recommender:
                     # extracting genres
                     genres_2 = data['imdb']['genres']
                     if not genres_2: continue
-                    # extracting avg rate
-                    avg_rate_2 = data['movielens']['avgRating']
 
             except FileNotFoundError:
                 continue
 
             # number of genres the 2 movies have in common
             common_genres = len([g for g in genres if g in genres_2])
+
             # normalization of the number of genres in common by the number of genres for the input movie
             genre_similarity = common_genres / len(genres_2)
 
-            # normalized average rating for the movies
-            normalized_rate = avg_rate_2 / 5.0
             # add the movie and the score to the series
-            similarities.append((movie_id_2, similarity * genre_similarity))
+            similarities.append((movie_id, similarity * genre_similarity))
 
         # sort the series, the movie with the highest score being on top
         similarities = sorted(similarities, key=lambda k: k[1], reverse=True)
 
         # return the 5 most similar movies
         list = []
-
         for elem in similarities[0:5]:
             list.append(elem[0])
 
         return list
+
+
 
     # ****************************************************************************
     # methods used for django
