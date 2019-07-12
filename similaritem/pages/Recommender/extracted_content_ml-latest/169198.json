@@ -1,0 +1,788 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "coming out",
+            "id": 1862
+         },
+         {
+            "name": "female friendship",
+            "id": 5248
+         },
+         {
+            "name": "growing up",
+            "id": 9825
+         },
+         {
+            "name": "lesbian",
+            "id": 10768
+         },
+         {
+            "name": "lgbt",
+            "id": 158718
+         },
+         {
+            "name": "woman director",
+            "id": 187056
+         },
+         {
+            "name": "growing apart",
+            "id": 236771
+         }
+      ],
+      "imdb_id": "tt4686862",
+      "video": false,
+      "title": "Almost Adults",
+      "recommendations": [
+         421131,
+         181756,
+         82520,
+         91930,
+         352498,
+         361069,
+         241071,
+         44991,
+         254170,
+         486331,
+         34128,
+         144271,
+         40818,
+         14167,
+         113091,
+         403858,
+         393368,
+         72926,
+         33135,
+         84312
+      ],
+      "backdrop_path": "/4dJtBER8Thjb1hD3r5H9S64e8HC.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 3,
+               "character": "Cassie",
+               "gender": 1,
+               "credit_id": "55e62848c3a3685f9100062c",
+               "name": "Natasha Negovanlis",
+               "profile_path": "/5o843BNtmFfeok7z8RAzwx0MeEp.jpg",
+               "id": 1503535,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Mackenzie",
+               "gender": 1,
+               "credit_id": "55e6283ac3a3685f9e000648",
+               "name": "Elise Bauman",
+               "profile_path": "/r9aeqSAh3nMwEfxFWZtGiym7hmL.jpg",
+               "id": 1503534,
+               "order": 1
+            },
+            {
+               "cast_id": 6,
+               "character": "Levi",
+               "gender": 2,
+               "credit_id": "55e6289d9251410f020006a0",
+               "name": "Justin Gerhard",
+               "profile_path": "/zTEDO2QdcmqcuDDgaKtg53HPF3i.jpg",
+               "id": 1503536,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Elliot",
+               "gender": 1,
+               "credit_id": "55e628619251410f1700068a",
+               "name": "Winny Clarke",
+               "profile_path": "/2gwoDsVD9nbNNNM90uIEWRq99au.jpg",
+               "id": 1375341,
+               "order": 3
+            },
+            {
+               "cast_id": 18,
+               "character": "Matthew",
+               "gender": 0,
+               "credit_id": "5a3beb940e0a264ccd22d858",
+               "name": "Mark Matechuk",
+               "profile_path": null,
+               "id": 1858110,
+               "order": 4
+            },
+            {
+               "cast_id": 26,
+               "character": "Tasha",
+               "gender": 0,
+               "credit_id": "5a3beda7c3a3680b88228a5b",
+               "name": "Pujaa Pandey",
+               "profile_path": null,
+               "id": 1945899,
+               "order": 5
+            },
+            {
+               "cast_id": 27,
+               "character": "Dr. Reese",
+               "gender": 2,
+               "credit_id": "5a3bede80e0a264cc421d3fe",
+               "name": "David John Phillips",
+               "profile_path": null,
+               "id": 1746620,
+               "order": 6
+            },
+            {
+               "cast_id": 28,
+               "character": "Aimee",
+               "gender": 0,
+               "credit_id": "5a3bee6a925141547e09da85",
+               "name": "Raechele Lovell",
+               "profile_path": null,
+               "id": 1945905,
+               "order": 7
+            },
+            {
+               "cast_id": 29,
+               "character": "Lisa",
+               "gender": 0,
+               "credit_id": "5a3bee7fc3a368148f09982d",
+               "name": "Meredith Heinrich",
+               "profile_path": null,
+               "id": 1791487,
+               "order": 8
+            },
+            {
+               "cast_id": 30,
+               "character": "John",
+               "gender": 0,
+               "credit_id": "5a3bee8d925141547509e8e6",
+               "name": "Daryl Marks",
+               "profile_path": null,
+               "id": 1945906,
+               "order": 9
+            },
+            {
+               "cast_id": 31,
+               "character": "Diane",
+               "gender": 0,
+               "credit_id": "5a3beea2925141033622d7fe",
+               "name": "Delphine Roussel",
+               "profile_path": null,
+               "id": 1325518,
+               "order": 10
+            },
+            {
+               "cast_id": 32,
+               "character": "Richard",
+               "gender": 2,
+               "credit_id": "5a3beede925141547b0a062c",
+               "name": "Neil Affleck",
+               "profile_path": null,
+               "id": 133798,
+               "order": 11
+            },
+            {
+               "cast_id": 33,
+               "character": "Juliana",
+               "gender": 0,
+               "credit_id": "5a3bef44c3a36814ab0ac04c",
+               "name": "Christina Song",
+               "profile_path": null,
+               "id": 1503537,
+               "order": 12
+            },
+            {
+               "cast_id": 34,
+               "character": "Jesse",
+               "gender": 1,
+               "credit_id": "5a3bef56c3a36814ae0a436a",
+               "name": "Gwenlyn Cumyn",
+               "profile_path": "/zznmScWd5Iav9hAqHH9iSfwZOfG.jpg",
+               "id": 1309775,
+               "order": 13
+            },
+            {
+               "cast_id": 35,
+               "character": "Chase",
+               "gender": 0,
+               "credit_id": "5a3bef640e0a264ccd22dcc6",
+               "name": "Jordan Watson",
+               "profile_path": null,
+               "id": 1945907,
+               "order": 14
+            },
+            {
+               "cast_id": 36,
+               "character": "Chantelle",
+               "gender": 1,
+               "credit_id": "5a3bef79c3a368148f09992d",
+               "name": "Gráinne O'Flynn",
+               "profile_path": "/lgQCfWe16Gju3AdyxqZrinDCEUB.jpg",
+               "id": 1836542,
+               "order": 15
+            },
+            {
+               "cast_id": 37,
+               "character": "Elliot's New Girlfriend",
+               "gender": 0,
+               "credit_id": "5a3befa7c3a3680b88228cb7",
+               "name": "Alys Crocker",
+               "profile_path": null,
+               "id": 1375340,
+               "order": 16
+            },
+            {
+               "cast_id": 38,
+               "character": "TV Voice",
+               "gender": 0,
+               "credit_id": "5a3befb6925141032c22d99d",
+               "name": "Danny Bruzzi",
+               "profile_path": null,
+               "id": 999451,
+               "order": 17
+            },
+            {
+               "cast_id": 39,
+               "character": "TV Voice",
+               "gender": 0,
+               "credit_id": "5a3befc60e0a265f7702951f",
+               "name": "Dave Roberts",
+               "profile_path": null,
+               "id": 1397273,
+               "order": 18
+            }
+         ],
+         "crew": [
+            {
+               "gender": 1,
+               "credit_id": "55e62808c3a3685fa000058e",
+               "name": "Sarah Rotella",
+               "profile_path": "/maburwt7lzz3gQKvPoTfcyinTLX.jpg",
+               "id": 1503532,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 1,
+               "credit_id": "55e62821c3a3685f8500069d",
+               "name": "Adrianna DiLonardo",
+               "profile_path": "/4X60kmJH8OM3lTSu07nW3D68Edo.jpg",
+               "id": 1503533,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56943fb7c3a3680e9f00033b",
+               "name": "Rebecca Swift",
+               "profile_path": "/1gNvJJ6uK0KmwFAp8oqldxVtpic.jpg",
+               "id": 1562271,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59430920c3a3686c5901361b",
+               "name": "Ryan Glover",
+               "profile_path": null,
+               "id": 1448872,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "594309309251417f770133a4",
+               "name": "Haya Waseem",
+               "profile_path": null,
+               "id": 1639124,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "59430938c3a3686c400142e0",
+               "name": "Rosanna Lagace",
+               "profile_path": null,
+               "id": 1518512,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5943094c9251417f5b0139f4",
+               "name": "Sarah Rotella",
+               "profile_path": "/maburwt7lzz3gQKvPoTfcyinTLX.jpg",
+               "id": 1503532,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5943095f9251417f65013842",
+               "name": "Sam Graham",
+               "profile_path": null,
+               "id": 35296,
+               "department": "Production",
+               "job": "Line Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "59430984c3a3686c5901367b",
+               "name": "Adrianna DiLonardo",
+               "profile_path": "/4X60kmJH8OM3lTSu07nW3D68Edo.jpg",
+               "id": 1503533,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3bec59c3a3680b8d226a2c",
+               "name": "Jennifer Soutar",
+               "profile_path": null,
+               "id": 1945890,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3beccd0e0a264cc421d28f",
+               "name": "Luke McMaster",
+               "profile_path": null,
+               "id": 1945894,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3becda0e0a264cbe222738",
+               "name": "Arun Chaturvedi",
+               "profile_path": null,
+               "id": 1945895,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3becffc3a368148f09965b",
+               "name": "Beth Mell",
+               "profile_path": null,
+               "id": 1943610,
+               "department": "Directing",
+               "job": "First Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3bed3d0e0a264cc12227bf",
+               "name": "Gerard Goco",
+               "profile_path": null,
+               "id": 1945897,
+               "department": "Directing",
+               "job": "Second Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3bed50925141032c22d6b6",
+               "name": "Krystal Martin",
+               "profile_path": null,
+               "id": 1945898,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3bed60925141547509e751",
+               "name": "Krystal Martin",
+               "profile_path": null,
+               "id": 1945898,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3bf0ed0e0a264cc421d777",
+               "name": "Angela Froese",
+               "profile_path": null,
+               "id": 1945908,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3bf0fa925141547209e888",
+               "name": "Sara Fargo",
+               "profile_path": null,
+               "id": 1945909,
+               "department": "Camera",
+               "job": "First Assistant Camera"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3bf13a925141032c22db89",
+               "name": "Anya Shor",
+               "profile_path": null,
+               "id": 1796166,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3bf149c3a3680b8d227021",
+               "name": "Cait Lusk",
+               "profile_path": null,
+               "id": 1792973,
+               "department": "Camera",
+               "job": "Key Grip"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3bf1810e0a264cbe222cac",
+               "name": "Ben Lehman",
+               "profile_path": null,
+               "id": 1945910,
+               "department": "Camera",
+               "job": "Grip"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3bf190c3a36814b90a16b4",
+               "name": "Lindsay Roberts",
+               "profile_path": null,
+               "id": 1945911,
+               "department": "Camera",
+               "job": "Grip"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3bf1a4925141547209e96f",
+               "name": "Adrian Antoneschia",
+               "profile_path": null,
+               "id": 1945912,
+               "department": "Camera",
+               "job": "Grip"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3bf1b4925141547509ec7b",
+               "name": "Trisha Harris",
+               "profile_path": null,
+               "id": 1784133,
+               "department": "Sound",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3bf1c5925141547509ec8c",
+               "name": "Dana Lageman",
+               "profile_path": null,
+               "id": 1438654,
+               "department": "Sound",
+               "job": "Boom Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3bf1e7925141547b0a0a22",
+               "name": "Electa Porado",
+               "profile_path": null,
+               "id": 1945916,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3bf1f80e0a264cca223850",
+               "name": "Mike Ward",
+               "profile_path": null,
+               "id": 1828351,
+               "department": "Art",
+               "job": "Set Dresser"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3bf2080e0a264cbe222d74",
+               "name": "James Hagarty",
+               "profile_path": null,
+               "id": 1945917,
+               "department": "Art",
+               "job": "Set Dresser"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3bf24dc3a3680b9d20e20a",
+               "name": "Kate Parkes",
+               "profile_path": null,
+               "id": 1945919,
+               "department": "Crew",
+               "job": "Unit Publicist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3bf27a925141547209ea79",
+               "name": "Marcella DiLonardo",
+               "profile_path": null,
+               "id": 1945920,
+               "department": "Crew",
+               "job": "Chef"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5a3bf29c925141032422838c",
+               "name": "Rebecca Swift",
+               "profile_path": "/1gNvJJ6uK0KmwFAp8oqldxVtpic.jpg",
+               "id": 1562271,
+               "department": "Crew",
+               "job": "Post Production Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3bf2a80e0a265f770298b0",
+               "name": "Set Shuter",
+               "profile_path": null,
+               "id": 1945922,
+               "department": "Crew",
+               "job": "Post Production Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3bf2ddc3a3680b9d20e2ac",
+               "name": "Set Shuter",
+               "profile_path": null,
+               "id": 1945922,
+               "department": "Editing",
+               "job": "Assistant Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3bf32ac3a36814ae0a4865",
+               "name": "Earl Torno",
+               "profile_path": null,
+               "id": 1945926,
+               "department": "Sound",
+               "job": "Music Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a3bf34f0e0a264cca2239e7",
+               "name": "John Stewart",
+               "profile_path": null,
+               "id": 1945928,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3bf38fc3a3680b9d20e380",
+               "name": "Rob Andres",
+               "profile_path": null,
+               "id": 1470903,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3bf3d0c3a3680b8d227303",
+               "name": "Karen Lo",
+               "profile_path": null,
+               "id": 1945929,
+               "department": "Art",
+               "job": "Title Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3bf3f6925141547509ef22",
+               "name": "Walter Stasyshyn",
+               "profile_path": null,
+               "id": 1945931,
+               "department": "Crew",
+               "job": "Legal Services"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3bf4a5c3a3680b8d22740f",
+               "name": "Lisa Moore",
+               "profile_path": null,
+               "id": 1945935,
+               "department": "Crew",
+               "job": "Legal Services"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 3.102634,
+      "production_countries": [{
+         "iso_3166_1": "CA",
+         "name": "Canada"
+      }],
+      "id": 357424,
+      "vote_count": 66,
+      "budget": 0,
+      "overview": "Follows two best friends in their final year of college while they transition into adulthood. One embraces her sexuality and tries to catch up on everything she has missed during her teenage years, while the other ends a long term relationship with her boyfriend and discovers her life isn't going as planned. Both struggle to keep their friendship together as they begin growing apart.",
+      "similar": [
+         370663,
+         449176,
+         513,
+         258480,
+         10938,
+         21060,
+         338189,
+         401898,
+         376867,
+         184352,
+         18212,
+         12793,
+         152584,
+         26280,
+         20770,
+         9653,
+         11000,
+         540,
+         1213,
+         244772
+      ],
+      "original_title": "Almost Adults",
+      "runtime": 90,
+      "poster_path": "/mNPVq9Cok25btwKpzkPb5Xek0qY.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "Unsolicited Pictures",
+         "id": 91569,
+         "origin_country": ""
+      }],
+      "release_date": "2016-10-15",
+      "vote_average": 6.1,
+      "belongs_to_collection": null,
+      "tagline": "Growing up is hard when you're growing apart.",
+      "adult": false,
+      "homepage": "http://almostadultsmovie.com",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Canada",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Sarah Rotella"],
+      "runtime": 90,
+      "synopsis": null,
+      "writers": ["Adrianna DiLonardo"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt4686862/",
+      "coverLink": "https://ia.media-imdb.com/images/M/MV5BNGNiMWNmMzAtMmNhNS00MGE1LTg0YTQtYTliNjA2ODY3MjZiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjc1NDA2MjU@._V1_UY268_CR16,0,182,268_AL_.jpg",
+      "actors": [
+         "Natasha Negovanlis",
+         "Elise Bauman",
+         "Justin Gerhard"
+      ],
+      "reviews": [
+         "I'm sure this movie won't be for everyone, but I'm well outside the target audience (I'm in my 50's) and although some of the jokes slide by I thoroughly enjoyed it. I've lived some of those moments and they sang true on screen for me. It's not going to change the world but it was lightweight, funny and hit a spot that needs to be hit.",
+         "I follow the makers of this film (Sarah and Adrianna) as well as the actresses who also play Carmilla, so please know that I am trying to like this movie. My initial thoughts on the plot of this film was that it seemed just like that Leighton Meester movie, \"Life Partners\" but I was desperately hoping it was not. It wasn't the best movie in the world, but it still beat this one. I'm sorry, but I can't like this movie. It's just not possible. It's cliché, the acting is bad, the script is shallow and boring. The fact that its filled with Lesbian stereotypes to the rim just adds insult to injury. Story line: Boring and cliché. It's filled with lesbian stereotypes and rather than a nervous exploration into the lesbian world as a \"baby dyke\" it ended up being incredibly shallow, typical and simply unrealistic. The film tries too hard to be funny. And while something said in the film may work among friends, film viewers aren't friends with the characters because there is no depth. Characters: No depth to any of them whatsoever. By the end of the film you don't know them any better than at the beginning of the film. Acting: It's OK at times, but for the most part it is not great. I expected more from Elise and Natasha outside of Carmilla. But considering how both overacted even the simplest of human interactions goes to show that both are simply too inexperienced. This was an hour and a half that I just ended up cringing and stopping the film. When it came to serious scenes, I just could not take either of them seriously. Summary: I hate to say I hated this film. But I hated this film. It was boring, cliché, had no depth and was just not funny. I'm sorry Sarah and Adrianna, but this was a bad film. I walked away not gaining anything from this film except for cringe.",
+         "Originally, I was really exited for this movie - I love the actors and the people behind it. I even contributed to the kickstarter campaign. But the movie was so disappointing. The most of it was cringe worthy and almost painful to watch. I'm pretty sure that this was suppose to be a comedy, but the humor fell completely flat with me. And I didn't like the fact that they used the R word the way they did. The whole movie is almost based on the fact that Cassie is overreacting (who would almost throw away a friendship over that?)and that's a shame. Also as a backer, I'm disappointed in how long we had to wait to see the movie (I know they had to find a contributor first), but if I remember correctly, we were promised to watch the movie before anyone else. And that clearly didn't happen.",
+         "I honestly don't know why there are so many negative reviews; I thought it was super sweet, relateable, funny, and a breath of fresh air both in terms of representation and in the fact that it didn't fall prey to most LGBTQ fiction tropes or film clichés in general. It was very real and also just kept me giggling, and the actors are all fantastic. New favorite!",
+         "Because of the horrible review I read I really didn't expect much. So, I was surprised to find that this movie as really quite charming. The acting as not so horrible but if you're from L.A. it might have seemed mocking of the \"valley girl\" way of speech. However, many girls across the U.S. really do talk like that no thanks to 90210. It was a comedy. It didn't seem any more forced than many of the really bad comedies coming out of Hollywood these days with huge lead actors. It was a cute little movie.",
+         "I really wanted to like this movie. I follow the screenwriter and director on YouTube and upon seeing the trailer thought it was going to be an alright movie. But I found myself hesitating to watch it because I had a gut feeling about the kind of movie it would be. Turns out I was right. The idea of this film isn't terrible but almost everything about it was done poorly. The acting is cringy, the writing even more so, and the directing is static and uninspired. I didn't find myself liking the majority of the characters, I found them annoying and unfunny. So much of the plot is based solely on the fact that both of the main characters are too self-involved to care about each others lives, which makes one wonder how their friendship lasted so long to begin with. A lot of the interactions the characters have with one another are very unbelievable and so many of the characters are one- dimensional and boring. That being said, there were some lines that made me laugh and there are a few times that the film can be quite clever. The two main leads have a lot of potential and looking back on it I think the main thing to take into consideration is the lack of experience almost everyone involved with the production of this film has. This is the first feature length film that most of these people have done. This isn't a large production company, this movie was partly funded by kickstarter. I think if this screenplay had been in the hands of more experienced people it could have been a lot better.",
+         "I should preface many of my reviews by saying that I swear that I'm not out to be snarky; I just want to remember how bad these movies are so that I don't somehow forget and try to watch them again. With a few small changes this could be a hilarious horror movie parody called \"Escaped Project from a Sophomore Film Class.\" Or maybe it's from gender studies\u0085is that even a thing? But alas, they don't have enough of a sense of humor to se this potential so what this really turned out to be was \"Girls, The Movie\" which was \"Sex and the City for Younger Idiots.\" I couldn't imagine people that I could care even less about, even less than the self-centered nitwits from Girls. Can film makers please stop making us read text messages in movies? Just send me the entire film in the form of a Tweet to save me the effort and time of fast-forwarding through this snorer. There wasn't a single scene that didn't make me uncomfortable because it was stupid. Bad music, bad acting, and scenes of young dorks doing stuff that only morons do. Seriously, who has ever played beer pong except dorks? Seriously, parents should explain to their children that drinking alcohol is a big part of adult life so don't turn it into a children's game. And then there is their lame-ass \"newfound\" sexuality. You just know that gay,lesbian, trans-gender, or straight they are really lousy at it and they would rather jerk-off on their cell phones than get naked with anyone. And having a gay guy as your personal pet is just the coolest thing in the world, just like on SATC.",
+         "I'm surprised by the number of negative reviews. This was really good! The characters were well-written and believable and the performances were great. The only (minor) negative is that it relies heavily on the \"gay best friend who dispenses sage advice\" trope, but it actually lampshades it pretty humorously. This movie evoked a lot of memories for me about when I was an \"almost adult\" and the friendships I had at the time and how they've changed as I've gotten older. It's impressive how much this movie maintains its humor even as it gets more serious and bittersweet towards the end. The leads did a fantastic job--they have unbelievable chemistry together. If you want to remember that nervous feeling when you were just about to graduate college and everything was changing in scary yet exciting ways, and laugh a lot as well, check this movie out.",
+         "Super sweet, super heart-warming, and so REAL for anyone in any stage of young adulthood. Perfectly captures the intensity of friendships and relationships, general real-life awkwardness, and the truth of friendship. Literally squeeing. I don't think I've ever seen a better portrayal of friendship, all aspects of it, and I loved that they stayed true to that and didn't add unnecessary clichés -- the straight characters didn't turn gay, there were no gay crushes on straight friends, and they didn't up and change their entire lives for each other at the drop of a hat because that's not realistic. Also, some relationships don't work out, and they let that stand. And, lastly, Sarah and Adrianna (and Elise and Natasha) continue to push actual, truthful representation of the LGBTQ+ community into the media and that's so, so special. Honestly my absolute new favorite. Love all of these guys!",
+         "I truly cannot understand the negative comments above. This movie was so wonderful it was truly a delight to watch it from start to finish.Even if sort of simplistic, the plot was refreshing in its portrayal of the lesbian/bi mediated image. The tension between the girls was incredibly realistic and well written and acted. Their chemistry was natural. Overall, I'm mostly impressed with the result knowing that Sarah and Adrianne started shooting videos in their bed. The quality is good, the acting is natural, and the overall post production work is on point. Sure, the shape is not a masterpiece, but the true subject of the movie stays above all and does make it a piece of art for someone watching it for the first time.",
+         "It seems somewhat irresponsible and completely disrespectful to use such a public and influential platform such as IMDb to, more than anything else, rant about the fact that this film did not meet your expectations. Expectations that are clearly unrealistic, given the plot and development of the film and its characters. Of course, to some, the movie had its flaws, both in execution and in later distribution. But it delivered. Viewers must enjoy this film as an independent project and set aside any personal ambitions and unhealthy obsessions that may result detrimental for the cast and crew involved. We should instead celebrate positive representation and encourage a younger generation's standpoint in the industry.",
+         "It was really adorable and I LOVED the great wordplay with innuendos that are sprinkled all around in the movie. The relationships are actually rather fascinating. But... I am sorry to say that some of the jokes almost ruined the movie for me. Most had me seriously cracking up...But then...1. \"50yo woman with two mentally disabled sons\". It was actually cruel. Also, really... insensitive. It is just not wise or kind to mock others, especially if you never took the time to even consider what it would be like to be them, or how they actually got there. Also, 2. \"Bald 40yo man that runs a convenience store\". This Really repulsed me because if you care anything about immigrants, refugees, just people in general, this humor is shows ignorance. Is this Trump humor? Just random blows at innocent people based off of faulty assumptions! Be careful about your humor. It can really ruin an otherwise great movie! Now, another joke was chosen by the writers to carry on throughout the movie, and it was incredibly harsh. It was when the girls continued to bash a man and reduce him as a person to nothing more than the embarrassing size of his penis. Haven't enough women dealt with this to understand how bad this makes people feel? Women are judged all the time about their bodies. Now, before you assume about me, I just want to also add that, No, I am not a man that was burned by the joking. I am just a compassionate and empathetic woman that instantly feels the sharp pain that other people might be feeling when they are attacked out of nowhere by this kind of humor. It takes more effort to be kind, but it really does matter. No one, male or female should be judged and mocked for who they are or for their shapes. Keep those hateful thoughts to yourself, please, if you must have them.",
+         "An entertaining film, with a pleasant rhythm that lets pass the time quickly, besides some performances by Natasha Negovanlis and Elise Bauman are very acceptable and it shows the rapport and communication that have Carmilla. But even so, there are changes of rhythm that dislocate, since at the hour approximately does not understand why the change in the relationship between the two protagonists, this at least slows down the pace with which the story is being told and leaves us with A last half hour a little to the must as it feels like two completely different films. Besides that the characters never manage to be well developed by the same thing can not have a clear acceptance towards them. In summary it is not a bad movie, but in the trailer it looked much better than the final product.",
+         "First off, I have to say I watched this way before I started on Carmilla. I didn't know who Carmilla is, I didn't know who Laura is. But even then, their dynamics and chemistry in this movie is amazing, and I like the comedy that was constantly played around by the casts. It's highly entertaining. Elise's acting was really natural, and her coming out to her parents was done pretty well and casual, and this kind of representation is what we need. It's not a big deal being gay, and parents of queer kids need to know this. Natasha also did a great job in portraying a straight roommate, her frustrations and concerns regarding her best friend being gay is also a real life issue. It's comforting to know and see that her character didn't mind that Elise's character was gay and instead, she was offended that she was one of the last people to know that her best friend is gay. I gave this movie a 10/10, because I want to see more movies like this. Romance + comedy + drama. It's more than what I usually see on-screen in the past. This is a great film, and I hope more people would support it. Thank you.",
+         "I have absolutely no idea who the actors and director of the movie are (although they seem to have a very impressive resume on IMDB) so I didn't have any kind of expectations for this movie. I ended up enjoying it. I liked the chemistry between the actors. And they portrayed how young people act and talk very realistically (sure it may upset some SJWs but this is how real life is). The story about friends distancing each other when changes come to their lives is something everyone can connect to and it is done very well. My only issue was that I couldn't feel for Mackenzie in this story. She was the one who didn't make sense to me. I still don't get why she took so long to tell her best friend that she is lesbian. Because Cassie couldn't guess it herself? Why would she? She has no gaydar and somebody being stereotypical lesbian isn't necessarily a lesbian. So I could understand her that she was upset to be left out by the person who one would thing would confide in her first. Also why was Mackenzie upset her parents took it so well? Yes, I don't get her. But still their friendship was [presented very well, and even if I wouldn't be friends with one of them I can see how connected they are. Another thing is that I didn't get why parents were less informed about internet or google. People their age used internet most of their adult lives. It isn't the same as parents in 2001 for whom it was new. And Mackenzie didn't know tumblr, whaaat? But these were just minor details that one can ignore and laugh about. So all in all it was a good movie. Entertaining and engaging.",
+         "I was really excited to watch this film because I am a huge fan of the Gay Women Channel. I watched it on Netflix tonight and have to say I feel empty after finishing it... And not in a good way. The two lead performances (by Carmilla's own Elise Baumen and Natasha Negovanlis) were good, not great, and they made the most of what they had, script-wise. It almost felt like it would have worked better as a YouTube series or something serialized. The story sort of petered off and then went no where... It was also sort of off-putting to see Natasha and Elise in this situation, honestly... It was hard to believe. The stakes were never quite high enough to earn their dramatic performances. Looking forward to what all of these artists do next. Liked it, but definitely didn't love it.",
+         "transphobic, misogynistic, albeist. this movie claims to be good representation it's not it's a disgrace to the community. a movie like almost adults is supposed to normalize being gay, but not at the expense of the rest of the lgbtq+ community. people going in to see good representation will see and be influenced by the transphobia, misogyny, and, ableism in this movie, ultimately creating more divisions in the community and making us fight against each other instead of with each other. although, I never expected anything more from the gay women channel. their videos on their YouTube channel feature loads of the same issues as well as biphobia. you can't make a film like this claiming it's for LGBT people when it's really just for cis gays who don't care about the rest of the community. sincerely, your local bitter nonbinary aroace",
+         "The strong friendship between two young women is tested as their lives take different paths. I am a real sucker for these feel good, coming of age type movies. I loved this one a lot. The main characters are a little older than is standard for this genre but does ring true with the arrested development of the younger generation. This makes a lot of fun things that have become clichés for being clichés. Like for instance: parents reactions over hearing their child is gay. The story has a lot of standard elements but has enough kinks to keep it interesting - some of the characters \"get away\" with being quite ghastly but are till endearing. The chemistry between the two female leads really makes this film. Unfortunately the scenes with the male lead didn't work for me. Somehow the actors just didn't gel. Nothing massively funny or deep here, just good-hearted, humorous, feel good viewing.",
+         "May Contain Spoilers. First let me say, that i have no idea, who made this movie. If they are on youtube, if they had a Kickstarter page, etc. I just like watching independent movies on Netflix. I saw this one and as there are not a lot of Lesbian movies, i decided to give it a go. it felt more like a 90 min Degrassi Episode. I felt that there was not enough material, the \" conflict\" wasn't't big enough to cover a 90 minute movie. But besides that, they still managed to have underdeveloped characters and story lines. I think that the movie started strong but got worse and worse as they noticed, that they don't have a plot. You can see it in the acting as well, in the beginning, the relationship between the two girls was sweet and very believable. Then both of them just became really selfish and not relatable. I wouldn't be friends with either of them. I think this is reflected in the actors' performance as well. They both started of solid but you could see, that when the quality of the script declined, so did the quality of the acting. Last 20 minutes i was quite tempted to skip to the end. I think that the leads were fine but needed better material to work with.",
+         "This movie was terrible, I had to turn it off and I NEVER do that. The acting was cringe worthy and the jokes were terrible. Where she's like I put my finger down there and just left.. I thought maybe the response would be I was nervous or something. She instead is all, I didn't know what to do...? Like common you've never touched yourself? The guy you dated never touched you?!",
+         "As someone who loves the unsolicited project I was expecting something funny and uplifting. Instead we got a cliché story lacking humor, wit, and charm. The characters were one dimensional and terribly acted, which is disappointing knowing the chemistry the two leads had in Carmilla. Don't even get me started on the \"flaming male gay best friend\" trope or the fact that we're supposed to believe Mack doesn't already have the slightest idea what Tumblr is, or that you shouldn't have a Tumblr girlfriend when you have a real one. What could have been the start of an era of funny, happy lesbian movies has fallen flat. There were even points were the cinematography felt like it was recorded on a shaky Iphone. Hopefully they learn from their mistakes and take their hilarious sketches and make something out of them that we can all enjoy.",
+         "To start i want to say I love Sarah and Adrianna, so I really wanted to enjoy this movie. That being said, the movie was mediocre. The acting/script was at times very cringe-worthy. I got secondhand embarrassment watching this, and actual embarrassment because I was watching with my girlfriend who doesn't follow the Gay Women channel. I was disappointed with the use of the R word, as well as a scene where Mackenzie says her Tumblr girlfriend is \"probably 50 years old and has two mentally challenged sons.\" (Y I K E S) Some parts of the movie were funny and I enjoyed the references to the Gay Women channel. This movie is targeted more for young girls who have just come out. As far as lesbian content goes, this movie is better than most and I hope to see more from Sarah and Adrianna. After all they are just starting out so they have room for improvement. (this movie also could really use some diversity)",
+         "It's such a shame that this film fell short of expectations but it really did. I contributed to the kickstarter and I was psyched to do so, Sarah and Adrianna proved their talent over and over again with their Youtube channel and clever comedy. Perhaps this could've worked if they were in front of the camera and not behind it. First things first, this was a good idea, the concept is a solid idea, it just doesn't work for film. By the time we're in the throws of Mackenzie and Cassie fighting I still don't really care about them, no depth is explored to their friendship and as such when they fight it doesn't tug on my heartstrings the way it should. If they had done this as a full length series with more time invested in their relationship its history and its development I think it could have worked. 5 minute montage scene does not a history make. Secondly, as strange as this sounds I just didn't see \"friendship\" chemistry between Elise and Natasha which is strange since they've obviously worked together for awhile. The only natural scenes seemed to gel with Levi, who provided 90% of the humour despite his small role. The intended humour between Mackenzie and Cassie fell flat, resorting to LGBT stereotypes that are just too burnt out for the straight writers let alone a gay one. Thirdly, by casting LGBT folk heroes in the means of Elise and Natasha they ensured an audience but sacrificed some serious acting chops. They'll be wonderful in ten years I have no doubt about that, but they're earning their stripes and they bit off more than they could chew here. Perhaps if you'd cast one of them and then a newbie it could have worked but an established canon was constantly in mind during the scenes and I found myself looking for the soya blood milk carton for half the film. There was a lot of over promising for this film. The delayed release helped in subduing excitement for finally seeing it. I don't regret contributing to the kickstarter, but I won't be doing it again. Stick with pillow talk, it's hilarious."
+      ],
+      "genres": [
+         "Comedy",
+         "Drama"
+      ],
+      "productionCompanies": ["Unsolicited Pictures"],
+      "summaries": ["A film about growing apart when growing up. Two best friends relationship strains when one deals with her newfound sexuality and the other with breaking up with her long term boyfriend."],
+      "budget": 0
+   },
+   "movielensId": 169198,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2016-10-15",
+      "dvdReleaseDate": null,
+      "directors": ["Sarah Rotella"],
+      "runtime": 90,
+      "movieId": 169198,
+      "title": "Almost Adults",
+      "mpaa": "",
+      "actors": [
+         "Natasha Negovanlis",
+         "Elise Bauman",
+         "Justin Gerhard",
+         "Winny Clarke",
+         "Mark Matechuk",
+         "Pujaa Pandey",
+         "David John Phillips",
+         "Raechele Lovell",
+         "Meredith Heinrich",
+         "Daryl Marks",
+         "Delphine Roussel",
+         "Neil Affleck",
+         "Christina Song",
+         "Gwenlyn Cumyn",
+         "Jordan Watson",
+         "Gráinne O'Flynn",
+         "Alys Crocker",
+         "Danny Bruzzi",
+         "Dave Roberts"
+      ],
+      "imdbMovieId": "4686862",
+      "originalTitle": "Almost Adults",
+      "genres": [
+         "Comedy",
+         "Drama",
+         "Romance"
+      ],
+      "youtubeTrailerIds": [
+         "dhqM81SVXt4",
+         "ocyLVGu5L-4",
+         "-PEx1QAlSB8",
+         "NuSlmL7PtEU",
+         "ROdhuE_ZDLI",
+         "8R6Qd_o-ysg",
+         "XcL2eJg1ERk",
+         "EVXVG39zdAc",
+         "pvpEvmIlmEI",
+         "hAvPEdqb83s",
+         "47RVV16OOFI",
+         "FcPSlCTo6IA",
+         "IyHHnHwVG9E",
+         "4uLT1HDod0w",
+         "fg0yBQ7Yr8o",
+         "2UKNTM-Fc0s",
+         "sybq5MP5YSU"
+      ],
+      "plotSummary": "Follows two best friends in their final year of college while they transition into adulthood. One embraces her sexuality and tries to catch up on everything she has missed during her teenage years, while the other ends a long term relationship with her boyfriend and discovers her life isn't going as planned. Both struggle to keep their friendship together as they begin growing apart.",
+      "tmdbMovieId": 357424,
+      "avgRating": 2.8,
+      "releaseYear": "2016",
+      "numRatings": 10,
+      "posterPath": "/mNPVq9Cok25btwKpzkPb5Xek0qY.jpg"
+   }
+}

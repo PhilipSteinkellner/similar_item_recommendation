@@ -1,0 +1,388 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "artist",
+            "id": 2679
+         },
+         {
+            "name": "haunted house",
+            "id": 3358
+         },
+         {
+            "name": "beer",
+            "id": 4552
+         },
+         {
+            "name": "stripper",
+            "id": 6593
+         },
+         {
+            "name": "haunting",
+            "id": 10224
+         },
+         {
+            "name": "cottage",
+            "id": 11826
+         },
+         {
+            "name": "ghost hunter",
+            "id": 159939
+         },
+         {
+            "name": "ghost",
+            "id": 162846
+         }
+      ],
+      "imdb_id": "tt4185566",
+      "video": false,
+      "title": "Another Evil",
+      "recommendations": [
+         448194,
+         433829,
+         384452,
+         369912,
+         404516,
+         407775,
+         405174,
+         91683,
+         336683,
+         360007,
+         407757,
+         327253,
+         410212,
+         444689,
+         406625,
+         387399,
+         470390
+      ],
+      "backdrop_path": "/9xe0c5cgkjyZC06vujkfcO1pwLU.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 8,
+               "character": "Dan",
+               "gender": 2,
+               "credit_id": "56eae783c3a36806ab0000ef",
+               "name": "Steve Zissis",
+               "profile_path": "/cE8srhD9teDwr7pzu3ovDmGRstB.jpg",
+               "id": 45398,
+               "order": 0
+            },
+            {
+               "cast_id": 7,
+               "character": "Os",
+               "gender": 0,
+               "credit_id": "56eae782c3a36806a8000130",
+               "name": "Mark Proksch",
+               "profile_path": "/yNMgiyDvwTMe0nNpEjoiS3nGKSz.jpg",
+               "id": 1198148,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Mary",
+               "gender": 1,
+               "credit_id": "56b2730fc3a36845c0000d93",
+               "name": "Jennifer Irwin",
+               "profile_path": "/zRW1zAMK1mxBzQJelZrcSuk3jKE.jpg",
+               "id": 52956,
+               "order": 2
+            },
+            {
+               "cast_id": 5,
+               "character": "Jazz",
+               "gender": 0,
+               "credit_id": "56eae7829251414b1a000109",
+               "name": "Dax Flame",
+               "profile_path": "/cCvBhKQnMNMZ7eStP3EYvLVplzm.jpg",
+               "id": 996700,
+               "order": 3
+            },
+            {
+               "cast_id": 1,
+               "character": "George",
+               "gender": 2,
+               "credit_id": "56b272fb9251410338000cde",
+               "name": "Steve Little",
+               "profile_path": "/mm2AKYPv9raTzKo8eVvA1ClmPBa.jpg",
+               "id": 141433,
+               "order": 4
+            },
+            {
+               "cast_id": 2,
+               "character": "Joey Lee",
+               "gender": 2,
+               "credit_id": "56b27305925141034b000d00",
+               "name": "Dan Bakkedahl",
+               "profile_path": "/jAxENHkp7h4W9YcFGGbs4eFIMj9.jpg",
+               "id": 1183546,
+               "order": 5
+            },
+            {
+               "cast_id": 4,
+               "character": "Dude",
+               "gender": 0,
+               "credit_id": "56eae781c3a36806b700012d",
+               "name": "Beck DeRobertis",
+               "profile_path": null,
+               "id": 1592116,
+               "order": 6
+            },
+            {
+               "cast_id": 6,
+               "character": "Savannah",
+               "gender": 0,
+               "credit_id": "56eae7829251414b1d000108",
+               "name": "Mariko Munro",
+               "profile_path": null,
+               "id": 1140222,
+               "order": 7
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "56b272d9c3a36845c9000c7c",
+               "name": "Carson D. Mell",
+               "profile_path": null,
+               "id": 1122300,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56eae7c3c3a36806bd00010a",
+               "name": "Carson D. Mell",
+               "profile_path": null,
+               "id": 1122300,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56eae8fec3a36806a60001a1",
+               "name": "Alex O'Flinn",
+               "profile_path": null,
+               "id": 1409026,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56eae910c3a36806b300014f",
+               "name": "Ashley Fenton",
+               "profile_path": null,
+               "id": 1287630,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56eae919c3a36806af000150",
+               "name": "Megan Fenton",
+               "profile_path": null,
+               "id": 1287629,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56eae92b9251414b2100013f",
+               "name": "Elizabeth Warn",
+               "profile_path": null,
+               "id": 1491977,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5962d68dc3a36828a10f94b4",
+               "name": "Carson D. Mell",
+               "profile_path": null,
+               "id": 1122300,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5962d5f0c3a3680dec0bad13",
+               "name": "Drew Bienemann",
+               "profile_path": null,
+               "id": 1595634,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5962d6bc92514121f00c5d27",
+               "name": "Sebastian Pardo",
+               "profile_path": null,
+               "id": 1372045,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5962d6dcc3a36828a10f9537",
+               "name": "Riel Roch Decter",
+               "profile_path": null,
+               "id": 1368486,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5962d6fec3a3680d590b9f75",
+               "name": "Jeff Keith",
+               "profile_path": null,
+               "id": 1202002,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5962d739c3a368265d0dc63b",
+               "name": "Alexandra Johnstone",
+               "profile_path": null,
+               "id": 1848457,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Horror",
+            "id": 27
+         }
+      ],
+      "popularity": 1.114052,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 381032,
+      "vote_count": 14,
+      "budget": 0,
+      "overview": "After encountering a ghost in his family's vacation home, Dan and his wife Mary hire an \"industrial-grade exorcist\" named Os to get rid of the beings.",
+      "similar": [
+         77949,
+         288158,
+         134366,
+         2655,
+         620,
+         91586,
+         138843,
+         201085,
+         452507,
+         416160,
+         10014,
+         259693,
+         8839,
+         19592,
+         79694,
+         291272,
+         11618,
+         335796,
+         157547,
+         423536
+      ],
+      "original_title": "Another Evil",
+      "runtime": 92,
+      "poster_path": "/fC73oC0xwssWc7ty6dspPvgqfyz.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "Memory",
+         "id": 34777,
+         "origin_country": ""
+      }],
+      "release_date": "2017-05-05",
+      "vote_average": 5.7,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Carson Mell"],
+      "runtime": 90,
+      "synopsis": null,
+      "writers": ["Carson Mell"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt4185566/",
+      "coverLink": "https://ia.media-imdb.com/images/M/MV5BMjIyMjg5Mzc4NV5BMl5BanBnXkFtZTgwMjY1Mjg4MTI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "actors": [
+         "Dan Bakkedahl",
+         "Beck DeRobertis",
+         "Dax Flame"
+      ],
+      "reviews": [
+         "Another Evil is one gem of a little film. Let the reference to 'little' not mislead you though - it's 'little' not due to lack of significance or quality, but because of its limited budget and its orientation towards a smaller audience (appreciators of intelligent minimalist horror comedy). The film seems to have been made by true enthusiasts of the genre who must have enjoyed every bit of making it. Another Evil is a good proof of the fact that it's not the budget and fancy special effects that make a good film but a quality script, skillful directing and good acting. The Plot is simple. A family's house is haunted by evil (or not?) spirits and the man of the family invites a ghost specialist (or a ghost evictor?) to chase these spirits away from the house. The ghost man - a chubby and funny looking man (who first seems nice and friendly but eventually turns out to be totally bizarre weirdo) becomes very fond of the protagonist's company and does not seem to be wanting to part with the latter. He therefore extends the initially agreed term of the services and even offers to the protagonist a free-of\u2013charge day (so that he can stay over a little longer with his new \"best friend\"). However, the protagonist does not quite share this affection (to put it lightly). He wants this weirdo to leave the house immediately, once and for all, even at the expense of some of the ghosts remaining in the premises. This is where the conflict begins and the comedy slowly picks up thriller elements, leading to unexpected events. The film is hilarious, filled with irony and top quality subtle humor. The jokes are at times dry and somewhat dark, so they're definitely not for everyone, but the \"right\" audience will appreciate. The choice of the main actors was done very well (especially the ghost man) creating the right chemistry between the two. Some tabloid could probably describe the film as \"Cable Guy meets Conjuring\" and this would probably be a pretty accurate description (despite the corniness). Overall, if you enjoy a good quality, subtle dark comedy and are a fan of John Landis/Sam Raimi movies, Another Evil is definitely worth checking out.",
+         "Fantasia 2016: 'ANOTHER EVIL': Four and a Half Stars (Out of Five) One entry in this year's 'Fantasia International Film Festival', is this extremely low-budget horror-comedy flick. It's about an artist, who's trying to rid his family's vacation home of a ghost, who then befriends the eccentric exorcist, that he hires to do it. The movie was written and directed by first time feature filmmaker Carson D. Mell, and it stars a cast of mostly unknown actors; including Steve Zissis and Mark Proksch (as the film's two leads). For such a low-budget flick, the movie is immensely entertaining! Dan (Zissis) is an artist, who's spending some time with his family at their vacation home, when he witnesses two ghosts. The first exorcist he hires (Dan Bakkedahl), to get rid of the spirits, tells him the ghosts are friendly; and that he should just learn to live with them. Dan doesn't like that idea, so he hires another exorcist, named Oz (Proksch); that promises to actually rid the house of it's unwanted guests. A very bizarre relationship forms between the two men. The movie is hilarious, in places, and it's also quite frightening, and disturbing, in other places. The climax is totally intense (as well), and it's also extremely involving. The two lead performances are fantastic, the directing is adequately done, and the script is brilliant. What's most impressive about the film though, is how the filmmakers are able to do so much, with so little! The execution, of this 'little indie that could', is masterfully done! I'd definitely recommend it. Watch our movie review show 'MOVIE TALK' at: https://youtu.be/bE358EcZTbU",
+         "Sometimes the definition of Evil may be different for different people. What some may call friendly, others may call evil. And so we do get a thriller with a lot of comedy in it. Now it's hard to say if you think the jokes work. It's always in the eye of the beholder. Having said that, there is a twisted chemistry between our two main characters in this and their relationship. You can see a couple of things coming, but the way our protagonist is handling things is overall understandable. I wouldn't do the things he does and his acting seems off at times (over playing stuff), but it's still has some funny flow to it. Of course the end will make or break the movie for you ... I thought it worked quite well",
+         "After encountering a ghost in his family's vacation home, modern artist Dan (Steve Zissis, who more than one reviewer has called \"schlubby\") and his wife Mary (Jennifer Irwin) hire an \"industrial-grade exorcist\" named Oscar (Mark Proksch) to get rid of the beings. But Dan soon realizes that ridding the home of evil will not be as simple as it seems. While the film as a whole is good, it does suffer from an inability to be categorized. While labeled as a \"horror comedy\", this is far from the truth. The comedy does not go much beyond the early scene with the first exorcist (Dan Bakkedahl), who is clearly either a fraud or flat-out nutty. The horror angle does not go much beyond the jump scare from seeing a ghost on the stairs in one scene. At no point do we have a \"horror comedy\" blend. The real story here is of a man who is clearly lonely and whose loneliness drives him to be both desperate and obnoxious. This is neither scary nor funny, but instead creates a constant awkward atmosphere (which Gary Abrams has aptly compared to Bill Murray in \"What About Bob?\"). If the goal of a horror film is to create an unease in the audience, they succeeded on this count but probably not in the way they intended. Again, this is not a bad film, just one that is a challenge to classify. The film also suffers from the cover or poster art. This actually projects the idea that the film is even sillier or low budget than it actually is. This is not silly, and while it may be low budget it never comes across that way. The production value is every bit as good as it needs to be for the concept. The ghost, for example, is legitimately creepy, even though it is about as simple as it could be. If you are looking for a more conventional horror film about an unconventional man's approach to the supernatural, the film for you is \"A Dark Song\". But \"Another Evil\" has a potential to grow on you. While it fails to hit home because you never know what to feel, that very same thing might be what gets you to come back for repeat viewings. There is clearly something more to Oscar than first meets the eye. The movie is out now from Dark Sky Films. The home release is fairly bare bones with no commentary or interviews to speak of, unfortunately. Though the praise offered in this review is clearly \"guarded\" and with its own caveats, \"Another Evil\" may prove to be an acquired taste...",
+         "First and foremost this is not a comedy. We have a haunted house and artist owner Dan gets a recommendation and hires Os (Steve Zissis) to rid the house of the ghosts/demons/whatever. There is no 'relationship' between the two other then the fact that they are alone in the house for almost a week. Most of the time, and this was so irritating, Dan merely sits/stands and listens and watches, saying very as he realized two things. First, he does not understand anything Os is doing and second, he realizes Os is nuttier then a fruit cake i.e. describing how he plucked eye balls out of a woman's corpse with juice squirting everywhere. OK, Dan, why not terminate Os that very moment? Also, a bizarre scene with a stripper called to the house and which added nothing to the tale. When Os begins destroying Dan's house and paintings he tells Os to leave. I will say the Os, played by Steve Zissis, portrays lunatic so well it seems nonsensical that Dan did not end the nonsense early on. It is one thing to be a zealot exorcist, highly recommended, and quite another to be a madman that will, at the drop of a ghostly hat, see Satan within Dan's teen son and to develop a psycho murder plot that might include Dan's son and possibly Dan and his wife as well. After all, if he kills the son he would have to kill the witnesses. Forget the police or self help when a ghost can intervene 'after' Os has already begun his torture campaign. So a ghost with very bad timing. Seeing Os naked in the kitchen, to catch vibes, then asking Dan about locations he had sex with his wife and suggesting his son has been possessed by Satan should have been way more then enough to call the cops when Os refused to leave. The fact that Os could sweet talk Dan at that point, to cancel the police, is absurd. Os was obviously 100% loony been material of the highest order. The final confrontation was staged poorly with Dan, as happens in too many films, leaving slightly injured Os with the shovel so that when Dan turns his back Os can have another go at him. You can't save your son by letting a psycho would be killer have a second shot at you with a deadly shovel. Take the shovel, toss the shovel but do not ever leave it by the side of the would be and still viable psycho killer. It is not clear how Dan allowed his wife and son return to the cabin knowing psycho Os would be there? this movie is perfect for rabid Steve Zissis fans. For me, I am still in recovery.",
+         "As a bad budget horror film, it feels like this movie starts off okay enough. It's not exactly bad. But as the movie introduces Oz and his crazy antics, the movie just gets worse and worse. The reality is, as a idea, this movie isn't bad at all, executed, this movie is terrible and has no redeem qualities. I strongly believe all of the positive reviews comes from people directly related t to the film.",
+         "Where these guys got the cheek to label this comedy I do not know, I smirked once or twice at absolute most, made little sense and failed in every way a movie can fail. Please don't waste 90 minutes on this I regretted every second and whats worse I put my girlfriend through this rubbish movie. Never posted on here before but the extent of awfulness of this film given its not bad 5.9 rating made me have to put my 2 cents in. This film should be deleted from history. Satisfies neither horror or comedy or memorable anything. Boring as it gets. Comedy? It really isn't.",
+         "yes is a horror movie a terrible horror movie... this movie is a cheap budget domestic home movie, even is not a B movie, no producer no director no actors, a bunch of neighbors decide to make a domestic house horror movie, a terrible story, terrible people, for sure even they are not actors, friends of friends, nobody stand for this terrible horrible movie, for sure all the positive reviews are the friends and family of the owner of the VHS.",
+         "I do NOT recommend watching this unless you love cliff-hangers. I gave the movie a 2 star rating just for this reason. Nothing ticks me off more than a movie that doesn't answer the plot questions still hanging. I wish movies had to list in descriptions: Hey this movie runs you off a cliff at the end!"
+      ],
+      "genres": [
+         "Comedy",
+         "Horror"
+      ],
+      "productionCompanies": ["Memory"],
+      "summaries": ["After encountering a ghost in his family's vacation home, Dan a modern artist and his wife Mary hire an \"industrial-grade exorcist\" named Os to get rid of the beings. But Dan soon realizes that ridding the home of evil won't be as simple as it seems."],
+      "budget": 0
+   },
+   "movielensId": 170927,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2017-05-05",
+      "dvdReleaseDate": null,
+      "directors": ["Carson D. Mell"],
+      "runtime": 92,
+      "movieId": 170927,
+      "title": "Another Evil",
+      "mpaa": "",
+      "actors": [
+         "Steve Zissis",
+         "Mark Proksch",
+         "Jennifer Irwin",
+         "Dax Flame",
+         "Steve Little",
+         "Dan Bakkedahl",
+         "Beck DeRobertis",
+         "Mariko Munro"
+      ],
+      "imdbMovieId": "4185566",
+      "originalTitle": "Another Evil",
+      "genres": [
+         "Comedy",
+         "Horror"
+      ],
+      "youtubeTrailerIds": ["5g35dDAXRi8"],
+      "plotSummary": "After encountering a ghost in his family's vacation home, Dan and his wife Mary hire an \"industrial-grade exorcist\" named Os to get rid of the beings.",
+      "tmdbMovieId": 381032,
+      "avgRating": 3.75,
+      "releaseYear": "2017",
+      "numRatings": 2,
+      "posterPath": "/fC73oC0xwssWc7ty6dspPvgqfyz.jpg"
+   }
+}

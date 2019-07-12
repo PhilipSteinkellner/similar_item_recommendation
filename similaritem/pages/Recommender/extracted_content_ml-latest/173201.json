@@ -1,0 +1,627 @@
+{
+   "tmdb": {
+      "original_language": "ms",
+      "keywords": [{
+         "name": "hangman",
+         "id": 7150
+      }],
+      "imdb_id": "tt4660736",
+      "video": false,
+      "title": "Apprentice",
+      "recommendations": [
+         176673,
+         35760,
+         336660,
+         167179
+      ],
+      "backdrop_path": "/j0e8EbHtcpYWJRaHz3IF9kpGqs2.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 4,
+               "character": "Aiman",
+               "gender": 2,
+               "credit_id": "5705a8799251411f34000381",
+               "name": "Fir Rahman",
+               "profile_path": "/s1GOUuRK1sJ4lrhheBhrFuslzwM.jpg",
+               "id": 1601977,
+               "order": 1
+            },
+            {
+               "cast_id": 5,
+               "character": "Rahim",
+               "gender": 0,
+               "credit_id": "5705a8959251411f2a000384",
+               "name": "Wan Hanafi Su",
+               "profile_path": "/4gtiS2LQvcSKK8nIUp0CdnOXX6e.jpg",
+               "id": 1279433,
+               "order": 2
+            },
+            {
+               "cast_id": 6,
+               "character": "Suhaila",
+               "gender": 0,
+               "credit_id": "5705a8a79251411f39000392",
+               "name": "Mastura Ahmad",
+               "profile_path": "/a2Qy3hrnBAKnHw2pkqI1ga5pVYZ.jpg",
+               "id": 1478570,
+               "order": 3
+            },
+            {
+               "cast_id": 7,
+               "character": "James",
+               "gender": 0,
+               "credit_id": "5705a8ba9251411f310003c4",
+               "name": "Boon Pin Koh",
+               "profile_path": "/dMdb08oYsKBEN8WyQrKQ5DAL0JB.jpg",
+               "id": 1101375,
+               "order": 4
+            },
+            {
+               "cast_id": 8,
+               "character": "Joseph",
+               "gender": 0,
+               "credit_id": "5705a8cc9251411f390003a6",
+               "name": "Nickson Cheng",
+               "profile_path": null,
+               "id": 1601978,
+               "order": 5
+            },
+            {
+               "cast_id": 9,
+               "character": "Randy",
+               "gender": 0,
+               "credit_id": "5705a8d7c3a3685d3b000477",
+               "name": "Crispian Chan",
+               "profile_path": "/lQPAgjBmO1jalll0Xcctr9hHanW.jpg",
+               "id": 1601979,
+               "order": 6
+            },
+            {
+               "cast_id": 10,
+               "character": "Hock",
+               "gender": 0,
+               "credit_id": "5705a8e5c3a3685d3b000483",
+               "name": "Gerald Chew",
+               "profile_path": "/6ROG3cUlndr2XyPbcpmqhDvN7oM.jpg",
+               "id": 1601980,
+               "order": 7
+            },
+            {
+               "cast_id": 11,
+               "character": "Death Row Officer",
+               "gender": 0,
+               "credit_id": "5788e534c3a36836c000101c",
+               "name": "Ong Chao Hong",
+               "profile_path": null,
+               "id": 1650778,
+               "order": 8
+            },
+            {
+               "cast_id": 12,
+               "character": "John",
+               "gender": 0,
+               "credit_id": "5788e53dc3a36819170014e3",
+               "name": "Sean Tobin",
+               "profile_path": null,
+               "id": 1650779,
+               "order": 9
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "5705a82c9251411f3100037e",
+               "name": "Boo Junfeng",
+               "profile_path": "/uUCK9ZgPMIuyNaFIUFAGif2MBXx.jpg",
+               "id": 1072562,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5705a842c3a3685d3e0003a2",
+               "name": "Boo Junfeng",
+               "profile_path": "/uUCK9ZgPMIuyNaFIUFAGif2MBXx.jpg",
+               "id": 1072562,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5788e55c9251411e29001696",
+               "name": "Fran Borgia",
+               "profile_path": null,
+               "id": 1545683,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5788e5669251411f1e001602",
+               "name": "Alvin Chau",
+               "profile_path": null,
+               "id": 1650780,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5788e57092514135d6000d41",
+               "name": "Tom Dercourt",
+               "profile_path": null,
+               "id": 55807,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5788e578c3a368365d000cba",
+               "name": "Sophie Erbs",
+               "profile_path": null,
+               "id": 938094,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5788e580c3a36836c0001045",
+               "name": "Rachel Higgins",
+               "profile_path": null,
+               "id": 1485226,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5788e589c3a3687c85001db1",
+               "name": "Junxiang Huang",
+               "profile_path": null,
+               "id": 1650781,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5788e5909251411e290016b4",
+               "name": "Jonas Katzenstein",
+               "profile_path": null,
+               "id": 1650782,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5788e59c9251413585000d1e",
+               "name": "Eric Khoo",
+               "profile_path": "/cp4A8VvThZVeEhkDEy47Mng6QgS.jpg",
+               "id": 56212,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5788e5a89251411f1e001618",
+               "name": "Maximilian Leo",
+               "profile_path": null,
+               "id": 1292591,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5788e5b492514134bc000ebf",
+               "name": "Subi Liang",
+               "profile_path": null,
+               "id": 142640,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5788e5bfc3a3687c85001dcd",
+               "name": "Pang Ho-cheung",
+               "profile_path": "/zrnMoVvL2S0PX1eHQYxlHgnQhX.jpg",
+               "id": 58053,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5788e5c89251411f1e001630",
+               "name": "Paige Parker",
+               "profile_path": null,
+               "id": 1650783,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5788e5d392514135d6000d6b",
+               "name": "Raymond Phathanavirangoon",
+               "profile_path": null,
+               "id": 1132456,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5788e5e2c3a3683573000e0a",
+               "name": "Jim Rogers",
+               "profile_path": null,
+               "id": 1172793,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5788e5eac3a3681917001534",
+               "name": "Philipp Stendebach",
+               "profile_path": null,
+               "id": 1650784,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5788e5f392514134bc000ee8",
+               "name": "Tan Fong Cheng",
+               "profile_path": null,
+               "id": 98883,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5788e5fcc3a36817d70019ec",
+               "name": "Alex Tong",
+               "profile_path": null,
+               "id": 1098625,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57c5a58b9251417e85003476",
+               "name": "Benoit Soler",
+               "profile_path": null,
+               "id": 1601975,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5899e23d92514113ca005ae9",
+               "name": "Lee Chatametikool",
+               "profile_path": null,
+               "id": 1271299,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5899e24cc3a3684266005941",
+               "name": "Natalie Soh",
+               "profile_path": null,
+               "id": 1102458,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5899e27692514113cd005949",
+               "name": "James Page",
+               "profile_path": null,
+               "id": 1452247,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5899e29192514113ca005b12",
+               "name": "Meredith Lee",
+               "profile_path": null,
+               "id": 1705680,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5899e2bcc3a368426900589d",
+               "name": "Nur Farreha Binte Abdul Jalil",
+               "profile_path": null,
+               "id": 1752731,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5899e2cc92514113d300586c",
+               "name": "Chia Meng Koo",
+               "profile_path": null,
+               "id": 1752732,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5899e335c3a36842690058e5",
+               "name": "Philothea Liau ",
+               "profile_path": null,
+               "id": 1705678,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5899e3aac3a3684269005925",
+               "name": "Jingliang Tan ",
+               "profile_path": "/2hrGkMf3n0FVSBwRhFEOU06500U.jpg",
+               "id": 1520651,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5899e3c592514113c6005c49",
+               "name": "Michelle Yap",
+               "profile_path": null,
+               "id": 1752734,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5899e3d892514113c6005c52",
+               "name": "Remi Quilichini",
+               "profile_path": null,
+               "id": 1752736,
+               "department": "Camera",
+               "job": "Steadicam Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5899e3ef92514113d900550b",
+               "name": "Dean Sam",
+               "profile_path": null,
+               "id": 1752737,
+               "department": "Camera",
+               "job": "First Assistant Camera"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5899e40ec3a368425700581a",
+               "name": "Wen Chek Yeo",
+               "profile_path": null,
+               "id": 1752739,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5899e477c3a368425e005801",
+               "name": "Wen Chek Yeo",
+               "profile_path": null,
+               "id": 1752740,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5899e48c92514113c1005975",
+               "name": "Maiken Hansen",
+               "profile_path": null,
+               "id": 1752741,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5899e49ec3a368426e0054c0",
+               "name": "Warren Santiago",
+               "profile_path": null,
+               "id": 1730770,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5899e4b092514113cd005a42",
+               "name": "Andy Phua",
+               "profile_path": null,
+               "id": 1752742,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5899e4c0c3a3684255005829",
+               "name": "Lydia Thong",
+               "profile_path": null,
+               "id": 1752743,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58e6e51292514179de03dd0d",
+               "name": "Matthew James Kelly",
+               "profile_path": null,
+               "id": 1523127,
+               "department": "Sound",
+               "job": "Music"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Drama",
+         "id": 18
+      }],
+      "popularity": 2.157504,
+      "production_countries": [
+         {
+            "iso_3166_1": "QA",
+            "name": "Qatar"
+         },
+         {
+            "iso_3166_1": "FR",
+            "name": "France"
+         },
+         {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+         },
+         {
+            "iso_3166_1": "SG",
+            "name": "Singapore"
+         },
+         {
+            "iso_3166_1": "HK",
+            "name": "Hong Kong"
+         }
+      ],
+      "id": 391709,
+      "vote_count": 22,
+      "budget": 0,
+      "overview": "Aiman is a 28-year-old Malay correctional officer who is recently transferred to the territory\u2019s top prison. Aiman lives with his older sister Suhaila in a modest housing estate.  At his new workplace, Aiman begins to take an interest in a 65-year-old sergeant named Rahim. Soon, it is revealed that the charismatic Rahim is actually the long-serving chief executioner of the prison. Rahim also takes notice of the principled and diligent Aiman. When Rahim\u2019s assistant suddenly quits, he asks Aiman to become his apprentice. Aiman tells Suhaila of his new job position, but Suhaila becomes upset, as their father was actually executed by Rahim. Aiman knew this all along.  Can Aiman overcome his conscience and a haunted past to possibly take over as the next chief executioner?",
+      "similar": [
+         273248,
+         4498,
+         49437,
+         41857,
+         48409
+      ],
+      "original_title": "Apprentice",
+      "runtime": 96,
+      "poster_path": "/n8Tnf3ujWyTuht5HHJ9bNPiyjQw.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Bahasa melayu",
+            "iso_639_1": "ms"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Zhao Wei Films",
+            "id": 17365,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Cinémadefacto",
+            "id": 17832,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Augenschein Filmproduktion",
+            "id": 20037,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Peanut Pictures",
+            "id": 75177,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Akanga Film Productions",
+            "id": 79294,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2016-06-01",
+      "vote_average": 7.4,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Singapore",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Junfeng Boo"],
+      "runtime": 115,
+      "synopsis": null,
+      "writers": [
+         "Junfeng Boo",
+         "Junfeng Boo"
+      ],
+      "originalLanguage": "Malay",
+      "imdbLink": "http://www.imdb.com/title/tt4660736/",
+      "coverLink": "https://ia.media-imdb.com/images/M/MV5BZjZjMWVhY2MtYTcxNy00OTFiLWJmYmEtODYyMTA0ODBiN2ZhXkEyXkFqcGdeQXVyNDcyMjQ4MzU@._V1_UY268_CR4,0,182,268_AL_.jpg",
+      "actors": [
+         "Firdaus Rahman",
+         "Wan Hanafi Su",
+         "Mastura Ahmad"
+      ],
+      "reviews": [
+         "I don't know how many films about hangmen, and only them, were made during movie history. I remind Jack Smight's TRAVELING EXECUTIONER back in 1970. But this feature from Singapore is a real hit in the face. It draws a portrait of those men, at least in this country where the capital punishment is hanging...It would be interesting to see how the hangmen in the USA proceed with the electric chair or the gas chamber... Anyway, you deal here with a powerful piece of work, accurate, astounding movie pulled by performances that I repeat hit you in the face. The struggle of a new prison guard who becomes the hangman's assistant, long time after his own father was himself executed by the same hangman. Those schemes about forgiveness, guilt or vengeance have already been told a billion times before, but this one, in this very feature, is absolutely unforeseeable. You can't expect what will eventually happen. Impossible. No clichés here. None of them. No bad guys or good ones. No cruel prison wardens or cold executioner scheme, on the contrary, everything is so human. So true. So real. A real must see.",
+         "a delicate theme. brilliant script. fine performances. and the most inspired manner to explore the guilt, the past, the friendship, the duty. in essence, a water drawing. touching, precise, admirable for the courage to not be prisoner of clichés. because it is one of the admirable exploration of subjects who, very easy, could be traps for many directors. and occasion of fascinating meet between Wan Hanafi Su and Firdaus Rahman.",
+         "When deciding to see a prison movie you have already prepared yourself for a gritty, realistic experience. When you know it's a prison movie about an apprentice executioner, you have to prepare yourself to pre-mourn the dead men walking you are about to meet. But Apprentice doesn't focus on the prisoners; it's a story about the guards and how they manage to do the worst job in the world. Aiman (Fir Raham) is drawn to small places. As a boy he would hide in a cupboard and as an adult he leaves the army for a job in the prisons. He's there to do good, and thinks he can help to change the prisoners. But his positive intentions can't stop his fascination with the Condemned Block. His attention is caught by the gate that bars his entrance and the men that work behind it. In particular the white haired Chief Executioner (Wan Hanafi Su) catches his eye, and as Aiman volunteers, ingratiates and manipulates himself into that world, The Chief becomes his Miyagi. But there is no repetitive car waxing here. Death Row doesn't wait for laborious life lessons. However, just like Daniel Laruso, Aiman does have to learn new skills, and his relationship with the older man is the centerpiece of the movie. The Chief sees something of himself in young Aiman. He laments modern rules and regulations, knowing that leaders don't come from following the rule book and he likes that Aiman has some rough edges. They are both single and while the movie doesn't bother itself with any forced romantic subplots, we learn The Chief was married once but his job got in the way and there has been no-one since. His business card rarely goes down well at speed dating nights. Apprentice doesn't delve into any extraneous relationships at all. Aiman lives with his sister, Suhailia (Mastura Ahmad), who provides a Jiminy Cricketesque presence for him, but even her boyfriend exists only on the blurry fringes of the frame. Everything about Apprentice is brutally efficient as the Singapore prison system. The word 'gallows' is too elegant a word for what it describes. The journey across the double 'l's' over the 'o' and into the curve of the 'w' doesn't do justice to the trip the inmate takes from his cell to the door in the floor. Their Lord provides them comfort, but their legs often desert them and they need to be supported down the hallway,. But once the hood is on, it's mercifully quick. The Chief pulls the lever and we hear the snap right where it should for a perfectly executed execution. Modern societies like to think they have evolved beyond the brutality of capital punishment, but this film doesn't make it a political discussion. Instead it's a personal question for the characters. When Aiman wonders whether one of the prisoners deserves to die for 'only' drug trafficking, The Chief isn't affronted because of his political or philosophical views, he takes it as an attack on his very existence. He has prided himself on fulfilling a vital role and doing it to the best of his ability. The rights and wrongs are not for him to decide. While the characters don't spend too much time discussing the moral question of capital punishment, it's impossible for the audience to ignore. From the angle that Director Boo gives us, we often see the guards through windows and bars making them look a lot like prisoners themselves. But while they get to leave they are still tethered, only really free for the hours between their shifts, and even then it appears that the horrible shadow of the noose has them living like prisoners anyway.",
+         "There are only a few films dealing with Hangmen. \"Shadow Kill (2002) is such a film. The film do not go though the usual cliché plots. This is entirely different. A young correctional officer, Aiman is transferred to a top prison. Capital punishment by hanging is being conducted in that prison. He meets an executioner, Rahim, who was doing this job for more than 30 years. Aiman's father was executed by Rahim. This leads to tense drama in the movie. But, there is nothing obvious. There is a high tension, but it is subtle. There are emotions of the prisoners who are going to be hanged, their relationship with the executioner. The only support of Aiman was his sister Suhaila. His loneliness in life is clearly depicted in the movie. It is very clear when we see the only contact in his mobile was Suhaila. A very dark emotional drama, clean from all the cliché plots. A freezing end. Highly recommended for those who are looking for different movies. A must watch. #KiduMovie",
+         "Strong and straight forward drama in which a young prison guard is trained by an old chief to be the next 'hangman'. Both the young guard as the old chief have their inner demons and strong difficulties in coping with the job. Being a kind of legal killer is not like another day in the office. It leaves marks. This film describes in a non-sensational way that those who actually have to execute the death penalty, die also a little bit inside with each hanging the system 'asks' them to do.",
+         "Aiman is 28 and works as a correction office or prison guard as we normally refer to them as. Then he gets transferred to the top 'nick' in the country and this is where they carry out the executions that they are so fond of doing there. Once there he meets Rahim who is charming and World wise. He is drawn to this man who has been the executioner for a long time and knows his craft. Now as it turns out his father was executed some years before leaving him and his sister in dire straits and affecting them both forever. However, the attraction that Aiman has for Rahim and his special service is stronger than the revulsion and hence he goes on a journey of self discovery. This is Malay but they speak mostly English but there are sub titles that you may need from time to time which are also quite good. The production values are actually really high and the acting is all top notch too. The story is a simple one but it is compelling and has enough dramatic attention to hold your attention. Recommended for World cinema fans.",
+         "Aiman (Firdaus Rahman) takes a job as a guard at a Malaysian prison. He lives modestly with his sister Suhaila (Mastura Ahmad) who dates an Australian man, John. Aimen befriends \"the Chief\" who is also the hangman and has been for thirty years. About twenty minutes into the feature we discover the Chief (Wan Hanafi Su) was the man who hung Aiman's father. Aiman complains to Suhaila on how she uses John to get away from her life in Malaysia while Suhaila complains about how Aiman can work in the prison that hung their father. The Chief asks Aiman to be his apprentice and \"learn the ropes\" pun intended. We wait to see how this plays out. The film included universal themes as what we are willing to do to get by and to what lengths we can justify what we do. The ending was interesting...the irony of fate. Guide: F-word. No sex or nudity. Good International film. English subtitles. Film includes 3 international wins.",
+         "If you love real movies where there is no bad and good when humans interact then you have to watch this film. Treats the same theme of \"el verdugo\", for many the best Spanish film ever. The dilemmas of the executioner who struggles to convince himself that this is a job like every one else and someone has to do it. Needs guts to be a legal serial killer and sleep well during the nights without doubt. Just see it and you will feel compassion, hate and frustration at the same time. When a movie makes you feel strong feelings, is a good movie. Nothing else, a must watch.",
+         "The acting is better than the plot. The plot is better than the dialogues. The dialogues are better than the reasoning. The reasoning is better than the ending. These executioners have no control over the guilty verdicts of the ones they execute. It's the crime and the punishment that the convicts end up in their hands without their control. No one can blame them for what they do. It's a job, and to efficiently perform such extraordinary task for lessen suffering is a humanely reason enough. No one in this life has to carry the shame or punishment of another person's crime, even it's one's father's or anyone's. The ending is a cop out without a climax. It has crashed and imploded silently with an unsatisfying anticlimactic end. \"The Green Mile\" is a much better executioner movie."
+      ],
+      "genres": ["Drama"],
+      "productionCompanies": [
+         "Akanga Film Productions",
+         "Augenschein Filmproduktion",
+         "Cinémadefacto"
+      ],
+      "summaries": [
+         "Aiman is a 28-year-old Malay correctional officer who is recently transferred to the territory's top prison. He lives with his older sister Suhaila in a modest housing estate. At his new workplace, Aiman begins to take an interest in a 65-year-old sergeant named Rahim. Soon, it is revealed that the charismatic Rahim is actually the long-serving chief executioner of the prison. Rahim also takes notice of the principled and diligent Aiman. When Rahim's assistant suddenly quits, he asks Aiman to become his apprentice. Aiman tells Suhaila of his new job position, but Suhaila becomes upset, as their father was actually executed by Rahim. Aiman knew this all along. Can Aiman overcome his conscience and a haunted past to possibly take over as the next chief executioner?",
+         "Once a troubled teenager himself, young Aiman, a former army regular and a correctional officer for the past two years, driven by his desire to help those who want to change, is transferred from Commonwealth to Larangan's maximum security prison workshop to handle the rehabilitated prisoners. Even though his personal reasons for wanting this transfer are quite ambiguous, before long, Aiman will meet with the prison's chief executioner Rahim, who as a seasoned hangman for more than thirty years, will see a man of discipline and principles in Aiman and take him under his wing. Eventually, when Rahim's assistant unexpectedly decides to resign, the chief will ask Aiman to take over, learn the \"ropes\" and the tricks of the trade, and ultimately, take pride in the humane methodology used in this horrifyingly repellent profession. As the eager apprentice's macabre fascination draws him closer to the chief executioner, will there be any place left for compassion?",
+         "Inevitably, a transfer to a maximum security prison will eventually challenge the integrity and ethics of a young correctional officer on his way to become a chief executioner."
+      ],
+      "budget": 0
+   },
+   "movielensId": 173201,
+   "movielens": {
+      "languages": [
+         "English",
+         "Bahasa melayu"
+      ],
+      "releaseDate": "2016-06-01",
+      "dvdReleaseDate": null,
+      "directors": ["Boo Junfeng"],
+      "runtime": 96,
+      "movieId": 173201,
+      "title": "Apprentice",
+      "mpaa": null,
+      "actors": [
+         "Fir Rahman",
+         "Wan Hanafi Su",
+         "Mastura Ahmad",
+         "Boon Pin Koh",
+         "Nickson Cheng",
+         "Crispian Chan",
+         "Gerald Chew",
+         "Ong Chao Hong",
+         "Sean Tobin"
+      ],
+      "imdbMovieId": "4660736",
+      "originalTitle": "Apprentice",
+      "genres": ["Drama"],
+      "youtubeTrailerIds": ["AxY3zZCqeTw"],
+      "plotSummary": "Aiman is a 28-year-old Malay correctional officer who is recently transferred to the territory\u2019s top prison. Aiman lives with his older sister Suhaila in a modest housing estate.  At his new workplace, Aiman begins to take an interest in a 65-year-old sergeant named Rahim. Soon, it is revealed that the charismatic Rahim is actually the long-serving chief executioner of the prison. Rahim also takes notice of the principled and diligent Aiman. When Rahim\u2019s assistant suddenly quits, he asks Aiman to become his apprentice. Aiman tells Suhaila of his new job position, but Suhaila becomes upset, as their father was actually executed by Rahim. Aiman knew this all along.  Can Aiman overcome his conscience and a haunted past to possibly take over as the next chief executioner?",
+      "tmdbMovieId": 391709,
+      "avgRating": 3.14286,
+      "releaseYear": "2016",
+      "numRatings": 7,
+      "posterPath": "/vT77JpkiY8DHqBjYDE9wlp4Z6H9.jpg"
+   }
+}

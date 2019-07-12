@@ -1,0 +1,779 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "high school",
+            "id": 6270
+         },
+         {
+            "name": "virus",
+            "id": 188957
+         },
+         {
+            "name": "bottled water",
+            "id": 189363
+         }
+      ],
+      "imdb_id": "tt0961722",
+      "video": false,
+      "title": "Cabin Fever 2: Spring Fever",
+      "recommendations": [
+         157424,
+         11547,
+         9656,
+         43919,
+         10070,
+         9841,
+         13797,
+         41848,
+         10845,
+         22007,
+         11908,
+         25018,
+         10906,
+         17618,
+         24913,
+         15641,
+         13803,
+         10007,
+         139455,
+         7341
+      ],
+      "backdrop_path": "/55BfYV2mz3V1hDqPIpvFo9JgUdl.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 6,
+               "character": "Paul",
+               "gender": 2,
+               "credit_id": "52fe45aec3a368484e068df5",
+               "name": "Rider Strong",
+               "profile_path": "/xd9BRjj4ffhlV7gzTRw27QEGdz6.jpg",
+               "id": 69807,
+               "order": 0
+            },
+            {
+               "cast_id": 7,
+               "character": "John",
+               "gender": 2,
+               "credit_id": "52fe45aec3a368484e068df9",
+               "name": "Noah Segan",
+               "profile_path": "/2ayjEACO7dYw3xPGKX23JxN8WLf.jpg",
+               "id": 48312,
+               "order": 1
+            },
+            {
+               "cast_id": 10,
+               "character": "Cassie",
+               "gender": 1,
+               "credit_id": "52fe45aec3a368484e068e05",
+               "name": "Alexi Wasser",
+               "profile_path": "/Es2h2N8lKaQCNcdp8S1TjIIn2K.jpg",
+               "id": 101806,
+               "order": 2
+            },
+            {
+               "cast_id": 29,
+               "character": "Alex",
+               "gender": 2,
+               "credit_id": "53aa90950e0a2646c20015c6",
+               "name": "Rusty Kelley",
+               "profile_path": null,
+               "id": 935884,
+               "order": 3
+            },
+            {
+               "cast_id": 12,
+               "character": "Marc",
+               "gender": 2,
+               "credit_id": "52fe45aec3a368484e068e0d",
+               "name": "Marc Senter",
+               "profile_path": "/lgKQPKTs1ZvdCe9E3oALQR5h56M.jpg",
+               "id": 101808,
+               "order": 4
+            },
+            {
+               "cast_id": 9,
+               "character": "Deputy Winston",
+               "gender": 2,
+               "credit_id": "52fe45aec3a368484e068e01",
+               "name": "Giuseppe Andrews",
+               "profile_path": "/tWAjcA240TR9x4GqGKj2gL4p68B.jpg",
+               "id": 4133,
+               "order": 5
+            },
+            {
+               "cast_id": 14,
+               "character": "Herman",
+               "gender": 2,
+               "credit_id": "52fe45aec3a368484e068e15",
+               "name": "Mark Borchardt",
+               "profile_path": "/d9uBnnjwDNe6fcuFx0YgNInCJdq.jpg",
+               "id": 87794,
+               "order": 6
+            },
+            {
+               "cast_id": 13,
+               "character": "Principal Sinclair",
+               "gender": 2,
+               "credit_id": "52fe45aec3a368484e068e11",
+               "name": "Michael Bowen",
+               "profile_path": "/xGNcy5uCe0Ke5vqC7oZlOV3GGDx.jpg",
+               "id": 2234,
+               "order": 7
+            },
+            {
+               "cast_id": 34,
+               "character": "Toby",
+               "gender": 2,
+               "credit_id": "53dcb7b0c3a3684331001018",
+               "name": "Judah Friedlander",
+               "profile_path": "/vxu9cJFuratBSLAhzz3KFqRv6R4.jpg",
+               "id": 52860,
+               "order": 8
+            },
+            {
+               "cast_id": 15,
+               "character": "Bill the Water Truck Driver",
+               "gender": 2,
+               "credit_id": "52fe45aec3a368484e068e19",
+               "name": "Larry Fessenden",
+               "profile_path": "/ry1FD2hv1mop8QzPCVHzpDeCX1z.jpg",
+               "id": 31268,
+               "order": 9
+            },
+            {
+               "cast_id": 35,
+               "character": "Frederica",
+               "gender": 0,
+               "credit_id": "53dcb7dfc3a3684336000fc0",
+               "name": "Amanda Jelks",
+               "profile_path": null,
+               "id": 1348605,
+               "order": 10
+            },
+            {
+               "cast_id": 30,
+               "character": "Rick",
+               "gender": 2,
+               "credit_id": "53aa91350e0a2646d5001612",
+               "name": "Thomas Blake Jr.",
+               "profile_path": "/Ac2K4sKKFjeMmbG3NJhpWD2qqYq.jpg",
+               "id": 1334173,
+               "order": 11
+            },
+            {
+               "cast_id": 31,
+               "character": "Ms. Hawker",
+               "gender": 0,
+               "credit_id": "53aa91510e0a2646c20015e5",
+               "name": "Angela Oberer",
+               "profile_path": "/tsNbmxADMOWrRW09ElEsembJRew.jpg",
+               "id": 1334174,
+               "order": 12
+            },
+            {
+               "cast_id": 32,
+               "character": "Darryl",
+               "gender": 0,
+               "credit_id": "53aa91740e0a2646d200154f",
+               "name": "Taylor Kowalski",
+               "profile_path": null,
+               "id": 928235,
+               "order": 13
+            },
+            {
+               "cast_id": 8,
+               "character": "Dane",
+               "gender": 0,
+               "credit_id": "52fe45aec3a368484e068dfd",
+               "name": "Alexander Isaiah Thomas",
+               "profile_path": null,
+               "id": 101805,
+               "order": 14
+            },
+            {
+               "cast_id": 33,
+               "character": "Sandy",
+               "gender": 1,
+               "credit_id": "53aa91d70e0a2646c80015e9",
+               "name": "Lindsey Axelsson",
+               "profile_path": null,
+               "id": 129822,
+               "order": 15
+            },
+            {
+               "cast_id": 22,
+               "character": "Karen",
+               "gender": 0,
+               "credit_id": "52fe45aec3a368484e068e41",
+               "name": "Lila Lucchetti",
+               "profile_path": "/ne0Ysp1yylLndg7Lm7XrdD7ZnuO.jpg",
+               "id": 1292047,
+               "order": 16
+            },
+            {
+               "cast_id": 36,
+               "character": "Mary",
+               "gender": 0,
+               "credit_id": "53dcb84ac3a368432a001166",
+               "name": "Caitlin Coons",
+               "profile_path": null,
+               "id": 1348608,
+               "order": 17
+            },
+            {
+               "cast_id": 11,
+               "character": "Liz",
+               "gender": 0,
+               "credit_id": "52fe45aec3a368484e068e09",
+               "name": "Regan Deal",
+               "profile_path": "/xTHaWsy23J7KdykOLImakPUtkIX.jpg",
+               "id": 101807,
+               "order": 18
+            },
+            {
+               "cast_id": 37,
+               "character": "Lucile",
+               "gender": 1,
+               "credit_id": "53dcb96ec3a368432a001179",
+               "name": "Andrea Powell",
+               "profile_path": "/62rV4dGQTW7G4wZcSsD6AoVul5L.jpg",
+               "id": 106949,
+               "order": 19
+            },
+            {
+               "cast_id": 61,
+               "character": "Sandy's Entourage (uncredited)",
+               "gender": 1,
+               "credit_id": "55aa05e492514125da004c47",
+               "name": "Hayley Lovitt",
+               "profile_path": "/fbUxeHxXjFebcdpj4HqjvarZQbr.jpg",
+               "id": 1156046,
+               "order": 20
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe45aec3a368484e068ddf",
+               "name": "Ti West",
+               "profile_path": "/vRxN4eGT6X5MMdjpExZ0YvjDeg9.jpg",
+               "id": 101542,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe45aec3a368484e068de5",
+               "name": "Joshua Malkin",
+               "profile_path": null,
+               "id": 101800,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe45aec3a368484e068deb",
+               "name": "Patrick Durham",
+               "profile_path": "/tVYXuShKzCWpStov2YnmK6KuDWN.jpg",
+               "id": 101802,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe45aec3a368484e068df1",
+               "name": "Lauren Moews",
+               "profile_path": null,
+               "id": 69806,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe45aec3a368484e068e1f",
+               "name": "Jonathan Sachar",
+               "profile_path": null,
+               "id": 78973,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe45aec3a368484e068e2b",
+               "name": "Ryan Shore",
+               "profile_path": null,
+               "id": 61498,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe45aec3a368484e068e31",
+               "name": "Mitzi Corrigan",
+               "profile_path": null,
+               "id": 1001764,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe45aec3a368484e068e37",
+               "name": "Lisa Fields",
+               "profile_path": null,
+               "id": 62725,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe45aec3a368484e068e3d",
+               "name": "Leigh Leverett",
+               "profile_path": null,
+               "id": 964601,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "53aa8eda0e0a2646c800159b",
+               "name": "Janice Hampton",
+               "profile_path": null,
+               "id": 16534,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "53aa8ef10e0a2646d2001520",
+               "name": "Tim Grimes",
+               "profile_path": null,
+               "id": 18511,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "53aa8f070e0a2646c200159c",
+               "name": "Jade Healy",
+               "profile_path": null,
+               "id": 139145,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53aa8f240e0a2646c20015a0",
+               "name": "Linda Kamp",
+               "profile_path": null,
+               "id": 1334172,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Department Head"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53aa8faf0e0a2646cc001643",
+               "name": "Ozzy Alvarez",
+               "profile_path": null,
+               "id": 1287868,
+               "department": "Crew",
+               "job": "Makeup Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53aa8ffc0e0a2646cf00151c",
+               "name": "Shea Masterson",
+               "profile_path": null,
+               "id": 1332239,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a6c524c3a3680b27014354",
+               "name": "Joan Shay",
+               "profile_path": null,
+               "id": 1334166,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a6c58dc3a3682f210173fb",
+               "name": "Jason Willis",
+               "profile_path": null,
+               "id": 1407886,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a6c5a392514134d7001abd",
+               "name": "Christian Beckman",
+               "profile_path": null,
+               "id": 1407887,
+               "department": "Crew",
+               "job": "Makeup Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a6c5b792514117dd009eca",
+               "name": "Kelly Golden",
+               "profile_path": null,
+               "id": 1287869,
+               "department": "Crew",
+               "job": "Makeup Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a6c5d09251411f900044a1",
+               "name": "Danielle Noe",
+               "profile_path": null,
+               "id": 1407889,
+               "department": "Crew",
+               "job": "Makeup Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a6c5f8c3a3682f1b0172d1",
+               "name": "Karman Graham",
+               "profile_path": null,
+               "id": 1407891,
+               "department": "Art",
+               "job": "Art Department Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a6c635c3a3682f1b0172d5",
+               "name": "Richard Burton",
+               "profile_path": null,
+               "id": 1406242,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a6c650c3a3682f1e016f71",
+               "name": "Richard Burton",
+               "profile_path": null,
+               "id": 1406242,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a6c6689251411d53011aed",
+               "name": "William Purcell",
+               "profile_path": null,
+               "id": 1407893,
+               "department": "Crew",
+               "job": "Special Effects Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a6c6809251414b730005ef",
+               "name": "John Copeman",
+               "profile_path": null,
+               "id": 1407881,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a6c6a6c3a3682f1e016f7e",
+               "name": "Matt Doll",
+               "profile_path": null,
+               "id": 1407895,
+               "department": "Camera",
+               "job": "Steadicam Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a6c6be925141212700db3f",
+               "name": "Terry O'Deen",
+               "profile_path": null,
+               "id": 1407896,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a6c6d3c3a3682f1b0172f0",
+               "name": "Matt Doll",
+               "profile_path": null,
+               "id": 1407895,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a6c6e6c3a3680b27014382",
+               "name": "Chris Owen Jones",
+               "profile_path": null,
+               "id": 1407897,
+               "department": "Camera",
+               "job": "Additional Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a6c72cc3a3684d8f00a3e1",
+               "name": "John Ladd",
+               "profile_path": null,
+               "id": 1407898,
+               "department": "Lighting",
+               "job": "Best Boy Electric"
+            },
+            {
+               "gender": 1,
+               "credit_id": "54a6c742925141236b00e65d",
+               "name": "Alisa Harris",
+               "profile_path": "/lOQPYsCsRtNYyJD2NBK8klG3LTA.jpg",
+               "id": 1407899,
+               "department": "Costume & Make-Up",
+               "job": "Set Costumer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a6c765c3a3680b2701439c",
+               "name": "Joëlle Taar",
+               "profile_path": null,
+               "id": 1407900,
+               "department": "Editing",
+               "job": "First Assistant Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a6c7789251411f900044e5",
+               "name": "Tyler C. Daum",
+               "profile_path": null,
+               "id": 1407901,
+               "department": "Crew",
+               "job": "Transportation Coordinator"
+            },
+            {
+               "gender": 1,
+               "credit_id": "54a6c78dc3a3682f2101743d",
+               "name": "Julia Tasker",
+               "profile_path": null,
+               "id": 1407902,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a6c7ddc3a3684d8f00a401",
+               "name": "David Roberson",
+               "profile_path": null,
+               "id": 1407903,
+               "department": "Crew",
+               "job": "Unit Publicist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "556f6ac6c3a3681073000882",
+               "name": "Fred Norris",
+               "profile_path": null,
+               "id": 1473726,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "556fffb7c3a3680187000d99",
+               "name": "Eliot Rockett",
+               "profile_path": null,
+               "id": 1025921,
+               "department": "Camera",
+               "job": "Director of Photography"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Horror",
+         "id": 27
+      }],
+      "popularity": 11.558721,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 28739,
+      "vote_count": 118,
+      "budget": 10000000,
+      "overview": "A high school prom faces a deadly threat: a flesh-eating virus that spreads via a popular brand of bottled water.",
+      "similar": [
+         272693,
+         10625,
+         133805,
+         10206,
+         19840,
+         2105,
+         449176,
+         9880,
+         3597,
+         26123,
+         36599,
+         10314,
+         37725,
+         9611,
+         4951,
+         9655,
+         9377,
+         37735,
+         85350,
+         2108
+      ],
+      "original_title": "Cabin Fever 2: Spring Fever",
+      "runtime": 87,
+      "poster_path": "/eCL830fKjc3rkKO8RxAcSwrbpfN.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Morningstar Films",
+            "id": 21840,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Carr Miller Entertainment",
+            "id": 25947,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Tonic Films",
+            "id": 2763,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Wingman Productions",
+            "id": 3019,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Tunnel Post",
+            "id": 4560,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Proud Mary Entertainment",
+            "id": 5321,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Aloe Entertainment",
+            "id": 5322,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2009-08-11",
+      "vote_average": 4.4,
+      "belongs_to_collection": {
+         "backdrop_path": "/j82lEJUxFlXC35Pi75P3sAbkTUq.jpg",
+         "name": "The Cabin Fever Collection",
+         "id": 201576,
+         "poster_path": "/vtWpkuminuCsxpCMaldU8CqxSB6.jpg"
+      },
+      "tagline": "This time it's spreading.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Ti West"],
+      "runtime": 86,
+      "synopsis": "Picking up one day after the events of the first Cabin Fever film, Paul (Rider Strong) wakes up in the creek surrounded by bloody water. He is severely infected by the mysterious flesh-disolving virus and he is covered in sores and boils. He begins walking through the forest as his skin begins to fall off. He makes it to the highway and is hit by a bus full of high school students, completely dismembering his body into an unrecognizable mess. Deputy Winston (Giuseppe Andrews), the cop from the first movie, comes to investigate the crime scene and tells the bus driver he hit a moose. The bus driver drives away to the high school. Winston finds Paul's foot in his shoe hanging from a tree. Winston, disgusted, drives away from the scene. He is informed by the sheriff over his CB radio to return to town for several \"goverment guys\" are there asking questions. Through an opening animation sequence, the creek Paul was lying in was connected to a bottled-water company and the infected water was distributed into bottles of water and brought to the high school of the kids on the bus. In the school, the lunch lady distributes the infected water for the kids to drink. John (Noah Segan), a senior at the high school, is deciding whether to go to prom with his long-time crush Cassie (Alexi Wasser) or stay home and watch a horror film with his friends. His overweight, social misfit friend, Alex (Rusty Kelley), is totally against going until he hooks up with a loose girl named Liz (Regan Deal). Eventually after Liz gives Alex oral sex, he asks Liz to prom. She then says she has to get off work and that she might meet him there. John asks Cassie to go to prom but Cassie refuses. He is convinced to go by Alex because Liz might go. Back at the small town, Winston is at a local diner where a worker from the bottled-water company that distributed the water goes into convulsions, coughing up blood, and dies right at his table from the infection. Winston then realizes that dumping Paul in the creek got the water heavily contaminated. Winston drives to the water plant and has one of the workers there tell the officials that the water is contaminated. Just as Winston leaves, the worker is killed by a group of CCD (Contamination Control Division) soldiers who show up in U.S. Army trucks to quarantine the whole town and they have orders to kill anyone who might be infected to prevent the virus from spreading. At the high school, the infection begins to spread to the students. Rick (Thomas Blake Jr.), a popular student, ditches his girlfriend, Sandy (Lindsey Axelsson), the school's popular and mean girl, right at the prom. He meets and seduces an over-weight student, named Fredricka (Amanda Jelks), because of a bet with his jock friends. She had just finished making a punch with the contaminated water. They go to the gym swimming pool and begin to have sex in the pool. She then begins to succumb to the infection. Rick panics and gets out of the pool. Fredricka screams as she begins to drown for she can't swim. Rick tries to save her by using a pool strainer. She pulls on it and pulls Rick in. He hits his head on the side of the pool and bleeds to death. Fredricka drowns. At the prom, Alex is disappointed that Liz did not show up at all. Mean girl Sandy complains to Principal Sinclair (Michael Bowen) that she can't find Rick and screams that since she is the prom queen everything should go her way. Ms. Hawker (Angela Oberer), a mean teacher at the school, then slaps Sandy. John finds out Cassie is there with her boyfriend Marc (Marc Senter) who John hates. The two begin to fight. The principal splits them apart and kicks John out of the prom, blaming him for starting the fight. Cassie follows him outside trying to calm him down. John confesses his love to Cassie who does not know who to react. Just then, CCD soldiers in haz-mat suits arrives in U.S. Army trucks, and force John and Cassie to go back into the school. The CCD locks all of the main exits from the school and tells them that a quarantine is in effect. The two become worried and go back to the gym to warn the principal of the lock down. They go through the pool where they find Fredricka's rotting body floating in it. They find the principal and get Alex out of the gym. The principal demands to know what is going on with the lock down but the CCD soldiers shoot him in the head, killing him. The infection then begins to spread and kill the students in the gym at an alarming rate. The gym is then gassed from the outside by the soliders who then storm into the building to kill the infected. Cassie, John, and Alex watch in horror as the students try to get out of the gym but to no avail. All the students including Sandy die in the gym from the poison gas or by getting shot by the soldiers. Meanwhile, Winston is waiting outside a liquor store and is picked up by his cousin Herman (Mark Borchardt) who is at first reluctant about leaving town to escape from the quaratine, but Winston convinces him by giving him a grin (implying that they are going to Mardi Gras). Back at the school, Cassie, John, and Alex try looking for an exit. Alex storms off after finding out he is infected with the disease. He goes to the library to find out what it is. Cassie and John decide to go out through the auditorium. They try to find Alex while evading the CCD soldiers who are wearing bio hazard equipment. They find an infected Ms. Hawker who is killed by a soldier. They go to the library were they find Alex. They also discover that the disease is necrotizing fasciitis and incurable. Alex says the only way to stop the infection is to cut off the limb the infection is on. He dies moments later with John and Cassie distraught. John finds a boil on his hand and he knows he is infected with the disease. He and Cassie go to the wood shop room where Cassie cuts off John's hand with a buzz saw to stop the infection from spreading and uses an acetylene torch to stop the bleeding. Meanwhile, Winston and Herman are near the city limits when a police roadblock prevents them from going any further. After failing to convince the officer to let them leave, Herman knocks him unconscious and they drive away. Cassie's boyfriend, Marc, then comes out of nowhere and tries to kill John. Cassie kills Marc with a nail gun. John and Cassie leave the school only to be ambushed by the CCD soldiers who open fire on them. John stalls them allowing Cassie to escape from the school area through the woods behind the school. John is captured and is taken away by the CCD apparently to quaratine him as well. Cassie finds herself on a local road and stops Herman's van. Winston and Herman take away Cassie with them, not knowing she is infected with the virus. The end of the movie shows Alex's date with Liz at her work place. She is a stripper at a strip club (she lies about her real age). She is also infected and she secretly has sex with a customer at the club. He then becomes infected and begins to spread it around his work office the next day through the smallest casual touch. His friend, who had sex with her co-worker, also becomes infected, spreading to others on his trucking route to New Orleans along with two Mexican men who go back to Mexico also infected. The flesh-disolving pandemic is now spreading to global proportions. The infected Liz then goes home sick and wishes she went to prom instead of work. After the credits, John's friends, Daryl and Dane, (the only ones clearly not infected) are shown watching a movie at home and Dane says \"prom blows.\"",
+      "writers": [
+         "Joshua Malkin",
+         "Randy Pearlstein"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0961722/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTQ0NDcxNTQyOF5BMl5BanBnXkFtZTcwMTQ2MDk5NA@@._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "actors": ["Stars: Rider Strong, Noah Segan, Alexi Wasser | See full cast and crew »"],
+      "reviews": [
+         "Having seen the first Cabin Fever, which I really liked (it showcased Eli Roths talent for sick and twisted horror comedy, so to speak), I kinda had hoped this could be better. But even before watching the movie, I heard the \"director\" Ti West, distancing himself from this movie (at a Festival, where I didn't have another option/movie to choose from, that's why I chose to watch this anyway, despite the warning)!!! He didn't like the movie and he didn't cut it together (there are also some additional scenes shot and edited into the movie, especially the ending) and he also said, that people might like it or hate it, but either way, he is not responsible for what people will think of the movie ... Having said that, I for once thought it was dreadful. Almost every \"funny\" line doesn't work, the chemistry between the two best friends is off, not to mention that the American Pie style thing just doesn't work. Unfortunately the main character isn't as good in his role as he could have been (you might have seen him in \"Dead Girl\" where he is phenomenal). There is also a side story that is really bad (it's supposed to be funny, but it just isn't). Some gory moments and a few actually not that bad one liners can't save this mess of a movie. There are movies out there, that are worse, but this still has got quite a few things wrong. If you want to see a good Ti West movie, watch his House of the Devil instead ...",
+         "To be honest, I didn't want to review this flick for a number of reasons. One of which being that Cabin Fever is one of my favorite films. Another reason being that Ti West has become one of my favorite genre directors. I remember becoming stoked the day I read that Ti West was taking on a sequel to Eli Roth's Cabin Fever, then all the delays and production problems, and reading that West had all but disowned the film, My anticipation turned to disappointment. The end result turned out to be much better than expected, but still felt incomplete. Cabin Fever 2: Spring Fever spreads the infection from a cabin in the woods, to a nearby high-school prom. With a solid performance by all players involved, some superbly fitting music, and well done gross-out effects, Cabin Fever 2 is a worthy watch for anyone into indie splatter comedies. One of the biggest problems with Cabin Fever 2 is that Ti West wasn't available for the editing process. Sure, 90 percent of the footage that he shot was used,(and it shows) But if a director isn't there for the editing process of a film, It's not going to turn out the way it was intended. The film feels incomplete, as the producers decided to shoot an entirely different 6 minute ending sequence that feels so out of place, that if it didn't contain one of the early characters, you'd thing you were watching a completely different movie. Just as the film picks up, it's brought to a complete halt by this weird, unsuited ending. The ending actually made me feel as if the film had no ending at all. Giuseppe Andrews puts in an amazing performance as he always does, but his character isn't given the depth that he deserves. Despite it's problems, Cabin Fever 2: Spring Fever is definitely worth the watch. It has one of the best opening sequences in b-movie history, and you can tell by the cinematography that Ti West not only knows his stuff, but has a deep love for the genre. I wish they would have given him creative freedom, as I feel this would become a cult classic, but as it stands, we're left with a competent, gory, fun romp at the prom, with a bloodbath that makes \"Carrie\" look like Babe: Pig in the city. http://liberaldead.blogspot.com",
+         "This DTV sequel to Eli Roth's film debut sees the flesh-eating virus spread due to the incompetence of Deputy Winston. The film opens with a badly infected Paul waking up in the river where Winston dumped him at the end of the original. He stumbles up to the highway and is killed almost immediately when a passing school bus splatters him across the pavement. The end of the infection? Hell no. The river water is being used by a bottled water company, and they have a shipment heading to a nearby town's high school prom. Director Ti West reportedly wanted this to receive an Alan Smithee credit after the studio interfered and took certain things in a different direction, though he didn't get his wish. I'm an unabashed fan of Roth's film, but this really felt nothing at all like the original. Even the Deputy Winston scenes felt a bit different in tone, the sequence where he's talking to the water company's night watchman notwithstandin. The aforementioned scene and it's climax cracked me up, but Winston's character wasn't written as amusingly as he was in the first film. Aside from seeing Winston again, the main aspect of interest here was seeing two guys (Noah Segan and Marc Senter) who played memorable psychos in two other genre titles (Deadgirl and The Lost, respectively) as rivals in this. Segan in particular seems to be playing the exact part his Deadgirl co-star played in that film. Anyway, there didn't seem to be much continuity between the effects of the virus in the original and what we see in this one. There is some pretty nasty and over-the-top stuff, though. Most characters were over-the-top as well. I wish the film had spent more time with Lindsey Axelsson (Sandy, the prom queen). She was yummy and had one of the film's more amusing moments. She didn't even get an on screen death scene! The last ten or so minutes with the strip club feel very tacked on, but I guess that makes sense, as West said the producers did the ending their way. I also didn't like the final cartoon bit in the least, not to say that the opening cartoon segment was any great shakes itself. If you like pure splat-stick with not much sense involved, you might enjoy this on some level. At one point, with chaos erupting around them, two teens continue making out even after they vomited blood into each other's mouths. That pretty much says it all. I would love to see the original cut, but doubt LG will release it. It took them forever to release the DC of the first.",
+         "An infected guy from part I crawls out of a water treatment plant, stumbles through the woods, makes it to a road only to be aerosolized when he's hit by a school bus. The world's most incompetent sheriff deputy arrives on scene and the tells the bus drive he just hit a moose. What a great way to start the movie! But things go way downhill from there. Meanwhile, infected water is distributed all over the place. The movie focuses on what happens at a high school...during prom day...of course. Hollywood just can't make a movie about high school on any day other than prom. Our main cast is a nice guy and his heavy and horny sidekick. Nice guy is bullied by some bad guy over a girl. Slowly the infection spreads at school, with blisters being the first sign. Sidekick hooks up with an infected girl in a bathroom stall. Nice guy doesn't have a date for prom so he decides not to go until sidekick convinces him to. The punch at the prom is made with infected water and the disgruntled and infected janitor urinates in it so in time for prom dance every one starts projectile vomiting blood. Somehow the deputy realizes what is going on, rushes to the water plant only to encounter some secret army taking control. This army also reaches the high school, locks it up and executes everyone, but our heroes who will try to find a way out. Cabin Fever 2, subtitled \"Spring Fever\" for no good reason whatsoever, has nothing to do with the original, there isn't even a cabin. And IMDb quotes that there were re-shoots and re-editing because of producer-director disagreements. It is obvious in Cabin Fever 2 that something wasn't right behind the camera. The movie just doesn't work, there is plenty of story missing, characters that serve no purpose, like the deputy, what happens with him? The ending of the movie is told in...animation!? But there are also problems with casting. The nemesis is very well cast, the sidekick is alright, too. But our main guy and his girl are dull and the girl unattractive. Before infection starts, the pace of the movie is atrocious as we are introduced to the characters. The prom itself is poorly filmed, dark, and unoriginal. Despite all the movie's shortcomings, I'm compelled to give it a better rating. The crew went places few dare these days when making a horror movies. Most are concerned with getting that PG-13 rating and offending no one. Cabin Fever 2 aims to be extreme in violence, gore, disgusting scenes. It has a bit of nudity and sexual situations, too. This movie was done in the right spirit, but somewhere something went wrong.",
+         "In Springfield, Paul contaminates the supply of bottled water of the Down Home Water to the local high-school on the day of the prom. Alex (Rusty Kelley) convinces his friend Jonathan (Noah Segan), who has a crush on Cassie (Alexi Wasser) and is bullied by a school mate, to go to the prom. However, the contaminated water spreads a deadly flesh-eating virus among the students. \"Cabin Fever 2: Spring Fever\" is a weak sequel, with a bad development of the plot and characters, gross and unpleasant. It seems that the writer was in a hurry to finish his work and was not careful with the story; or maybe Ti West was only interested in gore and special effects and used a \"heavy hand\" and the black humor never works. In the end, this rip-off \"Carrie\" with \"Outbreak\" (or any other movie of virus outbreak) is only nasty and not funny. My vote is five. Title (Brazil): \"Cabana do Inferno 2\" (\"Cabin of the Hell 2\")",
+         "I mistakenly assumed that with Rider Strong repeating his role from the first film this sequel would continue that story, which was humorous and disturbing. I found that to be far from the case. The movie isn't worthy of being classed as B status. Performances are bad. Script almost non-existent. A thin plot exists to move the film from one gross-out scene to another. I could find nothing that would move me to recommend this film. How anyone could find something funny in this production is beyond me. It is one sick, twisted film whose only goal is to attempt to sicken the audience or desensitize viewers to the reality of tragedy in the real world. Perhaps I'm being a bit too philosophical for such low-brow \"entertainment\", but there is nothing redemptive about this feature. Cheap special effects, constant profanity, unlikeable characters (especially the deputy who cares only about himself). Whereas Cabin Fever displayed some originality, this sequel exists merely to cash in on its predecessor's name and reputation. There's no tension or sense of \"something worse coming\" that was present in the original. The movie itself is only about 72 minutes, followed by a 5 minute tangential story, which is itself followed by a crudely drawn cartoon of 2 or 3 minutes; filler, simply filler. There are better ways to waste 80 minutes.",
+         "No exposition, other than a few flashbacks of dead bodies from the first cabin fever. Apparently some blood from past corpses leaked into the water supply of the bottled water that everyone drinks and causes everyone to throw up convulsively and basically die from the inside out. No explanation, many undeveloped plot lines, and the movie jumps around quite a bit without any real concerted effort to bond the different scenes together. One redeeming facet of the movie is that it is a glimpse into the life of a high school kid who is smitten with his longtime friend and reminds us of what those days were like, to an extent. But avoid this one at all costs.",
+         "Hmmm, it's a difficult decision to stand by my rating for this movie but I will anyway. As always. I've found out all about the interference that led to director Ti West telling people it wasn't what he envisioned (although he did stand by it at screenings, admirably), I've also discovered that two other drafts were discarded (one by Eli Roth and one by Adam Green) for reasons probably only ever to make sense to some executives somewhere. Despite knowing these things, and despite hearing a lot of negative reviews in advance of my own viewing of this movie, I liked what I saw. More to the point, I'm baffled as to how fans of the first movie can loathe this fun sequel so as much as they seem to. The storyline follows on almost immediately from the events of the first movie with the main plot point concerning a lorry load of contaminated water making a delivery at a high school that's due to have its prom night dance. High school dances and flesh-eating viruses never make for comfortable bedfellows and things quickly get a hell of a lot worse once they start going bad. Okay, so the script has a lot of sub-standard teen comedy moments in it. And, yes, the acting could have been much better although I can only assume that most fans enjoyed Giuseppe Andrews' performance a lot more than I did and should be pleased to see his return. And at least Noah Segan (so good in Deadgirl) turns in another solid performance even if nobody else stands out (Alexi Wasser was cute and likable enough though). Despite its many flaws, this film is a lot of fun. It grossed me out, it made me laugh, it had me willing dumb characters not to be quite so dumb, it did it's job, in my book. The animated intro and outro was a fun little addition, introducing any newcomers to the situation and then adding a sense of scale at the end. The gloopy effects were . . . . gloopy. The whole thing was a big bundle of illogicality wrapped up in entrails and fake blood. I don't know what everyone was expecting but I got just the silly enjoyment I wanted from things. See this if you like: Cabin Fever, The Crazies, The Stuff.",
+         "...since I really liked the first one, but my hopes were crushed within the first few minutes. I have seen \"Cabin Fever 2\" at the Fantasy Filmfest, and it was the worst movie I have seen in a long time. The acting was beyond horrible, the story was non-existent and the dialogue was a nightmare. As for the gore... well it wasn't \"funny disgusting\", like some scenes in the first one, but just disgusting. If you like breats full of eczema or if you love watching pus coming out a guys penis, this is your movie! There was one funny scene, a cameo by Judah Friedlander (\"30 Rock\"), and a fairly entertaining 3 Minute appearance by an almost unrecognizable Rider Strong at the beginning of the movie, but that's about it. If this will ever come out on DVD or even gets into cinemas, trust me and avoid it, even if you, like me, really liked the first one.",
+         "I wont spend time reviewing this garbage, other than to warn this is a far cry from the first one so don't get your hopes up. I will say there are some obvious fake reviews on here, trying in vain to hype this film. Trust me, no one registers an IMDb account just to review this straight to DVD crapfest unless they are involved in production somehow. I would hope the fake review accounts would at least try to be convincing (10 of 10 stars? really?) instead of praising this as the best film since time began. its a tad insulting, and it motivates lazy people like me to write and vote on the movie whereas otherwise I wouldn't bother."
+      ],
+      "genres": [
+         "Comedy",
+         "Horror",
+         "Sci-Fi",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Tonic Films",
+         "Morningstar Films",
+         "Aloe Entertainment"
+      ],
+      "summaries": ["A high school prom faces a deadly threat: a flesh-eating virus that spreads via a popular brand of bottled water."],
+      "budget": 10000000
+   },
+   "movielensId": 74752,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2009-08-11",
+      "dvdReleaseDate": null,
+      "directors": ["Ti West"],
+      "runtime": 87,
+      "movieId": 74752,
+      "title": "Cabin Fever 2: Spring Fever",
+      "mpaa": "R",
+      "actors": [
+         "Rider Strong",
+         "Noah Segan",
+         "Alexi Wasser",
+         "Rusty Kelley",
+         "Marc Senter",
+         "Giuseppe Andrews",
+         "Mark Borchardt",
+         "Michael Bowen",
+         "Judah Friedlander",
+         "Larry Fessenden",
+         "Amanda Jelks",
+         "Thomas Blake Jr.",
+         "Angela Oberer",
+         "Taylor Kowalski",
+         "Alexander Isaiah Thomas",
+         "Lindsey Axelsson",
+         "Lila Lucchetti",
+         "Caitlin Coons",
+         "Regan Deal",
+         "Andrea Powell",
+         "Hayley Lovitt"
+      ],
+      "imdbMovieId": "0961722",
+      "originalTitle": "Cabin Fever 2: Spring Fever",
+      "genres": ["Horror"],
+      "youtubeTrailerIds": ["AL9REcSH3IE"],
+      "plotSummary": "A high school prom faces a deadly threat: a flesh-eating virus that spreads via a popular brand of bottled water.",
+      "tmdbMovieId": 28739,
+      "avgRating": 2.32911,
+      "releaseYear": "2009",
+      "numRatings": 79,
+      "posterPath": "/eCL830fKjc3rkKO8RxAcSwrbpfN.jpg"
+   }
+}

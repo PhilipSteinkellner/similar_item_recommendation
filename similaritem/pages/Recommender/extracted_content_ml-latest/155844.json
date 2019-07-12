@@ -1,0 +1,761 @@
+{
+   "tmdb": {
+      "original_language": "it",
+      "keywords": [
+         {
+            "name": "based on novel",
+            "id": 818
+         },
+         {
+            "name": "remake",
+            "id": 9714
+         },
+         {
+            "name": "demon",
+            "id": 15001
+         }
+      ],
+      "imdb_id": "tt0171512",
+      "video": false,
+      "title": "The Devil's Veil",
+      "recommendations": [],
+      "backdrop_path": "/nIBsaMUcCBypRMTOWMTQfEs6zr5.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Davide",
+               "gender": 0,
+               "credit_id": "52fe476dc3a36847f81351a1",
+               "name": "Giovanni Guidelli",
+               "profile_path": "/2XMy6BEsd3NPrXveRkSmPStDQan.jpg",
+               "id": 229667,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Sabina",
+               "gender": 1,
+               "credit_id": "52fe476dc3a36847f81351a5",
+               "name": "Debora Caprioglio",
+               "profile_path": "/kKRkYySCqCTMb07YYBWhA5eoq0Z.jpg",
+               "id": 147590,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "Priest",
+               "gender": 0,
+               "credit_id": "52fe476dc3a36847f81351a9",
+               "name": "Stanko Molnar",
+               "profile_path": null,
+               "id": 564787,
+               "order": 2
+            },
+            {
+               "cast_id": 5,
+               "character": "Alessandra",
+               "gender": 1,
+               "credit_id": "52fe476dc3a36847f81351ad",
+               "name": "Mary Sellers",
+               "profile_path": null,
+               "id": 107484,
+               "order": 3
+            },
+            {
+               "cast_id": 6,
+               "character": "Bebo",
+               "gender": 2,
+               "credit_id": "52fe476dc3a36847f81351b1",
+               "name": "Michele Soavi",
+               "profile_path": "/AhvV1PgfEwIkwfL5uWRD9xO2bDd.jpg",
+               "id": 87680,
+               "order": 4
+            },
+            {
+               "cast_id": 7,
+               "character": "Anibas",
+               "gender": 1,
+               "credit_id": "52fe476dc3a36847f81351b5",
+               "name": "Eva Grimaldi",
+               "profile_path": "/tSTHQ9c0Jizsa6m86ABc2i2v8xr.jpg",
+               "id": 103160,
+               "order": 5
+            },
+            {
+               "cast_id": 9,
+               "character": "",
+               "gender": 0,
+               "credit_id": "57ec1db4c3a3687d6600000d",
+               "name": "Stefano Molinari",
+               "profile_path": "/loCK4ACB8jXAm4WBvSsk7HcEzYf.jpg",
+               "id": 1089879,
+               "order": 6
+            },
+            {
+               "cast_id": 10,
+               "character": "",
+               "gender": 0,
+               "credit_id": "57ec1dc7c3a36868bd0088db",
+               "name": "Ron Williams",
+               "profile_path": null,
+               "id": 1190355,
+               "order": 7
+            },
+            {
+               "cast_id": 58,
+               "character": "",
+               "gender": 0,
+               "credit_id": "58a242b2c3a368185400026b",
+               "name": "Alessandra Bonarotta",
+               "profile_path": null,
+               "id": 1372352,
+               "order": 8
+            },
+            {
+               "cast_id": 59,
+               "character": "",
+               "gender": 0,
+               "credit_id": "58a242c2c3a368180900023c",
+               "name": "Laura Devoti",
+               "profile_path": null,
+               "id": 1757261,
+               "order": 9
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe476dc3a36847f813519d",
+               "name": "Lamberto Bava",
+               "profile_path": "/4urZfizR36I5FHbkvk8l4VnOEMA.jpg",
+               "id": 44955,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe476dc3a36847f81351bb",
+               "name": "Lamberto Bava",
+               "profile_path": "/4urZfizR36I5FHbkvk8l4VnOEMA.jpg",
+               "id": 44955,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58a23c7dc3a36812a4000085",
+               "name": "Maurizio Rachini",
+               "profile_path": null,
+               "id": 1757249,
+               "department": "Lighting",
+               "job": "Electrician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58a23c8fc3a36812bd00008e",
+               "name": "Claudio Ricci",
+               "profile_path": null,
+               "id": 129969,
+               "department": "Camera",
+               "job": "Grip"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58a238cac3a368600b000a65",
+               "name": "Massimo De Rita",
+               "profile_path": null,
+               "id": 98482,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58a238df92514117ae000a18",
+               "name": "Massimo De Rita",
+               "profile_path": null,
+               "id": 98482,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58a238f4c3a3685fe90008ca",
+               "name": "Nikolai Gogol",
+               "profile_path": "/mPCb6xYWu9okwdzPOiy22Pz6VVd.jpg",
+               "id": 1097807,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58a2390ac3a3680bbd000006",
+               "name": "Giorgio Stegani",
+               "profile_path": null,
+               "id": 73624,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58a23916925141398c000009",
+               "name": "Giorgio Stegani",
+               "profile_path": null,
+               "id": 73624,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58a239329251413999000016",
+               "name": "Lamberto Bava",
+               "profile_path": "/4urZfizR36I5FHbkvk8l4VnOEMA.jpg",
+               "id": 44955,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58a239589251413999000024",
+               "name": "Andrea Piazzesi",
+               "profile_path": null,
+               "id": 149298,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58a2396b9251413974000033",
+               "name": "Simon Boswell",
+               "profile_path": "/docJpHQG30F8wdMxKhQJpOuYkK0.jpg",
+               "id": 7741,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58a23981925141397f000038",
+               "name": "Gianfranco Transunto",
+               "profile_path": null,
+               "id": 68453,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58a239939251413974000047",
+               "name": "Piero Bozza",
+               "profile_path": null,
+               "id": 1188976,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58a239acc3a3680c01000042",
+               "name": "Davide Bassan",
+               "profile_path": null,
+               "id": 103179,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58a239bbc3a3680c0900005b",
+               "name": "Giuseppe Mangano",
+               "profile_path": null,
+               "id": 1540082,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "58a239cfc3a3680c0100004d",
+               "name": "Katia Dottori",
+               "profile_path": null,
+               "id": 553804,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58a239e9925141398f000064",
+               "name": "Laura Borselli",
+               "profile_path": null,
+               "id": 1711440,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58a23a03925141398f000073",
+               "name": "Franco Casagni",
+               "profile_path": null,
+               "id": 1645178,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58a23a14c3a3680c0100007b",
+               "name": "Piero Cucchi",
+               "profile_path": null,
+               "id": 1711438,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58a23a23925141398f00007f",
+               "name": "Sara Del Zoppo",
+               "profile_path": null,
+               "id": 1757233,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58a23a35925141398f00008c",
+               "name": "Alberto Brusco",
+               "profile_path": null,
+               "id": 1757234,
+               "department": "Production",
+               "job": "Production Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58a23a44c3a3680bb500007b",
+               "name": "Giorgio Russo",
+               "profile_path": null,
+               "id": 1120666,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58a23a58c3a3680c090000a5",
+               "name": "Silvia Innocenzi",
+               "profile_path": null,
+               "id": 1464583,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58a23a69c3a3680bd800009f",
+               "name": "Antonio Lusci",
+               "profile_path": null,
+               "id": 1757235,
+               "department": "Directing",
+               "job": "Second Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58a23a809251413999000156",
+               "name": "Lionello Fantacci",
+               "profile_path": null,
+               "id": 1757236,
+               "department": "Crew",
+               "job": "Propmaker"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58a23a9592514139740000b8",
+               "name": "Ubaldo Panunzi",
+               "profile_path": null,
+               "id": 1757237,
+               "department": "Crew",
+               "job": "Propmaker"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58a23ac4c3a3680c010000ba",
+               "name": "Alessandra Pierini",
+               "profile_path": null,
+               "id": 1757238,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58a23ada9251413999000187",
+               "name": "Eugenio Ulissi",
+               "profile_path": null,
+               "id": 5674,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58a23af1c3a3680bbd0000b4",
+               "name": "Stefano Bausano",
+               "profile_path": null,
+               "id": 1665882,
+               "department": "Sound",
+               "job": "Sound"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58a23b01c3a3680b8f0000c8",
+               "name": "Carlo Maria Brusco",
+               "profile_path": null,
+               "id": 1757239,
+               "department": "Sound",
+               "job": "Boom Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58a23b11c3a3680c110000cf",
+               "name": "Romano Checcacci",
+               "profile_path": null,
+               "id": 1710493,
+               "department": "Sound",
+               "job": "Sound Mixer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "58a23b21c3a3680c090000fe",
+               "name": "Fiamma Maglione",
+               "profile_path": null,
+               "id": 55658,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58a23b46c3a3680bbd0000f0",
+               "name": "Sesto Burgalossi",
+               "profile_path": null,
+               "id": 1757241,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58a23b5bc3a3681271000004",
+               "name": "Sergio Stivaletti",
+               "profile_path": null,
+               "id": 99546,
+               "department": "Crew",
+               "job": "Animatronic and Prosthetic Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58a23b6fc3a368123d000012",
+               "name": "Giancarlo Battaglia",
+               "profile_path": null,
+               "id": 1757242,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58a23b7d925141408a00001a",
+               "name": "Roberto Esposti",
+               "profile_path": null,
+               "id": 1757243,
+               "department": "Camera",
+               "job": "Key Grip"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58a23bfdc3a368129100005f",
+               "name": "Rodolfo Flibotti",
+               "profile_path": null,
+               "id": 1757244,
+               "department": "Lighting",
+               "job": "Electrician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58a23c109251414051000059",
+               "name": "Giovanni Gebbia",
+               "profile_path": null,
+               "id": 1708137,
+               "department": "Camera",
+               "job": "Steadicam Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58a23c1f925141405f00004d",
+               "name": "Giovanni Leacche",
+               "profile_path": null,
+               "id": 1706394,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58a23c2b925141405f000054",
+               "name": "Massimo Lombardi",
+               "profile_path": null,
+               "id": 1757245,
+               "department": "Camera",
+               "job": "Grip"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58a23c4b9251414055000088",
+               "name": "Enrico Morgia",
+               "profile_path": null,
+               "id": 1757246,
+               "department": "Lighting",
+               "job": "Electrician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58a23c5f925141405f000071",
+               "name": "Gianfranco Perugini",
+               "profile_path": null,
+               "id": 1757247,
+               "department": "Camera",
+               "job": "Grip"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58a23c6ec3a3681271000079",
+               "name": "Francesco Rachini",
+               "profile_path": null,
+               "id": 1757248,
+               "department": "Lighting",
+               "job": "Electrician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58a23caac3a36812910000a9",
+               "name": "Elena Ucropina",
+               "profile_path": null,
+               "id": 1757250,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58a23cbe92514140550000ba",
+               "name": "Stella Battista",
+               "profile_path": null,
+               "id": 1431852,
+               "department": "Costume & Make-Up",
+               "job": "Seamstress"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58a23cdd925141405b0000cc",
+               "name": "Pasquale Cuzzupoli",
+               "profile_path": null,
+               "id": 1559015,
+               "department": "Editing",
+               "job": "Color Timer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58a23cf2925141405b0000d1",
+               "name": "Sante Discepoli",
+               "profile_path": null,
+               "id": 1704149,
+               "department": "Editing",
+               "job": "First Assistant Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58a23d099251414577000002",
+               "name": "Raffaella Morotti",
+               "profile_path": null,
+               "id": 1757251,
+               "department": "Editing",
+               "job": "Assistant Editor"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Horror",
+         "id": 27
+      }],
+      "popularity": 0.49805,
+      "production_countries": [
+         {
+            "iso_3166_1": "FR",
+            "name": "France"
+         },
+         {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+         },
+         {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+         },
+         {
+            "iso_3166_1": "PT",
+            "name": "Portugal"
+         },
+         {
+            "iso_3166_1": "ES",
+            "name": "Spain"
+         }
+      ],
+      "id": 48613,
+      "vote_count": 2,
+      "budget": 0,
+      "overview": "A group of five or six or seven friends go skiing in the Alps and get trapped in a crevasse cave-in that uncovers the long frozen tomb of a heretic executed eons before for practicing blasphemy after a Demon's Mask was nailed onto it's head. One of them decides it would be a really good idea to chip the hideous mask free of it's ice and take it home as a memento of the occasion, unleashing a series of events that finds the coed group of tight ski panted friends trapped by a second cave-in, and forced to take refuge in an ancient monastery or something like that, long buried by the arctic snows and ices.",
+      "similar": [
+         561,
+         41505,
+         281957,
+         27770,
+         588,
+         9552,
+         6114,
+         91586,
+         77949,
+         622,
+         433808,
+         452507,
+         346364,
+         11298,
+         10014,
+         409297,
+         397243,
+         806,
+         9946,
+         441701
+      ],
+      "original_title": "La maschera del demonio",
+      "runtime": 94,
+      "poster_path": "/1TUknJMvge7OCjsDtDTzahJY2HO.jpg",
+      "spoken_languages": [{
+         "name": "Italiano",
+         "iso_639_1": "it"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Televisión Española (TVE)",
+            "id": 6639,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Beta Film",
+            "id": 1080,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Reteitalia",
+            "id": 1242,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "ANFRI S.r.l.",
+            "id": 16186,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Radiotelevisão Portuguesa (RTP)",
+            "id": 8492,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Silvio Berlusconi Communications",
+            "id": 8694,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Société Française de Production (SFP)",
+            "id": 6849,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1989-01-02",
+      "vote_average": 4,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Italy",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Lamberto Bava"],
+      "runtime": 94,
+      "synopsis": null,
+      "writers": [
+         "Nikolay Gogol",
+         "Lamberto Bava"
+      ],
+      "originalLanguage": "Italian",
+      "imdbLink": "http://www.imdb.com/title/tt0171512/",
+      "coverLink": null,
+      "actors": [
+         "Giovanni Guidelli",
+         "Debora Caprioglio",
+         "Stanko Molnar"
+      ],
+      "reviews": [
+         "This is one of the many made for cable horror films that Lamberto Bava directed at the end of the 1980s and that sadly disappeared in oblivion short after their making. Of course, these TV-productions don't belong to Bava junior's best works, but most of them are decent (except for the tedious \"Dentro il Cimitero\" and \"La Casa dell' Orco\"), and \"La Maschera dell' Demonio\" belongs to the best ones. Even though the title suggests a remake of Mario Bava's 1960 landmark gothic horror film of the same title, this one has not much to do with it. Only the \"historical background\" is the same: the protagonists stumble over an old body of a witch with a mask on her face - and as soon as the mask is removed, evil things happen. The rest of the film is quite different to Bava senior's masterpiece. The setting is in the snowy mountains, and it's about possession, a hapless love relationship, demonic seduction (including a really nasty \"date with a demoness\") and surreal happenings. The surreal effects work by Italian master Sergio Stivaletti is very well done, remarkable for a rather low budgeted TV-production. The film suffers a little bit from a slow pace halfway through it, but the climax which boosts some fine Lovecraftian ideas (that spawn most of the surreal effects work) makes up for it and is the real highlight of the movie. Add to that comparably decent acting (especially from Klaus Kinski's ex-girlfriend Deborah Caprioglio) and a good score by Simon Boswell, and You have a surprisingly good film that would have deserved far better distribution than it suffered a decade ago. 6 out of 10, and let's hope that \"La Maschera del Demonio\" won't be completely forgotten in the years to come.",
+         "There is a mistaken impression that Lamberto Bava's LA MASCHERA DEL DEMONIO aka \"Demons 5: Devil's Veil\" from 1989 is a remake of his father Mario Bava's pivotal LA MASCHERA DEL DEMONIO aka \"Black Sunday\" from 1960. Not quite, though the two do share the same basic story premise of a cruelly executed witch exacting her revenge from beyond the grave. Sadly, the younger Bava's film has never been translated into English and the only way to see it is on Italian language home video releases. A group of five or six or seven friends go skiing in the Alps and get trapped in a crevasse cave-in that uncovers the long frozen tomb of a heretic executed eons before for practicing blasphemy after a Demon's Mask was nailed onto it's head (an actual form of Inquisitional torture, by the way). One of them decides it would be a really good idea to chip the hideous Ozzy like mask free of it's ice and take it home as a memento of the occasion, unleashing a series of events that finds the coed group of tight ski panted friends trapped by a second cave-in, and forced to take refuge in an ancient monastery or something like that, long buried by the arctic snows and ices. So much so good, except then plot takes over and my grasp of Italian extends to various kinds of pastas & sauces. There are plot intrigues galore that I can only guess on: The long dead body of an Inquisitional priest is resurrected, various members of the ski troupe are possessed by demons unleashed by the freeing of the mask, various breasts are bared and assorted people find themselves tortured, falling in love, or skewered by giant falling icicles. Meanwhile the soul of the heretic embarks on a mission to (I guess) avenge and resurrect herself using the body of one of the pretty Italian actresses -- who just happens to have the same surname -- and induct the surviving skiers into her coven of the undead. If that sounds like a busy movie, it is. It's essentially Italian Gothic shocker formulas updated to the late 1980s and with a teen to college aged audience in mind. A fellow commenter pointed out the Lovecraft angle and yes, I can totally see that going on here too. I liked the underground monastery or whatever, loved the topless Italian actresses sweating on the torture racks, and was impressed by a stop motion animation sequence where an architectural gargoyle comes to life (way before CGI effects, which would have ruined the film's hands-on feel). The film ultimately owes as much to Fulci, Stuart Gordon and THE NAME OF THE ROSE as it does to Bava the Elder's film, mixing ecclesiastical pyrotechnics with disco neon new wave makeup -- and yet it still works even if you don't speak a word of Italian. But it's NOT an update of \"Black Sunday\"; Lamberto should at least be credited to giving a nod to his father's breakthrough movie without necessarily defaming the memory. Nothing wrong with borrowing a little bit of thunder from your old man, and no it has absolutely nothing to do with the movies called DEMONS 4 or DEMONS 6, other than being released as yet another cash-in on the success of Lamberto's DEMONS, which marked the high point of the modern Italian horror craze. Like father, like son. 7/10; Try to find a 99 minute Japanese made video release, the cover is absolutely wild too.",
+         "Like almost every other late eighties Italian horror film with a plot that even slightly has anything to do with demons; this film is labelled as a part of the 'Demons' series, started by Lamberto Bava in 1985. This 'series' is very hard to keep up with once you get past the first (and only official) sequel. The title 'Demons 3' was given to Umberto Lenzi's \"Black Demons\", Michele Soavi's \"The Church\" and Lamberto Bava's \"The Ogre\"; while Michele Soavi's \"The Sect\" (which had nothing to do with demons!) was released as \"Demons 4\", and this film; released two years BEFORE The Sect, gets the title \"Demons 5\". Oh, and let's not forget the 'sixth instalment'; Luigi Cozzi's The Black Cat, also released in 1989. Anyway, naturally this film has nothing to do with Lamberto Bava's other two (or three) Demons films, and is actually something of a homage to his father's 1960 masterpiece Black Sunday. The plot focuses on a group of friends skiing in the Alps. They fall into an ice cave and one of their number is killed. The also find a body with a devil's mask nailed into its head; and decide to remove the mask...which naturally unleashes demons and stuff. After hearing the plot summary, I was convinced that the story, along with the fact that we have a director homaging his own father, would lead to an at least interesting film. However...the result really couldn't have been much more disappointing. As mentioned, the film is not really a homage to Black Sunday at all; there's the obvious similarity of both films having a witch killed by having a mask nailed into her skull, but that's about the end of the similarities. The tone and style of the film is much closer to the aforementioned Demons films; which obviously makes this one very trashy indeed. The one thing I did like about it is the fact that it's set in the snow covered Alps - this provides a refreshingly different location for an Italian horror, and credit must be given. The film was made for television, and as such the gore is kept down to a minimum. There's a few disgusting sequences...but nothing to write home about. This film has become very hard to find; and an English language version is even more difficult to find...so I wouldn't recommend anyone but the most ardent Lamberto Bava fans goes to any lengths to track down a copy.",
+         "Lamberto Bava decides being his own man isn't going to cut it and remakes one of his father's best known films, Black Sunday (1960). Because what was Mario Bava's film really in need of? Teen skiers! A group of 8 teens go skiing and fall into a huge hole after an earthquake. Once inside they discover a woman encased in ice wearing an iron mask. Naturally, they pull it off and it causes another earthquake with one of their friends being impaled by a huge ice shard (literally no one cares). The group of now 7 find the earthquake has unearthed some ancient city where a blind priest, who killed the witch centuries ago, lives with his dog. The kids soon start acting possessed and David and Sabina, the two virgins of the group, must fight to survive. This is Bava doing Black Sunday mixed with Demons (1985) to so-so effect. On the plus side, there is some good design work and cinematography. They also have some great snow in this. The downside? Pretty much everything else. Bava would have fared better just doing a teen horror flick rather than a weak attempt at the Nikolai Gogol story, which will only draw comparisons with his father's superior work. Look for Michele Soavi as one of the kids.",
+         "Review based on the 83 minutes long Spanish version titled la mascara del demonio. My first impression is that this has TV-movie-like graphics and font. Then, the question \"horror on the slopes?\" came to my mind and gave me a bit of hope for this one. A group of skiers on the Swiss Alps fall into a chasm opened during an avalanche. Inside, they find a metal mask of some sort, but more digging reveals a body hidden under the ice, the body of an executed witch, buried in the ice for centuries. Another avalanche seals them in. As they begin exploring this cavernous pit in the snow, they discover a strange underground city buried in the ice and snow, the same place the witch was executed. From then on, witch tries to avenge her death, possessing members of the ski group. Great set designs and lighting, plus the unique setting of the snow-covered Alps, but overall the film is lackluster, with a slow pacing and not much action.",
+         "La Maschera del Demonio, Lamberto Bava's homage to his father's '60s classic Black Sunday, is one of those films than can be described as operating on 'dream logic', which is the polite way of saying that the film makes no sense whatsoever, moving from one scene to another without any concern for narrative cohesion. The film opens with a group of young skiers falling into a crevasse, after which they discover the body of a witch called Anibas encased in ice and remove the mask covering her face, thereby releasing her evil spirit. While the friends squabble about who should have the mask, there is a cave-in that kills one of the group and seals the exit. Exploring the ice cave, the group stumble upon a church and find a passage that leads to a ghost town inhabited by a blind cleric, who offers them shelter. While they wait for the weather to improve, the youngsters become possessed by the witch's spirit, all except for David, who tries to escape with his girlfriend Sabina before she too becomes one of Anibas's victims. That's the basic gist of the plot, but there is so much more that makes this one a real head-scratcher: Sabina's miraculously cured leg injury; the dead guy coming back to life; Sabina turning into a wizened old hag with shrivelled tits, frogs legs and a large chicken foot; David being protected by a green force field; the witch appearing with Medusa-style hair; the dumb revelation that the kids' initials spell 'Anibas' (which just happens to be Sabina spelled backwards); and an ending that I am at a complete loss to explain. Sadly, what sounds like goofy fun\u2014a ridiculously OTT exercise in incongruous Italian excess\u2014actually proves to be tedious in the extreme thanks to lifeless direction, irritating performances and scenes that simply don't know when to call it a day (the bit where the possessed friends link hands and repeatedly chant at the cleric nearly broke me). 1/10. When a chicken-footed, sex-mad witch and some gratuitous female nudity still results in the lowest possible rating, you know it's got to be bad!",
+         "Despite what the title may suggest, and a few winking references to \"Black Sunday/Mask Of Satan\", this is much closer to the \"Demons\" films than anything else. Evil possesses a location, and spreads by infecting people who carry it with them. This one is probably better than \"The Ogre\", (often referenced as \"Demons 3\", despite not having any real demons), but it pales next to Soavi's \"The Chuch\" (planned as \"Demons 4\", once upon a time). I've only seen it from spanish TV, but, it was subtitled. Despite generational loss from the subtitling, the Video Search Of Miami print is probably the best for those who want it in english. Fun, but not necessarily important. Beware the wrath of \"Anibas\", who indulges in one of the silliest name games since Hammer went crazy with the whole \"Carmilla-Mircalla-Millarca\" thing in their \"Carmilla\" adaptations.",
+         "David's up against a demonic horde, and the only thing he can use to save himself is his virginity! Eight skiers out on the Alps or some sh*t all manage to fall into a huge hole, where one of them, Sabina, breaks her leg. They discover a body down there with a mask attached and remove said mask, causing some of them to go crazy. After a demon wind blows into the cave, the remaining seven skiers (one, a pain in the arse called Sergio, is killed by an icicle) find a strange church under the snow, which leads to a small town where there's only one resident: A blind priest. I forgot already: Sabina's leg is cured by this point. Everyone except David and Sabina starts acting like totalarseholes in the priest's house, taking the pish out the blind guy and causing him to look up some legend about Abinas, a witch who was burned and cursed everyone years before. Things from now on get increasingly strange and freaky. The thing is, Sabina's still been acting normal by this point, but as her buddies (including a still young looking Michele Soavi, of every Italian film made in the eighties) are freaking out, pulling their teeth out and doing all that satanic stuff. Also, the only non-normal thing Sabina's trying to do is pop David's cherry, which she tries to do again and again until for some reason she turns into a rotten zombie/giant chicken. After watching this one, Lamberto Bava's Graveyard Disturbance makes a lot more sense. He's going for freaky visuals and alternate realities here (and in that film), and to be honest, it works. This film is far from predictable. Hell, it's hard as hell to follow half the time. Characters are killed over and over and still come back (there's a nice shot of Sergio coming back in the middle of the film), some gargoyles come alive and there's the ever present wind blowing through everything and continuous snow. That said, if you have half a brain and therefore some patience, you might find yourself getting tired of the constant attempts to get David to empty his pods. This film isn't scary, but it's nice and trippy and therefore I give it a thumbs up. Haha! That's not a thumb - it's a demon penis. Fooled you! No - it's not. It's a thumb that loves you. You said you'd never leave this thumb. Why leave? Kidding! It's basically a demon penis! Fooled you! Haha! Phallus beef! Erzatz thumb! No it's a thumb...sorry... Haha! Demon tadger! Ahhh... Basically the last few lines of this review are this film. Also - IMDb spell checked me for spelling arseholes wrong!",
+         "When I had rewatched the entire Luis Bunuel filmography in 2011, I opted to complement it by viewing movies directed by his son Juan Luis. I intended doing the same with Lamberto Bava's work on the occasion of the centenary marathon devoted to his father Mario; however, after checking out the title under review \u2013 which is actually a remake of the elder Bava's BLACK Sunday (1960) \u2013 I decided against it, given the utter disappointment the experience proved to be! Whether by accident or design, Lamberto was virtually Mario's age when he adapted the Nikolai Gogol story \"The Vij\" \u2013 but the latter already had a full 10 years' practice directing movies, whereas his Dad's effort had been his official debut; still, watching the two films back-to-back one would think the reverse was true\u0085in view of the overall amateurishness of the 1989 version compared to the extreme confidence and dazzling artistry displayed throughout the 1960 one! For the record, I will be getting to yet another rendition (made on its homeground in 1967 and, by far, the most faithful) of the same source material\u0085 A word on the title: the younger Bava is perhaps best-known for helming the gross and grossly overrated DEMONS (1985) and DEMONS 2 (1986); for some odd reason, a handful of unrelated contemporaneous Italian (and one American!) horror films were released in Japan as if they were subsequent entries in what could only be termed an unenviable franchise \u2013 namely Michele Soavi's THE CHURCH (1989; which became DEMONS 3) and THE SECT (1991; DEMONS 4\u0085followed by Bava's effort despite that one being actually shot prior to it!), Luigi Cozzi's THE BLACK CAT (1989; DEMONS 6\u0085ditto!), Freddie Francis' U.S.-made DARK TOWER (1989; DEMONS 7\u0085and again!) and, once more, Soavi's CEMETERY MAN (1994; somehow retitled DEMONS '95)!! Truth be told, a couple of these are genuinely superior genre flicks but, while I have never watched the Francis movie (and, since it is readily available on \"You Tube\", I just took the plunge and acquired it!), Cozzi's and now Bava's own are certainly worthy of comparison with the official DEMONS pair \u2013 both in their similarly incoherent narrative and the absolutely dire end result! Well, to go back to the matter at hand: in this version the diabolism-related events are updated to our times and re-set (not ineffectively) to an icy mountain landscape. BLACK Sunday had gotten off to a hell (pardon the pun) of a start depicting what was possibly the last word on the oft-used stake-burning of a female witch invoking a curse upon the descendants of her executioners; here, this sequence gets relegated to an unprovoked flashback and, needless to say, generates little of the impact that Bava Snr. imbued in that iconic set-piece in his film! Incidentally, too many horror flicks of the era put a number of annoying youths at their center: with respect to Italy, for instance, there were not only the DEMONS movies themselves but Bava Jr.'s own made-for-TV GRAVEYARD DISTURBANCE (1987) and Lucio Fulci's execrable THE GHOSTS OF SODOM (1988)! The group here, though, is among the most irritating of this lot (one of whom being the afore-mentioned Michele Soavi!) \u2013 especially after they have been possessed by the spirit of the witch Anibas (as it happens, the first letter of their individual names make up the witch's own appellation, while one other girl is called Sabina, i.e. no prize guessing what it spells in reverse!); the latter is played by Debora Caprioglio, then married to the much-older Klaus Kinski (and billed as such), whereas Eva Grimaldi \u2013 a popular starlet of the period \u2013 appears as Anibas. While the witch in BLACK Sunday had a couple of acolytes, here the sheer amount of these minions is ridiculous \u2013 since they are made out to exact revenge on just one of her 'tormentors', the priest presiding over her public punishment (who is the man himself, albeit blinded, and not a descendant!), even if his grisly demise has them adopt literally demonic features and eat him alive (after surviving getting crushed in his confessional when the kids form an ever-tightening circle and dance around it)!! All of this, however, begs the question of why a young man in their midst escapes the witch's influence just so he can assume heroic status: maybe the woman had set him apart in order to personally defile him (apparently, he is a virgin, as is the \"Kinski\" character)\u0085which she does repeatedly during the last half-hour or so, in the guise of Caprioglio herself (but, curiously enough, never Grimaldi's!) and, most memorably, a filthy hag with large chicken feet!! To be fair to the film this late in the game, it does incorporate a few elements from the Gogol tale (after all, there was only one victim in \"The Vij\", and he was a cleric whom the witch had seduced!) and, as I said, the snowy milieu was intriguing (though little is done with it in the long run); besides, the Mask of Satan (to which the original Italian title of both Bava movies translates) gets extra mileage here by coming in handy during the climax as well. With this in mind, it should be noted that Massimo De Rita \u2013 the co-writer of DEMONS 5: THE DEVIL'S VEIL \u2013 had also been the producer of BLACK Sunday!",
+         "I rented \"Demons 3\", \"Demons 4\" and \"Demons 5\" all at the same time since I loved the first 2. Of course, they are all separate movies but at least 3 and 4 were in English! Without subtitles, this made little to any sense. Some friends that are skiing fall through the snow to an ice cavern. They find an entrance to this weird village (?) where they are possessed. It all goes on and on but the one guy who remains himself is never killed (?). The ending just comes out of nowhere. I'm sure I would have given it a 3 out of 10 if I had been able to understand it. It's pretty crappy but I still want to know what the heck it was about!",
+         "i bought this film because someone on ebay incorrectly labeled it as demons 5, and lo and behold, it isn't. not to mention the fact that it is in italian. some of the shots within the ice cavern are nice looking, and its overall very dark and visually stunning, but once again, that darn language barrier sucks. a few non-important spoilers: the people become \"possessed?\" only to snap out of it, only to get naked, \"snap back into it\" and run around acting stupid. the movie also could have ended in about 5 spots, but it didn't. overall, a 3/10. now if only i could get into that italian class......"
+      ],
+      "genres": ["Horror"],
+      "productionCompanies": [
+         "Reteitalia",
+         "ANFRI S.r.l.",
+         "Beta Film"
+      ],
+      "summaries": [
+         "A group of skiers in Northern Italy land in a huge crevasse where they find the body of a long dead girl covered by a mask. Out of curiosity and nothing better to do they remove the mask and start playing games with it. Turns out this dead girl is the witch Anibas who had been condemned to die by burning and the mask put on her face to prevent her return.",
+         "A group of skiers get lost in the mountains, and come across the snowy tomb of a centuries-old witch. They accidentally awaken the witch's vengeful spirit, who then proceeds to possess them one by one."
+      ],
+      "budget": 0
+   },
+   "movielensId": 155844,
+   "movielens": {
+      "languages": ["Italiano"],
+      "releaseDate": "1989-01-02",
+      "dvdReleaseDate": null,
+      "directors": ["Lamberto Bava"],
+      "runtime": 94,
+      "movieId": 155844,
+      "title": "The Devil's Veil",
+      "mpaa": null,
+      "actors": [
+         "Giovanni Guidelli",
+         "Debora Caprioglio",
+         "Stanko Molnar",
+         "Mary Sellers",
+         "Michele Soavi",
+         "Eva Grimaldi",
+         "Stefano Molinari",
+         "Ron Williams",
+         "Alessandra Bonarotta",
+         "Laura Devoti"
+      ],
+      "imdbMovieId": "0171512",
+      "originalTitle": "La maschera del demonio",
+      "genres": ["Horror"],
+      "youtubeTrailerIds": [],
+      "plotSummary": "A group of five or six or seven friends go skiing in the Alps and get trapped in a crevasse cave-in that uncovers the long frozen tomb of a heretic executed eons before for practicing blasphemy after a Demon's Mask was nailed onto it's head. One of them decides it would be a really good idea to chip the hideous mask free of it's ice and take it home as a memento of the occasion, unleashing a series of events that finds the coed group of tight ski panted friends trapped by a second cave-in, and forced to take refuge in an ancient monastery or something like that, long buried by the arctic snows and ices.",
+      "tmdbMovieId": 48613,
+      "avgRating": 2.75,
+      "releaseYear": "1989",
+      "numRatings": 2,
+      "posterPath": "/1TUknJMvge7OCjsDtDTzahJY2HO.jpg"
+   }
+}

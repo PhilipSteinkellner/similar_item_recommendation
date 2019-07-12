@@ -1,0 +1,657 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "fantasy",
+            "id": 2486
+         },
+         {
+            "name": "based on comic",
+            "id": 9717
+         },
+         {
+            "name": "money",
+            "id": 10594
+         },
+         {
+            "name": "magical object",
+            "id": 15252
+         },
+         {
+            "name": "woman director",
+            "id": 187056
+         }
+      ],
+      "imdb_id": "tt1935902",
+      "video": false,
+      "title": "The Brass Teapot",
+      "recommendations": [
+         70695,
+         138222,
+         135647,
+         75761,
+         177552,
+         180679,
+         139519,
+         95755,
+         157099,
+         79697,
+         102222,
+         41044,
+         174343,
+         150229,
+         60270,
+         174344,
+         192210,
+         299618,
+         59441,
+         29406
+      ],
+      "backdrop_path": "/yWcYCpA6EWJE9nMCbzxlIVdHRXo.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Alice",
+               "gender": 1,
+               "credit_id": "52fe4b0bc3a368484e174ad7",
+               "name": "Juno Temple",
+               "profile_path": "/6lervF85GSg9v6mP14oleq85XiI.jpg",
+               "id": 36594,
+               "order": 0
+            },
+            {
+               "cast_id": 4,
+               "character": "John",
+               "gender": 2,
+               "credit_id": "52fe4b0bc3a368484e174adf",
+               "name": "Michael Angarano",
+               "profile_path": "/zNoj0cJHoD8RPUDOgTpVgJ0KcXM.jpg",
+               "id": 11665,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Payton",
+               "gender": 1,
+               "credit_id": "52fe4b0bc3a368484e174adb",
+               "name": "Alexis Bledel",
+               "profile_path": "/wDmAugqi4zYonm2hxI6PgsE7WJD.jpg",
+               "id": 6279,
+               "order": 2
+            },
+            {
+               "cast_id": 7,
+               "character": "Arnie",
+               "gender": 2,
+               "credit_id": "52fe4b0bc3a368484e174aed",
+               "name": "Billy Magnussen",
+               "profile_path": "/beXgMEBhkWS8BUsc69ojIOGiakV.jpg",
+               "id": 141034,
+               "order": 3
+            },
+            {
+               "cast_id": 6,
+               "character": "Louise",
+               "gender": 1,
+               "credit_id": "52fe4b0bc3a368484e174ae9",
+               "name": "Alia Shawkat",
+               "profile_path": "/5BCMGRSGGVnxP9KhJxnIdtVQltZ.jpg",
+               "id": 61178,
+               "order": 4
+            },
+            {
+               "cast_id": 8,
+               "character": "Chuck",
+               "gender": 2,
+               "credit_id": "52fe4b0bc3a368484e174af1",
+               "name": "Bobby Moynihan",
+               "profile_path": "/oMnwyuUAJOUWLgG3nomfQqtRvzf.jpg",
+               "id": 452205,
+               "order": 5
+            },
+            {
+               "cast_id": 9,
+               "character": "Dr. Ling",
+               "gender": 2,
+               "credit_id": "52fe4b0bc3a368484e174af5",
+               "name": "Steve Park",
+               "profile_path": "/o0OEyfHM4IJ7PFMk9X87hivxtJs.jpg",
+               "id": 4025,
+               "order": 6
+            },
+            {
+               "cast_id": 10,
+               "character": "Ricky",
+               "gender": 2,
+               "credit_id": "52fe4b0bc3a368484e174af9",
+               "name": "Ben Rappaport",
+               "profile_path": "/6Vn2nfMUiNg4wE6JHcHyrCfsHEO.jpg",
+               "id": 224183,
+               "order": 7
+            },
+            {
+               "cast_id": 11,
+               "character": "Mary",
+               "gender": 1,
+               "credit_id": "52fe4b0bc3a368484e174afd",
+               "name": "Lucy Walters",
+               "profile_path": "/b8VapmB2xuxVskg5paE4ZWf5lzR.jpg",
+               "id": 1141384,
+               "order": 8
+            },
+            {
+               "cast_id": 12,
+               "character": "Joe",
+               "gender": 2,
+               "credit_id": "52fe4b0bc3a368484e174b01",
+               "name": "Jack McBrayer",
+               "profile_path": "/nTvIqj2pRhQPaaxB1CUj7QipY8j.jpg",
+               "id": 58737,
+               "order": 9
+            },
+            {
+               "cast_id": 13,
+               "character": "Trudy",
+               "gender": 1,
+               "credit_id": "52fe4b0bc3a368484e174b05",
+               "name": "Debra Monk",
+               "profile_path": "/ufZO6Uo9cy4ayM6jJfHfnqL5Elt.jpg",
+               "id": 10386,
+               "order": 10
+            },
+            {
+               "cast_id": 14,
+               "character": "Mr. Tutor",
+               "gender": 0,
+               "credit_id": "52fe4b0bc3a368484e174b09",
+               "name": "Michael Delaney",
+               "profile_path": null,
+               "id": 94602,
+               "order": 11
+            },
+            {
+               "cast_id": 15,
+               "character": "Mrs. Tutor",
+               "gender": 0,
+               "credit_id": "52fe4b0bc3a368484e174b0d",
+               "name": "Tara Copeland",
+               "profile_path": null,
+               "id": 1179253,
+               "order": 12
+            },
+            {
+               "cast_id": 16,
+               "character": "Gilad",
+               "gender": 2,
+               "credit_id": "52fe4b0bc3a368484e174b11",
+               "name": "Thomas Middleditch",
+               "profile_path": "/eejkzd9gtYm7pMFiVdjsGBYde5H.jpg",
+               "id": 111678,
+               "order": 13
+            },
+            {
+               "cast_id": 17,
+               "character": "Yoel",
+               "gender": 0,
+               "credit_id": "52fe4b0bc3a368484e174b15",
+               "name": "Bob McClure",
+               "profile_path": null,
+               "id": 1179254,
+               "order": 14
+            },
+            {
+               "cast_id": 18,
+               "character": "Mollia",
+               "gender": 0,
+               "credit_id": "52fe4b0bc3a368484e174b19",
+               "name": "Rebecca Darke",
+               "profile_path": null,
+               "id": 1179255,
+               "order": 15
+            },
+            {
+               "cast_id": 19,
+               "character": "Interviewer",
+               "gender": 0,
+               "credit_id": "52fe4b0bc3a368484e174b1d",
+               "name": "Ian Scott McGregor",
+               "profile_path": null,
+               "id": 1179256,
+               "order": 16
+            },
+            {
+               "cast_id": 20,
+               "character": "Bartender",
+               "gender": 0,
+               "credit_id": "52fe4b0bc3a368484e174b21",
+               "name": "Travis Myers",
+               "profile_path": null,
+               "id": 1179257,
+               "order": 17
+            },
+            {
+               "cast_id": 21,
+               "character": "Antique Dealer",
+               "gender": 2,
+               "credit_id": "52fe4b0bc3a368484e174b25",
+               "name": "Matt Walsh",
+               "profile_path": "/pHwLExdQGQYg8yNVSaF97TkMsoQ.jpg",
+               "id": 59841,
+               "order": 18
+            },
+            {
+               "cast_id": 22,
+               "character": "Eight Year Old",
+               "gender": 0,
+               "credit_id": "52fe4b0bc3a368484e174b29",
+               "name": "Danielle Kotch",
+               "profile_path": "/sg9sLO7NPquAcwaiMrBp8lLifPs.jpg",
+               "id": 1179260,
+               "order": 19
+            },
+            {
+               "cast_id": 23,
+               "character": "Female Reporter",
+               "gender": 0,
+               "credit_id": "52fe4b0bc3a368484e174b2d",
+               "name": "M.K. Walsh",
+               "profile_path": null,
+               "id": 1179261,
+               "order": 20
+            },
+            {
+               "cast_id": 24,
+               "character": "Donna",
+               "gender": 0,
+               "credit_id": "52fe4b0bc3a368484e174b31",
+               "name": "Claudia Mason",
+               "profile_path": "/buCn8ZPWapMx1712z2MadrNnp6E.jpg",
+               "id": 1179262,
+               "order": 21
+            },
+            {
+               "cast_id": 25,
+               "character": "Brandi",
+               "gender": 1,
+               "credit_id": "52fe4b0bc3a368484e174b35",
+               "name": "Cristin Milioti",
+               "profile_path": "/104FGQwBhLtxuhVjNnznNjpqB7W.jpg",
+               "id": 204392,
+               "order": 22
+            },
+            {
+               "cast_id": 26,
+               "character": "BMW Dealer",
+               "gender": 0,
+               "credit_id": "52fe4b0bc3a368484e174b39",
+               "name": "Roland J. Walton",
+               "profile_path": null,
+               "id": 1179263,
+               "order": 23
+            },
+            {
+               "cast_id": 27,
+               "character": "Antiques Roadshow Attendee 1",
+               "gender": 0,
+               "credit_id": "52fe4b0bc3a368484e174b3d",
+               "name": "Christopher Maggi",
+               "profile_path": null,
+               "id": 1179264,
+               "order": 24
+            },
+            {
+               "cast_id": 28,
+               "character": "Antiques Roadshow Attendee 2",
+               "gender": 0,
+               "credit_id": "52fe4b0bc3a368484e174b41",
+               "name": "Matthew Backer",
+               "profile_path": null,
+               "id": 1179265,
+               "order": 25
+            },
+            {
+               "cast_id": 29,
+               "character": "Waxer",
+               "gender": 0,
+               "credit_id": "52fe4b0bc3a368484e174b45",
+               "name": "Yuen Byun",
+               "profile_path": null,
+               "id": 1179266,
+               "order": 26
+            },
+            {
+               "cast_id": 30,
+               "character": "Mr. Tutor's Lover",
+               "gender": 0,
+               "credit_id": "52fe4b0bc3a368484e174b49",
+               "name": "Adam Files",
+               "profile_path": null,
+               "id": 1179267,
+               "order": 27
+            },
+            {
+               "cast_id": 31,
+               "character": "Highway Patrolman",
+               "gender": 0,
+               "credit_id": "52fe4b0bc3a368484e174b4d",
+               "name": "Kirk Roos",
+               "profile_path": null,
+               "id": 937873,
+               "order": 28
+            },
+            {
+               "cast_id": 32,
+               "character": "Cowboy (uncredited)",
+               "gender": 0,
+               "credit_id": "52fe4b0bc3a368484e174b51",
+               "name": "Christopher Jon Gombos",
+               "profile_path": "/c03IFIpAvZlquugkX46DwRC7Ak0.jpg",
+               "id": 1179268,
+               "order": 29
+            },
+            {
+               "cast_id": 33,
+               "character": "Reception Attendee (uncredited)",
+               "gender": 0,
+               "credit_id": "52fe4b0bc3a368484e174b55",
+               "name": "William Todd Levinson",
+               "profile_path": null,
+               "id": 1179269,
+               "order": 30
+            },
+            {
+               "cast_id": 34,
+               "character": "Antique Collector (uncredited)",
+               "gender": 0,
+               "credit_id": "52fe4b0bc3a368484e174b59",
+               "name": "Harry L. Seddon",
+               "profile_path": null,
+               "id": 118387,
+               "order": 31
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe4b0bc3a368484e174ad3",
+               "name": "Ramaa Mosley",
+               "profile_path": null,
+               "id": 1085904,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4b0bc3a368484e174ae5",
+               "name": "Tim Macy",
+               "profile_path": null,
+               "id": 1141271,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4b0bc3a368484e174b5f",
+               "name": "Ramaa Mosley",
+               "profile_path": null,
+               "id": 1085904,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4b0bc3a368484e174b65",
+               "name": "Tim Macy",
+               "profile_path": null,
+               "id": 1141271,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4b0bc3a368484e174b6b",
+               "name": "Peter Simonite",
+               "profile_path": null,
+               "id": 1179270,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4b0bc3a368484e174b71",
+               "name": "Ryan Folsey",
+               "profile_path": null,
+               "id": 68636,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4b0bc3a368484e174b77",
+               "name": "Elizabeth J. Jones",
+               "profile_path": null,
+               "id": 1155552,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4b0bc3a368484e174b7d",
+               "name": "Andrew Hewitt",
+               "profile_path": null,
+               "id": 1029332,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4b0bc3a368484e174b83",
+               "name": "Brian Goodwin",
+               "profile_path": null,
+               "id": 1179271,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4b0bc3a368484e174b89",
+               "name": "Mamie Mitchell",
+               "profile_path": null,
+               "id": 1179272,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4b0bc3a368484e174b8f",
+               "name": "Malgosia Turzanska",
+               "profile_path": null,
+               "id": 1179273,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4b0bc3a368484e174b95",
+               "name": "Nicola Guarneri",
+               "profile_path": null,
+               "id": 1179274,
+               "department": "Lighting",
+               "job": "Gaffer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Fantasy",
+            "id": 14
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 7.142749,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 127867,
+      "vote_count": 197,
+      "budget": 0,
+      "overview": "When a couple discovers that a brass teapot makes them money whenever they hurt themselves, they must come to terms with how far they are willing to go.",
+      "similar": [
+         297762,
+         1924,
+         1452,
+         49521,
+         49026,
+         155,
+         141052,
+         209112,
+         8536,
+         297802,
+         408220,
+         242643,
+         9824,
+         287947,
+         30061,
+         272,
+         9531,
+         65291,
+         10195,
+         415
+      ],
+      "original_title": "The Brass Teapot",
+      "runtime": 100,
+      "poster_path": "/4Pxtx487zw0HTpbO4k341Es33nO.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "Laundry Films",
+         "id": 13552,
+         "origin_country": ""
+      }],
+      "release_date": "2012-09-08",
+      "vote_average": 5.9,
+      "belongs_to_collection": null,
+      "tagline": "Everyone Has A Price. What's Yours?",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Ramaa Mosley"],
+      "runtime": 101,
+      "synopsis": null,
+      "writers": [
+         "Tim Macy",
+         "Ramaa Mosley"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt1935902/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTEyNDIxOTE3NDheQTJeQWpwZ15BbWU3MDI0ODE5OTg@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Juno Temple, Michael Angarano, Alexis Bledel | See full cast and crew »"],
+      "reviews": [
+         "I truly enjoyed this movie. It has an original plot and it isn't over done. Juno Temple was wonderful, and although I'm not normally a film buff, I was so impressed with this film that I couldn't help but put a review in. The plot was so unique, and included enough history that you really start to wonder... A great dark comedy - it's not a stupid comedy, it can really make you think. How far would YOU go? What would YOU do if you had possession of the teapot? If a movie can make you think - actually think about what you'd do - it's a successful film, in my opinion. Great film - great cast! This is one I'll purchase to keep in my home to watch again!",
+         "Ramaa Mosley's debut film \"The Brass Teapot\" stands out as an enjoyable indie flick. Having been a fan of Juno Temple for quite some time, it's nice to see her breaking out into larger roles. The acting in the film superb, and the plot plays out well. The film is quite enjoyable all around, and makes you question your moral integrity when you put yourself in their position. The temptation of money is a powerful one. How far would you go to get all the money you have ever wanted? Ultimately, it's an enjoyable film that you should check out given the chance.",
+         "Ramaa Mosley's The Brass Teapot is yet another film that exercises its unalienable right to be an enthusiastically quirky gem of an indie film. My definition of \"enthusiastically quirky\" will likely be different than yours, as mine concerns a premise that needed to take a considerable amount of time to develop and an even larger amount of work in order to sustain feature-length. The quintessential example that comes to mind is last year's black comedy Bernie, by notorious indie director Richard Linklater, concerning the gentle town funeral director who did the unthinkable by killing a verbally abusive older woman whose husband had recently passed. It was a terrific motion picture in terms of tone, character development, and setting, but also, took on the challenge of humanizing a rather genial character doing the truly despicable. What made it \"enthusiastically quirky\" was just the overall way it was conducted, with characters with enigma and personality, and a storyline that you wouldn't believe would be interesting after fifty minutes. I guess what I'm trying to say here is, when you see enthusiastically quirky, you'll know enthusiastically quirky. But I digress. The Brass Teapot revolves around John and Alice (Michael Angarano and Juno Temple , respectively), a lower middle class couple struggling to make ends meet in such unforgiving times. He is a telemarketer selling needless Television warranties. She is a woman unable to accept an entry-level position and start straight at the top, with an arts history major under her belt. One day, they stumble upon an antique shop run by an older woman, and when she finds herself in an \"I desperately want this phase,\" Alice steals a brass teapot out of the blue. Not long after stealing it, Alice and John discover that the teapot, which is beautifully welded and meticulously crafted, actually possesses a strange power; if the owner of it inflicts pain on themselves or someone else they will be rewarded with money, often in the hundreds. This causes Alice and John to resort to drastic measures to obtain cash, with methods including a full-Brazilian wax and dental surgery without any Novocaine. They soon learn that their newfound treasure and only source of income is a highly desired piece by not only violent Orthodox Jews but a mysterious Asian man, who claims that everyone who has come in contact with that pot has emerged forever changed and not for the better. Of course, Alice and John do not listen and play by the teapot's obscure rules, which seem to change at anytime. For example, after a while the pot seems to stop providing so much cash for physical pain and resorts to mental pain, which Alice and John decide to inflict on each other and their closest friends. The comic possibilities are endless, and writer Tim Macy (Who also wrote the 2007-short of the same name) exposes them all with blackly funny results and a zealous energy. However, perhaps one-hundred and one minutes devoted to a story of a teapot that can produce money at the expense of pain may be a bit lengthy. I can see some tiring after twenty minutes and some wanting more from this story. For me, this was around perfect length; it exercises all or most possibilities that can be done with the story, it keeps things fast-paced and entertaining, and, for the most part, we resonate with the characters' dilemmas and see them as more as story archetypes. This is a better alternative than melodramatic indie fare, to say the least. I've been victim to stupidity when it comes to picking films based on their actors and not totally thinking the premise over, but The Brass Teapot was a fine gamble. It has heart, wit, intelligence, and humor almost bursting from its seams. Mark it down as yet another quirky film for the year of 2013, but put it in the category of quirky films that work efficiently. Starring: Michael Angarano and Juno Temple. Directed by: Ramaa Mosley.",
+         "I read the plot for this one and thought that it sounded a bit lame. But it was, in fact surprisingly good! It was certainly original - even though we could guess what would happen at times, when it did happen it was much more entertaining than expected. The stars, Juno Temple and Michael Angarono were a great combination. But the plot didn't rely solely on its central characters to provide the fun - there were a couple of great sub-plots in there - the sister and her husband were an excellent addition to the storyline, as were their snooty friends. I thought that the inventive ways in which the characters tortured themselves was hilarious, for me the only danger seemed to be that at some point the plot would get too dark and lose its sense of humour. But I'm glad to say that it didn't'. Im scoring this an 8 because I really did enjoy it all the way to the end!",
+         "I really liked Ramaa Mosley's debut. It's funny and manages to take on a deep premise with a lighthearted comedic approach. Sprinkled with slap-stick comedy and humorous dialogue that borders on the \"did she really just say that?\" The comedy ensemble includes Bobby Moynihan from SNL, Alia Shawkat from Arrested Development fame and Jack Mcbrayer from 30Rock. Why not? Normally, I wouldn't notice this type film but the cast really drew me in and the comedy kept me in my seat. I saw it twice. Both Juno Temple and Michael Angarano are constantly growing as actors and The Brass Teapot is a great example of their ever-improving talents.",
+         "From my review title, I mean I find the teapot itself and the film as a whole quite beautiful. It follows the structure of a fairytale and is quite entertaining throughout. I came across the film through being a huge fan of Juno Temple. After first seeing her in the amazing Greg Araki film Kaboom, I have come to the conclusion that she is wonderful in everything she is in, and everything she is in is wonderful. It remains true here. To avoid spoilers, I will review the film as it involves its setup, which is masterfully executed. A young couple needs money (as many can relate), and a small car accident in front of a thrift store changes their entire life. At the thrift store, Juno's character finds a gorgeous brass teapot (hence the title) and runs with it. By this, I mean literally runs with it. And this teapot spits out cash, but how this happens is wonderfully twisted. I will recommend this to anyone and everyone. Juno Temple must not be stopped.",
+         "A bizarre, unique comedy about a down-on-their-luck couple who discover a stolen brass teapot has magical powers: whenever one of them is hurt, the teapot gives them cash. So they go on a campaign of self-inflicted injury to get rich. But eventually they must decide how far they're willing to take things. This is definitely a different movie. Michael Angarano is likable and Juno Temple makes any movie better just by being in it. It starts off strong but loses a little steam once it gets into the teapot's mystery and the different people trying to take it. Then it gets ugly and it's just not much fun anymore. It's a shame because it could have been great. Still, it's watchable and it ends nicely after a long rough patch.",
+         "My first review on IMDb. I wanted to write this, because the current reviews, i felt, were too positive. NOT because this is a bad movie, but just because it's an indie movie, shot on a low budget, doesn't make it a good movie. The movie is well written, the acting is very decent, but for me, it just didn't do it. From before the first scene in the movie, you can predict what is going to happen. The title says it all. They get the teapot, and all is well, then they get in trouble, but it all turns out for the best. blablabla same'ol same'ol. The only original thing about the movie is the teapot, but again, the title says it all. But if you're home on a Sunday afternoon and have nothing to do, this is definitely something to watch, also not a bad idea for a first date. It has a couple of laughs, partial nudity, a lot of intimate moments, and you don't really have to pay attention. Oh, and i did like the soundtrack/score. For that I gave it 6 stars",
+         "I watched this movie with my GirlFriend and it had us laughing the whole time,we kept comparing each other to the couple in the movie. Hope there are no real Brass Teapots out there or else i am in for a major ass beating. I would recommend it to couples that are looking for a movie to watch together, Maybe we can get a Screening out here in Mexicali so we can share it with the rest of our friends, i love the violence it makes it better then watching some girly movie that my girl would pick out. i give it a 10 because i love the violence throughout the whole movie i think there should be more movies like this out there.",
+         "Alice (Juno Temple) and John Macy (Michael Angarano) is a young couple that is facing economical difficulties. John is a loser that has been working as salesman in a lousy job in order that Alice concludes the college. However, the ambitious Alice aims a top position and cannot find a job. When John is fired from his job, he has a car accident with Alice on the road in front of an antique house. Alice sees a brass teapot and steals it. Soon she discovers that the teapot is magic and makes money whenever they hurt themselves. The couple is visited by Dr. Ling (Stephen Park) that tells that they should give up of the teapot; otherwise they will be destroyed by the evil power. But the greedy Alice does not want to stop and reaches a next level of meanness. \"The Brass Teapot\" is a dark comedy of one joke, a young ordinary couple in love with each other that hurts each other to make money. The story has funny moments, the sexy Juno Tempo shows off most of the time but the plot could have a message against greed and how far a person would go for money. Anyway this movie entertains in a Sunday afternoon. My vote is six. Title (Brazil): \"Loucos por Dinheiro\" (\"Crazy for Money\")"
+      ],
+      "genres": [
+         "Comedy",
+         "Fantasy",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Atlantic Pictures (II)",
+         "Laundry Films",
+         "Northern Lights Films"
+      ],
+      "summaries": [
+         "Based on the comic book series \"The Brass Teapot\" about mid-twenty year old couple who, in these difficult economic times, finds a mysterious, magical brass teapot which makes them money but at a surprising price. After realizing the teapots powers, John and Alice must decide how far they will go to fulfill their dream.",
+         "Alice and John Macy is a young couple that is facing economical difficulties. John is a loser that has been working as salesman in a lousy job in order that Alice concludes the college. However, the ambitious Alice aims a top position and cannot find a job. When John is fired from his job, he has a car accident with Alice on the road in front of an antique house. Alice sees a brass teapot and steals it. Soon she discovers that the teapot is magic and makes money whenever they hurt themselves. The couple is visited by Dr. Ling that tells that they should give up of the teapot; otherwise they will be destroyed by the evil power. But the greedy Alice does not want to stop and reaches a next level of meanness.",
+         "When a couple discovers that a brass teapot makes them money whenever they hurt themselves, they must come to terms with how far they are willing to go."
+      ],
+      "budget": 900000
+   },
+   "movielensId": 101529,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2012-09-08",
+      "dvdReleaseDate": null,
+      "directors": ["Ramaa Mosley"],
+      "runtime": 100,
+      "movieId": 101529,
+      "title": "The Brass Teapot",
+      "mpaa": "R",
+      "actors": [
+         "Juno Temple",
+         "Michael Angarano",
+         "Alexis Bledel",
+         "Billy Magnussen",
+         "Alia Shawkat",
+         "Bobby Moynihan",
+         "Steve Park",
+         "Ben Rappaport",
+         "Lucy Walters",
+         "Jack McBrayer",
+         "Debra Monk",
+         "Michael Delaney",
+         "Tara Copeland",
+         "Thomas Middleditch",
+         "Bob McClure",
+         "Rebecca Darke",
+         "Ian Scott McGregor",
+         "Travis Myers",
+         "Matt Walsh",
+         "Danielle Kotch",
+         "M.K. Walsh",
+         "Claudia Mason",
+         "Cristin Milioti",
+         "Roland J. Walton",
+         "Christopher Maggi",
+         "Matthew Backer",
+         "Yuen Byun",
+         "Adam Files",
+         "Kirk Roos",
+         "Christopher Jon Gombos",
+         "William Todd Levinson",
+         "Harry L. Seddon"
+      ],
+      "imdbMovieId": "1935902",
+      "originalTitle": "The Brass Teapot",
+      "genres": [
+         "Comedy",
+         "Fantasy",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": ["g30KBZ4m61Y"],
+      "plotSummary": "When a couple discovers that a brass teapot makes them money whenever they hurt themselves, they must come to terms with how far they are willing to go.",
+      "tmdbMovieId": 127867,
+      "avgRating": 3.2782,
+      "releaseYear": "2012",
+      "numRatings": 133,
+      "posterPath": "/4Pxtx487zw0HTpbO4k341Es33nO.jpg"
+   }
+}

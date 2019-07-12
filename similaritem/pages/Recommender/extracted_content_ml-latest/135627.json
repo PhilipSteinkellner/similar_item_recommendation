@@ -1,0 +1,512 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [],
+      "imdb_id": "tt2769184",
+      "video": false,
+      "title": "Debug",
+      "recommendations": [
+         78088,
+         113693,
+         219288,
+         81972,
+         97895,
+         265347,
+         78411,
+         29854,
+         213803,
+         84293,
+         406582,
+         62472,
+         179105,
+         166161,
+         13903,
+         122796,
+         224950,
+         250622,
+         20216,
+         263416
+      ],
+      "backdrop_path": "/5jwXg9wIvxpNjYjjWEoC6DHsgQq.jpg",
+      "revenue": 0,
+      "reviews": [{
+         "author": "youwhotowers",
+         "id": "546b8a41c3a3685146000207",
+         "content": "I can't believe there haven't been any reviews for this movie. I loved it.  Was skeptical at first, don't like horror movies, but watched it anyway because it is by David Hewlett!  I was intrigued from the beginning, even with a slow start, given all the fast action movies being released. This one grabs you and leads you into a great story line. I would love to write about some of the characters, but don't want to give anything away. The young actors did an amazing job. \r\nI felt as if it had a bit of a psychological twist. I love psychological thrillers. Scary that this might just happen in the future. Needs to be seen on the big screen! David needs to write and direct more movies. Thank you Mr. Hewlett! You never stop amazing me.",
+         "url": "https://www.themoviedb.org/review/546b8a41c3a3685146000207"
+      }],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 21,
+               "character": "Kaida",
+               "gender": 1,
+               "credit_id": "5459f5380e0a261162003b79",
+               "name": "Jeananne Goossen",
+               "profile_path": "/qa58lhPLmKD4p8DqhPFVz6uYaJs.jpg",
+               "id": 80184,
+               "order": 0
+            },
+            {
+               "cast_id": 22,
+               "character": "Capra",
+               "gender": 2,
+               "credit_id": "5459f56c0e0a26025b00125b",
+               "name": "Adrian Holmes",
+               "profile_path": "/8gfuxasIm5nPx0FccAJQ6JaYxcy.jpg",
+               "id": 33348,
+               "order": 1
+            },
+            {
+               "cast_id": 23,
+               "character": "James McKay",
+               "gender": 2,
+               "credit_id": "5459f5a70e0a261158003bf7",
+               "name": "Adam Butcher",
+               "profile_path": "/q0UmfAhN4wPePmkQFIuLv8UHTV8.jpg",
+               "id": 108534,
+               "order": 2
+            },
+            {
+               "cast_id": 24,
+               "character": "I Am",
+               "gender": 2,
+               "credit_id": "5459f5db0e0a261162003b8e",
+               "name": "Jason Momoa",
+               "profile_path": "/tTONqzQuAnuMlfM5E0nU9RWukOE.jpg",
+               "id": 117642,
+               "order": 3
+            },
+            {
+               "cast_id": 26,
+               "character": "Samson Connoly",
+               "gender": 2,
+               "credit_id": "5459f64b0e0a26024100125a",
+               "name": "Kyle Mac",
+               "profile_path": "/yp2hmwpYe69iZNQY0jlbE5iJ5e6.jpg",
+               "id": 1251994,
+               "order": 5
+            },
+            {
+               "cast_id": 27,
+               "character": "Diondra Tam",
+               "gender": 1,
+               "credit_id": "5459f6940e0a261162003ba8",
+               "name": "Jadyn Wong",
+               "profile_path": "/gdG4gGj0zRLFXRtguGpAtIppaBT.jpg",
+               "id": 86765,
+               "order": 6
+            },
+            {
+               "cast_id": 28,
+               "character": "Lara Riley",
+               "gender": 1,
+               "credit_id": "5459f6ba0e0a26116a003908",
+               "name": "Sidney Leeder",
+               "profile_path": "/e1TSnSeUhRZSHMMhoMImT7A1wTn.jpg",
+               "id": 1311518,
+               "order": 7
+            },
+            {
+               "cast_id": 29,
+               "character": "Environmental Program",
+               "gender": 0,
+               "credit_id": "5459f6e40e0a26116f0039c3",
+               "name": "Nathaniel Bacon",
+               "profile_path": null,
+               "id": 1381935,
+               "order": 8
+            },
+            {
+               "cast_id": 30,
+               "character": "Dispensary Attendant",
+               "gender": 1,
+               "credit_id": "5459f704c3a368399d003b99",
+               "name": "Allison Brennan",
+               "profile_path": "/aUykl07eUJhqNYrya2MRIN8nVls.jpg",
+               "id": 937793,
+               "order": 9
+            },
+            {
+               "cast_id": 31,
+               "character": "Prisoner",
+               "gender": 2,
+               "credit_id": "5459f732c3a36839ac003641",
+               "name": "Tenika Davis",
+               "profile_path": "/jjfOjrt4T9DZ8vultGSd8yVfIhp.jpg",
+               "id": 563644,
+               "order": 10
+            },
+            {
+               "cast_id": 32,
+               "character": "Accounting Program",
+               "gender": 1,
+               "credit_id": "5459f7670e0a26027e00128b",
+               "name": "Kate Hewlett",
+               "profile_path": "/WFVnmGJa7yYIqViAcOdE33Uu53.jpg",
+               "id": 73204,
+               "order": 11
+            },
+            {
+               "cast_id": 38,
+               "character": "Mel",
+               "gender": 0,
+               "credit_id": "553d05f9c3a3683e55005be4",
+               "name": "Kerr Hewitt",
+               "profile_path": null,
+               "id": 1179519,
+               "order": 12
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "5459f2510e0a26025b001208",
+               "name": "David Hewlett",
+               "profile_path": "/yntJ7Lur8LmjQ9rTfoVzlKb5WsX.jpg",
+               "id": 5892,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5459f2820e0a261162003b2e",
+               "name": "David Hewlett",
+               "profile_path": "/yntJ7Lur8LmjQ9rTfoVzlKb5WsX.jpg",
+               "id": 5892,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5459f29b0e0a261162003b35",
+               "name": "Steven Hoban",
+               "profile_path": "/zChL93hWGyNgkAeOxD5G2u5CWYf.jpg",
+               "id": 59935,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5459f329c3a3683997003d4e",
+               "name": "Jorge Weisz",
+               "profile_path": null,
+               "id": 1381925,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5459f345c3a368399d003b0e",
+               "name": "Michelle Lannon",
+               "profile_path": null,
+               "id": 967559,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5459f3590e0a26116a0038a2",
+               "name": "Patrick Antosh",
+               "profile_path": null,
+               "id": 1179442,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5459f3710e0a26027e001219",
+               "name": "Catherine Viot",
+               "profile_path": null,
+               "id": 1333909,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Department Head"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5459f38b0e0a26116f003954",
+               "name": "Jason McQuarrie",
+               "profile_path": null,
+               "id": 1381926,
+               "department": "Art",
+               "job": "Assistant Art Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5459f3ac0e0a260266001223",
+               "name": "Steph Carrier",
+               "profile_path": null,
+               "id": 1381927,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5459f3ccc3a3687d5f00107a",
+               "name": "Joe Morrow",
+               "profile_path": null,
+               "id": 1381928,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5459f3edc3a368399d003b23",
+               "name": "Ed Douglas",
+               "profile_path": null,
+               "id": 1012025,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5459f414c3a3683997003d79",
+               "name": "Sandra Fox",
+               "profile_path": null,
+               "id": 1357060,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5459f4290e0a26027e00122d",
+               "name": "Goro Koyama",
+               "profile_path": null,
+               "id": 20228,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5459f43f0e0a261158003bbf",
+               "name": "Andy Malcolm",
+               "profile_path": null,
+               "id": 20229,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5459f452c3a36839a0003a9d",
+               "name": "Ofer Geva",
+               "profile_path": null,
+               "id": 1381929,
+               "department": "Sound",
+               "job": "Boom Operator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5459f475c3a368398f0039a8",
+               "name": "Jeff Bruneel",
+               "profile_path": null,
+               "id": 1338138,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5459f48fc3a36839a0003aab",
+               "name": "Darren Cranford",
+               "profile_path": null,
+               "id": 1381932,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5459f4c7c3a368399d003b4f",
+               "name": "Paul Rapovski",
+               "profile_path": "/1hjxQcz3Fr1vz1FkTESAN2j7kC0.jpg",
+               "id": 28242,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5459f4e7c3a3683997003d99",
+               "name": "Jill Carter",
+               "profile_path": null,
+               "id": 1381934,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "545d6a000e0a261fb3005260",
+               "name": "Gavin Smith",
+               "profile_path": "/unsfg0tOykazuTNep5GtEjwiWWn.jpg",
+               "id": 64922,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54cdfbdec3a3687f920046df",
+               "name": "Christina Scott",
+               "profile_path": null,
+               "id": 1421664,
+               "department": "Crew",
+               "job": "Makeup Effects"
+            },
+            {
+               "gender": 1,
+               "credit_id": "54cdfc32925141475b004b98",
+               "name": "Cynthia Amsden",
+               "profile_path": "/g4XvtBReELx9cbDlflsv0d55yuy.jpg",
+               "id": 1242935,
+               "department": "Crew",
+               "job": "Unit Publicist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "556c576392514140300013e2",
+               "name": "Tim Williams",
+               "profile_path": null,
+               "id": 1472871,
+               "department": "Sound",
+               "job": "Music"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Horror",
+            "id": 27
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         }
+      ],
+      "popularity": 3.838633,
+      "production_countries": [{
+         "iso_3166_1": "CA",
+         "name": "Canada"
+      }],
+      "id": 299939,
+      "vote_count": 44,
+      "budget": 0,
+      "overview": "Six young computer hackers sent to work on a derelict space freighter, are forced to match wits with a vengeful artificial intelligence that would kill to be human.",
+      "similar": [],
+      "original_title": "Debug",
+      "runtime": 86,
+      "poster_path": "/eavGUZvsLmEixqOxT4wdAE3RnGB.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Monkeys & Parrots",
+            "id": 37408,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Copperheart Entertainment",
+            "id": 5106,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2014-11-03",
+      "vote_average": 4.1,
+      "belongs_to_collection": null,
+      "tagline": "Evil can't be deleted.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Canada",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["David Hewlett"],
+      "runtime": 86,
+      "synopsis": null,
+      "writers": ["David Hewlett"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt2769184/",
+      "coverLink": "https://ia.media-imdb.com/images/M/MV5BMjM1MzYzODgwMV5BMl5BanBnXkFtZTgwMTAzMDU3NTE@._V1_UY268_CR4,0,182,268_AL_.jpg",
+      "actors": [
+         "Tenika Davis",
+         "Jason Momoa",
+         "Adrian Holmes"
+      ],
+      "reviews": [
+         "There is little point in beating around the bush about it: the obvious comparison for Debug is Event Horizon. While the subplots and backgrounds may differ, both films deal with the same scenario: an evil that has taken over a spaceship and a crew that comes to investigate. Comparing the two, it is peculiar to find that the reason Event Horizon worked so much better has nothing to do with its production values and everything to do with its focus on atmosphere\u2014an area where Debug has every opportunity to match it, and simply fails to do so. To its credit, Debug manages to stand up fairly well in quite a few aspects and punches well above its budget in terms of production values. The acting is all right, with the exception of Jason Momoa's campy creep performance as I Am. Perhaps, already having achieved fame as Khal Drogo in Game of Thrones, he did not feel the same need to distinguish himself as the other actors. Perhaps the role simply did not suit him. Either way, the lacklustre sleaze he brings to the role cheapens and stifles all tension and drama whenever he is on screen. Jeananne Goossen and Sidney Leeder, in contrast, bring life and character to their roles, whereas the rest of the cast is simply passable. The visuals in Debug are not without flaws, but they are at times gorgeous. (The HUD effects, in particular, stand out.) Sadly, they sometimes fail to impart a feeling of reality\u2014of substance. Future technology may be clean and durable, but any surface will have wear and tear. In Debug, they tend to look like freshly moulded plastic\u2014featureless and flimsy. Strangely, this does not seem to be down to capability so much as aesthetics, as it is true for the set as much as the CGI. As a whole, though, the visuals work, and most of the time the set and the CGI fit well together. Sound effects are generally fair to pretty damned good, although they tend to fail to produce a sense of presence. The same goes for the score, which seems to have been mixed as so to be unobtrusive rather than evocative\u2014a strange choice for a horror film. All in all, it would seem Debug has enough good points to provide a solid horror experience. (After all, many films have done so with less.) As sci-fi horror is a genre I love and the space-based variety is woefully underrepresented, it disheartens me to say that it does not\u2014and for rather bizarre reasons. You see, while the production would have worked well for a sci-fi drama, its manner of presentation promotes detachment rather than immersion. The tension never grabs you and events never draw you in, making the actual horror elements fall flat. Part of it is editing, but choices made in seemingly every aspect of the film\u2014from character exposition to camera angles\u2014exacerbate the problem. The effect, tragically, is an audience indifference this type of narrative can ill afford, making a film that could have, should have been a rough gem turn out to be just another barren space rock. Debug is, in the end, a mediocre film with several massive, bulky cargo holds full of wasted potential due to an almost mindless indifference to the core driver of every good horror film\u2014atmosphere.",
+         "First of all: This is a low-budget movie and should be treated as such. If you're expecting state of the art CGI and explosions everywhere this might not be the film for you. If you're like me on the other hand then this might be exactly what you're looking for. The good thing about this movie, and a lot of other low-budget sci-fi, is that they aren't forced to do the usual \"handsome guy falls in love while saving the world\"-story. If you enjoyed movies like Solaris or Sunshine and aren't overly concerned with CGI then give this one a try. Don't get me wrong, just because the CGI isn't as good as you might be used to from a big budget movie doesn't mean this film looks in any way bad. The effects are actually pretty good for this type of film and the set is well made. Special mention goes to Sidney Leeder and the lead actress Jeananne Goossen. They both did a great job.",
+         "If you consider yourself a movie critic savant, go buy your tickets, eat your popcorn and stick to the big screen. Those big money making movie producers/director/actors eagerly want your reviews! For people who know how to enjoy different genres and can enjoy low-budget films, then watch it. So in a nutshell is it big screen material? No. Horror? Not really. Predictable? Yes. Low-budget? Definitely and very obvious. Acting was decent, even Mamoa. You can't put Mamoa in a movie and not have him physically kicking ass, even as an AI! Is it worth watching just because Mamoa stars in it? Meh.... Is it worth watching because David Hewlett's name is stamped on it? Yes! Does it leave you feeling euphoric? No. Would I watch it again? Yes. So I recommend you watch it, on a lazy day while multi-tasking on a laptop/iPad. Keep in mind that if you are expecting a mind-blowing out of the ordinary movie, don't bother watching. IT IS A LOW-budget movie. The Sci-Fi channel has put some seriously bad movies out there, so compare to those, Debug falls in that realm of a decent Sci-Fi watchable.",
+         "Let's get the obvious out of the way first.................yes, the basic premise of the film has been done before, whether 2001, Collossus or even Tron and Lawnmower Man. That is, it's Artificial Intelligence pitted against humans. But given that very few films (if any) can claim to be wholly original these days, that's not necessarily a bad thing. What Debug clearly shows, is that David Hewlett is both a good writer and director - especially when considering the budget restraints. The casting is solid, but with standout performances from both Jeananne Goossen and Jason Momoa. Goossen kicks ass, and can only hope she plays similar roles in future..............and Momoa plays the AI villain perfectly - a real change for him, as the role isn't reliant on size or muscle. The film won't be for everyone. Those who'd rather see a huge budget CGI fest will probably scoff, or those who'll pick holes in any film they watch. But with Debug, David Hewlett shows some original spin on tried and tested ideas, and makes them his own. Would be good if a film studio gave him a healthy budget, and he'd probably create a real classic.",
+         "This is one of the best on-a-shoestring-budget films I have seen in a while. The CGI isn't bad, the acting is solid and their is plenty of action. All that said this movie isn't a great way to spend two hours. With a lot of indie films you can not only forgive dodgy affects they are somehow part of it. Debugs slickness actually works against it, the few dodgy elements like the ludicrously clean cut bad guy and the odd flickery green-screen work stick out like sore thumbs. Instead of a friendly, grungy production this has a distinct whiff of corporate Hollywood about it, which again makes it harder to love. The story is straight out of a Twilight Zone episode, nothing special. Actors mainly do OK, predictably the beautiful ladies get down to their vest and pants before the bad guy comes after them. I had no doubt who was going to make it out alive but to be honest I didn't really care. A very good effort but Nothing special.",
+         "Pop some popcorn set back and get ready for a pretty good movie. If you are bored, and want to watch something kinda funny, different, cheesy, and slightly scary... this movie is perfect for you. Sometimes we need to step back and enjoy artists doing what they do, making movies, and acting in them. There are some parts of the movie that are actually pretty startling. What this movie lacks in big budget it makes up for in a nice set, and some cute actors. Also one of the actors looks like David Henry. Also shout out for using a LGBT character in a different way! Overall this movie is pretty good, watch it tonight!I rated this film a 8!",
+         "What is the scariest element of modern living? Did I hear you scream \"getting a virus on your computer\"? Correct. And it is in that terror that I lead you into this Science Fiction-Horror about a derelict space freighter that is riddled with a cantankerous AI. A team of ne'er-do-wells are sent in to Debug the place, but find themselves victims of this Trojan Horse-power. You might be thinking, what the Hal is he talking about? If so, this probably isn't a film for you. Tech speak and sterile spaceship sets are the code for this movie, instantly limiting its target audience. However, those who do plug in will find Debug to be a rather effective and violently pleasing yarn that sees these cannon-fodder digital soldiers get erased with sharp efficiency. Game of Thrones star Jason Momoa faces David Hewlitt and an otherwise unknown cast, as they do battle against this cyber psycho, using language only decipherable by a PC World specialist, but seem to be up against a mightier opponent. The team fall victim to an array of manipulation and scare tactics by the ship's Artificial Intelligence, known as I Am (Momoa). Completely set on the ship, with little exposition about the characters or the backgrounds, a little depth is missing from the story. Meaning we care little if the X in the corner of their screen gets clicked\u0085if you know what I mean. There is a sense of bowing to former greats though, films like Moon and 2001: A Space Odyssey are an obvious go-to. As well as slashed films and horror classics. Isolating and atmospheric, this film works to pounce on our innate fear that technology will one day own us\u0085or maybe it already does\u0085gonna walk slowly away from my keyboard now.",
+         "The highlight of the movie is watching Sidney Leeder's character flirt, tease, and taunt other crew. She's one of the few characters that has some depth, motivation, and sense of fun. Jason Momoa wasn't bad as a menacing AI, but he wasn't a character to empathize with - or even to love to hate. He ultimately had the 2 dimensional motivation of an AI following his programming, but with a maniacal murder streak. Without a truly 3 dimensional villain, he may as well be a glitchy computer or one with a loose wire. He seems to want to kill and torture... just because. Senseless violence is boring. Some CGI was really entertaining. The best parts being those that blend into the scenes - like e-mail in their heads up displays. Parts of the ship were well done. The exterior shots were very well done. Honestly, I think I'd have enjoyed the movie more without the killer AI - just fleshing out the prisoner characters' backgrounds and interactions more and their frustrations with the limitations of their freedoms. The movie is like a bad episode of Outer Limits where we get little exposition and narrative followed by mindless violence / action sequences meant perhaps to visually impress, but utterly lacking substance. Just having Momoa on a monitor talking was more menacing and entertaining than the whole opening sequence of the movie. David Hewlett is one of my favorite actors. I applaud his effort in writing and directing a full length film. It's better than many made- for-TV Syfy channel craptastic flicks of the month. I think with some work, we could see this again in another form with more well rounded characters and a better story arc for the \"heroes\" and villain. I wouldn't recommend the movie, but there are worse ways to spend your time. I'd describe it as having elements of Cube, Jason X, and Hackers. I'm hoping this was a proof of concept flick to show that David Hewlett is ready to take the helm of something larger.",
+         "A movie that feels a little old school but still has some surprises, it's a solid effort by fan favourite David Hewlett. The use of HUD's and security cameras as well as the blinding white of the station does enhance the claustrophobic feeling. The highlight is Momoa who is super creepy as the Iam. Kaida as the heroine has enough balance and complexity to make her likable. The only downside is it feels like episodic TV, which means as a viewer I wanted so much more background before entering into this story. I feel like the exposition was rushed at the beginning which made it difficult to connect emotionally with the characters.",
+         "8 of 10. A dystopia setup for young, attractive, anti-system hackers to attempt to overcome. A virtual reality sci-fi set in space on a spaceship that needs, fittingly, debugging. The debugging, to add a further twist, is being done by hackers convicted as criminals who are serving there sentences as a combination of community service and separation/imprisonment from the rest of civilization. Space science fiction is essentially a virtual experience at this point, so combining it with computers, hacking, and virtual reality makes it more immersive and you have to wonder whether the characters are real or virtual. Throw in some criminals and an out of control bio-AI that's been setup by the military, and you have the horror element. This isn't a Star Trek space fantasy sci-fi, an alien fantasy, or a time travel fable. One of the missing elements is why there are ships in space at all, what purpose if any they're serving society. That's left to the imagination, but the ending has a smooth, unforced sequel setup for filling in more of the future it happens in.",
+         "Though fun might not be the right word for it. Still if you have a thing for Science Fiction movies and do not mind, if they are low budget and filled with some gore and plenty of action. It also features very bad character decision and some questionable acting. But it's all in the fun of it (if you're having it, that is). Actually the set design is not that bad for the money had. The blood and general special effects are more than decent too. You can see where this is going (in contrast to some of the characters and their very poor choices, but then again, they were criminals, more or less), so no surprises there. But the movie is done nicely and it is entertaining most of the time",
+         "By far the most impressive thing about Debug is Jason Momoa's acting so maybe that gives you some idea of how lame this movie really is. It's like someone who's only watched bad horror movies and played video games suddenly saw 2001 and thought it was a bit boring and that he could do a better job. He then hired his failing acting school buddies to play all the parts for free. Spent half the budget on Jason Momoa and the other half on CG (of which 3/4 probably went on the HUD effects since some of the CGI in this looks terrible). To warn for spoilers in this review would be pointless. There is no plot. It's also not scary nor funny. It's just plain boring.",
+         "This one stars really bad and you can tell that the budget will be an important factor but with time it gets better and once you get used to the image, you can start checking out the plot. Is it anything like Hackers? A ship with a Evil mind going on a killing spree and the only way to stop it is to fight a program with another better program, hackers doing what they do best, some visual effects here and there, a little blood, no scares, ah and if you are a girl a lot of Momoa. So no, not much to do with real hacking, just a half decent horror scifi, I've seen better, I've seen worse, I would never recommend Debug to anyone tho. It's just a production, a way for the people involved in the making of it to show what they are capable of and try to snatch a bigger project in the near future. I wish them all good luck, I think they can do more! Debug is better than Stranded per example but it ain't no Event Horizon either. I gave it a 4. Cheers!",
+         "When I saw this I was a little skeptical at first. But after watching it all the way through I can honestly say its damn good movie. Im not very pleased with the ending but yea...its an ending just the same. Didn't want this super bad ass AI to die. But yea. Its a low budget film BUT it doesn't show all that much. If you didn't mind the appearance of say... Jason X for instance... you wont have to worry about the visuals of this film. Its decent though not like ultra fantastic but who cares about that anyway. As long as its watchable and actually worth a damn. This film is. We got this team of people stuck on a ship in space. It turns out that during their search for something there an evil AI traps them on the ship and wants to kill them all. This AI is part computer and HUMAN. It bonded...making it capable of terrible things. Its awesome! And YES...the AI is Momoa. Its so good. Kal Drogo as an evil AI. Its priceless guys. If you're a Momoa fan.. WATCH THIS. you wont be disappointed. I know I wasn't. But Momoa aside...this film is good. the acting is decent. Story is intriguing though sorta simplistic. The visuals are not rough on the eyes. Its not slow moving nor too rushed which is GREAT. It keeps a steady and respectable phase. I feel the cast could have been better. But never mind that...thats just my personal opinion. All in all guys this is a decent and definitely entertaining Sci Fi / Horror movie. It actually reminded me A LOT about Paul W.S Andersons Event Horizon...just a new age version sorta. Love it. The ending is not much to my liking as I mentioned. The main character in the film. The bad ass chick becomes the new AI on the ship and Momoa dies out. Good lives...evil dies... life goes on....meh. Not very satisfying but just the same guys... its an ending. Could have been better but whatever. I liked the rest of the film very much. A solid 6 out of 10. Not more than that. That would be overestimating it. 6 = good and entertaining. Exactly what this is. If you like to sit down... put your feet up...and watch a respectable and calm sci fi horror with some fun features like Jason Momoa as an evil AI. Kicking ass. Then THIS film will definitely not disappoint. Khal Drogo as an evil AI... genius Hewlett. Seriously...",
+         "The computer system of a spaceship develops delusions of grandeur and starts murdering the crew. Where have we heard that one before? Oh yeah, HAL 9000 in Arthur C. Clarke's \"2001...\" Well guess what, 2001 has come and gone, and to date only 12 men have walked on the Moon, not only in the last century but in the last Millennium. Unsurprisingly, this story is said have been inspired by the aforementioned novel or the film based on it. Is there anything in \"Debug\" we haven't seen before? Not really, there is not much of a plot, nor even a side-plot, even the love interest that might be expected to develop on a spaceship where guys and gals are confined together doesn't materialise, unless one counts a bit of light banter as a love interest. Seriously, does \"Debug\" have anything to offer? Well, if you like bright lights and mild special effects you might find something of interest here, but if you are a \"Dr Who\" fan with an IQ over 70, you can forget even that.",
+         "Oh dear. Just... oh dear. I like science fiction and I always enjoy seeing a good 'spaceship' type set. Just about the only two big budget 'spaceship set-type' movies of recent years were the Star Trek reboots and Prometheus. Therefore, I always try to give a space movie a chance. I shouldn't have bothered here. If you see this film out on DVD in the shops, you may notice its quite flashy box. Don't be deceived. The cover art is about the most expensive part of this whole film. Basically, it's cheap. That's really all you need to know. During the opening scene, you'll get a sort of establishing shot of the outside of a giant spaceship. Only it looks like it was designed on a ZX Spectrum. I probably should have turned the film off there and saved myself an hour and a half. What follows is six kids (okay, teens \u2013 but they acted like kids in my opinion) trying to get rid of an (evil) artificial intelligence from the spaceship's computer. The kids wear cheap orange uniforms and I wonder which genius actually entrusted them to this critical mission? Surely the crew of the Red Dwarf would be more organised than this crowd? The spaceship is nothing new \u2013 white clean-looking corridors and... well, that's about it. Nothing new and certainly nothing expensive. You won't give a damn about a single character. They're all equally bland. I guess I should be grateful they're not that annoying. Anyway, in this cheap 2001: A Space Odyssey set, you get a vague Event Horizon plot where the kids have to face their fears (or something \u2013 I was kind of tuning out by this stage). But, whereas Event Horizon had a cool Gothic feel for its decent, well-known actors to get lost in, this one is just cheap white corridors for its unknown cast to find \u2013 apparently \u2013 scary stuff in. Yes, it's fair to say that I didn't like it. Granted I didn't really hate it, it's just there's nothing new here and nothing I have seen, only much better. If you like your 'spaceship movies' (like I do), just watch anything from Star Trek to Event Horizon (or Pandorum \u2013 I liked that, but no one else seemed to). Just forget this and ignore the enticing cover art on its DVD box. Okay, it had one positive: the 'HUDs' (heads up displays) were kind of neat and I'd never seen that special effect before. But that alone wasn't worth an hour and a half of my time.",
+         "Six young computer hackers, sent to work on a derelict spaceship, are forced to match wits with a vengeful artificial intelligence that would kill to be human. Tangled between terrible acting, jokes and a plot that suffers from the same things that most Sci-Fi movies suffers this days and Jason Momoa acting like Frankenstein was also not a good idea because the man can do better than that believe me he has the right acting skills and stamina to finish the job but this movie lacks all the right things for a good Science Fiction flick. (0/10)",
+         "This movie starts out bad, and unsurprisingly, gets worse from there. The acting is amateurish, the special effects are rudimentary, and the plot is contrived and better handled in films such as \"Event Horizon\". Even as a fan of Jason Momoa, I still found myself wondering how anyone thought this movie was a good idea, as it was just so basic in terms of size and scope. The one area where it could have been something special (the FX and Gore) was edited, so that you never actually saw the deaths but the after effects, which is a cop out if I ever saw one. The only good thing about this film would have to be the design of the ship itself. Everything else? Incredibly mundane and bland, just like the rest of the movie. A horrible vision of a horrible future, this movie would have been truly something special had it been handled by a competent and talent team. Avoid, as I should have.",
+         "Its all on a budget but the story has it. I am (Cogito ergo sum) the AI Has what he thinks is power. The god above gods. Consciousness breaks free the end. So it can all start over loved it. If what I said means nothing then you will give this film 1/10",
+         "David Hewlett's avant-garde space age concept movie is a bit odd. Not my normal cup of tea but I watched it all the way through. High point for me was Momoa's mesmerizing appearance as a devilish, male version of a temptress. Between Momoa's magnetism and the character's hypnotic appeal the girl didn't have a chance. 5 stars for Hewlett's imagination. 6 stars for Momoa's seductive performance.",
+         "The problem with the movie was that it was ultimately boring. The characters were cardboard, the story predictable and uninteresting. Yet it wasn't a totally bad film, considering high production value and decent acting. The white interiors with white light coming from everywhere and sharp font texts reminiscent of the iPhone design and the impossibly beautiful actors did not help what was supposed to be a horror environment. So when it fails on the horror level and on the story level, you can't have a good movie. Bottom line: this film had all the resources and potential to be a good sci-fi movie, but they went in the direction of mass produced horror scripts instead, which makes no sense from a creative perspective. It's like a rogue program trying to pass up as real art.",
+         "I've seen quite a few movies with ratings as low as 4.0 that turned out to be decent enough to recommend. DEBUG falls into the same category but is tougher to recommend because movies set in space don't seem so popular overall. But this film I would recommend because unlike the others or at least the recent slew of space flicks. DEBUG as a story line good enough to hold your attention and the main characters are interesting enough for you to really want to know more about them. Visually, the film looks good but the fact that it was shot on a low budget is not painfully obvious but noticeable. It doesn't have a lot of atmosphere but the score helps in creating a fair amount of tension. Overall, DEBUG was better than expected and deserves a bit of a higher rating. The story line progresses nicely. The acting is competent although the effects are not outstanding but doesn't really hinder the film.",
+         "The Good Bits 1.Firstly, when watching this you have to remember this is a low budget movie. It's never going to have the slick VFX of blockbusters like the new Star Trek films. That said, I think both the VFX and SFX were really good. I totally bought that these people were in deep space on a ship. The id chips and the personal visual displays were particularly good. 2.You can tell Jason Momoa is having a good time playing the bad guy - and he does a solid job. Adrian Holmes also puts in a good performance as the corrupt warden in charge of the group. 3. The opening 20-30 minutes are well paced and set up the story well. The first part of the film creates an unsettlingly clinical atmosphere that unfortunately is not sustained throughout the film. The ending wraps things off nicely and feels like a satisfactory conclusion for the audience. The Not So Good Bits 1. Characterisation. I felt if you removed several of the debug crew from the film it would not affect the plot in any way e.g. the characters Samson Connoly and Lara Riley felt like they were extraneous. 2. The fact that all but one of the female characters stripped down to their underwear, for generally unknown and spurious reasons, while none of the men so much as rolled up their sleeves. It made this film feel like, despite it's futuristic storyline, the writing belongs to history bin.",
+         "I thought this film had some pretty good computer special effects. Maybe the way it was filmed- often in white sets under bright white light-made a dry atmosphere as a result. Maybe that was the intention of the film maker since it was, after all, a SF film. Not bad ensemble acting but the plot line was only adequate & not what you could call brilliant. It seems that this film won't be playing in any North American cinemas but it will be heading for the Asian market sometime soon. I could see people going to see this on a Saturday afternoon here but it seems that is not what the distributor is wanting to do with this movie. Oh well. I would have done the external shots of space with the space ship differently as in I would have included stars in space instead of having space just a blackness with no stars in it. It was a Canadian production. Take it or leave it.",
+         "Debug is simply a cheap knock off from Event Horizon. 6 hacker prisoners are sent to a derelict ship (which looks a bit like the Event Horizon) to debug the evil AI, but the AI fights back. One of the biggest problems is that the film has no atmosphere. While Event Horizon was a ship built like a dark Gothic cathedral, this one is bright and clean an shiny on the inside (I know it's cheaper and director David Hewlitt wanted to reference 2001 A Space Odessey). The actors also aren't A-grade but a bunch of unknowns except for Jason Momoa who David Hewlitt worked with on Stargate Atlantis. This film is OK for scifi fans but it's very skip-able for everyone else."
+      ],
+      "genres": [
+         "Horror",
+         "Sci-Fi"
+      ],
+      "productionCompanies": [
+         "Copperheart Entertainment",
+         "Monkeys & Parrots"
+      ],
+      "summaries": ["Six young computer hackers, sent to work on a derelict spaceship, are forced to match wits with a vengeful artificial intelligence that would kill to be human."],
+      "budget": 0
+   },
+   "movielensId": 135627,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2014-11-03",
+      "dvdReleaseDate": null,
+      "directors": ["David Hewlett"],
+      "runtime": 86,
+      "movieId": 135627,
+      "title": "Debug",
+      "mpaa": "PG-13",
+      "actors": [
+         "Jeananne Goossen",
+         "Adrian Holmes",
+         "Adam Butcher",
+         "Jason Momoa",
+         "Kyle Mac",
+         "Jadyn Wong",
+         "Sidney Leeder",
+         "Nathaniel Bacon",
+         "Allison Brennan",
+         "Tenika Davis",
+         "Kate Hewlett",
+         "Kerr Hewitt"
+      ],
+      "imdbMovieId": "2769184",
+      "originalTitle": "Debug",
+      "genres": [
+         "Horror",
+         "Science Fiction"
+      ],
+      "youtubeTrailerIds": ["zgAYqQH2m4Q"],
+      "plotSummary": "Six young computer hackers sent to work on a derelict space freighter, are forced to match wits with a vengeful artificial intelligence that would kill to be human.",
+      "tmdbMovieId": 299939,
+      "avgRating": 2.78571,
+      "releaseYear": "2014",
+      "numRatings": 14,
+      "posterPath": "/eavGUZvsLmEixqOxT4wdAE3RnGB.jpg"
+   }
+}

@@ -1,0 +1,499 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "queen",
+            "id": 2011
+         },
+         {
+            "name": "trojan war",
+            "id": 3265
+         },
+         {
+            "name": "king",
+            "id": 13084
+         },
+         {
+            "name": "slave",
+            "id": 14906
+         }
+      ],
+      "imdb_id": "tt0049301",
+      "video": false,
+      "title": "Helen of Troy",
+      "recommendations": [
+         21077,
+         115834,
+         32073,
+         68242,
+         68337,
+         30126,
+         113777,
+         43037,
+         32116,
+         17120,
+         23097,
+         43331,
+         43351,
+         34269,
+         53205,
+         15310,
+         68340,
+         38293,
+         71768,
+         76117
+      ],
+      "backdrop_path": "/xKfZX3Cce6hr1gNA9fO2RPyLpxU.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Helen",
+               "gender": 0,
+               "credit_id": "52fe4610c3a36847f80ea59f",
+               "name": "Rossana Podestà",
+               "profile_path": "/kMrHuOXJMK1OhihNbNVSIiJ22bj.jpg",
+               "id": 128330,
+               "order": 0
+            },
+            {
+               "cast_id": 5,
+               "character": "Priam",
+               "gender": 2,
+               "credit_id": "52fe4610c3a36847f80ea5a9",
+               "name": "Cedric Hardwicke",
+               "profile_path": "/yaOgPrY8PBPkyqXHm7NVl0p2er7.jpg",
+               "id": 99461,
+               "order": 1
+            },
+            {
+               "cast_id": 6,
+               "character": "Paris",
+               "gender": 2,
+               "credit_id": "52fe4610c3a36847f80ea5ad",
+               "name": "Jacques Sernas",
+               "profile_path": "/pGYZy1Fm1L5M2qSXFtHCaWCKlnx.jpg",
+               "id": 102026,
+               "order": 2
+            },
+            {
+               "cast_id": 12,
+               "character": "Achilles",
+               "gender": 2,
+               "credit_id": "52fe4610c3a36847f80ea5cf",
+               "name": "Stanley Baker",
+               "profile_path": "/tuxxdeqxX8kTS8tBFon31IrXPvb.jpg",
+               "id": 67449,
+               "order": 3
+            },
+            {
+               "cast_id": 13,
+               "character": "Menelaus",
+               "gender": 2,
+               "credit_id": "52fe4610c3a36847f80ea5d3",
+               "name": "Niall MacGinnis",
+               "profile_path": "/q5eQLCeSDWMJ4ghGJW4f7D6Os5k.jpg",
+               "id": 93163,
+               "order": 4
+            },
+            {
+               "cast_id": 14,
+               "character": "Hecuba",
+               "gender": 1,
+               "credit_id": "52fe4610c3a36847f80ea5d7",
+               "name": "Nora Swinburne",
+               "profile_path": "/cCzOzfmNtMGgxRgnUo2ciQZF1xC.jpg",
+               "id": 88895,
+               "order": 5
+            },
+            {
+               "cast_id": 15,
+               "character": "Agamemnon",
+               "gender": 0,
+               "credit_id": "52fe4610c3a36847f80ea5db",
+               "name": "Robert Douglas",
+               "profile_path": "/vYpdx1y2L0d1aLOB4cFupximTWx.jpg",
+               "id": 33484,
+               "order": 6
+            },
+            {
+               "cast_id": 16,
+               "character": "Ulysses",
+               "gender": 2,
+               "credit_id": "52fe4610c3a36847f80ea5df",
+               "name": "Torin Thatcher",
+               "profile_path": "/vO8Dw33jVxVU3gR1FWbgomrEmRB.jpg",
+               "id": 10925,
+               "order": 7
+            },
+            {
+               "cast_id": 17,
+               "character": "Hector",
+               "gender": 2,
+               "credit_id": "52fe4610c3a36847f80ea5e3",
+               "name": "Harry Andrews",
+               "profile_path": "/1EJXH5DyJWDtHfX8MeqSrCrUlwD.jpg",
+               "id": 19463,
+               "order": 8
+            },
+            {
+               "cast_id": 18,
+               "character": "Cassandra",
+               "gender": 1,
+               "credit_id": "52fe4610c3a36847f80ea5e7",
+               "name": "Janette Scott",
+               "profile_path": "/dElUYYT0hjLydLU04gSOeNVgdQn.jpg",
+               "id": 74155,
+               "order": 9
+            },
+            {
+               "cast_id": 20,
+               "character": "Andraste",
+               "gender": 1,
+               "credit_id": "52fe4610c3a36847f80ea5ef",
+               "name": "Brigitte Bardot",
+               "profile_path": "/3zQZJKE1TBXEi1khQlLI321KhHX.jpg",
+               "id": 3783,
+               "order": 11
+            },
+            {
+               "cast_id": 21,
+               "character": "Andros",
+               "gender": 2,
+               "credit_id": "52fe4610c3a36847f80ea5f3",
+               "name": "Eduardo Ciannelli",
+               "profile_path": "/fkfG6BRh3VqU4AmrTI2GPfxpEQM.jpg",
+               "id": 16761,
+               "order": 12
+            },
+            {
+               "cast_id": 22,
+               "character": "Diomedes",
+               "gender": 2,
+               "credit_id": "52fe4610c3a36847f80ea5f7",
+               "name": "Marc Lawrence",
+               "profile_path": "/hCQP4Ym8u94WdcMsJ6QXvaEd8qX.jpg",
+               "id": 3140,
+               "order": 13
+            },
+            {
+               "cast_id": 32,
+               "character": "Aeneas",
+               "gender": 2,
+               "credit_id": "585a5b549251415941025c32",
+               "name": "Ronald Lewis",
+               "profile_path": "/f8nSCXE7M5bKU39tNnApBf460dC.jpg",
+               "id": 35064,
+               "order": 14
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4610c3a36847f80ea5a5",
+               "name": "Robert Wise",
+               "profile_path": "/6EPkRgYsDMQOYmE9s1vZt2O470R.jpg",
+               "id": 1744,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4610c3a36847f80ea5b3",
+               "name": "John Twist",
+               "profile_path": null,
+               "id": 100914,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4610c3a36847f80ea5b9",
+               "name": "Hugh Gray",
+               "profile_path": null,
+               "id": 89595,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4610c3a36847f80ea5bf",
+               "name": "Hugh Gray",
+               "profile_path": null,
+               "id": 89595,
+               "department": "Writing",
+               "job": "Adaptation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4610c3a36847f80ea5c5",
+               "name": "N. Richard Nash",
+               "profile_path": null,
+               "id": 20151,
+               "department": "Writing",
+               "job": "Adaptation"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4610c3a36847f80ea5cb",
+               "name": "Homer",
+               "profile_path": "/roXLV7QNLUvqP0lfa630rhtiZdP.jpg",
+               "id": 9812,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57283a2f9251416dfb0034ef",
+               "name": "Max Steiner",
+               "profile_path": null,
+               "id": 3249,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57283a3792514123fb000f59",
+               "name": "Harry Stradling Sr.",
+               "profile_path": null,
+               "id": 10537,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57283a3fc3a3685b6300114e",
+               "name": "Thomas Reilly",
+               "profile_path": null,
+               "id": 68090,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57283a479251412478000fc4",
+               "name": "Robert Lennard",
+               "profile_path": null,
+               "id": 13320,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57283a4e925141244d00104c",
+               "name": "Edward Carrere",
+               "profile_path": null,
+               "id": 7127,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57283a57c3a3685b6300115f",
+               "name": "Elso Valentini",
+               "profile_path": null,
+               "id": 1614608,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57283a60c3a3685b63001164",
+               "name": "Roger K. Furse",
+               "profile_path": null,
+               "id": 20138,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57283a6a9251412478000fca",
+               "name": "Giuseppe De Blasio",
+               "profile_path": null,
+               "id": 1566817,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57283a73925141244d001054",
+               "name": "Maurizio Lodi-Fè",
+               "profile_path": null,
+               "id": 570176,
+               "department": "Production",
+               "job": "Production Manager"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         },
+         {
+            "name": "War",
+            "id": 10752
+         }
+      ],
+      "popularity": 2.336762,
+      "production_countries": [
+         {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+         },
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         }
+      ],
+      "id": 42658,
+      "vote_count": 10,
+      "budget": 0,
+      "overview": "Prince Paris of Troy, shipwrecked on a mission to the king of Sparta, meets and falls for Queen Helen before he knows who she is. Rudely received by the royal Greeks, he must flee...but fate and their mutual passions lead him to take Helen along. This gives the Greeks just the excuse they need for much-desired war.",
+      "similar": [
+         43867,
+         2270,
+         1417,
+         150689,
+         9486,
+         809,
+         408,
+         10144,
+         10882,
+         109445,
+         9880,
+         10473,
+         11370,
+         12437,
+         1381,
+         2310,
+         1893,
+         812,
+         652,
+         967
+      ],
+      "original_title": "Helen of Troy",
+      "runtime": 118,
+      "poster_path": "/9ahx0eneGJTqoJCHPfIqB7YFyRi.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/6rFNo5taSC9i0Sxnl81nucQMsw9.png",
+         "name": "Warner Bros. Pictures",
+         "id": 174,
+         "origin_country": "US"
+      }],
+      "release_date": "1956-01-26",
+      "vote_average": 6.4,
+      "belongs_to_collection": null,
+      "tagline": "Its towering wonders span the age of titans!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Robert Wise"],
+      "runtime": 118,
+      "synopsis": null,
+      "writers": [
+         "John Twist",
+         "Hugh Gray"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0049301/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BNTAxMjU5NTAxOF5BMl5BanBnXkFtZTcwODQzMDUyMQ@@._V1_SY317_CR27,0,214,317_AL_.jpg",
+      "actors": ["Stars: Stanley Baker, Rossana Podestà, Brigitte Bardot | See full cast and crew »"],
+      "reviews": [
+         "Basically, this movie is criticized because, being one of the very first big international co-productions, its main players were Euro celebrities who never caught on in the US, and because Jacques Sernas' and Rossana Podesta's voices were voiced-over. That is a pretty shallow approach to movie criticism. This film is well-scripted (it's based on Homer and neither substracts nor adds to his basic plot - except for the Gods, which are mentioned but never seen, which makes it a modern secular version of the Iliad), well-acted by some very impressive British actors, superbly constructed (art direction, photography, costumes, period research, choreography) and creates a lasting impression. I own it on laser disc and just had to buy a widescreen TV with home theatre sound to do it justice. I can watch this movie as often as I crave substantial food, which is very often. Robert Wise, besides being the director of The Day the Earth Stood Still, West Side Story and The Sound of Music started his career as the editor of Citizen Kane and it is his input in the editing (vibrant, energetic, kinetic, masculine) that makes this movie a real winner and actually brings life to the giant vistas of this classic and tragic fairy tale/war movie/love story. Max Steiner's beautiful score adds several other dimensions to this masterpiece and its interplay with the editing is always fascinating to watch. The general impression is a beautiful dream of the paintings on a Greek urn coming to magical, inspiring, colourful life. It is also fascinating to watch how the fight scenes were a sort of preliminary study to the ones in West Side Story, which is basically on the same subject. I had better stop while I'm ahead. One word of advice: Don't believe the nay-sayers (i.e. Leonard Maltin) until you have experienced it for yourself in all its CinemaScope, Warnercolor and Stereophonic glory. A must-have at any price and already overdue on DVD.",
+         "Of all the great stories handed down through the ages, few can equal Homer's Iliad - a towering epic of warrior heroes, squabbling gods, and anger that destroyed nations... This is the source for Robert Wise's film... All the elements of a magnificent spectacle exist in Homer's work - a lavish and decadent court life, the tension of the quarrel between Achilles and Agamemnon, the most beautiful woman in Greece, and a drama of love and seduction... Thousands of weapons are used: spears, bows, arrows, body armor, helmets, shields, maces and ships of the period l200 B.C., plus a tremendous wooden horse... Paris, on a diplomatic mission to Sparta to arrange peaceful trade, is washed up on the Spartan shore after being shipwrecked during a storm... He is helped by the lovely Helen who claims to be a handmaiden to the queen... She takes her leave, directing him to the court of King Menelaus... Paris is greeted and honored in a 'cesti' combat with Ajax... Secretly, however, Menelaus plots to kill his guest... Helen warns Paris of the danger to his life and urges him to run away... Herself in danger for revealing the plot, she succumbs to Paris' pleadings to flee with him... The lovers make their way to Troy... From that point the spectacular elements - the massing of the ships and men, and the battles outside the walls of Troy, take over... Rossana Podesta - a natural brunette given a blonde wig and the classical Grecian look - plays Helen, the indirect cause of the Trojan War, but for Paris, she is the goddess of love and beauty, \"Aphrodite.\" Jacques Sernas plays Paris... His seduction of Helen and refusal to return her, started the Trojan War... Robert Douglas is Agamemnon, the commander in chief of the Greek forces... He calls on the kings and princes to unite in a war of revenge against the Trojans... He was a very ambitious man, dreaming of Troy's treasures... Stanley Baker is Achilles, the unbeatable warrior, the greatest and most tragic of the Greek heroes... Harry Andrews is Hector, the eldest son of king Priam, and the husband of Andromache... He is the chief warrior of the Trojan army... Niall MacGinnis is the furious Menelaus, King of Sparta, who calls on his brother Agamemnon to gather an army and avenge the mark of shame... Torin Thatcher is Ulysses, king of Ithaca, the man of outstanding wisdom... Sir Cedric Hardwicke is the powerless but kindly King of Troy... Janette Scott is Cassandra, daughter of Priam, loved by the goddess Athena... With a great spirit of prophecy she warns her father to burn the wooden horse... Robert Wise makes a brave attempt to marry the intimate with the spectacular - a difficult task - but \"Helen of Troy\" is an epic movie, a superior entertainment filmed in CinemaScope and Technicolor..",
+         "The first thing I read about this movie was that it was terrible and that the first lady even though very gifted as far as bust is concerned was a nightmare when it comes to acting. However when I saw this film I had to disagree with those critics who tried to ruin a good movie. Even though the sets are nothing to those of \"Ben-Hur\", \"Cleopatra\" and other screen giants the sets of Cinecitta are stupendous. The colour is magnificent and the acting is quite good. It is true that the part of the heroine could have portrayed some more fragility, still Ms. Podesta' was quite satisfying. The cinematography is very good and the story never lingers. It is action-packed and is bound to marvel anyone who likes this genre.",
+         "I loved \"Helen of Troy\" when I was a young girl in the 50's. Paris, played by Jacques Sernas, was the most gorgeous man I had ever seen and to me, made his character come alive. I wondered how I would feel about Jacques' performance after seeing Orlando Bloom play a rather wimpy Paris in \"Troy\". Sadly, there didn't seem to be any chemistry between Paris and Helen in the new version. When comparing the original, classic version, I was pleased to find that it still remains an exciting and dynamic story and could not be improved with extravagant special effects. \"Helen of Troy\" has a romantic, poignant warmth and the audience is compelled to hope that Helen and Paris can have a happy life together. In the new version, it didn't seem to matter if they stayed together or not, their story almost felt secondary to the glorious story of Brad Pitts' Achilles. Needless to say, I highly recommend the remastered DVD of \"Helen of Troy, 1956\" for the discerning movie viewer.  ",
+         "Come on, IMDb'ers! Get your stuff right. Warner Brothers was the studio and they usually forced their producer/directors around this period to use their own proprietary single-strip color process, rather than Technicolor, which by 1956 had already abandoned its own more expensive to use and cumbersome to handle three-strip process. Somehow Robert Wise and his technicians managed to get more variety and warmer tones while using Warnercolor in this film than what was usually achieved stateside on W.B.'s Burbank sound stages and on various U.S. locations. Maybe it was, as Franco Zeffirelli is fond of calling it, \"the golden-ah light\" of Italy. Anyway this film is quite an eye-filling visual achievement. And Max Steiner's score is one of his better ones, pumping up the spectacle aspect quite effectively. A couple of trivia notes: The Walls of Troy set accidentally caught fire before the company was finished with it, but Wise and his technicians were on the spot and managed to get some usable footage out of that disaster. (I don't know if they had to reconstruct it or rewrite some scenes that were originally supposed to have taken place on its ramparts.) And TIME magazine in its review complained that Signorina Podesta's vaccination scar (and I think that of Monsieur Sernas as well) is clearly visible in a love scene. Without computers to fix such gaffes back then, and probably not noticing that little \"oops!\" until examining footage in a U.S. screening room when the company returned home for editing, the studio probably figured they'd just let it pass. But forty-foot wide CinemaScope screens were quite merciless when it came to audiences' perceptions of the obvious.",
+         "HELEN OF TROY is a very respectable Hollywood sword and sandal effort from the 1950s, with a strong international cast and very good production values. Except ... Why does every popular culture effort at retelling the Trojan War myth have to make Paris the hero? In the Illiad, by far the most significant and authoritative source of the story, at best shows Paris to be an ambiguous figure--the best looking man of his generation, but often a coward in battle. Helen expresses extraordinary contempt for him in one extended passage. In one or two brief sequences, Paris fights valiantly, but in his major appearance, his winner-take-all-and-Helen duel with Menaleus, after bragging and crowing about his prowess, he completely wimps out in the battle, and, once defeated, is transported by Aphrodite back to Troy to hide in his bedroom. HELEN OF TROY is not the only effort to mis-read the Illiad into a Paris-and-Helen \"runaway\" love story. Perhaps in writing a commercial screenplay, that's what any writer would be forced to do. But that doesn't speak well for our popular culture, one that can't sustain the ambiguity and complexity of another culture--of 2700 years ago! Still, the movie has its strong parts, particularly Stanley Baker as Achilles. Watch for Brigitte Bardot in an early, pre-star role as Helen's handmaiden.",
+         "It is good for the viewer to see this cinemascope spectacular from 1956 after seeing the new TROY with Brad and Eric. HELEN OF TROY as directed by craftsman Robert Wise is very pleasingly made and with excellent action and spectacle - especially in the well populated fiery siege scenes. No CGI in those days, there really was a couple of thousand dressed and armed extras running all over the huge set. Apparently Robert Wise is on record as having said he took the $6 million assignment because he hadn't yet directed a spectacular....! Told from a different perspective than the 2004 version, this 50s view is from the point of Paris as opposed to Archilles in the new one. It would be like the new one being told from Orlando Bloom's perspective rather than from Brad Pitt's. HELEN OF TROY on DVD has good extras including the TV specials made with Gig Young as a promo of the time. The huge set created in Italy was recycled into SODOM AND GOMORRAH given the orange pillars and layout. HELEN OF TROY has excellent Warnercolour and beautiful art direction. It is a good film and well worth seeing after you see TROY as a companion/chaser.",
+         "As a fan of Greek Mythogy, Helen of Troy is the closest I've seen reenactment of the Trojan War. Under the Direction of Director Robert Wise, this is a well produced version in telling the story. As most people know the ending it was still sad, they had it made, but the advice given by Helen \"Beware of Greeks Bearing Gifts\", was ignored and thus the downfall of the City of Troy. All in all I did enjoy this version, I don't think anyone else will disagree",
+         "This movie typically dates from an era, when the many local movie-theatres were visited regularly for their newest issues. An era when television could not compete yet, also an era when society wasn't as hectic and demanding as it is today. So just sit back, relax, and take your time to watch 'Helen of Troy'. Fifties-movies generally are well-made and worth watching, and this one is no exception. For instance, enjoy the 'overture', a fine piece of film-music to get you in the right mood. The concert is on for about five minutes, the screen before your face not moving at all during this entire period. Once 'Helen' is on her way, you will enjoy the quality of the (color-)shots, and that of the actors and actresses. Their heroic style of acting, completely out of fashion now, is remarkable. Further there is not much to add. The fifties show a clear trend for pompous movies lending their plot from ancient Greek or Roman history. Such as 'Ben Hur', 'Spartacus' and 'Quo Vadis'. 'Helen of Troy' also belongs to this category. And, what about Brigitte Bardot? Her tiny role as a slave-girl in a pompous Greek-history setting does not suit her talents very well. Brigitte makes the best of it, though, occasionally succeeding in letting her famous image shine through.",
+         "While the greedy Greeks plot to invade Troy to steal the treasures of the Trojans, Prince Paris (Jack Sernas) is assigned by his wise father and King of Troy to travel to Sparta and shows the peaceful intentions of his people. Along his journey, he falls off in the sea during a storm and is rescued on the shore by the Queen of Sparta Helen (Rossana Podestà). When he recovers, he believes that she is a slave and they fall in love for each other. When he arrives in the Spartan palace, he is arrested by King Menelaus (Niall MacGinnis) in his quarters but Helen helps him to escape. They travel together to Troy and give the excuse the Greeks need to start the war and put Troy under siege for years. The Greeks are unsuccessful in their intents, until they listen to the cunning Ulysses (Torin Thatcher) that decide s to withdraw the one thousand Greek ships from the Trojan waters and offer a wooden Horse of Troy as a gift to the winners. The underrated \"Helen of Troy\" is an engaging romantic adventure with a wonderful version of Homer's epic poem \"The Iliad\". The beauty of the Lybian Rossana Podestà compared to Aphrodite gives credibility to the passionate love of Paris. The grandiosity of scenarios and cast that includes a brunette Brigitte Bardot and the magnificent direction of Robert Wise make this feature a must-see. I do not understand the unfair bad reviews of this great epic. Just as a curiosity, the episode \"Revenge of the Gods\" of \"The Time Tunnel\" uses uncredited footages of this feature. My vote is nine. Title (Brazil): \"Helena de Tróia\" (\"Helen of Troy\")"
+      ],
+      "genres": [
+         "Adventure",
+         "Drama",
+         "History",
+         "Romance",
+         "War"
+      ],
+      "productionCompanies": ["Warner Bros."],
+      "summaries": [
+         "Prince Paris of Troy, shipwrecked on a mission to the king of Sparta, meets and falls for Queen Helen before he knows who she is. Rudely received by the royal Greeks, he must flee...but fate and their mutual passions lead him to take Helen along. This gives the Greeks just the excuse they need for much-desired war.",
+         "The Greeks are plotting to invade Troy to steal the treasures of the Trojans. Meanwhile Prince Paris is assigned by his wise father and King of Troy to travel to Sparta and shows the peaceful intentions of his people. Along his journey, he falls into the sea during a storm and is rescued on the shore by the Queen of Sparta, Helen. When he recovers, he believes that she is a slave and they fall in love with each other. When he arrives at the Spartan palace, he is arrested by King Menelaus but Helen helps him to escape. They travel together to Troy and give the excuse the Greeks need to start the war and put Troy under siege for years. The Greeks are unsuccessful in their intents, until they listen to the cunning Ulysses. The Greeks then withdraw their one thousand ships from the Trojan waters and offer a wooden Horse of Troy as a gift to the winners.",
+         "The Iliad's story of the Trojan war, told from the Trojan viewpoint."
+      ],
+      "budget": 0
+   },
+   "movielensId": 8403,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1956-01-26",
+      "dvdReleaseDate": "2004-04-27",
+      "directors": ["Robert Wise"],
+      "runtime": 118,
+      "movieId": 8403,
+      "title": "Helen of Troy",
+      "mpaa": "PG",
+      "actors": [
+         "Rossana Podestà",
+         "Cedric Hardwicke",
+         "Jacques Sernas",
+         "Stanley Baker",
+         "Niall MacGinnis",
+         "Nora Swinburne",
+         "Robert Douglas",
+         "Torin Thatcher",
+         "Harry Andrews",
+         "Janette Scott",
+         "Brigitte Bardot",
+         "Eduardo Ciannelli",
+         "Marc Lawrence",
+         "Ronald Lewis"
+      ],
+      "imdbMovieId": "0049301",
+      "originalTitle": "Helen of Troy",
+      "genres": [
+         "Action",
+         "Adventure",
+         "Drama",
+         "Romance",
+         "War"
+      ],
+      "youtubeTrailerIds": [
+         "Od6ftla5q-8",
+         "D2ueECHkpwY"
+      ],
+      "plotSummary": "Prince Paris of Troy, shipwrecked on a mission to the king of Sparta, meets and falls for Queen Helen before he knows who she is. Rudely received by the royal Greeks, he must flee...but fate and their mutual passions lead him to take Helen along. This gives the Greeks just the excuse they need for much-desired war.",
+      "tmdbMovieId": 42658,
+      "avgRating": 3.125,
+      "releaseYear": "1956",
+      "numRatings": 32,
+      "posterPath": "/9ahx0eneGJTqoJCHPfIqB7YFyRi.jpg"
+   }
+}

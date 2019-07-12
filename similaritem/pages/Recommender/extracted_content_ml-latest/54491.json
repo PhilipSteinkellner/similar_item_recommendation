@@ -1,0 +1,584 @@
+{
+   "tmdb": {
+      "original_language": "pt",
+      "keywords": [],
+      "imdb_id": "tt0448927",
+      "video": false,
+      "title": "If I Were You",
+      "recommendations": [
+         21752,
+         49367,
+         154441,
+         62156,
+         37050,
+         30127,
+         40096,
+         69938,
+         161908,
+         77710,
+         228177,
+         203217,
+         52345,
+         180371,
+         34277,
+         228202,
+         40823,
+         59474,
+         34196,
+         56840
+      ],
+      "backdrop_path": "/eqlgajWTAkJYE9UVDFyz13x0HeN.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Cláudio",
+               "gender": 2,
+               "credit_id": "52fe456d9251416c91031f95",
+               "name": "Tony Ramos",
+               "profile_path": "/qkhr2wICqCIkGFd8wcWTwNcMgaP.jpg",
+               "id": 87833,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Helena",
+               "gender": 0,
+               "credit_id": "52fe456d9251416c91031f99",
+               "name": "Glória Pires",
+               "profile_path": "/t800qKgFmIGUus88HXeB5RTn2CU.jpg",
+               "id": 87835,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "Marcos",
+               "gender": 0,
+               "credit_id": "539a527e0e0a260fa200089d",
+               "name": "Thiago Lacerda",
+               "profile_path": "/opSKAegmgxHWoKH7VPx6Np9CI7q.jpg",
+               "id": 132075,
+               "order": 2
+            },
+            {
+               "cast_id": 5,
+               "character": "Vivinha",
+               "gender": 0,
+               "credit_id": "539a528e0e0a260fab00085e",
+               "name": "Glória Menezes",
+               "profile_path": "/9XQSOibSUApNTGjaF7RcJ0Fatz5.jpg",
+               "id": 230264,
+               "order": 3
+            },
+            {
+               "cast_id": 6,
+               "character": "Bárbara",
+               "gender": 0,
+               "credit_id": "539a52a10e0a260fa20008a4",
+               "name": "Lavínia Vlasak",
+               "profile_path": "/gfYcAtbWqkiBOp4SsNxKQxksV8e.jpg",
+               "id": 1014122,
+               "order": 4
+            },
+            {
+               "cast_id": 7,
+               "character": "Cibele",
+               "gender": 1,
+               "credit_id": "539a52ad0e0a260fa20008a7",
+               "name": "Danielle Winits",
+               "profile_path": "/fx9hmwzSwEDsjVtCvWE8s0ONmaf.jpg",
+               "id": 112184,
+               "order": 5
+            },
+            {
+               "cast_id": 12,
+               "character": "Cida",
+               "gender": 1,
+               "credit_id": "539a52fd0e0a260fb700082e",
+               "name": "Maria Gladys",
+               "profile_path": "/156WNFyE2y1JZozd3frSria9VDk.jpg",
+               "id": 1091459,
+               "order": 6
+            },
+            {
+               "cast_id": 10,
+               "character": "Padre Henrique",
+               "gender": 0,
+               "credit_id": "539a52d50e0a260fab000870",
+               "name": "Ary Fontoura",
+               "profile_path": "/6mI4yIIoiLXRAikkXAFatMSEIkR.jpg",
+               "id": 87838,
+               "order": 7
+            },
+            {
+               "cast_id": 8,
+               "character": "Márcia",
+               "gender": 0,
+               "credit_id": "539a52ba0e0a260fb700080b",
+               "name": "Maria Ceiça",
+               "profile_path": "/9i1zWDBlJ2bw8qIhEo1rSbBxKAX.jpg",
+               "id": 326448,
+               "order": 8
+            },
+            {
+               "cast_id": 13,
+               "character": "Narrator",
+               "gender": 0,
+               "credit_id": "590483d9c3a3684ad700b8c6",
+               "name": "Mauricio Gonçalves",
+               "profile_path": "/2r1cLpS831Gj38nY1swYMo7myJU.jpg",
+               "id": 87340,
+               "order": 9
+            },
+            {
+               "cast_id": 9,
+               "character": "Maurício",
+               "gender": 2,
+               "credit_id": "539a52c70e0a260fba00082f",
+               "name": "Leandro Hassum",
+               "profile_path": "/obb2KbnguJjboL41BDBXIAPEW05.jpg",
+               "id": 1086110,
+               "order": 10
+            },
+            {
+               "cast_id": 11,
+               "character": "Arnaldo",
+               "gender": 0,
+               "credit_id": "539a52f10e0a260fb00008a6",
+               "name": "Dennis Carvalho",
+               "profile_path": "/A3rVYCRaxw9qkqLLSwvEXgwZt28.jpg",
+               "id": 1008707,
+               "order": 11
+            },
+            {
+               "cast_id": 14,
+               "character": "Bia",
+               "gender": 0,
+               "credit_id": "595183b4c3a3680d730104e0",
+               "name": "Lara Rodrigues",
+               "profile_path": "/kH6PmJZvOKmeY4QSgRSAszxfOww.jpg",
+               "id": 1307798,
+               "order": 12
+            },
+            {
+               "cast_id": 15,
+               "character": "Tereza",
+               "gender": 0,
+               "credit_id": "595183e79251412ac701288c",
+               "name": "Antonia Frering",
+               "profile_path": "/2juDS3TepeQhQqocnMTkgiGKWXX.jpg",
+               "id": 1184846,
+               "order": 13
+            },
+            {
+               "cast_id": 16,
+               "character": "Regina",
+               "gender": 0,
+               "credit_id": "5951840e9251412b31012ac3",
+               "name": "Carla Daniel",
+               "profile_path": "/9az3qaGNR1PR1GKaYlx0hAvD9e0.jpg",
+               "id": 1168396,
+               "order": 14
+            },
+            {
+               "cast_id": 17,
+               "character": "Marília",
+               "gender": 0,
+               "credit_id": "59518432c3a36813c50141ad",
+               "name": "Marcella Muniz",
+               "profile_path": "/bj9VbgjWbn2IlibfzugEcnAuERs.jpg",
+               "id": 1839753,
+               "order": 15
+            },
+            {
+               "cast_id": 18,
+               "character": "Psicanalista",
+               "gender": 0,
+               "credit_id": "59518450c3a36809c601268d",
+               "name": "Mário José Paz",
+               "profile_path": "/9JPAZlN6z0bT5zLZIQ59HDZRJyZ.jpg",
+               "id": 1839755,
+               "order": 16
+            },
+            {
+               "cast_id": 19,
+               "character": "Dra. Cris",
+               "gender": 0,
+               "credit_id": "59518470c3a36814ae0135ad",
+               "name": "Patricia Pillar",
+               "profile_path": "/zoqvBeXtHhOj2PoOzQecR5Tvlt1.jpg",
+               "id": 1074749,
+               "order": 17
+            },
+            {
+               "cast_id": 20,
+               "character": "Ufólogo",
+               "gender": 0,
+               "credit_id": "59518486c3a36814ae0135c7",
+               "name": "Jorge Fernando",
+               "profile_path": "/pUop03SNRPzpc2sAsw7secnXZv.jpg",
+               "id": 937104,
+               "order": 18
+            },
+            {
+               "cast_id": 21,
+               "character": "Débora",
+               "gender": 0,
+               "credit_id": "595184999251412a9b0127d8",
+               "name": "Helena Fernandes",
+               "profile_path": "/zmtcu6ibFzThE88giYBoFU88mj7.jpg",
+               "id": 1247858,
+               "order": 19
+            },
+            {
+               "cast_id": 22,
+               "character": "Caê",
+               "gender": 0,
+               "credit_id": "595184b89251412b31012b82",
+               "name": "Thomas Morkos",
+               "profile_path": "/6H8Zz5EtObFEVD8dq5FLWZEQKd7.jpg",
+               "id": 1839758,
+               "order": 20
+            },
+            {
+               "cast_id": 23,
+               "character": "Carol",
+               "gender": 0,
+               "credit_id": "5951852bc3a36814ae01368e",
+               "name": "Agatha Aguiar",
+               "profile_path": null,
+               "id": 1839760,
+               "order": 21
+            },
+            {
+               "cast_id": 24,
+               "character": "Gabi",
+               "gender": 0,
+               "credit_id": "5951854a9251412a05011c9b",
+               "name": "Barbara Paiva",
+               "profile_path": null,
+               "id": 1839763,
+               "order": 22
+            },
+            {
+               "cast_id": 25,
+               "character": "Garçom do Restaurante",
+               "gender": 0,
+               "credit_id": "5951856a9251412ac7012a5a",
+               "name": "Paulo Giardini",
+               "profile_path": "/5g69Cpq8UtAuyKX73Zza8SHLCsP.jpg",
+               "id": 1695829,
+               "order": 23
+            },
+            {
+               "cast_id": 26,
+               "character": "Porteiro da Escola",
+               "gender": 0,
+               "credit_id": "595185869251412ac7012a75",
+               "name": "Jurandir de Oliveira",
+               "profile_path": "/2yAHlmtmGUa6Ivec8W2PNVArFQ9.jpg",
+               "id": 1051795,
+               "order": 24
+            },
+            {
+               "cast_id": 27,
+               "character": "Recepcionista da Agência",
+               "gender": 0,
+               "credit_id": "595185bec3a368134a011a47",
+               "name": "Aline Camacho",
+               "profile_path": null,
+               "id": 1839766,
+               "order": 25
+            },
+            {
+               "cast_id": 28,
+               "character": "Atendimento da Agência",
+               "gender": 0,
+               "credit_id": "595185dec3a368134a011a6a",
+               "name": "Ana Paula Vieira",
+               "profile_path": "/jQee7tI2sM8XVn1NihdlN9V7UXl.jpg",
+               "id": 1747450,
+               "order": 26
+            },
+            {
+               "cast_id": 29,
+               "character": "Atendimento da Agência",
+               "gender": 0,
+               "credit_id": "59518603c3a368151c01090b",
+               "name": "Iano Salomão",
+               "profile_path": "/4yCWeVtBpHhjSarKL2clvb0XyWb.jpg",
+               "id": 1483776,
+               "order": 27
+            },
+            {
+               "cast_id": 30,
+               "character": "Atendimento da Agência",
+               "gender": 0,
+               "credit_id": "595186289251412ac40123ba",
+               "name": "Joana Nardelli",
+               "profile_path": null,
+               "id": 1839770,
+               "order": 28
+            },
+            {
+               "cast_id": 32,
+               "character": "Office Boy",
+               "gender": 0,
+               "credit_id": "5951869ac3a36814ae013832",
+               "name": "Rodrigo Oliveira",
+               "profile_path": null,
+               "id": 1839771,
+               "order": 30
+            },
+            {
+               "cast_id": 33,
+               "character": "Diretor de Produção",
+               "gender": 0,
+               "credit_id": "595186c4c3a36809c6012947",
+               "name": "Raul Labancca",
+               "profile_path": null,
+               "id": 1687130,
+               "order": 31
+            },
+            {
+               "cast_id": 34,
+               "character": "Homem no Banheiro",
+               "gender": 0,
+               "credit_id": "5951872bc3a3680d73010811",
+               "name": "Daniel Filho",
+               "profile_path": "/q92xPOOiNzyy6GRQMIkD9Fcn21y.jpg",
+               "id": 8568,
+               "order": 32
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe456d9251416c91031f9f",
+               "name": "Daniel Filho",
+               "profile_path": "/q92xPOOiNzyy6GRQMIkD9Fcn21y.jpg",
+               "id": 8568,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59835ab89251416b490011f1",
+               "name": "Rene Belmonte",
+               "profile_path": null,
+               "id": 50349,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59835ac19251416acc001366",
+               "name": "Iafa Britz",
+               "profile_path": null,
+               "id": 589141,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59835ac8c3a368373e0013c7",
+               "name": "Adriana Falcão",
+               "profile_path": null,
+               "id": 123765,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59835ad09251416ac700135a",
+               "name": "Daniel Filho",
+               "profile_path": "/q92xPOOiNzyy6GRQMIkD9Fcn21y.jpg",
+               "id": 8568,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59835ae1c3a3683728001368",
+               "name": "Roberto Frota",
+               "profile_path": null,
+               "id": 1710838,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59835aecc3a36836a80013f4",
+               "name": "Carlos Gregório",
+               "profile_path": "/wzBA8gMalc2xWaWyk8JVvbzWgo1.jpg",
+               "id": 299644,
+               "department": "Writing",
+               "job": "Writer"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Comedy",
+         "id": 35
+      }],
+      "popularity": 3.767751,
+      "production_countries": [{
+         "iso_3166_1": "BR",
+         "name": "Brazil"
+      }],
+      "id": 34588,
+      "vote_count": 96,
+      "budget": 0,
+      "overview": "The publicist Claudio and the housewife and choral teacher Helena have been married for many years, but they do not understand and respect the feelings and view point of the partner. Claudio sees Helena as a shopper and \"little teacher of a choral\" and Helena sees Claudio as an insensitive and rough man. On the night before the fiftieth anniversary of Claudio, they changed places with each other.",
+      "similar": [],
+      "original_title": "Se eu fosse você",
+      "runtime": 108,
+      "poster_path": "/pC9oT3flvYS0foCEqugkBJ6E2yE.jpg",
+      "spoken_languages": [{
+         "name": "Português",
+         "iso_639_1": "pt"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Teleimage",
+            "id": 7765,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Total Entertainment",
+            "id": 6446,
+            "origin_country": "BR"
+         },
+         {
+            "logo_path": null,
+            "name": "Espaço/Z",
+            "id": 93187,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Fox Filmes do Brasil",
+            "id": 4887,
+            "origin_country": "BR"
+         },
+         {
+            "logo_path": null,
+            "name": "Globo Filmes",
+            "id": 13969,
+            "origin_country": "BR"
+         },
+         {
+            "logo_path": null,
+            "name": "Lereby Productions",
+            "id": 11446,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Quanta Centro de Produções Cinematográficas",
+            "id": 2432,
+            "origin_country": "BR"
+         }
+      ],
+      "release_date": "2006-01-06",
+      "vote_average": 6.5,
+      "belongs_to_collection": {
+         "backdrop_path": "/67Q6R4RMgN9SEv5jF6PKwzzpXJY.jpg",
+         "name": "If I Were You Collection",
+         "id": 369380,
+         "poster_path": "/vFH5SmHa7dJbRd5jDIVDBOylJXC.jpg"
+      },
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Brazil",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Daniel Filho"],
+      "runtime": 108,
+      "synopsis": null,
+      "writers": [
+         "Rene Belmonte",
+         "Iafa Britz"
+      ],
+      "originalLanguage": "Portuguese",
+      "imdbLink": "http://www.imdb.com/title/tt0448927/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTk3OTc2MTk3OV5BMl5BanBnXkFtZTcwNTIzNDIzMQ@@._V1_SY317_CR1,0,214,317_AL_.jpg",
+      "actors": ["Stars: Tony Ramos, Glória Pires, Thiago Lacerda | See full cast and crew »"],
+      "reviews": [
+         "Cláudio and Helena have been married for many years. He is a hard-working publicist, with a macho attitude. She organizes a children choir at a school, and runs the family house. One night they have a serious argument, and each of them states that the other one's life is more rewarding. They go to bed, and when they wake up, they realize their bodies have been switched. After that, they have to find out what happened, while living each other's life, with its troubles and benefits. Surely enough, you've seen movies with similar stories. This one is not original at all, we see the conflicts between two different worlds, through the eyes of initially unsympathetic characters. Eventually, they learn their lessons of mutual acceptance and respect. However, this movie has two tings going for it. First, there are many really hilarious scenes, that can actually make you laugh out loud, much more than I've laughed watching any other \"battle of the sexes\" movie (and certainly any other \"body switching\" movie as well). The other factor is the acting, plain brilliant, by both Tony Ramos (as Cláudio) and Glória Pires (as Helena). They give life to theirs characters, make them funny, and are, in great part, responsible for the great outcome. Overall, it isn't a masterpiece, but its first class entertainment, with lots of laughter and fun.",
+         "The publicist Claudio (Tony Ramos) and the housewife and choral teacher Helena (Glória Pires) have been married for many years, but they do not understand and respect the feelings and view point of the partner. Claudio sees Helena as a shopper and \"little teacher of a choral\" and Helena sees Claudio as an insensitive and rough man. On the night before the fiftieth anniversary of Claudio, Mars, Earth and Jupiter are aligned and Claudio and Helena argue with each other at home and they speak at the same time \"If I were you�\" On the next morning, when they wake-up, they have switched bodies and they have to face the difficulties of the other in the agency, in the school and with their friends and acquaintances. \"Se Eu Fosse Você\" does not have an original idea, since there are many movies of switch of sex, but it is very funny and witty. Glória Pires is fantastic, very beautiful and is also responsible for some of the best moments of the movie. Tony Ramos is \"too male\", he does not have that \"gay thing\" that some actors usually show in their interpretations; therefore his body expression and movements as a woman are not natural as his role required. Anyway, his lines and situations are hilarious and his chemistry with Glória Pires is perfect. The rest of the cast is also excellent and this movie is a great entertainment. My vote is eight. Title (Brazil): \"Se Eu Fosse Você\" (\"If I Were You\")",
+         "A movie that if you watch you're gonna say: What wast of time!! The history is so uncreative that I supposed those people who made the movie had watched 3 or 4 movies with the same kind of blah-blah-blah. Totally plagiarism. It's just an adaptation of Brazilian novels which means that you must keep distance. The only point that I could give a positive point is the acting of Tony Ramos. He's good on screen and 2 or 3 times I have to admit that he put a little smile on my face but mostly of time he was to fake. Gloria Pires (the actress) doesn't deserve any comments..."
+      ],
+      "genres": ["Comedy"],
+      "productionCompanies": [
+         "Total Entertainment",
+         "Espaço/Z",
+         "Fox Filmes do Brasil"
+      ],
+      "summaries": ["The publicist Claudio and the housewife and choral teacher Helena have been married for many years, but they do not understand and respect the feelings and view point of the partner. Claudio sees Helena as a shopper and \"little teacher of a choral\" and Helena sees Claudio as an insensitive and rough man. On the night before the fiftieth anniversary of Claudio, Mars, Earth and Jupiter are aligned and Claudio and Helena argue with each other at home and they speak at the same time \"If I were you\". On the next morning, when they wake-up, they have switched bodies and they have to face the difficulties of the other in the agency, in the school and with their friends and acquaintances."],
+      "budget": 0
+   },
+   "movielensId": 54491,
+   "movielens": {
+      "languages": ["Português"],
+      "releaseDate": "2006-01-06",
+      "dvdReleaseDate": null,
+      "directors": ["Daniel Filho"],
+      "runtime": 108,
+      "movieId": 54491,
+      "title": "If I Were You",
+      "mpaa": "",
+      "actors": [
+         "Tony Ramos",
+         "Glória Pires",
+         "Thiago Lacerda",
+         "Glória Menezes",
+         "Lavínia Vlasak",
+         "Danielle Winits",
+         "Maria Gladys",
+         "Ary Fontoura",
+         "Maria Ceiça",
+         "Mauricio Gonçalves",
+         "Leandro Hassum",
+         "Dennis Carvalho",
+         "Lara Rodrigues",
+         "Antonia Frering",
+         "Carla Daniel",
+         "Marcella Muniz",
+         "Mário José Paz",
+         "Patricia Pillar",
+         "Jorge Fernando",
+         "Helena Fernandes",
+         "Thomas Morkos",
+         "Agatha Aguiar",
+         "Barbara Paiva",
+         "Paulo Giardini",
+         "Jurandir de Oliveira",
+         "Aline Camacho",
+         "Ana Paula Vieira",
+         "Iano Salomão",
+         "Joana Nardelli",
+         "Rodrigo Oliveira",
+         "Raul Labancca",
+         "Daniel Filho"
+      ],
+      "imdbMovieId": "0448927",
+      "originalTitle": "Se eu fosse você",
+      "genres": ["Comedy"],
+      "youtubeTrailerIds": [],
+      "plotSummary": "The publicist Claudio and the housewife and choral teacher Helena have been married for many years, but they do not understand and respect the feelings and view point of the partner. Claudio sees Helena as a shopper and \"little teacher of a choral\" and Helena sees Claudio as an insensitive and rough man. On the night before the fiftieth anniversary of Claudio, they changed places with each other.",
+      "tmdbMovieId": 34588,
+      "avgRating": 3.10938,
+      "releaseYear": "2006",
+      "numRatings": 32,
+      "posterPath": "/pC9oT3flvYS0foCEqugkBJ6E2yE.jpg"
+   }
+}

@@ -1,0 +1,370 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "occult",
+            "id": 156174
+         },
+         {
+            "name": "short",
+            "id": 214549
+         }
+      ],
+      "imdb_id": "tt0066019",
+      "video": false,
+      "title": "Lucifer Rising",
+      "recommendations": [
+         46784,
+         42606,
+         126193,
+         118014,
+         126204,
+         104407,
+         146815,
+         111793,
+         95381,
+         97513,
+         125602,
+         48496,
+         126194,
+         57657,
+         126208,
+         147676,
+         126202,
+         143554,
+         146987,
+         69913
+      ],
+      "backdrop_path": "/qnMTDQzpVJ8H8RXaESB93KXNOGb.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "The Magus",
+               "gender": 2,
+               "credit_id": "52fe45cc9251416c9103ebd9",
+               "name": "Kenneth Anger",
+               "profile_path": "/gspoSoEjQSpBKBQx3g9frjFOM7f.jpg",
+               "id": 146964,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Himself",
+               "gender": 0,
+               "credit_id": "52fe45cc9251416c9103ebdd",
+               "name": "Bobby Beausoleil",
+               "profile_path": null,
+               "id": 543226,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "Osiris",
+               "gender": 0,
+               "credit_id": "52fe45cc9251416c9103ebe1",
+               "name": "Donald Cammell",
+               "profile_path": null,
+               "id": 543230,
+               "order": 2
+            },
+            {
+               "cast_id": 5,
+               "character": "Lilith",
+               "gender": 1,
+               "credit_id": "52fe45cc9251416c9103ebe5",
+               "name": "Marianne Faithfull",
+               "profile_path": "/sVWt2U1im7YZcCVlW6YF9RT5yZR.jpg",
+               "id": 19995,
+               "order": 3
+            },
+            {
+               "cast_id": 6,
+               "character": "Isis",
+               "gender": 0,
+               "credit_id": "52fe45cc9251416c9103ebe9",
+               "name": "Myriam Gibril",
+               "profile_path": null,
+               "id": 543231,
+               "order": 4
+            },
+            {
+               "cast_id": 7,
+               "character": "Main in Yellow Tunic",
+               "gender": 0,
+               "credit_id": "52fe45cc9251416c9103ebed",
+               "name": "Chris Jagger",
+               "profile_path": null,
+               "id": 543232,
+               "order": 5
+            },
+            {
+               "cast_id": 8,
+               "character": "Man Holding Stella of Revelation",
+               "gender": 2,
+               "credit_id": "52fe45cc9251416c9103ebf1",
+               "name": "Jimmy Page",
+               "profile_path": "/vYHUUeD8skosTDWFLRMBChDZQD8.jpg",
+               "id": 87463,
+               "order": 6
+            },
+            {
+               "cast_id": 9,
+               "character": "Adept",
+               "gender": 0,
+               "credit_id": "5798b563c3a368710f006587",
+               "name": "Haydn Couts",
+               "profile_path": null,
+               "id": 1657349,
+               "order": 7
+            },
+            {
+               "cast_id": 10,
+               "character": "Lucifer",
+               "gender": 0,
+               "credit_id": "5798b57392514101e100080b",
+               "name": "Leslie Huggins",
+               "profile_path": null,
+               "id": 1657350,
+               "order": 8
+            },
+            {
+               "cast_id": 11,
+               "character": "Chaos",
+               "gender": 0,
+               "credit_id": "5798b587c3a3687e2400082a",
+               "name": "Francis Rose",
+               "profile_path": null,
+               "id": 1657351,
+               "order": 9
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe45cc9251416c9103ebd5",
+               "name": "Kenneth Anger",
+               "profile_path": "/gspoSoEjQSpBKBQx3g9frjFOM7f.jpg",
+               "id": 146964,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5798b59492514141a30065f6",
+               "name": "Bobby Beausoleil",
+               "profile_path": null,
+               "id": 543226,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5798b59c92514118380036f8",
+               "name": "Chris O'Dell",
+               "profile_path": null,
+               "id": 1388441,
+               "department": "Crew",
+               "job": "Cinematography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5798b5a79251410152000798",
+               "name": "Kenneth Anger",
+               "profile_path": "/gspoSoEjQSpBKBQx3g9frjFOM7f.jpg",
+               "id": 146964,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5798b5b792514141a3006614",
+               "name": "Page Wood",
+               "profile_path": null,
+               "id": 1197946,
+               "department": "Art",
+               "job": "Art Department Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5798b5c29251410b5400416f",
+               "name": "Wally Veevers",
+               "profile_path": null,
+               "id": 13494,
+               "department": "Crew",
+               "job": "Special Effects"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Mystery",
+            "id": 9648
+         },
+         {
+            "name": "Fantasy",
+            "id": 14
+         }
+      ],
+      "popularity": 1.750097,
+      "production_countries": [
+         {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+         },
+         {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+         },
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         }
+      ],
+      "id": 36096,
+      "vote_count": 26,
+      "budget": 0,
+      "overview": "Lucifer Rising is a short film by director Kenneth Anger. The film was completed in 1972 and starred British singer Marianne Faithfull, but only widely distributed in 1980. The film's soundtrack was composed by Bobby Beausoleil.",
+      "similar": [
+         11970,
+         805,
+         812,
+         10020,
+         9479,
+         12092,
+         9016,
+         622,
+         675,
+         3933,
+         752,
+         140607,
+         52520,
+         158852,
+         561,
+         10882,
+         41513,
+         10693,
+         75612,
+         460793
+      ],
+      "original_title": "Lucifer Rising",
+      "runtime": 29,
+      "poster_path": "/A2bR7jP1QI6cFYGh0AmAG01RxGg.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Vaughan Films",
+            "id": 79775,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "British Film Finance",
+            "id": 79776,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Norddeutscher Rundfunk (NDR)",
+            "id": 7201,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Puck Film Productions",
+            "id": 50382,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1974-04-10",
+      "vote_average": 7.2,
+      "belongs_to_collection": {
+         "backdrop_path": null,
+         "name": "The Magick Lantern Cycle",
+         "id": 53043,
+         "poster_path": "/zvxHgzOCyjI7uMoVkQF07zxOz7J.jpg"
+      },
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Kenneth Anger"],
+      "runtime": 29,
+      "synopsis": null,
+      "writers": [],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0066019/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjA2NjQxODg2NF5BMl5BanBnXkFtZTcwNjgyODgyMw@@._V1_SY317_CR51,0,214,317_AL_.jpg",
+      "actors": ["Stars: Kenneth Anger, Bobby Beausoleil, Donald Cammell | See full cast and crew »"],
+      "reviews": [
+         "Far removed from the 'satanic panic' of 1969's Invocation of My Demon Brother, and closer to the imagery, motifs and ideas of his earlier short Inauguration of the Pleasure Dome, Lucifer Rising finds the infant terrible of the hippie counterculture once again dabbling in the occult, the mystical and the mythological, only this time, with a clear, focused and assured approach. Gone are the frantic superimpositions and chaotic editing. Lucifer Rising is for the most part cleanly edited, more refined in the selection of images and more carefully constructed than its predecessors. It sees Anger harnessing his delirious side in the service of a certain film-making finesse, without losing any of his symbolic potency. What other proof is there that this is Anger at his most professional when he even uses tracking shots in some instances! What next, professional actors? A Crowley-esquire view of ancient Egypt then, with Lucifer as the bringer of Light, touching themes of death and rebirth, Lucifer Rising may lack the visceral, hypnotic madness of its predecessor but makes up for it with an air of spellbinding psychedelia.",
+         "Among the 1960's counterculture philosophy of moral liberation, free-love, and flower-power utopianism were dark stirrings which came to a malignant fruition with the Rolling Stones' disastrous Altamont festival and the Tate/LaBianca slayings courtesy of Charles Manson's \"family\", thus bringing the fledgling Aquarian age to an abrupt end. And what, you may ask, has any of this to do with 'Lucifer Rising'? And well, the answer, is everything(!) as the 1960s were essentially an unconscious mass evocation of English Occultist Aleister Crowley's oft misunderstood maxim \"Do what thou wilt shall be the whole of the law\"...and no other figure has done more to promote the name and work of Crowley in the arena of popular culture than Kenneth Anger. Fascinated by fame (especially its darker aspects) from an early age, Anger had long been a fringe figure in Hollywood making and independently distributing obscure, homo-erotic, and occult inspired works that eventually attracted Their Satanic Majesties themselves the Rolling Stones. Anger was attracted to the power and pop-culture shamanic potency wielded by rock stars, and none more so than Mick Jagger who, hard as it is to believe these days, was back then viewed by parents and moral guardians as an androgynous, drug-addled threat to society. Perfect casting then, Anger reasoned, to play the part of Lucifer in his Magnum Opus 'Lucifer Rising'. In the end Jagger chickened out, eventually leaving the role to be played by unknown Leslie Huggins. However, despite the lead role being played by an unknown, the film still boasts Donald Cammell (writer/director of 'Performance') as Osiris and Marianne Faithful as Lilith who play out a bizarre archetypal psychodrama against stunning backdrops of giant statues in Egypt, including, most evocatively, the Sphinx. Originally, the soundtrack was to be composed by Led Zeppelin guitarist, and fellow Crowley devotee, Jimmy Page (who puts in a blink-and-you'll-miss-him cameo) but owing to contractual obligations with Led Zeppelin he was only able to complete 22 minutes worth of material and was subsequently fired from the project following a bitter fallout with Anger. Eventually the soundtrack was composed by Manson \"family\" member Bobby Beausoleil (Anger's original choice for the role of Lucifer but who had a disagreement with Anger and buried the original print of the movie in the Death Valley desert forcing Anger to reshoot the film) whilst serving a prison sentence for his part in the murders performed under the orders of the counterculture anti-messiah Charles Manson. The soundtrack itself is part chilling, haunting soundscape and part dynamic quasi-classical rock opus which has a magnetic and spellbinding quality which complements the film in a way impossible to imagine from any other composition. So, all told, 'Lucifer Rising' is more than a short film, and more than a work of art�even though the film is an exemplary example of both. However, more than these, it is the tortured result of a labour of love more than a decade long (filming began in 1966 yet was only finally released in 1980) which serves as a curious post-script to an era of fervent creativity in music, film, and art as well as being a curious admonition to those that seek unadulterated spiritual and moral exploration in the name of \"Do what thou wilt\" that with such potent virtues come all-encompassing costs.",
+         "So if you've seen Inauguration of the Pleasure Dome, Scorpio Rising, and Invocation of My Demon Brother, you'll know what to expect in Lucifer Rising, right? WRONG. Anger got his hands on some special effects, film printing, and new film stock footage, and made something unique in his own oeuvre, not to mention basically unparalleled anywhere else in the history of cinema. Starting with some bubbling cauldrons in the form of active volcanoes, he goes through a short tour of some of the world's most famous pagan areas of worship (Egyptian pyramids, Stonehenge, etc.) and, with some mightily skillful transitioning, turns the world into a vessel for the ... well... Rising of said Lucifer. This goes on for a while, gaining momentum and getting ever the more abstract as peoples from different nations and settings join in the festivities, until aliens appear. No, literally. It's all in the creation of a new symbol that represents Dr. Anger himself, a sort of sigil that you can see printed on some of his movies and recently on the Films of Kenneth Anger compilations. What's spectacular here is the color. Anger turns some of the color hues and tones you associate with tarot cards and brightly painted Satanism (as opposed to the darker, more firey stuff) and makes an entire movie out of that sense of primaries and contrasts. In doing so, he successfully recreates an entire new world, one that you explore visually and viscerally with him. Kudos goes to the guy who did the soundtrack (I forget his name) for matching that sense of color and space in the music, their cooperation turning the entire movie into a psychedelic awakening into Anger's own spiritual beliefs. It's like getting sucked into a religious demonstration without intending to, and for those who find Anger's belief remiss, this movie can be horrifying. Otherwise, for those just interested in his own idiosyncratic view of the world, Lucifer Rising is a coming-into-his-own unmatched and unexpected by his previous work. Also features Donald Cammell who, like Anger, made a darker-side-of-counterculture movie with Mick Jagger, called Performance. With Marianne Faithful and Jimmy Page, Anger certainly pulled together a unique collaboration here.",
+         "How can I truly describe this film without giving away any spoiling details? Well let me see to begin with I will go into what commonly (in my perspective) qualifies as a movie these days. Normally something that is out of the ordinary and eye catching is a good plus; don't forget something with some sort of mysterious element that makes viewers want more. Most importantly is the ability for a movie to peak interest just upon seeing a clip of it. Kenneth Anger's \"Lucifer Rising\" definitely meets these qualities head on and goes beyond them. I find it saddening that a few people are incapable of seeing the pure art presented here but alas to each their own. What is perhaps more saddening is the state the film industry is in today; we have countless movies being made out of 3D effects and action laced scenes of dramatized color. There is no soul to some music anymore some say and the same can be said about the film industry. I gave this film a 10 out of 10 because it carries every aspect of mystique and mystery anyone interested in these premises could hope for. There is a definitive occult inspired quality to the film, the soundtrack is phenomenal (I began to tear up towards the end due to the music fused with the wonderful imagery, I won't spoil the details, see for yourself). How long has it been since you last saw a movie that not only made you want to feel and think but outright FORCED you to!? These days thinking and feeling a connection to a movie's characters is optional but this film reflects just the opposite. There is no way around connecting to every character present in this film; dialog isn't even needed to do so, simple proof that humanity can convey a message better without word and instead with pure imagination. Is it any wonder that ancient civilizations used symbols and carvings in their culture to capture the attention of others? This film goes beyond the human into the mystical then back into the human world once more. This film feels like it is, in itself, a spiritual experience of some sort, perhaps something simply on the human level. If you have not seen this film yet then all I can say is see it. Light a candle, sit in the dark, turn up your speakers, play the film. Despite being only a half hour long the movie doesn't need much more than that to truly capture the attention of your eyes (all 3 of them); you may find your heart swelling with life as well in pure connection to the emotion put into this that is beyond description. See for yourself why don't you? Overall this film is timeless in every manner.Oh and I should also mention I was born fairly recent into the \"newer\" generation, in fact 18 years after this film was made. You'd think someone in my age group would not even know this film existed but I have the greatest respect for what Anger and Page, in fact, what every person behind this work accomplished. As much as I'd love to give more specific details I feel this film is too unique to be perfectly described with simple words.",
+         "Entertaining, slow moving, insightful, and sometimes shocking fourth installment to the Kenneth Anger short film collection; it possesses all these attributes, as well as being influential to experimental directors of today. A lot of what Anger was doing in \"Invocation of My Demon Brother\" (film layers, fast edits, bizarre soundtracks) can be seen in most of the music videos on MTV; a characteristic that has driven parents, as well as teenagers, crazy. The primary source of these ideas came from the Acid Trip footage, extensively explicated in Tom Wolfe's lysergic-fused biographical novel, \"The Electric Kool-Aid Acid Test.\" Nevertheless, the idea caught on and Anger utilized the technique to the fullest in \"Demon Brother,\" counterweighted by an equivocal tape-loop supplied by Mick Jagger. In the second film \"Lucifer Rising,\" Anger had already developed his experimentation with edits and layers, this time presenting a more formalized run to the film. Marianne Faithful makes an appearance in the film, as well as an assortment of 60's notables, which includes Manson family member Bobby Beausoleil who also wrote the film's score. Altho not Anger's best volume, (Scorpio Rising is the better) it still has many elements -- as I explained -- that will turn some people on; ergo, a cult following.",
+         "Of all the shorts directed by Kenneth Anger, this has to be my favorite one. This was a way more ambitious work, filled with lots of complex symbolism and allegories, taking several elements from different mythologies in order to create something unique and incredibly fascinating. While in some ways, \"Lucifer Rising\" somewhat reminded me the films of Alejandro Jodorowsky (Particularly, \"The Holy Mountain\") there are still some notorious differences between those two artistic creations, being both very good and memorable movie watching experiences. In my opinion, this is a wonderful short, having a mysterious and captivating quality that makes it a timeless experience, impossible to forget.",
+         "\"Lucifer Rising\" is without a doubt one of the trademark films of director Kenneth Anger, even if it not even half an hour long. There's no doubt that the today 86-year old-filmmaker really shows a very unique approach in almost all his works. However, I have to say that \"Lucifer Rising\" could not wow me the way I hoped it would. While it's occasionally breathtakingly beautiful and visually impressive from start to finish, most of the other aspects were rather disappointing. And that includes especially the soundtrack. i'm not sure why Anger decided to let convicted murderer Bobby Beausoleil do the job. Maybe it was his background history and he hoped to add a bit of controversy this way to the movie. However, he really shouldn't have gone for a guy which has never scored a film before and with whom cooperation will be difficult due to him being in jail and how he can't just come over to work on the matter together. They say the best soundtrack is the one you don't even perceive while watching a film. I clearly perceived this one and mostly not in a good way. My favorite part of the film was, without a doubt the first sequence. It includes the stunning Myriam Gibril, who sadly almost did no further movie work at all afterward contrary to her co-star Marianne Faithful, as Isis, a perfect casting decision and her longtime partner Donald Cammell as Osiris. Both are perfectly cast for their respective characters. While the cinematography in this short film is magnificent, as mentioned earlier, also most of the costumes, mainly including Isis' and Osiris dresses, and set decorations couldn't have been much better. I'd recommend to watch the first sequence, which I'd definitely recommend, and, then decide for yourself if it's worth going on.",
+         "If you are a friend of Kenneth Anger or are into ancient religions and the works of Aleister Crowley, then this film is for you. Or, if you've suffered a massive head injury or have done some LSD, then this film ALSO is for you. Otherwise, I just can't imagine anyone enjoying this very self-indulgent film. This film is inexplicable and according to Kenneth Anger's commentary track, it isn't up to the actors (and audience) to understand the meaning of the film--he understands it. The film consists of lots of ancient Egyptian gods walking about the desert, gods walking about ancient German ceremonial rocks, a lot of nudes and a final shot of a UFO flying over the ancient Egyptian ruins. As I watched this and listened to Anger's commentary, I was amazed that he was able to get a lot of people to get involved with this bizarre little art film/recruitment poster for the Aleister Crowley fan club. In fact, I watched all the films with the commentary track on and this is the only one in which I doubted the speaker's sanity. His talk about one person in the film being a living demon in human form (he was serious about this), the 911 conspiracy and his tales about UFOs was all rather disturbing...but also quite funny--making this very tedious and self-indulgent film a lot more enjoyable.",
+         "This like Warhol's stuff is so dated and boring that it's pathetic. It is college cinema 101 stuff all the way, with perhaps a better soundtrack. Clichéd images culled from Aleister Crowley's tired ritual magick shtick are interspersed with some stock nature footage. The pulsing psychedelic soundtrack is c-grade but that's better than the low rent cheesy film making. Crowley's beliefs traced a supposed path back through ancient Egyptian mysticism, culminating in his belief in the death of the age of Christ and the beginning of the Age of Horus brought about by Crowley's revelation of the golden dawn of his thelemic system. Seemed really cool to the young pot-head counterculturals and durn it...a couple of them played along with Kenneth Anger when he brought a camera by. bang your head against a wall for ten minutes, it is a more rewarding experience than sitting in the muck and dreck. Thumbs down"
+      ],
+      "genres": [
+         "Short",
+         "Fantasy"
+      ],
+      "productionCompanies": [
+         "British Film Finance",
+         "Norddeutscher Rundfunk (NDR)",
+         "Puck Film Productions"
+      ],
+      "summaries": ["Egyptian gods summons the angel Lucifer - in order to usher in a new occult age."],
+      "budget": 0
+   },
+   "movielensId": 100731,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1974-04-10",
+      "dvdReleaseDate": null,
+      "directors": ["Kenneth Anger"],
+      "runtime": 29,
+      "movieId": 100731,
+      "title": "Lucifer Rising",
+      "mpaa": "",
+      "actors": [
+         "Kenneth Anger",
+         "Bobby Beausoleil",
+         "Donald Cammell",
+         "Marianne Faithfull",
+         "Myriam Gibril",
+         "Chris Jagger",
+         "Jimmy Page",
+         "Haydn Couts",
+         "Leslie Huggins",
+         "Francis Rose"
+      ],
+      "imdbMovieId": "0066019",
+      "originalTitle": "Lucifer Rising",
+      "genres": [
+         "Mystery",
+         "Fantasy"
+      ],
+      "youtubeTrailerIds": [],
+      "plotSummary": "Lucifer Rising is a short film by director Kenneth Anger. The film was completed in 1972 and starred British singer Marianne Faithfull, but only widely distributed in 1980. The film's soundtrack was composed by Bobby Beausoleil.",
+      "tmdbMovieId": 36096,
+      "avgRating": 3.73684,
+      "releaseYear": "1974",
+      "numRatings": 19,
+      "posterPath": "/A2bR7jP1QI6cFYGh0AmAG01RxGg.jpg"
+   }
+}

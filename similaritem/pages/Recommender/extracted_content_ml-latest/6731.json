@@ -1,0 +1,731 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "florida",
+            "id": 1196
+         },
+         {
+            "name": "insanity",
+            "id": 6255
+         },
+         {
+            "name": "disembodied head",
+            "id": 10478
+         },
+         {
+            "name": "zombie",
+            "id": 12377
+         },
+         {
+            "name": "disembowelment",
+            "id": 18086
+         },
+         {
+            "name": "horror movie remade",
+            "id": 41667
+         },
+         {
+            "name": "living dead",
+            "id": 157351
+         },
+         {
+            "name": "zombie apocalypse",
+            "id": 186565
+         },
+         {
+            "name": "florida everglades",
+            "id": 214996
+         }
+      ],
+      "imdb_id": "tt0088993",
+      "video": false,
+      "title": "Day of the Dead",
+      "recommendations": [
+         923,
+         10331,
+         13025,
+         10925,
+         19185,
+         11683,
+         1694,
+         29426,
+         7219,
+         11797,
+         24920,
+         16281,
+         16288,
+         14029,
+         765,
+         790,
+         763,
+         24929,
+         9638,
+         8852
+      ],
+      "backdrop_path": "/pWaXoU1aqD2KpMVLt4E9ZmKQXIk.jpg",
+      "revenue": 34000000,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Sarah",
+               "gender": 0,
+               "credit_id": "52fe44a5c3a36847f80a20db",
+               "name": "Lori Cardille",
+               "profile_path": "/8krsgZ2Hc6BeRr1Ghmb6K5WEm7e.jpg",
+               "id": 54853,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "John",
+               "gender": 0,
+               "credit_id": "52fe44a5c3a36847f80a20df",
+               "name": "Terry Alexander",
+               "profile_path": "/uao9PqvUYOiJPoGbMxL0DmKqna4.jpg",
+               "id": 54854,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Captain Rhodes",
+               "gender": 2,
+               "credit_id": "52fe44a5c3a36847f80a20e3",
+               "name": "Joseph Pilato",
+               "profile_path": "/6rlSP8oxYygfjri8beGlFLDxSy1.jpg",
+               "id": 54855,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "William McDermott",
+               "gender": 2,
+               "credit_id": "52fe44a5c3a36847f80a20e7",
+               "name": "Jarlath Conroy",
+               "profile_path": "/azAslEkvpXkTviBokJDV9ecAbBO.jpg",
+               "id": 54856,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Pvt. Miguel Salazar",
+               "gender": 0,
+               "credit_id": "52fe44a5c3a36847f80a20eb",
+               "name": "Anthony Dileo Jr.",
+               "profile_path": "/7OncpJedyfGZTzSmVoeXC2Trpqv.jpg",
+               "id": 54857,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Dr. Logan",
+               "gender": 2,
+               "credit_id": "52fe44a5c3a36847f80a20ef",
+               "name": "Richard Liberty",
+               "profile_path": null,
+               "id": 54858,
+               "order": 5
+            },
+            {
+               "cast_id": 7,
+               "character": "Bub",
+               "gender": 2,
+               "credit_id": "52fe44a5c3a36847f80a20f3",
+               "name": "Sherman Howard",
+               "profile_path": "/x722T5hnCqS0y9AO7vdIqIBYgIz.jpg",
+               "id": 54859,
+               "order": 6
+            },
+            {
+               "cast_id": 16,
+               "character": "Steel",
+               "gender": 0,
+               "credit_id": "52fe44a5c3a36847f80a2121",
+               "name": "Gary Howard Klar",
+               "profile_path": "/evmHi96cDCtPSIcQBrDU7OnksTb.jpg",
+               "id": 994134,
+               "order": 7
+            },
+            {
+               "cast_id": 17,
+               "character": "Rickles",
+               "gender": 2,
+               "credit_id": "52fe44a5c3a36847f80a2125",
+               "name": "Ralph Marrero",
+               "profile_path": "/gVMT3MoJlNXhRPxatDTXCRFHxHn.jpg",
+               "id": 170150,
+               "order": 8
+            },
+            {
+               "cast_id": 18,
+               "character": "Fisher",
+               "gender": 0,
+               "credit_id": "52fe44a5c3a36847f80a2129",
+               "name": "John Amplas",
+               "profile_path": "/ikLsiyNsmWiqRxXH58Xcf42LIkg.jpg",
+               "id": 15057,
+               "order": 9
+            },
+            {
+               "cast_id": 19,
+               "character": "Miller",
+               "gender": 0,
+               "credit_id": "52fe44a5c3a36847f80a212d",
+               "name": "Phillip G. Kellams",
+               "profile_path": null,
+               "id": 1090356,
+               "order": 10
+            },
+            {
+               "cast_id": 20,
+               "character": "Torrez",
+               "gender": 0,
+               "credit_id": "52fe44a5c3a36847f80a2131",
+               "name": "Taso N. Stavrakis",
+               "profile_path": "/eCNJTH4h2a55KKuX2EllpFVy21w.jpg",
+               "id": 107373,
+               "order": 11
+            },
+            {
+               "cast_id": 21,
+               "character": "Johnson",
+               "gender": 2,
+               "credit_id": "52fe44a5c3a36847f80a2135",
+               "name": "Gregory Nicotero",
+               "profile_path": "/tbSRk7j0hYlBWWX7QrjdOXeiMpW.jpg",
+               "id": 59287,
+               "order": 12
+            },
+            {
+               "cast_id": 22,
+               "character": "Featured Zombie",
+               "gender": 0,
+               "credit_id": "52fe44a5c3a36847f80a2139",
+               "name": "Don Brockett",
+               "profile_path": "/pgBUJ6jnk3wS3ByG9mOl0JcQUKW.jpg",
+               "id": 31118,
+               "order": 13
+            },
+            {
+               "cast_id": 23,
+               "character": "Featured Zombie",
+               "gender": 0,
+               "credit_id": "52fe44a5c3a36847f80a213d",
+               "name": "William Cameron",
+               "profile_path": null,
+               "id": 1090362,
+               "order": 14
+            },
+            {
+               "cast_id": 25,
+               "character": "Featured Zombie",
+               "gender": 0,
+               "credit_id": "5910ea59c3a36864d40399ea",
+               "name": "Deborah Carter",
+               "profile_path": null,
+               "id": 1813083,
+               "order": 15
+            },
+            {
+               "cast_id": 26,
+               "character": "Featured Zombie",
+               "gender": 0,
+               "credit_id": "5910ea83c3a368646b03b924",
+               "name": "Winnie Flynn",
+               "profile_path": null,
+               "id": 1813084,
+               "order": 16
+            },
+            {
+               "cast_id": 27,
+               "character": "Featured Zombie",
+               "gender": 1,
+               "credit_id": "5910eac89251414edb038a65",
+               "name": "Debra Gordon",
+               "profile_path": "/wTQjf2atFRwhs1JO7uL9xhiuEk3.jpg",
+               "id": 96021,
+               "order": 17
+            },
+            {
+               "cast_id": 28,
+               "character": "Featured Zombie",
+               "gender": 0,
+               "credit_id": "5910eae89251414eca03654f",
+               "name": "Jeff Hogan",
+               "profile_path": null,
+               "id": 1813087,
+               "order": 18
+            },
+            {
+               "cast_id": 29,
+               "character": "Featured Zombie",
+               "gender": 0,
+               "credit_id": "5910ebdac3a368650a0365b5",
+               "name": "Barbara Holmes",
+               "profile_path": null,
+               "id": 1813088,
+               "order": 19
+            },
+            {
+               "cast_id": 30,
+               "character": "Featured Zombie",
+               "gender": 0,
+               "credit_id": "5910ec38c3a36864a70370a2",
+               "name": "David Kindlon",
+               "profile_path": null,
+               "id": 1419418,
+               "order": 20
+            },
+            {
+               "cast_id": 31,
+               "character": "Featured Zombie",
+               "gender": 2,
+               "credit_id": "5910ec659251414eca036660",
+               "name": "Bruce Kirkpatrick",
+               "profile_path": "/1eMcIjb8YEKlRFuOK9Eors23RAC.jpg",
+               "id": 1217615,
+               "order": 21
+            },
+            {
+               "cast_id": 32,
+               "character": "Featured Zombie",
+               "gender": 0,
+               "credit_id": "5910eca79251414edb038b81",
+               "name": "'Wild Bill' Laczko",
+               "profile_path": null,
+               "id": 1813093,
+               "order": 22
+            },
+            {
+               "cast_id": 33,
+               "character": "Featured Zombie",
+               "gender": 0,
+               "credit_id": "5910eccfc3a36864c60380b2",
+               "name": "Susan Martinelli",
+               "profile_path": null,
+               "id": 1813094,
+               "order": 23
+            },
+            {
+               "cast_id": 34,
+               "character": "Featured Zombie",
+               "gender": 0,
+               "credit_id": "5910ed8dc3a36865190345c1",
+               "name": "Kim Maxwell",
+               "profile_path": null,
+               "id": 1813098,
+               "order": 24
+            },
+            {
+               "cast_id": 35,
+               "character": "Featured Zombie",
+               "gender": 0,
+               "credit_id": "5910edb69251414e8503882f",
+               "name": "Barbara Russell",
+               "profile_path": null,
+               "id": 1766863,
+               "order": 25
+            },
+            {
+               "cast_id": 36,
+               "character": "Featured Zombie",
+               "gender": 0,
+               "credit_id": "5910edd89251414ead0360e6",
+               "name": "Gene A. Saraceni",
+               "profile_path": null,
+               "id": 1813099,
+               "order": 26
+            },
+            {
+               "cast_id": 37,
+               "character": "Featured Zombie",
+               "gender": 0,
+               "credit_id": "5910ee13c3a36864fc037e03",
+               "name": "John D. Schwartz",
+               "profile_path": null,
+               "id": 1452428,
+               "order": 27
+            },
+            {
+               "cast_id": 38,
+               "character": "Featured Zombie",
+               "gender": 0,
+               "credit_id": "5910ee38c3a36864ec034b23",
+               "name": "Mark Tierno",
+               "profile_path": "/tCupPNmJVkiWzuE1XUXUAFEmA8s.jpg",
+               "id": 1464484,
+               "order": 28
+            },
+            {
+               "cast_id": 39,
+               "character": "Featured Zombie",
+               "gender": 0,
+               "credit_id": "5910ee7bc3a36864c60381a7",
+               "name": "Mike Trcic",
+               "profile_path": null,
+               "id": 1203390,
+               "order": 29
+            },
+            {
+               "cast_id": 40,
+               "character": "Featured Zombie",
+               "gender": 0,
+               "credit_id": "5910eef29251414e80038a49",
+               "name": "John Vulich",
+               "profile_path": null,
+               "id": 91319,
+               "order": 30
+            },
+            {
+               "cast_id": 41,
+               "character": "Mustachioed Zombie biting Rickles' fingers off (uncredited)",
+               "gender": 0,
+               "credit_id": "5910ef869251414e8d036e7a",
+               "name": "Joe Abeln",
+               "profile_path": null,
+               "id": 1813102,
+               "order": 31
+            },
+            {
+               "cast_id": 42,
+               "character": "2nd Dirty Pink Collared Shirted Zombie chasing Steel (uncredited)",
+               "gender": 0,
+               "credit_id": "5910efb09251414e8503895f",
+               "name": "Terry Adams",
+               "profile_path": null,
+               "id": 1813103,
+               "order": 32
+            },
+            {
+               "cast_id": 43,
+               "character": "Mine Zombie Chasing Steel (uncredited)",
+               "gender": 0,
+               "credit_id": "5910efe59251414e92038bbf",
+               "name": "Al Anderson",
+               "profile_path": null,
+               "id": 1813104,
+               "order": 33
+            },
+            {
+               "cast_id": 44,
+               "character": "Mine Zombie Chasing Steel (uncredited)",
+               "gender": 0,
+               "credit_id": "5910f0159251414e92038bd9",
+               "name": "Tom Ardolino",
+               "profile_path": null,
+               "id": 1389928,
+               "order": 34
+            },
+            {
+               "cast_id": 45,
+               "character": "Zombie Feasting on Fisher's Dead Body (uncredited)",
+               "gender": 0,
+               "credit_id": "5910f02f9251414eca0368cb",
+               "name": "Vini Bancalari",
+               "profile_path": null,
+               "id": 1813105,
+               "order": 35
+            },
+            {
+               "cast_id": 46,
+               "character": "Spinaround Cave Zombie Shot by John (uncredited)",
+               "gender": 0,
+               "credit_id": "59160bc7925141061e01aee1",
+               "name": "Howard Berger",
+               "profile_path": "/fz0Z8ia0Iaq4SS6NfVAcFIAeU2F.jpg",
+               "id": 107372,
+               "order": 36
+            },
+            {
+               "cast_id": 47,
+               "character": "Surgeon Zombie in Cave (uncredited)",
+               "gender": 2,
+               "credit_id": "59160c9192514156f502384b",
+               "name": "Everett Burrell",
+               "profile_path": "/45ASV2LWZD6u3pXb7qeOiRk8yT8.jpg",
+               "id": 104044,
+               "order": 37
+            },
+            {
+               "cast_id": 49,
+               "character": "Zombie with Yellow Apron (uncredited)",
+               "gender": 2,
+               "credit_id": "59160dcec3a368371b013af1",
+               "name": "Gary Jones",
+               "profile_path": "/uObErInyLGB318tYXdwirotz8Ts.jpg",
+               "id": 1636797,
+               "order": 39
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe44a5c3a36847f80a20f9",
+               "name": "George A. Romero",
+               "profile_path": "/zNP7wdy48eNNJAAmM0pYbSelUAd.jpg",
+               "id": 14999,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44a5c3a36847f80a20ff",
+               "name": "George A. Romero",
+               "profile_path": "/zNP7wdy48eNNJAAmM0pYbSelUAd.jpg",
+               "id": 14999,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44a5c3a36847f80a2105",
+               "name": "Richard P. Rubinstein",
+               "profile_path": null,
+               "id": 15000,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44a5c3a36847f80a210b",
+               "name": "Michael Gornick",
+               "profile_path": null,
+               "id": 15056,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44a5c3a36847f80a2111",
+               "name": "Pasquale Buba",
+               "profile_path": null,
+               "id": 15840,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44a5c3a36847f80a2117",
+               "name": "Salah M. Hassanein",
+               "profile_path": null,
+               "id": 69888,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44a5c3a36847f80a211d",
+               "name": "John Harrison",
+               "profile_path": "/bmogagcO9xpaxYFV2kHvFAcxWo2.jpg",
+               "id": 13367,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 1,
+               "credit_id": "53a06a410e0a265079003043",
+               "name": "Christine Forrest",
+               "profile_path": null,
+               "id": 100507,
+               "department": "Production",
+               "job": "Casting"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Horror",
+            "id": 27
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         }
+      ],
+      "popularity": 8.010953,
+      "production_countries": [
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         },
+         {
+            "iso_3166_1": "JP",
+            "name": "Japan"
+         }
+      ],
+      "id": 8408,
+      "vote_count": 355,
+      "budget": 3500000,
+      "overview": "The final chapter of George A. Romero's \"Dead Trilogy\". In an underground government installation they are searching for a cure to overcome this strange transformation into zombies. Unfortunately, the zombies from above ground have made their way into the bunker.",
+      "similar": [
+         10925,
+         485415,
+         11429,
+         24920,
+         1562,
+         72190,
+         170,
+         19908,
+         294254,
+         336843,
+         82654,
+         766,
+         16288,
+         769,
+         24935,
+         923,
+         21588,
+         1694,
+         16281,
+         24929
+      ],
+      "original_title": "Day of the Dead",
+      "runtime": 96,
+      "poster_path": "/yJ2emwXWwQc6VHW3fO4GZr0hXBt.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Dead Films",
+            "id": 2482,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Laurel Entertainment",
+            "id": 2483,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Toei",
+            "id": 5822,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1985-07-19",
+      "vote_average": 6.9,
+      "belongs_to_collection": {
+         "backdrop_path": "/inPPfnJ9Wzc9rg1MpkPm0P3D9rJ.jpg",
+         "name": "Living Dead Collection",
+         "id": 261590,
+         "poster_path": "/mSJ20RTWWgtt3aTyn1iwNZ9fbYl.jpg"
+      },
+      "tagline": "The darkest day of horror the world has ever known.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["George A. Romero"],
+      "runtime": 96,
+      "synopsis": "Restless and alone in a brick-paved cubicle, Sarah sees a calendar before her on the wall. It is the month of October and every day is crossed out. While gazing at the image of a pumpkin patch, a dozen decayed arms punch through the wall clutching at her.... She wakes from this surreal horror in the back of a helicopter. She's reminded she is living a real nightmare, looking down over a deserted Florida city, in which they land near an abandoned harbor. She is part of a team searching for survivors of a gruesome crisis that began almost a year earlier. Something that started mysteriously and eventually collapsed human civilization. Her sometimes lover Miguel, an overworked and nerve-wracked soldier, calls for survivors on a bullhorn as they stand on the edge of the street of this now decaying town. Amid the scattered palm fronds, a newspaper blows in the death-scented wind near an early century federal building. It's big bold headline: THE DEAD WALK! (possibly one of the last papers ever printed). The unburied and/or recently dead have returned to life. Attacking humans to devour their flesh, most of them becoming zombies, thus adding to their population. No scientist-no army, could contain or cure it. Now the only living things are the alligators, tarantulas and land crabs that scavenge remains in the streets of this city of the living dead. The hundreds of wailing hordes of dead humans turn towards the bullhorn calls and en masse, march toward the survivors instinctively like cattle, forcing the team to head back to their sanctuary. The helicopter lands almost out of gas inside the military compound surrounded by wire fence. An army of the living dead have managed to find the post and surround the entrance gates, their numbers growing every day. Two more soldiers help secure the chopper, giving their new past times an afternoon break: Johnson, who reads the last issues of porno magazines while Torrez grows gardens of marijuana plants. John, the calm Jamaican pilot and his flask-swilling Irish buddy Bill McDermott are anxious to get on the elevator but not before urging the soldiers to fill the chopper up with gas. Sarah notices Miguel's becoming increasingly stressed and despondent. He hasn't gotten out of the chopper yet and apparently wasn't aware they even landed. They descend into the underground sanctuary Seminole Storage Facility, where they will not see sunlight again for days. Miller is another military officer waiting below for results of the team's search. This time he can tell it was another waste of time. Everyone has to stay in the cold, lonely, clinical white cubicles of the complex while John and Bill choose to stay in one of the Winnebagos stored near the barricades. These are the corrals leading to miles and miles of caves occupied by bats... and specimen zombies, collared at an earlier time by the government. Major Cooper, the commanding officer who died earlier that morning, was buried above the complex near five other graves of men the unit has lost (four soldiers and one civilian scientist). The men had been lost to the dangers of capturing the hostile specimen zombies corralled from the caves. Sarah and her group meet Privates Steel and Rickles who are now in charge of the zombie corralling as Dr. Logan has requested two more guinea pig zombies for his experiments. Sarah and Miguel are asked by the two soldiers to go along with them. Though tired from the 24-hour search mission, they agree and off they go into the caves in the golf cart towards the corral. At the corral capturing pen, Steel and Rickles both sexually harass Sarah verbally before the shell-shocked Miguel, who is of course, oblivious. Then Steel, making his sexism clearer than ever refuses to have Sarah handle the capture and Miguel defiantly takes on the dangerous task to prove himself. He loses control of a particularly excited female specimen jeopardizing the lives of all involved. Sarah manages to re-snare the female zombie before it can bite Rickles. The hot-tempered Steel, enraged that his buddy Rickles was almost lost because of his actions, grabs Miguel, forcing him into the clutches of a caged zombie. Sarah orders him to let him go aiming her Uzi as a possible consequence. After all is said and done, two more specimens are brought back to the lab for study. Miguel is sedated by Sarah in his room, while he uncontrollably berates her. In the dining hall, Dr. Ted Fisher pleads for sterile equipment to conduct proper tests on the specimens. He discusses this with the hostile Captain Rhodes, now in charge, who is also beginning to question the research that has been going on in the months the team has been sharing the facility. Throughout the day, Dr. Matthew Logan, derisively called \"Frankenstein\" by the soldiers, works on captured specimens, vivisecting the ghouls' chests and removing their organs. When Sarah enters his dark operating theatre to inform him of the meeting Rhodes has scheduled, he excitedly explains that the dead do not eat flesh out of hunger, but rather motor instinct. Another corpse is under a sheet. Logan reveals this one to be only a body with its face carved away leaving only the brain exposed. With electrodes leading to a machine, Logan begins shocking the corpse back to momentary life. Sarah notices Major Cooper's fatigues on the floor. Logan confesses the faceless body is Cooper's corpse and that he had switched it with a specimens for burial. He wanted a fresh corpse, believing his studies could be furthered. Captain Rhodes holds a 7:00 pm meeting with the remaining 12 of the group. Frustrated that he has already lost five soldiers while capturing the dangerous specimens for their \"research\" Rhodes makes threats to shut the operation down during the meeting in the dining hall. He is aware that the unit is low on ammo, food, medical supplies and now his own men. McDermott explains that his radio equipment is outdated and this makes the soldiers think that there may indeed be survivors but that they are out of radio signal range. When Sarah gets up to leave in the middle of bickering between Steel and McDermott, Rhodes threatens to have her shot. In fact he announces anyone who challenges his orders will be shot. None of this is taken seriously by the scientists who have gotten used to threats and the soldiers' depraved harassment. Later on, Sarah finds herself unable to sleep on the floor of the cubicle as Miguel lays in bed. By now he must be awake. He leans over and his whole chest has been surgically opened and as he turns toward her, his entrails spill out. Sarah is dreaming of course, the result of the visit to the lab earlier that day. She wakes to find Miguel is indeed up and waiting to hassle her about her fear she tries to keep a secret. She finally loses it, screaming at Miguel to leave the room. A few moments later, she wanders the hall of the complex, nearly getting caught in the middle of a scuffle between the soldiers, whose fight spills out into the hallway. She meets up with McDermott, who has been wandering the halls too. They head back to the \"Ritz\"-the Winnebago where he stays with John. Serving Sarah drinks, John treats her to the relaxed Caribbean atmosphere he's created in the trailer. John also gives a lengthy philosophical lecture on how he believes that the Creator has cursed mankind and that there can be no cure for zombification. So he urges Sarah to forget about the research and wants to leave before the soldiers lose it completely. The next day, Sarah finds Fisher frustrated that the specimens are not accepting a meat substitute called Beef Treats. Logan is trying to convince them that reward is the key to conditioning them. \"Bub\" is one specimen that seems to be under control. Logan has spared him from dissection, and instead reacquaints him with toothbrushes, razors, phones, books, tape player and even an unloaded gun. His infantile, docile behavior is unique among the zombies although Rhodes and the men witnessing this progress still think these creatures should all be destroyed. The next day, there's another capture attempt. Miguel once again loses control of a female specimen-an old lady, unleashing her on an unsuspecting Miller who is bitten on the neck. His finger is on the trigger of his machine gun when it goes off killing Johnson in the process. Sarah destroys this female zombie. Miguel is then thrown into a fit of denial, attacking the priest specimen which takes a huge bite out of his forearm, forcing Miguel into hysteric shock. The priest is destroyed by Steel. Sarah runs after Miguel now fleeing towards John and Bill's area. Miller begs for Steel to end his life as he knows he would certainly become cursed with living death. Steel looms over him and blows the soldier's brains out. John and Bill hearing Miguel's cries, wait in front of the Ritz. As Sarah draws John's machete from his belt, Miguel is overcome by a blow to the head and laid down. Sarah amputates his mutilated arm in one clean slice. After a hasty treatment, the soldiers led by Rhodes confront the three heroes, ready to destroy Miguel. John and Bill draw guns to defend his life. Rhodes declares that there will be no more experiments and that the specimens will be destroyed tomorrow. Leaving her shaken, Sarah finally breaks down and John comforts her. Going back to the lab for supplies for Miguel, Sarah and Bill discover Johnson's decapitated head has been reanimated by Logan. Horrified, they follow Logan from the refrigerator room into Bub's room. There they witness the rewards he had stressed all along... the fresh remains of Miller and Johnson. Just as the two realize what Logan has done Rhodes and the remaining soldiers appear behind them. Logan shows Rhodes that Bub responds to stimuli and, seeing Rhodes' military uniform, salutes him. Rhodes isn't convinced and drags the pleading Logan into the refrigerator to finish him off with a machine gun...amidst the dumped corpses of the military men killed in the capture attempts. He then orders the guns removed from Sarah and Bill. Then out by the corral area, ordering John to get ready to fly, Rhodes fires a bullet into the head of Fisher to make his point. Rhodes orders Sarah and Billy into the cages leading into the zombie-infested caves. John refuses to go anywhere until they are released. Then they hear the sound of the elevator... Steel and Rickles discover Miguel - has taken apart the control box and that there is no way out of the complex now. They try to rewire it while Rhodes is attacked by John and knocked out. John flees with Rhodes' guns through the corral area to search for his friends in the caves. John yells for Sarah and Billy and kills many would-be specimens in his pursuit. Rhodes finally wakes up and he and Torrez head back to find Steel and Rickles after realizing they are without weapons. A few moments later they would need any and all weapons they could get. The deranged and suicidal Miguel had escaped and opened the front entrance gates above the complex. He is savagely eaten alive as the elevator lowered carrying the hundreds of zombies with it. The three remaining soldiers run for their lives but are attacked and dismembered one by one by ten or more ghouls at once, until the whole place is infested. Steel makes it to the complex where he finds the cowardly Rhodes had locked everyone out, so he blasts open the door and enters taking all the dead with him. He hides in a lab where Bub finds him... firing one of the weapons he had found near the refrigerator room where he found his slain master, Logan. Just as Steel reloads his weapon and has an opportunity to kill Bub from behind a door, he is reunited with the mob of zombies who've entered the room through another door. After he gets bitten on his shoulder, Steel commits suicide rather then suffer the fate of being eaten alive by the mob of zombies. While John finally meets up with Sarah and Billy near the silo, Rhodes desperately goes for his last bit of ammunition and has a final encounter with Bub still firing his pistol (his aim getting better) who leads him to a door where a group of the dead are waiting. In a few moments, the dead are all over the labs and storage rooms feasting on the remains of the soldiers. Rhodes is torn apart and eaten alive, his last words being \"CHOKE ON IT!!\" When the three survivors finally exit the silo they see at least a hundred zombies marching towards them and the helicopter...which may or may not have any gas. John and Bill cover Sarah as she runs to the chopper door. She opens it only to be greeted by another swarm of arms... However, this is another of Sarah's dreams. She wakes up on some island with John fishing in the surf and birds overhead. On her calendar, she marks out November 4th - the Day of the Dead according to Latin American folklore.",
+      "writers": ["George A. Romero"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0088993/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjEwNjQ5NDU4OF5BMl5BanBnXkFtZTYwOTI2NzA5._V1_SY317_CR1,0,214,317_AL_.jpg",
+      "actors": ["Stars: Lori Cardille, Terry Alexander, Joseph Pilato | See full cast and crew »"],
+      "reviews": [
+         "\"Day of the Dead\" is a film that is an unfortunate sufferer of the \"Alien 3 Syndrome\". And, no, I don't classify those that are affected by the syndrome to be disappointing final entries in a trilogy. To suffer from \"Alien 3 Syndrome\", you must follow two exceptional films, and the entry that has preceded you must be so exciting and action-packed that when you dare take a grimmer, more deliberately paced approach to your material, you will become universally reviled, with many people failing to notice that you have more than your fair share of merits on your own. In fact, \"Day of the Dead\" has a LOT of merits - even more than the film that its syndrome is based on. While it doesn't quite approach the greatness of \"Dawn of the Dead\", it is still an intelligent, first-rate horror effort and stands as one of the best genre films of the 80s. In this final entry of George Romero's \"Living Dead\" trilogy, the walking dead supposedly outnumber the humans by a ratio of 400,000 to 1. Twelve people who have devoted themselves to studying and wiping out the zombies hole up together in an underground missile silo, and for all we know, these could be the last twelve living humans on the face of the planet. Most of these people don't capture our sympathy like the foursome who holed up in the shopping mall in \"Dawn\". Half of them are gung-ho soldiers who seem to take great pleasure in threatening the scientific team, and Romero spends much of the first half focusing on the bickering and intense conflicts between these people. In fact, for over an hour, the hordes of living dead get very little screen time, as the story focuses on the tension between the characters, and the efforts of an off-the-wall scientist to train a captured zombie named Bub to act human. Compared to its predecessors, this long section of the film may seem slow and talky, but it is always interesting and, for the most part, effectively performed by its unknown cast. Besides, it all eventually leads up to a corker of finale when the zombies finally invade the compound, and most of the humans become showcases for the brilliance of Tom Savini, who outdoes even himself in the gore F/X department. While most of this material is very grim, \"Day\" ironically has the most hopeful, upbeat conclusion in the trilogy - which, alas, is its only major shortcoming. The quick transition to the final scene is so abrupt and unexpected that the audience feels cheated, leaving the impression that the production ran out of money before the whole climax could be filmed. Indeed, Romero has often expressed his unhappiness about being underfunded for this project, which prevented him from creating a truly definitive final chapter for the trilogy. But while \"Day of the Dead\" may not quite be the ultimate finish to one of the greatest trilogies of all time, it is still a very satisfying conclusion (at least until Romero gets funding for his long-rumoured \"Twilight of the Dead\"). It may not be popular among everyone, due to many unfair comparisons to its superior predecessors, but on its own, it is about as good as horror films get.",
+         "'Day Of The Dead' is one of the greatest sleepers in the history of horror movies. A flop when originally released almost twenty years ago, its reputation has slowly increased over the years, and now is generally regarded as a classic. I certainly underestimated it for a long time. In my opinion Romero's 'Night Of The Living Dead' and 'Dawn Of The Dead' are two of the greatest horror movies ever made, but I always thought that 'Day...' was a bit of a let down. But after watching it again for the first time in several years (via the highly recommended double disc \"special edition\" DVD) I must humbly eat my words. This is a GREAT movie! Romero and special effects Tom Savini do wonders on a limited budget, and the movie is full of suspense, a claustrophobic atmosphere and plenty of gore. It probably flopped the first time around because it's so bleak, but now that's one of its strengths. Interestingly Romero features a strong female protagonist (Lori Cardille) and a strong black supporting character (Terry Alexander), something not all that common in horror movies. Both actors give good performances, the soldiers led by Rhodes (Joseph Pilato) are all suitably ultra macho and deranged, and it was cool to see John Amplas ('Martin') in a supporting role, but the two stand out performances are by Richard Liberty ('The Crazies') as Dr. Logan (who the soldiers refer to as \"Frankenstein\"), and Howard Sherman as Bub, the zombie he has tamed. The sequences between Logan and Bub are just terrific and add a whole new level of pathos to the movie. The only negative comment I can make about 'Day Of The Dead' is that it brings home the depressing fact that George Romero hasn't made a truly outstanding movie in close to twenty years. I really hope he makes his long threatened fourth Dead movie 'Dead Reckoning' and that it turns out to be his masterpiece. But whatever happens he has already carved his name out in horror history as the creator of three classic zombie movies that just get better and better as the years go by.",
+         "The third film in George A. Romero's immensely popular \"Living Dead\" trilogy is by far the bleakest and most complex film the director has ever worked on. \"Day of the Dead\" received a lot of negative press upon its release in 1985 - people picked apart unsavory characters, OVER-acting from a no-name cast, and outlandishly gory special effects that only Tom Savini himself could be proud of. But none of this makes it a bad experience really, does it? I don't think so. For the reason that I usually detest zombie flicks, I have worked up a fondness for the works of Romero and over the last two weeks have separately watched each film in his trilogy. \"Night of the Living Dead\" (1968) virtually defined a new genre of horror movie-making and basically set the standards for the many zombie flicks that would follow in its footsteps. Next up to bat was the most praised film in the trilogy - \"Dawn of the Dead\" (1978) - which was more of an action film than a horror movie and was nothing short of epic. Then came \"Day\" in 1985, which got the tongue-lashing that I described earlier. However those that did like it, praised the Savini effects, its complex, plot-driven characters, and satire. While \"Day\" is certainly a step down from \"Night\" and \"Dawn,\" \"Day\" is more of a claustrophobic horror movie and that allows it to stand on its own as a fitting end to Romero's trilogy. It's more in sync with the tension of \"Night\" than it is with the adrenalin-laced action, zombie-slaughterfest that was \"Dawn.\" A team of civilian scientists and a loose army unit clash with each other's motives after they have taken shelter at an underground military base from the hordes of living dead that storm the surface above. The civilian scientists aren't seeking to eradicate the zombies like the soldiers are hell-bent on doing, but are instead trying to get to the bottom of what is causing them to be what they are. In doing so, they need live zombie specimens, which are held captive in a maze of dark underground tunnels where they're corralled like cattle. We later get what is one of the most profound and moving experiences in the entire trilogy with \"Day,\" when we see one zombie, nicknamed \"Bub\" by one particularly eccentric scientist, who eventually learns what it means to be \"alive,\" so to speak. \"Day of the Dead\" obviously isn't a perfect movie, but is more or less a fitting conclusion to one of the most daring film trilogies in the horror genre. It may be best to not watch \"Day\" thinking it'll be anything like \"Dawn\" just because it has military men blasting away mercilessly at the living dead. Zombie slaughter is few and far between and much of the first hour of the film is clashing dialogue between the characters. The darkest day in the world - \"Day of the Dead.\" 9/10",
+         "In 1985 this zombie movie virtually went by unnoticed except for many Romero fans. It was virtually dead a week or two after it hit the theaters. Many attribute its failings to the other many horror films released that year including \"Re-Animator\", \"Fright Night\", and \"Return of the Living Dead\". All these movies were R though and day was not. Romero stuck to his guns and made a very gory movie. Unfortunately, when dawn was released there were still many independent theaters, but by 1985 the chains had taken over and one thing chains do is not show movies like this. So it went by unnoticed and those that did notice it usually had nothing good to say about it other than the zombies looked really good. So suffice to say, I wasn't expecting much when I bought this movie except the zombies would look good. However, I am happy to report that I was very pleasantly surprised. The movie mainly takes place in an underground facility though there is the scene at the beginning in the town. I wish there were more scenes above ground as the one there is, is very well done. In the underground facility there is a lot of bickering between some scientists and some army guys who look and act nothing like army guys. Then again who knows how long they have been down there so people are bound to crack. There are also a couple of guys who may be army, but act like civilians and definitely have cooler heads than the rest of them. There is also a doctor who is trying to teach the zombies how to be more docile. All the wildness and arguing eventually leads to a major meltdown which leads to of course zombies penetrating the base and this leads to a very good gory finish. Not quite as good as Dawn, but not as far off as I was lead to believe this movie is very entertaining.",
+         "The living have lost the war and now the dead have taken over.A small pocket of survivors consisting of a military and scientific team staying in a secure underground bunker doing research,trying to find an answer to why the dead are walking,and also trying to find any other survivors,but without much success.The sequence of events that follow ultimately lead to their self destruction.Plenty of gore including usual gun-shots to the head,decapitation,amputation,bodies ripped apart,entrails eaten,throat rippings etc.The special effects by Tom Savini are truly outstanding and these scenes where Dr Logan(Richard Liberty)tries to train a zombie are simply amazing.If you love gore you must see \"Day of the Dead\".Highly recommended.",
+         "George Romero's zombie movies have always been standouts in the genre. Easily the best zombie movies ever, and contenders for the best horror movies ever. Night of the Living Dead (his first movie) set the ground work for every single zombie movie to come after it, and Dawn of the Dead, which came 10 years later in 1978 set the new standard for splatter and gore flicks. If you ask me, without George Romero's zombie trilogy, horror movies would have never been the same. Day of the Dead takes place after the entire Earth has become over-run with zombies. Every human must either hide, fight, or die. The movie follows two groups of people: doctors and army men. The army men pose as the bad guys in this movie (just as Mr. Cooper did in Night of the Living Dead) and the doctors pose as the good guys (as Ben did in Night). The groups of people are hiding out in a secluded underground base. The zombies await outside, while the humans try to come up with a plan to eliminate the zombie plague. Day of the Dead falls at the end of the trilogy. Being made in 1985, zombie movies were already high on the charts. Since the popularity of Dawn of the Dead, especially in Europe, a ton of independent film makers were pushing out these zero-budget zombie flicks faster than you could watch them. Finally, in 1985, George Romero and Tom Savini grouped back together to show the kids how it was done. Day of the Dead fixed all the mistakes that occurred in Dawn of the Dead, and turned out to be the perfect zombie movie. Day of the Dead IS the best zombie movie ever made. The main mistake that was fixed was the way the zombies looked. In 1978, Tom Savini (special makeup effects) was fairly new to the job, and couldn't take on the very large amount of zombies he had to apply make-up to. Therefore, he simply painted their faces blue. Here, Tom Savini had his own team of make up artist. The zombies in Day of the Dead look far more disgusting and gross. Facial decays and bite marks were abundant in this movie. Not only that, but every zombie looked different. No two zombies looked exactly the same, which added a small shock element every time a zombie appeared on screen. The gore in Day of the Dead was even more amped up than Dawn of the Dead. It looked more real, and came in much higher amounts. Day of the Dead ranks up with some of the goriest movies of all time; only Cannibal Ferox and Dead-Alive surpass Day of the Dead. For the way the gore looked, Day of the Dead holds the trophy for the best special effects I've ever seen in a movie - bar none. While the special effects have greatly improved, they aren't even the main reason I favor Day of the Dead over every other zombie movie. The reason Day of the Dead is, and always will be labeled as my favorite, is for the extremely serious tone of the movie. The characters in this movie (with the small exception of the doctor) are extremely serious and brutal in tone and pose an even bigger threat to the good guys than the zombies! It's Night of the Living Dead turned up to 11! The characters in this movie (especially Captain Rhodes) are very, very well written characters, although I wouldn't hold then as high as the characters in Dawn of the Dead. Day of the Dead is an extremely serious zombie flick with absolutely no humor whatsoever. It's serious, it's brutal, and has an extremely thick script with plenty to offer. Remember to bring a barf bag!",
+         "Months after the first dead rose from their graves, the world has seemingly become overrun. Deep in a storage bunker in Florida, a group of soldiers and a group of scientists have formed an uneasy alliance in order to try and discover something that can help reverse their spread. However Dr Logan is not making the progress that the soldiers require and Captain Rhodes becomes increasingly impatient and erratic as a result. Things continue to worsen as the zombies gather above and Logan's work gets more worrying. Having seen and enjoyed (if that's the word) the remake of Dawn, I decided to re-watch the three originals on their own values. While I had seen the other two before, this was the first time I had seen Day and assumed that it would be bigger than Dawn was (in the same way as Dawn extended the ideas from Night). In that regard I was a little disappointed to find that the film stayed on a rather small scale and didn't manage to really convince me that the world was actually over on the surface of the earth. However this is not to say that it is not a good story in itself, because it is, albeit very different from both Night and Dawn. To me it lacked the social commentary that was to be found in Dawn but it is still tense, gory and gripping. The claustrophobic nature of the bunker and the battling characters means that tension is easily created even when the zombies are distant and seemingly pose less of a threat than the humans do to one another. The film is a little weak at points \u0096 the medical experiments are given too much time and the character of Bub is not clear as to his reasons for being included as much as he was. I didn't like the idea of Bub, the film didn't seem to know what to do with him other than using him to fill out the story \u0096 Logan's progress with him seemed such a waste of time that, even if that was the point, it didn't work. When the gore comes it is very hard to watch and a little sickening at times \u0096 bodies are ripped into and ripped apart in full bloody colour \u0096 as a horror it succeeds because I was looking a way quite a lot of times! Even though Shaun of the Dead has made fun of these slow zombies recently they still manage to be very effective here \u0096 I personally find them scary as they are relentless and simply wish to kill. True, the fast ones are scarier but these ones are too. The cast are more than just victims and are reasonably well drawn and acted. They have to be engaging or else the tension between them wouldn't work and, while hardly totally real people they still are good enough for a horror movie and they are not just fodder to rip apart \u0096 even if they are clearly penned as 'goodies' and 'baddies'. Overall this is not the best of the trilogy but it is still a good horror film. The tension between the characters creates as much of a threat as the zombies do \u0096 even if some of the plot isn't that good. It all builds well to a gory finish that really only lacks teeth because both the film and the actual ending both fail to really show just how bad things are and never convinces that the world has come to an end in the way that the whole trilogy suggests it has.",
+         "I saw DAY OF THE DEAD at a drive-in; the second half of the double bill was DAWN OF THE DEAD (which I'd seen a dozen times by then, most often at midnight showings). I was stunned. DAY OF THE DEAD was as tight and as dramatic and as frightening as anything I'd ever seen. Although I'd championed Romero's movies in the pages of magazines like Famous Monsters of Filmland, Fantastic Films and Fangoria for years, I was totally blown away by the savvy evinced in DAY OF THE DEAD. No more of the tell-tale amateurishness of a \"regional filmmaker,\" no more overindulgence: this is Romero at his very best, and a great movie by any standards. For critics who espouse the virtues of DAWN OF THE DEAD over DAY OF THE DEAD, take this simple test: watch them back to back, as I did the night DAY OF THE DEAD opened. If you're still not convinced, you may be a zombie yourself...",
+         "Day of the Dead (1985) was the third film in the \"Dead\" series. For awhile this was going to be the last chapter until recent events have changed the mind of the series creator George A. Romero. Whilst it was going to be a huge budgeted venture for Romero and Laurel Films, a small budget and a few extras limited the scope of the director's vision for this film. But like all good film makers he made do with what he had around him and made a dreary and depressing film. Society is dead. Zombies have overran the living and the survivors can only be found in very small numbers. One of these groups are bunkered inside an old underground bomb shelter. The survivors inside this subterranean military installation have been divided into three groups: the soldiers, scientists and civilian employees. Stress, sexual tension and a dire situation have split the group even further apart. The dead have been growing in numbers outside and dwindling supplies have made everyone desperate. But within the base their is some order. But what will happen with that collapses? The third film of the series is not as great as the second film but it's a good film. Performances from the actors may be uneasy and the tight budget restrains the director's vision but it still succeeds as a very frightening and depressing horror film. Savini and company have made the gore more realistic and nauseating. Gone is the cartoonish blood and cheesy gore effects. State-of-the-art splatter effects have been included adding a whole new element to this awesome trilogy. I have to strongly recommend this film. If you love the first two, you'll definitely enjoy this this installment of the one and only trilogy of cinema! Highly recommended!",
+         "\"Cinema is wasted on cinema. Most cinema is bedtime stories for adults.\" \u0096 Peter Greenaway Consensus seems to be that this is the worst film in George Romero's zombie trilogy. Personally I think it's Romero's best film, and one of the bleakest, if not best, horror movies ever made. Three points. Firstly, what people fail to realise is that the humans are actually the bad guys in Romero's zombie universe. They are adept at selling out their friends, stabbing their companions in the back, acting violent, brutal and flittering away their lives with mindless banalities. In contrast, the zombies are representative of a kind of primal humanity which, because it always remains at the core of mankind, can not be escaped. In this film, we have a group of people trapped in a military bunker whilst thousands of zombies wait outside. The humans are divided into three groups: the hastily militarist right wing, the scarily experimental left wing and the apathetic (and hedonistic) middle ground who just want to drink and live peacefully whilst the world goes to hell. Romero's point, though, is that despite their differing ideologies, everyone is selfishly looking out for their own interests, no matter how altruistic they may seem. Secondly, this film acts as a precursor to fare like \"The Mist\", in that it is about a small group of people who, when put under extreme pressure, begin to turn against one another, exposing their prejudices, insecurities, sexist feelings and petty jealousies. Romero's point: a small group of humans can be far more divided, vicious and bestial than any number of ravenous undead. Thirdly \u0096 and this is what distinguishes the film from all other horror movies \u0096 the film says that because most, if not all, actions are motivated by self interest, mankind is ultimately doomed. Forget all the ancillary themes often attached to this film \u0096 Reganism, the threat of nuclear war, feminism, Aids etc \u0096 while they're valid, this film takes a far grander, far more hopeless, view of things. The zombies and the humans are divided by what Freud called the pleasure principle and the reality principle. The zombies, as a kind of stripped down, primal version of humanity, simply eat, breathe and wander about looking for food. Satisfying their primitive instincts are their only purpose. As one scientist says, \"they gain no nutrition from the flesh they consume.\" In other words, they eat solely to satisfy a desire to eat (much as wealthy nations no longer eat to survive, but to prolong pleasure). Humans, in contrast, are able to defer instant gratification, constructing a variety of long term plans. What the humans in this film realise, however, is that the rewards of the reality principle, of all their long term schemes, are no more advanced or noble than the drives of the zombies. The lead scientist in the film, for example, conducts experiments not because he wants to save humanity, but because he is thinking about future accolades and scientific prestige. These themes are summed up in one scientist's interactions with a domesticated zombie called Bub, who performs only when rewarded. \"They can be tricked into being good little girls and boys,\" he says, \"same way we were tricked into it on the promise of some larger reward.\" For the humans, however, any chance of a long term reward is slowly being eradicated. The last survivors on the planet and unable to fathom any future, the humans increasingly see no point in surviving. \"It's the beginning of civilised behaviour,\" one scientist says, pointing out that the zombies operate on the same performance/reward level as humans, \"civil behaviour is what distinguishes us from the lower forms. Civility must be rewarded, if it isn't, there's no use for it. There's just no use...for it at all.\" The notion that there is \"no use\" for any and all human actions is expanded when one character discusses the various immigration papers, tax returns and official documents that the American Government stored in the bunker. All this information stored, all these records kept...toward what end? What is the use of human history? To what goal does it climb? Ultimately, the world Romero creates here is one that is ruled by self interest. Goal oriented, man's actions are guided by pleasure, constantly striving to achieve his ambitions and protect his interests. The only easy way to get someone to not spend their lives as a Machiavellian power zealot would be to persuade them that they will enjoy an eternity in heaven. Heaven being pleasure incarnate. Man is merely a dopamine zombie, fingering his neuro-chemical G-spot in one form or the other, no distinction between low-order pleasure and high-order pleasure. By a similar argument, we'll never achieve true happiness through the pursuit of pleasure because we can never be truly comfortable while we are in a pleasurable state. If we're experiencing pleasure it's because we must need something. Take temperature. Only if we're too hot or cold will we be able to experience the pleasure of a cold drink or hot bath. Once our temperature has stabilised, we're indifferent to either experience. If we are in no danger or need of any kind, we're in a comfortable but indifferent state. Sensory pleasure is not happiness, it is joy. The state of indifference is true happiness. Now reconsider the final scene of the film, where the female character escapes and sits on a beach with the apathetic, hedonistic middle men who refused to fight throughout the film. They haven't escaped. They've become 21st century zombies. Get your mind around that, and this film will have you slitting your wrists. 8.5/10 \u0096 Ignore the one dimensional characters and the $500,000 budget. This film attains a depth of utter hopelessness that few films match. Worth two viewings."
+      ],
+      "genres": ["Horror"],
+      "productionCompanies": [
+         "United Film Distribution Company (UFDC)",
+         "Laurel Entertainment Inc.",
+         "Dead Films Inc."
+      ],
+      "summaries": [
+         "Zombies rule the world, except for a small group of scientists and military personnel who reside in an underground bunker in Florida. The scientists are using the undead in gruesome experiments; much to the chagrin of the military. Finally the military finds that their men have been used in the scientists' experiments, and banish the scientists to the caves that house the Living Dead. Unfortunately, the zombies from above ground have made their way into the bunker.",
+         "This sequel to Dawn of the Dead is even gorier than the first two \"Dead\" films. The location is an underground government installation in sunny Florida, the purpose of which is to research the phenomenon causing the dead to come back to life.",
+         "The Dead have conquered earth, leaving just small groups of people out of their clutches. One group made up of both scientific and military personal, hiding in a bunker somewhere in Florida tries to get in contact with other survivors of the zombie infestation, but find themselves quite alone in this new world. Desperately searching for a cure and therefore indulging in strange experiments to overcome this strange transformation into zombies, the scientists loose the faith of the military, resulting in a race against death while the zombies take over the facility.. Only common sense can save them now...",
+         "A small group of military officers and scientists dwell in an underground bunker as the world above is overrun by zombies."
+      ],
+      "budget": 3500000
+   },
+   "movielensId": 6731,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1985-07-19",
+      "dvdReleaseDate": "2004-09-07",
+      "directors": ["George A. Romero"],
+      "runtime": 96,
+      "movieId": 6731,
+      "title": "Day of the Dead",
+      "mpaa": "NR",
+      "actors": [
+         "Lori Cardille",
+         "Terry Alexander",
+         "Joseph Pilato",
+         "Jarlath Conroy",
+         "Anthony Dileo Jr.",
+         "Richard Liberty",
+         "Sherman Howard",
+         "Gary Howard Klar",
+         "Ralph Marrero",
+         "John Amplas",
+         "Phillip G. Kellams",
+         "Taso N. Stavrakis",
+         "Gregory Nicotero",
+         "Don Brockett",
+         "William Cameron",
+         "Deborah Carter",
+         "Winnie Flynn",
+         "Debra Gordon",
+         "Jeff Hogan",
+         "Barbara Holmes",
+         "David Kindlon",
+         "Bruce Kirkpatrick",
+         "'Wild Bill' Laczko",
+         "Susan Martinelli",
+         "Kim Maxwell",
+         "Barbara Russell",
+         "Gene A. Saraceni",
+         "John D. Schwartz",
+         "Mark Tierno",
+         "Mike Trcic",
+         "John Vulich",
+         "Joe Abeln",
+         "Terry Adams",
+         "Al Anderson",
+         "Tom Ardolino",
+         "Vini Bancalari",
+         "Howard Berger",
+         "Everett Burrell",
+         "Gary Jones"
+      ],
+      "imdbMovieId": "0088993",
+      "originalTitle": "Day of the Dead",
+      "genres": [
+         "Horror",
+         "Science Fiction"
+      ],
+      "youtubeTrailerIds": [
+         "V01FVJr4kag",
+         "oATJVC5R0FA"
+      ],
+      "plotSummary": "The final chapter of George A. Romero's \"Dead Trilogy\". In an underground government installation they are searching for a cure to overcome this strange transformation into zombies. Unfortunately, the zombies from above ground have made their way into the bunker.",
+      "tmdbMovieId": 8408,
+      "avgRating": 3.56552,
+      "releaseYear": "1985",
+      "numRatings": 1511,
+      "posterPath": "/yJ2emwXWwQc6VHW3fO4GZr0hXBt.jpg"
+   }
+}

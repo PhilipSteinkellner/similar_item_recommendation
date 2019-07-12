@@ -1,0 +1,460 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "mutant",
+            "id": 1852
+         },
+         {
+            "name": "time travel",
+            "id": 4379
+         },
+         {
+            "name": "portal",
+            "id": 7939
+         }
+      ],
+      "imdb_id": "tt0058659",
+      "video": false,
+      "title": "The Time Travelers",
+      "recommendations": [
+         7237,
+         29419,
+         128780,
+         42699,
+         56147,
+         52745,
+         48209,
+         99008,
+         43715,
+         84708,
+         31244,
+         83409,
+         48481,
+         7234,
+         213396,
+         61031,
+         28142,
+         86271,
+         31380,
+         27717
+      ],
+      "backdrop_path": "/eYPxIHJRubXVJEXYMqkkkfZTval.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 5,
+               "character": "Dr. Erik von Steiner",
+               "gender": 2,
+               "credit_id": "52fe4788c3a36847f813af37",
+               "name": "Preston Foster",
+               "profile_path": "/iZmiPuuHJm2pLxgmhrCQ504wWwn.jpg",
+               "id": 33004,
+               "order": 0
+            },
+            {
+               "cast_id": 6,
+               "character": "Dr. Steve Connors",
+               "gender": 2,
+               "credit_id": "52fe4788c3a36847f813af3b",
+               "name": "Philip Carey",
+               "profile_path": "/yl8Tr3k6OL1NE2DIjdJ73FcO1pP.jpg",
+               "id": 45291,
+               "order": 1
+            },
+            {
+               "cast_id": 7,
+               "character": "Carol White",
+               "gender": 1,
+               "credit_id": "52fe4788c3a36847f813af3f",
+               "name": "Merry Anders",
+               "profile_path": "/7P9TZF8H91fuGFJIbuEOTvUDQgI.jpg",
+               "id": 132576,
+               "order": 2
+            },
+            {
+               "cast_id": 8,
+               "character": "Dr. Varno",
+               "gender": 2,
+               "credit_id": "52fe4788c3a36847f813af43",
+               "name": "John Hoyt",
+               "profile_path": "/m3NuX4YDtvvUSxUsR632SnSA1M5.jpg",
+               "id": 14508,
+               "order": 3
+            },
+            {
+               "cast_id": 9,
+               "character": "Councilman Willard",
+               "gender": 2,
+               "credit_id": "52fe4788c3a36847f813af47",
+               "name": "Dennis Patrick",
+               "profile_path": null,
+               "id": 134768,
+               "order": 4
+            },
+            {
+               "cast_id": 10,
+               "character": "Gadra",
+               "gender": 1,
+               "credit_id": "52fe4788c3a36847f813af4b",
+               "name": "Joan Woodbury",
+               "profile_path": "/iN5cJbzUThqlwbmVsoEkNiZ1Pi4.jpg",
+               "id": 89746,
+               "order": 5
+            },
+            {
+               "cast_id": 12,
+               "character": "Danny McKee, the Electrician",
+               "gender": 2,
+               "credit_id": "52fe4788c3a36847f813af4f",
+               "name": "Steve Franken",
+               "profile_path": "/xmWo1fzZbQ3EpM1I9GZQitx1Adz.jpg",
+               "id": 24323,
+               "order": 6
+            },
+            {
+               "cast_id": 13,
+               "character": "Preston",
+               "gender": 2,
+               "credit_id": "52fe4788c3a36847f813af53",
+               "name": "Berry Kroeger",
+               "profile_path": "/dIP8Ah1uGvbZjItzkjWJf82Y7qz.jpg",
+               "id": 85988,
+               "order": 7
+            },
+            {
+               "cast_id": 17,
+               "character": "Raymond",
+               "gender": 2,
+               "credit_id": "52fe4788c3a36847f813af57",
+               "name": "J. Edward McKinley",
+               "profile_path": null,
+               "id": 51719,
+               "order": 8
+            },
+            {
+               "cast_id": 25,
+               "character": "Reena",
+               "gender": 1,
+               "credit_id": "551cadbd9251416a30001497",
+               "name": "Delores Wells",
+               "profile_path": "/kubmKf5ZAh7agOswtGUngPB4ClS.jpg",
+               "id": 1243732,
+               "order": 9
+            },
+            {
+               "cast_id": 26,
+               "character": "Councilwoman",
+               "gender": 0,
+               "credit_id": "551cadd2c3a36837e8000e52",
+               "name": "Gloria Leslie",
+               "profile_path": null,
+               "id": 1448552,
+               "order": 10
+            },
+            {
+               "cast_id": 27,
+               "character": "Android",
+               "gender": 0,
+               "credit_id": "551cade09251416a2300159a",
+               "name": "Molly Glessing",
+               "profile_path": null,
+               "id": 1448553,
+               "order": 11
+            },
+            {
+               "cast_id": 28,
+               "character": "The Mutant",
+               "gender": 0,
+               "credit_id": "551caded925141691b000cac",
+               "name": "Peter Strudwick",
+               "profile_path": null,
+               "id": 1448554,
+               "order": 12
+            },
+            {
+               "cast_id": 29,
+               "character": "Miss Hollister",
+               "gender": 0,
+               "credit_id": "551cadfc925141691b000cb6",
+               "name": "Margaret Seldeen",
+               "profile_path": null,
+               "id": 1448555,
+               "order": 13
+            },
+            {
+               "cast_id": 19,
+               "character": "Square-frame technician",
+               "gender": 2,
+               "credit_id": "52fe4788c3a36847f813af5b",
+               "name": "Forrest J. Ackerman",
+               "profile_path": "/nBcuUrhB9Q8rppsWyzekZ7Lc3l8.jpg",
+               "id": 44762,
+               "order": 14
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe4788c3a36847f813af21",
+               "name": "Ib Melchior",
+               "profile_path": "/f1wBqapVxMDSKVdfCVXr1othXO1.jpg",
+               "id": 51715,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4788c3a36847f813af27",
+               "name": "Ib Melchior",
+               "profile_path": "/f1wBqapVxMDSKVdfCVXr1othXO1.jpg",
+               "id": 51715,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4788c3a36847f813af2d",
+               "name": "David L. Hewitt",
+               "profile_path": null,
+               "id": 100289,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4788c3a36847f813af33",
+               "name": "Ib Melchior",
+               "profile_path": "/f1wBqapVxMDSKVdfCVXr1othXO1.jpg",
+               "id": 51715,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4788c3a36847f813af61",
+               "name": "Bill Redlin",
+               "profile_path": null,
+               "id": 1206142,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4788c3a36847f813af67",
+               "name": "Richard LaSalle",
+               "profile_path": null,
+               "id": 19475,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4788c3a36847f813af6d",
+               "name": "Vilmos Zsigmond",
+               "profile_path": "/zItpdF2B0mohQSFs40E7eUg3nkL.jpg",
+               "id": 12235,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4788c3a36847f813af73",
+               "name": "Ray Storey",
+               "profile_path": null,
+               "id": 1206143,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4788c3a36847f813af79",
+               "name": "Marc Snegoff",
+               "profile_path": null,
+               "id": 1206144,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "551cae1f92514156c7000ce5",
+               "name": "Don Levy",
+               "profile_path": null,
+               "id": 276769,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "58f42ed39251413d7201b3c7",
+               "name": "Hannah Scheel",
+               "profile_path": null,
+               "id": 1408664,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Science Fiction",
+         "id": 878
+      }],
+      "popularity": 1.29876,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 49160,
+      "vote_count": 21,
+      "budget": 250000,
+      "overview": "A time travel experiment that was supposed to produce a window into time turns out to be a portal instead. One of the experimenters steps through into a not-too-distant-future world that has been destroyed by nuclear war. Some of the others follow, but then the portal phases out and they can't get back. Things just get worse after that. They run across a rocket that has landed to escape pursuing enemies, bearing scientists who survived the war, and many android \"slaves.\" The time travellers are invited to escape when the ship is again ready to blast off - but just before that happens, the scientits' enemy returns and fires on the sitting-duck ship. A very bad day for the scientists turns terminal at that point, and the 20th-century Earthlings barely escape with their skins.",
+      "similar": [
+         206487,
+         41154,
+         23048,
+         76341,
+         263115,
+         127585,
+         87101,
+         63,
+         59967,
+         14337,
+         4723,
+         2134,
+         1267,
+         6479,
+         8810,
+         2048,
+         2666,
+         861,
+         869,
+         1576
+      ],
+      "original_title": "The Time Travelers",
+      "runtime": 82,
+      "poster_path": "/xWz6pjLpTce8O0k8MZBd7iXXFex.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Cal Cine",
+            "id": 16769,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Dobil Productions",
+            "id": 16770,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1964-10-29",
+      "vote_average": 5.5,
+      "belongs_to_collection": null,
+      "tagline": "Step Through",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Ib Melchior"],
+      "runtime": 82,
+      "synopsis": null,
+      "writers": [
+         "Ib Melchior",
+         "Ib Melchior"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0058659/",
+      "coverLink": null,
+      "actors": [
+         "Preston Foster",
+         "Philip Carey",
+         "Merry Anders"
+      ],
+      "reviews": [
+         "There are a zillion B&W sci-fi cheapies out there, and every one is somebody's favorite. This is one of mine. Scientists working on a time-camera experiment discover that it's actually a portal. They step through it into the far future, where remnants of a high-tech civilization battle troglodytes for survival. The cave-dwelling good guys and their androgynous androids are engaged in a desperate race against time to build a rocket to take them away from the ruined Earth. Our time travelers fall in with them, fall afoul of them, fall in love with them... well, you know. This movie is one of those irresistible gems where the real battle is between energetic actors, imaginative directors, and talented technical people who toil fearlessly against a low budget and cheap sets. But if you're a fan of the genre, give this a watch. You'll thank me.",
+         "The reason a film such as this (low budget '50s or '60s sci-fi) is on many viewers favorites lists is not necessarily fond childhood memories or nostalgia - it's because it's well made. Of course, they had very little money for props and such, but the story is more inventive than 95% of the stuff that's released now or has been since the nineties; no, make that the eighties. Yes, I'm one of those guys who saw it 30 years ago as a kid on TV during a Saturday matinée slot or something; but I've seen it again within a couple of years ago and it's still quite entertaining. Here, the writers proposed a question, a 'what if?' question about time travel. What if certain people, a small group of scientists, accidentally invented a time travel device? What if they used it? (Again, accidentally). What if the device short-circuited too early? What if this, what if that - and so on, with inventive answers provided to each question. If you've never seen this picture, you're in for a treat - you'll be wondering what's the next answer every 5 to 10 minutes. This is a quality sorely lacking in most films today. Maybe all the good ideas have been used. The same concept was utilized a couple of years later in the short-lived \"Time Tunnel\" TV series, but that show lacked the wild turns of this sci-fi set up. Some of the further situations in this story of the future are a bit goofy, but I believe it's intentional. The ending, which I won't give away here, actually puts some pressure on the viewers to wrap their minds around. Watch for famous sci-fi fan & publisher Forrest J.Ackerman in a cameo. Whatta trip!",
+         "First saw this one when I was 12 and loved it ever since(I'm now 44-a geezer,I suppose}Probably the best low-budget sci-fi ever made,as far as I'm concerned,and one of the best endings of a movie ever(thanks to Ib Melchior and Dave Hewitt).Cast is quite good,especially Steve Franken and the always-excellent Preston Foster.And Merry Anders is,as always, a real babe.Watch it if you get the chance!!!",
+         "This is one of my favorites,great camp,lots of inside jokes,a good plot,and if you used to read Famous Monsters of Filmland like I did,there is a special guest shot of Forest j Akerman in it also. This film was also shown in the Air and Space Museum during their sci fi film series. The cast does a good job and some pretty good special effects. For a low budget sci fi flick it covers a lot of ground,post nuclear war,mutants,space travel,love affairs,some wild futuristic music,and of course time travel.I think the ending will leave you thinking,and wanting to see this movie again and again.",
+         "American International Pictures had a reputation for turning out cheap sensational movies. But every once in a while they would spend money on a project to make a respectable movie and this is one of them. Ah, the days when independent stations would show movies like this Saturday afternoon or late Saturday nights. Many a rainy day was spent with a local host watching screen gems like this. An excellent and provocative movie from the 60's! One of the overlooked gems of sci-fi. It explored some real paradoxes and took some real risks--including an actual physically-challenged actor to play an atomic-scarred mutant. Watch for the scene where \"Famous Monsters\" editor Forrest Ackermann has a cameo. The screenplay was by Ib Melchior, who also did the excellent \"Robinson Crusoe on Mars\". This film concept, storyline and even direct dialog were later used to create the 1967 low budget film \"Journey Through The Center of Time.\" While I have just rediscovered \"Journey...\" I had absolutely no idea that \"TTT\" existed, with \"Journey...\" even getting more theater exposure and later television airplay. I am a big fan of \"Journey...\" but I am also a HUGE fan of AIP, Sam Arkoff is my hero. It is rumored that this film was the basic idea for the Irwin Allen's TV show, \"The Time Tunnel\". I saw this film as a matinée item sometime in the mid-sixties, and of course never forgot it. Later at the Hollywood Egyptian theater around 2003, Steve Franken and director Ib Melchior hosted a screening and Q&A afterward. I should have been there to honor both of them. The film gave me a lot of entertainment. I recall the mutant attack on the androids, and one of them being beaten to a pulp. I'll look forward to getting the original length movie on DVD one day...",
+         "This film has a lot of imagination, an intelligent script, some fine acting and special effects that combine to make an excellent sci-fi film. Those of you who have seen it have probably never forgotten it. The plot concerns a team of scientists working on a viewing screen designed to show images of the past, present, and hopefully the future. Faced with an imminent cut-off of funding, they push the equipment to the limit and a short-circuit results. Accidentally, the view screen produced an image of a devastated earth only 107 years in the future. Even more shocking is the discovery that a portal has been opened, and the scientists are able to step through the screen just as the portal implodes behind them leaving them trapped in the future.....Without revealing any more of the plot, I will just say that the shock ending is one of the best in science fiction. Trivia: the University Campus used in the film was the University of Southern California, and the tall mutants in the film were played by the Los Angeles Lakers basketball team for their exceptional height.",
+         "Three scientists and the inevitable everyday Joe are catapulted over a hundred years into the future by a lab accident, into a post-apocalyptic nightmare in which atomic war has devastated the planet. Pursued by a band of savage mutants, they're rescued by the last few humans, a small group of scientists and technicians engaged in a race against time to construct a starship and get away before the more numerous mutants can break through their defenses. None of these elements is particularly new to the genre, but writer/director Ib Melchior manages to combine them into a fairly entertaining and occasionally original piece of \"upper low-budget\" sf cinema. This isn't to say that the pace doesn't occasionally lag a bit toward the middle, with some sequences feeling like they were inserted just to pad out the running time. (Like a totally unnecessary scene devoted to what's supposed to be a demonstration of their futuristic \"matter transmitter\", which is clearly just a stage magician's prop.) Mostly, though, there's scarcely a moment wasted in exposition or character development, as the story barrels along to its truly unique conclusion. Set design, miniatures, costuming and makeup -- particularly the androids -- are surprisingly good, for its budget. The optical effects are sparse but imaginative. Though it's early in his distinguished career, having Vilmos Zsigmond behind the camera also contributes considerably to making this a much more polished and expensive-looking production than you'd normally expect to see from American International.",
+         "Whew! Had someone remind me of this movie just recently and I did a \"Boy, did that take me back\". A time travel in & of itself. Here is one that should get released on DVD, or at least get some TV play on a late-night show. I remember this being great fun when I was a kid, new to the movie experience. Yes, saw it in an actual theatre, probably the same one where I saw \"Crack in the World\" (1965) with Dana Andrews. Both high in \"cheese\" content, but no less fun. Not really giving anything away, plotwise, this movie deals with our fearless scientists who because of having the ability to time travel into the future, try to go about changing it. Something that has been dealt with over & over again in the ensuing years. Just remember they are in fairly new territory here. Can one change what \"happened\" in the future? I also remember being scared witless by the mutants they run across in the future. One guy who has legs, but no feet. You don't have to be a rocket scientist to figure out they had an actor with birth defects or an amputation, but to a kid in a dark theatre \u0096 it was really frightening! Let's see if someone can get this out as a \"late night\" DVD, eh?",
+         "This flick, like: World Without End, Rocket Ship X-M, and other, are what sci-fi is all about at least to me. I watched this every time it was on TV as a kid(I'm a 45yr old sci-fi writer now, former screen scenarist) and truly loved it. It was about themes, then--SF had sociological themes, cultural themes, somewhat educational themes. writers wrote cool stuff that often could not be expressed with the low tech of the era. Time Travelers shows how to destroy the world through the unconscienced use of science. When you have the technology but not the morality or fundamental spiritual decency, you get twisted by the glitz, glamor, and wonderment of your own technological prowess. Flicks like this one are cool because in today's era of accidents on the roads caused by drivers on cell phones, and the de-personalization of families because everyone is \"doing their own thing\" and only in \"touch\" via text messages or cell calls, sci-fi flicks show the human tragedy of overdependance on technology! If the power grid fails cause a flock of birds or a hoard of bugs enters a vent, or lightning strikes a tower, if the cell towers or network go down, would humanity survive? This flick shows the deterioration of man as he relies too much on his gadgets, toys, and \"stuff\"--(SPOILER HERE):The mutants who are primitives are winning their war, BECAUSE they are Primitive! So, all you 20 somethings out there, and teens out there, watch out, lest you fall prey to the \"gods in the machines!\" When there ain't any more electricity, where ya gonna be?????",
+         "Since it is probably the first sci-fi film I have ever watched, I am a little positively biased in favor of that film. Nevertheless if one ignores the outdated visual effects, and sticks to the general idea of the film, it is still remaining a very interesting sci fi - doomsday film. The story is typical, combining time travel with cold war fear of an impeding nuclear holocaust. There are no easy way outs for the heroes or the portrayed humanity. Add to that the flavor of adventure plus several environmental connotations and you end up with a very interesting package typical of the 60s gloomy era. The final climax of the film, is very unexpected although the makers of the film have allowed for the necessary hinds at the beginning,for the suspicious viewer. Stonglly recommended for the sci-fi enthusiasts.",
+         "I saw this movie many times when I was growing up and was fascinated by the concept. I must have seen this movie at least a dozen times and I am now in the process of purchasing this DVD through EBay. I just noticed some very close similarities between parts of this movie and Director George Pals, \"When Worlds Collide\". The parts that look to be similar are when they are building the spaceship. My best guess is that the Director of \"The Time Travelers\" copied this part from \"When Worlds Collide\". Nonetheless, this movie in my humble opinion is a classic for SciFi. I just wish that they considered a sequel. Are there any Directors out there would would consider a remake?",
+         "In 1964, a group of scientists create a portal that takes them to a barren, mutant inhabited, Earth in the year 2071. The general assumption is that if a film is picked to be on \"Mystery Science Theater\", it must be a bad movie. And more often than not, this is correct. They really have found the worst of the worst. But \"Time Travelers\" is not one of them. Yes, some of the acting is a bit silly, and there to plenty to make fun of. Some of the science does not really make very much sense. But you have to be impressed by the work that went into the androids. Wow. For what was likely a very low budget, the androids come off as some quality work. And mixing in a few clever tricks of the camera turns simple scenes into complex ones.",
+         "The first time I saw this movie was on a weekend afternoon on one of the UHF stations out of Sacramento. I only saw the first five minutes or so. Up to the part where the characters actually take their first steps forward, and then the family had to go somewhere. Throughout the years I'd catch the same beginning time and again, but was always drawn away from it. Well, I finally saw it all last year, and where it wasn't sterling scifi fare, it was decent for a 1960s reminisce-blast from scifi film making of days of yore. Finally being able to see this full film in its entirety put a smile on my face. The same kind of feeling I got when I saw other films that I had often heard about, but had never fully seen, just bits and pieces here and there on broadcast TV back in the 70s and 80s. But, to the movie; it's standard science fiction time travel stuff. Throw in a few mutants, some robots, and you got yourself a movie. There's a romantic subplot of sorts, some rocket ships, a fight for survival, a battle of good and evil, all the things that make great science fiction great. Only this film isn't exactly the greatest thing ever, it's just decent enough to be watchable. Lots of basic shots, mostly standard master shots and two shots to push the narrative forward. There are no or few dramatic closeups, no rapid machinegun editing, and a score that's your standard \"danger of the unknown\" music so prominent of scifi of the 50s and 60s. It's the kind of movie that someone thought would be a good thing for people to see, and that scifi aficionados like myself thought would be worth seeing once or twice. And the film delivers on that account. I'm so glad I finally saw it after decades of just catching snippits of it. I'm not sure I'll buy the DVD or bluray to add to my collection, but I'm glad it's out there for all to see. If you're a scifi fan, then maybe give this film a chance on the player of your choice. Enjoy.",
+         "This contains a spoiler, though the twist comes into play about two-thirds of the way through the film. I love this movie, almost as much for the hokey-ness as the twisted ending, which looks as if it was designed to keep the budget low! Right before the surviving humans are about to be over-run by invading mutants from outside, the time travelers succeed in opening another portal - this time to the past from whence they came. In their haste to depart the doomed future they mis-calculate their return to the present and inadvertently slip back into themselves moments before the first portal opens. Because of this, their return feeds them into a time loop that keeps running them through the events of the story again and again. the wonderfully kinky part of this is that the entire film is repeated (although the scenes go by in half the time)! When they re-enter themselves a second time, the entire film sequence repeats again, twice as fast again! It was such a brilliantly, ballsy thing for the filmmakers to do, that they have earned my undying admiration!",
+         "This title has remained one of my favorite sci-fi films. The excellent F/X of both the suspended-in-air time portal and the collapsing time portal, the early electronic music, the interstellar spaceship in the crater, the raging mutant attacks, the futuristic underground society, and the incredible ending sequence were some of the iconic sci-fi sights and sounds that left an indelible impression on my young mind. In addition, veteran actor John Hoyt (who appeared in classic Twilight Zone, Outer Limits, and Star Trek episodes), bright Merry Anders, TV sitcom fave Steve Franken, and even a cameo by Forry Ackerman certainly contributed a nice cast to cheer for. This was a well staged, imaginative, colorful film that should delight any true fan of vintage sci-fi.",
+         "This is an imaginative 'time machine' thriller about scientists and technical support thrusting themselves 107 years into the future. This is one of those typical mid 60s sci-fi flicks complete with mole looking inhabitants and of course, female space travelers fitted in skin tight pants. Well worth the backward look into the future. Among the time travelers are: Preston Foster, Philip Carey, John Hoyt, Delores Wells and Steve Franken.",
+         "Yes, some of the special effects are a bit dated, but it was more than made up for with a liberal sprinkling of magic tricks throughout the move to compensate. Very original, in my opinion. I found myself, more than once, hitting the rewind button to watch it over. Of course, that alone is not sufficient to make a movie good. The story line, although rather typical at first, had enough interesting twists and turns to keep you from getting bored. I am not sure if the comic relief was necessary or not. Perhaps the writers were unsure if they were writing a serious or humorous story. The ending, for it's time period, was quite bizarre although I would have liked to have seen a bit more of their final destination than just a view through the portal.",
+         "One of my favorite movies - the acting is fine and the plot quite interesting. I've been a fan since I first saw it when I was about 7 or 8 years old WAY back in the late 60's. Wish it was on DVD. I have a poor copy on VHS. Too bad they don't write unusual movies like this anymore. I would love to see \"what happens\" to the travelers when they go into the \"very far future.\" This movie would probably do very well as a re-make today. Enjoy this delightful sci-fi film.",
+         "As I have only ever seen this film in small sections at different times , I feel perhaps unqualified to comment. What I did see was about twenty minutes before the ending, I was, and still am curious about the actual final few minutes, very thought provoking about time and the immense size of the cosmos. The film of course lacks the latest digital applications, which I think isn't a bad condition, for its period I rate it highly, and by now I should be thinking about trying to obtain a copy, VHS or DVD. Any Ideas please. I have just found the IMDb website, and rate this feature for film searches excellent. Best wishes to you all Nicholas Cooper. (UK)",
+         "First saw this one in a theater when I was sixteen--sat through it twice. It's a pretty standard entry in the \"what comes after the end of the world\" genre, from the \"we did it to ourselves\" theme to the cheesy mutants (lots of mutants in the fifties and sixties--them atom bombs, y'know). That said, this is a pretty good movie with some familiar faces. Preston Foster is the obligatory 1960s German Scientist--no accent, but he does sport a monocle and a goatee. Foster is the veteran of quite a few two reeler Westerns. Philip Carey is the \"hunky\" Scientist. His claim to fame is that he was Philip Marlowe on TV. The real pro here is John Hoyt, who did just about everything one could do on film and TV. Merry Anders (remember \"Dragnet?\") and Steve Franken, as the love interest and comic relief, respectively, round out the cast. As for the story line, the protagonists sure are a lucky bunch--after winding up on a burned-out earth, they manage to stumble onto the only bunch of people on the whole planet who have any technology and are actually willing to help them out. The only real minus is that there is a considerable amount of dead time comprising views of the future scientists' underground labs and factories, all to the strains of perky background music, but it's not too excruciating. As with all drama, there is conflict, mostly with the aforementioned mutants. In addition, there's a \"villain\" among the future people. Not that he's really what you'd call \"evil\"--he's more of a cranky guy who just doesn't like competition with the bunch from the past. Even with the holes, the story is better than many other SF offerings of the era and has a neat little twisty ending. If you really want to close the loop on this one, watch the whole show then replay the beginning. Watch carefully and you'll see what I mean just prior to the line, \"What was that?\" about six and a half minutes in. Hard core fans, be sure to look for Forrest J Ackerman at about minute 44.",
+         "I first saw this movie back in 1965 or 1966, when I was 5 or 6 years old. The mutants really scared me, and I had some bad nightmares. So I would not recommend this film for small children. I recently re watched this and found it not too scary (for adults) but still a good, thought-provoking film. It is a low budget film so some of the special effects and script are obviously dated, but this film heavily influenced Star Trek, and The Time Tunnel was also a spin-off. The scene where Dr White first encounters a half-mutant/half human is still kind of creepy. And the doomsday scenario and the race against time and the mutants lends some good suspense. This film deserves a wider audience, and would be a good candidate for a serious-minded remake.",
+         "An aged and out of shape Preston Foster leads a small group of scientists through a time portal into a future where nuclear war has decimated the Earth and the few humans left are holed up in a mountain stronghold. Outside, hostile mutants roam the arid wasteland. The concept is fine, and the acting passable, but the cardboard sets are from hunger. Irwin Allen, never one to pass up an opportunity, stole the basic elements of this Ib Melchior movie for his \"Time Tunnel\" TV show. It also appears to have strongly influenced certain \"Star Trek\" episodes. The main reason to watch this moldy oldie is to see the lovely Merry Anders wearing skintight jumpsuits and also doing a nude shower scene. Several other undressed and semi-dressed Hollywood starlets are in the shower scene with her. Shot in color, which is a good thing, and a pretty decent musical score helps a lot. Worth a look for what passed for a sci-fi flick in 1965. Big changes in the genre were only a few years off, of course..",
+         "Working secretly from a basement in an U.S.C. science building, a trio of scientists crack open a window into the future. Endeavoring to open their portal can be a tricky proposition: in light that it is next to scientifically impossible to pull off. Accidentally, the two-dimensional view screen gives way to an actual exit to another world. Danny, the meddlesome errand boy, takes the initiative and vaults himself into a devastated, futuristic time zone. (A neat special effects trick is employed here: when an actor, entering the portal, steps off to the right side of the window, disappearing for a few moments, only to reemerge, with the help of rear projection, back into the background of the scene.) The two male scientists soon follow. Mutants respond to their intrusion as only mutants can: they attack. Two of the disfigured fellows even attempt to leap into the lab, but the female scientist repels them with a handy fire extinguisher. Smashing good tactic. In the nick of time, and just before the portal closes, she also takes the plunge into the future. This is a surprisingly good special effect. It works so well that they utilize it again, later on in the movie. The rugged terrain is photographed by the legendary cinematographer, Vilmos Zsigmond, but, at the time of filming, a new comer. He renders off some excellent tracking shots through barren canyons. High shots. Long shots. And even some shots that follow directly behind our group as they search for missing Danny. Confrontation ensues. Mutants don't like stone throwers so they retreat. When Danny is found up ahead, they take sanctuary in a cave protected by an invisible force field. The tunnel dwellers soon arrive and escort them to more comfortable surroundings for some well-needed answers. John Hoyt, the leader of the council, and looking fit and dapper, gives them some answers and asks them some questions of his own. For a movie geared to kids, the film has some frank talk about sex. Reyna, Danny's girl, is a looker and has the right amount of sweetness for us to buy her as Danny's girl. There are many bright touches along the way, and an ingenious time-loop that makes sense for a change. The battle sequences between the mutants, humans and worker-androids, are violent and fiery. Blood flows. Some androids and mutants lose limbs. Rightfully so. Terrific movie to watch with the kids on a lazy afternoon in the summer. Show them how things used to be. They'll be stunned. Trust me. I was.",
+         "The person who commented on this movie needs to remember when it was made. It was 1964, and for that time, I thought it was done pretty well, if you look at the themes the movie was trying to portray. Sure it was full of cheesy effects, but the premise was pretty good. Filmaking had at least progressed from the '50's Cold War hysteria to the 60's trying to understand one another (somewhat). Some people need to stop trying to be witty and hope they get to be the next Roger Ebert, and be be honest about a movie. I have great memories of seeing this movie in the 1960's at a theater, and I have a copy I obtained on the Internet simply because of the fun such sci-fi was and continues to be for fans of the genre. Without such movies, you would not have the Star Wars franchise!!! Think about the history of the genre, and not how clever you are!",
+         "Warning: may contain spoilers. I remember being totally knocked out by this film in its first run when I was a wee tad and actually now in the 21st century it's still a unique piece of cinema. The story is a convoluted pulp science-fantasy treatment, but the presentation is remarkably original. It contains numerous special effects that are actually stage illusions given a sci-fi dressing and work very well. No camera tricks, mattes or any of that stuff is used. Both close up hand effects and grand illusion. It's all done with magic. This is how Houdini would have directed a science fiction film. There is also an instance where they used someone with real deformities to play a mutant rather than use make up. The goofy androids are pretty obviously the source for the robots in Woody Allen's \"Sleeper\"."
+      ],
+      "genres": ["Sci-Fi"],
+      "productionCompanies": [
+         "Cal Cine",
+         "Dobil Productions"
+      ],
+      "summaries": [
+         "In 1964, a team of scientists is trying to develop a view screen into the future. What they in fact get is a portal and they soon find themselves on the other side, 107 years into the future in the year 2071, when the portal collapses. The Earth of the future is barren and they are soon attacked by mutated humans but rescued by a group of scientists who are building a spaceship to take them to a new planet. They learn that much of Earth was destroyed as the result of a nuclear war. When it's determined that the visitors from the past cannot be included in the planned voyage, they work furiously to rebuild the portal and return to their own time before departure day. Meanwhile, always under the threat of attack from the mutants , friendships are formed and they learn of life in the future including the use of robots for menial tasks.",
+         "In 1964, a group of scientists create a portal that takes them to a barren, mutant inhabited, Earth in the year 2071."
+      ],
+      "budget": 250000
+   },
+   "movielensId": 171213,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1964-10-29",
+      "dvdReleaseDate": null,
+      "directors": ["Ib Melchior"],
+      "runtime": 82,
+      "movieId": 171213,
+      "title": "The Time Travelers",
+      "mpaa": "",
+      "actors": [
+         "Preston Foster",
+         "Philip Carey",
+         "Merry Anders",
+         "John Hoyt",
+         "Dennis Patrick",
+         "Joan Woodbury",
+         "Steve Franken",
+         "Berry Kroeger",
+         "J. Edward McKinley",
+         "Delores Wells",
+         "Gloria Leslie",
+         "Molly Glessing",
+         "Peter Strudwick",
+         "Margaret Seldeen",
+         "Forrest J. Ackerman"
+      ],
+      "imdbMovieId": "0058659",
+      "originalTitle": "The Time Travelers",
+      "genres": ["Science Fiction"],
+      "youtubeTrailerIds": ["oBcYg8WnXww"],
+      "plotSummary": "A time travel experiment that was supposed to produce a window into time turns out to be a portal instead. One of the experimenters steps through into a not-too-distant-future world that has been destroyed by nuclear war. Some of the others follow, but then the portal phases out and they can't get back. Things just get worse after that. They run across a rocket that has landed to escape pursuing enemies, bearing scientists who survived the war, and many android \"slaves.\" The time travellers are invited to escape when the ship is again ready to blast off - but just before that happens, the scientits' enemy returns and fires on the sitting-duck ship. A very bad day for the scientists turns terminal at that point, and the 20th-century Earthlings barely escape with their skins.",
+      "tmdbMovieId": 49160,
+      "avgRating": 2.73333,
+      "releaseYear": "1964",
+      "numRatings": 15,
+      "posterPath": "/xWz6pjLpTce8O0k8MZBd7iXXFex.jpg"
+   }
+}

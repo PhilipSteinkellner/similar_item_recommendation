@@ -1,0 +1,985 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "smoking",
+            "id": 919
+         },
+         {
+            "name": "man-woman relation",
+            "id": 5756
+         },
+         {
+            "name": "painting",
+            "id": 5918
+         },
+         {
+            "name": "friendship",
+            "id": 6054
+         },
+         {
+            "name": "prayer",
+            "id": 6157
+         },
+         {
+            "name": "love",
+            "id": 9673
+         },
+         {
+            "name": "snow",
+            "id": 10794
+         },
+         {
+            "name": "memory",
+            "id": 10937
+         },
+         {
+            "name": "rural setting",
+            "id": 11004
+         },
+         {
+            "name": "orphan",
+            "id": 13014
+         },
+         {
+            "name": "cruelty",
+            "id": 14624
+         },
+         {
+            "name": "free will",
+            "id": 18091
+         },
+         {
+            "name": "guardian",
+            "id": 18092
+         },
+         {
+            "name": "wedding ceremony",
+            "id": 18093
+         },
+         {
+            "name": "ward",
+            "id": 180532
+         }
+      ],
+      "imdb_id": "tt1229822",
+      "video": false,
+      "title": "Jane Eyre",
+      "recommendations": [
+         2977,
+         4584,
+         4347,
+         96724,
+         12783,
+         4348,
+         48231,
+         12184,
+         9587,
+         29963,
+         14061,
+         10399,
+         75900,
+         24684,
+         18093,
+         18320,
+         3573,
+         250734,
+         1887,
+         42188
+      ],
+      "backdrop_path": "/qmERQjNTQ8HhBi5dxwv8BNzrOX.jpg",
+      "revenue": 34710627,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 4,
+               "character": "Jane Eyre",
+               "gender": 1,
+               "credit_id": "52fe46d09251416c91060a01",
+               "name": "Mia Wasikowska",
+               "profile_path": "/9vjaqsaoW9jzRaWMnbZ06g9KTgP.jpg",
+               "id": 76070,
+               "order": 0
+            },
+            {
+               "cast_id": 6,
+               "character": "Edward Rochester",
+               "gender": 2,
+               "credit_id": "52fe46d09251416c91060a09",
+               "name": "Michael Fassbender",
+               "profile_path": "/ohGJPTlou8TuZ8VOz5m9kChWgts.jpg",
+               "id": 17288,
+               "order": 1
+            },
+            {
+               "cast_id": 5,
+               "character": "St. John",
+               "gender": 2,
+               "credit_id": "52fe46d09251416c91060a05",
+               "name": "Jamie Bell",
+               "profile_path": "/7HgepK5YE8u0xrv3lJZjaEoENwl.jpg",
+               "id": 478,
+               "order": 2
+            },
+            {
+               "cast_id": 7,
+               "character": "Mrs. Fairfax",
+               "gender": 1,
+               "credit_id": "52fe46d09251416c91060a0d",
+               "name": "Judi Dench",
+               "profile_path": "/2is9RvJ3BQAku2EtCmyk5EZoxzT.jpg",
+               "id": 5309,
+               "order": 3
+            },
+            {
+               "cast_id": 39,
+               "character": "Hannah",
+               "gender": 1,
+               "credit_id": "52fe46d19251416c91060a89",
+               "name": "Su Elliott",
+               "profile_path": "/6IlvNaDF0JRF9hhIVTOEyLDjS36.jpg",
+               "id": 1221007,
+               "order": 4
+            },
+            {
+               "cast_id": 9,
+               "character": "Diana Rivers",
+               "gender": 1,
+               "credit_id": "52fe46d09251416c91060a11",
+               "name": "Holliday Grainger",
+               "profile_path": "/6hIz4Tu4TojIW5gITv1dw1cRSA3.jpg",
+               "id": 302165,
+               "order": 5
+            },
+            {
+               "cast_id": 10,
+               "character": "Mary Rivers",
+               "gender": 1,
+               "credit_id": "52fe46d09251416c91060a15",
+               "name": "Tamzin Merchant",
+               "profile_path": "/fFqq6Qj96iF3P1KwhN4JhmqRyi0.jpg",
+               "id": 36672,
+               "order": 6
+            },
+            {
+               "cast_id": 11,
+               "character": "Young Jane",
+               "gender": 1,
+               "credit_id": "52fe46d09251416c91060a19",
+               "name": "Amelia Clarkson",
+               "profile_path": "/3fmvM8iooBWm00ZWVjIWaOgBkiE.jpg",
+               "id": 927703,
+               "order": 7
+            },
+            {
+               "cast_id": 12,
+               "character": "John Reed",
+               "gender": 2,
+               "credit_id": "52fe46d09251416c91060a1d",
+               "name": "Craig Roberts",
+               "profile_path": "/dO58JjBZUM82HqGTv7AMN0O2tJ6.jpg",
+               "id": 104561,
+               "order": 8
+            },
+            {
+               "cast_id": 13,
+               "character": "Mrs. Reed",
+               "gender": 1,
+               "credit_id": "52fe46d09251416c91060a21",
+               "name": "Sally Hawkins",
+               "profile_path": "/iQV1udEUKw6P3sk3vJWOQwLwN0r.jpg",
+               "id": 39658,
+               "order": 9
+            },
+            {
+               "cast_id": 14,
+               "character": "Miss Abbot",
+               "gender": 1,
+               "credit_id": "52fe46d09251416c91060a25",
+               "name": "Lizzie Hopley",
+               "profile_path": "/5Scwx7kFCsKugVW0oYDo73o0830.jpg",
+               "id": 1089514,
+               "order": 10
+            },
+            {
+               "cast_id": 15,
+               "character": "Bessie",
+               "gender": 1,
+               "credit_id": "52fe46d09251416c91060a29",
+               "name": "Jayne Wisener",
+               "profile_path": "/wEBqOkuKJmTeew401wvWgtri1Q9.jpg",
+               "id": 444008,
+               "order": 11
+            },
+            {
+               "cast_id": 16,
+               "character": "Eliza Reed",
+               "gender": 1,
+               "credit_id": "52fe46d09251416c91060a2d",
+               "name": "Freya Wilson",
+               "profile_path": "/zgZgUOeLGgxkZh5SDXLgA3gMINx.jpg",
+               "id": 548169,
+               "order": 12
+            },
+            {
+               "cast_id": 17,
+               "character": "Georgiana Reed",
+               "gender": 1,
+               "credit_id": "52fe46d09251416c91060a31",
+               "name": "Emily Haigh",
+               "profile_path": "/3DurHkhVnH02wxmLfFUrgZvqYHX.jpg",
+               "id": 1089516,
+               "order": 13
+            },
+            {
+               "cast_id": 18,
+               "character": "Mr. Brocklehurst",
+               "gender": 2,
+               "credit_id": "52fe46d09251416c91060a35",
+               "name": "Simon McBurney",
+               "profile_path": "/npYHdUV4IBy0YqmyxxcLQ3YouDt.jpg",
+               "id": 16358,
+               "order": 14
+            },
+            {
+               "cast_id": 19,
+               "character": "Miss Scatcherd",
+               "gender": 1,
+               "credit_id": "52fe46d09251416c91060a39",
+               "name": "Sandy McDade",
+               "profile_path": "/fSWLKwfwnWxM4hXaF5Hvxztei3s.jpg",
+               "id": 195383,
+               "order": 15
+            },
+            {
+               "cast_id": 20,
+               "character": "Helen Burns",
+               "gender": 1,
+               "credit_id": "52fe46d09251416c91060a3d",
+               "name": "Freya Parks",
+               "profile_path": "/cT2oZZN9rxxIuoY6bqO5lkP0m2Y.jpg",
+               "id": 970737,
+               "order": 16
+            },
+            {
+               "cast_id": 21,
+               "character": "Miss Temple",
+               "gender": 1,
+               "credit_id": "52fe46d09251416c91060a41",
+               "name": "Edwina Elek",
+               "profile_path": null,
+               "id": 1089517,
+               "order": 17
+            },
+            {
+               "cast_id": 22,
+               "character": "John",
+               "gender": 0,
+               "credit_id": "52fe46d09251416c91060a45",
+               "name": "Ewart James Walters",
+               "profile_path": "/z4WRDB2e4koEf5X9kcr1AeoqVYn.jpg",
+               "id": 207031,
+               "order": 18
+            },
+            {
+               "cast_id": 23,
+               "character": "Leah",
+               "gender": 1,
+               "credit_id": "52fe46d09251416c91060a49",
+               "name": "Georgia Bourke",
+               "profile_path": "/pDNho6uyVDJk4jx26YgVmzsEgRg.jpg",
+               "id": 1089518,
+               "order": 19
+            },
+            {
+               "cast_id": 24,
+               "character": "Martha",
+               "gender": 1,
+               "credit_id": "52fe46d19251416c91060a4d",
+               "name": "Sally Reeve",
+               "profile_path": "/th07Oczvdkb2wJSsbPoDnJ9LmOs.jpg",
+               "id": 1089519,
+               "order": 20
+            },
+            {
+               "cast_id": 25,
+               "character": "Adèle Varens",
+               "gender": 1,
+               "credit_id": "52fe46d19251416c91060a51",
+               "name": "Romy Settbon Moore",
+               "profile_path": "/zySiKa0MuIcgsk1fl0WPuQVqJrZ.jpg",
+               "id": 1089520,
+               "order": 21
+            },
+            {
+               "cast_id": 26,
+               "character": "Sophie",
+               "gender": 1,
+               "credit_id": "52fe46d19251416c91060a55",
+               "name": "Eglantine Rembauville-Nicolle",
+               "profile_path": "/sczfyfqmWlEBbgPRsT3UisdzdEI.jpg",
+               "id": 84926,
+               "order": 22
+            },
+            {
+               "cast_id": 41,
+               "character": "Grace Poole",
+               "gender": 1,
+               "credit_id": "549a0b6192514131320007bf",
+               "name": "Rosie Cavaliero",
+               "profile_path": "/eTUfaWM0H4KTlCsMBsr7Rld29AM.jpg",
+               "id": 151949,
+               "order": 23
+            },
+            {
+               "cast_id": 28,
+               "character": "Undercook",
+               "gender": 1,
+               "credit_id": "52fe46d19251416c91060a5d",
+               "name": "Angela Curran",
+               "profile_path": "/uUzym4tHDSSbAgnydkr8QBAXvP1.jpg",
+               "id": 174700,
+               "order": 24
+            },
+            {
+               "cast_id": 29,
+               "character": "Blanche Ingram",
+               "gender": 1,
+               "credit_id": "52fe46d19251416c91060a61",
+               "name": "Imogen Poots",
+               "profile_path": "/jhirGwxoletj6wAzAttWJj3ra3H.jpg",
+               "id": 17606,
+               "order": 25
+            },
+            {
+               "cast_id": 30,
+               "character": "Lady Ingram",
+               "gender": 1,
+               "credit_id": "52fe46d19251416c91060a65",
+               "name": "Sophie Ward",
+               "profile_path": "/fZUeign4RwFWa8DG4vqlM8m7cf6.jpg",
+               "id": 31921,
+               "order": 26
+            },
+            {
+               "cast_id": 31,
+               "character": "Lord Ingram",
+               "gender": 0,
+               "credit_id": "52fe46d19251416c91060a69",
+               "name": "Joe Van Moyland",
+               "profile_path": null,
+               "id": 126458,
+               "order": 27
+            },
+            {
+               "cast_id": 32,
+               "character": "Colonel Dent",
+               "gender": 0,
+               "credit_id": "52fe46d19251416c91060a6d",
+               "name": "Hayden Phillips",
+               "profile_path": null,
+               "id": 1089522,
+               "order": 28
+            },
+            {
+               "cast_id": 33,
+               "character": "Mrs. Dent",
+               "gender": 1,
+               "credit_id": "52fe46d19251416c91060a71",
+               "name": "Laura Phillips",
+               "profile_path": null,
+               "id": 1089523,
+               "order": 29
+            },
+            {
+               "cast_id": 34,
+               "character": "Richard Mason",
+               "gender": 2,
+               "credit_id": "52fe46d19251416c91060a75",
+               "name": "Harry Lloyd",
+               "profile_path": "/vI6FWizXNa5quCyIiTd06gxNQu1.jpg",
+               "id": 205258,
+               "order": 30
+            },
+            {
+               "cast_id": 35,
+               "character": "Dr. Carter",
+               "gender": 2,
+               "credit_id": "52fe46d19251416c91060a79",
+               "name": "Ned Dennehy",
+               "profile_path": "/nrHkAv1Z70Jei2O0AZavwmP5eUf.jpg",
+               "id": 63362,
+               "order": 31
+            },
+            {
+               "cast_id": 36,
+               "character": "Clergyman Wood",
+               "gender": 0,
+               "credit_id": "52fe46d19251416c91060a7d",
+               "name": "Joseph Kloska",
+               "profile_path": "/bGlnc339ZNVbRk5uVi6UkON2VRG.jpg",
+               "id": 209631,
+               "order": 32
+            },
+            {
+               "cast_id": 37,
+               "character": "Briggs",
+               "gender": 0,
+               "credit_id": "52fe46d19251416c91060a81",
+               "name": "Ben Roberts",
+               "profile_path": null,
+               "id": 186164,
+               "order": 33
+            },
+            {
+               "cast_id": 38,
+               "character": "Bertha Mason",
+               "gender": 1,
+               "credit_id": "52fe46d19251416c91060a85",
+               "name": "Valentina Cervi",
+               "profile_path": "/cfYU52DcAa4ZM7GrHJKRinFTV7W.jpg",
+               "id": 21965,
+               "order": 34
+            },
+            {
+               "cast_id": 43,
+               "character": "Thornfield's Maid (uncredited)",
+               "gender": 1,
+               "credit_id": "5aabc5f89251413ff700fbe8",
+               "name": "Sarah Jane Close",
+               "profile_path": null,
+               "id": 1999369,
+               "order": 35
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe46d09251416c910609f1",
+               "name": "Cary Fukunaga",
+               "profile_path": "/9BDeASL8E1Rr55fn0uQwEv1EAH6.jpg",
+               "id": 87257,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe46d09251416c910609f7",
+               "name": "Charlotte Brontë",
+               "profile_path": null,
+               "id": 120999,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe46d09251416c910609fd",
+               "name": "Moira Buffini",
+               "profile_path": "/szDoeVFhN0APOELLjWmBR4xRnsb.jpg",
+               "id": 121000,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "568706b2c3a3683628008850",
+               "name": "Dario Marianelli",
+               "profile_path": "/bjYBKs9MuvkF9dL1KIj4oTzdcBq.jpg",
+               "id": 11269,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5aabc6f30e0a261e4c011489",
+               "name": "Mairi Bett",
+               "profile_path": "/3PTGsh1BvnvadPQp0GUVixntjUO.jpg",
+               "id": 57201,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5aabc77d9251413fe2010f20",
+               "name": "Hannah Farrell",
+               "profile_path": null,
+               "id": 1999375,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aabc7b20e0a261e46011ea3",
+               "name": "Peter Hampden",
+               "profile_path": null,
+               "id": 73517,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5aabc7c5c3a3686c1c00fd13",
+               "name": "Christine Langan",
+               "profile_path": "/ov654QaxZXb5ZeSrvfeu39ZNB2.jpg",
+               "id": 15726,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5aabc7f4c3a3686c11011eeb",
+               "name": "Alison Owen",
+               "profile_path": "/oNkOmQoFc3ktKSbU2R1nWOH0wh1.jpg",
+               "id": 37756,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5aabc897c3a3686c11011f6c",
+               "name": "Paul Trijbits",
+               "profile_path": null,
+               "id": 55418,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5aabc8a89251413ff1012081",
+               "name": "Faye Ward",
+               "profile_path": null,
+               "id": 71572,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aabc8d60e0a261e3f011ff2",
+               "name": "Adriano Goldman",
+               "profile_path": null,
+               "id": 52530,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5aabc8ff0e0a261e46011f9b",
+               "name": "Melanie Oliver",
+               "profile_path": null,
+               "id": 70506,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5aabc993c3a3686c23011d5f",
+               "name": "Nina Gold",
+               "profile_path": "/kljYhRvTAqQfX198mjz0ITP0hFM.jpg",
+               "id": 16363,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aabc9bb9251413ff700ff01",
+               "name": "Will Hughes-Jones",
+               "profile_path": null,
+               "id": 30079,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aabc9ca0e0a261e4c0116e7",
+               "name": "Karl Probert",
+               "profile_path": null,
+               "id": 30080,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5aabc9e50e0a261e3c010b49",
+               "name": "Tina Jones",
+               "profile_path": null,
+               "id": 15733,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5aabca0c9251413ff10121d1",
+               "name": "Greer Whitewick",
+               "profile_path": null,
+               "id": 1999384,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aabca45c3a3686c05010052",
+               "name": "Michael O'Connor",
+               "profile_path": null,
+               "id": 1682789,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aabca729251413ff4010382",
+               "name": "Sasha Harris",
+               "profile_path": null,
+               "id": 122277,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aabca859251413fe801119a",
+               "name": "Michael Solinger",
+               "profile_path": null,
+               "id": 142094,
+               "department": "Crew",
+               "job": "Post Production Supervisor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5aabcac1c3a3686c1c00ff28",
+               "name": "Kharmel Cochrane",
+               "profile_path": null,
+               "id": 1653024,
+               "department": "Production",
+               "job": "Casting Assistant"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5aabcb2e0e0a261e3c010c71",
+               "name": "Robert Sterne",
+               "profile_path": null,
+               "id": 1019426,
+               "department": "Production",
+               "job": "Casting Assistant"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aabcb53c3a3686c11012196",
+               "name": "Finlay Bradbury",
+               "profile_path": null,
+               "id": 1941307,
+               "department": "Art",
+               "job": "Location Scout"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aabcbb2c3a3686c23011f07",
+               "name": "Rupert Bray",
+               "profile_path": null,
+               "id": 1922344,
+               "department": "Art",
+               "job": "Location Scout"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aabcbd6c3a3686c0b0129fc",
+               "name": "Giles Edleston",
+               "profile_path": null,
+               "id": 1402942,
+               "department": "Production",
+               "job": "Location Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aabcc02c3a3686c0e011f21",
+               "name": "Alex Gladstone",
+               "profile_path": null,
+               "id": 1413042,
+               "department": "Art",
+               "job": "Location Scout"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aabcc110e0a261e46012237",
+               "name": "Mark Grimwade",
+               "profile_path": null,
+               "id": 1409309,
+               "department": "Art",
+               "job": "Location Scout"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5aabcc33c3a3686c050101d9",
+               "name": "James Bellamy",
+               "profile_path": null,
+               "id": 1337419,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5aabcc540e0a261e46012274",
+               "name": "Andrew Glen",
+               "profile_path": null,
+               "id": 1422818,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5aabcc8f9251413fe2011372",
+               "name": "Maggie Rodford",
+               "profile_path": null,
+               "id": 1540471,
+               "department": "Sound",
+               "job": "Music Supervisor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5aabcd66c3a3686c1c010154",
+               "name": "Polly Jefferies",
+               "profile_path": null,
+               "id": 1999385,
+               "department": "Production",
+               "job": "Production Coordinator"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5aabcdba9251413fee010ddb",
+               "name": "Jo Farrugia",
+               "profile_path": null,
+               "id": 1578865,
+               "department": "Production",
+               "job": "Researcher"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5aabce0fc3a3686c23012144",
+               "name": "Lynsey Miller",
+               "profile_path": null,
+               "id": 1919930,
+               "department": "Production",
+               "job": "Production Coordinator"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5aabce530e0a261e3f0124b9",
+               "name": "Sylvia Parker",
+               "profile_path": null,
+               "id": 1402943,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5aabcebcc3a3686c050103aa",
+               "name": "Charlie Simpson",
+               "profile_path": null,
+               "id": 1999387,
+               "department": "Production",
+               "job": "Unit Manager"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 8.945501,
+      "production_countries": [
+         {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+         },
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         }
+      ],
+      "id": 38684,
+      "vote_count": 547,
+      "budget": 0,
+      "overview": "After a bleak childhood, Jane Eyre goes out into the world to become a governess. As she lives happily in her new position at Thornfield Hall, she meet the dark, cold, and abrupt master of the house, Mr. Rochester. Jane and her employer grow close in friendship and she soon finds herself falling in love with him. Happiness seems to have found Jane at last, but could Mr. Rochester's terrible secret be about to destroy it forever?",
+      "similar": [
+         38,
+         979,
+         13,
+         11224,
+         332872,
+         9836,
+         72105,
+         128,
+         920,
+         12627,
+         223,
+         14536,
+         83770,
+         109689,
+         17663,
+         297222,
+         261470,
+         1259,
+         310121,
+         4497
+      ],
+      "original_title": "Jane Eyre",
+      "runtime": 120,
+      "poster_path": "/oC7wvdrBA0RgbXaJZwcxsl1zKBR.jpg",
+      "spoken_languages": [
+         {
+            "name": "Français",
+            "iso_639_1": "fr"
+         },
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": "/wdmwQuV4R1MIr8A78izZkC184uC.png",
+            "name": "BBC Films",
+            "id": 288,
+            "origin_country": "GB"
+         },
+         {
+            "logo_path": null,
+            "name": "Ruby Films",
+            "id": 2054,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/xnFIOeq5cKw09kCWqV7foWDe4AA.png",
+            "name": "Focus Features",
+            "id": 10146,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": null,
+            "name": "Lipsync Productions",
+            "id": 9987,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2011-03-11",
+      "vote_average": 7,
+      "belongs_to_collection": null,
+      "tagline": "She sought refuge... and found a place haunted by secrets.",
+      "adult": false,
+      "homepage": "http://janeeyrethemovie.com/",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Cary Joji Fukunaga"],
+      "runtime": 120,
+      "synopsis": "In 19th century England, young orphan Jane Eyre (Amelia Clarkson), resides with her wealthy but unloving Aunt Reed (Sally Hawkins), the wife of Jane's late maternal uncle. Jane's cousins taunt and abuse her, and Jane is looked upon with disdain by everyone in the house. After reaching her breaking point and physically attacking her cousin, she is sent to Lowood School where dozens of girls are forced to live a meager and miserable life and are frequently beaten in the name of piety. While there, Jane is befriended by classmate Helen Burns (Freya Parks). Jane is heartbroken when Helen, the only kind person she had ever known, dies of consumption. Years later, 18-year-old Jane becomes a teacher at Lowood. She finally departs when she finds employment as a governess to a little girl living at Thornfield Hall, a large estate miles away. Upon her arrival, Jane is greeted by the housekeeper, Mrs. Fairfax (Judi Dench) who explains to her that the master of Thornfield Hall, Edward Fairfax Rochester, is rarely at home and has a somewhat gruff demeanor, but is a good-hearted man. Jane begins lessons with her pupil, Adele Varens (Romy Settbon Moore), a French girl whose late mother was affiliated with Rochester (it is insinuated that Adele might be their illegitimate daughter). Jane is happy to be living with good people in a comfortable home at last. After three months at Thornfield, Jane is sent to post a letter. As she walks through the woods, she is startled by a man on horseback galloping by, who falls and injures his leg. Jane assists the man back onto his horse, not knowing that he was, in fact, Mr. Rochester himself. That evening, Jane is called in to meet Rochester (Michael Fassbender), who has returned home and is nursing his sore leg. He speaks very bluntly and does not bother to sugar-coat any coarse phrases, but is taken with Jane's forward honesty and insightful observations. Jane is confused but quietly intrigued by his mysterious persona and apparent fearlessness. Late one night, Jane is woken by a strange laugh from the corridor outside her bedroom door. She goes to the hallway and sees smoke pouring from Mr. Rochester's room.Seeing his bed in flames with he still lying in it, she hurriedly wakes him and assists him in extinguishing the fire. She explains the noise she had heard, and he leaves quickly to address it, without telling her what caused it. When he returns, he solemnly thanks Jane for saving his life, saying that he saw a goodness in her when he first met her. Rochester leaves abruptly the next morning and is gone for weeks. He returns with several guests, including Blanche Inrgam (Imogen Poots), a beautiful and accomplished young woman from a prominent family. Mrs. Fairfax explains that Blanche is \"a great favorite\" of Mr. Rochester, and expects that they will soon be engaged. Jane is quietly jealous, and is nervous when Rochester insists on her presence in the drawing room with the guests after dinner. She sits with Adele and is completely ignored by the wealthy guests, who callously joke about their disdain for governesses. Insulted, Jane slips from the room but is followed by Rochester, who notices the tears in her eyes before she retreats upstairs. Immediately afterward, Rochester is visited by an old acquaintance, Richard Mason (Harry Lloyd). Mason's motive for visiting is not revealed, but he is brutally stabbed in the dead of night by an unseen culprit. Rochester sends the guests back to their rooms, and enlists Jane to help aid Mason while they wait for the doctor. The weakened Mason is sent off with the doctor the following morning, and Jane asks who had been the violent attacker. Rochester explains that he cannot tell her. He then speaks cryptically of the woman he loves, who Jane assumes to be Blanche Ingram. It is clear that Rochester is speaking of Jane, but neither one admits to it. Jane is flattered by the attention nonetheless. Jane receives news that her cousin John Reed, who had been her principal tormentor as a child, had squandered his fortune and committed suicide. The shock had brought on a stroke in Aunt Reed, who is in critical condition and requesting to speak to Jane. Despite her resentment toward her abusive former guardian, Jane travels to her old home to visit her aunt. Mrs. Reed produces a letter, dated three years earlier, from Jane's uncle John Eyre who lived on a wealthy estate in Madeira. He wished to adopt his niece as his own and leave her all his possessions upon his death. Jane, who had always been told that she had no living blood relatives, was not given the letter. Reed had written back, telling John Eyre that Jane had died of typhus at school. Jane finally writes a return letter, assuring her uncle that she is very much alive and is relieved to have a living relative. Though furious at this act of deceit, Jane gives her aunt \"full and free forgiveness\" and returns to Thornfield. She is greeted amiably by Rochester, to whom she had grown close over the span of her employment. Mrs. Fairfax later tells her that Rochester has dropped hints of marriage, ordering jewels from his bank and singing joyfully around the house. Both women assume he intends to marry Blanche Ingram, and Jane is inwardly distressed. She speaks to Rochester primly, saying that she must leave Thornfield and find another situation before he is married. Rochester finally reveals that he is in love with Jane, not Blanche, and begs the stunned governess to marry him. After the proposal sinks in, an elated Jane accepts. Mrs. Fairfax, startled by the news, warns Jane to keep her wits about her until the wedding. On the day of their marriage, Rochester is strangely impatient and quickly marches Jane to the church for a private ceremony. Before they can say their vows, they are interrupted by a lawyer and Richard Mason, who insist that the marriage be cancelled as Rochester is already married. Jane is shocked to learn the secret: 15 years earlier, Rochester had been in an arranged marriage to Mason's sister, the beautiful but mentally disturbed Bertha (Valentina Cervi). Over the years, Bertha grew more and more insane and violent. To protect her from the cruel treatment she would receive at an asylum, Rochester concealed his wife in a secret room at Thornfield behind a curtain in his own bedroom. She was looked after by a servant, Mrs. Poole, who had dozed off the night of the fire, which was set by Bertha herself. It was Bertha's crazed laugh that had woken Jane and ultimately saved Rochester's life. Jane is taken to the secret room at Thornfield, where Bertha attacks Rochester after seeing Jane in a wedding gown. Jane is horrified and shocked. She changes back into her plain dress and meets once more with Rochester, who tearfully begs her forgiveness. Jane is agonized by her decision to leave Thornfield rather than to be with a married man, though she still loves Rochester. In tears, she escapes from the house on foot. After miles of walking, she collapses at a doorstep in the rain and is taken inside by the tenants, St. John Rivers (Jamie Bell) and his two sisters. They nurse the weak and sickly Jane back to health, and she gives her name as \"Jane Elliott,\" saying nothing of her time at Thornfield. Rivers, a young minister, gives Jane a job teaching village girls at a small parish school he had established. Though the pay is low, Jane is given a small cottage of her own and begins to enjoy her work and three new friends despite her dashed hopes of being Rochester's wife. Rivers visits Jane one night and calmly reveals that he knows her true identity. He delivers the news that her uncle, John Eyre, had died and left his entire estate to Jane as promised. Stunned that she is now worth 20 thousand pounds, Jane insists on sharing her new found wealth with St. John and his sisters. Soon afterward, St. John asks Jane to marry him and accompany him to India for his missionary work. Jane loves him only as a brother, and is put off by his businesslike approach to marriage. She finally resolves to return to Thornfield. Jane is horrified to see Thornfield Hall reduced to a scorched shell. After meeting with Mrs. Fairfax, Jane is told the story of the most recent fire: It was started by Bertha, whose condition had deteriorated even further. Rochester ensured that all the other inhabitants were safely out of the house, and then returned to the inferno to rescue Bertha who had gone up to the roof. He begged her to come down, but she jumped to her death. Rochester escaped the fire, but was blinded. Jane is heartbroken at the news of his suffering. She finds him sitting outside and quietly approaches, leading to a tearful reunion, with Jane and Rochester overjoyed that they can be together at last.",
+      "writers": [
+         "Charlotte Brontë",
+         "Moira Buffini"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt1229822/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BNjU0Mjc0NzU3NF5BMl5BanBnXkFtZTcwMTU4OTkwNA@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Mia Wasikowska, Michael Fassbender, Jamie Bell | See full cast and crew »"],
+      "reviews": [
+         "Charlotte Brontë's \"Jane Eyre\" has been my favorite book since I was 11 years old. The tale of a feisty orphan-girl-turned-governess who finds true love in a spooky mansion and ultimately redeems a tormented hero has made it to the top of every \"Best Love Stories\" list since it was first published in 1847, and with good reason. It's the perfect Gothic novel, melding mystery, horror, and the classic medieval castle setting with heart-stopping romance. There have been at least 18 film versions of \"Jane Eyre\" and 9 made-for-television movies--27 in all! I have seen most of them, some multiple times�-both out of my deep love for the tale, and as part of the research for my novel \"The Secret Diaries of Charlotte Brontë,\" the true story of Charlotte's remarkable life, her inspiration behind \"Jane Eyre,\" and her turbulent, real-life romance. Every screen version of JANE EYRE has its merits. I especially loved Timothy Dalton's portrayal of Mr. Rochester in the 1983 mini-series, and the 2006 Masterpiece Theatre mini-series starring Ruth Wilson and Toby Stephens. I was very curious to see how the new JANE EYRE adaptation from Focus Films would measure up. I am happy to report that the film, which I saw last night at an advance screening, is very good indeed, with marvelous visuals, terrific performances, and enough unique elements to make it a worthy new addition. The most notable distinction that sets this film apart from the rest is its structure. Rather than telling the tale in a linear fashion, it begins at a crisis moment later in the story, and tells the majority of the tale in flashback�-which works wonderfully well, enabling screenwriter Moira Buffini to effectively compress a long novel into a two-hour time span. The movie opens as Jane is fleeing Thornfield after having discovered Mr. Rochester's dark and heartbreaking secret. We fear for her as she becomes lost on the stormy moor. The mystery continues as St. John Rivers (well-played by a sympathetic yet appropriately stern Jamie Bell) and his sisters take her in. As Jane ruminates about the past events that led to her escape, we are treated to the story in flashback. The casting of Mia Wasikowska as Jane Eyre also sets this production apart, since she is closer in age than most actresses who've played the role to the character in the novel, who was about 18 years old in the Thornfield section. Although I wish Mia's Jane was a bit more \"swoony\" over Mr. Rochester earlier on (yes, she is supposed to be stoic, but I missed that phase where we get to see her blossom as she falls in love with him, and then is utterly crushed when she believes him to be in love with Miss Ingram), Mia truly inhabits the role, beautifully portraying Jane's sense of self-respect, integrity, and restraint, as well as her passion and vulnerability. Michael Fassbender embodies Mr. Rochester with the ideal blend of charisma and sinister brooding, while at the same time allowing glimpses of his underlying desperation and the wounded depths of his soul. Sally Hawkins as Mrs. Reed effectively portrays the icy ogre who menaces the young Jane (a spirited and appealing Amelia Clarkson.) And Judi Dench, as always, gives a superb performance as housekeeper Mrs. Fairfax. The film's locations do justice to the novel's often gloomy, atmospheric tone. Director Cary Fukunaga makes excellent use of Haddon Hall in Derbyshire, one of the oldest houses in England, as Thornfield Hall, emphasizing its dark, Gothic, masculine feel. The exterior locations--gardens, cliffs, craggy rocks, stone walls, and seemingly endless fields--make an arresting, dramatic backdrop for the story. You truly feel as though you are in the middle of nowhere. My only minor gripes are that when Mr. Rochester's secret is revealed, it feels a little too prettified, and the ending was too abrupt for me. But that aside, the filmmakers have done a masterful job translating the novel to the screen. I highly recommend it! --Syrie James",
+         "The oft-filmed Charlotte Brontë's Gothic novel has been adapted into TV and film more than two dozen times. Here's a summary of what works and what doesn't in this 2011 version: THE GOOD: � Cary Fukunaga's direction. He preferred natural light for much of the film, forgoing camera lighting and instead opted for candles which created the proper dark, moody and gloomy atmosphere that matches Rochester's temperament perfectly. He used some hand-held camera work to great effect, but not too much so that it became distracting. Thornfield Hall, Rochester's expansive mansion looked like something Count Dracula could comfortably settle in. It practically becomes its own character here and adds the necessary spookiness we come to expect from this Gothic tale. � Judi Dench as Mrs. Fairfax � When does Dame Judi ever disappoint? Apparently never. Even in small roles, the scenes she's in are one of the best ones in the movie. There was an important scene involving Jane and Rochester where Mrs. Fairfax didn't utter a single word, but she made quite an impact just with her expression. � Mia Wasikowska as Jane. A lot of the issues I have with literary adaptation is that the supposedly plain heroine usually ends up being played actresses who are too glamorous for the role. Fortunately in this one, Wasikowska was believable as a plain young girl, though she obviously is a pretty girl. At 18, she's also the perfect age for the role. If I were to nitpick though, she's not exactly 'little' as she's described in the novel as Rochester doesn't quite tower over her. In any case, I thought she did a wonderful job carrying the film. She captures the essence of the strong-willed character who holds her own against her much older subject of her affection, and one who despite 'not being well-acquainted with men' doesn't seem intimidated by them. � Michael Fassbender as Rochester. In many ways, we evaluate a Jane Eyre adaptation by its Rochester, and as long as we use that 'calculation,' I think he measures up quite well. He has a strong screen presence and is the kind of actor who's usually the best thing even in a so-so film, and he makes the most of what's given to him. Even with the relatively short screen time, which is less than what I had hoped, he's able to make us care for Rochester. THE NOT-SO-GOOD: � This cliff-notes version feels way too fast. With a complex story like this, no doubt it'd be a challenge for any filmmaker, no matter how talented, to pare it down into a two-hour movie. So it's inevitable that this film just moves along too quick for me. Of course that is not Fukunaga's fault and he really made the best of it, but still this version just leaves me wanting more. I guess this is perhaps a more 'accessible' version for the crowd that otherwise would not watch JE. But to me, the story is compelling enough that an extra half-hour would only enhance the viewing experience and allow enough time for the characters to develop an authentic connection. � Dialog omission. This is perhaps a result of being 'spoiled' by the comprehensive 1983 version (which at 5.5 hours is perhaps the longest screen adaptation). Of course it's impossible to include every single dialog from the book, but I was hoping at least some of the important ones are kept. The famous quotes such as \"I am no bird; and no net ensnares me\", \"Do as I do: trust in God and yourself\", \"Reader, I married him\" are not spoken in this adaptation. I also find some of the delivery lacks bite, y'know that certain oomph that an actor does to bring those timeless words to life. � Jamie Bell seems miscast. Now, keep in mind I really like Jamie as an actor and have said so many times on my blog (http://tinyurl.com/mozzs5) However, I don't feel he's right for the role of St. John Rivers. Firstly, when you've already got someone as striking as Fassbender as Rochester, I'd think the casting agent would have to find someone much fairer than he. No offense to Jamie, but that's not the case here and he certainly doesn't fit the book description of 'tall, fair with blue eyes, and with a Grecian profile.' Now, physical appearance aside, he also lack the solemn and pious sensibility of a Christian missionary. � Unconventional storyline � Moira Buffini's script tells the story in flashback mode instead of following the novel's linear storyline. The movie starts off right as Jane is leaving Thornfield, which is right smack dab where the main crisis of the story begins. Now, I can understand that it's done to make it less tedious, yet it gets confusing at times to figure out which part happens in the past or present. I think for someone not familiar with the book, the shuffled time line might be a bit tough to follow. IN CONCLUSION, despite leaving the theater wanting more, I do think this is a worthy adaptation. The production quality is top notch, with gorgeous cinematography, affecting light work and music that serve the story well. There is even one scene of Jane and Rochester that Fukunaga took liberty with that's quite tantalizing. It caught me off guard but I must say that scene left me breathless and is an effective way to convey how much Jane longed for her true love. But in the end, even though I adore Fassbender, he still hasn't replaced Timothy Dalton as my favorite Rochester. Sure, the production quality of this one is superior, but what makes a Jane Eyre story so fascinating and memorable are the heart-wrenching connection between the two main protagonists and the dialog spoken between them, so in that regard, the 1983 version is still the one to beat.",
+         "I saw a sneak preview of Jane Eyre last night at AFI/Silver in Silver Spring MD. This is a beautifully filmed, engrossing, and haunting version of the classic Charlotte Bronte novel Jane Eyre. This film is worth seeing and it will leave you thinking about it long after you have left the theater. It captures that otherworldly and isolated environment that Jane inhabits in her lonely life. After you witness the unloved childhood and brutal boarding school you can understand how Jane can not only adapt to her isolated employment but revel in a world where the absence of abuse is a relief. One thing that struck me was the way the actress portraying Jane Eyre, Mia Wasikowska, inhabited Jane's being. The quiet stillness, the dignity, the steely nerves under the mask of composure. I have been trying to recall another actress who portrayed the physicality of a woman, a governess, in that time period so perfectly. She wasn't a modern actress in a corset, she moved like a young woman who is used to the corset and layers of cloth, and the expectations on a young woman in Victorian England. I also particularly enjoyed the portrayal of a vibrant, intelligent, woman who knows she is caged by the norms of her society and her position in it. Miss Wasikowska did a wonderful portrayal of Jane, giving her great depth while still letting the emotions flit across her usually stoic face. I also liked Mrs Reed - she is a wholly human villain, petty, cruel, insecure, and resentful. You can see her in Miss Ingram, a petty woman who could turn hateful. The young Jane is a stand out performance, all spit and fury, you realize that Jane's survival is due to her courage. That the intensity of the child is coiled inside the adult Jane. The cinematography is beautiful, the sets and costumes look accurate, the screenplay handled well, and the directing outstanding. I also appreciate that no character was over done. This film will age well, where some other versions can make you cringe now. This film is going to make me pick up the novel and read it again after a very long time. Not a bad recommendation for a movie.",
+         "As an avid fan of the novel, I was very excited to see this preview and I have waited anxiously for the film. I finally saw it today at the threatre and it was wonderful! Excellent. This is the best film version of \"Jane Eyre\" yet (and I've seen most of them.) This is hands-down the best CASTING for \"Jane Eyre\" yet. I have never seen a more perfect Jane Eyre, Edward Rochester, or Mrs. Fairfax. Period. Jane brought tears to my eyes so many, many times in this film. She was simply perfect. Small, soft-spoken, young, composed, graceful, dignified, and lovely in her uniquely plain way. And Edward Rochester? Wow --what a ruggedly handsome man! He was certainly not \"pretty-boy handsome\"; but rugged, masculine, with sharp features, a deep voice, and a sometimes abrupt and harsh manner. He was exactly as described in \"Jane Eyre!\" BRAVO to you both, Michael Fassbender and Mia Wasikowska! In my opinion, Fassbender and Wasikowska have finally given us perfect embodiments of all we adored in them.... Jane Eyre and Edward Rochester--two of the most beloved fictional characters of all time. Brilliant performances, really. I am truly delighted. The sets, costumes, lighting, art, mood, cinematography, and score were all excellent. I hope the Academy Award is awake and paying attention! Loving the novel as I do, I found a few flaws I must mention: I didn't think Blanche was nearly pretty enough; Bertha was not frightening enough; Rochester's kindnesses to Jane were not displayed here (an audience member might wonder why she loved him as she did); St. John Rivers was a much harsher character here --not gentle and lovable as he was in the book; and lastly, the film was less than two hours long and therefore too much was left out of the story. I fervently wish it could have been 20 or 30 minutes longer. Another 20 or 30 minutes might have helped the audience understand even better Jane's desolate past, her fierce love for Rochester, and her bright future. That may sound like a lot of criticism, but you must consider what a masterpiece the novel \"Jane Eyre\" is. The novel is often considered ahead of its time due to its masterful portrayal of the development of a thinking and passionate young woman who is individualistic, desiring for a full life, while also highly moral. Overall, I highly recommend the film. It was artfully told. I cried; I gasped; I laughed; I flinched; and I cried some more. I know I'll enjoy watching it again and again. THANK YOU to the actors, director, and everyone involved in bringing this film to its fruition. Hopefully, it will prompt new generations of fans to read the novel and fall in love with Jane Eyre, as so many of us have since it was published in 1847. This film is beautiful, romantic, frightening, sometimes funny, and ultimately very moving. See it on the big screen at the theatre. I think you'll love it!",
+         "I'm very surprised to read the glowing reviews this version of Jane Eyre is receiving. Like other reviewers, Jane Eyre is my absolute favorite book and so I've seen every TV/movie version of it starting with the Orson Welles version. I will agree that the scenery was gorgeous, but other than that, I was pretty disappointed. There's no way to condense this fantastic story into a two-hour movie and do it justice; there's just too much detail and when left out, it makes for a choppy retelling. While watching it, at first I kept \"filling in\" all the parts that were left out. Then I'd try to watch it as someone who had never read the book, but that left me too confused because of the speed at which the story was told, and the flashback retelling of the story. Also, this version has Jane becoming an heiress, but what about the fact that St. John and his sisters truly *are* Jane's relatives??? Her generosity to them wasn't just a nice gesture for taking her in when she showed up at their door. The ending completely irritated me. Jane and Rochester's reunion at the end was a second love story, and it received all of 1-2 minutes before cutting off. I also agree with other reviewers who didn't see/feel any passion between this Jane and Rochester. While I did like their looks for the parts, their scenes together felt like they were reciting lines, not falling in love with each other. And I didn't see any of the passion in Michael Fassbender that you could see with Timothy Dalton or Toby Stephens. If anything, he made me think that Daniel Day-Lewis would make for an excellent Rochester by bringing more depth to the character. All in all, I would recommend people to use their money to rent the Timothy Dalton or Toby Stephens version of this story vs. using it to attend this version.",
+         "This movie is exquisite. It is an example of how a dramatic movie should be made. Far from being corny or contrived, this movie is about integrity, courage, loyalty, and friendship. The movie is beautifully filmed and conveys the moodiness and foreboding associated with the story. The acting is great by all members of the cast. This movie tells a story and tells it well. It provides a glimpse of nineteenth century English society and how people looked and acted at that time. Yet the movie is more than a period piece; its themes are timeless. At no time does the story drag. Jane Eyre is heroic. She is the epitome of human goodness, not the kind that's candy-coated but the kind that is genuine. She transcends a harsh childhood to become a source of great strength for everyone around her. Unlike most Hollywood movies today, Jane Eyre is story-driven, and the story is strong. This movie is well worth watching and the title character is a role model for adolescents or young adults of all ages to emulate.",
+         "Charlotte Brontë's seminal literary work \"Jane Eyre\" has been adapted countless times and prepared in a myriad of ways from the 1943 Joan Fontaine/Orson Welles version that was whittled to an hour and a half to the 1983 BBC mini-series with Zelah Clarke and Timothy Dalton that spans five-plus hours. That certainly begs the question of why anyone, from writer Moira Buffini to director Cary Fukunaga to Dame Judi Dench, would feel inspired to recreate this coming-of-age story about love and accepting its blemishes. Fukunaga's (\"Sin Nombre\") take doesn't exactly provide an amazing revelation or epiphanic justification for bringing \"Jane Eyre\" back to life, but it does prove that no classic can be so overdone that it becomes untouchable; even the most tried and dated of love stories can find new life. Fukanaga has given \"Jane Eyre\" a photorealistic makeover devoid of frills and fiercely au naturel, but no less gripping than the story's \"livelier\" retellings. Fictional period dramas often feel overtly pristine and glazed over to the point of fairytale, but in watching this film, you get the sense that this is quite possibly how the story would have looked and felt if it had been true. All the way down to accents, this rendition has clearly labored over historical authenticity and it shows in the finished product. Mia Wasikowska (\"The Kids Are All Right\") continues to choose spot-on independent films despite leading the billion-dollar \"Alice in Wonderland\" of 2010 and it continues to pay off. She's clearly adept at embodying literary characters, or at least at recreating them within herself rather than worrying about trying to become the way the majority perceives them. Her modest looks suit Jane perfectly and she can play both the fragile girl who has been so often wronged by those who were supposed to care for her and the somewhat self-assured young woman who so plainly understands right from wrong. Buffini (\"Tamara Drewe\") tells \"Jane Eyre\" in an un-narrated flashback. The film opens with Jane dashing away from the spectre of the Thornfield estate and stumbling through the beautifully captured but cold and desolate English countryside in a state of total anguish. She arrives at the Rivers' place where they enquire as to her identity. As the voice of Mr. Rochester (Michael Fassbender) beckons her, she cannot block out the memories of her journey. The film then catches up to that point in real time and continues on to the end. Other than a terrific performance from Amelia Clarkson as young Jane, the early chapters involving Lowood School seem to be of less significance in this version other than the very clear point to establish Mr. Brocklehurst as an insensitive headmaster and clearly spell out Jane's early traumas that have affected her perspective. The love story between Jane and Mr. Rochester and the way it affects Jane takes supreme precedence in this film and with a two- hour run time, rightfully so. Nevertheless, the short beginnings prevent the film from showing the whole scope of Jane's troubled life. Fassbender and Wasikowska work terrifically and manage to communicate the class and age discrepancy that made \"Jane Eyre\" a juicy read back in the 19th Century. Fassbender does seem to let Rochester's guard down quicker than expected, but I enjoyed his choice to be less standoffish and more brooding; he determines his secret to be more a responsibility of an unfortunate nature than a loathsome burden. His love for Jane then feels more sincere. An actress as magnetizing as Judi Dench choosing to play the caretaker Mrs. Fairfax sums up the humble attitude of this \"Jane Eyre.\" She uses her gravitas to the effect of being the film's lone comic relief and complements the scenes rather than stealing them from Wasikowska, who is 55 years her junior. The film itself aims for subtlety and chooses not to amp up the shock value of the story's most pivotal scenes. There's some manufactured suspense, but it's mostly natural. It ends up being the most commendable aspect of Fukunaga's vision, but maybe the most hampering as well. He creates exceptional tone and mood with the help of his wonderful cast and this seizes our interest, but his \"Jane\" never takes a chance with any emotional punches. A superbly crafted film, just not a resonant one. ~Steven C",
+         "This is less a review than an impression that I've been posting at a few sites - I'm an avowed cinephile so I hope that counts for something, but for people who have not seen this film yet, I only want to give a thumbnail. Sometimes a short emotionally-infused impression is better: Oh my. I'm just back from the film and espresso afterward. Never cried so much at any film version of this story. Finally, the best-paired two actors, a writer who knew how to bring out the best of the novel, and a director to pull it all together. Somehow, Director Fukunaga found a way to make it fresh without any modernism at all, with help from Screenwriter Moira Buffini. I do not want to go into detail - I want you to discover this film for yourself. I will say, for me, they mined everything that was important and gave it beautiful expression and downplayed the melodramatic elements of Bronte's story. They simply aren't necessary. We now have a definitive version of Jane Eyre for the ages.",
+         "Don't get me wrong--I've read the novel hundreds of times, and I've endeavored to see as many film and TV adaptations of Jane Eyre as I can. Jane Eyre is and always will be my favorite novel. But I'm very surprised by the glowing reviews on IMDb.com for this version of Jane Eyre. This movie wasn't bad, but it falls way short of 10 stars. No re-hashing of the plot is necessary since everyone knows the story, so here's what I found unsatisfying about this version: * Michael Fassbender and Mia Wasikowska's chemistry is not that great--not the caliber you would expect from a movie version of Rochester and Jane. I didn't feel like they truly longed and desired for each other. The actors in the 2006 BBC miniseries version, Toby Stephens and Ruth Wilson, left me breathless. But Fassbender and Wasikowska felt flat. I don't think Michael Fassbender was particularly a strong Rochester either. Rochester is suppose to be eccentric, dark, brooding, and prone to sudden mood changes--charming one minute, angry the next. Fassbender got the brooding part down, but didn't really display the range of emotions you would expect from a Byronic character like Rochester. * Too much had to be cut in order to cram the story in, and the pace of the plot doesn't flow well. I'm convinced that a good adaptation of the novel can never be done in a 2-hour movie because the novel is just too darn long. * Judi Dench as Mrs. Fairfax? Serious miscasting and a waste of Dench's talent. You hire Dench to kick ass and take names, not be the mild-mannered simpleton housekeeper. * Rochester is suppose to be ugly and Jane's suppose to be PLAIN. Fassbender's too handsome and Wasikowska's too pretty. But this seems to be a crucial point many movie and TV adaptations botch, so I can't hold it against them too much. Again, it wasn't a bad movie, but not the best adaptation. My personal favorite remains the 2006 version.",
+         "I read the reviews of this film a few days before it was released, and one critic said it was the best JE adaptation she had ever seen. Well, then. I had high expectations. WOW. It totally surpassed my expectations. I'm a huge fan of the book, so I was a bit unsure of this film (before I saw it, of course) because it may have altered some main details. Not true. Yes, some parts were altered, but not altered so much that it was a fallacy. Not in any way were the changes a fallacy. The changes were minor. The acting is wonderful, you can really sense the chemistry between Wasikowska's Jane and Fassbender's Rochester. It's well written, and the screen-writer has added in some quirky little moments that made everyone in my theatre laugh out loud. In other words, I loved this movie. It was a beautiful film, and it was well worth the two hour car ride to see it. I can't wait for the DVD. 5/5"
+      ],
+      "genres": [
+         "Drama",
+         "Romance"
+      ],
+      "productionCompanies": [
+         "Focus Features",
+         "BBC Films",
+         "Ruby Films"
+      ],
+      "summaries": [
+         "After a bleak childhood, Jane Eyre goes out into the world to become a governess. As she lives happily in her new position at Thornfield Hall, she meets the dark, cold, and abrupt master of the house, Mr. Rochester. Jane and her employer grow close in friendship and she soon finds herself falling in love with him. Happiness seems to have found Jane at last, but could Mr. Rochester's terrible secret be about to destroy it forever?",
+         "Jane Eyre (Wasikowska) flees Thornfield House, where she works as a governess for wealthy Edward Rochester (Fassbender). The isolated and imposing residence -- and Mr. Rochester's coldness -- have sorely tested the young woman's resilience, forged years earlier when she was orphaned. As Jane reflects upon her past and recovers her natural curiosity, she will return to Mr. Rochester - and the terrible secret that he is hiding...",
+         "A mousy governess who softens the heart of her employer soon discovers that he's hiding a terrible secret."
+      ],
+      "budget": 0
+   },
+   "movielensId": 85438,
+   "movielens": {
+      "languages": [
+         "Français",
+         "English"
+      ],
+      "releaseDate": "2011-03-11",
+      "dvdReleaseDate": "2011-08-16",
+      "directors": ["Cary Fukunaga"],
+      "runtime": 120,
+      "movieId": 85438,
+      "title": "Jane Eyre",
+      "mpaa": "PG-13",
+      "actors": [
+         "Mia Wasikowska",
+         "Michael Fassbender",
+         "Jamie Bell",
+         "Judi Dench",
+         "Su Elliott",
+         "Holliday Grainger",
+         "Tamzin Merchant",
+         "Amelia Clarkson",
+         "Craig Roberts",
+         "Sally Hawkins",
+         "Lizzie Hopley",
+         "Jayne Wisener",
+         "Freya Wilson",
+         "Emily Haigh",
+         "Simon McBurney",
+         "Sandy McDade",
+         "Freya Parks",
+         "Edwina Elek",
+         "Ewart James Walters",
+         "Georgia Bourke",
+         "Sally Reeve",
+         "Romy Settbon Moore",
+         "Eglantine Rembauville-Nicolle",
+         "Rosie Cavaliero",
+         "Angela Curran",
+         "Imogen Poots",
+         "Sophie Ward",
+         "Joe Van Moyland",
+         "Hayden Phillips",
+         "Laura Phillips",
+         "Harry Lloyd",
+         "Ned Dennehy",
+         "Joseph Kloska",
+         "Ben Roberts",
+         "Valentina Cervi"
+      ],
+      "imdbMovieId": "1229822",
+      "originalTitle": "Jane Eyre",
+      "genres": [
+         "Drama",
+         "Romance"
+      ],
+      "youtubeTrailerIds": ["e8PLpXvhtlc"],
+      "plotSummary": "After a bleak childhood, Jane Eyre goes out into the world to become a governess. As she lives happily in her new position at Thornfield Hall, she meet the dark, cold, and abrupt master of the house, Mr. Rochester. Jane and her employer grow close in friendship and she soon finds herself falling in love with him. Happiness seems to have found Jane at last, but could Mr. Rochester's terrible secret be about to destroy it forever?",
+      "tmdbMovieId": 38684,
+      "avgRating": 3.73684,
+      "releaseYear": "2011",
+      "numRatings": 817,
+      "posterPath": "/oC7wvdrBA0RgbXaJZwcxsl1zKBR.jpg"
+   }
+}

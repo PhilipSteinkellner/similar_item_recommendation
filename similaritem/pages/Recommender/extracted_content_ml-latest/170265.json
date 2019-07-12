@@ -1,0 +1,660 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "dragon",
+            "id": 12554
+         },
+         {
+            "name": "barbarian",
+            "id": 14665
+         }
+      ],
+      "imdb_id": "tt0092615",
+      "video": false,
+      "title": "The Barbarians",
+      "recommendations": [
+         76929,
+         60410,
+         42569,
+         36291,
+         45233,
+         16191,
+         81463,
+         42814,
+         380754,
+         28758,
+         55863,
+         34732,
+         143901,
+         69900,
+         449751,
+         112687,
+         177229,
+         25690,
+         40345
+      ],
+      "backdrop_path": "/rCiAh9NbXTdVHu77pjSGNcMibZW.jpg",
+      "revenue": 800000,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Kutchek",
+               "gender": 2,
+               "credit_id": "52fe4552c3a368484e0538a5",
+               "name": "Peter Paul",
+               "profile_path": "/q9KG4aQ6TkdCD5HJYyFDAz47azl.jpg",
+               "id": 98188,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Gore",
+               "gender": 2,
+               "credit_id": "52fe4552c3a368484e0538a9",
+               "name": "David Paul",
+               "profile_path": "/nQLxbp58OJu7tpRL0WGYQUKPqKJ.jpg",
+               "id": 98189,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Kadar",
+               "gender": 2,
+               "credit_id": "52fe4552c3a368484e0538ad",
+               "name": "Richard Lynch",
+               "profile_path": "/kjdYPy2r65rHR3rYsOy8nzPKXuF.jpg",
+               "id": 97878,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Kara",
+               "gender": 1,
+               "credit_id": "52fe4552c3a368484e0538b1",
+               "name": "Eva LaRue",
+               "profile_path": "/eTaPs2LzZELjc8psM5wF28qeWj0.jpg",
+               "id": 121769,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Canary",
+               "gender": 1,
+               "credit_id": "52fe4552c3a368484e0538b5",
+               "name": "Virginia Bryant",
+               "profile_path": "/mG3DLh0CduZbck1NTWO5NsF7pPp.jpg",
+               "id": 560311,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "China",
+               "gender": 1,
+               "credit_id": "52fe4552c3a368484e0538b9",
+               "name": "Sheeba Alahani",
+               "profile_path": null,
+               "id": 1144863,
+               "order": 5
+            },
+            {
+               "cast_id": 7,
+               "character": "Dirtmaster",
+               "gender": 2,
+               "credit_id": "52fe4552c3a368484e0538bd",
+               "name": "Michael Berryman",
+               "profile_path": "/kqIQo7IqpW5DLcMmWD7mkxokyLX.jpg",
+               "id": 7073,
+               "order": 6
+            },
+            {
+               "cast_id": 9,
+               "character": "Jacko",
+               "gender": 2,
+               "credit_id": "533459adc3a3682a870025b0",
+               "name": "George Eastman",
+               "profile_path": "/aE8C5uGqystShl13VcrZSjcraJ5.jpg",
+               "id": 33807,
+               "order": 7
+            },
+            {
+               "cast_id": 10,
+               "character": "Ibar",
+               "gender": 2,
+               "credit_id": "58b4586cc3a368528d01a13c",
+               "name": "Franco Pistoni",
+               "profile_path": "/5OtdyY5tPGI3AputM5AMrsZy0Dl.jpg",
+               "id": 1167895,
+               "order": 8
+            },
+            {
+               "cast_id": 11,
+               "character": "Allura",
+               "gender": 1,
+               "credit_id": "58b4588dc3a36852a3019879",
+               "name": "Raffaella Baracchi",
+               "profile_path": null,
+               "id": 592457,
+               "order": 9
+            },
+            {
+               "cast_id": 12,
+               "character": "Young Kutchek",
+               "gender": 0,
+               "credit_id": "58b4590d92514177d101b0d9",
+               "name": "Pasquale Bellazecca",
+               "profile_path": null,
+               "id": 1766486,
+               "order": 10
+            },
+            {
+               "cast_id": 13,
+               "character": "Young Gore",
+               "gender": 0,
+               "credit_id": "58b4591bc3a36852a30198dc",
+               "name": "Luigi Bellazecca",
+               "profile_path": null,
+               "id": 1766487,
+               "order": 11
+            },
+            {
+               "cast_id": 14,
+               "character": "Fat Woman",
+               "gender": 0,
+               "credit_id": "58b4593092514177a80198ee",
+               "name": "Wilma Marzilli",
+               "profile_path": null,
+               "id": 1766488,
+               "order": 12
+            },
+            {
+               "cast_id": 15,
+               "character": "Ghedo - Strongman",
+               "gender": 0,
+               "credit_id": "58b4596292514177a401a072",
+               "name": "Giovanni Cianfriglia",
+               "profile_path": "/ffd3qTg2LLOjGkzDAK3EBzLVVzj.jpg",
+               "id": 50745,
+               "order": 13
+            },
+            {
+               "cast_id": 16,
+               "character": "Kadar's Man",
+               "gender": 2,
+               "credit_id": "58b4597892514177ac01a355",
+               "name": "Angelo Ragusa",
+               "profile_path": "/zbYSheDT9EvuKXsTuYamppo7WdW.jpg",
+               "id": 1026047,
+               "order": 14
+            },
+            {
+               "cast_id": 17,
+               "character": "Kadar's Man",
+               "gender": 0,
+               "credit_id": "58b45987c3a368522001a44b",
+               "name": "Nanni Bernini",
+               "profile_path": null,
+               "id": 1766489,
+               "order": 15
+            },
+            {
+               "cast_id": 18,
+               "character": "Kadar's Man",
+               "gender": 0,
+               "credit_id": "58b45995c3a368527d0174ca",
+               "name": "Lucio Rosato",
+               "profile_path": "/cdEZI4HuUtfgqNzdeP84O9LRbeJ.jpg",
+               "id": 51743,
+               "order": 16
+            },
+            {
+               "cast_id": 19,
+               "character": "Bluto",
+               "gender": 2,
+               "credit_id": "58b459b592514177b401b11c",
+               "name": "Franco Daddi",
+               "profile_path": "/glATnR17FIQiQu9wbkBa7IPzBvP.jpg",
+               "id": 101324,
+               "order": 17
+            },
+            {
+               "cast_id": 20,
+               "character": "Rider",
+               "gender": 2,
+               "credit_id": "58b459c592514177f601a230",
+               "name": "Omero Capanna",
+               "profile_path": "/kM9AC6ZSU1q2RIdgDJWKFvuAAbd.jpg",
+               "id": 119370,
+               "order": 18
+            },
+            {
+               "cast_id": 21,
+               "character": "Young Kara",
+               "gender": 0,
+               "credit_id": "58b459d692514177b80194ae",
+               "name": "Tiziana Di Gennaro",
+               "profile_path": null,
+               "id": 1766490,
+               "order": 19
+            },
+            {
+               "cast_id": 22,
+               "character": "Kadar's Woman",
+               "gender": 1,
+               "credit_id": "58b459e792514177a801995e",
+               "name": "Marilda Donà",
+               "profile_path": "/rrBumI7Ga1xbFv6umogKDXzRa7m.jpg",
+               "id": 51742,
+               "order": 20
+            },
+            {
+               "cast_id": 23,
+               "character": "Kadar's Man",
+               "gender": 0,
+               "credit_id": "58b45ab092514177b8019544",
+               "name": "Paolo Merosi",
+               "profile_path": null,
+               "id": 1582402,
+               "order": 21
+            },
+            {
+               "cast_id": 24,
+               "character": "Jacko's Man",
+               "gender": 2,
+               "credit_id": "58b45ac1c3a368528d01a2a1",
+               "name": "Nello Pazzafini",
+               "profile_path": "/48Dwk4rSPmkXRua5WxMuDCGwZBn.jpg",
+               "id": 32679,
+               "order": 22
+            },
+            {
+               "cast_id": 25,
+               "character": "Bones",
+               "gender": 0,
+               "credit_id": "58b45acfc3a368528501856a",
+               "name": "Renzo Pevarello",
+               "profile_path": null,
+               "id": 1170395,
+               "order": 23
+            },
+            {
+               "cast_id": 26,
+               "character": "Pin the Dwarf",
+               "gender": 0,
+               "credit_id": "58b45addc3a368522001a557",
+               "name": "Paolo Risi",
+               "profile_path": null,
+               "id": 1766493,
+               "order": 24
+            },
+            {
+               "cast_id": 27,
+               "character": "Greyshaft",
+               "gender": 0,
+               "credit_id": "58b45af092514177b401b21c",
+               "name": "Benito Stefanelli",
+               "profile_path": "/5c5ek7iXeJMdx1bEM2mw195zmPD.jpg",
+               "id": 4661,
+               "order": 25
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4552c3a368484e0538c3",
+               "name": "Ruggero Deodato",
+               "profile_path": "/ch3fxMfiKSApYH5XQMIw9T30KdJ.jpg",
+               "id": 45572,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58b45b07c3a368525401aa2c",
+               "name": "James R. Silke",
+               "profile_path": null,
+               "id": 59806,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58b45b18c3a368526d0175e7",
+               "name": "Yoram Globus",
+               "profile_path": "/bKbeXNvErtCQiK3pEEnFgmR9cvo.jpg",
+               "id": 33009,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58b45b25c3a368522001a59b",
+               "name": "Menahem Golan",
+               "profile_path": "/qGtHMLd4E7tRyw75H4lWTRelW7B.jpg",
+               "id": 33008,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58b45b49c3a36852970186f4",
+               "name": "John Thompson",
+               "profile_path": null,
+               "id": 22815,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58b45b58c3a3685297018709",
+               "name": "Pino Donaggio",
+               "profile_path": null,
+               "id": 14138,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58b45b6592514177ac01a4b2",
+               "name": "Gianlorenzo Battaglia",
+               "profile_path": null,
+               "id": 37371,
+               "department": "Crew",
+               "job": "Cinematography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58b45b74c3a368525401aa86",
+               "name": "Eugenio Alabiso",
+               "profile_path": null,
+               "id": 5821,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58b45b84c3a368525401aa8e",
+               "name": "Giuseppe Mangano",
+               "profile_path": null,
+               "id": 1540082,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58b45b9ec3a368522001a5f6",
+               "name": "Giancarlo Capuani",
+               "profile_path": null,
+               "id": 1688327,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 1,
+               "credit_id": "58b45bb5c3a368526d01764d",
+               "name": "Francesca Panicali",
+               "profile_path": null,
+               "id": 1758766,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58b45bd292514177ac01a4fe",
+               "name": "Edmondo Natali",
+               "profile_path": null,
+               "id": 1467426,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58b45be892514177a401a247",
+               "name": "Francesco Paolocci",
+               "profile_path": null,
+               "id": 1667652,
+               "department": "Visual Effects",
+               "job": "Creature Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58b45c1492514177b401b2e6",
+               "name": "Gaetano Paolocci",
+               "profile_path": null,
+               "id": 1667653,
+               "department": "Visual Effects",
+               "job": "Creature Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58b45c23c3a368526d017696",
+               "name": "Fabio Traversari",
+               "profile_path": null,
+               "id": 1627317,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58b45c3c92514177f601a3f7",
+               "name": "Stefania Del Guerra",
+               "profile_path": null,
+               "id": 1766513,
+               "department": "Costume & Make-Up",
+               "job": "Assistant Costume Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58b45c4f92514177ac01a554",
+               "name": "Ricky Sacco",
+               "profile_path": null,
+               "id": 1640580,
+               "department": "Production",
+               "job": "Location Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58b45c88c3a36852970187d8",
+               "name": "Fabrizia Iacona",
+               "profile_path": null,
+               "id": 1766516,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Fantasy",
+            "id": 14
+         },
+         {
+            "name": "Adventure",
+            "id": 12
+         }
+      ],
+      "popularity": 3.525752,
+      "production_countries": [
+         {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+         },
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         }
+      ],
+      "id": 27551,
+      "vote_count": 17,
+      "budget": 4000000,
+      "overview": "Orphaned brothers Kutchek and Gore are adopted by a tribe led by Canary the owner of a powerful jewel. The evil Kadar wants both Canary and the jewel. Attacking the tribe he kidnaps Canary but the stone eludes him. The brothers are taken to be trained as gladiators and years later have grown to be VERY big. They escape and set off on a quest to find the jewel and rescue Canary.",
+      "similar": [
+         809,
+         808,
+         10882,
+         37430,
+         848,
+         9610,
+         300803,
+         38319,
+         27022,
+         810,
+         812,
+         10140,
+         10674,
+         68735,
+         68737,
+         57158,
+         122917,
+         321068,
+         14128,
+         1911
+      ],
+      "original_title": "The Barbarians",
+      "runtime": 87,
+      "poster_path": "/2mcwKUkw9dvZHCZRlKxQvUtrAJR.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Italiano",
+            "iso_639_1": "it"
+         },
+         {
+            "name": "Español",
+            "iso_639_1": "es"
+         }
+      ],
+      "production_companies": [{
+         "logo_path": "/5jvFLUVXGXxkyszL9cqJN5hNhJ6.png",
+         "name": "Cannon Group",
+         "id": 1444,
+         "origin_country": ""
+      }],
+      "release_date": "1987-03-01",
+      "vote_average": 5.2,
+      "belongs_to_collection": null,
+      "tagline": "Warriors. Conquerors. Heroes.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Ruggero Deodato"],
+      "runtime": 87,
+      "synopsis": null,
+      "writers": [
+         "Alberto Piferi",
+         "James R. Silke"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0092615/",
+      "coverLink": null,
+      "actors": [
+         "David Paul",
+         "Peter Paul",
+         "Richard Lynch"
+      ],
+      "reviews": [
+         "I have to admit that I loved this movie -- it's completely campy, it doesn't take itself seriously for a moment, and it has few redeeming qualities. The actors -- which is a loose description of what they are doing on screen -- look like they are having a ball filming this over-the-top sword-and-sorcery outing, and it's hard not to share in the fun. The heroes are musclebound, the damsel-in-distress is pretty and spunky, the bad guy is a caricature of bad-guys. What more can you wish for? Frankly, any movie that includes a girl in a cage commenting on the arrival of her two rescuers with \"And look at the size of you two! This is Ismina's lucky day!\" gets a pass from me. It's fun.",
+         "This was directed by Ruggero Deodato, a true icon to many horror film fans after he directed the seminal and notorious Cannibal Holocaust. However, don't expect to find any such notoriety in the film reviewed here as it proves to be incredibly tame in comparison and plays more like a Conan inspired outing for a young audience. Such a description may instantly put off most fans of the whole Conan inspired Sword & Sorcery genre but before you turn your nose up at this, it has to be said, this movie is just so much fun! It's mostly played for laughs and features two HUGE and highly likable heroes in the form of David and Peter Paul aka. the Barbarian Brothers who both seem to be having a ball with their characters. B-Movie favourite Richard Lynch turns up as the main villain in the piece and it's also great to see roles for Big George Eastman and Michael Berryman. Added to this, the ladies are stunning to behold and suitably scantily attired throughout the films duration (a staple and much welcomed ingredient in the genre!) What can I say, - this simply is a really fun and lighthearted take on the genre and I recommend it wholeheartedly!",
+         "I was China in this film. I choose the screen name Sheeba Alahani because I was modeling at the time in Italy and they couldn't pronounce my real name correctly, so I choose Sheeba and then added Alahani since it was similar to Alohalani. I had never acted before (and it shows), but it was so much fun to film. They gave me \"acting lessons\" each morning (which obviously were not useful). They dubbed my voice (thank goodness). David and Peter were a blast on the set, full of good humor and jokes. This film was never meant to be taken seriously, it was a tax write off according to inside information. I give it a 1 because I have a sense of humor, but a 10 for the fun I had \"acting\" in it.",
+         "Yes, I loved this movie when I was a kid. When I was growing up I saw this movie so many times that my dad had to buy another VHS copy because the old copy had worn out. My family received a VHS copy of this movie when we purchased a new VHS system. At first, my mom wasn't sure that this was an appropriate movie for a 10 year old but because we had just bought a new VHS system she let me watch it. Like I said, this movie is every little boys dream\u0085 The movie contains a terrific setting, big muscled barbarians, beautiful topless women, big bad monsters and jokes you'll only get when you get older. So, a couple of days ago I inserted the video and watched the movie again after a long time. At first, I was bored, then started thinking about how much I loved this movie when I was kid, and continued watching. Yeah, the experience wasn't as great as I remembered\u0085 The acting is pretty bad, the storyline is pretty bad, the jokes weren't funny anymore, but the women were still pretty. Yes, I've grown up. Even though the movie experience has changed for me, I still think it's worth 7 stars. For the good old times you know\u0085",
+         "Kutchek and Gore are two orphans who got abducted by an evil warlord who makes a promise not to kill them. They go up into the Barbarian Brothers (the brothers if you don't know are freaking' HUGE) who after learning that the warlord is less than altruistic in his intentions, decide to break free and restore the balance. The two are stupid fools but they're big enough that no one cares. This movie is one of those films that's so bad it's good and is definitely tongue-in-cheek. Many highly quotable lines and I enjoyed it immensely. My Grade: B- Eye Candy: a few breasts are bared",
+         "Where do I start about this film. I love it! As a child, the Conan movies and Clash of the Titans were my favorites. I watched everything and anything that had a warrior, sorcerer, dragon, knight, etc., on it's VHS cover. Back when video stores rained supreme and there was no internet to watch trailers, no movie review sites, and no IMDb (the horror!), the cover of the VHS was what made you pick it up and read the 2 or 3 paragraph synopsis of the film (and look at a picture or 3 if you were lucky), or just walk right by it and keep browsing until something caught your eye. The \"Sword and Sandal\" genre was my favorite (along with sci-fi) but was also probably the most plagued with awesome cover art that mislead you on the often crappy, low quality movies (which I still loved). And one day, I picked up the movie The Barbarians... The Barbarians is directed by Italian director Ruggero Deodato (most famous for his 1980 cult horror Cannibal Holocaust), and he makes an adventure comedy that is one of the \"best worst movies\" ever made. The film opens in a serious tone, complete with narration explaining who the Ragneks are, essentially free spirited traveling entertainers. As we see the caravan of colorfully clad Ragneks traversing a lush landscape (the film is filled with beautiful scenic landscapes and locations), a band of horsemen is suddenly upon them and starts killing off the peaceful entertainers. After a long, entertaining chase scene (with a decent amount of blood and death!), we meet our film's main villain, Kadar (Richard Lynch, The Sword and the Sorcerer). He wants a magical gem the Ragneks are known to have, and the Ragnek Queen Canary (the stunning Virginia Bryant in one of her 6 film roles) as his companion. During this scene, which is 15 minutes into the movie at this point, we meet two young twin boys and a young girl (who become our heroes later). After more killing, Queen Canary promises to go with Kadar (Lynch) if he and his men promise to never hurt the 3 children... Now fast forward 17 years, we finally meet the title characters, twins Gore and Kutchek, aka the Barbarian Brothers. For better or worse, these two muscle bound knuckle heads turn an otherwise serious movie into an all out fantasy comedy. The brothers, kept separated and told the other was killed, have been tortured and trained as gladiators, each tormented by a man in a mask (one brother by an iron mask, the other brother a brass mask). The brother's, each now the size of Arnold in Conan, are made to wear the other brothers' tormentor's mask (still with me?) and put in a cage to fight each other to the death! Of course the masks come off after a few swift blows and the brother's realize they have been lied to and decide they have to team up to break out. Now free, they decide they must rescue Queen Canary and kill the evil Kadar who killed their people and imprisoned them all those years. They soon team up with young, lovely Kara (Eva La Rue, CSI Miami), who just so happened to be that young girl from the beginning! The trio ventures forth in search of weapons and the aforementioned magical jewel, getting into bar fights (there is a great scene with Italian cult actor George Eastman), battling a werewolf creature, zombies and even a giant dragon (which is one of the most laughably mechanical dragons ever put on film!). The Barbarians is a bad movie no doubt about it, but it knows exactly what it is and goes for it. It is one of those films that is so bad that it is great. The Paul brothers are so over the top, they are clearly not actor's (one of them has the worst over the top laugh ever heard on film). They obviously are not even trying to act and instead use their charisma and charm (if you can call it that) to make an entertaining, fun, fantasy adventure comedy. The movie is full of brawn, babes, swords, sorcerers, monsters, action and laughs. If you like bad movies, sword and sandal flicks, or Italian exploitation films, then The Barbarians is definitely for you and could quit possibly be a new favorite! I just hope that this film get's a DVD/blu ray release soon, because unless you want to spend $50 - $100 on an old VHS on eBay, the only way you can currently (2012) see this fantastic piece of trash cinema is on YouTube, cut up in 10 minute increments, in low resolution. This cult classic is remembered by a select few, but most that remember it, remember it fondly. And some, like myself, will treasure this movie for decades to come...",
+         "Deodato brings us some mildly shocking moments and a movie that doesn't take itself too seriously. Absolutely a classic in it's own particular kind of way. This movie provides a refreshingly different look at barbarians. If you get a chance to see this movie do so. You'll definitely have a smile on your face most of the time. Not because it's funny or anything mundane like that but because it's so bad it goes out the other way and becomes good, though maybe not clean, fun.",
+         "This movie maybe really bad, but it is alot of fun. The bad acting and poor direction enhance the film's hystericalness. The twins are very funny in their Conanesque roles. If you go into this film expecting the first Conan or Excalibur, than you will hate it. If you watch it while in a good mood and accept it as good, dumb fun you will have a good time. Watch for the scene where they try to hang the brothers, its funniest scene in the film. I wish Mystery Science Theatre 3000 would have done this!!",
+         "As shallow as it may sound, I actually delayed my viewing of \"The Barbarians\" several times just because the VHS cover (as well as the picture image displayed here on the website) looks so incredibly gay! By now I wish I had watched it earlier because the movie isn't so much gay\u0085. just trashy, cheesy, campy and enormously fun! It's almost unbelievable that Ruggero Deodato, director of \"Cannibal Holocaust\" of all people, was the man responsible for this comical cash-in on the contemporary popular Sword & Sandal fantasy flicks, particularly Schwarzenegger's Conan movies. The film opens with a terrific 'once-upon-a-time' type of off-screen narrator, introducing us to the Ragneks. Their founder once traded an entire mountain of pure gold for just one magically powerful ruby that would allow them to travel in freedom and access every country as entertainers. In other words, the Ragneks are a bunch of traveling circus freaks! Their happiness abruptly comes to end when the greedy Kadar kidnaps the Ragneks' beautiful queen Canary and continuously attempts to discover the whereabouts of the ruby. Meanwhile, and as some sort of amusing waste of time, the two orphan twin-brothers Gore and Kutchek are trained to become muscled warriors and they're unwarily prepared to fight each other to the death. Instead of that, however, they escape and develop a plan to free their queen. Actually, the plot isn't half as bad as I initially feared, but still the most fun is provided by the beefcake brothers' on screen chemistry, the crazily inept dialogs and of course the utterly cheesy fantasy-monsters, like a dragon with adorably cute eyes, some kind of werewolf creature and zombies that randomly appear to pop out of the swamp. The soundtrack and make-up effects are great and our almighty director Deodato maintains a terrifically fast pace. The Barbarian Brother's acting capacities are much better than I anticipated, apart from the fact that one of them constantly produces gross belching sounds. The supportive cast is splendid as well. Eva La Rue never looked more beautiful as the witty savage girl Cara, Virginia Bryant is indeed bewitching like Richard Lynch states on several occasions and the lovely Sheeba Alahani makes her first and only appearance on film as a vicious sorceress with a donut-shaped hair style (I kid you not!). Last but not least, \"The Barbarians\" stars everybody's favorite Eyes in the Hills creep Michael Berryman as the appropriately named Dirtmaster. I know the displayed picture looks gayer than a promotional campaign for the musical version about the rise and fall of the Village People, but \"The Barbarians\" really is a must-see Italian exploitation highlight.",
+         "This movie is terrible, but almost so bad it's good. I've seen a lot of bad movies like this but this one at least knew to be silly. Most of these sword and sandal pictures take themselves too seriously. This movie is just plain silly. If you like the ones that are so bad that they end up becoming cult movies, then you might like this one.",
+         "Back in the 80's, we didn't have CGI... we had Gold's Gym. (So I tell \"the youngsters\") This movie is a vehicle for charisma, pure & simple, and a fantastic example of something being more than the sum of its parts. Yes, it's stupid. Yes, it's another 1980's Conan rip-off. Yes, it looks bad. And no, the plot does nothing to remedy *any* of this. But who cares? I just finished reviewing The Force Awakens, the Carefully Calculated Cash Cow that the Star Wars franchise has tragically yet inevitably become. Which immediately brought this goofy old muscle movie to mind... because it's the polar opposite, and glory-glory-hallelujah is that a good thing. Here's the \"story\": some admittedly weak gypsy stuff happens for a bit, and then the rest of the movie is two ridiculously huge bodybuilder barbarians acting like the big goofs that they are. The End. Roll credits. In all seriousness, though, these guys have more natural charisma in their *headbands* than the super-duper-über new Star Wars movie that's currently steamrolling toward the $2 billion mark worldwide. That's right, a couple of oafs thumping plastic(?) monsters in the presence of a fog machine is *infinitely* better entertainment than Death Star #3 and its accompanying (overrated) special effects. Zero pretentiousness. Zero much of anything substantive, really! Just good old fun.",
+         "Hilarious and highly entertaining sword and sorcery action fantasy starring the infamous Barbarian Brothers. The Barbarian Brothers are gigantic, heavy metal bodybuilder twins that live up to their name. In this fun filled film, our heroes clobber the bad guys, flex and clown around a lot. Horror icon Michael Berryman of The Hills That Have Eyes fame makes a memorable cameo as The Dirtmaster, a slavemaster that tortured the brothers and turned them into angry barbarians. Richard Lynch(Invasion USA) is the main villain and the reason the brothers call to arms and take action. Directed by Ruggero Deodato of Cannibal Holocaust fame. The Barbarians has little in common with Cannibal Holocaust though. This feature is tongue in cheek, action packed and a lot of fun. Definitely recommended for fans of low budget 80's fantasy movies, The Barbarians is above average as well as outrageous and very amusing film. Awesome!",
+         "In a mystical faraway land of swords and sorcery, two twin brothers are orphaned and adopted by a traveling caravan of weirdos. When the nefarious warlord Kadar (Lynch), in a quest for more power, attacks the traveling troupe and imprisons Queen Canary (Bryant) and enslaves the brothers in a work camp, at least some good comes out of it: a lifetime of lifting rocks has turned the two brothers into massively muscular \"Barbarian Brothers\". Kutchek (Peter Paul) and Gore (David Paul) want to free their beloved Queen, so, along with another newly-freed victim of the wrath of Kadar, a girl named Kara (La Rue), they go forward on their quest. Along the way they meet all kinds of crazy characters and people, not the least of which are Dirtmaster (Berryman) and Jacko (Eastman). Will they slay the dragon? Will they find the magical ruby that fits into the bellybutton of the future queen? Will they argue and make weird, animalistic noises? Find out today! Connecticut's own The Barbarian Brothers truly come out to shine (literally - they glisten) in their first major, starring role. It truly was an amazing time for the film industry and the world of video stores alike - the fact that projects like this could be made and distributed around the world would not happen today. That Cannon would put Ruggero Deodato in the director's chair, and - of all people - The Barbarian Brothers front and center is nothing short of a miracle. The result is a fairly freewheeling journey into a magical land filled with wacky costumes, crazy makeup, and oiled-up meatheads. It was the 80's, after all, and things like Dungeons and Dragons, He-Man, and the Conan The Barbarian series (he's only ONE barbarian. Here you get two for the price of one) were huge. Not to mention video games like Iron Sword (remember the Fabio cover?), Gauntlet and later Golden Axe. Even the breastplate that one of the brothers wears later in the movie is very He-Man esque. And seeing as how Lucio Fulci directed Conquest (1983), Cannon probably figured, 'okay, this sword-and-sorcery stuff is huge right now, let's get another Italian director known for his horror/gore work and have him run the show'. Deodato provides a weird/wacky vibe, and the whole thing is well-shot in typical Italian style. While Dolph Lundgren was ideal casting for Masters of the Universe (1987) - could you imagine He-Man x2? Well, imagine no longer. Fan favorite Richard Lynch was good casting as the baddie, and it's probably the only time we've ever seen him with dreadlocks. He must have impressed Deodato after working with him on Cut and Run (1985). Same goes for Michael Berryman, who also appeared in that movie two years earlier for Deodato. Berryman is always cool to see, and he makes some great faces, and has some impressive headgear. Same thing for George Eastman, we always enjoy when he pops up when you're not expecting him to, which happens fairly often. Eva La Rue makes a cute companion to the Barbarians on their quest, and there are some lesser characters with notable features such as a guy who can only be described as \"Pee Wee Amidala\" (you'll know him when you see him) and a baddie who looks a lot like Bane. Interestingly, in this \"origin story\" for the Barbarian Brothers, they actually take the time to explain WHY they're so huge, which you don't often see for other meatheads. The brothers themselves have a silly kind of chemistry which has helped earn them a fan following. The movie fluctuates between childish fun and more adult themes, so it's hard to tell exactly who this was aimed for. Perhaps the ideal audience is immature young men like us. Featuring an uncredited song with the lyrics \"Your ruby dreams taste so sweet\", The Barbarians remains a lightweight 80's Barbaric good time.",
+         "This appropriately titled fantasy is an entertaining if not exactly \"good\" vehicle for acting / bodybuilding twins David and Peter Paul, otherwise known as the Barbarian Brothers. While watching it, one has to believe that the cast & crew, led by director Ruggero Deodato of \"Cannibal Holocaust\" fame, knew just what they were doing: this is so damn silly that it comes across as a spoof of the whole sword-and-sandal genre. There are plenty of laughs to be had, although the movie eventually wears out its welcome; it's a good thing that it's relatively short at just 88 minutes long. It's not for viewers looking for a lot of gore and/or exploitation, but it does have its moments, as well as a monster or two. Just to let you know what you're in for, highlight moments for the Paul brothers include: grinning and celebrating when they're able to burst free from hangman's ropes, hissing at a snake, arm wrestling with Italian icon George Eastman (who has a fun cameo), mocking the head of a decapitated monster by growling at it, and even pretending to be making out (!) to throw off the baddies! The two of them portray Kutcheck and Gore, orphans who were travelling with a theatrical troupe revolving around a queen, Canary (!) (Virginia Bryant) with a magical belly button. Villain Kadar (the late Richard Lynch, who's in fine form) covets her and attacks the troupe. The kids grow up to develop awe-inspiring physiques and unite to seek revenge. Sexy TV veteran Eva LaRue co-stars as Kara, whom the Barbarians save from imprisonment; it's also a joy to see Michael Berryman of the original \"The Hills Have Eyes\" in a hammy comedic turn as an underling. The movie does hit the ground running but doesn't have that much action. It looks reasonably good, but the special effects are pretty damn funny. (Dig that dragon!) The rousing score is courtesy of the talented Pino Donaggio. This may not be to some tastes, but people in the mood for an enormous hunk of cheese should be consistently amused. Seven out of 10.",
+         "The barbarians maybe´s not the best film that anybody of us have seen, but really????........It´s so funny......I can´t discribe how mutch I laughed when I first saw it..The director really wanted to do a serious adventure movie, but it´sso misirable bad....so bad that it´s one of the funniest movies I´ve ever seen......so my advise is that you should see it.....and if you alredy did, se it again!!!!!!!",
+         "When I decided to watch THE BARBARIANS, starring those twin bodybuilders, Peter and David Paul, I thought it couldn't be that bad because the film was directed by Ruggero Deodato, who has a reputation for creating sleazy movies but well made sleazy movies. Well, THE BARBARIANS is remarkably trashy action/adventure movie that wants to be another CONAN THE BARBARIAN, and fails at every level. The look of the film is all wrong. Some scenes were well shot but the tone and the schintzy, tacky \"disco\" look of the clothes and hair people are adorned with just doesn't make any sense whatsoever, even for a low budget flick like this one. Richard Lynch looks like an old woman with that ridiculous hairdo and costume. He's supposed to be menacing but he comes across as a buffoon. And it's funny to see Eva LaRue Callahan, one of the stars of ALL MY CHILDREN, appear in her first movie, walking around in skimpy fur bikini. I'm sure she wants this dreck to disappear from the face of the earth! The so-called Barbarian twins are okay as the muscle bound heroes but it's almost impossible to construct a proper critique of their acting because their roles are, like everything else in this mess, really ill-conceived. The only way the film tries to differentiate one twin from the other is by having one twin wear a loincloth that covers his ass, while the other twin's loincloth barely covers his muscular butt. I'm not kidding! Don't ask me who's who though. Deodato must have been really desperate to agree to make this film. And his desperation is reflected perfectly in this trashy flick. It's just bad.",
+         "Fun film. The two brothers are complete baffoons, but they manage to save the land. Go figure. Eva La Rue is beautiful. Rent it with a few beers and you'll have some good laughs. I don't quite understand the whole \"grunting\" thing... you'll understand after you see the film. It sounds identical to the sound made by Jim Carrey in Dumb and Dumber, when he says \"wanna hear the most annoying sound in the world?\" Surprisingly, there is some blood, and good deaths, but the best part is when Kadar gets his finger bitten off by a kid. Classic.",
+         "This movie, the Barbarians, is a joy to watch. Just a fun easygoing movie with a great plot, great looking characters, and i just so enjoyed the good humor of the 2 brothers! i am going to purchase this movie. it is in the same type of genre as the Last StarFighter, Willow, etc. - excellent enjoyment, a lot of fun!",
+         "I love low-budget genre films that begin \"Once upon a time,...\" because inevitably those films will show viewers a lot more about the times the films were made than the ostensible times the films are set. Of course, to certain extent this is true of bigger budget films of any genre, but those tend either to work harder to disguise the attitudes and biases than inform them or to explore them in a more pointed manner, while low-budget films just let it all hang out. In the case of \"The Barbarians\", we can glean much more about mid- 1980s cultural attitudes, biases and styles than we do about the non-specific mythological past the film purports to depict, especially in comparison to similar genre films from the 1960s. \"The Barbarians\" came out at the tail end of the 1980s Peplum mini- revival, which was sparked by the success of \"Conan the Barbarian\" starring Arnold Schwarzenegger, just as the 1960s Peplum golden age had been propelled by the success \"Hercules\" starring Steve Reeves. \"The Barbarians\" preserves most of the conventions of the genre -- battles with fierce mythological creatures, good-natured boys-will- be-boys tavern brawls, sorcery, feats of superhuman strength, slave girls (but no dancing girls), bodybuilder heroes -- but the hair is more feathered than lacquered, the costumes (for both men and women) are more revealing and some female toplessness is featured, the music is synth-driven rather than orchestral, and the camp sensibility is more obvious and knowing. Most of the actors seem to want us to know that they aren't taking any of this too seriously and neither should we. Part of that comes from the stars, bodybuilder twins David and Peter Paul (billed as \"The Barbarian Brothers\"), who made a handful of movies in which they play perpetually bickering meatheads. They were supposed to be funny -- more two-of-three stooges on human growth hormone than Abbott & Costello -- but they never caught on big because of their very limited range, though they do have a low-key jovial screen presence and they certainly look the part of muscular heroes. To overcome their limitations, the film offers high camp from b-movie stalwart Richard Lynch, Eva La Rue and veteran character actor Michael Berryman, each competing with the other to chew more scenery, as well as a host of other mostly Italian character actors some of whom will be recognizable to horror and action film fans. There's not a lot of wit in the screenplay (the best bit, from a reluctant would-be queen: \"I'm not a virgin!\" to which the sort-of priest who's trying to conscript her responds \"We don't have time for such subtleties!\"), nor a lot of style to the direction by Ruggero Deodato, better known for \"Cannibal Holocaust,\" but it only drags occasionally despite a rather slow pace. And it looks half-way decent, which is more than you can generally say for a several of the movies from this period. It seems like most of the money spent on this ended up on screen, whether in the set design or in body oil for the stars. And that copious body oil highlights a key difference between this and the golden age of Peplum cinema. While attitudes about masculinity and femininity haven't change all that much (though the expression of those attitudes has advanced some), you can tell how much more informed this film is by the mainstreaming of gym culture than the films of the early 1960s, when going to the gym and, especially, bodybuilding were sub-cultural phenomena. The Paul brothers make jokes about their size and shape that few would have understood in the earlier era. Their whole shtick was only made possible by the evolution of ideas about fitness that progressed from Charles Atlas to Joe Weider to 24 Hour Fitness, from Reeves to Schwarzenegger and beyond. This isn't a very good film, but it's at least interesting for what it reveals about those shifts.",
+         "I loooved this movie. It starts like a medieval Fury Road and becomes a brilliantly dim-as-dishwater brawler adventure featuring some of the most charming heroes I can remember ever seeing. The characters are memorable, the sets are varied, the action is good, and there are surprises aplenty. I particularly liked how it cracks dumb jokes all the time but doesn't care, winning through with the same macho bravado that made Commando so great. The leading men are exactly what barbarians should be, and it's impossible not to love them for it. Special effects vary wildly from hilarious to genuinely impressive, RIGHT back to hilarious. A scene with a swamp dragon in particular springs to mind. A lot of effort went into this flick, and the result is something unique and mighty enjoyable.",
+         "First Impressions: After a long day at work I was scrolling through on demand's strange collection of impact movies only to find this little gem. Reading that this film was about twin warriors fighting a David Bowie looking villain, I could hardly resist. Having a twin sister of my own I found that David and Peter Paul worked well together and actually shared some funny moments on screen. The look: The sets where much better looking than I expected (I loved many of the exterior shots, exotic looking locations), acting was good, and many of the characters were certainly enjoyable (The twins were the best, hands down). The good: This film delivers what it promises; to be a Conan-ish 1980s sword and sorcery flick with a little humor, heart, and horses. I like how the actors/actresses play off of each other and getting whisked away into the fantasy flick. The bad: Some of the effects and music where a bit dated; I understand budget restraints and rights could've been a factor BUT according to IMDb it states that it was estimated at around $4,000,000. The gore effects were mostly believable but that dragon was only a head, you couldn't fool me. The ugly: The sorceress was far too flat for my liking. Compared to Lynch, talk about lame villain, nice look going though. I couldn't understand her motivation so much other than jealousy. The women in this flick sadly fell under the damsel in distress route far too often. I can't name one time that they encountered peril and got themselves out. Kara never even used the bow and arrow she eventually acquired, what gives? (I'm no feminist but come on, bring on the hurt!) Overall: I'd love to watch this one again, might even buy it and enjoy it with a bowl of freshly popped popcorn. The version I saw was pretty rough though, looked like an old VHS rip. I won't get my hopes up if the double feature set with the Norseman on Amazon looks much better though. Toodles.",
+         "This is a B movie. While that is true it is done with a lot of good comedy. Yes the acting is wanting with some of the characters, hell most of the characters, but it is a pretty entertaining flick. The twins seem to realize that they are not good actors and ham it up to the max. The special effects suck but that is also some the charm, although the dragon looks like a Muppet on steroids. . The guy who teaches the twins to fight is a real freaky looking and ugly, I hope some of it was make up. Poetic justice is of course served to all the bad guys that survived the first attack on the caravan. Like I stated I found this to be an entertaining and funny movie.",
+         "Well, some people would say that this particular movie stinks...but hey! Thats not right, not right at al...The movie may not have the best special effects, and may not have the best actors (Except the exelence of the Barbarian Bros.) Dispite theese minor fact, I can honostly say that this is one of the funniest movies I´ve ever seen, and I´ve seen em al!",
+         "I love bad movies. Not only, because they often are as entertaining as 'really' 'good' films (like Pirates of the Caribbean series and other Hollywood pathos), but they often are far better than those films. And that's the reason why I love Italian rip off cinema of 1970s and 1980s. And that's the reason why I especially love this movie, The Barbarians & the Company. Director Ruggero Deodato has made some actually very good movies, like House on the Edge of the Park, and also his Atlantis Interceptors and Live Like a Cop, Die Like a Man are enjoyable action movies. But this is really bad. The Barbarians is so idiotic movie. Peter and David Paul as the Barbarian Brothers Kutchek and Gore are very funny, because of their lack of charisma and acting skills. But if they can't act, they yell and scream every time they do something important. In one scene people try to hang the Barbarian Brothers, and they escape very extraordinary way. Bad acting, bad special effects, very stupid story, bad direction, actually everything is bad in this movie. I can't describe how much I laughed when I watched this first time. The Barbarians & the Company is camp classic everybody should see once. If you thought Plan 9 From Outer Space is fun camp, this will be a real killer.",
+         "Apparently Ruggero Deodato figured out, early on, that his story wouldn't work if he approached it too seriously, so he decided to camp it up. The result is a film that can be viewed as either a ludicrous sword-and-sorcery epic or as a very entertaining comedy! And I think I'll go the second way. The brief gore moments are well-done, the Paul Brothers openly mock the material (they even bark at each other in one scene!), and there is also a charming, spirited, good-natured performance by Eva La Rue, as the girl who tags along with the \"boys\". Plus, where else can you see the insides of a dragon lighted like a discotheque?? (***)"
+      ],
+      "genres": [
+         "Fantasy",
+         "Adventure"
+      ],
+      "productionCompanies": [
+         "Cannon Films",
+         "Cannon Italia Srl"
+      ],
+      "summaries": ["Two twin barbarians seek revenge from the warlord who massacred their tribe and captured them when they were small children."],
+      "budget": 4000000
+   },
+   "movielensId": 170265,
+   "movielens": {
+      "languages": [
+         "English",
+         "Italiano",
+         "Español"
+      ],
+      "releaseDate": "1987-03-01",
+      "dvdReleaseDate": null,
+      "directors": ["Ruggero Deodato"],
+      "runtime": 87,
+      "movieId": 170265,
+      "title": "The Barbarians",
+      "mpaa": "R",
+      "actors": [
+         "Peter Paul",
+         "David Paul",
+         "Richard Lynch",
+         "Eva LaRue",
+         "Virginia Bryant",
+         "Sheeba Alahani",
+         "Michael Berryman",
+         "George Eastman",
+         "Franco Pistoni",
+         "Raffaella Baracchi",
+         "Pasquale Bellazecca",
+         "Luigi Bellazecca",
+         "Wilma Marzilli",
+         "Giovanni Cianfriglia",
+         "Angelo Ragusa",
+         "Nanni Bernini",
+         "Lucio Rosato",
+         "Franco Daddi",
+         "Omero Capanna",
+         "Tiziana Di Gennaro",
+         "Marilda Donà",
+         "Paolo Merosi",
+         "Nello Pazzafini",
+         "Renzo Pevarello",
+         "Paolo Risi",
+         "Benito Stefanelli"
+      ],
+      "imdbMovieId": "0092615",
+      "originalTitle": "The Barbarians",
+      "genres": [
+         "Fantasy",
+         "Adventure"
+      ],
+      "youtubeTrailerIds": ["3MyHwD8wJ8k"],
+      "plotSummary": "Orphaned brothers Kutchek and Gore are adopted by a tribe led by Canary the owner of a powerful jewel. The evil Kadar wants both Canary and the jewel. Attacking the tribe he kidnaps Canary but the stone eludes him. The brothers are taken to be trained as gladiators and years later have grown to be VERY big. They escape and set off on a quest to find the jewel and rescue Canary.",
+      "tmdbMovieId": 27551,
+      "avgRating": 2.25,
+      "releaseYear": "1987",
+      "numRatings": 6,
+      "posterPath": "/tdc4suOSEK7U58vdt8lCnhSeZe7.jpg"
+   }
+}

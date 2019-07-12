@@ -1,0 +1,425 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "dc comics",
+            "id": 849
+         },
+         {
+            "name": "showcase",
+            "id": 156558
+         },
+         {
+            "name": "jonah hex",
+            "id": 156562
+         }
+      ],
+      "imdb_id": "tt1606600",
+      "video": false,
+      "title": "DC Showcase: Jonah Hex",
+      "recommendations": [
+         38180,
+         46718,
+         43641,
+         20012,
+         17074,
+         67697,
+         76420,
+         256421,
+         81244,
+         136146,
+         17445,
+         37407,
+         25603,
+         59843,
+         15583,
+         38877,
+         76340,
+         128890,
+         54805,
+         77348
+      ],
+      "backdrop_path": "/nc82x0Qiv6qIRlbODzC6SFAfjB4.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 6,
+               "character": "Jonah Hex (voice)",
+               "gender": 2,
+               "credit_id": "52fe45e6c3a36847f80e0fd1",
+               "name": "Thomas Jane",
+               "profile_path": "/xAES23Ll0JT0lJADA1SIdTAN0bf.jpg",
+               "id": 11155,
+               "order": 0
+            },
+            {
+               "cast_id": 7,
+               "character": "Madame Lorraine (voice)",
+               "gender": 1,
+               "credit_id": "52fe45e6c3a36847f80e0fd5",
+               "name": "Linda Hamilton",
+               "profile_path": "/fcRpgjonpH3WmPs0V63g7iP7Dbm.jpg",
+               "id": 2713,
+               "order": 1
+            },
+            {
+               "cast_id": 8,
+               "character": "Young Man / Bartender (voice)",
+               "gender": 2,
+               "credit_id": "52fe45e6c3a36847f80e0fd9",
+               "name": "Jason Marsden",
+               "profile_path": "/qlZvyg48eUGth7pzU5UDi3CfdDR.jpg",
+               "id": 61983,
+               "order": 2
+            },
+            {
+               "cast_id": 11,
+               "character": "Red Doc (voice)",
+               "gender": 2,
+               "credit_id": "52fe45e6c3a36847f80e0fe1",
+               "name": "Michael Rooker",
+               "profile_path": "/bvmf7TIjCyRPrBNrmZ5qyePTL5y.jpg",
+               "id": 12132,
+               "order": 3
+            },
+            {
+               "cast_id": 10,
+               "character": "Bar Girl (voice)",
+               "gender": 1,
+               "credit_id": "52fe45e6c3a36847f80e0fdd",
+               "name": "Michelle Trachtenberg",
+               "profile_path": "/jLkEO1ggRke1PQ6XZ2kZpVXMrob.jpg",
+               "id": 49961,
+               "order": 4
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe45e6c3a36847f80e0fbb",
+               "name": "Joe R. Lansdale",
+               "profile_path": null,
+               "id": 127463,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe45e6c3a36847f80e0fc1",
+               "name": "Justin Gray",
+               "profile_path": null,
+               "id": 127464,
+               "department": "Writing",
+               "job": "Original Story"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe45e6c3a36847f80e0fc7",
+               "name": "Phil Noto",
+               "profile_path": null,
+               "id": 127465,
+               "department": "Writing",
+               "job": "Original Story"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe45e6c3a36847f80e0fcd",
+               "name": "Jimmy Palmiotti",
+               "profile_path": null,
+               "id": 127466,
+               "department": "Writing",
+               "job": "Original Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5916d98bc3a36842c102fc97",
+               "name": "Joaquim Dos Santos",
+               "profile_path": null,
+               "id": 89596,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57ebe62f925141188c000391",
+               "name": "Margaret Hou",
+               "profile_path": null,
+               "id": 8068,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59353c15c3a36859b30331e4",
+               "name": "Sam Register",
+               "profile_path": null,
+               "id": 141043,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59353c34c3a3685a35033a4e",
+               "name": "Bruce Timm",
+               "profile_path": "/2MaucKEFexM0MMcpsHHbDtDVZbk.jpg",
+               "id": 34934,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59353c7a9251417dd4034be7",
+               "name": "Bobbie Page",
+               "profile_path": null,
+               "id": 129722,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59353c859251417dd4034bef",
+               "name": "Alan Burnett",
+               "profile_path": null,
+               "id": 34936,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59353caac3a3685a35033acd",
+               "name": "Jeremy Zuckerman",
+               "profile_path": null,
+               "id": 1828760,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59353cb5c3a3685a24030b04",
+               "name": "Benjamin Wynn",
+               "profile_path": null,
+               "id": 1672192,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59353ccd9251417e320318a1",
+               "name": "Jamie Thomason",
+               "profile_path": null,
+               "id": 937490,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59353cf2c3a3685a45032333",
+               "name": "Joaquim Dos Santos",
+               "profile_path": null,
+               "id": 89596,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59353d17c3a36859de0327ba",
+               "name": "Gregory Noveck",
+               "profile_path": null,
+               "id": 1172894,
+               "department": "Production",
+               "job": "Executive In Charge Of Production"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59353d249251417e320318fa",
+               "name": "Michael Macasero",
+               "profile_path": null,
+               "id": 1200787,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59353d399251417de2032eab",
+               "name": "Joaquim Dos Santos",
+               "profile_path": null,
+               "id": 89596,
+               "department": "Art",
+               "job": "Storyboard Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59353d46c3a36859900331f4",
+               "name": "Ki Hyun Ryu",
+               "profile_path": null,
+               "id": 1252487,
+               "department": "Art",
+               "job": "Storyboard Designer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59353d5a9251417de2032ed6",
+               "name": "Joaquim Dos Santos",
+               "profile_path": null,
+               "id": 89596,
+               "department": "Visual Effects",
+               "job": "Character Designer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Animation",
+            "id": 16
+         },
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Western",
+            "id": 37
+         }
+      ],
+      "popularity": 2.670247,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 41988,
+      "vote_count": 26,
+      "budget": 0,
+      "overview": "When a ruthless brothel madame murders Jonah Hex's current quarry, the disfigured bounty hunter plans to make her pay.",
+      "similar": [
+         155,
+         1452,
+         414,
+         1924,
+         141052,
+         272,
+         49521,
+         209112,
+         297762,
+         8536,
+         382322,
+         287947,
+         251519,
+         9531,
+         40662,
+         13640,
+         364,
+         268,
+         49026,
+         415
+      ],
+      "original_title": "DC Showcase: Jonah Hex",
+      "runtime": 12,
+      "poster_path": "/3mlR7ryXJpo7D8AUZ4Zb9Dfi7sb.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+            "name": "DC Comics",
+            "id": 429,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": "/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png",
+            "name": "Warner Bros. Animation",
+            "id": 2785,
+            "origin_country": "US"
+         }
+      ],
+      "release_date": "2010-07-27",
+      "vote_average": 6.5,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Joaquim Dos Santos"],
+      "runtime": 13,
+      "synopsis": null,
+      "writers": [
+         "Joe R. Lansdale",
+         "Justin Gray"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt1606600/",
+      "coverLink": null,
+      "actors": [
+         "Thomas Jane",
+         "Linda Hamilton",
+         "Jason Marsden"
+      ],
+      "reviews": [
+         "It is hard to believe that the down and dirty wild west adventure envisioned in this 12 minute feature manages to be more gritty, more realistic and more focused than the flop that was the Jonah Hex live action production back in June 2010. The Jonah Hex animated short follows the titular badass bounty hunter on the trail of a wanted man named \"Red\". Unknown to Hex, Red had stumbled into a seedy saloon, drunk, and ended up on the wrong side of a gun, courtesy of one Madame Lorraine. You see, Lorraine earns a little extra cash on the side by seducing and murdering rich drunks. Hex tracks his quarry to that Saloon and receives a tipoff from a bar girl about Madame Lorraine knowing the whereabouts of Red. In order to to get that information, Hex would need some \"private time\" with Lorraine. But \"private time\" is when this black widow and her armed thugs strike. If the previous DC Showcase animated short, The Spectre, was a tribute to 1970s film noir and supernatural thrillers, Jonah Hex pays homage to all those old gritty Clint Eastwood westerns about a badass stranger with no name riding into town seeking out a quarry. More of a character focused piece than a plot driven narrative, the short story puts Hex in a variety of situations that lends insight into his true personality under that deformed face of his. He is cold, merciless and brutal, not to mention a expert gunslinger, but he does have a conscience. Action is a little sparse, but when it comes, it comes like a charging steed. Directed once again by Joaquim Dos Santos, the action is visceral and actually more violent than what one might expect. The entire set up is also a lot more \"adult\" than the usual animated film, featuring some sexual tension, hot ladies, and a good deal of bloodletting. This is definitely not your grandpa's Cowboy Cartoon. The animation is fluid and the artwork intricately beautiful featuring an orange-ish sun drenched \"Washed out\" look to enhance the \"old west\" feel. Technically, this short film is awesome which is a pity that a more epic story did not accompany the great animation. For pity sake Warner, let Mr Dos Santos do a full length animated feature. Here is a bright talent just waiting to be tapped. If he can produce this kind of excellent work on short films, imagine how great a full length movie would be. Anyway, once again this here is a story that both fans of animation and viewers who do not usually watch animation would enjoy. Featuring an all star cast headed by Tomas Jane (The Punisher) and Linda Hamilton (yes, its Sarah Connor), here is one show that has all the potential to be 100% better than its live action counterpart. Its only shortcoming would be that the story serves only as a sort of \"a day in the life of....\" tale as opposed to an origin story or some big pivotal event. Therefore, it is recommended for the viewer to have some basic knowledge of the Jonah Hex character. Do not miss it. Watch \"DC Showcase: Jonah Hex\" now in the 2 disc DVD or blu-ray edition of \"Batman: Under the Red Hood\" or on the \"DC Showcase animated shorts\" DVD and blu ray slated for November 2010 release.",
+         "Jonah Hex is one of the few DC characters that doesn't have special powers or lived during the same time as all the others. In a way he is premature version of Marvel's The Punisher because he lost his family. Coincidentally enough, Thomas Jane, who played Frank Castle in The Punisher (2004), voices Jonah Hex in this animated short. Jane gives Hex a nice scratchy voice that comes with his look, which is rather uncomfortable when stared at long enough. This makes Hex that much more intimidating, which is good. The setting wasn't bad looking either, the saloon and desert background were appropriate as were the bartender and bar girls that walked around in skimpy clothing while flirting with other men. Linda Hamilton lends her voice to Madame Lorraine, the villain of this short. Even if Hamilton isn't looking swell for her age anymore, her voice is still very seductive. That also includes Michelle Trachtenberg who's all grown up now from Disney's Inspector Gadget (1999). And the music by The Track Team was good too. It had an acceptable western tone to it. However, I won't give this short ten stars due to the lack of time. It either needs to be a full-length animated feature or live-action. Since the character of Jonah Hex has many stories to tell, this one could've been extended. It has to be an original work, something never put on screen before for me to consider it receiving ten stars. Besides this though, it was fun to watch. As Thomas Jane switches from Marvel to DC, his characterization of Jonah Hex is well performed. Along with Trachtenberg and Hamilton, this short western will make you wish to see more.",
+         "8.5/10 --Very well worth watching if you're a fan of Jonah Hex or Jimmy Palmiotti. Otherwise, hey, it comes with \"Batman: Under the Red Hood\", in case you're going to get that anyway.-- Written by Jimmy Palmiotti, who worked on the Jonah Hex comics revamp, you will definitely get what you'd expect from him: A gritty, adult orientated story. Since his contributions to the Jonah Hex series are mostly short, stand-alone, stories, this story can be considered as another one of Jonah's tales, except it's animated. The animation itself is comparable to a good anime: The use of lighting, the fight scenes, minimal use of CGI, gorgeous backdrops, and the dry colors combined with the Western music and title/credits make the Wild West really come to life. Thomas Jane, who once did voice work for \"The Punisher\" video game, returns with his deep, stone cold voice.",
+         "Jonah Hex has never been on my radar, when the live action film appeared I didn't even know it was DC until I watched it and alike most viewers I was far from impressed. These little DC Showcase shorts are great for introducing people to new characters/ones they aren't familiar with and this is a great concept. This runs for slightly over ten minutes and manages to tell a story. It's about Jonah rolling into town seeking his bounty but upon learning he's dead he sets about getting revenge on the brothel madam responsible. This was enjoyable, this was on another level than the live action movie. The creators of this need to be handed a budget and allowed to make a feature length movie because based on this it could be really good. The Good: Well written Beautifully animated Original plot Great voice cast The Bad: Still not keen on the character Things I Learnt From This Short: Michael Rooker needs to do more voice work",
+         "I have never seen the Jonah Hex movie or have any knowledge of the actual character itself but this was a pretty decent short however since it is not for children there are a few alcohol and sex references in this short especially since the main villain of the short was subbing men taking them upstairs to get dirty but secretly killing them with a gun. But Jonah Hex stops her and the ending is a mystery.",
+         "When a ruthless brothel madame murders Jonah Hex's current quarry, the disfigured bounty hunter plans to make her pay. Although Jonah Hex is not that famous for many people and even DC Fans in general he did get his short film as well and it was quite enjoyable and for sure better than the actual live action film plus Thomas Jane makes a good voice for Hex in general and it would be cool to have him as Jonah Hex in the DCEU some day, Linda Hamilton as Madame Lorraine was pretty good also and there's a great amount of action even tho it's a short film sure it's not a perfect film but it's still a pretty good DC Short Film. (9.0/10)",
+         "Here we have a 13-minute movie featuring an unlikely hero. The first almost five minutes we see how a cowboy comes to a bar and is lured upstairs by a woman who is apparently a prostitute. But truth is, she is a cold-blooded killer who murdered many men that way and took their money. Just like this time. Her two henchmen help her in getting rid off the corpses afterward. Bad news for her that her latest victim was friend of the mysterious Jonah Hex. He finds out about the lady's business from another female at the bar and helps her get away afterward. Our hero takes the same path as his buddy, but knowingly keeps the woman from shooting him upstairs. Instead, he kills her two partners, then murders the barkeeper, who also was affiliated with the femme fatale. In the end he forces her to show him where he put his buddy's corpse and finds a graveyard with everybody she took out this way. This was actually a very entertaining short movie. The animation was good, the story was simple, but pretty convincing. It got me definitely in the mood to watch a full feature animated movie about Jonah Hex. I know that the Brolin movie did not turn out so well apparently, but I haven't seen it, so I cannot go into detail here. However, this film here has a pretty good cast as well. \"Terminator\", \"The Walking Dead\" and \"Buffy\" are just a few of the live action projects, in which the voice actors starred in and not in small roles. Certainly a good watch. Thumbs up for director Joaquim Dos Santos. He definitely seems to have the right touch for superhero films and I hope he can finally direct a big blockbuster film maybe. Or a Jonah Hex animated movie.",
+         "I do not know anything about Jonah Hex at all, so this was more like a cowboy animated short film to me, and I have to say, it was really great! First off, the voice of Jonah Hex, dayum! Straight away makes him very intriguing and it's very appropriate for the character and his overall look. The way the dialogue is set up and the way the character of Jonah Hex is characterized is done brilliantly I feel. And more on the dialogue, when Hex does speak, it's always really wow and badass and awesome. The action was pretty good too and the characters other than Hex were just as well done as Hex himself. I give it a 10 because I had a really good time and this is a very memorable short for me. I also feel like this should get it's own short animated series (like 13 or so episodes) because I feel like there's a lot that can be done here.",
+         "This was an amazing short. Of all the animated shorts included in the DC Showcase, this was my favorite one, having an excellent animation, a magnificent atmosphere and great music. While I have to admit that I don't know very much about the \"Jonah Hex\" comics, being a big fan of the Spaghetti Western flicks, I loved the way in which this animated short did a wonderful homage to the most iconic elements from that genre. \"Jonah Hex\" was brilliant in every single aspect, showing a great level of quality from beginning to end. Personally, I think that this was the best of all the DC Universe Animated Original Movies, even if it is only a short. 10/10 (I would rate it with eleven stars if I could)",
+         "i liked the raw,unpolished gritty feel of this animated short and i thought the voice acting was pitch perfect.each voice suited their character to a tee.the sound people did a great job bring every little sound to life.if your not familiar with the title character,this short gives you bit of an idea of what kind of person he is,but it doesn't tell his origin story.speaking of the story,i thought that particular aspect was a bit mundane,ordinary.the story could have had a bit more zip in my opinion.still it wasn't horrible,by any means.nor was it boring.i just think they could have done a bit more with it.when i first watched the short,the way it ended bothered me.i thought it was way too abrupt,and there should have been an extra scene or two to tie things up better.but then thinking back on it,i realize,the way it ended was the perfect ending,and it didn't need anything else.all in all,worth watching.this animated short is included as a bonus with the animated film Batman: Under The Red Hood.for me,DC Showcase: Jonah Hex is a 6/10"
+      ],
+      "genres": [
+         "Animation",
+         "Short",
+         "Action",
+         "Thriller",
+         "Western"
+      ],
+      "productionCompanies": [
+         "DC Entertainment",
+         "Warner Bros. Animation",
+         "Warner Premiere"
+      ],
+      "summaries": ["When a ruthless brothel madame murders Jonah Hex's current quarry, the disfigured bounty hunter plans to make her pay."],
+      "budget": 0
+   },
+   "movielensId": 155579,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2010-07-27",
+      "dvdReleaseDate": null,
+      "directors": ["Joaquim Dos Santos"],
+      "runtime": 12,
+      "movieId": 155579,
+      "title": "DC Showcase: Jonah Hex",
+      "mpaa": "PG-13",
+      "actors": [
+         "Thomas Jane",
+         "Linda Hamilton",
+         "Jason Marsden",
+         "Michael Rooker",
+         "Michelle Trachtenberg"
+      ],
+      "imdbMovieId": "1606600",
+      "originalTitle": "DC Showcase: Jonah Hex",
+      "genres": [
+         "Animation",
+         "Action",
+         "Western"
+      ],
+      "youtubeTrailerIds": [],
+      "plotSummary": "When a ruthless brothel madame murders Jonah Hex's current quarry, the disfigured bounty hunter plans to make her pay.",
+      "tmdbMovieId": 41988,
+      "avgRating": 3.25,
+      "releaseYear": "2010",
+      "numRatings": 6,
+      "posterPath": "/3mlR7ryXJpo7D8AUZ4Zb9Dfi7sb.jpg"
+   }
+}

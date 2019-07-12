@@ -1,0 +1,511 @@
+{
+   "tmdb": {
+      "original_language": "fr",
+      "keywords": [],
+      "imdb_id": "tt0269461",
+      "video": false,
+      "title": "Safe Conduct",
+      "recommendations": [],
+      "backdrop_path": "/ivaRTcteNj27wamrKlyAnOvGI7A.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Jean-Devaivre",
+               "gender": 2,
+               "credit_id": "52fe47f8c3a368484e0e353f",
+               "name": "Jacques Gamblin",
+               "profile_path": "/cJpECWOgMnEAJ07ukli9Nx2a0M8.jpg",
+               "id": 77860,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Jean Aurenche",
+               "gender": 2,
+               "credit_id": "52fe47f8c3a368484e0e3543",
+               "name": "Denis Podalydès",
+               "profile_path": "/AfsmUtlz0ogq08hzHfyT4dnJTPT.jpg",
+               "id": 6020,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "Suzanne Raymond",
+               "gender": 1,
+               "credit_id": "52fe47f8c3a368484e0e3547",
+               "name": "Charlotte Kady",
+               "profile_path": "/u3SaKmmNgFN3oyTeeYGiAZmBstk.jpg",
+               "id": 82306,
+               "order": 2
+            },
+            {
+               "cast_id": 16,
+               "character": "Simone Devaivre",
+               "gender": 0,
+               "credit_id": "52fe47f8c3a368484e0e358d",
+               "name": "Marie Desgranges",
+               "profile_path": null,
+               "id": 267376,
+               "order": 3
+            },
+            {
+               "cast_id": 17,
+               "character": "Jean-Paul Le Chanois",
+               "gender": 0,
+               "credit_id": "52fe47f8c3a368484e0e3591",
+               "name": "Ged Marlon",
+               "profile_path": "/tJRjQWho8QJphpd7mgu3M3Pd9BV.jpg",
+               "id": 30644,
+               "order": 4
+            },
+            {
+               "cast_id": 18,
+               "character": "Maurice Tourneur",
+               "gender": 2,
+               "credit_id": "52fe47f8c3a368484e0e3595",
+               "name": "Philippe Morier-Genoud",
+               "profile_path": null,
+               "id": 19075,
+               "order": 5
+            },
+            {
+               "cast_id": 19,
+               "character": "Charles Spaak",
+               "gender": 0,
+               "credit_id": "52fe47f8c3a368484e0e3599",
+               "name": "Laurent Schilling",
+               "profile_path": null,
+               "id": 38881,
+               "order": 6
+            },
+            {
+               "cast_id": 20,
+               "character": "Reine Sorignal",
+               "gender": 1,
+               "credit_id": "52fe47f8c3a368484e0e359d",
+               "name": "Maria Pitarresi",
+               "profile_path": null,
+               "id": 12666,
+               "order": 7
+            },
+            {
+               "cast_id": 21,
+               "character": "Alfred Greven",
+               "gender": 2,
+               "credit_id": "52fe47f8c3a368484e0e35a1",
+               "name": "Christian Berkel",
+               "profile_path": "/lMVb8ENKAEUYUUnGnU2fayhxoJt.jpg",
+               "id": 7803,
+               "order": 8
+            },
+            {
+               "cast_id": 22,
+               "character": "Richard Pottier",
+               "gender": 2,
+               "credit_id": "52fe47f8c3a368484e0e35a5",
+               "name": "Richard Sammel",
+               "profile_path": "/fa1eHH0Tg7CugDg9qIsxTsF2STX.jpg",
+               "id": 49487,
+               "order": 9
+            },
+            {
+               "cast_id": 23,
+               "character": "Olga",
+               "gender": 1,
+               "credit_id": "52fe47f8c3a368484e0e35a9",
+               "name": "Marie Gillain",
+               "profile_path": "/sMBpCVY5Mp5wMjFWqK3GCA270By.jpg",
+               "id": 54227,
+               "order": 10
+            },
+            {
+               "cast_id": 24,
+               "character": "Roger Richebé",
+               "gender": 2,
+               "credit_id": "52fe47f8c3a368484e0e35ad",
+               "name": "Olivier Gourmet",
+               "profile_path": "/y1g5UGYEiRiBqdc35zrekZox0tu.jpg",
+               "id": 45152,
+               "order": 11
+            },
+            {
+               "cast_id": 25,
+               "character": "Pierre Nord",
+               "gender": 0,
+               "credit_id": "52fe47f8c3a368484e0e35b1",
+               "name": "Philippe Saïd",
+               "profile_path": null,
+               "id": 14013,
+               "order": 12
+            },
+            {
+               "cast_id": 26,
+               "character": "Mémaine",
+               "gender": 1,
+               "credit_id": "52fe47f8c3a368484e0e35b5",
+               "name": "Liliane Rovère",
+               "profile_path": "/rJAyCp6bgQqmSHjYJka5gFwGXgE.jpg",
+               "id": 36513,
+               "order": 13
+            },
+            {
+               "cast_id": 27,
+               "character": "Bauermeister",
+               "gender": 0,
+               "credit_id": "52fe47f8c3a368484e0e35b9",
+               "name": "Götz Burger",
+               "profile_path": "/bXXi4oft1RVqVbvTeTDC3T3zzk.jpg",
+               "id": 26405,
+               "order": 14
+            },
+            {
+               "cast_id": 28,
+               "character": "Louis Née",
+               "gender": 2,
+               "credit_id": "52fe47f8c3a368484e0e35bd",
+               "name": "Serge Riaboukine",
+               "profile_path": "/flKeIaW8jkWFXEZTTIY7HA8OqzY.jpg",
+               "id": 16873,
+               "order": 15
+            },
+            {
+               "cast_id": 29,
+               "character": "Armand Thirard",
+               "gender": 0,
+               "credit_id": "52fe47f8c3a368484e0e35c1",
+               "name": "Didier Sauvegrain",
+               "profile_path": "/nNa7bKmzeYfDsF2zwPcIo1UsvdZ.jpg",
+               "id": 263072,
+               "order": 16
+            },
+            {
+               "cast_id": 30,
+               "character": "Paul Maillebuau",
+               "gender": 0,
+               "credit_id": "52fe47f8c3a368484e0e35c5",
+               "name": "Thierry Gibault",
+               "profile_path": "/35wUScZ44RVkMDMNsmle6YXKadx.jpg",
+               "id": 240388,
+               "order": 17
+            },
+            {
+               "cast_id": 31,
+               "character": "Pierre Bost",
+               "gender": 2,
+               "credit_id": "52fe47f8c3a368484e0e35c9",
+               "name": "Christophe Odent",
+               "profile_path": "/9ryUaTaGmm967AOD4yxMFkzCTw5.jpg",
+               "id": 23505,
+               "order": 18
+            },
+            {
+               "cast_id": 32,
+               "character": "Chanteuse dans la rue",
+               "gender": 1,
+               "credit_id": "52fe47f8c3a368484e0e35cd",
+               "name": "Lara Guirao",
+               "profile_path": "/q7ylbvW6HzexED5Y3OUtde9NDmz.jpg",
+               "id": 12813,
+               "order": 19
+            },
+            {
+               "cast_id": 33,
+               "character": "Von Schertell",
+               "gender": 2,
+               "credit_id": "5a2e8af9c3a3680b8f160edc",
+               "name": "Hans-Werner Meyer",
+               "profile_path": "/fz211JlJ6QrWPVZTj8x817NBiow.jpg",
+               "id": 848,
+               "order": 20
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe47f8c3a368484e0e353b",
+               "name": "Bertrand Tavernier",
+               "profile_path": "/ocgD7ghWJ8DmBRPQcaNt8YMZSuj.jpg",
+               "id": 20556,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47f8c3a368484e0e354d",
+               "name": "Bertrand Tavernier",
+               "profile_path": "/ocgD7ghWJ8DmBRPQcaNt8YMZSuj.jpg",
+               "id": 20556,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47f8c3a368484e0e3553",
+               "name": "Jean Cosmos",
+               "profile_path": null,
+               "id": 37637,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47f8c3a368484e0e3559",
+               "name": "Jean Devaivre",
+               "profile_path": null,
+               "id": 278470,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47f8c3a368484e0e355f",
+               "name": "Frédéric Bourboulon",
+               "profile_path": null,
+               "id": 20557,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47f8c3a368484e0e3565",
+               "name": "Alain Sarde",
+               "profile_path": "/95fgX9tAqahF98DG4FutHpLjbEi.jpg",
+               "id": 3560,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47f8c3a368484e0e356b",
+               "name": "Christine Gozlan",
+               "profile_path": null,
+               "id": 62529,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47f8c3a368484e0e3571",
+               "name": "Antoine Duhamel",
+               "profile_path": "/hvVxYwaaU0TxUCzqh1O3X0HMT3g.jpg",
+               "id": 3529,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47f8c3a368484e0e3577",
+               "name": "Alain Choquart",
+               "profile_path": null,
+               "id": 135917,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe47f8c3a368484e0e357d",
+               "name": "Sophie Brunet",
+               "profile_path": null,
+               "id": 20559,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47f8c3a368484e0e3583",
+               "name": "Emile Ghigo",
+               "profile_path": null,
+               "id": 22321,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47f8c3a368484e0e3589",
+               "name": "Valérie Pozzo di Borgo",
+               "profile_path": null,
+               "id": 13685,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "War",
+            "id": 10752
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "History",
+            "id": 36
+         }
+      ],
+      "popularity": 0.713805,
+      "production_countries": [{
+         "iso_3166_1": "FR",
+         "name": "France"
+      }],
+      "id": 70443,
+      "vote_count": 5,
+      "budget": 0,
+      "overview": "The film is about the French film industry from 1942 to 1944 during the Nazi occupation. The film focuses on assistant director and resistance fighter Jean Devaivre and screenwriter Jean Aurenche. Aurenche is on the move so that he doesn't have to write anything collaborationist. Devaivre is in dangerous political activity. Devaivre also works for the German production company Continental where he is respected. On the other hand, Aurenche's scriptwriting doesn't help how he lives and he is a womanizer which causes him to procrastinate.",
+      "similar": [],
+      "original_title": "Laissez-passer",
+      "runtime": 170,
+      "poster_path": "/q3gx9jI7n7TlxHpcogzlyPyagRI.jpg",
+      "spoken_languages": [{
+         "name": "Français",
+         "iso_639_1": "fr"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "France 2 Cinéma",
+            "id": 83,
+            "origin_country": "FR"
+         },
+         {
+            "logo_path": null,
+            "name": "France 3 Cinema",
+            "id": 16804,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "KC Medien",
+            "id": 22182,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Les Films Alain Sarde",
+            "id": 635,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/8T8OOQe3Xei2mW0DQepwQG1IMT0.png",
+            "name": "StudioCanal",
+            "id": 694,
+            "origin_country": "FR"
+         },
+         {
+            "logo_path": "/s5DhzAWbXlySdySIGmpghpMRmPp.png",
+            "name": "Vertigo Films",
+            "id": 10393,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Little Bear",
+            "id": 16772,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2002-01-09",
+      "vote_average": 5.4,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "France",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Bertrand Tavernier"],
+      "runtime": 170,
+      "synopsis": null,
+      "writers": [
+         "Jean Cosmos",
+         "Jean-Devaivre"
+      ],
+      "originalLanguage": "French",
+      "imdbLink": "http://www.imdb.com/title/tt0269461/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjM2ODMxMjU3NV5BMl5BanBnXkFtZTcwODMwMjUyMQ@@._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "actors": ["Stars: Jacques Gamblin, Denis Podalydès, Charlotte Kady | See full cast and crew »"],
+      "reviews": [
+         "I know I must resist the temptation to comment other reviews, so I'll let the title of mine shows what lead me to react. This Tavernier's opus is one of his most achieved work. The French filmmaker (and historian and archivist of cinema) is doing a revision, for sure, and breaking some codes of the reigning (and ageing) French political correctness ; besides, it doesn't make his movie a rehabilitation of the \"régime de Vichy\", neither Tavernier a glorifyer of French fascism. The film is simply pointing some facts that have been seldom told about filmmaking during the German occupation of France (from June 1940 to summer 1944). Tavernier talks about passion for filmmaking and reluctance to work under German or fascist rules, about need to stay a professionnal and despair to be endangered by a war still going on and Gestapo of Milice sending their murderers even in the studios. Furthermore, Tavernier talks about the role and place of the Communist party (joining French resistance after June 41...), a place which is rarely evoked in its most unpleasant aspects, usually. Let's remember that Clouzot's \"le Corbeau\" was tagged a collaborationnist film, and subsequantly his author blacklisted for a year, only because HG Clouzot didn't support the Communist party linked \"Comité d'épuration\" in the end of 1944. This is also of what \"laissez-passer\" is dealling with. Of a very classic form, excellently acted, this movie has the considerable merit of revisiting a period which is remembered as well as one of the darkest in French political and social history, and paradoxically as one of the most brilliant in French cinema history. A last word on Tavernier's conceptions of social duties for an intellectual : most of his works are giving the point of view of people having to deal with real life and what they understand as their duty ; those people are shown in fictions (the policeman in \"L 627\", the best ever made movie on police work ; the teacher in \"une semaine de vacances\") or documentaries (\"la guerre sans nom\"). Tavernier give them a right to free speach which makes his movies sort of manifestos in defense of the Republic and democracy. For this too, he'll be remembered, as he'll be honoured for his positions (by political means or by filmmaking, as \"double peine\") to support immigrant workers.",
+         "This deeply humane film is the first that I, as a child of a British generation who once faced the real and imminent possibility of life under Nazi dictatorship, have ever seen that allows me to understand just what a nightmare it was, to actually live in the collaborationist state of Vichy. How could the human soul survive such radical compromises as were required of the French every day of their war-time existence? How, except by a unique form of cultural prostitution, could people negotiate for the temporary return of their own lives, which was the best accommodation for which they could hope? Without the obvious and utterly stylized heroism beloved of the Hollywood dream-factory, and of communist ideological fantasists, alike, this film reveals and communicates more of the agony of ordinary lives under Vichy - largely through the microcosm of the 'film family' - than any other I know. The gains in such directorial and authorial humility are in the honesty this permits in the observation of the shifts people are put to to survive: Such as the dog-end scam of a floor sweeper, who encourages harried fumeurs to stub out barely-smoked cigarettes on their way to the air-raid shelter; or the retrieval of river fish, stunned by the repercussions of British bombs, detonated nearby, and their free distribution to the film crew. This process of adaptation to extreme situations comes over as deeply sympathetic. Indeed, the whole business of earning your living (for that is what it amounts to when the means of life are so scarce and so insecure) by making films to pander to your conqueror's debased notions of your culture - which films yet contrive to be, in some residual sense, an expression of your innate and irreducible Frenchness - seems to me to be all of a piece with such simple, even seedy, everyday strategies for survival, that also, and despite appearances to the contrary, permit a conquered nation to retain some semblance of its pride and integrity. Thus a captive people secretly harbours dreams of what it once was, and must be again. 'The wind must change one day' says one of the lesser characters who teem through this film. The insistence on sheer craftsmanship as a value in itself, despite the malign vagaries of German-sourced film-stock, material, and equipment, is a most eloquent rebuttal of Truffaut's somewhat facile and intemperate post-war Cahiers du Cinema rejection of most of the ill-starred war-generation of French film-makers. The fact remains that he was the talented if disturbed son of these tragic fathers, whether he chose to acknowledge them or not. (And he did have a lurking affection for some of them - Guitry, par exemple.) Of course, his rebellion has value - as who can possibly deny who appreciates the fruits of the Nouvelle Vague? We should make the effort to understand this paternity, albeit it is one that appeared only negatively influential in terms of cinema history. Indeed, Tavernier sees that it is time that justice was done to this lost generation of film makers. Further, he divines that their metier was a microcosm of a France effectively governed by Germany. Therefore, it is with a shock, that, towards the end of the film, we are introduced, during Devaivre's unexpected debriefing session in England, to a proud and still independent people who are clearly managing to hold their own against Hitler; a people whose straightforwardness - even bluntness - grates unavoidably against the psychologically complex reality of the Occupation, which the Frenchman despairs of communicating to them. This wonderful scene, which is full of a balanced, good-natured satire, and is reminiscent of the style of Powell and Pressburger's great wartime films, has been carefully cast with English actors, and reveals Tavernier as an artist of international stature. The complexity of the course of the obscure affairs of ordinary flawed mortals towards an illumination of all that is best about human beings is almost miraculously realised. Out of the very particular, even embarrassingly private, troubles of his country in those dark days, he has fashioned both a detailed account of the experience for his fellow-countrymen (and francophiles!), and a moving drama of the human spirit under adversity, that should rank this work amongst the greatest films of war-time. To understand is (indeed) to forgive. This film allows us to comprehend a very dark chapter in the history of France. This is how most British people would have lived, I'm sure, if the whole of Britain had gone the way of the Channel Islands. I really don't see any reason for the French to be embarrassed by such a film: It explains them to the world, in terms of their own experience. Clearly, collaboration was no cake-walk - more a Purgatory for an entire nation.",
+         "Bertrand Tavernier is, arguably, the greatest living director of French films, and \"Laissez-Passer\" (\"Safe Conduct\") is his masterpiece. By recreating the working and personal lives of two actual French artists, screenwriter Jean Auranche and director Jean Devaivre, Tavernier provides a rich tapestry -- at once funny, tender, exciting, and moving -- of the French film industry during the darkest days of World War II. Although the studio for which Auranche and Devaivre worked was under Nazi patronage and control, almost every writer, director, and technician who made French comedies, dramas,and musicals tried to subvert Nazism by subtly incorporating themes of revolt and resistance into the films they made. Tavernier asserts this truth while he explores his heroes' real-life participation in the French underground: stealing German documents and passing these on to the Allies and finding jobs for creative, but indigent, friends. Moreover, the affection with which Auranche and Devaivre regarded the cinema talent of their days -- Pierre Fresnay, Raimu, Danielle Darrieux, Harry Baur, even the lightly satirized Fernandel -- is part of Tavernier's epic vision of the French film scene of its time. And he gives us invaluable insights into how brave people continued to work at their craft despite the poverty, hunger, and oppression they suffered daily. It's a pity that some of Tavernier's younger critics cannot appreciate either his concepts or his visually fluid and arresting style (for sheer cinematic beauty, he captures the squalor of everyday French life during the Resistance by alternating it with glowing sequences of the country's rural life). \"Laissez-Passer\" is faultlessly acted; seldom has such a large cast of players -- of all ages -- been in such beautiful synch with a director.",
+         "Far and away the best of the recent spate of WW11 movies from France this is also the only one to have played in England. It is inevitable that an Englishman living in a country that was never occupied and with no real first-hand knowledge of WW11 will look at this - or any film on the same subject - with different eyes from a French viewer, especially a French viewer whose memories encompass the years in question. For me, an Englishman, who loves craftsmanship, be it French, Italian, English or American, and has only contempt for the infamous essay in which Truffaut attacked the values personified by, among others, scriptwriter Jean Aurenche, who is a character in this film, and Tavernier, who made the film, a great deal of the pleasure was in Tavernier's defence of Aurenche and the 'well-made' school of filmmaking, but over and above that what we have is almost three hourse of superb storytelling and an evocation of a turbulent time. Denis Polyades (currently on French screens in a tasty remake of The Yellow Room Mystery (Le Mystere de la chambre jaune) is excellent as Aurenche although of course I never knew Aurenche other than via his great screenplays but Tavernier did know him and so presumably guided Polyades to a true portrait. French film buffs will be well versed in the period when 'Contintental' films was active under German control and will, theoretically, share my fascination in any light from whatever quarter that can be shed on it. I saw this movie initially in a small Paris Art House where it played after its initial release and, not unexpectedly in the Latin Quartier and just down the block from the Sorbonne, there were several students in the audience - for that matter out of, at a guess, 120-150 patrons about two thirds of them were under 50 and, by definition, could have no first-hand knowledge of wartime Paris - yet the film was greeted with respect and applause. I subsequently saw it in London, subtitled and with, presumably, a predominently English audience, and it was greeted much the same way. I accept that not everyone takes the view that I do, namely, that movies, like plays, novels, or any creative form, benefit from craftsmanship and professionalism, equally not everyone will despise the Truffauts of this world who thrive on iconaclism for its own sake - ironically, as I've remarked elsewhere, Truffaut eventually began to turn out exactly the same kind of well-crafted movie on which he had poured so much vitriol - but for like-minded film buffs there is so much to delight in when master craftsmen like Tavernier (and, to a lesser ambitious extent, Francis Werber, who is single-handedly filling the void left by Billy Wilder) unveil a new film.",
+         "Albeit a lengthy film, Laissez-passer (aka Safe Conduct) is indeed a beautiful film that significantly shows a crucial time and history of WWII. While most films that we watch dealing with war and battles happen between troops with artillery flying everywhere, there are not many that devote themselves to the unsung battles. Laissez-passer takes a chance and tells two detailed stories of men that were willing to give up their lives for not just their country, but also their own personal beliefs. In this film we follow two members of the French film community as they decide for themselves how they will help their country survive this terrible nightmare. Outside of the opening sequence, there are little to no explosions in this film causing us to look beyond our normal images of war and see a more personal battle. The Germans were deeply rooted in their propaganda and used the French cinema to aid in their attempts to spread messages to all. Laissez-passer devotes its time to this film community's struggle to stay alive and fight for what they believe in. It is a heroic tale of personal endurance and passion. I am a huge film buff, and whenever possible I love learning more about other countries history of film. This film allowed me to see a war torn community pull together and keep a film dream alive. It is due to these persistent people that we can now enjoy French cinema today. Without them, it would have died during this era. What made this film stand out above any other were the characters. While I felt that Aurenche could have been developed a bit stronger and given more to contribute to the film (outside of just being a ladies man), it was Devaivre that I couldn't keep my eyes off. His story was so strong and important that I found myself rooting for him at any possible chance. Jacques Gamblin gives his character so much passion and power that at times you believe him to be this almost a superhero of the war. The ability to cycle several hundred miles, the ability to fight a cold as well as be a revolutionist, and on top of that juggle a full time job as an Assistant Director of a studio completely controlled by the enemy. Wow. I was completely blown away with how Gamblin controlled this already complex character. While I think others would have delivered a very jumbled mess of a man, Gamblin instead dove deeper and delivered one of the best performances of 2002. His ability to remain calm in the face of terror as well as be 100% devoted to his country was outstanding. When you think of humans and their ability to muster the courage to continue, he is a prime example. Overall, these two characters did carry this film on their shoulders. They showed two elements of wartime in the film industry. One showed the fighter, while the other was the lover. An interesting take on the two types of heroes, I just wish Aurenche would have been given more screen time. I wanted to know more about his character. Outside of the characters, you have a very strong story written by Jean Cosmos and Devaivre himself recollecting his story during this time. Adapting from his story allows us to feel more comfortable with the events and see them as truth instead of fiction. It allows us to see the struggles of the characters, instead of thinking that it is just Hollywood drama inserted into overwhelming events. I also enjoyed the fact that this was not a film riddled with explosions and the Rambo-esquire hero. The ability that director Bertrand Tavernier had to keep this film focused on the characters and the humanity of the situation was outstanding. He gave WWII a human feel from outside of the American perspective. He showed us what the world was like during this time while even showing some political satire of the lack of respect that the British had for the citizen soldier of France. Tavernier successfully gives the audience both a strong feeling of the war as well as a very insightful view of cinema in France during this time. I learned so much about what the French had to do for the Germans that it felt like a film history class. It was a refreshing and scary realization on a community that here in America we regard as indestructible. It only continued to show how war could hurt and infect even the most powerful of behemoths. Overall, I was very impressed with this film. While there were some jagged moments with the characters (more development would have been nice), I felt that the overall message and themes came through crystal clear. Tavernier brought the horror of this era out and showed the world that France fought with just as much passion and dedication as the rest of those involved. It is a dark chapter in France's history that was beautifully told by Tavernier. Grade: **** out of *****",
+         "Laissez-Passer aka Safe Conduct is at times almost like Day For Night Goes to War \u0096 richly ironic considering Francois Truffaut famously attacked the 'Tradition of Quality' in French cinema that screenwriters Jean Aurenche and Pierre Bost represented since both are characters in Bertrand Tavernier's lengthy but entertaining wartime comic drama that defends that very tradition of cinematic craftsmanship and professionalism. Indeed, the film is based on anecdotes that Aurenche (Denis Podalydès), who wrote several of Tavernier's early successes such as The Watchmaker of Saint-Paul and Coup de Torchon/Clean Slate, and director Jean-Devaivre (Jacques Gamblin) told about their wartime experiences at German-owned producers Continental Films during the Occupation. The best-funded but most despised film company in France during the war, many of its employees would later find their careers handicapped by association (particularly Henri-Georges Clouzot, whose critique of informers Le Corbeau was widely criticised as a slur on French dignity), yet among its numbers could be found resistance workers and even Jews protected by the German management who prided themselves on making the best films. While Continental was few French filmmakers first choice, Tavernier shows how many would slyly insert subversive messages into the films while juggling with increasingly absurd practical limitations \u0096 not only did they have to limit the length of shots because they could only get short ends of film to use or deal with constant power cuts but often didn't even have enough wood to build the sets because the studio sold their allocation for coffins for the Eastern Front. The company even rented out office space to the Gestapo to earn a few extra Francs. Rather than opt for a relentlessly grim view of the Occupation, Tavernier instead focuses on the absurdity of the situation. Much of the strength of the film comes from the way it shows how people adapted their everyday life to an increasingly askew way of life, where bad actors get bit parts in exchange for black market food, extras eat fake stage food because they are so hungry and you can come home one day to find an anti-aircraft gun has suddenly appeared on your apartment roof and keeps on waking the baby. Even the great and the good of French cinema fall in and out of favour in these times just as easily as the obscure: the screenwriter of La Grande Illusion, let out of jail during the day to rewrite a script on the set, writes food into every scene because he's been starved in solitary confinement for two months, while Jean-Devaivre's interrogation by British officers during a surreal and unplanned trip to England suddenly warms up when the subject of Maigret and Harry Baur (himself tortured to death by the Gestapo) comes up in the conversation. Yet it's not unaware that events often took a darker turn, as an early air-raid threatening a children's ward, a collaborator interrupting a dinner party to beat up a tramp in the street below and one striking moment singling out an extra in a forgotten movie on television powerfully bring home. Fans of classic French cinema will have a field day with the many references \u0096 particularly Douce, Le Corbeau, Au Bonheur des Dames and La Main du Diable as well as figures like Maurice Tourneur, Claude-Autant-Lara, Michel Simon and Charles Spaak - but they're not essential to enjoying the film. As always with Tavernier, people come first. Tavernier is a director who genuinely seems to like his characters, even (and sometimes especially) the flawed ones, and his habit of providing reasons for doing what they do made this film in particular an easy target for some who saw it as excusing wartime collaboration. Yet the film shows the issue as at once both more mundane and complex than a simple issue of them and us, with even the communist resistance who urge members to infiltrate Continental later turning on them as policy changes. But in their very different ways the two main characters DO resist, and each in a manner appropriate to their character. The writer Aurenche resists through the language of his scripts, while the assistant director Devaivre resists with practical actions, in a way representing how it was possible to covertly resist with thoughts as well as deeds. It's slightly problematic at times that the two main characters never really meet, with Aurenche increasingly sidelined as the film concentrates on Jean-Devaivre's attempts to juggle his resistance activities with his work as an assistant director, but it's a problem you notice more after the film than during it. Chances are you'll be enjoying yourself too much watching it. Artificial Eye's DVD boasts a fine 2.35:1 widescreen transfer, and includes an excellent 45-minute interview with Tavernier on the background to the film and its real-life characters.",
+         "In 1942, in Paris, the assistant director and member of the French resistance Jean-Devaivre (Jacques Gamblin) joins the German studio Continental Films to be infiltrated and get a safe conduct. Along the years, he spies while making French movies produced by the Germans. Meanwhiile, the wolf bourgeois screenwriter Jean Aurenche (Denis Podalydès) spends his shallow life with his three lovers \u0096 the artist Suzanne Raymond (Charlotte Kady), the whore Olga (Marie Gillain) and Suzanne's friend and costumes stylist \u0096 and trying to not collaborate with the Germans with his work. \"Laissez-Passer\" has a magnificent cinematography and reconstitution of occupied France, supported by top-notch performances. Unfortunately the story is tiresome, uninteresting and too long, and the subplot with Jean Aurenche goes nowhere. The narrative of the lead story with Jean-Devaivre is too cold, without any tension and could be shorter and shorter. My vote is six. Title (Brazil): \"Passaporte Para a Vida\" (\"Passport for the Life\")",
+         "So many great names appear !Some of them have been so much despised by the young Turks of the nouvelle vague that it's really a pleasure to hear and see names like Jean-Paul LeChanois -whose behavior was admirable- ,André Cayatte,Maurice Tourneur ,Claude Autant-Lara.Henri-Georges Clouzot,maybe the greatest of them all does not appear ,but we see the door of his office in \"la Continentale\" a German films firm which produced \"le corbeau\" and for which Clouzot and others were blacklisted.We see also Michel Simon's back playing in Cayatte's \"au bonheur des dames\" .Was Tavernier too respectful or did he believe (with good reason) no actor could ACT the monstre sacré?Excerpts of movies are also included ,notably \"douce\" with the immortal scene \"paying a visit to the poor\" with Marguerite Moreno comforting the humble people with her \"patience and resignation\" ;we also get an excerpt of Tourneur's \"la main du diable\" ,one of the best fantastic movies of the French cinema. The movie was not a big commercial success and it's easy to see why;you've got to know and appreciate the French cinema during the Occupation.There are veiled hints:they speak of the \"Gauloise\" during Simon' s sequence :it's Simon's good friend Arletty who was in love with a German .And in the end ,the movie disappoints ,getting bogged down in details and played with actors who lack charisma :Denis Podalydes as Jean Aurenche,who wrote \" Douce\" \" le diable au corps\" \"Jeux interdits\" !He even wrote for Tavernier himself :all his first movies!Well Denis Podalydes may be a commendable actor but elsewhere!The same can be said of the rest of the cast:no stand-out.The English episode was it so necessary? The movie is useful anyway.It makes feel like watching again and again and again \"Douce\" \"la main du diable\" or \"le corbeau\" ,these jewels which the nouvelle vague was never able,in spite of their pretension,to equal. NB:Jean Devaivre became a director after the war:his first movies were offbeat works such as \"la dame de onze heures\"and \"la ferme des sept péchés\".but he quickly degenerated into mediocrity with his poor sequels of Richard Pottier 's \"Caroline Chérie\" .",
+         "'Laissez-passer' (Safe Conduct) is an epic film not of the giant battlefield scenes type, but of the inner humanity placed in jeopardy during war times. Director Bernard Tavernier has been making important films since the 1960s and here directs a story by Jean Cosmos and Jean-Devaivre that explores the survival of writers and actors and filmmakers during the German occupation of Paris in World War II. The result is an intensely rich examination of that period of time when the French Resistance successfully and bravely struggled against the Nazi invaders: yet another result is a film that is so long that it calls for an entire evening's concentration on a story that begs to be edited. Based on a true story of screenwriter Jean Aurenche (Denis Podalydès), firm in his conviction that he would never write in support of the Nazi regime, and director Jean Devaivre (Jacques Gamblin) who opted for complying on the surface with a film production company headed by the German occupiers while retaining his firm stance as part of the French Resistance, the story involves a large cast who portray actors, production people, friends, victims, Germans, etc and the plot is at times so convoluted that you may need to pause and backup to make sure you have not lost any important information. The actors are outstanding and the complete production crew of this film has created a tense, atmospheric, intelligent tale that makes the audience respect even more the incredible bravery of the French Resistance movement. This is brilliant film-making - it just goes on a bit too long at 2 hours and 45 minutes! Grady Harp, September 05",
+         "This is a film directed by Bertrand Tavernier. I loved his film IT ALL STARTS TODAY, and I was quite impressed by this one as well. However, be forewarned that this film will not be for all tastes. If you are French or have a good knowledge of French cinema, then you'll no doubt enjoy this film. Otherwise, you may find yourself very confused and bored, as the movie is 163 minutes long. I enjoyed it though, because they made reference to many films, directors and actors who worked under this system whose work I have seen (such as Clouzot and his film THE RAVEN and the Swiss actor Michel Simon). The film concerns the French film industry during the Nazi occupation. Despite the Germans running things, they did allow the French to continue making films--so long as they didn't violate Nazi sensibilities. After the war, some of these people who continued making films were sharply criticized as collaborators. This film focuses on two people in the business and illustrated that there were many different motivations for working in the film industry at this time. Some simply had no choice (work or die), some needed jobs, some gladly embraced evil and some worked in the film business while actively fighting the Nazis. The two men are a very busy writer and an assistant director. The writer (Jean Aurenche) has a very shallow, if not non-existent moral compass, as he is most concerned with sexual conquests and not \"rocking the boat\". The assistant director (Jean-Devaivre), in sharp contrast, is a loving family man who also works with the Resistance and takes great risks for what he knows is right. The writing, directing and acting are all first-rate and it was an excellent film--especially from a historical standpoint. By the way, the two main characters were real figures in the film industry. In fact, Jean-Devaivre wrote the book on which the movie is based."
+      ],
+      "genres": [
+         "Biography",
+         "Drama",
+         "History",
+         "War"
+      ],
+      "productionCompanies": [
+         "France 2 Cinéma",
+         "France 3 Cinéma",
+         "KC Medien"
+      ],
+      "summaries": [
+         "In occupied France, German-run Continental Films calls the shots in the movie business. Assistant director and Resistance activist Jean Devaivre works for Continental, where he can get \"in between the wolf's teeth and avoid being chewed up\". Fast-living screenwriter Jean Aurenche uses every possible argument to avoid working for the enemy. For both, wartime is a battle for survival.",
+         "In 1942, in Paris, the assistant director and member of the French resistance Jean-Devaivre joins the German studio Continental Films to be infiltrated and get a safe conduct. Along the years, he spies while making French movies produced by the Germans. Meanwhiile, the wolf bourgeois screenwriter Jean Aurenche spends his shallow life with his three lovers - the artist Suzanne Raymond, the whore Olga and Suzanne's friend and costumes stylist - and trying to not collaborate with the Germans with his work."
+      ],
+      "budget": 0
+   },
+   "movielensId": 5674,
+   "movielens": {
+      "languages": ["Français"],
+      "releaseDate": "2002-01-09",
+      "dvdReleaseDate": "2004-05-11",
+      "directors": ["Bertrand Tavernier"],
+      "runtime": 170,
+      "movieId": 5674,
+      "title": "Safe Conduct",
+      "mpaa": null,
+      "actors": [
+         "Jacques Gamblin",
+         "Denis Podalydès",
+         "Charlotte Kady",
+         "Marie Desgranges",
+         "Ged Marlon",
+         "Philippe Morier-Genoud",
+         "Laurent Schilling",
+         "Maria Pitarresi",
+         "Christian Berkel",
+         "Richard Sammel",
+         "Marie Gillain",
+         "Olivier Gourmet",
+         "Philippe Saïd",
+         "Liliane Rovère",
+         "Götz Burger",
+         "Serge Riaboukine",
+         "Didier Sauvegrain",
+         "Thierry Gibault",
+         "Christophe Odent",
+         "Lara Guirao",
+         "Hans-Werner Meyer"
+      ],
+      "imdbMovieId": "0269461",
+      "originalTitle": "Laissez-passer",
+      "genres": [
+         "War",
+         "Drama",
+         "History"
+      ],
+      "youtubeTrailerIds": ["auCmeQL_2rs"],
+      "plotSummary": "The film is about the French film industry from 1942 to 1944 during the Nazi occupation. The film focuses on assistant director and resistance fighter Jean Devaivre and screenwriter Jean Aurenche. Aurenche is on the move so that he doesn't have to write anything collaborationist. Devaivre is in dangerous political activity. Devaivre also works for the German production company Continental where he is respected. On the other hand, Aurenche's scriptwriting doesn't help how he lives and he is a womanizer which causes him to procrastinate.",
+      "tmdbMovieId": 70443,
+      "avgRating": 2.74138,
+      "releaseYear": "2002",
+      "numRatings": 29,
+      "posterPath": "/tMoocJ0y7dSmo0AKzezIqs59djs.jpg"
+   }
+}

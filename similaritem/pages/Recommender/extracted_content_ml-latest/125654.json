@@ -1,0 +1,547 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "1970s",
+            "id": 1228
+         },
+         {
+            "name": "jazz",
+            "id": 1416
+         },
+         {
+            "name": "heroin",
+            "id": 2671
+         },
+         {
+            "name": "failure",
+            "id": 3837
+         },
+         {
+            "name": "biography",
+            "id": 5565
+         },
+         {
+            "name": "daughter",
+            "id": 5600
+         },
+         {
+            "name": "father",
+            "id": 5905
+         },
+         {
+            "name": "addiction",
+            "id": 6782
+         },
+         {
+            "name": "pianist",
+            "id": 14743
+         },
+         {
+            "name": "drugs",
+            "id": 14964
+         }
+      ],
+      "imdb_id": "tt1864405",
+      "video": false,
+      "title": "Low Down",
+      "recommendations": [
+         150707,
+         122445,
+         155006,
+         102461,
+         90041,
+         60971,
+         58435,
+         144156,
+         104441,
+         94798,
+         47143,
+         32689,
+         78117,
+         125150,
+         96712,
+         109398,
+         141419,
+         253277,
+         23986,
+         203263
+      ],
+      "backdrop_path": "/30NK2Y5hsXgNDxJA3lQ7RxuFk1a.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Joe Albany",
+               "gender": 2,
+               "credit_id": "52fe4ef4c3a36847f82b3365",
+               "name": "John Hawkes",
+               "profile_path": "/bz4usMR7NWEgVgWTxVBLEjCo3Dv.jpg",
+               "id": 16861,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Amy Albany",
+               "gender": 1,
+               "credit_id": "52fe4ef4c3a36847f82b3369",
+               "name": "Elle Fanning",
+               "profile_path": "/cbFVl9NWREa0xD2vW9Z3J4ursiu.jpg",
+               "id": 18050,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "Gram",
+               "gender": 1,
+               "credit_id": "52fe4ef4c3a36847f82b336d",
+               "name": "Glenn Close",
+               "profile_path": "/fF6tCfuvuUhaePm5onUNnIE4FvL.jpg",
+               "id": 515,
+               "order": 2
+            },
+            {
+               "cast_id": 5,
+               "character": "Alain",
+               "gender": 2,
+               "credit_id": "52fe4ef4c3a36847f82b3371",
+               "name": "Peter Dinklage",
+               "profile_path": "/xuB7b4GbARu4HN6gq5zMqjGbkwF.jpg",
+               "id": 22970,
+               "order": 3
+            },
+            {
+               "cast_id": 6,
+               "character": "Sheila Albany",
+               "gender": 1,
+               "credit_id": "52fe4ef4c3a36847f82b3375",
+               "name": "Lena Headey",
+               "profile_path": "/wcpy6J7KLzmVt0METboX3CZ0Jp.jpg",
+               "id": 17286,
+               "order": 4
+            },
+            {
+               "cast_id": 7,
+               "character": "Hobbs",
+               "gender": 2,
+               "credit_id": "52fe4ef4c3a36847f82b3379",
+               "name": "Flea",
+               "profile_path": "/3mvSPp8RpuuPJUuNwq9PyjFu2Ug.jpg",
+               "id": 1237,
+               "order": 5
+            },
+            {
+               "cast_id": 23,
+               "character": "Dalton",
+               "gender": 2,
+               "credit_id": "54e87ee1c3a36836ed001cd5",
+               "name": "Tim Daly",
+               "profile_path": "/eLBlqpzOv1F9oPcWSU76yiuXneU.jpg",
+               "id": 68122,
+               "order": 6
+            },
+            {
+               "cast_id": 24,
+               "character": "Cole",
+               "gender": 2,
+               "credit_id": "55aca3609251411e14008791",
+               "name": "Caleb Landry Jones",
+               "profile_path": "/a5RwSg8YN9JW0VZqekIbiJlLVhJ.jpg",
+               "id": 572541,
+               "order": 7
+            },
+            {
+               "cast_id": 25,
+               "character": "LaPrez",
+               "gender": 0,
+               "credit_id": "55aca3729251411e0600869c",
+               "name": "River Ross",
+               "profile_path": null,
+               "id": 1488708,
+               "order": 8
+            },
+            {
+               "cast_id": 26,
+               "character": "Colleen",
+               "gender": 1,
+               "credit_id": "55aca382c3a3682ff4009586",
+               "name": "Taryn Manning",
+               "profile_path": "/ujPqJgRvOVaTgVI5qTWHBSM6BB3.jpg",
+               "id": 343,
+               "order": 9
+            },
+            {
+               "cast_id": 27,
+               "character": "Lew",
+               "gender": 2,
+               "credit_id": "55aca3979251411e0f0087a8",
+               "name": "Billy Drago",
+               "profile_path": "/5KAkTHIYc9L3CMWJvKEHCeYUcFm.jpg",
+               "id": 1275,
+               "order": 10
+            },
+            {
+               "cast_id": 28,
+               "character": "Jimmy",
+               "gender": 2,
+               "credit_id": "55aca3a8c3a3682ffc008685",
+               "name": "Myles Cranford",
+               "profile_path": "/Al00vhGVeJpfYbt5hETGooKOcRw.jpg",
+               "id": 131735,
+               "order": 11
+            },
+            {
+               "cast_id": 29,
+               "character": "Wiggenhern",
+               "gender": 0,
+               "credit_id": "55aca3bcc3a3683002008410",
+               "name": "Burn Gorman",
+               "profile_path": "/qpdtwkUJ5cG1zxql7xXomGgcTMc.jpg",
+               "id": 39659,
+               "order": 12
+            },
+            {
+               "cast_id": 30,
+               "character": "Alain's Redhead",
+               "gender": 0,
+               "credit_id": "55aca5489251411e11008951",
+               "name": "Sandha Khin",
+               "profile_path": null,
+               "id": 136500,
+               "order": 13
+            },
+            {
+               "cast_id": 31,
+               "character": "Group Leader",
+               "gender": 0,
+               "credit_id": "55aca56a9251411e140087b7",
+               "name": "Eddie Rouse",
+               "profile_path": "/4y4Wd6tXoTnT9UkVvbIA76NK9sk.jpg",
+               "id": 79419,
+               "order": 14
+            },
+            {
+               "cast_id": 32,
+               "character": "Kitty",
+               "gender": 1,
+               "credit_id": "55aca5799251411e060086ce",
+               "name": "Rain Phoenix",
+               "profile_path": "/2fj1gzWxIMRXKkjcBhcBnhRNPlq.jpg",
+               "id": 96922,
+               "order": 15
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "54174108c3a3684cef005ad0",
+               "name": "Mindy Goldberg",
+               "profile_path": null,
+               "id": 977206,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5417411f0e0a261c32005d44",
+               "name": "Ron Yerxa",
+               "profile_path": null,
+               "id": 17173,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54174136c3a3684cf7005d92",
+               "name": "Albert Berger",
+               "profile_path": null,
+               "id": 17172,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4ef4c3a36847f82b3361",
+               "name": "Jeff Preiss",
+               "profile_path": null,
+               "id": 1075514,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4ef4c3a36847f82b337f",
+               "name": "Christopher Blauvelt",
+               "profile_path": null,
+               "id": 1084983,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4ef4c3a36847f82b3385",
+               "name": "Topper Lilien",
+               "profile_path": null,
+               "id": 70723,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4ef4c3a36847f82b338b",
+               "name": "Amy Albany",
+               "profile_path": null,
+               "id": 1279865,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4ef4c3a36847f82b3391",
+               "name": "Amy Albany",
+               "profile_path": null,
+               "id": 1279865,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4ef4c3a36847f82b3397",
+               "name": "Michael Saia",
+               "profile_path": null,
+               "id": 1279866,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54174005c3a3684cf7005d77",
+               "name": "Ohad Talmor",
+               "profile_path": null,
+               "id": 1364237,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "541740470e0a261c35005ebb",
+               "name": "Elliott Hostetter",
+               "profile_path": null,
+               "id": 1186191,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "541740640e0a261c23006032",
+               "name": "Chilly Nathan",
+               "profile_path": null,
+               "id": 1364238,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54174071c3a3684cf7005d83",
+               "name": "Mark Robert Taylor",
+               "profile_path": null,
+               "id": 1364239,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 1,
+               "credit_id": "541740afc3a3684d06005e48",
+               "name": "Jennifer Johnson",
+               "profile_path": null,
+               "id": 188097,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "541740d40e0a261c2e006040",
+               "name": "Justine Baddeley",
+               "profile_path": null,
+               "id": 6959,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "541740e60e0a261c20006106",
+               "name": "Kim Davis-Wagner",
+               "profile_path": null,
+               "id": 961165,
+               "department": "Production",
+               "job": "Casting"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Music",
+            "id": 10402
+         }
+      ],
+      "popularity": 4.170792,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 244580,
+      "vote_count": 22,
+      "budget": 0,
+      "overview": "The daughter of jazz pianist Joe Albany witnesses her beloved father's struggle -- and failure -- to kick his heroin habit.",
+      "similar": [
+         4995,
+         6075,
+         627,
+         769,
+         11202,
+         423,
+         106646,
+         239566,
+         313369,
+         369192,
+         7972,
+         323677,
+         325789,
+         152532,
+         10474,
+         49519,
+         290250,
+         331781,
+         10999,
+         316000
+      ],
+      "original_title": "Low Down",
+      "runtime": 119,
+      "poster_path": "/xliDrpDKlOVxUx1AvmeNC6glUFZ.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Heretic Films",
+            "id": 18852,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Bona Fide Productions",
+            "id": 2570,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Epoch Films",
+            "id": 3846,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2014-01-19",
+      "vote_average": 5.2,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": "http://lowdownfilm.tumblr.com/",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Jeff Preiss"],
+      "runtime": 114,
+      "synopsis": null,
+      "writers": [
+         "Amy Albany",
+         "Topper Lilien"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt1864405/",
+      "coverLink": "https://ia.media-imdb.com/images/M/MV5BMTgyMzgwNjk1MV5BMl5BanBnXkFtZTgwNDcwODI4MjE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "actors": [
+         "John Hawkes",
+         "Elle Fanning",
+         "Glenn Close"
+      ],
+      "reviews": [
+         "Low Down The Sundance film \"Low Down\" showcases the life of Joe Albany (John Hawkes). Joe was a renowned jazz pianist who got his start during the bebop era and went on to perform until his death in the late 1980s. The focus of the storyline is on his music, drug addiction and his struggle to raise his daughter, Amy, (Elle Fanning). Joe's life is told through the eyes of his daughter, Amy. She is a bright-eyed teenager who appreciates her father's musical gift, and is his biggest fan. The audience immediately recognizes the loyalty and the loving relationship between Joe and Amy. She longs to understand him, his lifestyle choices and his overwhelming drug habit. The film is engaging and pulls the audience into Amy's determined quest to rescue her heroin-addicted father. \"Low Down\" is dark and dramatic, as any other great film about addiction and music. The film's attention to detail, the cast and their performances are excellent. The film has some of the best acting you'll see at Sundance this year or any other year.",
+         "\"Low Down\" (2014 release; 120 min.) brings the true story of famed jazz pianist Joe Albany's struggle with drugs, as see through the eyes of his 13 yr. old daughter Amy-Jo (or A.J.) Albany. As the movie opens, we are reminded that it is \"Hollywood, 1974\", as we say Amy-Jo (played by Elle Fanning) looking through magazines, waiting on her dad's return home. Amy-Jo loves watching him practice and play. Soon we learn that Joe (played by Jphn Hawkes) is in trouble for having broken his parole, and he is taken back in by cops. Amy-Jo moves in with her Gram (played by Glenn Close). To tell you more would spoil your viewing experience, you'll just have to see for yourself how it all plays out. Couple of comments: first, please note that this is not a biopic of Joe Albany, but instead a look at a very specific phase in Amy-Jo's life when she was 13 through 15, which happens to coincide with Joe's never-ending battle with heroin. In fact, the book is based on Amy-Jo's memoir and she is credited as having co-written the script for the movie. Second, this is not particularly a feel-good movie, far from it, as these characters are living in less than glamorous conditions, and they are surrounded by low-lives. Third, the movie is set in the mid-70s and does a great job bringing that era to life with lots of audio and video clips that play on the TV. Less charming is the incessant smoking of cigarettes, I mean I don't think there is a single scene in the movie where someone isn't smoking. Fourth, as you can well imagine, this type of material tends to bring out great acting performances, and that is certainly the case here. Elle Fanning who was 15 when this movie was shot, is outstanding as the adoring daughter who realizes that her dad is in serious trouble. John Hawkes, best known for his roles in Winter's Bone and The Sessions, brings a heartfelt performance as the pained jazz pianist. At one point, when Gram talks to A.J about dreaming of a better future, Joe shrugs \"Mine is a life of wasted dreams\", wow. And what can you say about Glenn Close as the pianist's mother (A.J.'s grandmother), I was simply blown away. Check out also Flea (of Red Hot Chili Peppers) in a smaller role. I was quite surprised when the end titles rolled to see that both Flea and Anthony Kudis of the Peppers executive-produced the movie. Good for them! Last but not least, music, and jazz music in particular plays a huge role in the movie so if you don't care much for it, you may want to stay away. There are other song placements, including David Bowie's \"Golden Years\". \"Low Down\" opened this weekend out of nowhere without any pre-release buzz or advertising at my local art-house theater here in Cincinnati. I figured this would not play very long so I want to see it this weekend. The screening I saw this at Sunday late afternoon turned out to be a private affair, as in: I was literally the only person in the theater. That's a shame. Maybe this movie will find a larger audience when it is released on DVD. If you have a chance to check out \"Low Down\", realizing this is not a movie you'll walk out thinking \"this was a jolly good time\", I'd readily recommend that you do so, be it in the theater, or eventually on DVD/Blu-ray.",
+         "........ when you really feel bad watching it and leaves you wondering how people can live this sort of life. 'Low Down' is so well written and preformed you actually feel you are there with the story before you. This is a very sad and upsetting story of people at the bottom of their lives and how a young girl navigates herself through so much negative influence around her. The story only covers maybe two years of jazz pianist Joe Albany's daughter in her early teens and learning the most harsh facts about her parents. Glenn Close is grand as the grandmother who seems to be the only stabilizing factor in the daughters life. There are other reviews here that speak far clearer about this movie! The movie is wonderfully made! Even Peter Dinklage has a short role! But please be ready to experience a very sad and dark story.",
+         "Not really sure how this film has such a mediocre rating on here yet so little reviews. I'm really starting to question the validity of the ratings on this site. Starting to think that monkeys have figured out how to use smartphones and have begun rating movies. 2014 was probably the worst year for movies I've encountered in my 34 years on this planet. I've watched everything that has received acclaim from critics and was left unimpressed with most of what I've watched. A few weeks ago I would have told you that the best film I had seen in 2014 was \"A Most Violent Year.\" That doesn't say much for the quality of films that we've had thrown at us for the past year. Low Down was a belated entry into my 2014 picks. Actually, watched it in 2015. I'll keep it simple. This IMO was the best film of 2014 and not just cause it was a crappy year for movies. Low Down would be a contender for me any year. This is detailed and slow paced storytelling that doesn't care if the majority audience suffers from ADD. Watch it!",
+         "Jazz is one of my favorite types of music, and it's the primary reason I was interested in this film. What I wasn't expecting was a rather sobering portrayal of addiction and dependency. LOW DOWN tells the story (or at least a part of it) of jazz pianist Joe Albany (John Hawkes) and his daughter, Amy Jo (Elle Fanning). Joe is in and out of prison for drugs but is still trying to clean himself up. It doesn't really help that the people he hangs around are junkies like him, so he eventually skips probation and goes to Europe. He comes back a couple of years later, but it seems like little has changed. If there's one thing that was frustrating about the film, it was that the characters in it keep on making the same mistakes over and over again. However, the central relationship between Joe and and his daughter kept things afloat for the most part. He truly cares for her and does his best to shield her from the seedy side of the life that he lives, even though she does find out on her own. One breath of fresh air was Glenn Close as Joe's mother. She had a no-nonsense attitude that grounded the film and kept it from descending too low into self-pity and misery. That's not to say that John Hawke's wasn't great, which he is, but his character is so unlikeable at times that it was nice to have some common sense and dramatic counterpoint. Elle Fanning is serviceable as Albany's waifish, slight and asthma-stricken daughter. This is certainly the best role I've seen her in, and she seems to feel at home playing these weakish characters. The only thing I don't think she did convincingly was break down into histrionics when her seizure-prone boyfriend (Caleb Landry Jones) is mistakenly arrested by the police. In terms of characters, many of them in this film are afflicted in some way. Joe Albany (and many of his friends) have heroin, his daughter has asthma, her boyfriend has seizures, etc. We see people when they are at their lowest, but yet the film never judges them. There is only the hope that they will one day rise up again. I will say that this isn't the easiest film to watch, in terms of the characters or the laxly paced story. Some might find it too slow or boring, but this is a character-driven biopic. At times I began to wonder when and how it might end, but when the end did come I was fairly satisfied. I should also mention that this film has an excellent soundtrack and score, and includes some scenes of John Hawkes (apparently) playing the piano. If that wasn't actually him then they did a great job of disguising it. Overall, LOW DOWN presents a tender and sometimes moving look into the life of a musician. Just be aware that this isn't your standard biopic.",
+         "So authentically crafted that my mind, in the beginning, couldn't wrap it's self around how Elle could look the same in the '70s & '80s - did she know something about time travel (Predestination devotee?). A true, to some extent, story with great acting, sets, props, writing and authentic jazz of that period. Good see an actor actually playing the musical instrument central to the movie's theme. An accurate telling of the impact of drugs, poverty and questionable parenting. Two hidden surprises were Peter's \"Game of Thrones\" bow and a movie theater marquee of the controversial and perhaps revolutionary \"Sweet Sweetback's Baadasssss Song\".",
+         "I shouldn't have given this movie a star rating since I didn't actually finish it. It was just too depressing. There is literally not a moment of light in the first 45 minutes. Anyone who has lived around people ruining their lives with drugs and/or alcohol need to approach this film with caution. Maybe things lighten up in the second half, but I had better things to do with my time than wait around to find out. The poor kid.",
+         "Amy-Jo (Elle Fanning) loves her jazz pianist father Joe Albany (John Hawkes). He's on parole and a recovering addict. Her addict mother Sheila (Lena Headey) returns causing havoc. When her father gets arrested, she goes to stay with Gram (Glenn Close). After her father returns home, she befriends neighbor Alain (Peter Dinklage). Single mom neighbor Colleen (Taryn Manning) dies. Two years later, her father has a new drummer friend Cole (Caleb Landry Jones). Hobbs (Flea) is another friend. The movie moves slowly and flat for the first three quarters. Hawkes is a good addict. The cast is stock full of great actors. I think Elle Fanning doesn't have enough to do for most of the movie. She has some narration but her character lacks real depth. She doesn't have any friends of her own age. She makes a friend with Alain but he's quickly gone. She can't hold the center of the movie and it suffers from the collapse. The last 30 minutes has some interesting moves for Amy-Jo but it's a little too late."
+      ],
+      "genres": [
+         "Biography",
+         "Drama",
+         "Music"
+      ],
+      "productionCompanies": [
+         "Bona Fide Productions",
+         "Epoch Films",
+         "Heretic Films"
+      ],
+      "summaries": ["A look at the life of pianist Joe Albany from the perspective of his young daughter, as she watches him contend with his drug addiction during the 1970s jazz scene."],
+      "budget": 0
+   },
+   "movielensId": 125654,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2014-01-19",
+      "dvdReleaseDate": null,
+      "directors": ["Jeff Preiss"],
+      "runtime": 119,
+      "movieId": 125654,
+      "title": "Low Down",
+      "mpaa": "R",
+      "actors": [
+         "John Hawkes",
+         "Elle Fanning",
+         "Glenn Close",
+         "Peter Dinklage",
+         "Lena Headey",
+         "Flea",
+         "Tim Daly",
+         "Caleb Landry Jones",
+         "River Ross",
+         "Taryn Manning",
+         "Billy Drago",
+         "Myles Cranford",
+         "Burn Gorman",
+         "Sandha Khin",
+         "Eddie Rouse",
+         "Rain Phoenix"
+      ],
+      "imdbMovieId": "1864405",
+      "originalTitle": "Low Down",
+      "genres": [
+         "Drama",
+         "Music"
+      ],
+      "youtubeTrailerIds": [
+         "_0GGjRFeLss",
+         "lXFi2KoREW4"
+      ],
+      "plotSummary": "The daughter of jazz pianist Joe Albany witnesses her beloved father's struggle -- and failure -- to kick his heroin habit.",
+      "tmdbMovieId": 244580,
+      "avgRating": 3.25,
+      "releaseYear": "2014",
+      "numRatings": 6,
+      "posterPath": "/xliDrpDKlOVxUx1AvmeNC6glUFZ.jpg"
+   }
+}

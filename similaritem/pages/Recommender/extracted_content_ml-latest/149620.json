@@ -1,0 +1,606 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "philippines",
+            "id": 6895
+         },
+         {
+            "name": "pinoy",
+            "id": 215397
+         }
+      ],
+      "imdb_id": "tt0430082",
+      "video": false,
+      "title": "Feng Shui",
+      "recommendations": [153741],
+      "backdrop_path": "/9hy5t474gTbLLlrctotVZtwKYIe.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Joy Ramirez",
+               "gender": 2,
+               "credit_id": "52fe4b01c3a368484e172703",
+               "name": "Kris Aquino",
+               "profile_path": "/hq13QQv9eWgjhJq4dSRYROnfmTQ.jpg",
+               "id": 227249,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Inton Ramirez",
+               "gender": 2,
+               "credit_id": "52fe4b01c3a368484e172707",
+               "name": "Jay Manalo",
+               "profile_path": "/42YNnv82y9ZfAwzjRORb7ajMYZ1.jpg",
+               "id": 239975,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Alice",
+               "gender": 0,
+               "credit_id": "52fe4b01c3a368484e17270b",
+               "name": "Lotlot De Leon",
+               "profile_path": "/afrKlmik1WXhkFXDBjCuAU89lCd.jpg",
+               "id": 592002,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Thelma",
+               "gender": 0,
+               "credit_id": "52fe4b01c3a368484e17270f",
+               "name": "Ilonah Jean",
+               "profile_path": null,
+               "id": 1085207,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Denton Ramirez",
+               "gender": 2,
+               "credit_id": "52fe4b01c3a368484e172713",
+               "name": "John Manalo",
+               "profile_path": null,
+               "id": 1079866,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Ingrid Ramirez",
+               "gender": 0,
+               "credit_id": "52fe4b01c3a368484e172717",
+               "name": "Julianne Gomez",
+               "profile_path": null,
+               "id": 1085208,
+               "order": 5
+            },
+            {
+               "cast_id": 7,
+               "character": "Billy",
+               "gender": 0,
+               "credit_id": "52fe4b01c3a368484e17271b",
+               "name": "Ernesto Sto. Tomas",
+               "profile_path": null,
+               "id": 1085209,
+               "order": 6
+            },
+            {
+               "cast_id": 8,
+               "character": "Lily Mendoza",
+               "gender": 1,
+               "credit_id": "52fe4b01c3a368484e17271f",
+               "name": "Cherry Pie Picache",
+               "profile_path": "/4S5J5nDsZTQfTXScK4u74KGvnDU.jpg",
+               "id": 278926,
+               "order": 7
+            },
+            {
+               "cast_id": 9,
+               "character": "Louie (as Nonie Buencamino)",
+               "gender": 0,
+               "credit_id": "52fe4b01c3a368484e172723",
+               "name": "Nonie Buencamino",
+               "profile_path": "/7eNOeu68KoPF1xQCfkvp4FvEIHt.jpg",
+               "id": 1085210,
+               "order": 8
+            },
+            {
+               "cast_id": 10,
+               "character": "Dina",
+               "gender": 0,
+               "credit_id": "52fe4b01c3a368484e172727",
+               "name": "Jenny Miller",
+               "profile_path": "/loYsu5UBaxnxgzPyO4XDX4OAgZG.jpg",
+               "id": 1085212,
+               "order": 9
+            },
+            {
+               "cast_id": 11,
+               "character": "Teodoro (as Gerard Pizarras)",
+               "gender": 0,
+               "credit_id": "52fe4b01c3a368484e17272b",
+               "name": "Gerard Pizzaras",
+               "profile_path": null,
+               "id": 1085213,
+               "order": 10
+            },
+            {
+               "cast_id": 12,
+               "character": "Hsui Liao",
+               "gender": 2,
+               "credit_id": "52fe4b01c3a368484e17272f",
+               "name": "Joonee Gamboa",
+               "profile_path": "/gkmUi5JKmyI8BwHbl7IjYLx3MEM.jpg",
+               "id": 105083,
+               "order": 11
+            },
+            {
+               "cast_id": 13,
+               "character": "Mother-in-law",
+               "gender": 0,
+               "credit_id": "52fe4b01c3a368484e172733",
+               "name": "Daria Ramirez",
+               "profile_path": "/ftQUQ4nwg06wbEnQ7xK7wInxbU4.jpg",
+               "id": 559361,
+               "order": 12
+            },
+            {
+               "cast_id": 14,
+               "character": "Tito",
+               "gender": 0,
+               "credit_id": "52fe4b01c3a368484e172737",
+               "name": "Archie Adamos",
+               "profile_path": "/tyBatZIpNYxNfWtp1Eko79XT6Jl.jpg",
+               "id": 1085215,
+               "order": 13
+            },
+            {
+               "cast_id": 15,
+               "character": "Evart Mendoza",
+               "gender": 0,
+               "credit_id": "52fe4b01c3a368484e17273b",
+               "name": "Emil Sandoval",
+               "profile_path": null,
+               "id": 1085216,
+               "order": 14
+            },
+            {
+               "cast_id": 16,
+               "character": "Aling Biring",
+               "gender": 0,
+               "credit_id": "52fe4b01c3a368484e17273f",
+               "name": "Luz Fernandez",
+               "profile_path": null,
+               "id": 1085217,
+               "order": 15
+            },
+            {
+               "cast_id": 17,
+               "character": "Mang Nestor",
+               "gender": 0,
+               "credit_id": "52fe4b01c3a368484e172743",
+               "name": "Leo Gamboa",
+               "profile_path": null,
+               "id": 1032695,
+               "order": 16
+            },
+            {
+               "cast_id": 18,
+               "character": "Raul - Guard",
+               "gender": 0,
+               "credit_id": "52fe4b01c3a368484e172747",
+               "name": "Mon Confiado",
+               "profile_path": "/9YjNRH82kB24vf3OoQIbz77V0FU.jpg",
+               "id": 1065168,
+               "order": 17
+            },
+            {
+               "cast_id": 19,
+               "character": "Denise",
+               "gender": 0,
+               "credit_id": "52fe4b01c3a368484e17274b",
+               "name": "Denise Joaquin",
+               "profile_path": null,
+               "id": 1085218,
+               "order": 18
+            },
+            {
+               "cast_id": 21,
+               "character": "Billy's Tita",
+               "gender": 0,
+               "credit_id": "52fe4b01c3a368484e172753",
+               "name": "Hazel Espinosa",
+               "profile_path": null,
+               "id": 559360,
+               "order": 19
+            },
+            {
+               "cast_id": 20,
+               "character": "Mr. Mateo",
+               "gender": 0,
+               "credit_id": "52fe4b01c3a368484e17274f",
+               "name": "Jon Achaval",
+               "profile_path": "/2JASbXTynJrLJuUysrbtvcRsanv.jpg",
+               "id": 1085219,
+               "order": 20
+            },
+            {
+               "cast_id": 22,
+               "character": "Wife Neighbor",
+               "gender": 0,
+               "credit_id": "52fe4b01c3a368484e172757",
+               "name": "Jenine Desiderio",
+               "profile_path": "/3Yt3qymg6bD13dSZLIS6HYOkp6N.jpg",
+               "id": 1085220,
+               "order": 21
+            },
+            {
+               "cast_id": 23,
+               "character": "Husband Neighbor",
+               "gender": 0,
+               "credit_id": "52fe4b01c3a368484e17275b",
+               "name": "Froilan Sales",
+               "profile_path": null,
+               "id": 1085221,
+               "order": 22
+            },
+            {
+               "cast_id": 24,
+               "character": "Atty. Regalado",
+               "gender": 0,
+               "credit_id": "52fe4b01c3a368484e17275f",
+               "name": "Archie Ventosa",
+               "profile_path": null,
+               "id": 1085222,
+               "order": 23
+            },
+            {
+               "cast_id": 25,
+               "character": "Atty. Ocampo",
+               "gender": 0,
+               "credit_id": "52fe4b01c3a368484e172763",
+               "name": "Aloysius Noroña",
+               "profile_path": null,
+               "id": 1085223,
+               "order": 24
+            },
+            {
+               "cast_id": 28,
+               "character": "Lotus Lady",
+               "gender": 0,
+               "credit_id": "52fe4b01c3a368484e17276f",
+               "name": "Rosie Salco",
+               "profile_path": null,
+               "id": 1085226,
+               "order": 25
+            },
+            {
+               "cast_id": 26,
+               "character": "Girl 1",
+               "gender": 0,
+               "credit_id": "52fe4b01c3a368484e172767",
+               "name": "Bianca Tio",
+               "profile_path": null,
+               "id": 1085224,
+               "order": 26
+            },
+            {
+               "cast_id": 27,
+               "character": "Girl 2",
+               "gender": 0,
+               "credit_id": "52fe4b01c3a368484e17276b",
+               "name": "Blanca Ate",
+               "profile_path": null,
+               "id": 1085225,
+               "order": 27
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe4b01c3a368484e172775",
+               "name": "Chito S. Roño",
+               "profile_path": "/rEww5T8JCucSWXR89FIbySdz5AY.jpg",
+               "id": 227252,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4b01c3a368484e17277b",
+               "name": "Chito S. Roño",
+               "profile_path": "/rEww5T8JCucSWXR89FIbySdz5AY.jpg",
+               "id": 227252,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4b01c3a368484e172781",
+               "name": "Roy Iglesias",
+               "profile_path": null,
+               "id": 225422,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4b01c3a368484e172787",
+               "name": "Lea A. Calmerin",
+               "profile_path": null,
+               "id": 1085229,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4b01c3a368484e17278d",
+               "name": "Tess V. Fuentes",
+               "profile_path": null,
+               "id": 1019277,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4b01c3a368484e172793",
+               "name": "Malou N. Santos",
+               "profile_path": null,
+               "id": 1019358,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4b01c3a368484e172799",
+               "name": "Charo Santos-Concio",
+               "profile_path": "/dOzR5PWkpoHlky4lxPdK22ipIav.jpg",
+               "id": 1019359,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4b01c3a368484e17279f",
+               "name": "Carmina Cuya",
+               "profile_path": null,
+               "id": 1028877,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4b01c3a368484e1727a5",
+               "name": "Neil Daza",
+               "profile_path": null,
+               "id": 1085230,
+               "department": "Crew",
+               "job": "Cinematography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4b01c3a368484e1727ab",
+               "name": "Vito Cajili",
+               "profile_path": null,
+               "id": 1019518,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4b01c3a368484e1727b1",
+               "name": "Raymond Bajarias",
+               "profile_path": null,
+               "id": 1079870,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4b01c3a368484e1727b7",
+               "name": "Gey Enriquez",
+               "profile_path": null,
+               "id": 1085231,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4b01c3a368484e1727bd",
+               "name": "Kris Munabay",
+               "profile_path": null,
+               "id": 1085232,
+               "department": "Art",
+               "job": "Art Direction"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Horror",
+            "id": 27
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 0.889649,
+      "production_countries": [{
+         "iso_3166_1": "PH",
+         "name": "Philippines"
+      }],
+      "id": 127642,
+      "vote_count": 9,
+      "budget": 0,
+      "overview": "Joy and her family have just moved into a new home, in a sparsely populated village. For them, it\u2019s time for new beginnings- a new chance and a new hope.  But what for fortune awaits them.. and woe the tragedies to follow.  On what should be the most unfortunate day of her life, Joy picks up a package left by a stranger in a bus. It is called \u2018ba-gua\u2019, (feng shui mirror) an item that drives bad luck away.  Joy could not refuse the luck that continues to come her way until everything appears too good to be true.  Unexplained events disturb her family\u2019s peace . People start to die as well.  Having been advised by the geomancer to simply say no to the next form of luck, all Joy could do now is wait.  But what painful decision awaits her? Will Joy prevail or be consumed by the curse of the bagua mirror?",
+      "similar": [
+         425895,
+         49040,
+         469691,
+         18311,
+         461438,
+         87485,
+         480655,
+         352273,
+         91011,
+         4539,
+         403357,
+         468033,
+         359589,
+         111798,
+         430977,
+         420122,
+         463739,
+         437231,
+         425849,
+         158091
+      ],
+      "original_title": "Feng Shui",
+      "runtime": 108,
+      "poster_path": "/ttpSRb2Bfh1tKVzMWndQ72MGyh1.jpg",
+      "spoken_languages": [
+         {
+            "name": "",
+            "iso_639_1": "tl"
+         },
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "ABS-CBN Film Productions",
+            "id": 4676,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Star Cinema Productions",
+            "id": 10417,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2004-09-18",
+      "vote_average": 6.1,
+      "belongs_to_collection": null,
+      "tagline": "Who can refuse good luck?",
+      "adult": false,
+      "homepage": "http://starcinema.abs-cbn.com/movies/feng-shui",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Philippines",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Chito S. Roño"],
+      "runtime": 117,
+      "synopsis": null,
+      "writers": [
+         "Chito S. Roño",
+         "Roy Iglesias"
+      ],
+      "originalLanguage": "Filipino",
+      "imdbLink": "http://www.imdb.com/title/tt0430082/",
+      "coverLink": null,
+      "actors": [
+         "Kris Aquino",
+         "Jay Manalo",
+         "Lotlot De Leon"
+      ],
+      "reviews": [
+         "If you categorize this movie with other Filipino horror flicks, \"Feng Shui\" will definitely stand out. It's one of the few Filipino horror movies that succeeds to gratify viewers. It is really true to its promise - It is really scary! I didn't expect the enthralling experience this movie gave me. I walked into the cinema thinking that it would be another horror flick taken from cached concepts. I was actually wrong. This is an initial take in terms of the Filipino cinema. I would also have to commend the outstanding sound and film editing of this film. It's apparently excellent. Although it wouldn't be very easy to brand this film as \"the best Filipino horror flick ever\", I would have to say this is one of the best. It totally surpassed my expectations and it made me establish a positive inclination towards the Filipino cinema. It showed me that the Filipino cinema has something excellent to offer. Filipino movies like this can actually blend with outstanding movies abroad. \"Feng Shui\" is an enjoyable Filipino horror movie. It deserves all its raves from the mainstream audiences and critics alike.",
+         "It is a terrific film. Kris Aquino delivered a convincing role of Joy, a Filipino mother and wife, living in superstition and luck for the betterment of their life. She acted like the Filipino mothers seen in the country. Also, other actors made an applauding performance. On the movie itself, as a Filipino with a culture on believing superstitions and depending luck on ancient Chinese practices, this Filipino movie has truly delivered the nature of the character's belief and at the same time the amazing plot, as thought by the writer. The light and sound effects had greatly contributed to the movie. There is no need for special effects or computer enhancement to convince. The objectives/intention of the director is clearly seen in the movie. I hope the international community will be able to appreciate & be able to compete with the international-released horror/thriller movies.",
+         "This movie has a nice plot and the cast turn in nice performances. And I was glad that the central haunting figure wasn't some girl with long hair covering her face. The ending could've been a little better, though. Kris Aquino loses her trademark facial expressions and distracting shrill voice. A nice improvement, but she comes off a little wooden. More impressive are the supporting actors. Jay Manalo as Aquino's husband is his usual reliable self. Lotlot de Leon delivers a particularly notable turn as Aquino's ill-fated best friend. Ilonah Jean is subtle but effective as their card-reader friend and the child actors show depth at their young age.",
+         "Philippine cinema is looking good these days. During the release of 'Feng Shui' it was apparent that almost everybody wanted to see it, just because local critics and movie-goers were already saying 'it was that good' \u0096and YES is was really. Honestly it's the first time in years that I have truly enjoyed watching a local horror film, and a quality Filipino film for that matter. 'Feng Shui' was really able to please its audience. Story-wise I could say it was pretty original, and since it shows Filipinos' undeniable fascination and belief in 'swerte', it was brilliant for the story's writers to come up with one that revolves around whatelse \u0096'Feng Shui'. It is the story of a middle-age woman, Joy (Kris Aquino) and her battle against the supernatural cycle of luck and bad luck. She has just moved into a new house with her family, as she was hopeful for a new beginning, and a refreshing start to go with their new home, she unexpectedly faces, true enough \u0096something new, something she could never expect . On her way home one day, as she was taking the bus ride, a man left a certain small package on his seat, she picks it up to return it to the said owner. Unable to find the man she decided to bring it home with her \u0096 a 'bagua' mirror, an item that is placed over the door of one's house, and is believed to drive away bad luck to the people inside the home. True enough, she began to receive good fortune and anything favorable for herself and for her family. But along with those came the unexplained events that disturb her, her friends, and most especially the people she loves. After watching 'Feng Shui' and from hearing other people's opinion of the movie, I concluded \u0096'may nanood naman (ng Filipino movies) basta maganda ang pagkakagawa'. Ganun kasimple, what we need are quality movies that bear good scripts and story lines. Sobrang important din syempre audio and visuals. I get frustrated at watching a movie with a poor film quality (most Filipino movies are like that sadly), yung tipong sa kalabuan ng picture, nahihirapan ka nang mag concentrate sa story. At sa sobrang labo ng audio Hindi mo na sila maintindihan (at bwisit na dubbings yan). I believe one factor that makes other Asian movies (especially Korean films) more enjoyable to watch is the picture quality of the movies they make. It's actually the first thing that I notice after I hit the play button \u0096I have to enjoy the visuals first, since it adds life to what you are watching. I hear nowadays they have started using the HD technology in film-making ('Santa Santita' to be the first local film to use HD). And I'm sure marami pang ibang movies that will bear much improvement in the coming years. Actually I'm pretty excited with how the Philippine movie industry will be like 2 or 4 years later. I've never really been proud of Philippine movies, but slowly I am beginning to appreciate it as it starts to gain its improvement. Sana.. tuloy-tuloy na 'to!",
+         "Whoever said that imitation is the sincerest form of flattery must have been very wise indeed. The movie Feng Shui is a very good example of an imitation that does not leave you disgusted and is actually a welcome change as far as Philippine cinema is concerned. To their credit, some Filipino filmmakers have already started creating quality movies long before this scream-or-whimper-in-fright flick. But Feng Shui does stand out for the sheer fact that it is something new and different in this part of Asia. A new \"attack\", so to speak. The movie starts with Joy (Kris Aquino) finding a bagua (however you spell it). According to the ancient feng shui practice of the Chinese, this traditional mirrored piece brings good luck to the owner and wards off evil. As she has no way of finding out where the owner is, she decides to keep it and hangs it at home. To her surprise, good luck starts to pour in. Quite overwhelming for a young mother in the middle of trying to start a new life with her family. So of course, she welcomes the wonderful changes. However, the opposite seems to happen around her. Bad luck comes to people she knows and loves. It is only a matter of time that Joy realizes that not all good things come for free. We have to thank the Japanese for coming up with Ringu, or The Ring (the original and Japanese version, not the Hollywood version). Its phenomenal success in the country paved the way for more Asian horror flicks to pervade Philipine shores. I did not at all foresee it, but the country finally came up with its on ghost story to tell in Asian-fashion. Part of the success of Feng Shui was the curiosity factor. Judging by the trailer alone, one was quick to guess it was done in the tradition of The Ring, The Grudge, etcetera (formulaic, if you ask me). Enough to make one curious how good or bad it would fare. The other parts, however, were due to how the move was done. Though it wasn't quite so scary for someone like me who somehow has the knack of anticipating shock moments most of the time, the movie sure scared the crap out of most movie-goers. It shocked, surprised, and gave people the chills using minimal special effects, make-up, and all of those technical and visual stuff. Story-wise, it was engaging and rather original, as far as Filipino films were concerned. I must say, though, that it tried a bit too hard. The birth years idea (if you've seen this, you'll understand) was too \"forced\" and unimportant, really. Stop it already, I wanted to scream. When they showed the gun-wielding,bulldog-tattooed husband (Noni Buencamino), that was the height of corny-ness. I mean, c'mon, stop trying to be too Chinese! It just wasn't working. Good acting from the cast, that's a big plus. Until the movie Mano Po came along, Aquino's acting was the butt of jokes because, well, did you see her act before? I mean, did you? This time around, after the success of the said movie that earned for her an award, she proved that she can now act. I wouldn't go as far as to predict another award for her, certainly not. That is, unless other movies pale in comparison, maybe. Great acting from Jay Manalo, Ilonah Jean, and most especially Lotlot De Leon. Had De Leon not returned into the limelight, we would not have known she could act almost just as good as her mom, Nora Aunor. While the story did not really scare me, her panic scenes really did it for me. I kept muttering, \"Stop it! Please, stop all that screaming, he'll kill you!!!\" Sorry for the spoiler, folks, but it was obvious, anyway. For me, at least. It was like knowing what was going to happen and all you could do was sit and watch somebody get killed in front of you. All in all, I liked Feng Shui. If not for the corny idea aforementioned, I could have given it five stars. But such major plot flaws should not go unnoticed. But hey, if it's any consolation, this still comes down as a quality and highly recommended Filipino flick in my book. *Oct. 19, 2004*",
+         "Plot: Joy (Kris Aquino) takes a Pagua (a form of Chinese charm) home after finding it in a bus (left by another passenger). She finds out that the Pagua can help make her family's fortune turn positive... but everything has a price. (Originally written September 16, 2004) A few weeks ago, I've been telling my friend about how \"Feng Shui\" was going to be a crappy movie. If you don't know what Feng Shui is, well, that's a supernatural belief of the Chinese on luck that is linked to many things, like a person's birthday, the time of birth, and so on. It is somewhat a mix of fortune telling and luck bringing. There's a recently released horror movie titled Feng Shui, directed by Chito Rono, who, if I remember correctly, looks like an Asian version of Quentin Tarantino. Chito claimed that the movie can compete against other Asian horror movies, but I really felt that it would be another campy horror flick like Shake, Rattle and Roll, or even Regal Shocker. Why did I think like that? It's because of the quality of movies that the movie industry keeps churning out every month or so. They're so bad that you'd stop wondering why nobody's watching their films, except for those \"romantic\" ones that everybody (the masses) seems to love, just because there's the word \"love\" somewhere slapped within the film. People these days... Now that you know why I tend to reject local films, let's proceed as to what I was expecting with the movie Feng Shui: 1. Crappy cinematography. 2. Crappy music. 3. Crappy story. 4. Typical loud sounds followed by a \"BOO!\" event. 5. Crappy make-up for the ghosts. 6. Short and rushed movie. 7. Ending that suggests a possible sequel. 8. No real resolution, typical plot twist at the end. 9. Psychic powers (because low budget pinoy films use psychic powers often... what you can't see, you don't need a budget for!). 10. Senseless story progression. 11. The little children's song in the advertisement would be used in a strange way in the film. Hey, people get creeped out by kids singing a morbid song right? After watching the movie, I was left with some questions... 1. Why did the other people who didn't look into the Pagua's mirror die, when it was said that only those who looked into it would die? 2. Why is it that your animal year had something to do with your death by curse? 3. Why is it that whenever the Pagua claims a victim, the spirit of the person becomes an evil ghost who just loves to scare people? Anyway, the film was able to amuse me. The opening sequence was beautifully made, you could say they actually spent some time planning it, and not just shooting randomly. The theme music was quite generic in my opinion. It's comprised of various screeching sounds suddenly ending with \"BLAGUNG!!!\" effects. The theme was also used all throughout the film, making it really tiring, as its only purpose was to set up the \"BOO!\" sequences. I still think that it's a huge leap from your typical pinoy \"AWOOO!\" horror music. Acting was very good from all the cast members, and there wasn't any moment of amateurish effort. Kris Aquino has notably improved from her past movies. She used to do mostly comedies without much \"getting into it\" requirements. I think ever since she got more serious roles, she just got better each time. Everyone else did their jobs just right. The make-up is actually good! It didn't look like your outdated slap-on-make-up-blood-on-lips methods of days gone by. Still, they could go for better quality with better effects. I liked the story, or at least, most of it. The start was good, the middle part was effective in gearing up the audience to expect more in the climax, BUT the climax was CRAPPY! With the way the movie was going, you'd expect the climax to be a haunt-a-thon from all the ghosts, as well as the Chinese ghost. I don't know why they decided that the story should end with Kris breaking that Bagua in broad daylight, and then being surprised by a dead family get together. If there's ONE disease that ALL HORROR FILMS should eradicate, it's the SEQUEL SET-UP ENDING. I just don't feel satisfied with films that end this way. Well, I almost ate my words, except for the three expected faults I found: Typical \"BOO!\" Set-up, Sequel Set-up Ending, and No Real Resolution.",
+         "There are a lot of things that are so wrong about this movie and almost every Pinoy horror film I've ever encountered. Bad makeup (wet oatmeal on the sides of the mouth, very cutting edge), bad effects, bad lighting (if not the type used in haunted house rides in rural fairs, then the type that looked like they're religious statues prepped for a procession), and incredibly bad acting (Kris Aquino, enough said). One thing stands out like a sore thumb though: the total lack of irony and the clueless pomposity and pretentiousness of the people who make them. I mean, if you're forced to die on pile of Red Horse beer, or by rat excrement, or by a vaguely menacing cloud of chickens, simply because your Chinese zodiac sign says so, you know you're in a movie that should have been tagged as comedy instead of horror. I think it all comes down to the cheap, profit-driven mess studios call \"production\". There are a handful of Filipino horror flicks out there that are actually really good (Sigaw comes to mind). And to think they dared to push for a Hollywood remake of this film. Someone even mentioned Brad Pitt(?!?!?!). Really. Comedy. If I could go any lower than 1 in the scale, I would have pushed it all the way down to -10.",
+         "Well, okay, it's not The Eye... it's not even Hideo Nakata's The Ring, but it's better than I Know What You Did Last Summer and the rest of the assembly line garbage that Hollywood likes to dish out every couple of months. The story is about a woman named Joy who, on her way home from work, picks up a Chinese artifact (which is a strange-looking mirror with a brass frame) that a man sitting next to her in the bus had left behind(this man, in turn, dies promptly in a rather amusing manner). She takes this artifact home and upon learning from her neighbor that it is good luck, decides to hang it as a decoration above her front door of her new house. Soon enough, unbelievable good luck comes to her and her family (she and her husband get consecutive promotions, she wins a raffle for an entertainment system at her local supermarket). It seems the neighbor was right about the artifact, only weird things start to happen. Objects are moving by themselves, Joy sees creepy movement from the corner of her eye, her kids see a man floating outside the bedroom window... standard scary stuff that'll make you want to call a priest and have your house sprinkled with the good stuff. To top it all off, she discovers that her husband is cheating on her AGAIN with an old girlfriend... and her neighbors are dropping like flies one by one. Don't want to ruin anything for y'all... but it has a pretty good twist. It's not an original twist, but it'll still raise some hairs on your arms and the back of your neck. \"You're so lucky,\" indeed. Worth a look. 7 out of 10 stars. You can probably find the DVD on Ebay.",
+         "Feng Shui, for me, is an original movie. When I first saw the trailer , I became curious already. I even scared my nephews and nieces just by maximizing the volume of the trailer( There was a part there where a child was saying MAY INUWI SI NANAY...SI NANAY...SA BAHAY....) I remembered that my older sister was begging me to watch it...They said it was Really Scary! But, it wasn't that much SCARY! For me, it was just a nice made horror movie influenced by beliefs and superstitions. The director was one of the best directors of horror movies in the Philippines.... Kris Aquino did well for me... But I think I did not like her scream that much... Thatz all!",
+         "This is one of the funniest movies for 2004. Watch how Kris Aquino acts, its really funny. I could not help but laugh out loud, she just can't act. Anything she does is really funny. The concept of the story is good but they should have used proved actors and actresses. Ms. Aquino should stick with comedy coz anything she does is comedic. If you want good horror movies stick with Japanese horror which will really frighten you out of your wits. I had great hopes with this movie after hearing several good comments about it but was utterly disappointed when I saw it. There was never a moment when it became scary and Ms. Aquino did not help one bit. The other stars were OK especially the husband of Dina who acted well even if it was a short appearance. He was able to deliver a strong performance in their confrontation so much better than Ms. Aquino. I really felt he was a frustrated husband who was left by his wife. Compared to him, Ms. Aquino looked weak in her performance. If you want a good horror movie stay away from this. If you want to watch a comedy I highly recommend it. My rating: For best horror -5 out of 5 For best comedy 5 out of 5",
+         "I've watched a lot of Asian horror film but it makes me boring (quite) well not all by the way.This film really scare me, not all filipino made horror film can do like this.\"The aura of the film is so amazing looks like in the American place\" is set in a modern time.\"Well Kris gave it all as what she said in her show the buzz.\"I felt the entire film\" this is it at last i found a local horror film that scare me really. I will recommend this movie to everyone(it is also show in selected states of the USA. Providing a nice special effects (lets consider it as a local film so don't expect more) both leadstar done their best to suit what the director and the story want to be appear"
+      ],
+      "genres": [
+         "Drama",
+         "Horror",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "ABS-CBN Film Productions",
+         "Star Cinema Productions"
+      ],
+      "summaries": ["A wife must save her family from a curse of a \"bagwa\" bound to them."],
+      "budget": 0
+   },
+   "movielensId": 149620,
+   "movielens": {
+      "languages": [
+         "",
+         "English"
+      ],
+      "releaseDate": "2004-09-18",
+      "dvdReleaseDate": null,
+      "directors": ["Chito S. Roño"],
+      "runtime": 108,
+      "movieId": 149620,
+      "title": "Feng Shui",
+      "mpaa": null,
+      "actors": [
+         "Kris Aquino",
+         "Jay Manalo",
+         "Lotlot De Leon",
+         "Ilonah Jean",
+         "John Manalo",
+         "Julianne Gomez",
+         "Ernesto Sto. Tomas",
+         "Cherry Pie Picache",
+         "Nonie Buencamino",
+         "Jenny Miller",
+         "Gerard Pizzaras",
+         "Joonee Gamboa",
+         "Daria Ramirez",
+         "Archie Adamos",
+         "Emil Sandoval",
+         "Luz Fernandez",
+         "Leo Gamboa",
+         "Mon Confiado",
+         "Denise Joaquin",
+         "Hazel Espinosa",
+         "Jon Achaval",
+         "Jenine Desiderio",
+         "Froilan Sales",
+         "Archie Ventosa",
+         "Aloysius Noroña",
+         "Rosie Salco",
+         "Bianca Tio",
+         "Blanca Ate"
+      ],
+      "imdbMovieId": "0430082",
+      "originalTitle": "Feng Shui",
+      "genres": [
+         "Drama",
+         "Horror",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": ["2EPeUWrZnAQ"],
+      "plotSummary": "Joy and her family have just moved into a new home, in a sparsely populated village. For them, it\u2019s time for new beginnings- a new chance and a new hope.  But what for fortune awaits them.. and woe the tragedies to follow.  On what should be the most unfortunate day of her life, Joy picks up a package left by a stranger in a bus. It is called \u2018ba-gua\u2019, (feng shui mirror) an item that drives bad luck away.  Joy could not refuse the luck that continues to come her way until everything appears too good to be true.  Unexplained events disturb her family\u2019s peace . People start to die as well.  Having been advised by the geomancer to simply say no to the next form of luck, all Joy could do now is wait.  But what painful decision awaits her? Will Joy prevail or be consumed by the curse of the bagua mirror?",
+      "tmdbMovieId": 127642,
+      "avgRating": 3,
+      "releaseYear": "2004",
+      "numRatings": 2,
+      "posterPath": "/ttpSRb2Bfh1tKVzMWndQ72MGyh1.jpg"
+   }
+}

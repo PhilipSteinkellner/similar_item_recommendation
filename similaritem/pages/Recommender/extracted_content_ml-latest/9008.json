@@ -1,0 +1,986 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "scotland yard",
+            "id": 770
+         },
+         {
+            "name": "monster",
+            "id": 1299
+         },
+         {
+            "name": "insanity",
+            "id": 6255
+         },
+         {
+            "name": "sequel",
+            "id": 9663
+         },
+         {
+            "name": "murder",
+            "id": 9826
+         },
+         {
+            "name": "scientist",
+            "id": 14760
+         },
+         {
+            "name": "madness",
+            "id": 41410
+         },
+         {
+            "name": "invisible man",
+            "id": 160130
+         }
+      ],
+      "imdb_id": "tt0032635",
+      "video": false,
+      "title": "The Invisible Man Returns",
+      "recommendations": [
+         28425,
+         3077,
+         3074,
+         84720,
+         196693,
+         44126,
+         59566,
+         28359,
+         29484,
+         39044,
+         113523,
+         31118,
+         141600,
+         106060,
+         22033,
+         28426,
+         38126,
+         33474,
+         84784,
+         32858
+      ],
+      "backdrop_path": "/lJ2jjs2X7NMYoPanOES1idWgGvX.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 12,
+               "character": "Richard Cobb",
+               "gender": 2,
+               "credit_id": "52fe4595c3a368484e0636ff",
+               "name": "Cedric Hardwicke",
+               "profile_path": "/yaOgPrY8PBPkyqXHm7NVl0p2er7.jpg",
+               "id": 99461,
+               "order": 0
+            },
+            {
+               "cast_id": 13,
+               "character": "Geoffrey Radcliffe",
+               "gender": 2,
+               "credit_id": "52fe4595c3a368484e063703",
+               "name": "Vincent Price",
+               "profile_path": "/w9wcf7hWLD2I2K0PojJaqd9vbHL.jpg",
+               "id": 1905,
+               "order": 1
+            },
+            {
+               "cast_id": 14,
+               "character": "Helen Manson",
+               "gender": 0,
+               "credit_id": "52fe4595c3a368484e063707",
+               "name": "Nan Grey",
+               "profile_path": "/cZ6qyRvCeZ0LJRQKjIsajW5JCFR.jpg",
+               "id": 100587,
+               "order": 2
+            },
+            {
+               "cast_id": 15,
+               "character": "Dr. Frank Griffin",
+               "gender": 2,
+               "credit_id": "52fe4595c3a368484e06370b",
+               "name": "John Sutton",
+               "profile_path": "/sTEet1qqS8onrjtARXpIOamh9DG.jpg",
+               "id": 100589,
+               "order": 3
+            },
+            {
+               "cast_id": 16,
+               "character": "Inspector Sampson",
+               "gender": 2,
+               "credit_id": "52fe4595c3a368484e06370f",
+               "name": "Cecil Kellaway",
+               "profile_path": "/3qcMgq1JFZWXct7Y6CiXNi0jCZr.jpg",
+               "id": 30228,
+               "order": 4
+            },
+            {
+               "cast_id": 17,
+               "character": "Willie Spears",
+               "gender": 2,
+               "credit_id": "52fe4595c3a368484e063713",
+               "name": "Alan Napier",
+               "profile_path": "/mmOemlQeMp0ViF4cy8QL1bArm4y.jpg",
+               "id": 6933,
+               "order": 5
+            },
+            {
+               "cast_id": 18,
+               "character": "Ben Jenkins",
+               "gender": 2,
+               "credit_id": "52fe4595c3a368484e063717",
+               "name": "Forrester Harvey",
+               "profile_path": "/fmvJQjFEgDY8fVTl9zCO5QxZRxR.jpg",
+               "id": 3371,
+               "order": 6
+            },
+            {
+               "cast_id": 19,
+               "character": "Plainclothesman",
+               "gender": 0,
+               "credit_id": "52fe4595c3a368484e06371b",
+               "name": "Jimmy Aubrey",
+               "profile_path": "/nDEzS7B7C2Lrn2Wopn7OJ2SKIMa.jpg",
+               "id": 88778,
+               "order": 7
+            },
+            {
+               "cast_id": 20,
+               "character": "Jim",
+               "gender": 0,
+               "credit_id": "52fe4595c3a368484e06371f",
+               "name": "Billy Bevan",
+               "profile_path": "/b71bTzqUZ60ij9aErlaat6BWkTK.jpg",
+               "id": 100763,
+               "order": 8
+            },
+            {
+               "cast_id": 21,
+               "character": "Miner",
+               "gender": 2,
+               "credit_id": "52fe4595c3a368484e063723",
+               "name": "Harry Cording",
+               "profile_path": "/gvWWu40cDWcRbhIwDjx7tyfsgJK.jpg",
+               "id": 98052,
+               "order": 9
+            },
+            {
+               "cast_id": 22,
+               "character": "Cookie",
+               "gender": 1,
+               "credit_id": "52fe4595c3a368484e063727",
+               "name": "Mary Gordon",
+               "profile_path": "/u4QD0zsgBgXTi3At0e0ow8VdiEi.jpg",
+               "id": 2934,
+               "order": 10
+            },
+            {
+               "cast_id": 23,
+               "character": "Chauffeur",
+               "gender": 0,
+               "credit_id": "52fe4595c3a368484e06372b",
+               "name": "Leyland Hodgson",
+               "profile_path": null,
+               "id": 30136,
+               "order": 11
+            },
+            {
+               "cast_id": 24,
+               "character": "Minor Role",
+               "gender": 0,
+               "credit_id": "56739f2b9251412db1001112",
+               "name": "Ernie Adams",
+               "profile_path": "/jApXZ7Z3HpIbh3dXv55coEyVLdC.jpg",
+               "id": 34098,
+               "order": 12
+            },
+            {
+               "cast_id": 25,
+               "character": "Fight Spectator",
+               "gender": 0,
+               "credit_id": "56739f3a9251412dbb00117b",
+               "name": "Walter Bacon",
+               "profile_path": "/hOyCV8UMxkERWGLJuPa6pYEFPfE.jpg",
+               "id": 1550460,
+               "order": 13
+            },
+            {
+               "cast_id": 26,
+               "character": "Woman",
+               "gender": 0,
+               "credit_id": "56739f4a9251412dab001262",
+               "name": "Clara Blore",
+               "profile_path": null,
+               "id": 1473000,
+               "order": 14
+            },
+            {
+               "cast_id": 27,
+               "character": "Minor Role",
+               "gender": 0,
+               "credit_id": "56739f60c3a3685ef100109a",
+               "name": "Stanley Blystone",
+               "profile_path": "/qmj0lbXABDGnYudwHmM94ZvKVsN.jpg",
+               "id": 30196,
+               "order": 15
+            },
+            {
+               "cast_id": 28,
+               "character": "Policeman",
+               "gender": 0,
+               "credit_id": "56739f739251412dbe001008",
+               "name": "Matthew Boulton",
+               "profile_path": "/xtYte3vjCSrDcbFBfbJifkrU5CN.jpg",
+               "id": 102888,
+               "order": 16
+            },
+            {
+               "cast_id": 29,
+               "character": "Policeman",
+               "gender": 0,
+               "credit_id": "56739f809251412dab00126e",
+               "name": "Ed Brady",
+               "profile_path": "/iS57kpTT3r8FppQiBLNUbyZ7B3z.jpg",
+               "id": 131047,
+               "order": 17
+            },
+            {
+               "cast_id": 30,
+               "character": "Miner at Colliery",
+               "gender": 2,
+               "credit_id": "56739f92c3a3685ee7001175",
+               "name": "Chet Brandenburg",
+               "profile_path": null,
+               "id": 1208018,
+               "order": 18
+            },
+            {
+               "cast_id": 31,
+               "character": "Griffin's Secretary",
+               "gender": 0,
+               "credit_id": "56739fa49251412db800106a",
+               "name": "Louise Brien",
+               "profile_path": null,
+               "id": 1420994,
+               "order": 19
+            },
+            {
+               "cast_id": 32,
+               "character": "Minor Role",
+               "gender": 2,
+               "credit_id": "56739fb49251412da90010c7",
+               "name": "Charles Brokaw",
+               "profile_path": null,
+               "id": 980038,
+               "order": 20
+            },
+            {
+               "cast_id": 33,
+               "character": "Minor Role",
+               "gender": 0,
+               "credit_id": "56739fc5c3a3685eeb00118d",
+               "name": "Jean Brooks",
+               "profile_path": "/dtZbfVYhh4TXXxBOBE3zEr8gEm.jpg",
+               "id": 86824,
+               "order": 21
+            },
+            {
+               "cast_id": 34,
+               "character": "Miner at Colliery",
+               "gender": 2,
+               "credit_id": "56739fd6c3a3685ede0013cd",
+               "name": "Tom Coleman",
+               "profile_path": null,
+               "id": 1468172,
+               "order": 22
+            },
+            {
+               "cast_id": 35,
+               "character": "Minor Role",
+               "gender": 0,
+               "credit_id": "56739fe5c3a3685eee0011c3",
+               "name": "Frank Coletti",
+               "profile_path": null,
+               "id": 1147303,
+               "order": 23
+            },
+            {
+               "cast_id": 36,
+               "character": "Detective",
+               "gender": 0,
+               "credit_id": "56739fffc3a3685eee0011cd",
+               "name": "Paul England",
+               "profile_path": null,
+               "id": 120767,
+               "order": 24
+            },
+            {
+               "cast_id": 37,
+               "character": "Constable Briggs",
+               "gender": 2,
+               "credit_id": "5673a00e9251412db800107c",
+               "name": "Rex Evans",
+               "profile_path": null,
+               "id": 14690,
+               "order": 25
+            },
+            {
+               "cast_id": 38,
+               "character": "Passerby at Willie's House",
+               "gender": 0,
+               "credit_id": "5673a022c3a3685eee0011d6",
+               "name": "Mary Field",
+               "profile_path": "/fUuUy1lk7aOlMuw9EvHG4UiUSRw.jpg",
+               "id": 115366,
+               "order": 26
+            },
+            {
+               "cast_id": 39,
+               "character": "Prison Governor",
+               "gender": 2,
+               "credit_id": "5673a0329251412db8001085",
+               "name": "Edward Fielding",
+               "profile_path": null,
+               "id": 3370,
+               "order": 27
+            },
+            {
+               "cast_id": 40,
+               "character": "Detective",
+               "gender": 0,
+               "credit_id": "5673a042c3a3685eee0011dc",
+               "name": "Raoul Freeman",
+               "profile_path": null,
+               "id": 1420897,
+               "order": 28
+            },
+            {
+               "cast_id": 41,
+               "character": "Minor Role",
+               "gender": 0,
+               "credit_id": "5673a05f9251412db1001135",
+               "name": "Sidney Grayler",
+               "profile_path": null,
+               "id": 1472999,
+               "order": 29
+            },
+            {
+               "cast_id": 42,
+               "character": "Miner at Colliery",
+               "gender": 2,
+               "credit_id": "5673a0779251412dbe00102a",
+               "name": "Kit Guard",
+               "profile_path": "/qTRvlchIyQcywHHkjHHdQUFhFsS.jpg",
+               "id": 1181275,
+               "order": 30
+            },
+            {
+               "cast_id": 43,
+               "character": "Bill",
+               "gender": 0,
+               "credit_id": "5673a0929251412dbe001031",
+               "name": "Frank Hagney",
+               "profile_path": "/nCvW7yfN0PlCkF6v6CV80CUdWgH.jpg",
+               "id": 34168,
+               "order": 31
+            },
+            {
+               "cast_id": 44,
+               "character": "Miner at Colliery",
+               "gender": 0,
+               "credit_id": "5673a0a5c3a3685ee200122d",
+               "name": "Bobby Hale",
+               "profile_path": null,
+               "id": 120458,
+               "order": 32
+            },
+            {
+               "cast_id": 45,
+               "character": "Minor Role",
+               "gender": 0,
+               "credit_id": "5673a0b59251412dab00129c",
+               "name": "Barry Hays",
+               "profile_path": null,
+               "id": 1422947,
+               "order": 33
+            },
+            {
+               "cast_id": 46,
+               "character": "Policeman",
+               "gender": 0,
+               "credit_id": "5673a0c6c3a3685ede0013f5",
+               "name": "Frank Hill",
+               "profile_path": null,
+               "id": 1531759,
+               "order": 34
+            },
+            {
+               "cast_id": 47,
+               "character": "Secretary",
+               "gender": 0,
+               "credit_id": "5673a37a9251412da9001159",
+               "name": "Hugh Huntley",
+               "profile_path": null,
+               "id": 133276,
+               "order": 35
+            },
+            {
+               "cast_id": 48,
+               "character": "Miner at Radcliffe Colliery",
+               "gender": 0,
+               "credit_id": "5673a38d9251412da900115e",
+               "name": "George Hyde",
+               "profile_path": null,
+               "id": 1550461,
+               "order": 36
+            },
+            {
+               "cast_id": 49,
+               "character": "Miner at Radcliffe Colliery",
+               "gender": 0,
+               "credit_id": "5673a39bc3a3685eee001255",
+               "name": "Ellis Irving",
+               "profile_path": null,
+               "id": 543546,
+               "order": 37
+            },
+            {
+               "cast_id": 50,
+               "character": "Minor Role",
+               "gender": 0,
+               "credit_id": "5673a3abc3a3685eeb00123b",
+               "name": "Boyd Irwin",
+               "profile_path": null,
+               "id": 1186832,
+               "order": 38
+            },
+            {
+               "cast_id": 51,
+               "character": "Miner at Colliery",
+               "gender": 2,
+               "credit_id": "5673a3bf9251412dab001327",
+               "name": "Dick Johnstone",
+               "profile_path": null,
+               "id": 1505860,
+               "order": 39
+            },
+            {
+               "cast_id": 52,
+               "character": "Plainclothesman",
+               "gender": 2,
+               "credit_id": "5673a3cd9251412dbb001233",
+               "name": "Colin Kenny",
+               "profile_path": null,
+               "id": 120445,
+               "order": 40
+            },
+            {
+               "cast_id": 53,
+               "character": "Miner at Radcliffe Colliery",
+               "gender": 2,
+               "credit_id": "5673a3ddc3a3685ede001476",
+               "name": "George Kirby",
+               "profile_path": null,
+               "id": 123015,
+               "order": 41
+            },
+            {
+               "cast_id": 54,
+               "character": "Chaplain",
+               "gender": 2,
+               "credit_id": "5673a3ec9251412dab001330",
+               "name": "Bruce Lester",
+               "profile_path": "/emaaqMHeWnBoOYCCblKqWhIGwhj.jpg",
+               "id": 82384,
+               "order": 42
+            },
+            {
+               "cast_id": 55,
+               "character": "Miner at Radcliffe Colliery",
+               "gender": 2,
+               "credit_id": "5673a403c3a3685edc00115f",
+               "name": "George Lloyd",
+               "profile_path": "/auNjJAZOcFfoWv3601OeAHHT57U.jpg",
+               "id": 83397,
+               "order": 43
+            },
+            {
+               "cast_id": 56,
+               "character": "Miner at Colliery",
+               "gender": 0,
+               "credit_id": "5673a412c3a3685ef1001134",
+               "name": "Jack Low",
+               "profile_path": null,
+               "id": 1420479,
+               "order": 44
+            },
+            {
+               "cast_id": 57,
+               "character": "Miner at Radcliffe Colliery",
+               "gender": 2,
+               "credit_id": "5673a421c3a3685ef1001137",
+               "name": "Edmund MacDonald",
+               "profile_path": "/9zoueJEgi6GxsxYNWWzrc0MFdoj.jpg",
+               "id": 85995,
+               "order": 45
+            },
+            {
+               "cast_id": 58,
+               "character": "Minor Role",
+               "gender": 2,
+               "credit_id": "5673a4319251412dab001344",
+               "name": "William Newell",
+               "profile_path": "/wWgERjrPxREPba73HlGCR7anzwj.jpg",
+               "id": 103753,
+               "order": 46
+            },
+            {
+               "cast_id": 59,
+               "character": "Constable at Coal Train",
+               "gender": 0,
+               "credit_id": "5673a443c3a3685eeb001253",
+               "name": "Frank O'Connor",
+               "profile_path": "/11dv3ebdyQWg77VFiPOFfXbuxWH.jpg",
+               "id": 121127,
+               "order": 47
+            },
+            {
+               "cast_id": 60,
+               "character": "Footman",
+               "gender": 0,
+               "credit_id": "5673a4aac3a3685ee20012cc",
+               "name": "Alexander Pollard",
+               "profile_path": null,
+               "id": 1278060,
+               "order": 48
+            },
+            {
+               "cast_id": 61,
+               "character": "Clinic Nurse",
+               "gender": 1,
+               "credit_id": "5673a4b9c3a3685ef100114b",
+               "name": "Frances Robinson",
+               "profile_path": "/pucksuFmDahlyxREGYV6a7bXt9P.jpg",
+               "id": 109831,
+               "order": 49
+            },
+            {
+               "cast_id": 62,
+               "character": "Miner at Colliery",
+               "gender": 0,
+               "credit_id": "5673a4e89251412daf001e8d",
+               "name": "Robert Robinson",
+               "profile_path": null,
+               "id": 32573,
+               "order": 50
+            },
+            {
+               "cast_id": 63,
+               "character": "Mr. Cotton",
+               "gender": 2,
+               "credit_id": "5673a4f7c3a3685eee00128b",
+               "name": "Ivan F. Simpson",
+               "profile_path": "/m2UzOBSAe71qpm7CiWJu7IcKTLu.jpg",
+               "id": 132536,
+               "order": 51
+            },
+            {
+               "cast_id": 64,
+               "character": "Constable Tewsbury",
+               "gender": 2,
+               "credit_id": "5673a5079251412dbe0010c1",
+               "name": "Harry Stubbs",
+               "profile_path": null,
+               "id": 30145,
+               "order": 52
+            },
+            {
+               "cast_id": 65,
+               "character": "Miner at Radcliffe Colliery",
+               "gender": 0,
+               "credit_id": "5673a517c3a3685ee700123c",
+               "name": "Denis Tankard",
+               "profile_path": null,
+               "id": 1197503,
+               "order": 53
+            },
+            {
+               "cast_id": 66,
+               "character": "Policeman",
+               "gender": 2,
+               "credit_id": "5673a52c9251412daf001e99",
+               "name": "Cyril Thornton",
+               "profile_path": null,
+               "id": 32438,
+               "order": 54
+            },
+            {
+               "cast_id": 67,
+               "character": "Bob",
+               "gender": 2,
+               "credit_id": "5673a5389251412db10011e8",
+               "name": "David Thursby",
+               "profile_path": "/t3tTg25pjjzz0mQ0SuwKVMyGxOW.jpg",
+               "id": 132701,
+               "order": 55
+            },
+            {
+               "cast_id": 68,
+               "character": "Minor Role",
+               "gender": 2,
+               "credit_id": "5673a54a9251412db8001152",
+               "name": "Crane Whitley",
+               "profile_path": null,
+               "id": 117770,
+               "order": 56
+            },
+            {
+               "cast_id": 69,
+               "character": "Fingerprint Expert",
+               "gender": 2,
+               "credit_id": "5673a55d9251412db8001154",
+               "name": "Eric Wilton",
+               "profile_path": null,
+               "id": 34128,
+               "order": 57
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4594c3a368484e0636bf",
+               "name": "Joe May",
+               "profile_path": null,
+               "id": 100593,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4595c3a368484e0636c5",
+               "name": "Curt Siodmak",
+               "profile_path": "/pJTXFWsOB5MX5umPBgyD3qrxZ6U.jpg",
+               "id": 5028,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4595c3a368484e0636cb",
+               "name": "Lester Cole",
+               "profile_path": null,
+               "id": 78158,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4595c3a368484e0636d1",
+               "name": "Jack Otterson",
+               "profile_path": null,
+               "id": 13958,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4595c3a368484e0636d7",
+               "name": "Vera West",
+               "profile_path": "/1ExZCRonv0UX8MiiJ5Npem5PVp9.jpg",
+               "id": 13959,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4595c3a368484e0636dd",
+               "name": "Frank Skinner",
+               "profile_path": "/iXSLNqs6Rf9ynJ9TzNSpabNO2iW.jpg",
+               "id": 30104,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4595c3a368484e0636e3",
+               "name": "Hans J. Salter",
+               "profile_path": null,
+               "id": 30130,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4595c3a368484e0636e9",
+               "name": "Milton Krasner",
+               "profile_path": "/mcCWfNEjNZc7tLd4QXN6epluwfG.jpg",
+               "id": 10602,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4595c3a368484e0636ef",
+               "name": "Russell A. Gausman",
+               "profile_path": null,
+               "id": 12348,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 2,
+               "credit_id": "580123a0c3a36848ec0000eb",
+               "name": "Joe May",
+               "profile_path": null,
+               "id": 100593,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "580123ac925141300c000129",
+               "name": "Curt Siodmak",
+               "profile_path": "/pJTXFWsOB5MX5umPBgyD3qrxZ6U.jpg",
+               "id": 5028,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "580123ba925141300a000125",
+               "name": "H.G. Wells",
+               "profile_path": "/U8KahQDA3jjKToWl7Ho6df8BML.jpg",
+               "id": 11624,
+               "department": "Writing",
+               "job": "Characters"
+            },
+            {
+               "gender": 2,
+               "credit_id": "580123d5925141301600013e",
+               "name": "Frank Gross",
+               "profile_path": null,
+               "id": 30105,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "580123edc3a36848f5000110",
+               "name": "John P. Fulton",
+               "profile_path": null,
+               "id": 100762,
+               "department": "Visual Effects",
+               "job": "Visual Effects"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Horror",
+            "id": 27
+         },
+         {
+            "name": "Mystery",
+            "id": 9648
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 2.961766,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 28421,
+      "vote_count": 25,
+      "budget": 0,
+      "overview": "The owner of a coal mining operation, falsely imprisoned for fratricide, takes a drug to make him invisible, despite its side effect: gradual madness.",
+      "similar": [
+         445954,
+         357096,
+         15762,
+         4771,
+         2832,
+         238636,
+         281957,
+         14869,
+         588,
+         22825,
+         28355,
+         133805,
+         21484,
+         3134,
+         10285,
+         10528,
+         73861,
+         12149,
+         949,
+         979
+      ],
+      "original_title": "The Invisible Man Returns",
+      "runtime": 81,
+      "poster_path": "/fa9csCs1SdmMDGKiGfbwtQenBMT.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+         "name": "Universal Pictures",
+         "id": 33,
+         "origin_country": "US"
+      }],
+      "release_date": "1940-01-12",
+      "vote_average": 6.3,
+      "belongs_to_collection": {
+         "backdrop_path": "/k5xCUEzPzNkiMmd7gkIGCo4VB8W.jpg",
+         "name": "The Invisible Man (Universal Series)",
+         "id": 259401,
+         "poster_path": "/fK4kwiFZ7fGzYMkUa826KGSPriF.jpg"
+      },
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Joe May"],
+      "runtime": 81,
+      "synopsis": "Framed and convicted for murder Geoffrey Radcliffe (Vincent Price) believes that the real culprit is someone closely associated with the colliery where the murder was committed. Radcliffe convinces his friend Doctor Frank Griffin (John Sutton) to inject him with the invisibility serum that his father Jack Griffin had created. Griffin does so but warns Radcliffe that the earlier invisible man went insane under the drug. Once he is invisible Radcliffe goes to his fiancée Helen Manson (Nan Grey) to assure her of his intentions and the young woman notices the changes taking place in his demeanor. Radcliffe uncovers the truth by kidnapping Richard Cobb (Cedric Hardwicke) and in a final confrontation and shootout with the police the truth comes out but at a high cost to everyone.",
+      "writers": [
+         "H.G. Wells",
+         "Joe May"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0032635/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BNDUwODc3Njk4M15BMl5BanBnXkFtZTgwMTg0NTQzMjE@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Cedric Hardwicke, Vincent Price, Nan Grey | See full cast and crew »"],
+      "reviews": [
+         "There are a lot of reasons why this 1940 sequel is better than the original INVISIBLE MAN. In the first movie, the Invisible Man was a dilettante, a haughty scientist who shot himself up with the invisibility drug \"for kicks.\" Claude Rains played the character with such a supercilious air that it was hard to care when he lost it all. But in this well-written sequel, the Invisible Man is a true hero. Geoffrey Radcliffe is a wealthy gentleman with class, courage, and a sense of humor. Someone has framed him for murder, and with the help of his devoted girl friend and trustworthy company doctor, he sets out to make things right. Vincent Price is perfect as Geoffrey. He gives this invisible man plenty of guts, along with goodness, humility, and a wonderfully self-deprecating sense of humor. When madness sets in, of course, Price can babble with the best of them. But this time around, you care. This is a man who ran his business empire for the benefit of the workers, a man who can tease his weeping girl friend about how \"lucky\" she is not to see his face. Ladylike and innocent-looking Nan Grey is a horror legend for her bit role as the waif-like streetwalker in Dracula's Daughter. Here she gets to play the same gentle, sensitive type, only warmer and more womanly. Watching Helen Manson sit up all night watching over her suffering love, falling asleep in her chair, and fainting at the sight of his disfiguring bandages, you will fall in love with her yourself. It's easy to see why Geoffrey loves her enough to risk madness and death to be by her side, and why the villain was willing to stoop to murder for her sake. Sir Cedrick Hardwicke is mostly remembered today for playing kindly, kingly old gentlemen in epics like THE TEN COMMANDMENTS. But here he is a ruthless, cold villain, a murderer who fights for greed and gain. The attraction to lovely Helen is only hinted at, just a glance here and a tender word there. But it gives just the right touch of depth and tragedy to an amazingly nuanced performance. Just as many critics feel Dracula's Daughter was a deeper film than Dracula, so INVISIBLE MAN RETURNS may well be an improvement over the original classic. Long live Universal Horror!",
+         "While certainly not as good as its original source(sans Claude Rains, sans James Whale), this sequel is very entertaining. It lacks the raw energy of the first film as well as the dark humour. The film begins with Geoffrey Radcliffe about to be executed for a crime we soon learn he did not do. How he gets out of his visit with the executioner is a little matter of drinking a potion given to him by a friend(the brother of the Claude Rains character in the original). In a matter of moments he(Vincent Price's voice) works toward finding his brother's true killer and fending off the madness that comes from drinking the invisibility solution. Price is in fine form though don't expect the hamminess you usually get(a bit disappointing for me). The rest of the cast is very good. Universal actress Nan Grey(from Dracula's Daughter) is lovely, and Cedric Hardwicke actually gives a convincing performance as a villain. Cecil Kellaway and Alan Napier also provide wonderful supporting help. The special effects really shine and are first-rate for their time.",
+         "It took Universal Studios seven years to produce this sequel to The Invisible Man, but in some regards, it was worth the wait. Geoffrey Radcliffe (Vincent Price) is an innocent man condemned to death for a murder he didn't commit. At the last minute, Radcliffe's gal pal, Helen (Nan Grey), and the friendly mad doctor, Frank Griffin (John Sutton), decide the only way to save Radcliffe is by injecting him with the invisibility serum invented by Jack Griffin. Radcliffe's invisibility enables him to escape the gallows and easily elude the police led by the wily Inspector Sampson (Cecil Kelloway). Radcliffe figures out the identity of the murderer but his behavior soon borders on madness, unsettling Dr. Griffin and Helen. Should they continue to aid Radcliffe or rat him out to the constabulary? Will Radcliffe remain sane long enough to clear his name or will the law have to gun him down like his phantom predecessor, Jack Griffin? This is a real rarity among sequels in that it is nearly as good as the original. It's one of my favorites in this genre. The story moves along briskly, features some intriguing scenes, and offers some occasional humor. The acting is solid. The special effects though primitive by today's standards are still effective. That doesn't mean it is without it share of faults. Chief among them is why they didn't inject Radcliffe earlier instead of waiting till the day of his execution? Or better yet, inject Helen, so she might solve the crime. Speaking of solving the crime, Radcliffe uncovers the real murderer's identity much too easily. Still, I would love to see Universal Studios remake this someday with a woman as the unseen protagonist/fugitive-Thandie Newton would be my choice. But, knowing Universal Studios, I probably couldn't get that lucky.",
+         "The Invisible Man (1933) stands alone as being the greatest adaptation of H.G. Wells' story because it follows the novel's storyline and captures the atmosphere of the original work. The film also has the ability to polish some of the scenes with humor. Like other Universal horror classics, it deserved and got sequels, and though the Invisible Man Returns was a lesser effort, it was far superior than any other attempt to remake the classic (the recently made Hollow Man was down right horrible and, yes, hollow.) The Invisible Man Returns begins by introducing us to the brother of the first film's invisible one who escapes prison using the formula his brother developed. This is a far-fetched and awkward way to create a sequel, but once it's out of the way the rest of the film again captures the formula, fun and atmosphere of the original. Followed with mixed results by The Invisible Woman (comedy), The Invisible Agent, The Invisible Man's Revenge and Abbott and Costello Meet Frankenstein (which features the Invisible One).",
+         "MORD39 RATING: ***(of ****) THE INVISIBLE MAN RETURNS is a fine followup to 1933's THE INVISIBLE MAN. Vincent Price has one of his earliest horror roles as a wrongly convicted man made transparent and out on a mission to find the real culprit who murdered his brother and framed him. Nan Grey has never looked prettier and lends nice support as the woman who loves Price. Cecil Kellaway is a treat as the suspicious police inspector, and Alan Napier is fun as a detestable villain who gets what he deserves. While not as intense as the original, this film surely stands out as one of the finest sequels from Universal's golden age.",
+         "THE INVISIBLE MAN RETURNS is really the story of Frank Griffin's brother, Geoffrey (VINCENT PRICE), who is wrongly accused of murder and imprisoned. Helping him escape is a doctor (JOHN SUTTON) who injects him with a serum to make him invisible. Griffin then sets about trying to get to the bottom of who the real murderer is. That's the only weak spot in the story. The identity of the real murderer is known much too soon rather than stalling the revelation for better suspense. Lovely NAN GREY (who resembles blonde Brenda Joyce in so many scenes), is excellent as the love interest. She gives a warm and natural performance as the woman who sympathizes with Griffin's plight. VINCENT PRICE is fine until he has to show madness and descends into overacting with his maniacal laughter. SIR CEDRIC HARDWICKE and ALAN NAPIER set the standard for good acting among the supporting cast. Napier is especially effective as a man tormented by the Invisible Man in a scene that takes place in a lonely wooded area. There are times when the character of Frank Griffin is written in a way that is most unsympathetic and mean spirited and Price is especially nasty in conveying this aspect of his role. In other words, there's a touch of villainy in his performance. But the story is a clever one, standing apart from the original INVISIBLE MAN that starred Claude Rains and is well done. Some of the special effects may be a bit creaky but understandably so, and nevertheless the film is a fine example of how far those effects had advanced technically by the '40s. Well worth watching, especially if you're a fan of Universal's horror films.",
+         "I had watched this twice as a kid on Italian TV and remember loving it; however, as was the case with THE GHOST OF FRANKENSTEIN (1942), when I caught up with it again as an adult via DVD, it proved something of a let down! Mind you, it's still a pretty good film and John P. Fulton's trick work is as brilliant as ever. And yet, I felt that it tried a bit too hard to duplicate those elements which made the original so successful to begin with: the eccentric Englishness so unique to Whale's work, for instance, comes off as somewhat heavy-handed this time around; the very young Vincent Price has yet to come into his own as a horror icon and his lapses into madness are overdone, not matching Claude Rains' menacing delivery. Besides, the identity of the villain is no mystery here! Still, while I particularly missed the wit of the original, Joe May's expert handling and Milton Krasner's effective lighting give the film a suitably Germanic feel at times. Ultimately, I feel that of all the first sequels to the original Universal monster films (BRIDE OF FRANKENSTEIN [1935], DRACULA'S DAUGHTER [1936], THE MUMMY'S HAND [1940] and FRANKENSTEIN MEETS THE WOLF MAN [1943]), this one is perhaps the least impressive - as all the others seemed to go in different directions.",
+         "In general, it seems that sequels seldom live up to the originals. There are just too many examples I can think of when this was the case. In addition, sequels that take an entirely different approach to the original subject matter often are abysmal failures as well (such as the wonderful VILLAGE OF THE DAMNED and it's incredibly awful and saccharine CHILDREN OF THE DAMNED). In light of this, I was very pleasantly surprised to this see that this film, while quite different from the fantastic original, is still an exceptional film. Much of the reason for the film being so good was that the film was made by Universal Studios during a very productive period for their horror films. They just knew how to put the whole package together to make a dandy film. Additionally, the cast really helped as well, as Vincent Price (mostly just his voice, as he IS invisible through almost all the film), Cedric Hartwicke, Cecil Kellaway and many others worked together to quite nicely. The writing, also, is a big standout, as the film COULD have easily been just another \"hack\" sequel. Using bits of humor here and there throughout the film and providing a great ending really made this film worth while.",
+         "THE INVISIBLE MAN RETURNS (Universal, 1940), directed by Joe May, is, what is indicated during the opening credits, \"a sequel to THE INVISIBLE MAN by H.G. Wells,\" capitalizes on the success of recent update sequels to old 1930s horror tales. Unlike the resurrections of the Frankenstein Monster in THE SON OF FRANKENSTEIN (1939), and later, Dracula and a new revised Mummy, all of whom have or would be resurrected from the dead through some supernatural means, Claude Rains, who originated the Invisible Man character in 1933, whose Jack Griffin was shot and killed by the police in the conclusion, would not have the power to be brought back from the dead as his monstrous contemporaries had, but to have an introduction to a new invisible man, played with distinction by Vincent Price. This sequel, however, not essentially a horror film, is a blend of science fiction and murder mystery Through the first few minutes of the story, it is learned to the viewer through lines of dialog from the servants that a young man named Sir Geoffrey Radcliffe (Vincent Price), sentenced to death for the murder of his brother, Michael, is scheduled for execution by hanging at dawn for the crime for which he is innocent. His fiancée, Helen Manson (Nan Grey), appeals to Geoffrey's cousin, Richard Cobb (Sir Cedric Hardwicke), to have the execution postponed in order to prove his innocence, but there's nothing he can do. Later that night, Geoffrey's friend, Doctor Frank Griffin (John Sutton), brother to the late Jack Griffin, who had experimented with chemicals that cause invisibility, comes to the prison to pay his last respects to Sir Geoffrey hours before his death sentence is to be carried out. Some time later, the guards discover that Sir Geoffrey has escaped and they are completely baffled as to how he had gotten by them without anyone seeing him. Discovering some clothing left behind in his cell, it is Inspector Sampson (Cecil Kellaway) of Scotland Yard who realizes how this was done, especially since he is very much familiar with the Jack Griffin case nine years previously, which causes him to suspect the late scientist's younger brother, Frank, into having something to do with Geoffrey's escape. The next scene then focuses on the movement of bushes and trees in the woods, with a suitcase full of clothes opening up by itself. Sir Geoffrey is now an invisible man, thanks to Griffin for his discovery of a secret formula known as duocaine, which would leave Geoffrey transparent and free to go about to learn the truth as to why he was framed and to clear his name by revealing the true murderer. But the problem is for Griffin to come up with an antidote to prevent Geoffrey from going insane and meeting the same fate as his brother. While not up to the wit and pace to THE INVISIBLE MAN, THE INVISIBLE MAN RETURNS done have some added bonuses. It's quite obvious, however, to take notes and compare the original film with its sequel. The leading ladies in both films (Gloria Stuart and Nan Grey) are not only blondes, but play fiancées to the leading character. Claude Rains was virtually unknown to movie audiences when chosen to play the invisible man while Vincent Price has had some exposure in movies since his feature debut in 1938. The one thing both Rains and Price had in common while playing invisible men on screen was their individual distinctive voices. As with the earlier film, the sequel takes time for some prank humor by the new invisible man as he stalks Willie Sphears (Alan Napier), a night watchman through the woods. It is believed that Mr. Sphears, who had testified against him at his trial, might be the sole witness to his brother's murder. At times amusing, this sequence ends with some unpleasantness after Geoffrey takes the fainted Mr. Sphears, ties his feet and arms behind him, and leaving him alone in a room standing helplessly on a stool with his neck placed inside a hanged noose. Special effects, compliments by John Fulton, take precedence throughout the story with Geoffrey removing his goggles, bandages and clothing only to reveal nothing underneath, as well as one interesting highlight where the now wounded and cold Geoffrey is alone in the country, talking to the scarecrow as he \"borrows\" its clothing for his own use. Forrester Harvey, who appeared as Herbert Hall in THE INVISIBLE MAN, returns in this sequel assuming another character role, that of Ben Jenkins. What a welcome added attraction THE INVISIBLE MAN RETURNS would have been had Forrester Harvey and Una O'Connor reprized their original roles as the scared innkeepers encountering another invisible man. THE INVISIBLE MAN RETURNS would spawn two more sequels in the 1940s, THE INVISIBLE AGENT (1942) and THE INVISIBLE MAN'S REVENGE (1944), each featuring Jon Hall playing descendants to Jack Griffin, concluding in 1951 when another invisible man meets up with Abbott and Costello. In order not to forget the originator to THE INVISIBLE MAN, a photo of Claude Rains would be evident, as was in THE INVISIBLE MAN RETURNS. The overly familiar instrumental Frank Skinner underscoring used during the closing cast credits of this production would be heard in several other Universal productions of that period, including THE SON OF FRANKENSTEIN, THE TOWER OF London (both 1939), and BLACK Friday (1940), all featuring Boris Karloff. THE INVISIBLE MAN RETURNS, available on video cassette and then onto DVD, and had played on several cable channels, including the Sci-Fi Channel in the 1990s, and on American Movie Classics in 1991, and brought back on that channel again from 2000 to 2001. (***)",
+         "This is a very watchable sequel seven years after the original. This version is less dark and dreary and even contains a little comedy. Vincent Price plays Geoffrey Radcliffe, wrongly convicted of murder and makes use of invisibility to find the real murderer of his brother. This is Price's fifth movie early in his career. His face is seen very little in this sci-fi drama, but his distinct and haunting voice will prove to help him gain stardom. A very good supporting cast includes: the legendary Cedric Hardwicke, Cecil Kellaway and Nan Grey. Miss Grey is the stunning love interest. Kellaway usually plays a light comedic role, but this time he plays the part of a Scotland Yard inspector. Hardwicke is more or less that character you can't seem to put your full trust in. In other minor roles are John Sutton, Leyland Hodgson and Ivan Simpson. The special effects help this oldie keep its charm. My favorite scene is still when Grey faints after Price unravels his bandages. Still a hoot to watch."
+      ],
+      "genres": [
+         "Drama",
+         "Horror",
+         "Mystery",
+         "Sci-Fi",
+         "Thriller"
+      ],
+      "productionCompanies": ["Universal Pictures"],
+      "summaries": [
+         "Framed for the murder of his brother, Geoffrey Radcliffe is scheduled to hang. After a visit from his friend Dr. Frank Griffin, he vanishes mysteriously from prison. Police inspector Sampson realizes that Griffin is the brother of the original Invisible Man and has given Geoffrey the formula to aid his escape. Can Geoffrey elude the police dragnet and track down the real murderer? More importantly, can Griffin discover an antidote before the invisibility formula drives Geoffrey insane?",
+         "Geoffrey Radcliffe, the wealthy owner of a coal mining operation, is running out of time. In two hours, he is set to be executed for the murder of his brother, a murder he did not commit. His fiancée, Helen Manson, is frantic. Geoffrey's cousin, Richard Cobb, tells her that he has done everything he can. Geoffrey's only hope is his friend, Dr. Frank Griffin. Griffin's late brother once discovered a secret drug that makes a human being invisible. The only trouble is, it also turns its subject mad. But now Geoffrey, Helen and Dr. Griffin have no other choice. Griffin visits Geoffrey at the prison and administers the drug. Soon Geoffrey, made invisible, is able to escape. As the wily Inspector Sampson of Scotland Yard searches for the escaped convict, Griffin frantically searches for an antidote and Geoffrey frantically searches for the real killer. Time is short. Geoffrey is slowly but surely going insane.",
+         "The owner of a coal mining operation, falsely imprisoned for fratricide, takes a drug to make him invisible, despite its side effect: gradual madness."
+      ],
+      "budget": 0
+   },
+   "movielensId": 9008,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1940-01-12",
+      "dvdReleaseDate": "2004-10-19",
+      "directors": ["Joe May"],
+      "runtime": 81,
+      "movieId": 9008,
+      "title": "The Invisible Man Returns",
+      "mpaa": "",
+      "actors": [
+         "Cedric Hardwicke",
+         "Vincent Price",
+         "Nan Grey",
+         "John Sutton",
+         "Cecil Kellaway",
+         "Alan Napier",
+         "Forrester Harvey",
+         "Jimmy Aubrey",
+         "Billy Bevan",
+         "Harry Cording",
+         "Mary Gordon",
+         "Leyland Hodgson",
+         "Ernie Adams",
+         "Walter Bacon",
+         "Clara Blore",
+         "Stanley Blystone",
+         "Matthew Boulton",
+         "Ed Brady",
+         "Chet Brandenburg",
+         "Louise Brien",
+         "Charles Brokaw",
+         "Jean Brooks",
+         "Tom Coleman",
+         "Frank Coletti",
+         "Paul England",
+         "Rex Evans",
+         "Mary Field",
+         "Edward Fielding",
+         "Raoul Freeman",
+         "Sidney Grayler",
+         "Kit Guard",
+         "Frank Hagney",
+         "Bobby Hale",
+         "Barry Hays",
+         "Frank Hill",
+         "Hugh Huntley",
+         "George Hyde",
+         "Ellis Irving",
+         "Boyd Irwin",
+         "Dick Johnstone",
+         "Colin Kenny",
+         "George Kirby",
+         "Bruce Lester",
+         "George Lloyd",
+         "Jack Low",
+         "Edmund MacDonald",
+         "William Newell",
+         "Frank O'Connor",
+         "Alexander Pollard",
+         "Frances Robinson",
+         "Robert Robinson",
+         "Ivan F. Simpson",
+         "Harry Stubbs",
+         "Denis Tankard",
+         "Cyril Thornton",
+         "David Thursby",
+         "Crane Whitley",
+         "Eric Wilton"
+      ],
+      "imdbMovieId": "0032635",
+      "originalTitle": "The Invisible Man Returns",
+      "genres": [
+         "Drama",
+         "Horror",
+         "Mystery",
+         "Science Fiction",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": ["Nrxb6tqeiHM"],
+      "plotSummary": "The owner of a coal mining operation, falsely imprisoned for fratricide, takes a drug to make him invisible, despite its side effect: gradual madness.",
+      "tmdbMovieId": 28421,
+      "avgRating": 3.07407,
+      "releaseYear": "1940",
+      "numRatings": 54,
+      "posterPath": "/fa9csCs1SdmMDGKiGfbwtQenBMT.jpg"
+   }
+}

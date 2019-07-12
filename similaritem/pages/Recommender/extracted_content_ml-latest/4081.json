@@ -1,0 +1,692 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "spoof",
+            "id": 11931
+         },
+         {
+            "name": "woman director",
+            "id": 187056
+         },
+         {
+            "name": "beach movie",
+            "id": 188583
+         }
+      ],
+      "imdb_id": "tt0092608",
+      "video": false,
+      "title": "Back to the Beach",
+      "recommendations": [
+         84840,
+         39113,
+         24152,
+         63083,
+         13533,
+         26483,
+         53617,
+         26879,
+         27376,
+         26484,
+         42630,
+         97313,
+         45840,
+         26817,
+         43029,
+         20127,
+         34082,
+         44647,
+         40506,
+         50812
+      ],
+      "backdrop_path": "/8DFQRCUpYUhVVVgNl9qXEGj6TDw.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Annette's Husband",
+               "gender": 2,
+               "credit_id": "52fe4505c3a368484e043e15",
+               "name": "Frankie Avalon",
+               "profile_path": "/irGdUt04yfbwCioPYXBQHgwiWck.jpg",
+               "id": 22092,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Annette",
+               "gender": 1,
+               "credit_id": "52fe4505c3a368484e043e19",
+               "name": "Annette Funicello",
+               "profile_path": "/6nqrBDFDvjpVdrZS1RjfX9rTJ7S.jpg",
+               "id": 82777,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Sandi",
+               "gender": 1,
+               "credit_id": "52fe4505c3a368484e043e1d",
+               "name": "Lori Loughlin",
+               "profile_path": "/vz0O132QhxEWkGOzCiODP2RSZ77.jpg",
+               "id": 92509,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Michael",
+               "gender": 2,
+               "credit_id": "52fe4505c3a368484e043e21",
+               "name": "Tommy Hinkley",
+               "profile_path": "/mFe3E8NUL1742oNQRoKjrXUYmf8.jpg",
+               "id": 93925,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Bobby",
+               "gender": 0,
+               "credit_id": "52fe4505c3a368484e043e25",
+               "name": "Demian Slade",
+               "profile_path": "/3eKtsyXImI81s25566FECbJw9hG.jpg",
+               "id": 87562,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Connie",
+               "gender": 2,
+               "credit_id": "52fe4505c3a368484e043e29",
+               "name": "Connie Stevens",
+               "profile_path": "/nhVnIonVhPmN7EBJGm8XBOXL0O2.jpg",
+               "id": 95476,
+               "order": 5
+            },
+            {
+               "cast_id": 7,
+               "character": "Zed",
+               "gender": 0,
+               "credit_id": "52fe4505c3a368484e043e2d",
+               "name": "Joe Holland",
+               "profile_path": null,
+               "id": 95477,
+               "order": 6
+            },
+            {
+               "cast_id": 8,
+               "character": "Troy",
+               "gender": 2,
+               "credit_id": "52fe4505c3a368484e043e31",
+               "name": "John Calvin",
+               "profile_path": null,
+               "id": 73960,
+               "order": 7
+            },
+            {
+               "cast_id": 9,
+               "character": "Mountain",
+               "gender": 2,
+               "credit_id": "52fe4505c3a368484e043e35",
+               "name": "David Bowe",
+               "profile_path": "/7LQANqwm1g9X9YmMwDHqdqJ9uK9.jpg",
+               "id": 11659,
+               "order": 8
+            },
+            {
+               "cast_id": 10,
+               "character": "Robin",
+               "gender": 0,
+               "credit_id": "52fe4505c3a368484e043e39",
+               "name": "Laura Urstein",
+               "profile_path": null,
+               "id": 95478,
+               "order": 9
+            },
+            {
+               "cast_id": 11,
+               "character": "Bridgette",
+               "gender": 0,
+               "credit_id": "52fe4505c3a368484e043e3d",
+               "name": "Linda Carol",
+               "profile_path": "/wK1g9uzek6nazzRhryk2U4x4GJ6.jpg",
+               "id": 95479,
+               "order": 10
+            },
+            {
+               "cast_id": 12,
+               "character": "Airline Hostess",
+               "gender": 0,
+               "credit_id": "52fe4505c3a368484e043e41",
+               "name": "Marjorie Gross",
+               "profile_path": null,
+               "id": 95480,
+               "order": 11
+            },
+            {
+               "cast_id": 13,
+               "character": "Punk",
+               "gender": 0,
+               "credit_id": "52fe4505c3a368484e043e45",
+               "name": "Jon Paul Jones",
+               "profile_path": null,
+               "id": 95481,
+               "order": 12
+            },
+            {
+               "cast_id": 14,
+               "character": "Surf Dude",
+               "gender": 0,
+               "credit_id": "52fe4505c3a368484e043e49",
+               "name": "Eddie Vail",
+               "profile_path": null,
+               "id": 95482,
+               "order": 13
+            },
+            {
+               "cast_id": 15,
+               "character": "Srufer / Band Member",
+               "gender": 0,
+               "credit_id": "52fe4505c3a368484e043e4d",
+               "name": "Drew Steele",
+               "profile_path": null,
+               "id": 95483,
+               "order": 14
+            },
+            {
+               "cast_id": 16,
+               "character": "Himself",
+               "gender": 2,
+               "credit_id": "52fe4505c3a368484e043e51",
+               "name": "Rodney Bingenheimer",
+               "profile_path": "/lCjMoC2ox50VYPAYCHMQRVRxFH7.jpg",
+               "id": 95484,
+               "order": 15
+            },
+            {
+               "cast_id": 17,
+               "character": "Himself",
+               "gender": 2,
+               "credit_id": "52fe4505c3a368484e043e55",
+               "name": "Dick Dale",
+               "profile_path": null,
+               "id": 95485,
+               "order": 16
+            },
+            {
+               "cast_id": 18,
+               "character": "Himself",
+               "gender": 0,
+               "credit_id": "52fe4505c3a368484e043e59",
+               "name": "Stevie Ray Vaughan",
+               "profile_path": "/1GObbQkYoaBAypboMQUGGBKDADf.jpg",
+               "id": 95486,
+               "order": 17
+            },
+            {
+               "cast_id": 20,
+               "character": "Bartender",
+               "gender": 2,
+               "credit_id": "52fe4505c3a368484e043e5d",
+               "name": "Bob Denver",
+               "profile_path": "/rQVKi79IDOVmMO5vyuvEEZQ3KSs.jpg",
+               "id": 95488,
+               "order": 18
+            },
+            {
+               "cast_id": 21,
+               "character": "Bartender's Buddy",
+               "gender": 2,
+               "credit_id": "52fe4505c3a368484e043e61",
+               "name": "Alan Hale Jr.",
+               "profile_path": "/fWdJEklrhAyZsVvyy1LJPILiFZG.jpg",
+               "id": 35322,
+               "order": 19
+            },
+            {
+               "cast_id": 22,
+               "character": "Man At Airport",
+               "gender": 2,
+               "credit_id": "52fe4505c3a368484e043e65",
+               "name": "O.J. Simpson",
+               "profile_path": "/3q6XMf1L5zCApoUsiAMoFS9ADXY.jpg",
+               "id": 12951,
+               "order": 20
+            },
+            {
+               "cast_id": 28,
+               "character": "Pee-Wee Herman",
+               "gender": 2,
+               "credit_id": "52fe4505c3a368484e043e87",
+               "name": "Paul Reubens",
+               "profile_path": "/qiY2maQ1iFnoaUiGNGLTKnaj3Xu.jpg",
+               "id": 5129,
+               "order": 21
+            },
+            {
+               "cast_id": 29,
+               "character": "Harbor Master",
+               "gender": 2,
+               "credit_id": "52fe4505c3a368484e043e8b",
+               "name": "Don Adams",
+               "profile_path": "/aay1m7742dMKWR8vDL0hfTHODIo.jpg",
+               "id": 94845,
+               "order": 22
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe4505c3a368484e043e6b",
+               "name": "Lyndall Hobbs",
+               "profile_path": null,
+               "id": 95489,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4505c3a368484e043e71",
+               "name": "Peter Krikes",
+               "profile_path": null,
+               "id": 2020,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4505c3a368484e043e77",
+               "name": "Steve Meerson",
+               "profile_path": null,
+               "id": 2019,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4505c3a368484e043e7d",
+               "name": "Chris Thompson",
+               "profile_path": null,
+               "id": 67588,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4505c3a368484e043e83",
+               "name": "Lou Rusoff",
+               "profile_path": null,
+               "id": 78858,
+               "department": "Writing",
+               "job": "Characters"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54306d80c3a36831af00137f",
+               "name": "Frank Mancuso Jr.",
+               "profile_path": null,
+               "id": 49284,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54306d9e0e0a264643001382",
+               "name": "Steve Dorff",
+               "profile_path": null,
+               "id": 70054,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54306dba0e0a2646490013e0",
+               "name": "Bruce Surtees",
+               "profile_path": "/dJsO0sdSi2tM4ZTKVdZrvufiAuO.jpg",
+               "id": 792,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54306dd80e0a264640001470",
+               "name": "David Finfer",
+               "profile_path": null,
+               "id": 18387,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "54306decc3a36831b200143e",
+               "name": "Denise Chamian",
+               "profile_path": "/mEn7U8Dt5zqnNMO0Y1YtXO7evS.jpg",
+               "id": 2215,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "54306dffc3a36831ac00138e",
+               "name": "Janet Hirshenson",
+               "profile_path": null,
+               "id": 2874,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "54306e140e0a2646490013f1",
+               "name": "Jane Jenkins",
+               "profile_path": "/aVOlC6UkKaxZpzvpdRxCjkMtJHI.jpg",
+               "id": 3275,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54306e2f0e0a264640001482",
+               "name": "Michael Helmy",
+               "profile_path": null,
+               "id": 1087624,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54306e4b0e0a26464c001374",
+               "name": "Donald J. Remacle",
+               "profile_path": null,
+               "id": 1371062,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 1,
+               "credit_id": "54306e650e0a26463a0013b1",
+               "name": "Ingrid Ferrin",
+               "profile_path": null,
+               "id": 1371063,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "54306e7a0e0a26464c001379",
+               "name": "Marlene Stewart",
+               "profile_path": null,
+               "id": 3989,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54306e9ec3a36831b50013da",
+               "name": "Robert J. Visciglia Sr.",
+               "profile_path": null,
+               "id": 143906,
+               "department": "Crew",
+               "job": "Property Master"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54306ec00e0a2646460014bf",
+               "name": "Gregg Barbanell",
+               "profile_path": null,
+               "id": 1371064,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 1,
+               "credit_id": "54306eda0e0a26463a0013c3",
+               "name": "Dody Dorn",
+               "profile_path": null,
+               "id": 563,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54306efcc3a36831b2001455",
+               "name": "Julia Evershade",
+               "profile_path": null,
+               "id": 143915,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54306f230e0a2646430013b5",
+               "name": "Blake Leyh",
+               "profile_path": null,
+               "id": 117842,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54306f420e0a2646460014db",
+               "name": "Jerry Trent",
+               "profile_path": null,
+               "id": 143922,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54306f6a0e0a2646430013bd",
+               "name": "Gary Pike",
+               "profile_path": null,
+               "id": 143904,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54306fa3c3a36831bb0013f5",
+               "name": "Terry Haggar",
+               "profile_path": null,
+               "id": 1371065,
+               "department": "Editing",
+               "job": "Color Timer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54306ff10e0a26464c00139f",
+               "name": "Christopher Kennedy",
+               "profile_path": null,
+               "id": 1371066,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "543070110e0a26463d0013e8",
+               "name": "Gary Littlefield",
+               "profile_path": null,
+               "id": 1371067,
+               "department": "Crew",
+               "job": "Transportation Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5430702fc3a36831a9001311",
+               "name": "Lori Eastside",
+               "profile_path": null,
+               "id": 104419,
+               "department": "Crew",
+               "job": "Choreographer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5430706f0e0a26463d0013f9",
+               "name": "Julie Pitkanen",
+               "profile_path": null,
+               "id": 1371069,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Music",
+            "id": 10402
+         }
+      ],
+      "popularity": 2.793465,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 26477,
+      "vote_count": 15,
+      "budget": 0,
+      "overview": "Cowabunga! The surfing '60s ride into the new wave as Frankie and Annette star in this hip update of their old-time, good-time beach movies. With special appearances by Bob Denver, Tony Dow, Pee-Wee Herman, Jerry Mathers and other familiar faces. Frankie and Annette grow up and have kids in the midwest. They return to LA to visit their daughter who is shacked up with her boyfriend and tries to hide the fact. They begin to have marriage problems when Frankie runs into Connie, who has erected a shrine to him in her night club. Their punk son has joined up with the local surf toughs, and things all come to a head when the toughs challenge the good guys to a surfing duel",
+      "similar": [
+         258480,
+         27586,
+         244772,
+         401898,
+         858,
+         634,
+         3981,
+         112160,
+         437557,
+         17130,
+         43923,
+         11634,
+         141,
+         242224,
+         394117,
+         376867,
+         297762,
+         370663,
+         300667,
+         455661
+      ],
+      "original_title": "Back to the Beach",
+      "runtime": 92,
+      "poster_path": "/cCOS7yqdUkybfhPyfdVGQOk7yOc.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Español",
+            "iso_639_1": "es"
+         }
+      ],
+      "production_companies": [{
+         "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+         "name": "Paramount",
+         "id": 4,
+         "origin_country": "US"
+      }],
+      "release_date": "1987-08-07",
+      "vote_average": 5.9,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Lyndall Hobbs"],
+      "runtime": 92,
+      "synopsis": null,
+      "writers": [
+         "James Komack",
+         "Bill L. Norton"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0092608/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTQ1NTU4MjM0MV5BMl5BanBnXkFtZTcwNzEyNDYyMQ@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Frankie Avalon, Annette Funicello, Lori Loughlin | See full cast and crew »"],
+      "reviews": [
+         "If you've been to film school or honestly believe black and white film noir somehow has the edge on all other genres then cease reading and go back to your bongo, beret and pretentious clover cigarettes because you will never understand how much fun this film is. Take the icon duo of Frankie and Annette put them in a parody of their own genre add a half dozen cameos from some of the most memorable characters 60's T.V. had to offer add some great casting especially the role of Bobby (Demian Slade) and you have Back to the Beach. Frankie is an over worked car dealer Annette is an overly optimistic housewife- they opt to take a trip to Hawaii stopping along the way in L.A. to visit their eldest daughter who happens to live on the very beach they once romped as teens. Did I mention their son Bobby (an ashamed to be Frankie and Annettes son donning punk garb and attitude) tags along creating the punchiest of the punchlines and the films narration. There on the beach Frankie finds his daughter dating a surfer and an old flame \"losing\" Annette in the process while ticking off the local \"beach roughians\". The plot is great as a parody with the perfect couple playing the leads while the story plays out in old beach film fashion. It's risqué enough to keep your eyes open but innocent enough in dialogue to show a six year old. Sure the acting is over the top but didn't I mention this was a parody of the \"beach films\". Add to this a great musical score including Dick Dale and Stevie Ray Vaughn and you have not so much a great film as a very watchable/researchable one. Is it as good as say Requiem For a Dream no of course not but let me ask: how often can you really watch a man lose his arm while his girl friend reverts to public sodomy for drug money...Go for the FUN!! Go watch Back To The Beach, you won't be disappointed!!!!!",
+         "For those of us who grew up on Beach Party movies, this is a fun revisiting of the genre. Done as a combination homage/spoof to these early/mid 60's drive-in specials, the movie reunites some of the principle players and revisits the myth of California as Shangri-La. Annette, Frankie, Connie and dozens of guests in cameo roles gently rib the genre and themselves. As usual, Annette and Frankie have some difference of opinions and go off in different directions--even though they have been married for 20 years. Their plots to make each other jealous and the ultimate reconciliation are no surprise, but still make for a pleasant 90 minutes. Annette and Connie are as lovely as ever. The villains are redeemed in the end and, of course, the \"Big Kahuna\" overcomes his anxiety and wins the surfing competition(even though he has not been on a board in over 20 years)..",
+         "you'll like this movie.. It's completely non-serious. It doesn't try to BE a beach movie of the 1960's...it tries to be a silly remake. The costumes and sets are delightful - every known form of beachie cabana style is represented. Annette looks adorable in her cartoonish costumes, and is an inspiration to get out to the beach for all us \"old folks.\" The cuts with real surfing footage are enough to keep real surfers mesmerized, and the bathing suit styles are updated and sexy. What more could you want on in the background on a Saturday afternoon?",
+         "This a movie that should be taken tongue and cheek, And just enjoyed for the fun it represents and the cameos of all the baby boomer stars. the songs are fun the story is a little silly but its fun to go back and realize how silly things were when we we younger,But I must say that I tottaly enjoyed frankie and annette as well as all the other stars of the flic, I heard a rumor that there was suppose to be a sequal however thats when unfortunatly annette was stricken with M.S. and so that was that ...so follow former mouseketeers and all others get this fun movie when it finnally arives on DVD this summer and enjoy it as I will",
+         "Back to the Beach (1987) was an interesting movie that was produced during the 80's. The Big Kahuna (Frankie Avalon) is a family man now who's wife (Annette) is a preppy housewife who has a kitchen cabinet full of Skippy's peanut butter (creamy) with a 50's housewife aura. She's always smiling and just so happy. The kids are at the rebellious age and are weirded out by their strange behavior. That's until the family heads back to the beach and the kids discover their parents lively background! You can't go wrong with this movie if you're a big fan of the 60's films that starred Annette and Frankie. A true nostalgia flick filled with several older stars (The Skipper and Gilligan) and new ones (i.e. Pee-Wee Herman). What keeps this from being a real keeper is the way the film ends, but if you're a fan of the stars it wont matter. A nice reunion picture. Recommended for Beach Blanket Bingo fans. Others yield caution before viewing!",
+         "This is a great piece of retro kitsch. Frankie and Annette spoof themselves and their squeaky clean image from the 60s. Loads of inside jokes for those who love the old beach movies. Appearances by Dick Dale, Connie Stevens, OJ Simpson, and Pee Wee Herman are all top notch. This was the first PG movie I ever saw. I loved it and watched it over and over. Re-watching it for the first time in a decade revealed so many jokes I didn't get as a child. It's great, great, great!!",
+         "but very enjoyable, none the less. I'm 26 and still enjoy watching this movie. :) Seeing Annette & Frankie together is like all those 50s beach movies returned - and ya gotta love PeeWee Herman because 'the bird IS the word'! ;)",
+         "Of course this movie won't mean much to you if you don't know who Frankie and Annette and Connie Stevens are, but that makes you ignorant, that doesn't make the movie bad. I can't believe the negative comments I've been reading. This is a wonderful movie parody of the old themes of the beach movies. It has a great cast with many funny lines and a wonderful light touch that doesn't take itself too seriously and throws in bizarre touches like Pee Wee Herman appearing out of nowhere to sing \"Surfin' Bird.\" It was quite a feat for them to make funny characters out of Frankie Avalon and Annette Funicello as a middle-aged couple; they weren't exactly known for their great acting or comedy talent. Their son in the movie was one of the most enjoyable movie characters of the 1980's. Every scene in the movie brings a smile. Great Stuff.",
+         "Frankie and Annette, together again. The movie really does contain the silliness of the original beach movies. Not laugh out loud funny but smiles, chuckles and yes, the occasional groan (the good kind...). Nevermind the story, it's' light abnd totally improbable. Again, like the originals.. Look for the jokes, the spoofing of the genre and of Frankie & Annette and the cameos. I mean look at the list...Connie Stevens (more than a cameo, she again plays the \"bad girl\" that tries to lure Frankie away from Annette), Stevie Ray Vaughan (In a great duet with the King Of The Surf Guitar, Dick Dale... a rare appearance on movie screens by Stevie Ray..), Pee Wee Herman (typically goofy..), Don Adams. Edd \"Kookie\" Byrnes, Barbara Billingsly, Jerry Mathers and Tony Dow (see a theme here?), Bob Denver and Alan Hale, Jr. Great cameos, worked in in insane ways. Hey, even the band Fishbone and Annette do a song called \"Jamaican Ska\". This isn't \"Schindler's List\" here, people, it's light, silly comedy for people in light, silly moods. Worth a try is in the mood.. particularly if you have seen some of the \"Beach Blanket\" movies..",
+         "What makes Back to The Beach so enjoyable is the great cast and cameos that pepper this film. We get a followup to those old cheesy beach movies, with a Chevy Chase Vacation kinda feel. The parents are as mixed up as the teenagers and it's of course all just silly st up for some cute musical numbers. While obviously not a classic love story like Dr. Zhivago or even Sleepless in Seattle, it's just a fun kitsch filled family musical picture. How can you resist Pee Wee Herman flying above the beach doing Surfin' Bird with Fishbone, or Dick Dale rocking with Stevie Ray Vaughan? This film is meant to be enjoyed, not analyzed."
+      ],
+      "genres": [
+         "Comedy",
+         "Musical"
+      ],
+      "productionCompanies": ["Paramount Pictures"],
+      "summaries": [
+         "Frankie and Annette grow up and have kids in the midwest. They return to LA to visit their daughter who is shacked up with her boyfriend and tries to hide the fact. They begin to have marriage problems when Frankie runs into Connie, who has erected a shrine to him in her night club. Their punk son has joined up with the local surf toughs, and things all come to a head when the toughs challenge the good guys to a surfing duel.",
+         "Frankie and Annette, having grown up and put aside their beach-partying lifestyle, visit their daughter in Southern California and discover there's still some wild times left in them."
+      ],
+      "budget": 0
+   },
+   "movielensId": 4081,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1987-08-07",
+      "dvdReleaseDate": "2004-06-01",
+      "directors": ["Lyndall Hobbs"],
+      "runtime": 92,
+      "movieId": 4081,
+      "title": "Back to the Beach",
+      "mpaa": "PG",
+      "actors": [
+         "Frankie Avalon",
+         "Annette Funicello",
+         "Lori Loughlin",
+         "Tommy Hinkley",
+         "Demian Slade",
+         "Connie Stevens",
+         "Joe Holland",
+         "John Calvin",
+         "David Bowe",
+         "Laura Urstein",
+         "Linda Carol",
+         "Marjorie Gross",
+         "Jon Paul Jones",
+         "Eddie Vail",
+         "Drew Steele",
+         "Rodney Bingenheimer",
+         "Dick Dale",
+         "Stevie Ray Vaughan",
+         "Bob Denver",
+         "Alan Hale Jr.",
+         "O.J. Simpson",
+         "Paul Reubens",
+         "Don Adams"
+      ],
+      "imdbMovieId": "0092608",
+      "originalTitle": "Back to the Beach",
+      "genres": [
+         "Comedy",
+         "Music"
+      ],
+      "youtubeTrailerIds": [
+         "QXMmD1uEYGY",
+         "KyakKVH1zy4"
+      ],
+      "plotSummary": "Cowabunga! The surfing '60s ride into the new wave as Frankie and Annette star in this hip update of their old-time, good-time beach movies. With special appearances by Bob Denver, Tony Dow, Pee-Wee Herman, Jerry Mathers and other familiar faces. Frankie and Annette grow up and have kids in the midwest. They return to LA to visit their daughter who is shacked up with her boyfriend and tries to hide the fact. They begin to have marriage problems when Frankie runs into Connie, who has erected a shrine to him in her night club. Their punk son has joined up with the local surf toughs, and things all come to a head when the toughs challenge the good guys to a surfing duel",
+      "tmdbMovieId": 26477,
+      "avgRating": 2.4626,
+      "releaseYear": "1987",
+      "numRatings": 254,
+      "posterPath": "/cCOS7yqdUkybfhPyfdVGQOk7yOc.jpg"
+   }
+}

@@ -1,0 +1,644 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "chicago",
+            "id": 520
+         },
+         {
+            "name": "loss of loved one",
+            "id": 697
+         },
+         {
+            "name": "burglar",
+            "id": 1437
+         },
+         {
+            "name": "car dealer",
+            "id": 1874
+         },
+         {
+            "name": "shadowing",
+            "id": 4918
+         },
+         {
+            "name": "error",
+            "id": 4966
+         },
+         {
+            "name": "safe",
+            "id": 8430
+         },
+         {
+            "name": "idealist",
+            "id": 9031
+         },
+         {
+            "name": "thief",
+            "id": 9727
+         },
+         {
+            "name": "convict",
+            "id": 15234
+         }
+      ],
+      "imdb_id": "tt0083190",
+      "video": false,
+      "title": "Thief",
+      "recommendations": [
+         1847,
+         12143,
+         592,
+         17365,
+         11942,
+         26039,
+         25680,
+         11368,
+         12611,
+         9846,
+         5511,
+         11644,
+         45706,
+         11454,
+         16121,
+         38985,
+         1485,
+         18900,
+         934,
+         18129
+      ],
+      "backdrop_path": "/7l8ynuiZxnobSTIlNNaDG1C2f6W.jpg",
+      "revenue": 4300000,
+      "reviews": [{
+         "author": "John Chard",
+         "id": "55f51345c3a3686d0b0054a9",
+         "content": "You are making big profits from my work, my risk, my sweat. \r\n\r\nThief is written and directed by Michael Mann, who adapts the screenplay form the novel \"The Home Invaders\" written by Frank Hohimer. It stars James Caan, Tuesday Weld, Robert Prosky, James Belushi and Willie Nelson. Music is by Tangerine Dream and cinematography by Donald Thorin. \r\n\r\nFrank (Caan) is a tough ex-con and expert jewel thief. He's working his way out to a normal life, but after being lured to a big job for the mob, he finds plans on both sides severely altered. \r\n\r\nFor his first full length theatrical feature, Michael Mann announced himself to the film world with some distinction, and in the process showed everyone what style of film making makes him tick. Thief is a film of stylised grit, visually, thematically and narratively. Set and filmed in Chicago, Mann, aided by Thorin, shoots the story through pure neo-noir filters. \r\n\r\nAt nighttime it is all a beautifully neon drenched haze, where the streets shimmer with dampness, a dampness brought about by the rain and god knows what else! By day there's a sweaty hue, a feeling that the heat is well and truly on, that even in daylight Frank isn't safe, his dreams may be a touch too far to reach. And no matter what the scene or scenario, Tangerine Dream are laying over the top a throbbing pulse beat, it's like The Warriors trying to get back to Coney Island, the music has a sense of dread about it, that danger is at every corner. \r\n\r\nThis part of Chicago stinks, it's a vile and corrupt place. Dirty cops everywhere, underworld criminals ruling the roost - Hell! You can even buy a baby if you want one. Is it any wonder that Frank just wants to settle down with a wife and child, to walk barefooted in the sea, to have domesticity? But Frank, as smart, tough and savvy as he is, seems to thrive on the edge of things, with Mann giving him earthy and honest dialogue to engage us with, marking him out as an identifiable everyman protagonist who just happens to be an exceptional thief. \r\n\r\nMann's attention to detail is on show straight away, none more so than with the two key safe cracking jobs that are undertaken. Using genuine jewel thieves as technical advisers on the film, these sequences ooze realism, from the tools used, the pre-planning and the execution of the takes, it smacks of reality and does justice to the genuine feel of the characterisations brought alive by the superb cast. And finally Mann delivers a finale of ambiguity, a noir shaded piece of abruptness, an ending that perfectly fits the whole production. 9/10",
+         "url": "https://www.themoviedb.org/review/55f51345c3a3686d0b0054a9"
+      }],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Frank",
+               "gender": 2,
+               "credit_id": "52fe44529251416c7503094f",
+               "name": "James Caan",
+               "profile_path": "/g4bxNXWft1jLZX8gKk4G6ypkTUf.jpg",
+               "id": 3085,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Jessie",
+               "gender": 1,
+               "credit_id": "52fe44529251416c75030953",
+               "name": "Tuesday Weld",
+               "profile_path": "/wLVlljfTvppkfdQz9fNDizNpSuK.jpg",
+               "id": 4514,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Okla",
+               "gender": 2,
+               "credit_id": "52fe44529251416c75030957",
+               "name": "Willie Nelson",
+               "profile_path": "/7HmvoLTxsoa9VWsy8s25il0sYtF.jpg",
+               "id": 8261,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Barry",
+               "gender": 2,
+               "credit_id": "52fe44529251416c7503095b",
+               "name": "Jim Belushi",
+               "profile_path": "/AplV1ikSo3Zn93hhy5ht7Y7sQio.jpg",
+               "id": 26485,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Leo",
+               "gender": 2,
+               "credit_id": "52fe44529251416c7503095f",
+               "name": "Robert Prosky",
+               "profile_path": "/9xpt96AOur6MmLIEaYhRiCQLIOE.jpg",
+               "id": 10360,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Attaglia",
+               "gender": 2,
+               "credit_id": "52fe44529251416c75030963",
+               "name": "Tom Signorelli",
+               "profile_path": "/wq0Yk64YGgpjFS3JE68WYdbdc5C.jpg",
+               "id": 71347,
+               "order": 5
+            },
+            {
+               "cast_id": 7,
+               "character": "Carl",
+               "gender": 2,
+               "credit_id": "52fe44529251416c75030967",
+               "name": "Dennis Farina",
+               "profile_path": "/o649nAtUimSZxEV6xa5JbMSgsED.jpg",
+               "id": 1117,
+               "order": 6
+            },
+            {
+               "cast_id": 18,
+               "character": "Nick",
+               "gender": 0,
+               "credit_id": "54c252cdc3a3687c4000dd8f",
+               "name": "Nick Nickeas",
+               "profile_path": null,
+               "id": 1417446,
+               "order": 7
+            },
+            {
+               "cast_id": 19,
+               "character": "Mitch",
+               "gender": 0,
+               "credit_id": "54c252dc92514124c800367c",
+               "name": "W.R. Brown",
+               "profile_path": null,
+               "id": 1417447,
+               "order": 8
+            },
+            {
+               "cast_id": 20,
+               "character": "Guido",
+               "gender": 0,
+               "credit_id": "54c252e892514124890039c2",
+               "name": "Norm Tobin",
+               "profile_path": null,
+               "id": 1417449,
+               "order": 9
+            },
+            {
+               "cast_id": 22,
+               "character": "Boreksco",
+               "gender": 2,
+               "credit_id": "54c2530dc3a368142100fe6f",
+               "name": "Gavin MacFadyen",
+               "profile_path": null,
+               "id": 1417450,
+               "order": 11
+            },
+            {
+               "cast_id": 23,
+               "character": "Ancell",
+               "gender": 0,
+               "credit_id": "54c25318c3a368789b003bb5",
+               "name": "Chuck Adamson",
+               "profile_path": null,
+               "id": 1417451,
+               "order": 12
+            },
+            {
+               "cast_id": 24,
+               "character": "Martello",
+               "gender": 0,
+               "credit_id": "54c2532592514124ed00390e",
+               "name": "Sam Cirone",
+               "profile_path": null,
+               "id": 1417452,
+               "order": 13
+            },
+            {
+               "cast_id": 25,
+               "character": "Bukowski",
+               "gender": 0,
+               "credit_id": "54c25339c3a36878fb003515",
+               "name": "Spero Anast",
+               "profile_path": null,
+               "id": 1417453,
+               "order": 14
+            },
+            {
+               "cast_id": 26,
+               "character": "Detective D. Simpson",
+               "gender": 2,
+               "credit_id": "54c2534bc3a3687c4000dda2",
+               "name": "Walter Scott",
+               "profile_path": "/l8uXZW6xypNY7e4wd7a0HqzP6iA.jpg",
+               "id": 16474,
+               "order": 15
+            },
+            {
+               "cast_id": 27,
+               "character": "Large Detective in Suit",
+               "gender": 0,
+               "credit_id": "54c2535cc3a368792c003611",
+               "name": "Sam T. Louis",
+               "profile_path": null,
+               "id": 1417454,
+               "order": 16
+            },
+            {
+               "cast_id": 28,
+               "character": "Joseph",
+               "gender": 0,
+               "credit_id": "54c25369c3a36878d0003c0f",
+               "name": "William LaValley",
+               "profile_path": null,
+               "id": 1417455,
+               "order": 17
+            },
+            {
+               "cast_id": 29,
+               "character": "Paula",
+               "gender": 1,
+               "credit_id": "54c25374c3a3687929003d38",
+               "name": "Lora Staley",
+               "profile_path": null,
+               "id": 174860,
+               "order": 18
+            },
+            {
+               "cast_id": 30,
+               "character": "Joe Gags",
+               "gender": 0,
+               "credit_id": "54c2538292514124ed003917",
+               "name": "Hal Frank",
+               "profile_path": null,
+               "id": 1417456,
+               "order": 19
+            },
+            {
+               "cast_id": 31,
+               "character": "Mechanic #1",
+               "gender": 2,
+               "credit_id": "54c25394c3a3686c61012bd5",
+               "name": "Del Close",
+               "profile_path": "/ytobsRhuhXi8ZRf61PHcfMb7cSs.jpg",
+               "id": 119230,
+               "order": 20
+            },
+            {
+               "cast_id": 32,
+               "character": "Mechanic #2",
+               "gender": 0,
+               "credit_id": "54c253a1c3a368789b003bc3",
+               "name": "Bruce A. Young",
+               "profile_path": "/ty2NwUAAwnn356eTAu7RuSsQlhT.jpg",
+               "id": 4943,
+               "order": 21
+            },
+            {
+               "cast_id": 33,
+               "character": "Mechanic #3",
+               "gender": 2,
+               "credit_id": "54c253af9251416eae00c79f",
+               "name": "John Kapelos",
+               "profile_path": "/5s1r2lu8l1iODlmCf75hBhtxBoU.jpg",
+               "id": 55554,
+               "order": 22
+            },
+            {
+               "cast_id": 34,
+               "character": "Bartender at Green Mill",
+               "gender": 2,
+               "credit_id": "54c253c3c3a36878d0003c19",
+               "name": "Mike Genovese",
+               "profile_path": "/iXCQmaJRI17bfNoCsDzr1yaJ4CO.jpg",
+               "id": 86499,
+               "order": 23
+            },
+            {
+               "cast_id": 17,
+               "character": "Katz & Jammer Bartender",
+               "gender": 2,
+               "credit_id": "52fe44529251416c7503099b",
+               "name": "William Petersen",
+               "profile_path": "/mDVOf1CQaynoIUtREJUfJzzVViD.jpg",
+               "id": 52267,
+               "order": 24
+            },
+            {
+               "cast_id": 41,
+               "character": "Ruthie",
+               "gender": 0,
+               "credit_id": "54f7837ec3a36833bb0029eb",
+               "name": "Karen Berger",
+               "profile_path": null,
+               "id": 1435021,
+               "order": 25
+            },
+            {
+               "cast_id": 42,
+               "character": "Urizzi",
+               "gender": 0,
+               "credit_id": "551d2a2c9251416a23002a04",
+               "name": "John Santucci",
+               "profile_path": "/bghYzJ3w3R0egm1Yzy9XWlEGTDz.jpg",
+               "id": 1218533,
+               "order": 26
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe44529251416c7503096d",
+               "name": "Michael Mann",
+               "profile_path": "/nKmUpRpuQIsYubR7vIxVKhkbaTW.jpg",
+               "id": 638,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44529251416c75030973",
+               "name": "Michael Mann",
+               "profile_path": "/nKmUpRpuQIsYubR7vIxVKhkbaTW.jpg",
+               "id": 638,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44529251416c75030979",
+               "name": "Michael Mann",
+               "profile_path": "/nKmUpRpuQIsYubR7vIxVKhkbaTW.jpg",
+               "id": 638,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44529251416c7503097f",
+               "name": "Frank Hohimer",
+               "profile_path": null,
+               "id": 71348,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44529251416c75030985",
+               "name": "Jerry Bruckheimer",
+               "profile_path": "/lQu9eRzRX264j2LFQwvKC50wb9s.jpg",
+               "id": 770,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44529251416c7503098b",
+               "name": "Ronnie Caan",
+               "profile_path": null,
+               "id": 71349,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44529251416c75030991",
+               "name": "Donald E. Thorin",
+               "profile_path": null,
+               "id": 6490,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44529251416c75030997",
+               "name": "Dov Hoenig",
+               "profile_path": null,
+               "id": 15842,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54c253fb9251412446003905",
+               "name": "Richard Brams",
+               "profile_path": null,
+               "id": 1227929,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54c254089251416e6000d173",
+               "name": "Tangerine Dream",
+               "profile_path": null,
+               "id": 942947,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54c25420c3a3687c4000ddbf",
+               "name": "Vic Ramos",
+               "profile_path": null,
+               "id": 3176,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54c2542cc3a368142100fe8e",
+               "name": "Mel Bourne",
+               "profile_path": null,
+               "id": 10441,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54c2543892514124c800369a",
+               "name": "Mary Dodson",
+               "profile_path": null,
+               "id": 1417458,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54c2551892514124ed003945",
+               "name": "Michael Mann",
+               "profile_path": "/nKmUpRpuQIsYubR7vIxVKhkbaTW.jpg",
+               "id": 638,
+               "department": "Writing",
+               "job": "Screenstory"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Crime",
+            "id": 80
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 11.214991,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 11524,
+      "vote_count": 167,
+      "budget": 0,
+      "overview": "Frank is an expert professional safecracker, specialized in high-profile diamond heists. He plans to use his ill-gotten income to retire from crime and build a nice life for himself complete with a home, wife and kids. To accelerate the process, he signs on with a top gangster for a big score.",
+      "similar": [
+         9654,
+         891,
+         4547,
+         745,
+         1562,
+         1374,
+         334,
+         335,
+         637,
+         675,
+         744,
+         425,
+         380,
+         10795,
+         1844,
+         269,
+         903,
+         9963,
+         11660,
+         6023
+      ],
+      "original_title": "Thief",
+      "runtime": 122,
+      "poster_path": "/d7Hr3bL54fQWHivuOpbRP8FWaft.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "Mann/Caan Productions",
+         "id": 20042,
+         "origin_country": ""
+      }],
+      "release_date": "1981-03-27",
+      "vote_average": 7.2,
+      "belongs_to_collection": null,
+      "tagline": "Tonight, his take home pay is $410,000... tax free.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Michael Mann"],
+      "runtime": 122,
+      "synopsis": null,
+      "writers": [
+         "Frank Hohimer",
+         "Michael Mann"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0083190/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTU0NTU2NTc4MV5BMl5BanBnXkFtZTcwOTU5MDQ3NA@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: James Caan, Tuesday Weld, Willie Nelson | See full cast and crew »"],
+      "reviews": [
+         "'Thief' is one of the most underrated movies of the 1980s, if not of all time. Made in the early 80s by TV veteran Michael Mann, and co-produced by the future \"king\" of action blockbusters Jerry Bruckheimer, this movie can almost be seen as the transition from 1970s character based crime DRAMA to 1980s flashy but brainless 1980s crime ACTION. In that sense 'Thief' is the last great 1970s movie of the 1980s. Mann made at least two great movies after this ('Manhunter' and 'Heat'), but I still think it is is his best and most satisfying work. James Caan believes that the movie contains his finest performance and I'm inclined to agree with him. Caan is dynamite throughout. He oozes charisma and is impossible to take your eyes off, but also gives a subtle and complex performance. The film works both as an exciting caper movie, and as a human drama. In many ways it is the best crime film to pull that off since Dassin's 'Rififi' in the mid 1950s. Cann is helped by a superb supporting cast, who on the surface may seem a motley bunch, but all are very good - Tuesday Weld ('Who'll Stop The Rain'), Jim Belushi (his movie debut), a memorable cameo from country legend Willie Nelson, and especially a fantastic turn from Robert Prosky. Prosky is probably best known to most viewers as the kindly father-figure he played in 'Hill Street Blues'. His turn here as a ruthless gangster is a complete eye opener! Prosky delivers one of the most vicious lines ever heard in a movie, which is a bit too extreme for me to quote here, but believe me, you will never forget it when you hear it! Many people seem to find Tangerine Dream's dated synth score to be extremely irritating but I actually enjoyed it and thought it helped build the mood. 'Thief' is a hardboiled crime classic and is highly recommended to any fan of the genre, especially those made in the 1970s. It is wildly underrated and deserves to be rediscovered by a larger audience. 'Thief' is simply one of THE great \"lost\" classics of the last thirty years.",
+         "Saw this in the theater at it's release. Went back the next weekend and scenes were cut. They remain cut in every version I've seen since. Frank snaps chalk lines off traces of blueprints onto the safe face in the opening heist. Guess the crime commission didn't dig that, 'cause that 5 seconds is history in every cut I've seen since. How do the boys and their gear get up on the roof of the bank building? Rocket assisted grappling hook mortars firing mountain lines and Jumar ascenders from the parking lot. You won't see that scene anymore, either. Man, I miss the Corned Beefs at the Belden Deli on Clark where Frank hands the stones to Gags. Long gone. But if you are in Chicago, stop in early at the Green Mill and you might be able to have a drink in that big, round wood booth - still there. Great gun & car flick. Frank's .45 looks like a Bomar Svenson custom combat, tremendous. Watch for the High Standard 12 guage stakeout special at the end - very rare. Take a drive up north on Western Avenue to check out all the used car lots - still there. Great locations. Yup, the creme was ALWAYS cottage cheese at the old Oasis restuarants. Yuch! You know - Tuesday Weld actually even ACTS a little in this movie, amazing. Man that was a gorgeous house in my old neighborhood and yes they blew it up. Notice when they are snuggling on the outdoor patio - it had a two-sided fireplace - indoor and outdoor. Probably the best Chicago movie ever. The phone book and trash can - time honored tools of the early 80's. When I saw it opening night the theater was filled with every crook and detective on the north side with their wives. And everybody just nodded to each other on the way out. Those days are gone but not forgotten. Great, great flick. Cool TD soundtrack album, too. Also probably the best metallurgical movie ever. I want Frank's coat.",
+         "Even though this film was made only a little over two decades ago, I consider it a film-noir classic! James Caan said once that this was the film he was in that he was proudest of next to The Godfather. I remember that Roger Ebert and Gene Siskel said this was one of the finest films of 1981. Caan is wonderful in a role that he was born to play, a tough guy with his heart on his sleeve. Everything about this film is wonderful from the musical score by Tangerine Dream to the dark lighting effects to the authentic detail about the life of a thief ( I read that Michael Mann actually used real life thieves as technical advisors to this film!). Even though Caan's character is an anti-hero, you have to feel sorry for him because he is caught in a situation where there is no way out! The best scene in the film is where he tells Tuesday Weld about his prison experiences and shows here the picture cut out that he has made of his American dream. Jimmy Caan is truly awesome, he is the only actor that ever made me cry (in Brian's Song) I also wanted to mention another great character actor who is in the film. His name is Robert Prosky and he plays the mob boss who uses Caan. This was his film debut after many years as a stage actor and he is terrific. Watch the scene in the acid plant where he threatens Caan. He is really chilling! Michael Mann created Crime Story and Miami Vice and he also directed Manhunter, but lets not forget this film as well.",
+         "\"Thief\" may fool some viewers into overlooking just how intelligently made it is, mainly because of how dated it initially appears. Its full of quick cuts, a pounding Tangerine Dream score, and flashy cars and clothing. Knowing that Michael Mann later made \"Miami Vice\", one may fear this will resemble a feature-length episode of that show. Fortunately, one realizes quickly that this is a really quality product. Its dated elements can't really be held against the filmmakers, and considering that \"Scarface\" was still two years away, this style could be considered a bit ahead of its time. The screenplay is just so powerful and well developed that it overcomes its limitations quickly. Mann is well known for making smart, character-driven action films, and \"Thief\" is no exception. This ranks with \"Manhunter\" as his finest achievement in my mind. As good as the direction and script are, what really makes the film is James Caan. Caan has always been a criminally underrated performer, and as a strangely moral thief who wants to leave the business, he's never been better. He infuses a good deal of nuance and subtlety into the performance that only reveals itself with repeated viewings. Its proof that the man is as good as either DeNiro or Pacino. Tuesday Weld is also fantastic, offering possibly her finest performance (and she still looks terrific fifteen years after her peak of stardom). Even Willie Nelson and James Belushi give good portrayals. \"Thief\" is a really fantastic hardboiled crime thriller that appears a bit dated but ends up being as potent as ever. (8/10)",
+         "Thief(1981) contains the best performance of James Caan as a professional thief in a rare leading role. He is complex and three deminsional as the protagonist, Frank. Thief(1981) is similar in many ideas to the Dustin Hoffman film, Straight Time(1977). One of the best directorial debut as Michael Mann gives a realistic portrayal of the hardships in being a professional thief. The movie does a good job in showing the corruption that Frank has to go against. Its much better than Heat(1995) because it focuses on one person instead of trying to interweave in confusing detail the lives of two people who are opposite in job but the same in spirit. Willie Nelson is terrific in the small of of Frank's mentor, Okla. Robert Prosky is impressive as the father like crime boss, Leo. The heist scenes are the highlight of the film. Thief(1981) has to be one of the best movies to come out during the 1980s and is definitely the director's top film.",
+         "This is one of the few Michael Mann films I can stand to watch. Caan is at his absolute peak here, with his intensity just blazing off the screen. The supporting cast is excellent, the edits are perfect, everything just clicks. As has been noted by other reviewers, the technical aspects of this film are right on the money. All the locations are really there (or were at one time) and the settings didn't have to be faked up. Yes, Chicago and surrounding Chicagoland is really like this, folks. I try to watch this thing every few years. Should buy a DVD, I guess, and insert it into my permanent circular film buffer. Highly, highly recommended.",
+         "The movie that started his career and what a way to start. Realism is played out to the hilt and nothing is left to chance with this brilliant book to movie adaptation. James Caan is at the top of his game and wows you. Caan is Frank, a professional safe-cracker who is successful and single. After pulling a heist, he finds himself in a unique position. A powerful boss offers Frank phenomenal jobs and a huge cut of the action if he will work for him and for him exclusively. Frank is impressed by his stature and agrees. However, the local crooked cops turn up the heat on Frank and want in. And Frank's new crime family wants more than his services. So Frank is forced to fight back and prove he is not only the best thief but the toughest crook in Chicago. The supporting cast was hand picked and it's easy to tell. I never thought I would hear myself say this but Willie Nelson does a fine job acting at least in this. Same goes, of course, to Jim Belushi. I have surprised myself twice in two sentences. James Caan really convinces you he is the real deal and it's the role of a lifetime. His acting is second to none and perhaps the best of the three signature Michael Mann anti-heroes. What surprised me the most about this movie was not just the realism of it but that the love interest side of the story was convincing as well. That came as quite a shock to this viewer. He does love and care for his wife and she loves him without reservation. It makes the ending all the more tragic. This film needs to be viewed by anyone who enjoys crime films, mob films, or Mann films. My favorite movie of 1981.",
+         "Thief, made way back in 1981, was Michael Mann's directorial debut and it is a fascinating heist film that has a lot more to it than you might think. Sure, it is a movie about a professional jewel thief, and there are extended sequences throughout the film depicting his expertise; however, I think the core of this movie is about relationships. It's about the type of relationships a person needs to have in order to live a rewarding life. James Caan stars as the expert thief named Frank. Caan gives a remarkable performance in the title role creating a multi-layered character that is rarely seen in these types of movies. The movie shows us just how good Frank is at his job in the opening scene by showing him cracking a safe with tremendous ease. However, after he finishes the job, we see that there is more to Frank than just a jewel thief. He owns a car dealership and a restaurant, and he also makes a promise to break his mentor and father figure, Okla (Willie Nelson), out of prison. But to complete the picture, Frank needs a woman. In the memorable diner sequence, Frank opens his heart to a virtual stranger (Tuesday Weld) and they eventually get married. Frank needs these relationships to be able to move on from his passion for theft and live a controlled, settled-down life style. In order to be able to retire much sooner, Frank sets up one more job with a powerful crime boss named Leo (Robert Prosky). Leo appears to be nice on the outside and tries to take Frank under his wing, but when Frank stays true to his desire of getting in and getting out, things take a turn for the worse. This is a rare thriller film that has a lot of character development and also retains a fast pace throughout. From the great performances to the breathtaking score by Tangerine Dream, this is a film that is full of Mann trademarks from start to finish. It is one of his best works to date that is even good enough to draw inevitable comparisons to his future films such as Heat, Manhunter, and Public Enemies. The only thing that disappointed me in this film was the ending. While I applaud the film for not choosing to travel the \"happily ever after\" route, I still don't think the movie ended on quite the right note. Even though the final sequence is a heart-pounding sequence of cat and mouse, I'm not sure it did justice to the relationships and the development that Frank's character made and experienced throughout the film. This is a film that was not initially successful in commercial terms, but as Mann's name has turned into one that is synonymous with crime sagas, the film's popularity has increased since its initial theatrical release. A lot of that is due to the performance of James Caan, which is as good as anything he has ever done. He creates, in my opinion, one of the best characters ever to be featured in a Mann film. The movie is so smart and professionally made that it is definitely a film that anyone would enjoy. Ranking among Mann's best all-time work, Thief is a mesmerizing entry in the crime genre.",
+         "Don't you hate films where the technically impossible (or ludicrous) is offered up for your consumption by directors too lazy to do research? You know the movies I'm talking about...conspiracy buffs remotely tap into cameras that aren't even connected to a WAN, fixed video cameras automatically pan and tilt to follow the action, computer viruses easily jump from operating system to operating system, visible pencil-thin laser beams in place of photoelectric detection systems, and so forth, and so on... Part of my job is to design security and surveillance systems. In fact, I even teach courses on alarm system history and the fundamentals of alarm systems. So take it from me, this film is about as accurate as it gets. ******MINOR SPOILERS!******** Take, for example, the scene where Jim Belushi is bypassing the local alarm system(s) during the first heist. The method he is using to bypass a Direct Wire alarm monitoring circuit is absolutely correct, as are the readings on the ammeter dials. It is essential that they balance the monitoring circuit to within +/- 3 mA of current in order to keep the Central Station from responding. The fact that the local alarm system has no sounder is also accurate and typical for that time and place. The method of differentiating between alarm circuits and normal POTS (plain old telephone service) lines in the final score is also dead-on, including the voltages they measure and their significance. The cable construction is slightly wrong, but this does not make any significant difference in the overall method they employ. ******END SPOILERS!******* Are there flaws? Certainly, but this is still a vast improvement over previous attempts to depict an actual big-time heist. And as for some of the other reviewers' comments....well, I don't know how you get elevator cars with hydraulic systems into a shaft nowadays, but I know that you used to put them in from the roof through an opening at the top of the elevator shaft. Then you built a little structure or penthouse that could be easily removed if you needed to bring in a lift or crane to do some heavy repair work. **** out of *****",
+         "THIEF (1981) *** James Caan, Tuesday Weld, Willie Nelson, James Belushi, Robert Prosky. Michael Mann's atmospheric and realistic profile of a seasoned professional thief (Caan in a brilliant turn) out for one lucrative score with a dream to lead a normal life with some dire circumstances standing in the way. Great production design and waycool score by Tangerine Dream. Excellent photography and a genuine storyline since copied to death. A small gem of a film. Noteworthy: look quick for Dennis Farina and John Santucci who would star in Mann's tv series \"Crime Story' and William L. Petersen as a bar room bouncer who'd collaborate with Mann in 'Manhunter\"."
+      ],
+      "genres": [
+         "Action",
+         "Crime",
+         "Drama",
+         "Thriller"
+      ],
+      "productionCompanies": ["Mann/Caan Productions"],
+      "summaries": [
+         "Frank is an expert professional safecracker, specializing in high-profile diamond jobs. After having spent many years in prison, he has a very concrete picture of what he wants out of life--including a nice home, a wife, and kids. As soon as he is able to assemble the pieces of this collage, by means of his chosen profession, he intends to retire and become a model citizen. In an effort to accelerate this process, he signs on to take down a huge score for a big-time gangster. Unfortunately, Frank's obsession for his version of the American Dream allows him to overlook his natural wariness and mistrust, when making the deal for his final job. He is thus ensnared and robbed of his freedom, his independence, and, ultimately, his dream.",
+         "Frank is the owner of the Rocket used car dealership and the Green Mill cocktail lounge. These businesses, however, are just a front for how he makes most of his money, which is through high stakes jewelry heists. He has a small, dedicated team, but he insists everything in his life, including the capers, be done on his own terms, often bucking criminal convention. He wants to make enough money to get out of the life so that he can settle down into what he considers normalcy with his new wife, Jessie. Believing he can achieve that goal immediately through this offer, he reluctantly agrees to do one last jewelry heist for Leo, a high level fence. That reluctance is primarily because he can't be his own boss and doesn't want Leo's criminal ego and high profile to interfere with the actual business of robbing and fencing the merchandise. Beyond the complexities of the job itself, Frank has added pressure in doing the job right. These pressures include: trying to eke out a regular life with Jessie, the two who want to adopt a baby; trying to get the release from prison of his ailing friend and mentor Okla, who doesn't want to die in prison; and dealing with a bunch of crooked cops on the take, who know that Frank is up to something big that they want their cut from for looking the other way. Leo tries to help Frank out with many of these matters, but Frank is unaware of at what cost.",
+         "A highly skilled jewel thief operates a resturaunt and a car dealership as covers for his illicitly-gained income. He falls for a woman he meets out on the town and gets hired by the local godfather to pull a few heists. In return, the mob arranges a steady flow of cash and a black-market adoption for Frank and his girlfriend. When Frank tries to quit the mob, various bad things happen to illustrate the point that he can't quit.",
+         "Becoming closer to his dream of leading a normal life, a professional safecracker agrees to do a job for the mafia, who have other plans for him."
+      ],
+      "budget": 0
+   },
+   "movielensId": 5867,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1981-03-27",
+      "dvdReleaseDate": "1998-06-30",
+      "directors": ["Michael Mann"],
+      "runtime": 122,
+      "movieId": 5867,
+      "title": "Thief",
+      "mpaa": "R",
+      "actors": [
+         "James Caan",
+         "Tuesday Weld",
+         "Willie Nelson",
+         "Jim Belushi",
+         "Robert Prosky",
+         "Tom Signorelli",
+         "Dennis Farina",
+         "Nick Nickeas",
+         "W.R. Brown",
+         "Norm Tobin",
+         "Gavin MacFadyen",
+         "Chuck Adamson",
+         "Sam Cirone",
+         "Spero Anast",
+         "Walter Scott",
+         "Sam T. Louis",
+         "William LaValley",
+         "Lora Staley",
+         "Hal Frank",
+         "Del Close",
+         "Bruce A. Young",
+         "John Kapelos",
+         "Mike Genovese",
+         "William Petersen",
+         "Karen Berger",
+         "John Santucci"
+      ],
+      "imdbMovieId": "0083190",
+      "originalTitle": "Thief",
+      "genres": [
+         "Action",
+         "Crime",
+         "Drama",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": [
+         "keET6waBJHk",
+         "oMJmMymcMUg",
+         "J0CJ7_VtrNU",
+         "ZIuyAQm5vtY",
+         "Oigz8RvKt9A",
+         "vkydz8tyWqA"
+      ],
+      "plotSummary": "Frank is an expert professional safecracker, specialized in high-profile diamond heists. He plans to use his ill-gotten income to retire from crime and build a nice life for himself complete with a home, wife and kids. To accelerate the process, he signs on with a top gangster for a big score.",
+      "tmdbMovieId": 11524,
+      "avgRating": 3.66473,
+      "releaseYear": "1981",
+      "numRatings": 516,
+      "posterPath": "/d7Hr3bL54fQWHivuOpbRP8FWaft.jpg"
+   }
+}

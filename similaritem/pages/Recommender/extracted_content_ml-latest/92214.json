@@ -1,0 +1,533 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [{
+         "name": "capsized ship",
+         "id": 155530
+      }],
+      "imdb_id": "tt0419358",
+      "video": false,
+      "title": "The Poseidon Adventure",
+      "recommendations": [
+         28473,
+         71728,
+         210599,
+         36213,
+         48345,
+         26289,
+         41263,
+         55699,
+         15910,
+         257001,
+         27549,
+         42903,
+         24585,
+         13723,
+         52941,
+         26477,
+         10616,
+         35669,
+         30718,
+         43913
+      ],
+      "backdrop_path": "/gsO4x77viOTIDMXkgLirZ0GnhOL.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Mike Rogo",
+               "gender": 2,
+               "credit_id": "52fe459dc3a368484e0652dd",
+               "name": "Adam Baldwin",
+               "profile_path": "/vhZ8AD36h09mBLuyIXboglRLgIu.jpg",
+               "id": 2059,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Bishop August Schmidt",
+               "gender": 2,
+               "credit_id": "52fe459dc3a368484e0652e1",
+               "name": "Rutger Hauer",
+               "profile_path": "/2x1S2VAUvZXZuDjZ4E9iEKINvNu.jpg",
+               "id": 585,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Richard Clarke",
+               "gender": 2,
+               "credit_id": "52fe459dc3a368484e0652e5",
+               "name": "Steve Guttenberg",
+               "profile_path": "/utLqKSEN9TX3EniBlX4BpytDunB.jpg",
+               "id": 26472,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Jeffrey Eric Anderson",
+               "gender": 2,
+               "credit_id": "52fe459dc3a368484e0652e9",
+               "name": "Bryan Brown",
+               "profile_path": "/dwhct5TthRMhCi77hXzHO0NBDdX.jpg",
+               "id": 29092,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Doctor Ballard",
+               "gender": 2,
+               "credit_id": "52fe459dc3a368484e0652ed",
+               "name": "C. Thomas Howell",
+               "profile_path": "/8PFMkxOnn1JEKwd0nlbBuZfS7Sf.jpg",
+               "id": 2878,
+               "order": 4
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "535a11b1c3a3684780000f8e",
+               "name": "John Putch",
+               "profile_path": "/9JBDOLXqdJiAvUOU0fO5bWnk292.jpg",
+               "id": 21475,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56548022c3a3683ab60006d4",
+               "name": "Bryce Zabel",
+               "profile_path": null,
+               "id": 133118,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56548037c3a3683ab60006d8",
+               "name": "Paul Gallico",
+               "profile_path": null,
+               "id": 6855,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5654808a925141701e004309",
+               "name": "Jon Brown",
+               "profile_path": null,
+               "id": 1540355,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "565480b6925141702500405b",
+               "name": "Lincoln Lageson",
+               "profile_path": null,
+               "id": 136555,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "565480cec3a3683ab60006f3",
+               "name": "Randy Pope",
+               "profile_path": null,
+               "id": 136556,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "565480f5c3a36850fc003f5d",
+               "name": "Joe Kraemer",
+               "profile_path": "/1XyPtntk2g4H2yI4it3AN6yNHot.jpg",
+               "id": 62580,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56548107925141701000419d",
+               "name": "Ross Berryman",
+               "profile_path": null,
+               "id": 21482,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56548119c3a36850fc003f64",
+               "name": "Jennifer Jean Cacavas",
+               "profile_path": null,
+               "id": 29939,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5654812c925141701e004321",
+               "name": "Gillian Hawser",
+               "profile_path": null,
+               "id": 29940,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5654813dc3a36850f60042f5",
+               "name": "Matthew Lessall",
+               "profile_path": null,
+               "id": 29941,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "565481579251417019004317",
+               "name": "Jonathan A. Carlson",
+               "profile_path": null,
+               "id": 29943,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "565481699251417025004071",
+               "name": "Tom Hannam",
+               "profile_path": null,
+               "id": 19691,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5654817b925141701e00432b",
+               "name": "Leon van der Merwe",
+               "profile_path": null,
+               "id": 1323126,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "565481cc925141701b0040b7",
+               "name": "Louise Martin",
+               "profile_path": null,
+               "id": 1540357,
+               "department": "Art",
+               "job": "Art Department Coordinator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "565481e8c3a36850fa004ae8",
+               "name": "Clive Pollick",
+               "profile_path": null,
+               "id": 1393286,
+               "department": "Art",
+               "job": "Construction Coordinator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "565481fe92514170100041c2",
+               "name": "Cordell McQueen",
+               "profile_path": null,
+               "id": 1053407,
+               "department": "Crew",
+               "job": "Special Effects Coordinator"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56548224c3a3685100004931",
+               "name": "Jeanny Lee",
+               "profile_path": null,
+               "id": 1540348,
+               "department": "Visual Effects",
+               "job": "Visual Effects Coordinator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56548239c3a36850f30044ce",
+               "name": "Patrick Murphy",
+               "profile_path": null,
+               "id": 1539763,
+               "department": "Visual Effects",
+               "job": "Visual Effects Coordinator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56548252925141701e004349",
+               "name": "Erick Geisler",
+               "profile_path": null,
+               "id": 1391693,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5654826ec3a3685100004942",
+               "name": "Jan Vseticek",
+               "profile_path": null,
+               "id": 1539796,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56548283c3a36850f30044e2",
+               "name": "Alison Savitch",
+               "profile_path": null,
+               "id": 57260,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "565482acc3a36850f0003f48",
+               "name": "Bonnie Lee Bouman",
+               "profile_path": "/dy1FVImXpQIRFgxzlOItBHBFl8q.jpg",
+               "id": 1074626,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "565482bfc3a36850fc003fa9",
+               "name": "Janet Meintjies",
+               "profile_path": null,
+               "id": 1012658,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "565482d1c3a3685100004958",
+               "name": "Lynn Reinstein",
+               "profile_path": null,
+               "id": 1203873,
+               "department": "Production",
+               "job": "Casting Associate"
+            },
+            {
+               "gender": 0,
+               "credit_id": "565482e7925141701900436a",
+               "name": "Dihantus Engelbrecht",
+               "profile_path": null,
+               "id": 1323370,
+               "department": "Costume & Make-Up",
+               "job": "Assistant Costume Designer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "565482fcc3a3685100004961",
+               "name": "Ashlyn Angel",
+               "profile_path": null,
+               "id": 1097001,
+               "department": "Costume & Make-Up",
+               "job": "Set Costumer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56548310c3a36850f0003f5d",
+               "name": "Susan Barras",
+               "profile_path": null,
+               "id": 1420844,
+               "department": "Costume & Make-Up",
+               "job": "Set Costumer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56548345925141701300445d",
+               "name": "Lance Peters",
+               "profile_path": null,
+               "id": 1539775,
+               "department": "Crew",
+               "job": "Armorer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56548390c3a36850f300450b",
+               "name": "Ali Reyes",
+               "profile_path": null,
+               "id": 1540359,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "565483a4c3a3683ab600077c",
+               "name": "Colin Polson",
+               "profile_path": null,
+               "id": 1540360,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Department Head"
+            },
+            {
+               "gender": 2,
+               "credit_id": "565483bc925141701e00438c",
+               "name": "Michael Spezzano",
+               "profile_path": null,
+               "id": 1540361,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 1,
+               "credit_id": "597dfecac3a3685440018d9b",
+               "name": "Diana Cilliers",
+               "profile_path": null,
+               "id": 19692,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "597e06e89251415db101a45b",
+               "name": "Mary Church",
+               "profile_path": null,
+               "id": 949073,
+               "department": "Production",
+               "job": "Producer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         },
+         {
+            "name": "Action",
+            "id": 28
+         }
+      ],
+      "popularity": 5.506595,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 28512,
+      "vote_count": 29,
+      "budget": 0,
+      "overview": "A cruise ship succumbs to a terrorist act and capsizes on New Year's eve. A rag-tag group of survivors, spearheaded by a priest and a homeland security agent, must journey through the upside down vessel and attempt an escape.",
+      "similar": [
+         503,
+         551,
+         178,
+         31638
+      ],
+      "original_title": "The Poseidon Adventure",
+      "runtime": 173,
+      "poster_path": "/A0D2rFaSrAKiAO7OGww2DgmrDYz.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Silverstar Ltd.",
+            "id": 6355,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Larry Levinson Productions",
+            "id": 3282,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2005-11-20",
+      "vote_average": 4.5,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": "http://www.echobridgehe.com",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["John Putch"],
+      "runtime": 174,
+      "synopsis": null,
+      "writers": [
+         "Paul Gallico",
+         "Bryce Zabel"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0419358/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTI0MTY2MTM1OF5BMl5BanBnXkFtZTcwNDAyODA0MQ@@._V1_SY317_CR6,0,214,317_AL_.jpg",
+      "actors": ["Stars: Adam Baldwin, Rutger Hauer, Steve Guttenberg | See full cast and crew »"],
+      "reviews": [
+         "There's little sense in \"reviewing\" something so devoid of logic, appeal, captivation, construction or even suspense, so instead a few of the many mistakes in attempting to remake the memorable 1972 feature film will be listed. ~~The insertion of a terrorist plot. All this did was prolong the capsizement, add characters no one cares about and feebly try to appear timely when actually the full force of nature has proved to the world to be plenty to deal with! ~~The removal of a strong leading character and his antagonist. Half the suspense of the original was wondering if the survivors were doing the right thing and they often fought about it in between climbing and trying to stay alive. No one really seems in charge here. ~~The complete stripping of any Biblical symbolism, which added a subtle gravity to the original as the characters followed their leader, sometimes with great sacrifice. The book gave Reverend Scott twelve followers. This thing doesn't even have Rev. Scott! ~~The omission of the most popular character among die-hard fans -- Linda Rogo. She provided sass and comic relief throughout the suspenseful original. She's scarcely even mentioned here. Also, the removal of Manny Rosen lessens the interest and the meaning of Belle Rosen's character despite endless references to him. ~~The absence of great music, which enhanced the original tremendously. ~~The lack of urgency. The original survivors could only barely keep ahead of the water pouring in. Here, the ballroom survivors stay alive much longer and most characters hardly get wet at all! Except for Belle, no one of any importance is killed. Only the non-name performers die and their deaths are telegraphed to where a six year-old could see them coming. It was never a \"given\" in the original that there would even be a rescue as there is here with all the endless naval sequences. ~~One of the key sequences of the original film, Belle's swim and heart attack, is so poorly handled as to be laughable. There's no discussion beforehand, no need for her to go first and no benefit from it, since the priest swims right beside her all the way. The whole point was that no one was sure it could be done. Since the priest kept up with her, he obviously could have done it alone first! These are only a few of the major points. In addition, there are countless inanities and confounding changes which do nothing to enhance the story. The capsizement no longer takes place at midnight and no further reference is made to a new year. Why? Was it so wrong to have the explosion happen at 12:00? Part of the drama was that everyone went from so jubilant to so terrified within minutes! A singer preposterously strips off her dress at the drop of a hat in order to provide masks for people, yet Mrs. Rosen has a large flowy jacket that could have easily done (for three times as many people!) This film asks the audience to believe that a teen girl can follow instructions left by a Sharpie marker on the walls and ceilings of an overturned liner. Additionally, a teen boy films everything with a video recorder even when death is at hand. He never once wonders where his father is, but just keeps taping everything. Ridiculous. The film provides a massive insult to professional massage therapists as a female one practically has her left breast exposed during a session and proceeds to flirt with and eventually sleep with the married client. The characters are practically bereft of engrossing traits or texture. They don't even get to the point of stereotypes. They're merely props! Is anything good? The overturning sequences aren't bad, actually, and this time the viewer gets to see other areas of the ship such as the kitchen and (ridiculously) a bedroom with a copulating couple in it. Also, the sets tend to be fairly decent throughout. Otherwise, it's a pretty dire affair. Several of the actors (Hauer, Brown, Van Wyk, Hamilton) attempt to inject some presence into their nondescript roles. Most of them are wasting their time and get no thanks for their efforts. Time and gravity have been very cruel to several of the people on hand here (Guttenberg, Weller, Howell and Syms) and it's depressing to see them wallowing in such a poorly conceived project. It was a pointless idea to begin with. The producers should have just made up their own story and left the name Poseidon out of it. One can only hope that Wolfgang Peterson, director of the upcoming feature remake (!) learned something from this futile mess. It should be noted that this was originally a FOUR HOUR mini-series and so a great deal of character development was cut out to make it a three hour movie. they should have trimmed down the rescue and government scenes and left the emphasis on the ship, where it always should have been! Lastly, 5 out of the original's 10 primary cast members were Oscar-winning actors. With talent like that you can rely on the performers to fill in the blanks. Unfortunately, most of the people in this would be lucky to work as a seat-filler at the Academy Awards ceremony.",
+         "I am a huge fan of the original 1972 classic......They ruined, butchered the original. How this ever got approved is beyond me? They should of retitled this \"The Love Boat: The Sinking\"......I mean that is what I felt like I was watching. You get a bunch of actors that should of put on The Surreal Life and put them in this......There is nothing about this remake that even comes close to the original. The whole entire movie was rewritten......Not even a tidal wave, guys come on.......Oh and the terrorist plot how genius....NOT!! This piece of garbage is laughable and a disgrace......I would rather sit and watch Barney by myself for two hours! I have never seen a worse remake of a movie. The remake of Carrie came close but this takes the cake!!!! This is S.S. Disaster!!!!! Way to go!!!",
+         "A clarification: Another commenter seems concerned that people should not be allowed to comment on how the film compares to the original. Let me make this clear: This telemovie is dreadful on it's own terms. Some might find it regrettable that it associates itself with the earlier '70's movie, but it is poorly executed regardless of that fact. Still there is nothing wrong with drawing legitimate comparisons for the purpose of highlighting some of the many weaknesses in this new version. I also wonder whether those who rated this movie as 10 stars honestly believe that it deserves such a rating, and if so, what kind of rating they would give to a even a reasonably well-regarded film let alone the truly great films. I saw the original Poseidon Adventure as a 12 year old, so I am conscious of the fact that there may well be young kids out there today who will see this with fresh young eyes and enjoy it, perhaps even as much as I did the original. Having said that, this TV movie sunk to new depths of \"bad\", perhaps even plunging to \"evil\", in some respects. One of the more amusing goofs in this TV movie is that most of the cast still had their eventual fate clearly written on their foreheads with magic markers (\"dies early\", \"dies mid-way\", or \"saved\") during many of the early scenes! OK, I exaggerated slightly - their fates weren't literally visible, but it's generally easy to see who will live and who must ultimately die to keep the \"drama\" from flat-lining. On the positive side, the change of plot to incorporate a terrorist attack as the cause of the disaster is in some ways more plausible than the original \"Tsunami at sea\", and the CGI special effects are generally obvious but passable, especially considering it's a TV movie. Major weaknesses involve the dialogue and the none-too-subtle way in which the survivors all turn out to be \"good\" (or at least clearly repentant) white folk. There are far too many long-winded, schmaltzy speeches at points where the pace should be frantic from both a logical (within the plot) and a dramatic point of view. A classic example is when the ship is just minutes from sinking, and the survivors are crossing a makeshift bridge, one by one, interspersed by obligatory pep-talks, expressions of love, etc... and the would be rescuers radio in \"It's taking too long! What's the hold-up?\" (eerily echoing the viewer's thoughts precisely). Alec Baldwin, the Sea Marshal character, should have replied \"there's too much talk, not enough action\", but instead, he somehow manages to calculate the load-bearing capacity of this makeshift bridge and says \"this looks like it will take two at a time\". Not wanting to give too much away, I'll just note that he may have been correct in theory, but perhaps didn't take into account the extra \"weight\" of the sins being carried by certain people. The \"fire of hell\" burning below at the time was perhaps a missed hint. At the end, after the cheers go up at HQ with the news that there are about nine survivors (out of the thousand plus passengers and crew)...the one person with a bit of perspective in the room sums up the entire show with the very last line: \" This isn't a miracle... it's a bloody mess\".",
+         "By accident, we rented this instead of the original. I couldn't imagine this movie being any worse. Several scenes and characters have been added, which have no real value. There's the guy from police academy in some awful \"divorce\" angle. A fake ex-American idol contestant sings a whole song for no reason. There's a kids who's not just annoying, but is making humorous handi-cam films with the help of the zany crew. And oh yeah, there's a terror attack, because the dead horse is only half-beaten by TV standards, I guess. There's also a creepy old crewman who's trying to get with some teenager, and the priest in this film is a far weaker character/actor. Add in some of the most un-inspired editing, music, and dialogue imaginable and that sums up the worst of this movie. I'd rather draw a picture of boat upside-down and stare at it for two hours rather than repeat watching 10 min. of this film.",
+         "Having just watch the first remake of the classic Poseidon Adventure to be released, I can now safely say \"If it ain't broke, don't fix it!\" Not to say that this was a bad remake but it was not great either. Disappointing characters, none of which were endearing and it would not have been a huge loss if none of them got out. Good special effects, but not spectacular - lots of very average CG effects. The capsizing of the ship had no shock/horror effect of the original - it looked like it could be a lot of fun to go sliding across the polished floors, landing on your feet to walk up the wall to the roof of the ballroom. Let's just hope that the big screen \"POSEIDON\" due for release in 2006 is better than this small screen adaption. My last comment is \"STELLA, STELLA, WHERE ARE YOU STELLA?\"",
+         "Remember the tag line on the poster for the original? It was \"Hell, Upside Down\". Well, this little TV movie of the week is definitely from hell. And it does, of course, turn upside down. It may also turn your stomach upside down if you're stupid enough to sit through this garbage. I can't believe anyone in their right minds would associate their names with this piece of dreck. Oh, I forgot. If I were Steve Guttenberg, I suppose I'd be thrilled if the phone rang with a job. Too bad he was home the day his agent called with this audition. Too bad he auditioned. Too bad he got it. Too bad he took it. But, I suppose he does have mortgage to pay. Bless his heart. But I shouldn't just pick on poor Steve. Ditto Rutger Hauer. Bless his heart, too. The producer should be taken out and beaten with a stick. So should the executives at the network who decided to buy and air this. It must have been bring your toddler to work week at NBC, and some little one got into an office he shouldn't have, pushed a button and sent TV Guide their weekly listings with this reject in the Sunday night slot. I can't believe I was able to sit through this whole thing. What an embarrassment. If you've got a few hours of your life to kill and don't mind throwing a chunk of it away, watch this if it ever comes out on DVD, which I pray to my personal God, for YOUR sake, Poseidon enthusiast, it wont! Let's hope for something better when the film remake comes out. I'm not holding my breath. PS - for those of you who don't know, Shande is a Yiddish word which translates to: THE MOST HORRENDOUS DISGRACE EVER! Belle would know. Well, Shelley would DEFINITELY know. This other hack cast in her part, I'm not so sure.",
+         "Poor Paul Gallico must be spinning in his grave to see such an excruciatingly bad production of his adventure novel, The Poseidon Adventure (it says so in the credits; \"based on the novel by Paul Gallico\")and then to have it so blatantly based on the Irwin Allen disaster movie. Come to think of it,Irwin is probably doing about 500 RPM's himself. To start, the teleproduction committed the very worst of sins. It bored. There was little suspense or tension. The characters evoked no charm, no life, and no spark. Most of the actors may as well have been carrying cardboard standees of themselves and reading from the script as they moved about. With few exceptions, most of the portrayals made Sharon Tate and Pia Zadora's worst performances look like Sarah Bernhardt and Ethel Barrymore. Even Mamie Van Doren and John Agar were never this tedious. There were characters who did not emit waves of blandness. The castrating shrew of a wife, Mrs. Rosen and the terrorist \"high value prisoner\". No, they just annoyed the hell out of me. The wife was so emotionally disaffected, my jaw dropped. Here you are on a capsized, sinking ship. Would you let your teen daughter stay behind to help the injured? For all the reaction she showed to the idea, the girl might as well have been her favorite manicurist. Mrs. Rosen would not have been too bad if she had not kept blathering on about her deceased husband, and as far as the terrorist went, he might as well have had a turban and a Kris and a handlebar mustache to twirl. The screenplay had the feel of a high school play that was written by the drama coach and cast with the popular students, rather than the ones who had talent. It was trite, mediocre, and awkward. With lines such as \"We'll burn and drown at the same time!\", my eyes were rolling more than a hooker at a craps table. Mrs. Rosen's death scene was excruciatingly horrible, I cringed with embarrassment for Sylvia Sims. And that was the only time I felt anything for anyone in the production. The special effects were okay at best and unbelievable at worst. The best were the actual capsize scenes in the ballroom, but even there it felt matter of fact. The worst were the scenes of the oil fire,burning on water,in the engine room. It was obviously computer created and done by people who have never seen an oil fire. The worst mistake the director made was to take us outside of the ship. By doing so, any sense of immediacy, tension, and mystery were completely lost. by switching back and forth, the viewers were not able to put themselves into the story. One could only watch as a distanced and disaffected viewer. One of the most wonderful things about seeing a film is to be able to become part of the film; to forget yourself and merge with the story. The most magnificent example of this I ever noted was in the original 1972 film. When Shelly Winters and Gene Hackman emerged from the water, I was startled to hear this odd noise in the theater. And I was delighted to realize that it was the sound of almost 700 theater patrons releasing their breathe at the same time. Had this film been shown theatrically, there may have been a similar incident, that of hundreds of people losing their dinners at the same time.",
+         "I love the part where the bishop goes into a room and comes out saying that there are toxic fumes. He suggests everyone needs to cover their face with a cloth so they can breathe long enough to make it through the room. An old lady screems because she sees a dead body, the person right behind her isn't covering his face. He talks for about 30-40 seconds about how she needs to move on. Then they pan out and multiple people are shown coughing and hacking like crazy while they have a cloth over their face. For some reason this one guy had no problem breathing and talking in a smoke infested room. If a boat is upside down, wouldn't you have to reach up for the door knobs, plus step over the trim where the wall where it meets the ceiling...not on this boat you don't. I love how they explode a 15 ft hole in the boat at the end, but they only needed to be 20 feet away from the explosion. If they were that close to the explosion i would think their ears would have been bleeding.",
+         "Was this meant to be a comedy? I and my family were laughing either way. I just finished watching this, and at 3 and a half hours, i have to say it was definitely not worth staying up for. The sets are bad, the story is very predictable and corny, the effects are in their own right, disastrous, the cast tries their best, but with dialogue like this, how could you help it? The navy were a pack of idiots who didn't end up helping at all, just sitting in the ocean (the still water-like pool) outside the ship and making them inside the ship all risk their lives instead of actually blowing a hole in the ship with THEIR OWN resources. And everyone at the end was celebrating that only 9 people out of about 1000 survived! What heartless monsters. As with the other comment, I agree. That annoying little kid with the fake accent and the water proof video camera (that also has a 1000hr tape inside it) should have perished with the ship and the film. \"may god help us all\"",
+         "This film is only entertaining if you like watching bad movies. It's full of clichés, bad special effects huge plot holes, random acts of death and even a gratuitous hot chick in her underwear. This adventure is over acted, poorly directed, poorly written, contrived (of course) and predictable. It could have been saved if they had done it using Legos. (cast included) There is no reason this needed to be 3 hours but no doubt NBC wanted to fit as many commercials into this time slot as possible. If you like crap, then this is the film for you. Why did I watch it? Because I like to study disasters (in film) and this turned out to certainly be a classic."
+      ],
+      "genres": [
+         "Adventure",
+         "Action",
+         "Drama",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Larry Levinson Productions",
+         "Silverstar Ltd."
+      ],
+      "summaries": ["A cruise ship succumbs to a terrorist act and capsizes on New Year's eve. A rag-tag group of survivors, spearheaded by a priest and a homeland security agent, must journey through the upside down vessel and attempt an escape."],
+      "budget": 14000000
+   },
+   "movielensId": 92214,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2005-11-20",
+      "dvdReleaseDate": null,
+      "directors": ["John Putch"],
+      "runtime": 173,
+      "movieId": 92214,
+      "title": "The Poseidon Adventure",
+      "mpaa": "",
+      "actors": [
+         "Adam Baldwin",
+         "Rutger Hauer",
+         "Steve Guttenberg",
+         "Bryan Brown",
+         "C. Thomas Howell"
+      ],
+      "imdbMovieId": "0419358",
+      "originalTitle": "The Poseidon Adventure",
+      "genres": [
+         "Adventure",
+         "Drama",
+         "Thriller",
+         "Action"
+      ],
+      "youtubeTrailerIds": ["Et97YRwWSTw"],
+      "plotSummary": "A cruise ship succumbs to a terrorist act and capsizes on New Year's eve. A rag-tag group of survivors, spearheaded by a priest and a homeland security agent, must journey through the upside down vessel and attempt an escape.",
+      "tmdbMovieId": 28512,
+      "avgRating": 2.525,
+      "releaseYear": "2005",
+      "numRatings": 60,
+      "posterPath": "/A0D2rFaSrAKiAO7OGww2DgmrDYz.jpg"
+   }
+}

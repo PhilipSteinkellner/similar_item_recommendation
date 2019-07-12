@@ -1,0 +1,585 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "terror",
+            "id": 321
+         },
+         {
+            "name": "carnival",
+            "id": 3473
+         },
+         {
+            "name": "road trip",
+            "id": 7312
+         },
+         {
+            "name": "diner",
+            "id": 10738
+         }
+      ],
+      "imdb_id": "tt2393817",
+      "video": false,
+      "title": "Dead End",
+      "recommendations": [
+         246218,
+         15806,
+         65953,
+         127722,
+         13202,
+         200044,
+         171688,
+         306307,
+         47853,
+         44646,
+         82115,
+         100024,
+         37970,
+         233208,
+         28793,
+         208495,
+         44862,
+         44752,
+         207770,
+         43085
+      ],
+      "backdrop_path": "/Y0CCo6sd6poaCab1h6eTq1CA29.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Dog",
+               "gender": 2,
+               "credit_id": "52fe4d02c3a36847f8249a3b",
+               "name": "Jamie Foreman",
+               "profile_path": "/kjheuaxB6RBqBKIysWamFzor3OD.jpg",
+               "id": 3543,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Carl Foster",
+               "gender": 2,
+               "credit_id": "52fe4d02c3a36847f8249a3f",
+               "name": "Wil Johnson",
+               "profile_path": "/AppytaiEGmq9UO5tPzTmpCqUFV6.jpg",
+               "id": 197126,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Diggs",
+               "gender": 0,
+               "credit_id": "52fe4d02c3a36847f8249a43",
+               "name": "Jon Campling",
+               "profile_path": "/u5Iu5PzbcJpiZTIbrg0z3tvJH3e.jpg",
+               "id": 1140635,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Maddie Foster",
+               "gender": 1,
+               "credit_id": "52fe4d02c3a36847f8249a47",
+               "name": "Angela Dixon",
+               "profile_path": "/arxLVd1Y2vQ8jKupyzgPJrXUuGG.jpg",
+               "id": 1153443,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Frances Speedie",
+               "gender": 0,
+               "credit_id": "52fe4d02c3a36847f8249a4b",
+               "name": "Frances Speedie",
+               "profile_path": "/dKQFsltWHZf13H4eb3gBeqqtQJe.jpg",
+               "id": 1153444,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Mamon",
+               "gender": 1,
+               "credit_id": "52fe4d02c3a36847f8249a4f",
+               "name": "Lucy Drive",
+               "profile_path": "/pfuA1ai5HCHG1qmPmowdaPplzKJ.jpg",
+               "id": 1035333,
+               "order": 5
+            },
+            {
+               "cast_id": 9,
+               "character": "Bones",
+               "gender": 0,
+               "credit_id": "52fe4d02c3a36847f8249a5f",
+               "name": "Jill Greenacre",
+               "profile_path": "/z5XZGDqAX7cmSGWYCpfnv0x4LCG.jpg",
+               "id": 215995,
+               "order": 6
+            },
+            {
+               "cast_id": 10,
+               "character": "Lucas Foster",
+               "gender": 0,
+               "credit_id": "52fe4d02c3a36847f8249a63",
+               "name": "Callum Anderson",
+               "profile_path": null,
+               "id": 1153566,
+               "order": 7
+            },
+            {
+               "cast_id": 11,
+               "character": "Lupo",
+               "gender": 0,
+               "credit_id": "52fe4d02c3a36847f8249a67",
+               "name": "Gabriel Lee",
+               "profile_path": null,
+               "id": 1153567,
+               "order": 8
+            },
+            {
+               "cast_id": 43,
+               "character": "Little Lady",
+               "gender": 0,
+               "credit_id": "58581f19c3a3682dfe0604d1",
+               "name": "Arti Shah",
+               "profile_path": "/x5OVsLL3muEUde9b56APPQEknqV.jpg",
+               "id": 1724826,
+               "order": 9
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe4d02c3a36847f8249a55",
+               "name": "Nicholas David Lean",
+               "profile_path": null,
+               "id": 1153564,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54c7779ec3a36874b4001f65",
+               "name": "Nicholas David Lean",
+               "profile_path": null,
+               "id": 1153564,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54c7775a9251416794001faf",
+               "name": "Mark Booth",
+               "profile_path": null,
+               "id": 1419162,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54c777aa925141678c0020e5",
+               "name": "Nicholas David Lean",
+               "profile_path": null,
+               "id": 1153564,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54c777c292514167940020a4",
+               "name": "Gabrielle Lederman-Whyte",
+               "profile_path": null,
+               "id": 1419163,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54c777dd925141678e00208a",
+               "name": "Patrick Savage",
+               "profile_path": null,
+               "id": 1023397,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54c777fcc3a36874ac001fad",
+               "name": "Holeg Spies",
+               "profile_path": null,
+               "id": 1023398,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54c7780d92514167980020df",
+               "name": "Steven Priovolos",
+               "profile_path": null,
+               "id": 1419164,
+               "department": "Crew",
+               "job": "Cinematography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54c7781dc3a3683f7d001902",
+               "name": "Derek Burgess",
+               "profile_path": null,
+               "id": 1419165,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54c77831c3a36874ac00201f",
+               "name": "Claudia Brewster",
+               "profile_path": null,
+               "id": 1319730,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54c77845c3a36874b7002353",
+               "name": "Carly Reddin",
+               "profile_path": null,
+               "id": 1203437,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54c7787d9251416791001faa",
+               "name": "Amy Simons",
+               "profile_path": null,
+               "id": 1419166,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54c77892c3a36874b400216c",
+               "name": "Nell Knudsen",
+               "profile_path": null,
+               "id": 1419167,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54c778b7925141679c002303",
+               "name": "Sally Alcott",
+               "profile_path": null,
+               "id": 1419168,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54c778e8c3a36874b70024d1",
+               "name": "Rebecca Hall",
+               "profile_path": null,
+               "id": 1365397,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54c778ffc3a36874b4002244",
+               "name": "Katie Hill",
+               "profile_path": null,
+               "id": 1415748,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54c77918c3a36874ae0021e5",
+               "name": "Beth John",
+               "profile_path": null,
+               "id": 1419169,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54c7792f925141678700227b",
+               "name": "Mike Peel",
+               "profile_path": null,
+               "id": 1123407,
+               "department": "Crew",
+               "job": "Makeup Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54c779709251416794002416",
+               "name": "Nicola Ford",
+               "profile_path": null,
+               "id": 1419170,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54c77986c3a3683f7d001bc6",
+               "name": "Paul Kendler",
+               "profile_path": null,
+               "id": 1419171,
+               "department": "Production",
+               "job": "Production Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54c779b09251416791002232",
+               "name": "Ed Coltman",
+               "profile_path": null,
+               "id": 1419172,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54c779cbc3a36874bc002868",
+               "name": "Neel Dhorajiwala",
+               "profile_path": null,
+               "id": 1419173,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54c779e4925141678700240d",
+               "name": "Alex Joseph",
+               "profile_path": null,
+               "id": 1419174,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54c779f792514167910022c7",
+               "name": "Richard Kondal",
+               "profile_path": null,
+               "id": 1379046,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54c77a0b925141679c0025c6",
+               "name": "Ainsley Donnelly",
+               "profile_path": null,
+               "id": 1419175,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54c77a249251416787002484",
+               "name": "Danny Evans",
+               "profile_path": null,
+               "id": 1419176,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54c77a39c3a36874bf0025a3",
+               "name": "Tony Ray",
+               "profile_path": null,
+               "id": 1419177,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54c77a66c3a3683f7d001d94",
+               "name": "Dave Judge",
+               "profile_path": null,
+               "id": 1402593,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54c77a7cc3a36874b00025d2",
+               "name": "Marc Covington",
+               "profile_path": null,
+               "id": 1419178,
+               "department": "Camera",
+               "job": "Steadicam Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54c77a8dc3a36874ac0024d7",
+               "name": "David Tett",
+               "profile_path": null,
+               "id": 1419179,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54c77ab0925141678700256e",
+               "name": "Vincent De Paula",
+               "profile_path": null,
+               "id": 1077473,
+               "department": "Camera",
+               "job": "Additional Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54c77af49251416789002509",
+               "name": "Elvan Lean",
+               "profile_path": null,
+               "id": 1419180,
+               "department": "Crew",
+               "job": "Thanks"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Horror",
+            "id": 27
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 1.128888,
+      "production_countries": [{
+         "iso_3166_1": "GB",
+         "name": "United Kingdom"
+      }],
+      "id": 171045,
+      "vote_count": 8,
+      "budget": 0,
+      "overview": "Carl Foster takes off on a well-deserved weekend break with his family knowing only too well that focus on work has impacted his relationship with his wife, young son, and teenage step-daughter. But after a short but restful break in the journey Carl awakens to find himself tied and bound in an old roadside diner, his family trussed and gagged next to him, and a disparate group of dirty, disheveled, vagrant-like undesirables keeping them captive. Only time will reveal who they are and what they want, but things are not everything they might seem.",
+      "similar": [
+         773,
+         4147,
+         8329,
+         7461,
+         10285,
+         50456,
+         12113,
+         59,
+         72559,
+         29427,
+         19908,
+         8068,
+         657,
+         955,
+         340485,
+         409,
+         10895,
+         11282,
+         41733,
+         1955
+      ],
+      "original_title": "Dead End",
+      "runtime": 82,
+      "poster_path": "/PHj7dzxRXMv05LHdiYaZe4KQFT.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Whyte Booth Pictures",
+            "id": 44975,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Oceanstorm Films",
+            "id": 13324,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2012-03-08",
+      "vote_average": 4.2,
+      "belongs_to_collection": null,
+      "tagline": "Could you survive a breakdown?",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Color",
+      "budgetCurrency": "£",
+      "directors": ["Nicholas David Lean"],
+      "runtime": 82,
+      "synopsis": null,
+      "writers": ["Nicholas David Lean"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt2393817/",
+      "coverLink": null,
+      "actors": [
+         "Jamie Foreman",
+         "Wil Johnson",
+         "Jon Campling"
+      ],
+      "reviews": [
+         "well where do i start, Jamie Foreman from east enders is in it so it could be good, well i'm afraid it is not as good as i thought.i was expecting a lot more from this film. it was not bad, but really i was hoping for something far better. it was like nothing i have seen before,it started of with promise and then sort of went downhill from there the plot seemed OK at first, but it in my opinion went sort of off track it wasn't what i expected, the acting was good and there is a surprise to the ending which made me think what have i just wasted my time on this film? would i recommend you watch it no i wouldn't but make your own mind up. i was disappointed 4 out of 10.",
+         "We are often reminded that we have have the best film technicians here in the UK and indeed we have a solid movie history but so often we have trouble marrying that expertise with well produced movies. And this is a prime example. This was looking dire from the outset with the woefully amateur acting but I thought I'd stay with it until the end but it turned out to be clichéd, unimaginative drivel. It's just a complete embarrassment from start to finish and apart from Jamie Foreman I did not recognise anyone else in this mess so maybe the rest of the ensemble were hired on the cheap to play the Hillbillies? Do we have Hillbillies in the UK? Anyway, don't waste your time.",
+         "I found the three top reviews of this dog of a movie, that also goes by the name Dead End (which for some reason IMDb does not show when it lists this movie by the title of Hard Shoulder), to be extremely out of focus as to the true nature of this poor quality movie. For one thing, it shows a family (blended racially in this modern world of ours) that is poorly acclimated to each other but doesn't really explore into any depth the reasons for this. Secondly it basically takes a dream sequence and uses that as over half the film and then drops a bomb (stink bomb type) on you at the end that supposedly explains everything but basically leaves you hanging. It was poorly acted, poorly directed and made no sense whatsoever so my truthful suggestion is \"skip this stinking turkey!\" unless your hungry for some Thanksgiving dinner. StocktonRob",
+         "Dead End is over blown and weak on script. It centres around a fractious family car trip where mum and dad (Will Johnson and Angela Dixon) spend the whole time moaning at each other throughout. There teenage daughter (Frances Speedie) and son (Callum Anderson) are irritatingly miserable and grumpy. The journey takes longer than they had planned and at one point are overtaken by a convoy of travellers. This prompts dad into a confrontation which the family later regrets when they because ambushed by the travellers, tied up and torture. Sounds like a poor mans Rob Zombie movie doesn't it\u0085 Right! The family/gang lead by Jamie Foreman leads his motley and deranged family (Jon Campling, James Fisher, Lucy Drive and Jill Greenacre)\u0085 Told you Rob Zombie\u0085 Mr. Campling even adapts the voice\u0085 They all different aspect threatening or violence behaviour while their captors try their best to resist or escape. You kind of hope that it's going somewhere, that there's a deep meaning to it all but\u0085 what little there is does start to make sense as the intimidation progresses. Don't get me wrong it is not a total debacle, there are certain bits within Dead End/hard Shoulder to be commended. Mainly the performance of Jamie Foreman as a vicious villain. But there are also chunks of the movie that are simply poor\u0085 Cut it down \u2013 that's the best thing to do with this kind of low budget movie 75 minutes would be a max... then it would be much better.",
+         "My intention was not to review this atrocious exercise in abysmality but the pathetic fake reviews have once again compelled me to even up the score. An interracial family that seemingly all hate each other head out for a countryside road trip. Presumably their destination involves family counselling because no one in this vehicle likes anyone else, every combination possible is at war, meaning their arduous journey is punctuated only by constant complaining and petty squabbling. As tempers fray and fatigue kicks in, their vehicle is overtaken by a loutish group of rogues who gesture provocatively and slow their vehicle down when the lead has been stolen. The father reacts the only way you would react with two small children in the back, by shouting, swearing, and attempting to overtake the offending vehicle again. By the time he has been convinced to put his thinking cap on, their car collides and they awaken to find themselves at the mercy of said rogues. You might as well ignore the following 40-50 minutes of the film because it never happened and is entirely pointless. Characters that don't exist futilely interact with each other. Unlike in some of the hundreds of other films that this has ripped off, the dream sequence or whatever its supposed to be, means absolutely nothing and has no bearing on anything. Incredulously this has been described as an 'original twist' by some users, and some even claim that it enhanced the end product. If \"Dead End/Cold Shoulder\" was only as long as the events in the film, a semi interesting short story would remain that might be worth an extra mark. An appalling waste of time, money, bandwidth and anything else that was expended on it",
+         "Having seen the screener for hard shoulder my first reaction was....run it again...right now! I wasn't sure to expect from a relatively low budget movie by a rookie but I was mesmerised from start to finish. What, on the face of it, appears to be a psychological thriller/horror/fantasy type film, actually runs far deeper and is so cleverly written that even those looking out for it will feel they have missed some of the pieces of the puzzle. As a professional psychotherapist, I found the story line and portrayal insightful and accurate. As a film lover, I found it thrilling, captivating, even shocking in places. Talking to some of the cast after the screening, I was touched by the loyalty each and everyone had for the writer, director and producer, Nicholas David lean. It would seem that they admire his talent and creativity but also hold him in high esteem for his integrity and dedication to the profession. One actress said to me that she had never realised just how many layers where involved in the film, even though she'd played a main character! If you love psychology, horror, characters, some of the actors or just a brilliant film that leaves you wanting more, Hard Shoulder is a must- see.",
+         "I had the pleasure of attending a private screening of Hard Shoulder through a friend. I wasn't sure what to expect from the director Nicholas David Lean's film debut, but I was very glad I got to watch it. When the Hard Shoulder starts out you're not sure what to expect, another film about an unhappy family? No. This is after all a psychological thriller. After setting the scene of a unhappy family trying to hold things together, the film gradually builds up the tension and takes a very dark, disturbing and violent turn. Then just when you think you have a grasp of what's going on there is a brilliantly unexpected twist. There is some great acting turns in the film from the likes of Lucy Drive, and Jamie Foreman. Jamie now better known as Derek Branning from Eastenders. I'm not sure when this film is out on general release, but if you get the chance, go see it!",
+         "It is my pleasure to recommend this very dark, chilling, psychological thriller with a difference. I was very fortunate to be invited to a private screening of 'Hard Shoulder' by a good friend. The film starts off with a bang and then slowly lulls you into a false sense of reality before taking you by the scruff of the neck and dragging you and it's fine cast into a chilling and very scary scenario. There are fine performances from all the actors on screen with 'Jamie Foreman' etching himself into your memory and for those who have fond memories of 'Jill Greenacre' from 'The Brittas Empire', this is a defining role in her career. A film of substance with a story line which will play on my mind for quite some time I think. I am looking forward and expect to see much more from this very talented director 'Nicholas David Lean'. The film I believe is not yet on general release. The sooner it gets out there and is seen the better.",
+         "\"Dead End\" comes across from the blurb at least like a modern domestic drama that descends into a sort of \"Captivity\" or \"Devil's Rejects\" and I suppose anyone into that sort of extreme violence and depravity will be left more than a little disappointed by \"Dead End\". Cos, for all the presuppositions that a viewer might make about this film before watching, it isn't like either of the aforementioned 'blood-soaked' violence heavy films. It is a lot smarter than that in my opinion. There's substantially more to this film than meets the eye for anyone smart enough to actually dig a bit deeper beyond the obvious on screen action in my view. It subtly deconstructs the main character, Carl (played by Wil Johnson) and seems to lay bare his soul - pretty much presenting him as a total ass who has f****d up the most important thing in his life, his family, by being a bit of a dog, a pervert, and a money hungry son*****ch. * SPOILERS * The disenchanted family situation is something I can relate to - arguing with my wife, annoyed by the constant whining of my kids, thinking that the grass is a greener affair on the other side of the fence (I mean which guy hasn't right?), getting riled at absolutely f**k all most of the time. It's a stress thing I guess. The multi-racial tensions of seemingly two single parents uniting adds a further dynamic but the backstory to that isn't really important. It's all about the present and the lack of unity (caused by his needs coming before anyone else's). The diner on the other hand is something pretty ingenious - it doesn't really exist - well, except in Carl's head I guess (they pass a diner on the journey) and neither do any of the characters in the diner. I got the impression they were representing Carl - all the facets of him that make up the scheming b*****d that he is. Maybe as a way of denying responsibility for splitting his family (and in reality killing them in the accident) he tries to offload the guilt to his 'other personalities' which are given 'life' in the film following his run in with the carnival people on the road - essentially the last people he came into contact with before falling asleep at the wheel. That's a clever set up. Not seen that before. I noticed little clues in the film all along when I bought the DVD and went through it - motifs - dog statues in the home (although we never hear \"Dog\" mentioned by name do we?), the necklace worn by all the girls in his f**k fantasy (and the old hag in the diner), the long haired dude (Diggs I think) basically put down all the time by Jamie Foreman's character (a bit like Carl and his overbearing wife). The creepy boy, Herschel, was a bit like the guy played by Elija Wood in Sin City, but here a pervert trying not to be a pervert. I thought that was a reflection of Carl looking in on his step-daughter but trying his best not to peek. The slutty girl, Mamon, was clearly a representation of temptation with all her bits hanging out. The kissing of the step-daughter was clearly a bloke fantasy in Carl's head - a memory from home hearing the girl on the phone to her girlfriend. I've seen reviewers mention the hell scene at the end and proclaim \"what the f**k !\" It isn't that hard to understand is it ? It seems to represent, if you haven't worked it out already by that time, the purgatory that Carl is in. The melding girls had me a bit confused but they must be both of Carl's girlfriends or something, though I did see the step-daughter's face in there as well. Did he get to sleep with her too I wonder ? Is that the reason for his guilt ? Only the filmmakers know that I presume. There were loads more references to pick up on. A lot of thought clearly went into writing this. I might be completely wrong of course, but that's how it came across to me - an intelligently written, well made film more like a journey into David Lynch or Lars von Trier territory than into the ordinary blood soaked crass extreme violence of Rob Zombie, Marcus Nispel or other lame, told before stories. And it was great to see Jamie Foreman doing something different - not the boring gangster trite that Brit independent film tends to produce all the time. And at least it isn't another zombie movie either - though \"Un-dead End\" could be a bloody outing and has a good ring to it. I take my hat off to the filmmakers for trying to do something different and on most counts (apart from the odd low rent cgi moment) succeeding at it. But given the budget that can be excused. So if you have the patience to switch on, watch, listen, and piece it together \"Dead End\" is an entertaining effort of first time cinema from this writer/director - doing something so 'odd' was a pretty ballsy move. And it does look rich and saturated on film. Love a good film - way better looking than some digital stuff that gets made these days. My advice, go in knowing what not to expect, be prepared to give it a go, find all the clues, and look at it much deeper than merely the gloss of what you can SEE on screen. The meaning lies deeper, and it's an analogical and metaphorical journey into darkness not a literal one I think. If you understand that, and avoid having a beer whilst watching (it'll only serve to muddy your understanding further) you'll get where these filmmakers were coming from in my humble opinion."
+      ],
+      "genres": ["Thriller"],
+      "productionCompanies": [
+         "Oceanstorm Films",
+         "Whyte Booth Pictures"
+      ],
+      "summaries": ["Carl Foster takes off on a well-deserved weekend break with his family knowing only too well that focus on work has impacted his relationship with his wife, young son, and teenage step-daughter. But after a short but restful break in the journey Carl awakens to find himself tied and bound in an old roadside diner, his family trussed and gagged next to him, and a disparate group of dirty, dishevelled, vagrant-like undesirables keeping them captive. Only time will reveal who they are and what they want, but things are not everything they might seem."],
+      "budget": 275000
+   },
+   "movielensId": 130116,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2012-03-08",
+      "dvdReleaseDate": null,
+      "directors": ["Nicholas David Lean"],
+      "runtime": 82,
+      "movieId": 130116,
+      "title": "Dead End",
+      "mpaa": null,
+      "actors": [
+         "Jamie Foreman",
+         "Wil Johnson",
+         "Jon Campling",
+         "Angela Dixon",
+         "Frances Speedie",
+         "Lucy Drive",
+         "Jill Greenacre",
+         "Callum Anderson",
+         "Gabriel Lee",
+         "Arti Shah"
+      ],
+      "imdbMovieId": "2393817",
+      "originalTitle": "Dead End",
+      "genres": [
+         "Horror",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": ["Pg7iTU49-bo"],
+      "plotSummary": "Carl Foster takes off on a well-deserved weekend break with his family knowing only too well that focus on work has impacted his relationship with his wife, young son, and teenage step-daughter. But after a short but restful break in the journey Carl awakens to find himself tied and bound in an old roadside diner, his family trussed and gagged next to him, and a disparate group of dirty, disheveled, vagrant-like undesirables keeping them captive. Only time will reveal who they are and what they want, but things are not everything they might seem.",
+      "tmdbMovieId": 171045,
+      "avgRating": 4,
+      "releaseYear": "2012",
+      "numRatings": 1,
+      "posterPath": "/PHj7dzxRXMv05LHdiYaZe4KQFT.jpg"
+   }
+}

@@ -1,0 +1,795 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [{
+         "name": "based on true events",
+         "id": 185722
+      }],
+      "imdb_id": "tt1935749",
+      "video": false,
+      "title": "The Bling Ring",
+      "recommendations": [
+         268159,
+         115153,
+         121822,
+         56441,
+         150065,
+         84197,
+         67976,
+         75253,
+         106586,
+         268956,
+         164286,
+         72790
+      ],
+      "backdrop_path": "/qm2gEu74hoor2rsVJf0atzm1UDi.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 8,
+               "character": "Zack Garvey",
+               "gender": 2,
+               "credit_id": "54425c74c3a3683e0b001d5c",
+               "name": "Austin Butler",
+               "profile_path": "/2gHiYPXOq7RJLs4vTz5fUmSg8cd.jpg",
+               "id": 86654,
+               "order": 0
+            },
+            {
+               "cast_id": 7,
+               "character": "Natalie Kim",
+               "gender": 0,
+               "credit_id": "52fe4ba1c3a36847f820cde5",
+               "name": "Yin Chang",
+               "profile_path": "/mjjpHLCzFlEwxo0gQdherF0rNC8.jpg",
+               "id": 1223160,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Iris Garvey",
+               "gender": 1,
+               "credit_id": "52fe4ba1c3a36847f820cdd9",
+               "name": "Jennifer Grey",
+               "profile_path": "/rlJes7UWZXnykKBEmBh6ilx1Sb1.jpg",
+               "id": 722,
+               "order": 2
+            },
+            {
+               "cast_id": 10,
+               "character": "Maddie Bishop",
+               "gender": 1,
+               "credit_id": "57d50259c3a3680ccd004598",
+               "name": "Spencer Locke",
+               "profile_path": "/sjF789noj4npjF9Mcbq92lscEx9.jpg",
+               "id": 57192,
+               "order": 3
+            },
+            {
+               "cast_id": 14,
+               "character": "Detective Archie Fishman",
+               "gender": 2,
+               "credit_id": "57d5029392514136670041a5",
+               "name": "Tom Irwin",
+               "profile_path": "/8veWAQr2kXYL3EP4ZkAjJhVcZGq.jpg",
+               "id": 27544,
+               "order": 4
+            },
+            {
+               "cast_id": 15,
+               "character": "Detective Jenks",
+               "gender": 2,
+               "credit_id": "57d502a09251413810004346",
+               "name": "Sebastian Sozzi",
+               "profile_path": "/1GmrndqoAqieJcASuKUuueY4MLJ.jpg",
+               "id": 53066,
+               "order": 5
+            },
+            {
+               "cast_id": 6,
+               "character": "Cherry Cox",
+               "gender": 0,
+               "credit_id": "52fe4ba1c3a36847f820cde1",
+               "name": "Tracey Fairaway",
+               "profile_path": "/uU94KQj5nBaf3qafDI2mZwvpQSe.jpg",
+               "id": 558917,
+               "order": 6
+            },
+            {
+               "cast_id": 9,
+               "character": "Celia Fishman",
+               "gender": 1,
+               "credit_id": "57d5024bc3a3680b61004f2a",
+               "name": "Wendy Makkena",
+               "profile_path": "/9Nx0N6vQP3czBYSiRgAZbETqAiC.jpg",
+               "id": 20623,
+               "order": 7
+            },
+            {
+               "cast_id": 11,
+               "character": "Moon",
+               "gender": 0,
+               "credit_id": "57d50269c3a36815930044fe",
+               "name": "Alix Elizabeth Gitter",
+               "profile_path": "/sPatsCbdC6A1e7a1tDnIGggvdkB.jpg",
+               "id": 1061512,
+               "order": 8
+            },
+            {
+               "cast_id": 12,
+               "character": "Larry Garvey",
+               "gender": 2,
+               "credit_id": "57d5027b92514136fa00430e",
+               "name": "Scott Klace",
+               "profile_path": "/5n6CHyx8UcaQJODLIz1j3bnMUFi.jpg",
+               "id": 1215395,
+               "order": 9
+            },
+            {
+               "cast_id": 13,
+               "character": "April",
+               "gender": 1,
+               "credit_id": "57d50285925141369d0040de",
+               "name": "Renee Olstead",
+               "profile_path": "/Alru3bM9sSE0Q6yeN5fLwNxIy8v.jpg",
+               "id": 155621,
+               "order": 10
+            },
+            {
+               "cast_id": 16,
+               "character": "Vin Savage",
+               "gender": 2,
+               "credit_id": "57d502b6c3a3680b61004f60",
+               "name": "Alex Feldman",
+               "profile_path": "/uWle0GUJgJ5tMUGrpICcFqKy2UD.jpg",
+               "id": 109786,
+               "order": 11
+            },
+            {
+               "cast_id": 17,
+               "character": "Mr. Bishop",
+               "gender": 2,
+               "credit_id": "57d502c292514136670041b7",
+               "name": "Blake Robbins",
+               "profile_path": "/o9FmfihOtcwfaSd266RJeZRPRvs.jpg",
+               "id": 154888,
+               "order": 12
+            },
+            {
+               "cast_id": 18,
+               "character": "Captain",
+               "gender": 2,
+               "credit_id": "57d502ddc3a368154b0043d9",
+               "name": "Michael Rose",
+               "profile_path": "/zxVFWG8TIgqV01nL90mfucX83nQ.jpg",
+               "id": 53330,
+               "order": 13
+            },
+            {
+               "cast_id": 19,
+               "character": "Izzy Fishman",
+               "gender": 1,
+               "credit_id": "57d502e9c3a3680b9f005099",
+               "name": "Sydney Sweeney",
+               "profile_path": "/ldYFNS9jD7h7gzERTkbELcUadBa.jpg",
+               "id": 115440,
+               "order": 14
+            },
+            {
+               "cast_id": 20,
+               "character": "Mario",
+               "gender": 0,
+               "credit_id": "57d502f8c3a36814da003e5f",
+               "name": "Mario Rivelli",
+               "profile_path": "/23iBFZfmTPo7GBkDstSx6uu3N4l.jpg",
+               "id": 1151364,
+               "order": 15
+            },
+            {
+               "cast_id": 21,
+               "character": "Brady",
+               "gender": 0,
+               "credit_id": "57d50302c3a3680ccd0045e5",
+               "name": "Natalie Floyd",
+               "profile_path": null,
+               "id": 1445399,
+               "order": 16
+            },
+            {
+               "cast_id": 22,
+               "character": "Brightman",
+               "gender": 0,
+               "credit_id": "598d8e1e925141790100f1e2",
+               "name": "Shawn H. Smith",
+               "profile_path": null,
+               "id": 1867725,
+               "order": 17
+            },
+            {
+               "cast_id": 23,
+               "character": "Store Clerk",
+               "gender": 0,
+               "credit_id": "598d8ea8c3a36875a200e67b",
+               "name": "Persephone Apostolou",
+               "profile_path": "/ctsGWiQ31nYATh8zInWlPrnWNWg.jpg",
+               "id": 1607898,
+               "order": 18
+            },
+            {
+               "cast_id": 24,
+               "character": "Guy",
+               "gender": 0,
+               "credit_id": "598d8ed1c3a36875c000e27c",
+               "name": "Tom Knickerbocker",
+               "profile_path": null,
+               "id": 1865065,
+               "order": 19
+            },
+            {
+               "cast_id": 25,
+               "character": "Bouncer",
+               "gender": 2,
+               "credit_id": "598d8efc92514178ac00f618",
+               "name": "Roy Jackson",
+               "profile_path": null,
+               "id": 963996,
+               "order": 20
+            },
+            {
+               "cast_id": 26,
+               "character": "Host",
+               "gender": 2,
+               "credit_id": "598d8f2992514178b100ed1c",
+               "name": "Ben Mankiewicz",
+               "profile_path": null,
+               "id": 1216018,
+               "order": 21
+            },
+            {
+               "cast_id": 27,
+               "character": "Hostess",
+               "gender": 0,
+               "credit_id": "598d8fa192514178ec00ed04",
+               "name": "India Irving",
+               "profile_path": null,
+               "id": 1151365,
+               "order": 22
+            },
+            {
+               "cast_id": 28,
+               "character": "Waiter",
+               "gender": 2,
+               "credit_id": "598d8fd3c3a36875b100e44e",
+               "name": "Billy Snow",
+               "profile_path": "/iEfFWR2VK0fInvxyiwa5mKRblNo.jpg",
+               "id": 1373197,
+               "order": 23
+            },
+            {
+               "cast_id": 29,
+               "character": "Waitress",
+               "gender": 1,
+               "credit_id": "598d905892514178a400fd1c",
+               "name": "Emily Happe",
+               "profile_path": "/pM7C54alYoHSfr8ItEeErgegPLu.jpg",
+               "id": 205997,
+               "order": 24
+            },
+            {
+               "cast_id": 30,
+               "character": "Girl - Bosso",
+               "gender": 1,
+               "credit_id": "598d909b92514178b800fa2b",
+               "name": "Jeanine Mason",
+               "profile_path": "/s28wBQaJyiYfB2ZzcS0N3bVhYDl.jpg",
+               "id": 1024711,
+               "order": 25
+            },
+            {
+               "cast_id": 31,
+               "character": "Social Director",
+               "gender": 0,
+               "credit_id": "598d90f6925141790100f515",
+               "name": "Sonya Leslie",
+               "profile_path": "/2UdaOzLGCWMV8i502Y0ktTUixjX.jpg",
+               "id": 1224154,
+               "order": 26
+            },
+            {
+               "cast_id": 32,
+               "character": "Cop",
+               "gender": 2,
+               "credit_id": "598d912e92514178fc00f28d",
+               "name": "Louie Alegria",
+               "profile_path": null,
+               "id": 968011,
+               "order": 27
+            },
+            {
+               "cast_id": 33,
+               "character": "Teacher",
+               "gender": 0,
+               "credit_id": "598d9166c3a36875c000e554",
+               "name": "Zachary Knower",
+               "profile_path": null,
+               "id": 1465280,
+               "order": 28
+            },
+            {
+               "cast_id": 34,
+               "character": "Principal",
+               "gender": 0,
+               "credit_id": "598d91a592514178a400feb0",
+               "name": "Cyd Strittmatter",
+               "profile_path": "/2o9gT6QOJ94KFhqWvzQiUkU2H9X.jpg",
+               "id": 1367129,
+               "order": 29
+            },
+            {
+               "cast_id": 35,
+               "character": "Anchor",
+               "gender": 0,
+               "credit_id": "598d91ca92514178ec00ef89",
+               "name": "Ellen Fox",
+               "profile_path": null,
+               "id": 1563893,
+               "order": 30
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4ba1c3a36847f820cdcf",
+               "name": "Michael Lembeck",
+               "profile_path": "/nSksRzDoUToxdS2MqIeV7LGAiVk.jpg",
+               "id": 15045,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4ba1c3a36847f820cdd5",
+               "name": "Shelley Evans",
+               "profile_path": null,
+               "id": 227569,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "598d925792514178d600f748",
+               "name": "Kyle A. Clark",
+               "profile_path": null,
+               "id": 946129,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "598d9281c3a36875b100e751",
+               "name": "Lina Wong",
+               "profile_path": null,
+               "id": 973608,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "598d930b92514178ac00fa82",
+               "name": "Lawrence Shragge",
+               "profile_path": null,
+               "id": 29294,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "598d932e92514178d600f829",
+               "name": "Ousama Rawi",
+               "profile_path": null,
+               "id": 31835,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "598d93b392514178ec00f173",
+               "name": "Don Brochu",
+               "profile_path": null,
+               "id": 58208,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "598d93f0c3a368758e00f8cc",
+               "name": "Robb Wilson King",
+               "profile_path": null,
+               "id": 21640,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "598d945292514178b100f295",
+               "name": "Salvador Pérez Jr.",
+               "profile_path": null,
+               "id": 86197,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "598d9491c3a3687559010261",
+               "name": "Kathryn Fenton",
+               "profile_path": null,
+               "id": 1328151,
+               "department": "Costume & Make-Up",
+               "job": "Key Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "598d94c0c3a368752400e7a9",
+               "name": "Deborah Holmes Dobson",
+               "profile_path": null,
+               "id": 1435682,
+               "department": "Costume & Make-Up",
+               "job": "Hair Department Head"
+            },
+            {
+               "gender": 0,
+               "credit_id": "598d94fbc3a36875590102f2",
+               "name": "Geri B. Oppenheim",
+               "profile_path": null,
+               "id": 1534467,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Department Head"
+            },
+            {
+               "gender": 0,
+               "credit_id": "598d952592514178ac00fd16",
+               "name": "Dennis Crow",
+               "profile_path": null,
+               "id": 1867732,
+               "department": "Directing",
+               "job": "First Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "598d954ac3a36875c000e995",
+               "name": "George Hobbs",
+               "profile_path": null,
+               "id": 1395309,
+               "department": "Art",
+               "job": "Property Master"
+            },
+            {
+               "gender": 0,
+               "credit_id": "598d956792514178d600fab5",
+               "name": "Carlos Lima",
+               "profile_path": null,
+               "id": 1867733,
+               "department": "Art",
+               "job": "Leadman"
+            },
+            {
+               "gender": 0,
+               "credit_id": "598d9596c3a368757700ffd0",
+               "name": "Joshua Adeniji",
+               "profile_path": null,
+               "id": 1409545,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "598d95bfc3a36875c3010448",
+               "name": "Michael Amman",
+               "profile_path": null,
+               "id": 1503682,
+               "department": "Sound",
+               "job": "Boom Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "598d95fac3a368758e00fb77",
+               "name": "Nash Cubero Jr.",
+               "profile_path": null,
+               "id": 1855101,
+               "department": "Sound",
+               "job": "Foley Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "598d964492514178d600fbcc",
+               "name": "Brent Findley",
+               "profile_path": null,
+               "id": 80819,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "598d969092514178a40104bd",
+               "name": "Matthew Gionet",
+               "profile_path": null,
+               "id": 1442486,
+               "department": "Sound",
+               "job": "ADR Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "598d971592514178ec00f5c7",
+               "name": "Angela Hemmingway",
+               "profile_path": null,
+               "id": 1867735,
+               "department": "Sound",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "598d974c92514178a40105b5",
+               "name": "Daniel Norwick",
+               "profile_path": null,
+               "id": 1867736,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "598d9781c3a368752400eb15",
+               "name": "Chris Terhune",
+               "profile_path": null,
+               "id": 1338484,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "598d979ac3a368752400eb34",
+               "name": "Dale Champion",
+               "profile_path": null,
+               "id": 1867737,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "598d97d292514178b8010379",
+               "name": "Michael S. Beckman",
+               "profile_path": null,
+               "id": 1867738,
+               "department": "Lighting",
+               "job": "Lighting Technician"
+            },
+            {
+               "gender": 2,
+               "credit_id": "598d981ac3a368755901071a",
+               "name": "Victor Macias",
+               "profile_path": null,
+               "id": 5903,
+               "department": "Camera",
+               "job": "Steadicam Operator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "598d988d925141790100fde0",
+               "name": "Jack L. Zeman",
+               "profile_path": null,
+               "id": 1409781,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "598d98bcc3a36875b100eef1",
+               "name": "Lisa Coffey",
+               "profile_path": null,
+               "id": 1088600,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "598d98e3c3a3687559010852",
+               "name": "David Boyles",
+               "profile_path": null,
+               "id": 1867740,
+               "department": "Production",
+               "job": "Location Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "598d9927c3a368758e00ffbf",
+               "name": "Trygge Toven",
+               "profile_path": null,
+               "id": 1814699,
+               "department": "Sound",
+               "job": "Music Supervisor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "598d99bc925141790100ff76",
+               "name": "Sonia Wisgo",
+               "profile_path": null,
+               "id": 1867744,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "598d9a8bc3a3687559010a2b",
+               "name": "Zach Bradshaw",
+               "profile_path": null,
+               "id": 1509623,
+               "department": "Production",
+               "job": "Production Coordinator"
+            },
+            {
+               "gender": 1,
+               "credit_id": "598d9b1d92514178fc00fdad",
+               "name": "Diane Collins",
+               "profile_path": null,
+               "id": 978494,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "TV Movie",
+            "id": 10770
+         }
+      ],
+      "popularity": 1.368338,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 116853,
+      "vote_count": 22,
+      "budget": 0,
+      "overview": "At the center of one of Hollywood's most notorious burglary rings in 2009 was a group of average, middle-class teens from a quiet suburb. This is the behind-the-scenes story of how Nick, a shy, awkward boy, lured by the promise of popularity and acceptance, found himself following his glamorous, charismatic best friend Rachel into breaking into celebrities' houses and robbing them of millions of dollars in clothes and jewelry.",
+      "similar": [
+         424,
+         72976,
+         205775,
+         96721,
+         253412,
+         407448,
+         324786,
+         281957,
+         321697,
+         441701,
+         2133,
+         236751,
+         5879,
+         48231,
+         625,
+         2669,
+         1646,
+         205220,
+         423899,
+         96936
+      ],
+      "original_title": "The Bling Ring",
+      "runtime": 87,
+      "poster_path": "/jBs8lAQVYhysR29HLDGf3JGQG2D.jpg",
+      "spoken_languages": [{
+         "name": "Français",
+         "iso_639_1": "fr"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "dick clark productions",
+            "id": 3734,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Silver Screen Pictures",
+            "id": 12799,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2011-09-26",
+      "vote_average": 4.2,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": "http://www.mylifetime.com/movies/bling-ring",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Michael Lembeck"],
+      "runtime": 87,
+      "synopsis": null,
+      "writers": ["Shelley Evans"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt1935749/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BNjM5NjAxNjI1Nl5BMl5BanBnXkFtZTgwODY4NTA2MDE@._V1_SY317_CR12,0,214,317_AL_.jpg",
+      "actors": ["Stars: Austin Butler, Yin Chang, Tom Irwin | See full cast and crew »"],
+      "reviews": [
+         "Quite an enjoyable true life movie about how a bunch of LA teens robbed houses of celebrities and sold their clothes jewelery etc. It's hard to believe how naughty the kids were and how they got away with it for so long without gloves and masks. The kids just walked into Paris Hilton's unlocked home and took things. The went into the homes of Orlando Bloom, Megan Fox, Lindsay Lohan too. Quite an interesting look at the celebrity obsessed culture of today and how too much personal information is available online like home addresses and travel schedules. It's lucky they were just after things and not some wackos wanting to hurt the celebrities. The cast is quite good with Yin Chang from Gossip Girl and Austin Butler from Switched at Birth. Both are quite good in their roles. Jennifer Grey is quite good as a concerned mom - she's still a bit unrecognizable after her nose job. Worth a watch.",
+         "The Bling Ring (2011) ** (out of 4) Made-for-TV drama about a group of bored teenagers who became known as \"The Bling Ring\" when they started to gain \"fame\" by breaking into the homes of various celebrities. I'll admit that I had never heard of this film until after seeing the Sofia Coppola version from 2013. I'm really not sure how fair it is to compare the two films but if you must then there's no question that the one from Coppola is the better one with her style completely taking over the subject and delivering a real gem. This film here will probably appeal to more people who just enjoy watching these Lifetime movies. With that said, this here isn't all that bad but at the same time there's just not too much energy or fun to be found here. I think one of the biggest problems is that the majority of the teenage characters are just downright annoying and rather stupid. Perhaps there's a point to this but it doesn't make them very entertaining to watch. I say this because the film really doesn't give you a good idea of what these kids were like outside of their stealing habits but I think the one section where this film does better than the 2013 version is during a few scenes where the addiction to fame is highlighted. The Natalie Kim character's inability to understand the trouble they're in because she just sees herself as being famous is something that is rather interesting and we needed more scenes like this. The most entertaining aspect of this picture is seeing the lead detective (Tom Irwin) working the case and trying to figure out who is doing what. I think the film would have been much better had they centered the entire film around him because of how good Irwin is in the part. Chang is also good in her role as is Austin Baker in the lead but the screenplay doesn't do much for their characters. THE BLING RING is mildly entertaining if you like these made-for-TV films but the 2013 is the way to go.",
+         "It's really tragic when teens without adequate direction meet in school and turn into romping around the home of the stars stealing merchandise from them. Jennifer Gray is unbelievable as the mother of our young male with an anxiety problem. She plays a remarkably naive woman who is actually glad that her son is having a social interaction. The father, way more realistic, can't get the mother to understand that their son has serious hang-ups. Amazing that the police could not get a handle on this gang right away and had to resort to facebook in the end to capture our bandits. Sociologically stimulating to see why teens turn out like this.",
+         "The Bling Ring is an above average, absorbing TV movie. As something that chronicles a bunch of Hollywood brats stealing possessions from celebrity houses, \"Ring\" is swiftly paced, well acted (especially by its lead, Austin Butler), and dutifully told in terms of the old adage being, \"crime doesn't pay.\" Now it doesn't quite end as compelling as it should. Why? Because you don't ultimately know the outcome of most of the characters (unless you know the true story beforehand). Plus, there is an overused device in which certain cast members reflect back on the scandalous events that took place (this is done documentary style like 2006's Alpha Dog). Regardless, the entertainment value in this 2011 Lifetime flick is through the roof. And it's clever in the way it uses today's technology (social media in the form of Facebook) to lead to the demise of the teenage thieves that are clearly in denial. Of note: look for Jennifer Grey (yes the girl from Dirty Dancing) in a surprisingly strong role playing the \"ring\" leader's mother. Plus, you have well known TV director Michael Lembeck behind the camera. His style is effective without being too flashy.",
+         "Even for a TV movie, this one is pretty bad. Now I managed to watch this flick after seeing the 2013 \"The Bling Ring\" which is the better movie but not by much. While the 2013 version I saw it without knowing it's based on a true story, this one I saw it while knowing it's based on a true story. But this one goes away from the truth more, while glamorizing the robbers more. All the characters just seemed unrealistic in a lot of ways and it's not just because of the horrendous acting. The interaction amongst the characters just seemed forced and unrealistic in a lot of ways. Like it just didn't seem like the ways teenagers that would pull these robberies off would say to one another. The 2013 version just seemed to be more tenacious, while having tenacity and better acting. And a better ending. The main protagonist this time actually seemed like the type the girls would give a chance to be around, despite both having a lot of insecurities and wanting to fit in. The connection seemed to be more developed. If it combined certain elements from this flick and 2013 flick, it would have been a better movie as a whole. 3.6/10"
+      ],
+      "genres": ["Drama"],
+      "productionCompanies": [
+         "Dick Clark Productions",
+         "Silver Screen Pictures"
+      ],
+      "summaries": ["Teenagers break into celebrities houses to experience the rich life by stealing their belongings."],
+      "budget": 0
+   },
+   "movielensId": 107299,
+   "movielens": {
+      "languages": ["Français"],
+      "releaseDate": "2011-09-26",
+      "dvdReleaseDate": null,
+      "directors": ["Michael Lembeck"],
+      "runtime": 87,
+      "movieId": 107299,
+      "title": "The Bling Ring",
+      "mpaa": "PG-13",
+      "actors": [
+         "Austin Butler",
+         "Yin Chang",
+         "Jennifer Grey",
+         "Spencer Locke",
+         "Tom Irwin",
+         "Sebastian Sozzi",
+         "Tracey Fairaway",
+         "Wendy Makkena",
+         "Alix Elizabeth Gitter",
+         "Scott Klace",
+         "Renee Olstead",
+         "Alex Feldman",
+         "Blake Robbins",
+         "Michael Rose",
+         "Sydney Sweeney",
+         "Mario Rivelli",
+         "Natalie Floyd",
+         "Shawn H. Smith",
+         "Persephone Apostolou",
+         "Tom Knickerbocker",
+         "Roy Jackson",
+         "Ben Mankiewicz",
+         "India Irving",
+         "Billy Snow",
+         "Emily Happe",
+         "Jeanine Mason",
+         "Sonya Leslie",
+         "Louie Alegria",
+         "Zachary Knower",
+         "Cyd Strittmatter",
+         "Ellen Fox"
+      ],
+      "imdbMovieId": "1935749",
+      "originalTitle": "The Bling Ring",
+      "genres": [
+         "Drama",
+         "TV Movie"
+      ],
+      "youtubeTrailerIds": [],
+      "plotSummary": "At the center of one of Hollywood's most notorious burglary rings in 2009 was a group of average, middle-class teens from a quiet suburb. This is the behind-the-scenes story of how Nick, a shy, awkward boy, lured by the promise of popularity and acceptance, found himself following his glamorous, charismatic best friend Rachel into breaking into celebrities' houses and robbing them of millions of dollars in clothes and jewelry.",
+      "tmdbMovieId": 116853,
+      "avgRating": 3.03333,
+      "releaseYear": "2011",
+      "numRatings": 15,
+      "posterPath": "/jBs8lAQVYhysR29HLDGf3JGQG2D.jpg"
+   }
+}

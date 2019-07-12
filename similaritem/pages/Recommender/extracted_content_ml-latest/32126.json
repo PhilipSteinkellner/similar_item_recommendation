@@ -1,0 +1,615 @@
+{
+   "tmdb": {
+      "original_language": "pt",
+      "keywords": [
+         {
+            "name": "portugal",
+            "id": 324
+         },
+         {
+            "name": "socialism",
+            "id": 1773
+         },
+         {
+            "name": "war",
+            "id": 6091
+         },
+         {
+            "name": "dictatorship",
+            "id": 7606
+         },
+         {
+            "name": "history",
+            "id": 9682
+         },
+         {
+            "name": "woman director",
+            "id": 187056
+         },
+         {
+            "name": "military coup",
+            "id": 194320
+         }
+      ],
+      "imdb_id": "tt0120626",
+      "video": false,
+      "title": "Captains of April",
+      "recommendations": [
+         67451,
+         151433,
+         250278,
+         177208,
+         84016,
+         215256,
+         83827,
+         109192,
+         58098,
+         88860,
+         42681,
+         72479,
+         99387,
+         154019,
+         29008,
+         41187,
+         26296,
+         49697,
+         53016,
+         52710
+      ],
+      "backdrop_path": "/vJDCPdbQvDl6ur9pOOM4uNXi9fC.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 4,
+               "character": "Maia",
+               "gender": 2,
+               "credit_id": "52fe4898c3a36847f816fe71",
+               "name": "Stefano Accorsi",
+               "profile_path": "/2XHLTLHIqnFxLEigvIjaf9IxVDf.jpg",
+               "id": 65571,
+               "order": 0
+            },
+            {
+               "cast_id": 5,
+               "character": "Antónia",
+               "gender": 1,
+               "credit_id": "52fe4898c3a36847f816fe75",
+               "name": "Maria de Medeiros",
+               "profile_path": "/q1DKWoG16njgoku7MIK38VDHjjf.jpg",
+               "id": 2319,
+               "order": 1
+            },
+            {
+               "cast_id": 6,
+               "character": "Gervásio",
+               "gender": 2,
+               "credit_id": "52fe4898c3a36847f816fe79",
+               "name": "Joaquim de Almeida",
+               "profile_path": "/AiBNELVvARLrTFdOgEgMZQRiqvA.jpg",
+               "id": 22462,
+               "order": 2
+            },
+            {
+               "cast_id": 7,
+               "character": "Manuel",
+               "gender": 2,
+               "credit_id": "52fe4898c3a36847f816fe7d",
+               "name": "Frédéric Pierrot",
+               "profile_path": "/7tdnvy2cLeohbF7p4RnpzHKG8u2.jpg",
+               "id": 9005,
+               "order": 3
+            },
+            {
+               "cast_id": 8,
+               "character": "Lobão",
+               "gender": 2,
+               "credit_id": "52fe4898c3a36847f816fe81",
+               "name": "Fele Martínez",
+               "profile_path": "/7Hccxji7taf2NmfNBiXBnQLCyHk.jpg",
+               "id": 1602,
+               "order": 4
+            },
+            {
+               "cast_id": 9,
+               "character": "Fonseca",
+               "gender": 0,
+               "credit_id": "52fe4898c3a36847f816fe85",
+               "name": "Manuel João Vieira",
+               "profile_path": "/iq6PjHLBRFCTQ9jJ1e0g0l19aPF.jpg",
+               "id": 150499,
+               "order": 5
+            },
+            {
+               "cast_id": 10,
+               "character": "Silva",
+               "gender": 0,
+               "credit_id": "52fe4898c3a36847f816fe89",
+               "name": "Marcantonio Del Carlo",
+               "profile_path": "/xysMfsEytFx1v9hIPFZMKQwRHHj.jpg",
+               "id": 150500,
+               "order": 6
+            },
+            {
+               "cast_id": 11,
+               "character": "Botelho",
+               "gender": 0,
+               "credit_id": "52fe4898c3a36847f816fe8d",
+               "name": "Emmanuel Salinger",
+               "profile_path": "/6OURdyJi368Iy6grzOwngVUP0I.jpg",
+               "id": 38882,
+               "order": 7
+            },
+            {
+               "cast_id": 12,
+               "character": "Rosa",
+               "gender": 0,
+               "credit_id": "52fe4898c3a36847f816fe91",
+               "name": "Rita Durão",
+               "profile_path": "/8IcRxx1eV3IB4UzOoSRFycIgfZm.jpg",
+               "id": 150502,
+               "order": 8
+            },
+            {
+               "cast_id": 14,
+               "character": "Daniel",
+               "gender": 0,
+               "credit_id": "52fe4898c3a36847f816fe95",
+               "name": "Duarte Guimarães",
+               "profile_path": null,
+               "id": 150504,
+               "order": 9
+            },
+            {
+               "cast_id": 15,
+               "character": "Fernandes",
+               "gender": 0,
+               "credit_id": "52fe4898c3a36847f816fe99",
+               "name": "Manuel Lobão",
+               "profile_path": null,
+               "id": 150505,
+               "order": 10
+            },
+            {
+               "cast_id": 16,
+               "character": "Gabriel",
+               "gender": 2,
+               "credit_id": "52fe4898c3a36847f816fe9d",
+               "name": "Manuel Manquiña",
+               "profile_path": "/5coWFdRxDQ9VQ9i7s2WNBmfH0iS.jpg",
+               "id": 264955,
+               "order": 11
+            },
+            {
+               "cast_id": 17,
+               "character": "Brigadeiro Pais",
+               "gender": 0,
+               "credit_id": "599ad327c3a36839f9018537",
+               "name": "Luís Miguel Cintra",
+               "profile_path": "/bVv9Hgy62EhGWsuFAf4kc7zQ417.jpg",
+               "id": 234486,
+               "order": 12
+            },
+            {
+               "cast_id": 18,
+               "character": "Filipe",
+               "gender": 2,
+               "credit_id": "599ad32e9251414a21017120",
+               "name": "Joaquim Leitão",
+               "profile_path": "/eNDsWJseXbHqOnWn1Fcrgwn4Hjy.jpg",
+               "id": 1038590,
+               "order": 13
+            },
+            {
+               "cast_id": 19,
+               "character": "Salieri",
+               "gender": 0,
+               "credit_id": "599ad3409251414a18017313",
+               "name": "Canto e Castro",
+               "profile_path": "/o0k0yCBT1EVC8jiwv9sFcnRYRd1.jpg",
+               "id": 233943,
+               "order": 14
+            },
+            {
+               "cast_id": 20,
+               "character": "Rui Gama",
+               "gender": 2,
+               "credit_id": "599ad34dc3a3683a0701644c",
+               "name": "Rogério Samora",
+               "profile_path": "/aXtlrZNMvaSfRpg4qYk0JfRoUa9.jpg",
+               "id": 628253,
+               "order": 15
+            },
+            {
+               "cast_id": 21,
+               "character": "Emílio",
+               "gender": 0,
+               "credit_id": "599ad35cc3a36839f9018571",
+               "name": "Pedro Hestnes",
+               "profile_path": null,
+               "id": 249397,
+               "order": 16
+            },
+            {
+               "cast_id": 22,
+               "character": "Radio speaker",
+               "gender": 0,
+               "credit_id": "599ad36c92514149cc017876",
+               "name": "Marcello Urgeghe",
+               "profile_path": "/ppip6sYpMniwFIKj3OJuCik7nWK.jpg",
+               "id": 1019089,
+               "order": 17
+            },
+            {
+               "cast_id": 23,
+               "character": "Paulo Ruivo",
+               "gender": 0,
+               "credit_id": "599ad37b92514149c501797a",
+               "name": "José Airosa",
+               "profile_path": "/4ocHMCV39EfZHBeOde8Azsy3HdQ.jpg",
+               "id": 1148205,
+               "order": 18
+            },
+            {
+               "cast_id": 24,
+               "character": "Chamarro",
+               "gender": 0,
+               "credit_id": "599ad389c3a3683948017c01",
+               "name": "António Capelo",
+               "profile_path": "/xHx0KASWDxxJsVHmGKCh0iWRYNy.jpg",
+               "id": 930771,
+               "order": 19
+            },
+            {
+               "cast_id": 25,
+               "character": "Spínola",
+               "gender": 0,
+               "credit_id": "599ad393c3a36839e8017fb4",
+               "name": "Ruy de Carvalho",
+               "profile_path": "/xQTwqGIMNXhrV9JZJe6vvOxrZO2.jpg",
+               "id": 1168435,
+               "order": 20
+            },
+            {
+               "cast_id": 26,
+               "character": "Virgílio",
+               "gender": 2,
+               "credit_id": "599ad3a292514149c501799e",
+               "name": "José Eduardo",
+               "profile_path": "/mSaQVma3Zt2eK1pJnKKlZAfkUfI.jpg",
+               "id": 560281,
+               "order": 21
+            },
+            {
+               "cast_id": 27,
+               "character": "Coronel Matos",
+               "gender": 0,
+               "credit_id": "599ad3b5c3a3683978016e0c",
+               "name": "Carlos Vale Ferraz",
+               "profile_path": null,
+               "id": 108450,
+               "order": 22
+            },
+            {
+               "cast_id": 28,
+               "character": "Old Sergeant",
+               "gender": 0,
+               "credit_id": "599ad3c492514149c50179cb",
+               "name": "Pedro Efe",
+               "profile_path": "/93mBOgGAcWQ5GSNlIscv4J9amHt.jpg",
+               "id": 1159170,
+               "order": 23
+            },
+            {
+               "cast_id": 29,
+               "character": "Brigadeiro Moura",
+               "gender": 0,
+               "credit_id": "599ad3ddc3a368693400e7c2",
+               "name": "Henrique Viana",
+               "profile_path": "/3hm3yxC97BHSSCYF5Ib02sYHVFv.jpg",
+               "id": 108453,
+               "order": 24
+            },
+            {
+               "cast_id": 30,
+               "character": "Coronel Lopes",
+               "gender": 0,
+               "credit_id": "599ad3eb9251414a210171ef",
+               "name": "Luís Mascarenhas",
+               "profile_path": "/fPnpHw1yqWMGMwSan45lhqImK8m.jpg",
+               "id": 1203335,
+               "order": 25
+            },
+            {
+               "cast_id": 31,
+               "character": "Jornalista Caxias",
+               "gender": 0,
+               "credit_id": "599ad3fb9251414a060167bb",
+               "name": "João Lagarto",
+               "profile_path": "/ur2yXR5WmUucIW18QNVaeuKpB2I.jpg",
+               "id": 225207,
+               "order": 26
+            },
+            {
+               "cast_id": 32,
+               "character": "Florist",
+               "gender": 0,
+               "credit_id": "599ad412c3a36839e8018058",
+               "name": "Sano De Perpessac",
+               "profile_path": null,
+               "id": 1321631,
+               "order": 27
+            },
+            {
+               "cast_id": 33,
+               "character": "Crowd Journalist",
+               "gender": 2,
+               "credit_id": "599ad42692514149cc01793a",
+               "name": "Vasco Pimentel",
+               "profile_path": "/97gSl9dvcFTkWCxbvZP6By7SgaU.jpg",
+               "id": 1281664,
+               "order": 28
+            }
+         ],
+         "crew": [
+            {
+               "gender": 1,
+               "credit_id": "52fe4898c3a36847f816fe61",
+               "name": "Maria de Medeiros",
+               "profile_path": "/q1DKWoG16njgoku7MIK38VDHjjf.jpg",
+               "id": 2319,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4898c3a36847f816fe67",
+               "name": "Ève Deboise",
+               "profile_path": null,
+               "id": 150498,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4898c3a36847f816fe6d",
+               "name": "Maria de Medeiros",
+               "profile_path": "/q1DKWoG16njgoku7MIK38VDHjjf.jpg",
+               "id": 2319,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "599ad4409251414a06016801",
+               "name": "Jacques Bidou",
+               "profile_path": null,
+               "id": 240087,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "599ad453c3a36839f901868a",
+               "name": "António Victorino d'Almeida",
+               "profile_path": null,
+               "id": 1724471,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "599ad465c3a36839e80180cc",
+               "name": "Michel Abramowicz",
+               "profile_path": null,
+               "id": 55774,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "599ad4719251414a0d017d33",
+               "name": "Jacques Witta",
+               "profile_path": null,
+               "id": 1136,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "599ad4a2c3a36839e8018123",
+               "name": "Jérôme Thiault",
+               "profile_path": null,
+               "id": 1873756,
+               "department": "Sound",
+               "job": "Sound Designer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "History",
+            "id": 36
+         }
+      ],
+      "popularity": 1.319768,
+      "production_countries": [
+         {
+            "iso_3166_1": "PT",
+            "name": "Portugal"
+         },
+         {
+            "iso_3166_1": "ES",
+            "name": "Spain"
+         },
+         {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+         },
+         {
+            "iso_3166_1": "FR",
+            "name": "France"
+         }
+      ],
+      "id": 54380,
+      "vote_count": 20,
+      "budget": 6105121,
+      "overview": "Story of the 1974 coup that overthrew the right-wing Portuguese dictatorship--which continued the fascist policies of long-time dictator Antonio Salazar--and of two young army captains who were involved in it.",
+      "similar": [
+         858,
+         112160,
+         141,
+         634,
+         227306,
+         242224,
+         43923,
+         6637,
+         346672,
+         437557,
+         297762,
+         2011,
+         27586,
+         12289,
+         2771,
+         9587,
+         3134,
+         11236,
+         13075,
+         56224
+      ],
+      "original_title": "Capitães de Abril",
+      "runtime": 123,
+      "poster_path": "/4sqhxpAChYBOhpUVA2Uk9RmXpcZ.jpg",
+      "spoken_languages": [{
+         "name": "Português",
+         "iso_639_1": "pt"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Alia Films",
+            "id": 1244,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "France 2 Cinéma",
+            "id": 83,
+            "origin_country": "FR"
+         },
+         {
+            "logo_path": null,
+            "name": "Instituto Português da Arte Cinematográfica e Audiovisual (IPACA)",
+            "id": 8491,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2000-04-21",
+      "vote_average": 6.1,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Portugal",
+      "color": "Color",
+      "budgetCurrency": "FRF ",
+      "directors": ["Maria de Medeiros"],
+      "runtime": 123,
+      "synopsis": null,
+      "writers": [
+         "Ève Deboise",
+         "Maria de Medeiros"
+      ],
+      "originalLanguage": "Portuguese",
+      "imdbLink": "http://www.imdb.com/title/tt0120626/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BNTU5NDYzMTUwN15BMl5BanBnXkFtZTcwNjkwODIyMQ@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Stefano Accorsi, Maria de Medeiros, Joaquim de Almeida | See full cast and crew »"],
+      "reviews": [
+         "Probably the first Portuguese film I have seen in my life, and I enjoyed it. The plot is related of how the young army officers took the power in Portugal in 1974, to finally defeat the fascist government of Caetano and to also finalize the wars in the colonies, i.e. Mozambique, Angola, and Guinea (Bissau)- Cape Vert. Most of the events shown in the film reflect with exactitude the behavior of the army officers and soldiers to conduct the coup, of the oppressed people, who were very happy with this new development and the liberty, the resistance of Caetano's men, and also in a subtle way of most conservative officials, including Spinola, who took over as the new president. The Portuguese revolution can be remembered because of the action of several young officers, but for me the most interesting part of the film was when the young captain expressed that Portugal should develop itself democratically, and this is what the country achieved some years after this coup or revolution. The film also shows that the army officers and soldiers never wanted to kill anyone; even the most serious enemies were respected at the end.",
+         "Being half-portuguese doesn't render me half-blind (nor half-prejudiced) when discussing portuguese films. Not that I get to do that very often anyway. But this film was such a rush of adrenaline! Yes, that's right - it was mostly accurate as far as history went/goes - but it pulled no punches on venturing beyond usual portuguese-film territory: things like using real locations in the middle of traffic-congested Lisbon and recruiting a real crowd to stand in for the real crowd of almost 30 years ago. And by God did they get it right! OK, to sum it up: very emotional if you've lived through it, but you'll spot minor improvements that could have been made as well as plot necessities that were. If you're just watching it randomly, you're in for a good historical romp, only of the very recent History kind and a bit more thought-proving than usual. Even by European standards, yes.",
+         "\"Capitães de Abril\" is a very good. The story isn't a documentary about the 1974 revolution in Portugal. But it gives us an idea of how it was like. The fiction of the story isn't of great interest, but it doesn't spoil the movie. The heroic actions of Captain Salgueiro Maia aren't exaggerations and the film is also a tribute for his deeds. Captain Salgueiro Maia remains one of the greatest heroes of the 25th of April Revolution. All the actors are very good and even the smallest roles are played wonderfully. Lisbon looks beautiful as ever. Don't miss it! I liked this film very much.",
+         "9/7 8:45 pm APRIL CAPTAINS (**** out of a possible 5) Excellent, if slightly overlong film about the Portuguese coup d'etat in 1974. Best Line: \"Coup d'etat. Can we come in?\" The humor was a welcome surprise. Spoke with writer/director Maria de Medeiros afterwards. She was very sweet and lovely and asked me to \"salute my mother\" for her since they met recently in Avingnon.",
+         "You know? Our spirit is based on that revolution, it's asleep... I can explain, I think!! Well... Until that happen on 25th April 1974, our freedom was limited, we didn't had liberty of speech, but when we got it at the revolution, it seems that Portuguese People lost his opinion, we don't use our liberty of speech! That's all a consequence of the revolution! I think that's clear!... About the movie... I think that it has a few mistakes on some character's acting, but by the way I use to watch on Portuguese movies it's quite good!! I like it very much!",
+         "Principally it is the story of two men who were part of the Portuguese revolution. It was easy to understand the contest, but usually directors starts from a historical fact to speak about something else, or they shows also the period before or after this fact, here everything happen during that couple of days when the revolution acts. It could also be seen as a kind of documentary. The movie focalize to these two people, showing as normal they were, not like common heroes, because the revolution come from people. Although it was made from military army from the title you can understand that they were just \"capitaes\" as the main characters. Nice colors and lights during the whole movie, excellent work for the director being her first movie, she doesn't fall to the banal way. Well shown emotions and passion of people and crowd. The character of Maia (main one)is well-made and there is also a good interpretation for Stefano Accorsi, able to show Maia's limits, this not-being an hero.",
+         "The events that led to the elimination of the long and cruel dictatorship of Salazar in Portugal in April of 1974, are examined in this ambitious film directed by actress Maria de Medeiros. The screen play is a collaboration by Ms. de Medeiros and Eve Deboise. The story is both women's interpretation of what occurred in the country since the director was only 9 years old that fateful April. The film pays tribute to the men that plotted the coup and the way they conducted themselves throughout the ordeal. The \"Carnation Revolution\", as it was baptized by the media, was an example restraint as there was no bloodshed during the days when it was happening, or in the days following, which brought Portugal to a democracy that had been denied to its citizens by a cruel dictator. The main point of contention with the military men in charge of the coup was to correct the abuses Portugal had inflicted in the colonies in Africa, where they had been responsible for the deaths of countless of natives that wanted to get rid of the invaders. At the same time, many of Portuguese soldiers died during the wars that were waged overseas. The basic problem with the story, the way it's told on the screen, is a weak screen play that doesn't fully make sense of most of what the viewer is watching. If the viewer doesn't have a certain background about what is going on, he will be lost by what the writers of the picture decided to focus the action on. There is also a problem with the action, which at times, has a flat feeling to it that renders some moments as static and meaningless. This film will resonate with Portuguese, of course, because it marked the beginning of the actual democracy. Maria de Medeiros should have served the film better either by staying behind the camera, or letting some other director be in command. Stefano Accorsi, a fine Italian actor, is the best thing in the film as Maia. Joaquim de Almeida's Gervasio is a puzzle at best. When we first meet him, he appears to be in favor of the uprising, then changes his mind, only to come back on board again. This duality in his character doesn't help in the over all narrative. The same go for Frederic Pierrot, who plays Manuel, Antonia's husband. Fele Martinez, the Spanish actor, has little to do. While the film is entertaining, another treatment for the story would have made a better and stronger movie. One wishes Maria de Medeiros to succeed. Perhaps the next time she will be better prepared to give her viewers a tighter and more controlled story.",
+         "I've seen this film a few minutes ago and i'm still carrying that feeling of satisfaction and identification with the characters you usually get with movies that touch you someway. And, if the film wasn't particularly intelligent, one thing touched me the most: its array of technical achievements. I already knew it was the most expensive movie of portuguese history. I already knew they had cranes, dollys, steadycams and all sorts of sound and image devices. I also knew they payed 5000 escudos (something like 25 dollars) to each extra, for each day of filming, since I was on the set, shouting alongside the others. But my fear was that the director who had a movie debut of 5000 dollars wasn't up to the challenge, spending most of her money learning and using basic shots. But it was surprising to see that Maria de Medeiros used her resources with taste, and professionalism. As for the story, I think it's somewhat simplified, but, given the budget, I think it's still incredible to see what they accomplished. As a future director, I hope and pray that portuguese cinema continues to evolve this way, inventing, surprising, earning profit, and (most importantly) audience. Two thumbs up, I loved it. Bravo!",
+         "For her feature directing debut, Maria de Medeiros (\"Pulp Fiction\", \"Henry and June\") has certainly taken on a big story: the Portuguese Revolution of the 25th of April 1974. However, the film isn't a history lesson; rather a fictional story that introduces fictional characters and situations into the actual historical facts and places of the day, alongside some of its real protagonists. It's basically a schoolboy comic-book adventure, full of naive heroics and larger-than-life moments, quite well played and adroitly directed; the script is the weakest link, fanning out into a number of parallel stories some of which are rather pointless. The film exudes the contagious energy and juvenile joy of actually living out an adventure (although one might point out that no, the actual Revolution was not an adventure!), and it's precisely that schoolboy-adventure side that, along with its no-nonsense storytelling which adheres relatively faithfully to the actual run of events, is enough to recommend it. .",
+         "A true story about a true revolution, 25 of April ; a revolution against a repressive regime of 41 years, that was imposing a colonial war on it's military's, for maintaining an empire (Angola, Mozambique, Guine-Bissau, Cabo Verde, S. Tomé e Principe; the first and the last of the great colonial empire's of Europe) of 600 years, since it's beginning in the conquest of Ceuta in 1415; a revolution by the army for the people, and for a democratic Portugal; the most's surprising fact in this revolution is that it were no people killed in it (except those that died in the hand's of PIDE, the political police of the State, during a brutal gunfire against an unarmed crowd protesting in front of it's headquarters in the day of the revolution, in 25 of April 1974, has it show's on the film).And has all revolutions it has it's heroes, one them of was Captain Salgueiro Maia, a returned soldier from the war, whose convictions along with the rest of the army, was that they were fighting (since 1961) a hopeless war, and that sometimes a soldier has to disobey it's country."
+      ],
+      "genres": [
+         "Drama",
+         "History",
+         "War"
+      ],
+      "productionCompanies": [
+         "Alia Film",
+         "France 2 Cinéma",
+         "Instituto Português da Arte Cinematográfica e Audiovisual (IPACA)"
+      ],
+      "summaries": ["Story of the 1974 coup that overthrew the right-wing Portuguese dictatorship--which continued the fascist policies of long-time dictator Antonio Salazar--and of two young army captains who were involved in it."],
+      "budget": 30000000
+   },
+   "movielensId": 32126,
+   "movielens": {
+      "languages": ["Português"],
+      "releaseDate": "2000-04-21",
+      "dvdReleaseDate": "2005-02-15",
+      "directors": ["Maria de Medeiros"],
+      "runtime": 123,
+      "movieId": 32126,
+      "title": "Captains of April",
+      "mpaa": null,
+      "actors": [
+         "Stefano Accorsi",
+         "Maria de Medeiros",
+         "Joaquim de Almeida",
+         "Frédéric Pierrot",
+         "Fele Martínez",
+         "Manuel João Vieira",
+         "Marcantonio Del Carlo",
+         "Emmanuel Salinger",
+         "Rita Durão",
+         "Duarte Guimarães",
+         "Manuel Lobão",
+         "Manuel Manquiña",
+         "Luís Miguel Cintra",
+         "Joaquim Leitão",
+         "Canto e Castro",
+         "Rogério Samora",
+         "Pedro Hestnes",
+         "Marcello Urgeghe",
+         "José Airosa",
+         "António Capelo",
+         "Ruy de Carvalho",
+         "José Eduardo",
+         "Carlos Vale Ferraz",
+         "Pedro Efe",
+         "Henrique Viana",
+         "Luís Mascarenhas",
+         "João Lagarto",
+         "Sano De Perpessac",
+         "Vasco Pimentel"
+      ],
+      "imdbMovieId": "0120626",
+      "originalTitle": "Capitães de Abril",
+      "genres": [
+         "Drama",
+         "History"
+      ],
+      "youtubeTrailerIds": ["O2MJxj06kho"],
+      "plotSummary": "Story of the 1974 coup that overthrew the right-wing Portuguese dictatorship--which continued the fascist policies of long-time dictator Antonio Salazar--and of two young army captains who were involved in it.",
+      "tmdbMovieId": 54380,
+      "avgRating": 2.875,
+      "releaseYear": "2000",
+      "numRatings": 8,
+      "posterPath": "/4sqhxpAChYBOhpUVA2Uk9RmXpcZ.jpg"
+   }
+}

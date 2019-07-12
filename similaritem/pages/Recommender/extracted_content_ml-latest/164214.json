@@ -1,0 +1,872 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "mercenary",
+            "id": 3070
+         },
+         {
+            "name": "zombie apocalypse",
+            "id": 186565
+         }
+      ],
+      "imdb_id": "tt1453245",
+      "video": false,
+      "title": "Devil's Playground",
+      "recommendations": [
+         252189,
+         40912,
+         44008,
+         254426,
+         221737,
+         46467,
+         228558,
+         177146,
+         21562,
+         28282,
+         66795,
+         108181,
+         21166,
+         325827,
+         68212,
+         80195,
+         61341,
+         84449,
+         70259,
+         17166
+      ],
+      "backdrop_path": "/46SbZ1op5raguocziWReSrSqurT.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 49,
+               "character": "Angela",
+               "gender": 1,
+               "credit_id": "53d2268dc3a368777500b4d4",
+               "name": "MyAnna Buring",
+               "profile_path": "/7OIcEU8hlPqtQDWq2uE8UbLHNAs.jpg",
+               "id": 57578,
+               "order": 0
+            },
+            {
+               "cast_id": 5,
+               "character": "Joe",
+               "gender": 2,
+               "credit_id": "52fe4723c3a36847f81255af",
+               "name": "Danny Dyer",
+               "profile_path": "/wrBb7onYgbukyi5gXPGkAoYjtB8.jpg",
+               "id": 41042,
+               "order": 1
+            },
+            {
+               "cast_id": 6,
+               "character": "Cole",
+               "gender": 2,
+               "credit_id": "52fe4723c3a36847f81255b3",
+               "name": "Craig Fairbrass",
+               "profile_path": "/z5WnSqwkM0Ax0Z47etVNmcew5Pn.jpg",
+               "id": 51799,
+               "order": 2
+            },
+            {
+               "cast_id": 7,
+               "character": "Rob",
+               "gender": 2,
+               "credit_id": "52fe4723c3a36847f81255b7",
+               "name": "Sean Pertwee",
+               "profile_path": "/mHNlvnrlFvNddFY6isD0S40lAIu.jpg",
+               "id": 28848,
+               "order": 3
+            },
+            {
+               "cast_id": 8,
+               "character": "Peter White",
+               "gender": 2,
+               "credit_id": "52fe4723c3a36847f81255bb",
+               "name": "Colin Salmon",
+               "profile_path": "/2RHy23vEDs0JRI4uy6IXNxKOrzL.jpg",
+               "id": 5414,
+               "order": 4
+            },
+            {
+               "cast_id": 9,
+               "character": "Kate",
+               "gender": 1,
+               "credit_id": "52fe4723c3a36847f81255bf",
+               "name": "Lisa McAllister",
+               "profile_path": "/aEC3kXwCwqEB1brSHWpGOWguHzH.jpg",
+               "id": 139946,
+               "order": 5
+            },
+            {
+               "cast_id": 10,
+               "character": "Geoffrey",
+               "gender": 2,
+               "credit_id": "52fe4723c3a36847f81255c3",
+               "name": "Shane Taylor",
+               "profile_path": "/3Gu2kED8msme4Adx7j3neiltXmf.jpg",
+               "id": 126429,
+               "order": 6
+            },
+            {
+               "cast_id": 11,
+               "character": "Steve",
+               "gender": 2,
+               "credit_id": "52fe4723c3a36847f81255c7",
+               "name": "Craig Conway",
+               "profile_path": "/trFSWzoXNgWYFMicJSlBQhphGNp.jpg",
+               "id": 94956,
+               "order": 7
+            },
+            {
+               "cast_id": 12,
+               "character": "Matt",
+               "gender": 2,
+               "credit_id": "52fe4723c3a36847f81255cb",
+               "name": "Bart Ruspoli",
+               "profile_path": "/4axo1MrSGRxKC3KsjmEGN4gNerE.jpg",
+               "id": 139945,
+               "order": 8
+            },
+            {
+               "cast_id": 13,
+               "character": "Andy Billing",
+               "gender": 2,
+               "credit_id": "52fe4723c3a36847f81255cf",
+               "name": "Alistair Petrie",
+               "profile_path": "/tC5CHVPnxAMqF0W0csTqcDAawwj.jpg",
+               "id": 56100,
+               "order": 9
+            },
+            {
+               "cast_id": 14,
+               "character": "Dr Brooke",
+               "gender": 2,
+               "credit_id": "52fe4723c3a36847f81255d3",
+               "name": "Del Henney",
+               "profile_path": null,
+               "id": 14949,
+               "order": 10
+            },
+            {
+               "cast_id": 15,
+               "character": "Zombie",
+               "gender": 0,
+               "credit_id": "52fe4723c3a36847f81255d7",
+               "name": "Phoenix James",
+               "profile_path": null,
+               "id": 139947,
+               "order": 11
+            },
+            {
+               "cast_id": 16,
+               "character": "Reporter",
+               "gender": 0,
+               "credit_id": "52fe4723c3a36847f81255db",
+               "name": "Victoria Pritchard",
+               "profile_path": null,
+               "id": 139948,
+               "order": 12
+            },
+            {
+               "cast_id": 17,
+               "character": "John Healy",
+               "gender": 0,
+               "credit_id": "52fe4723c3a36847f81255df",
+               "name": "Paul Corkery",
+               "profile_path": null,
+               "id": 139949,
+               "order": 13
+            },
+            {
+               "cast_id": 18,
+               "character": "Parkour Zombie",
+               "gender": 0,
+               "credit_id": "52fe4723c3a36847f81255e3",
+               "name": "Simon Berry",
+               "profile_path": null,
+               "id": 139950,
+               "order": 14
+            },
+            {
+               "cast_id": 19,
+               "character": "Landlord",
+               "gender": 0,
+               "credit_id": "52fe4723c3a36847f81255e7",
+               "name": "Nick Cavaliere",
+               "profile_path": null,
+               "id": 139951,
+               "order": 15
+            },
+            {
+               "cast_id": 20,
+               "character": "Zombie",
+               "gender": 0,
+               "credit_id": "52fe4723c3a36847f81255eb",
+               "name": "Louis Murrall",
+               "profile_path": null,
+               "id": 139952,
+               "order": 16
+            },
+            {
+               "cast_id": 21,
+               "character": "Morgan",
+               "gender": 0,
+               "credit_id": "52fe4723c3a36847f81255ef",
+               "name": "Michael Eaves",
+               "profile_path": null,
+               "id": 139953,
+               "order": 17
+            },
+            {
+               "cast_id": 22,
+               "character": "Parkour zombie",
+               "gender": 0,
+               "credit_id": "52fe4723c3a36847f81255f3",
+               "name": "Zayn Alam",
+               "profile_path": null,
+               "id": 139954,
+               "order": 18
+            },
+            {
+               "cast_id": 23,
+               "character": "Jim",
+               "gender": 0,
+               "credit_id": "52fe4723c3a36847f81255f7",
+               "name": "Jack Healy",
+               "profile_path": null,
+               "id": 139955,
+               "order": 19
+            },
+            {
+               "cast_id": 24,
+               "character": "Cooper",
+               "gender": 0,
+               "credit_id": "52fe4723c3a36847f81255fb",
+               "name": "Ben Shafik",
+               "profile_path": null,
+               "id": 139956,
+               "order": 20
+            },
+            {
+               "cast_id": 25,
+               "character": "Coles ex partner",
+               "gender": 0,
+               "credit_id": "52fe4723c3a36847f81255ff",
+               "name": "Martin Butler",
+               "profile_path": null,
+               "id": 139957,
+               "order": 21
+            },
+            {
+               "cast_id": 26,
+               "character": "Parkour Zombie",
+               "gender": 0,
+               "credit_id": "52fe4723c3a36847f8125603",
+               "name": "Kieran Underwood",
+               "profile_path": null,
+               "id": 139958,
+               "order": 22
+            },
+            {
+               "cast_id": 27,
+               "character": "Parkour Zombie",
+               "gender": 0,
+               "credit_id": "52fe4723c3a36847f8125607",
+               "name": "Jordan Burnett",
+               "profile_path": null,
+               "id": 139959,
+               "order": 23
+            },
+            {
+               "cast_id": 28,
+               "character": "Parkour Zombie",
+               "gender": 0,
+               "credit_id": "52fe4723c3a36847f812560b",
+               "name": "Bozhin Gyoshev",
+               "profile_path": null,
+               "id": 139960,
+               "order": 24
+            },
+            {
+               "cast_id": 29,
+               "character": "Zombie",
+               "gender": 0,
+               "credit_id": "52fe4723c3a36847f812560f",
+               "name": "A.J. Seymour",
+               "profile_path": null,
+               "id": 139961,
+               "order": 25
+            },
+            {
+               "cast_id": 30,
+               "character": "Zombie",
+               "gender": 0,
+               "credit_id": "52fe4723c3a36847f8125613",
+               "name": "Jamie O'Rourke",
+               "profile_path": null,
+               "id": 139962,
+               "order": 26
+            },
+            {
+               "cast_id": 31,
+               "character": "Parkour Zombie",
+               "gender": 0,
+               "credit_id": "52fe4723c3a36847f8125617",
+               "name": "Gary Lawrence",
+               "profile_path": null,
+               "id": 139963,
+               "order": 27
+            },
+            {
+               "cast_id": 32,
+               "character": "Joe's Double",
+               "gender": 0,
+               "credit_id": "52fe4723c3a36847f812561b",
+               "name": "Adam Robinson",
+               "profile_path": null,
+               "id": 139964,
+               "order": 28
+            },
+            {
+               "cast_id": 48,
+               "character": "Lavinia",
+               "gender": 1,
+               "credit_id": "52fe4723c3a36847f8125671",
+               "name": "Jaime Murray",
+               "profile_path": "/t5N8YAQ8Dr2ql1ncRTFa1FMGMAl.jpg",
+               "id": 1223059,
+               "order": 29
+            },
+            {
+               "cast_id": 71,
+               "character": "Scared Person on Street",
+               "gender": 1,
+               "credit_id": "57fa1ba0c3a3686fed0069b6",
+               "name": "Jo Martin",
+               "profile_path": "/zPOdfCCuGORvIP6Mz0ah81QPWqG.jpg",
+               "id": 1691876,
+               "order": 30
+            },
+            {
+               "cast_id": 33,
+               "character": "Journalist / Neighbour / Scared person (uncredited)",
+               "gender": 0,
+               "credit_id": "52fe4723c3a36847f812561f",
+               "name": "Shaun Lucas",
+               "profile_path": null,
+               "id": 139965,
+               "order": 31
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4723c3a36847f81255a1",
+               "name": "Mark McQueen",
+               "profile_path": null,
+               "id": 139944,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4723c3a36847f81255a7",
+               "name": "Bart Ruspoli",
+               "profile_path": "/4axo1MrSGRxKC3KsjmEGN4gNerE.jpg",
+               "id": 139945,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4723c3a36847f8125625",
+               "name": "James Edward Barker",
+               "profile_path": null,
+               "id": 1015903,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4723c3a36847f812562b",
+               "name": "Jason Shepherd",
+               "profile_path": null,
+               "id": 133992,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4723c3a36847f8125631",
+               "name": "Miri Katz",
+               "profile_path": null,
+               "id": 1015904,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4723c3a36847f8125637",
+               "name": "Jeremy Burdek",
+               "profile_path": null,
+               "id": 54206,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4723c3a36847f812563d",
+               "name": "Freddie Hutton-Mills",
+               "profile_path": null,
+               "id": 1015905,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4723c3a36847f8125643",
+               "name": "Nadia Khamlichi",
+               "profile_path": "/ngeXDXYulln8G5VQzhm1RvEiGi7.jpg",
+               "id": 54205,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4723c3a36847f8125649",
+               "name": "Adrian Politowski",
+               "profile_path": "/wi8AgSW9ucsRNLds835V4jw4HkU.jpg",
+               "id": 54204,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4723c3a36847f812564f",
+               "name": "Bart Ruspoli",
+               "profile_path": "/4axo1MrSGRxKC3KsjmEGN4gNerE.jpg",
+               "id": 139945,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4723c3a36847f812565b",
+               "name": "Gilles Waterkeyn",
+               "profile_path": "/6EhkehOTM8VY3s0xVHJhNzzeBMO.jpg",
+               "id": 1015907,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4723c3a36847f8125661",
+               "name": "Mark McQueen",
+               "profile_path": null,
+               "id": 139944,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4723c3a36847f8125667",
+               "name": "Jonathan Sothcott",
+               "profile_path": null,
+               "id": 1015909,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4723c3a36847f812566d",
+               "name": "Millie Sloan",
+               "profile_path": null,
+               "id": 1015908,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "552a6e79925141074b003408",
+               "name": "Jonathan Sothcott",
+               "profile_path": null,
+               "id": 1015909,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d494fcc3a368616e012af9",
+               "name": "Sophie Wyatt",
+               "profile_path": null,
+               "id": 1415746,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d49511c3a36871c100a9ba",
+               "name": "Lee Whiteman",
+               "profile_path": null,
+               "id": 1395707,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d496b792514173cf00835d",
+               "name": "Robert Hall",
+               "profile_path": null,
+               "id": 1423693,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d496e19251417a0400a8e3",
+               "name": "Natalie Wickens",
+               "profile_path": null,
+               "id": 1423694,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d496f692514173cf008366",
+               "name": "My Alehammar",
+               "profile_path": null,
+               "id": 1423695,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d497189251413fca0139ca",
+               "name": "Miri Katz",
+               "profile_path": null,
+               "id": 1015904,
+               "department": "Crew",
+               "job": "Property Master"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d497329251413fd6013ef3",
+               "name": "John-Paul Frazer",
+               "profile_path": null,
+               "id": 123437,
+               "department": "Art",
+               "job": "Construction Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d497549251417c23009e02",
+               "name": "Luis San Martin",
+               "profile_path": null,
+               "id": 1423696,
+               "department": "Art",
+               "job": "Construction Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d4977692514173cf00837b",
+               "name": "Deian Humphreys",
+               "profile_path": null,
+               "id": 1423697,
+               "department": "Crew",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d497c79251413fc1013b12",
+               "name": "Richard Lewis",
+               "profile_path": null,
+               "id": 1423698,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d49802c3a368746900a281",
+               "name": "Steven Parker",
+               "profile_path": null,
+               "id": 1423702,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d498179251417a0400a90d",
+               "name": "Peter Mendonca",
+               "profile_path": null,
+               "id": 1423704,
+               "department": "Sound",
+               "job": "Dolby Consultant"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d49839c3a3686ac4012f59",
+               "name": "Clare Heneghan",
+               "profile_path": null,
+               "id": 1411249,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d498509251417a0400a918",
+               "name": "Jonathan Cheetham",
+               "profile_path": null,
+               "id": 1273047,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d49863c3a368746900a28c",
+               "name": "Dani Biernat",
+               "profile_path": null,
+               "id": 1423705,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d498789251413fc1013b2c",
+               "name": "Dan De Castro",
+               "profile_path": null,
+               "id": 1423706,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d4989192514173cf00839a",
+               "name": "Ben Joiner",
+               "profile_path": null,
+               "id": 1423708,
+               "department": "Crew",
+               "job": "Second Unit Cinematographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d498ad92514173cf0083a1",
+               "name": "Kate Malone",
+               "profile_path": null,
+               "id": 1423709,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d498f6c3a3686ac2012791",
+               "name": "Paul Brennan",
+               "profile_path": null,
+               "id": 1423711,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54d499119251413fcd01393c",
+               "name": "Julie Daly-Wallman",
+               "profile_path": null,
+               "id": 1423712,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Horror",
+            "id": 27
+         },
+         {
+            "name": "Action",
+            "id": 28
+         }
+      ],
+      "popularity": 2.05933,
+      "production_countries": [{
+         "iso_3166_1": "GB",
+         "name": "United Kingdom"
+      }],
+      "id": 47177,
+      "vote_count": 45,
+      "budget": 2400000,
+      "overview": "As the world succumbs to a zombie apocalypse, Cole - a hardened mercenary - is chasing the one person who can provide a cure. Not only to the plague but to Cole's own incumbent destiny.",
+      "similar": [
+         19908,
+         72190,
+         336843,
+         82654,
+         485415,
+         8408,
+         11683,
+         290999,
+         338676,
+         434873,
+         23963,
+         20681,
+         106845,
+         8078,
+         924,
+         747,
+         1576,
+         27578,
+         170,
+         1992
+      ],
+      "original_title": "Devil's Playground",
+      "runtime": 93,
+      "poster_path": "/xdvYXwBEkUoiyGuNMRXsZjLUtr2.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "HMR Films",
+            "id": 45962,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Intandem Films",
+            "id": 2731,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Black & Blue Films",
+            "id": 45963,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2010-08-21",
+      "vote_average": 5.2,
+      "belongs_to_collection": null,
+      "tagline": "The fight for survival has begun..",
+      "adult": false,
+      "homepage": "http://www.devilsplaygroundmovie.co.uk/",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Mark McQueen"],
+      "runtime": 92,
+      "synopsis": "London: The not too distant future. Newgen Industries, a leading pharmaceutical company company, is trying to placate a media uproar. Its new \"legal performance enhancer\", RAK-295, has met with spectacular failure during testing, causing severe physical and allergic reactions in all 30,000 of its test subjects.... Allergic reactions in all but one user... Angela Mills. Angela is pregnant and is making arrangements for own leave of absence from a city full of woe and bad memories for her. With Angela being the only person not to report any type of reaction to Newgen, Dr. Brooke (Head of Newgen) understands that Angela may hold the key to solving this disaster and enlists Cole, the head of security to find her and bring her in for examination. But Cole, a hardened ex-mercenary, has just handed in his resignation to Peter White, the CEO of the company. Why? He wants out - the undercover violent and murderous job of solving problems 'off the record' has started to weigh heavy on his conscience. The outbreak claims Brooke and Peter White and during the struggle Cole is bitten - his fate sealed. Or is it?... (taken from Intandem Films)",
+      "writers": ["Bart Ruspoli"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt1453245/",
+      "coverLink": "https://ia.media-imdb.com/images/M/MV5BMTM0OTUwNTMyNV5BMl5BanBnXkFtZTcwNTgxODU4Ng@@._V1_UY268_CR2,0,182,268_AL_.jpg",
+      "actors": [
+         "Craig Fairbrass",
+         "Danny Dyer",
+         "MyAnna Buring"
+      ],
+      "reviews": [
+         "\"Devil's Playground\" is basically a complete rip-off of Danny Boyle's 2002 horror masterpiece \"28 Days Later\". Same basic concept; fast-moving infected (not actually zombies as such)on the loose in modern day London and a group of individuals trying to escape the horror, fighting amongst themselves on the way. The one thing it doesn't borrow from it's source material is any level of intelligence. The characters are melodramatic clichés and way too good-looking and well-groomed to be in any way realistic; even though it's a low-budget British film it unfortunately follows the crap Hollywood template of shallow, unbelievable, glamorous leads stuck in an increasingly over-the-top set of action-based scenarios. Still, if you just want to watch something empty-headed and fun then it's not all bad. The stunt sequences are well done and the movie is nicely shot, with some fantastic views of London on display. Don't take it too seriously and you'll have a good time.",
+         "Despite the fast paced action scenes I managed to be bored bored BORED(!) after 40 minutes. The story is so straight lined and clichéd that you can't even be bothered to hope for any twists, and the only character who's slightly believable and sympathetic is Craig Fairbrass (Cole). Don't get me wrong. I'm a huge zombie(/virus) fan, and I am aware that you don't necessarily need an amazing script nor 100% believable characters to make an entertaining zombie movie. But if you have neither and you don't have a single new interesting idea \u2013 well maybe you should just donate the money for charity instead of wasting it on another dull movie. People seem to compare this with 28 days/weeks later which apart from all of them being British and (relatively) low budget is blasphemy in my ears. In my opinion; if you like 28 days/weeks later \u2013 go watch them again instead of wasting your time on this one.",
+         "Although I imagine this is a straight to DVD affair, I caught this film on the big screen, followed by a Q&A with the director, and other members of cast and crew, who seemed very proud of their work. During the showing the film got a few unintentional laughs which led a member of the cast to comment afterwards \"I didn't know we had made a comedy zombie film\" - No you didn't, you made a film which for the most part was extremely dull, with a wafer thin story and unconvincing characters. The laughter in the audience was due to the poor delivery of meagre lines of script and cliché plot developments. With so many zombie films out there, you need a new angle to stand out from the crowd, and it was the directors belief that this comes from the fact that the zombies are free runners. To be fair, although free running zombies is only one step forward from the speedy zombies of the Dawn of the Dead remake and 28 Days Later, it's not a bad idea and I was fairly enthused with the idea of seeing this slight new twist. However I was soon to be extremely disappointed that although the film was being sold with this as its unique selling point, this wasn't exploited at all. Yes, the zombies (which mostly just looked like young people in hoodies) ran fast, jumped and vaulted over cars and other obstacles in their way a few times, but I was left thinking is that it, could they not jump and twist off a few buildings or do something well a bit more visually exciting? The fact that this aspect of the film didn't live up to the hype was only compounded by the complete lack of interesting story. I never bought into any of the characters, especially the lead (played by Craig Fairbrass) who for me has no screen presence whatsoever. Within half an hour I couldn't care less whether any of the characters survived, and the zombies were so uninspiring that I couldn't even root for them. On the plus side, I thought the film was well shot, with some cool images of London just about stopping me nodding off from boredom a couple of times. Plus there was a genuinely funny cameo from Sean Pertwee (the best part of the film). Shame that his character was never to be seen again, his story might have been more interesting!",
+         "A very low budget action/horror Brit flick featuring freerunning mutant zombie flesh eaters. Craig (Cliffhanger) Fairbrass and Danny (just about every recent cheapo-diamond-geezer pseudo-Arthur Mullard C-Grade megatrash straight-to-video Brit movie in recent years) Dyer take the leads. The script and dialogue are pretty darned atrocious and the acting is sub-primary school nativity play standard. But, the pace is frenetic, the action violent and unrelenting, and it is a bit of mildly diverting fun. Plus, considering the budget must have stood at around £7.80 and a bag of chps, the convincing representation of London in the midst of a zombie apocalypse is fairly well rendered and quite suitably atmospheric. There's plenty of punching, strangling, bludgeoning and shooting of the freerunning mutant zombie flesh eaters, and the very fact that the makers thought a Resident Evil type of virus McGuffin with the side-effect of gracing the stricken with parkour skills was a workable creative advance on the \"28 Days Later\" formula, makes it quite hilarious to watch at times. Worth a look if you've nothing better to do. A cheerfully trashy time-waster.",
+         "I sat through this bum-fluff at the recent GoreZone Festival in London's West End and almost lost the will to live before the opening credits had rolled. The prologue featuring bargain-basement 'action-man' Craig Fairbrass woodenly spouting even more wooden dialogue at the camera as a prep for the sub '28 Days Later' 'Rollercoaster' to come, made my heart sink faster than 'The Detonator' ride at Thorpe Park, and quickly proved its pedigree as a very bad omen for things to come. Despite the first half hour containing a few nods to the guilty pleasures of Tobe Hooper's 'Lifeforce', there is little to no fun to be derived from this joyless and dispiritingly derivative Brit-Horror that scrapes the bottom of the 'Zombies-what-can-run' barrel into the dirt. Accomplished camera-work and Sean Pertwee's hilarious cameo stave off some of the boredom, but a hopeless script and Danny Dyer's pathetic attempt at an emphatic hero put debut director Mark McQueen's puny entry into this exhausted genre deservedly into the dustbin of the underachieving undead.",
+         "A film based on zombies that move quicker than most (but not all) zombies from other movies is not a good premise for a story. It's not even the seed of a story. Even their own blurb says: \"DEVIL'S PLAYGROUND is a cutting edge British horror film that features zombies portrayed by free runners for a terrifyingly authentic representation of the undead.\" There are so many things wrong with everything in that sentence, but mainly the word 'authentic', as if the filmmakers spent time documenting those pesky reanimated corpses which litter our streets, sprinting and leaping about everywhere. This is barely a movie. I could criticize it further, but you can simply choose any word like 'acting' or 'directing' or 'script' and put it next to the word 'terrible'. This will save you time. The two stars is for a good title. If you want to watch free runners pretend to be zombies, you have my sympathy.",
+         "Stop me if you've heard this before. A superdrug is tested inadvertently causes the patients to turn into mindless, rage filled\u0085 ummm\u0085 aaaaahhhh\u0085 zombies I guess. Coming into contact with fluids or being bitten by the infected allows the virus/condition/disease to be spread, leading to a massive contagion in the entire nation of Great Britain. Sound familiar? Well what about this? Only one patient seems immune to the negative symptoms \u2013 you know the flesh eating and general insanity \u2013 she is on the run, with various parties in pursuit to see if she holds the key to a cure. OK so Devil's Playground hardly breaks into new territory, but it has a couple of moments, not the least of which is the count the clichés bingo that can be played while watching. The reporter on the street being interrupted and killed on screen. The guy who repeats \"Mum. Mum. MUM!\" as his destiny shuffles ever closer, covered in blood and ready to teach the poor dumb guy a lesson in common sense. The guy who's infected and needs a cure immediately, only he lasts half the film without one while others who share a glass turn in 45 seconds flat. The whole 'but she's pregnant' bit. After the Zompocalypse © starts the infected immediately turn into parkour-ing Reapers from Blade 2, all leaping, snarling, unnecessary wall climbing menaces. They spill lots of blood and cause lots of gore all over the UK, usually with backdrops of carefully constructed carnage reminiscent of the Left 4 Dead video games. Devil's Playground is uninspired and formulaic and doesn't do much to separate it from a million other similarly bland zombie flicks. As much as I love zombies I can't help but think for the time being they are a little overdone, this isn't the film that will revitalize the genre, but I give a couple bonus points for at least trying to make the film look bigger and flasher than a lot of other low budget efforts. Final Rating \u2013 4.5 / 10. So you say zombies are threatening the very social fabric of a nation again and it's up to a few individuals to save humanity? Wake me when it's finished will ya?",
+         "It's interesting how influential Danny Boyle's 28 DAYS LATER was . It wasn't apparent at the time but from that point onwards each and every zombie film must feature zombies , sorry \"infected\" who can outrun Usain Bolt while having the endurance of a marathon runner . It's also noticeable how many zombie films there are with a massive number of short films and films on The Horror Channel featuring zombie apocalypse . Perhaps most notciable of all is how poor most of them are . and with hindsight Boyle's film was much better than I thought it was on first viewing . This inspiration called DEVIL'S PLAYGROUND is better than most of its peers but that's probably down to a simple reason it's a conscious rip off from Boyle's original In its favour and considering its cast it'd be a very easy route to take and treat as a Lads Mags horror comedy with lots of nudge nudge wink wink humour testing the patience of its prospective audience . One thing I did like was the dead pan serious tone and while it's hardly big budgeted it does its utmost best to paint a convincing infected outbreak that took place unseen in 28 DAYS LATER . One of the rejected plots for 28 WEEKS LATER was having a SAS platoon rescuing the Prime Minister from the infected outbreak and once you're aware of this rejected screenplay you're able to see how this scenario would have played out on screen . Replace the PM with someone who has a possible immunity to the infection and replace the SAS platoon a more diverse group and you're left thinking that Boyle and Garland got it riht with the version of 28 WEEKS LATER that did make it to the cinemas . Not to be too hard DEBVIL'S PLAYGROUND it's much more enjoyable than I expected it to be and has been one of the better films The Horror Channel has shown recently",
+         "If Danny Dyer was hoping this film would improve his star-rating then he's surely mistaken. This film is dyer(dire) sorry couldn't resist. I love a good zombie-flick, but this isn't it. Bad direction, bad storyline, bad acting even worse script. There are no redeeming features to this boring, slow, limited action movie. Best avoid it if you can, be warned Danny Dyer's cockney scowl doesn't an actor make. When are film makers going to realize this guy is useless, and doesn't warrant the attention given to him. Walk away, don't waste your time - painting your garden fence and watching it dry would be more entertaining than this drivel.",
+         "Oh dear oh dear. Yet another low budget zombie type movie that fails to hit any kind of spot. Danny Dyer can be likable enough in some films, but he always plays the same part, no matter what the movie, and in this that trend continues. Unfortunately his limited talent and acting abilities shine through here more than in many of his other films. In fact, the only person who is more wooden and a worse actor is Craig Farbrass, a very poor man's Jason Statham. The director and screenwriter have nicked bits from other films, most noticeably 28 Days Later with fast moving and agile baddies. But this film has none of the style or substance of 28 Days Later. None of the characters are in any way likable, in the end you just do not care one iota if everyone dies, in fact, you end up wishing they would all be killed just so the dross can end. If you want to see how good a low budget Zombie type horror can be, rent the French film La Horde instead.",
+         "I've put down 'may contain spoilers' but you'd be hard pushed to find a spoiler for this film since almost everything in it was borrowed from one zombie apocalypse film or another. Take a pinch Resident Evil's Umbrella Corps, add a small portion of Resident Evil's Alice and garnish with a pinch of Omega Man for Cole, add a heaped teaspoonful of generic British actors / film locations and a healthy dollop of 28 days later for the infected/zombies. Place in a medium cooking plot, and allow to simmer for 92 minutes. Finally garnish with a sprig of Jaime Murray typecast as yet another manipulative woman, and you have the perfect zombie stew. Having said all that, it did have some interesting bits in it, e.g. Fairbrass' Cole totally stole the show, leaving Danny Dyer's character as little more than a minor zombie-fodder character with an above average number of lines, and in so doing made the film oddly watchable. Also the idea of adding in a couple of conniving 'outsiders' added to the film's complexity (it needed it). Both of these bits could have taken the film to a whole new level if it weren't for face-palm-inducing plot holes, e.g. Cole just happening to stumble across the one person he was looking for in the middle of the zombie-infested green belt, and the way the two 'evil' characters somehow persuaded the heroine they were more trustworthy than her best friend?! So overall, some interesting ingredients lost in a bland mix of stock zombie-movie moments. It'll fill up a hole if you're hungry for a zombie movie and don't want to challenge your tastebuds too much...",
+         "It's not a bad thing to steal from successful franchises. Resident Evil the Game (and the movies of course) got their idea from a few movies themselves. But the problem is, you have to have something endearing or something that the viewer will want to see. And it does not count if you check a list. Those things really have to be in the movie, instead of just putting them in there. The main actors, I've seen him this year in \"Dead Cert\" too, has not enough of screen presence to hold the movie. Danny Dyer does his \"schtick\" (I'm starting to understand why some people do dislike him, though I wouldn't go that far ... it's a shame though, that he seems to just do it for the money ... it looks and feels like it certainly). Overall not a bad movie, but also not really good. Can be enjoyed with some mates ...",
+         "Mark McQueen superb direction of screenwriter Bart Ruspoli's brilliant script results in an apocalyptic vision of uncompromising horror. This is a stunning concept based upon the idea that somehow the dead have come back to life and an apocalypse of the undead has devastated civilization. With this unique foundation, McQueen builds a masterpiece of vast vistas of a city of horror, painted with imagery of bleak beauty so haunting it's unforgettable. This is the end of the world at its most powerful. Superb performances from an outstanding cast bring to life characters of touching depth and overwhelming humanity. Craig Fairbrass and Danny Dyer are particularly effective as men fighting for their lives as they try to protect those in their care. A magnificent film of unrelenting terror and supreme suspense, this is much more than simply one more zombie movie.",
+         "Craig \"Dan from Eastenders\" Fairbrass and Danny \"Fahkin\" Dyer star in a poor mans '28 Days Later' fast moving brainless zombie film set in London. Its the standard story of science experiment gone wrong causing widespread zombie infection, a group of survivors have to find away to escape after dealing with their own personal situations. The narrative is duller than dishwater and the acting is like somebody hand made marionette puppets and flung them around in front of a camera - it is that wooden. The zombies were fast and acrobatic so you'd think there may be some empathy shown towards the survivors but in truth I didn't actually care, Danny Dyer plays the same \"can't be arsed\" pseudo hard man he does usually so I struggled to care for him, likewise Fairbrass. Sean Pertwee's cameo is quite amusing but it's far too short, as he 'legs it' into the boat I kept hoping to see him again but alas not. There are a few moments that made me laugh but I'm assured the film was supposed to be serious, in that department it failed, more lame duck than happy quacker. The zombies in the film are quicker and cleverer than the story, this was unoriginal, unconvincing, and unamusing. This maybe a good film to anyone new to the genre but hardened zombie fans won't be excited.",
+         "(38%) Yet another modern zombie flick that has nothing new to add at all, there's almost no reason at all why anyone needs to see this; yet somehow I oddly kind of enjoyed this cheap, simple, decently packaged fast zombie slice of throwaway B-movie fluff. This attempts to follow on the footsteps of the much better 21 days later with the zombies infected with some sort of chemical, only here the scientists featured are wholly incompetent with their 100% fail rate resulting in the zombie outbreak. Low end British star Danny Dyer plays (shock horror) a tough London crook, though he isn't really the main focus here which is on quite a wide assortment of little known faces. There's plenty of what most people want from a film of this type (blood, zombies getting smashed up) which is enough for a half recommendation, though there's nothing else here of any value whatsoever.",
+         "When an experimental drug turns the trial recipients into blood-crazed zombies and manage to overrun London, a small band of survivors must found out why one of their own who was subjected as well never turned and what it could mean to stop the epidemic. Overall this one was a fairly decent British zombie effort which isn't all that bad overall and does have some good stuff going for it. Among the best elements featured here is that the pace of the film gives this one some nice action scenes as it manages to move along with the attacks fairly nicely in that regard from scenes of the massive swarm overrunning their victims to single zombies against the group which makes it that much more enjoyable. The beginning here when the deformity gets loose in the facility gets this one going nicely as well as the resulting overrunning of the guards as he tries to blast through the crowds, the street battle of the swarm taking to the streets bring the victims out of their cars and attacking those stranded on the sidewalks while the most fun is had out in the woods which has a lot of great parts here. The initial attacks come from solo, one-on-one battles against the creatures throughout the autoshop which is fun with the big fighting but gets fun with the swarm appearing and generating plenty of enjoyable times here as they come running out of the woods spilling into the camp and over the vehicles while requiring the fun of the hand-to- hand brawls in order to hold them off. Likewise, the finale here is all sorts of fun with the mad road dash through the city streets filled with creatures, the big brawls at the helicopter pad and the full-on swarming that overruns the group's helicopter pad forcing a huge fight to hold them off while the others get to safety during the fights which make for a really fun time here. That also provides some nice highlights mainly in the blood-and-gore department as well as there's some pretty gruesome attacks in this one that really lets the blood flow here in the brutal attacks from the creatures and the vicious tactics to hold them down. The zombies look good enough and are given a good enough look throughout that holds up over the film's biggest issue. The one factor here that brings it down is the zombies' behavior, since not only is this one filled with rather clumsy action but also manages to follow the utterly stupid look of running zombies which move and run about as ninjas the way they bounce around walls here, making for a thoroughly dissatisfying taste. It's not enough to be completely disruptive of the movie, but it's enough to knock it down some against the positives. Rated R: Graphic Violence and Excessive Graphic Language.",
+         "The world succumbs to a viral/zombie apocalypse as group of Londoners try their best to survive and are torn to protect one person that holds the cure. Mark McQueen's direction is more than sufficient and effective coupled with ominous lighting, realistic settings and great special effects. While the 'zombie' supporting cast are worthy of note and the make up well designed, the free running style infected is unnecessary and distracting. Brit actor Craig Fairbrass (Cliff Hanger) gives a typical performance as hard-man Cole. The rest of the cast are adequate, notably MyAnna Buring, but there's not enough meat on Bart Ruspoli's script or character development keep them busy to show any talent. The flawless Jaime Murray is sadly wasted with a little amount of screen time and even cockney favourite Danny Dyer the diamond geezer doesn't get enough to say. If you must draw comparisons, it's pale against the likes of 28 days later or Dawn of Dead (2004). But to its credit Devil has a crisp atmosphere and eerie London setting. Overall, generic, yet, a lot more watchable and entertaining than many of the DTV zombie/virus flicks that are being churned out.",
+         "Its a low budget blood fest...entertaining from start to end... If you like horror,action and zombie movies....You cant really go wrong..... watched it expecting a cross between \"Dawn of the dead\"(2004) and \"28 days later\".....and thats just the impression i came away with...as a person who loves nearly all movies, i can't fault it... Have seen many worse movies..... many,many worse......ha ha The acting was good, not too wooden....and the characters were not too clichéd either... Now all i need to wait for is \"walking dead\" to start and i'm sorted for TV as well...",
+         "East End wide-boy Danny Dyer stars in this low-rent copy of Danny Boyle's 28 DAYS LATER, with infected zombie types racing around London and chowing down on unsuspecting passers-by. The twist in this one is that the zombies employ parkour, well in reality one or two of the same ones do, but it's hardly of the calibre seen in the likes of DISTRICT 13. In fact it's a random gimmick that adds nothing to the production whatsoever. Dyer's thunder is completely stolen here by the presence of proper hard man Craig Fairbrass (CLIFFHANGER), playing a tough, Ray Stevenson lookalike who seems to spend the entire running time hitting zombies in the head with the hammer. Well, it's a way to make money. The production values are low rent but acceptable here, and there's certainly a fast pace to keep you occupied while the clichéd storyline plays out. The supporting cast incorporates familiar faces like TV's MyAnna Buring (RIPPER STREET) playing somebody who might just hold the key to the cure for the zombie virus. Elsewhere, Sean Pertwee and Colin Salmon turn up for brief cameos early on, while DOOMSDAY villain Craig Conway bags a good guy role for a change. The production is similar in scope to the other Fairbrass starrer DEAD CERT, with the trade-off being that the humour is missing in favour of slightly better production values. Whatever way you look at it this is hardly the stuff of greatness, but it passes the time for the undemanding fan and it's certainly far from the worst zombie movie out there.",
+         "Somewhere, someone said something like, \"Hey, everyone loves zombies, right? And the Resident Evil films were successful. What about if we mix it with 28 Days/Weeks Later? We can't lose!\" Whoever said that lost. The Devil's Playground doesn't so much as play homage to other (zombie/infection) movies as simply rips them off. It's mainly Resident Evil meets 28 Days/Weeks Later, but watch out for plot elements ripped right out of I Am Legend and various scenes re-worked from Dawn of the Dead (2004) and Night of the Living Dead. London is overrun with zombies who don't just run like the modern crop seem to do these days, but also pirouette, somersault, bounce off walls and hang upside down from vans to peer in the sliding door (as opposed to simply looking inside said open sliding door). They've come a long way from Romero's 'shufflers' - seriously, these guys are more graceful in the air than a ballerina. Plus, instead of just killing and eating people, they go as far as to 'strike a pose' every time they enter a room, just for added menace (and to give any major characters a fair chance at running/clobbering them). Talking of main characters - it's like a C-list of British action heroes, none of which have obviously ever seen a zombie movie, as it takes most of the film to figure out the ol' 'destroy the brain' way of killing them. Danny Dyer and Craig Fairbrass fight it out for 'most cockney hero' title. The leading lady spends most of her time looking frail and meek (certainly no Milla Jovovich here!). The rest of the cast just try too hard. They're a mixture of stereotypes who, if cast as 'b*tchy' is UBER b*tchy, if cast as 'lovable' is UBER lovable and so on. Poor Jamie Murray - she's worth so much more. At the end of the day The Devil's Playground is quite nicely shot, but ultimately a student movie (albeit one of the better ones) with plenty of badly computer-generated smoke rising up from burning London. If you like zombie movies, you will probably dislike this. If you already dislike the genre, this one won't win you round. There's nothing new here, just a badly-acted copy of a mish-mash of better works. Advice: stick on a Romero film, 28 Days Later, or, if you fancy something more 'popcorn' a Resident Evil flick. Oh, and note to film-makers - deserted streets of London are no longer creepy seeing as 28 Days Later did it almost ten years ago.",
+         "The plot: After a new, experimental drug causes people to turn into acrobatic zombies, a brooding bruiser searches for the one person who can provide a cure. Devil's Playground is a derivative and generic zombie movie, but I still enjoyed it. It's basically a ridiculous excuse to show lots of gore SFX and stunt work, the dialogue and acting are often cheesy, and it's undeniably a ripoff of modern \"fast zombie\" movies (especially 28 Days Later), but if you're in the mood for a B movie, this will satisfy you. If you're expecting it to be original (or even fast-paced), you're sure to be disappointed. It seems assembled from scenes of other zombie movies, but the scenes are competently directed, even if the dialogue and acting are occasionally a bit cheesy. It doesn't really have anything insightful or original to say, but it does manage to throw in lots of impressive stunts. If you're looking for a movie about flesh-eating acrobats, I think you'd have a difficult time finding a better one than this. It's difficult to recommend this movie, but undemanding genre fans may enjoy it, despite the flaws. It's worth a view if you don't need anything better than a moody atmosphere, some B movie actors, and a simple plot. It's no classic, but it's a cut above the typical direct-to-video zombie movies that I've been watching lately.",
+         "First, I'll just say that if you like zombie movies in general this one's worthy of the genre. That being said, there's nothing authentic about this movie. It's basically a rip-off of 28 Days Later with elements of the Dawn of the Dead remake - the zombies move fast but they don't simply attack their victims and move on as in the former - they eat their victims; and they don't spew blood. There's enough action sequences to keep the viewers' attention and the level of gore and violence won't disappoint die-hard horror fans. There are some suspenseful moments throughout but I don't think it was the director's primary concern. Instead, it focuses more on character development and their struggle to survive amid self-preservation.",
+         "After watching some inadequate horror movies over the past couple of days, this was exactly what I needed - a gory, bloody zombie flick with all the trimmings. Devil's Playground takes place in London where a pharmaceutical company announces that they have stumbled across a new wonder drug that they describe as a legal \"performance enhancer\" (super steroids) which actually (to the embarrassment of the drug company) turns out to be a poisonous cocktail that kicks off a zombie outbreak which quickly sweeps through the UK. We follow a group of people as they try to survive by finding an area somewhere in London that is zombie-free. Now, there's a plot twist that's pretty much a blatant ripoff of 28 Weeks Later, but I chose to look past it because the character development was adequate and the storyline bumped along at an even pace. Oh, and I would be remiss if I didn't mention the zombies. Devil's playground follows in the new tradition of showcasing athletic zombies that have the same speed and the same appetite as Mike Tyson. Yes, the zombies you know and love from the Dawn Of The Dead remake and 28 Days & Weeks Later are back to hunt people down like a pack of bloodthirsty dobermans that haven't been fed for weeks. The movie doesn't quite live up to the standards of Dawn Of The Dead and 28 Days & Weeks Later, but it's well worth the time if you're in the mood for a zombie flick and haven't filled your blood and gore quota for the month. Two thumbs up, horror fans.",
+         "I like to watch an occasional zombie flick here and there. Even after 30 years of watching these movies and seeing every different type of zombie film done every way over and over it becomes hard to find one thats enjoyable. I actually found this movie enjoyable and suspenseful at times. The actors were good and some of the effects were great for a low budget fare. I really don't understand people comparing this to 28 days later or Resident Evil as if anything those movies are copies of older zombie movies done a hundred times over. Their budgets and actors are all them set them apart except for 28 days later which just was a great new concept of story telling using an old genre. This doesn't take away from the movies greatness though don't get me wrong. The thing with zombie films is you cant really call them ripoffs because they are ALL ripoffs if they came out after 1985. The zombie genre has continually beaten to death for decades and the genre will continue to keep spewing out more so please stop using that terminology of this is a copy of that. Its a zombie flick! You either like it or you don't.",
+         "I was really happy when the proper East End geezer joined the cast of EastEnders, I'd previously only seen two of his films, Human Traffic and Severance, with Halloween on the way I thought I'd try one of his horror films. Basically in the not too distant future leading pharmaceutical company Newgen Industries is in the final stages of testing its new \"legal performance enhancer\", RAK-29, testing has met with spectacular failure as the drug has caused physical and allergic reactions for over 30,000 test subjects, causing a media uproar. But the side effects worsen and test subjects become increasingly violent until they are nothing more than marauding beasts, and their bites are infectious, turning anyone bitten into flesh eating zombies like them. Dr. Michael Brooke (Del Henney) identifies only one test subject who has not turned into a bloodthirsty monster, pregnant woman Angela Mills (The Descent's MyAnna Buring), her immunity makes her the only hope to find a cure for the plague that threatens the world. Despite handing in his resignation to CEO Peter White (Colin Salmon), N-Gen mercenary and hardened killer Cole (EastEnders' Craig Fairbrass) is given the mission to find and protect Angela to bring her in for examination. Cole is joined by other survivors, including Joe (Danny Dyer), but Cole's mission becomes much more difficult when he is bitten himself, he injects himself with a drug that will slow the process of infection, but will Angela stay safe and sound to save the world from apocalypse. Also starring Jaime Murray as Lavinia, Shane Taylor as Geoffrey, Sean Pertwee as Rob and Mike & Angelo's Tim Whitnall as News Anchor. Dyer gets a little swearing as usual and acts a vague hero, but not much else, Fairbrass is tougher, and the other cast members do their stuff fine, the film certainly has a fair amount of blood, guts and violence to keep scary movies fans happy, but it is let down but a lacklustre script and a predictable story, a pretty pointless science-fiction horror. Adequate!"
+      ],
+      "genres": [
+         "Action",
+         "Horror"
+      ],
+      "productionCompanies": [
+         "Intandem Films",
+         "Black & Blue Films",
+         "HMR Films"
+      ],
+      "summaries": ["As the world succumbs to a zombie apocalypse, Cole, a hardened mercenary, is chasing the one person who can provide a cure. In his way aren't only the flesh-eating, super-athletic cannibals as humanity's greatest danger, but people themselves!"],
+      "budget": 2400000
+   },
+   "movielensId": 164214,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2010-08-21",
+      "dvdReleaseDate": null,
+      "directors": ["Mark McQueen"],
+      "runtime": 93,
+      "movieId": 164214,
+      "title": "Devil's Playground",
+      "mpaa": null,
+      "actors": [
+         "MyAnna Buring",
+         "Danny Dyer",
+         "Craig Fairbrass",
+         "Sean Pertwee",
+         "Colin Salmon",
+         "Lisa McAllister",
+         "Shane Taylor",
+         "Craig Conway",
+         "Bart Ruspoli",
+         "Alistair Petrie",
+         "Del Henney",
+         "Phoenix James",
+         "Victoria Pritchard",
+         "Paul Corkery",
+         "Simon Berry",
+         "Nick Cavaliere",
+         "Louis Murrall",
+         "Michael Eaves",
+         "Zayn Alam",
+         "Jack Healy",
+         "Ben Shafik",
+         "Martin Butler",
+         "Kieran Underwood",
+         "Jordan Burnett",
+         "Bozhin Gyoshev",
+         "A.J. Seymour",
+         "Jamie O'Rourke",
+         "Gary Lawrence",
+         "Adam Robinson",
+         "Jaime Murray",
+         "Jo Martin",
+         "Shaun Lucas"
+      ],
+      "imdbMovieId": "1453245",
+      "originalTitle": "Devil's Playground",
+      "genres": [
+         "Horror",
+         "Action"
+      ],
+      "youtubeTrailerIds": ["R-OYltrLxfY"],
+      "plotSummary": "As the world succumbs to a zombie apocalypse, Cole - a hardened mercenary - is chasing the one person who can provide a cure. Not only to the plague but to Cole's own incumbent destiny.",
+      "tmdbMovieId": 47177,
+      "avgRating": 2.08333,
+      "releaseYear": "2010",
+      "numRatings": 6,
+      "posterPath": "/xdvYXwBEkUoiyGuNMRXsZjLUtr2.jpg"
+   }
+}

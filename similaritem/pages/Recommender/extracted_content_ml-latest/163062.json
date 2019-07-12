@@ -1,0 +1,774 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "shooting",
+            "id": 7281
+         },
+         {
+            "name": "explosion",
+            "id": 14601
+         },
+         {
+            "name": "violence",
+            "id": 14819
+         }
+      ],
+      "imdb_id": "tt5344794",
+      "video": false,
+      "title": "Sniper: Special Ops",
+      "recommendations": [
+         397003,
+         303267,
+         70259,
+         182962,
+         340855,
+         64071,
+         212759,
+         64963,
+         416149,
+         53102,
+         228558,
+         398096,
+         83857,
+         390991,
+         200670,
+         55078,
+         37960,
+         26483,
+         28437,
+         76117
+      ],
+      "backdrop_path": "/dfHy3GmN5tv9jgD8Qa7UQzea9zw.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 0,
+               "character": "Sergeant Jake Chandler",
+               "gender": 2,
+               "credit_id": "5724fbf09251411d0900054b",
+               "name": "Steven Seagal",
+               "profile_path": "/f8OFR4h3ngyFesiudCygrNFdsCE.jpg",
+               "id": 23880,
+               "order": 0
+            },
+            {
+               "cast_id": 1,
+               "character": "Sergeant Vic Mosby",
+               "gender": 2,
+               "credit_id": "5724fc6892514155c300389c",
+               "name": "Tim Abell",
+               "profile_path": "/jTRTWvth6CMApbomOoMuMCI0z8t.jpg",
+               "id": 99235,
+               "order": 1
+            },
+            {
+               "cast_id": 36,
+               "character": "Vasquez",
+               "gender": 2,
+               "credit_id": "57cc159b925141420e003ece",
+               "name": "Rob Van Dam",
+               "profile_path": "/h7v3P5lqKaJssYU804ubXwYx0pB.jpg",
+               "id": 569165,
+               "order": 2
+            },
+            {
+               "cast_id": 30,
+               "character": "Lieutenant Colonel Jackson",
+               "gender": 2,
+               "credit_id": "576e6129925141155700134d",
+               "name": "Dale Dye",
+               "profile_path": "/vQfhfRjwOHYN3Egx1SB21ResBI2.jpg",
+               "id": 3211,
+               "order": 3
+            },
+            {
+               "cast_id": 31,
+               "character": "Janet",
+               "gender": 1,
+               "credit_id": "576e613f9251411ace00115c",
+               "name": "Charlene Amoia",
+               "profile_path": "/oYHe5OXY0qltXJYSySnLM9jWGtI.jpg",
+               "id": 175583,
+               "order": 4
+            },
+            {
+               "cast_id": 32,
+               "character": "Tyler",
+               "gender": 2,
+               "credit_id": "576e61579251416cae005453",
+               "name": "Jason-Shane Scott",
+               "profile_path": "/fBtD5iQabf08YTg1fXlGHE1dCiZ.jpg",
+               "id": 98658,
+               "order": 5
+            },
+            {
+               "cast_id": 33,
+               "character": "Rich",
+               "gender": 2,
+               "credit_id": "576e616dc3a36821f9001cac",
+               "name": "Daniel Booko",
+               "profile_path": "/zVTpVwVl8idwr6rhQBDfZ1DFTkv.jpg",
+               "id": 183066,
+               "order": 6
+            },
+            {
+               "cast_id": 34,
+               "character": "Bashir",
+               "gender": 0,
+               "credit_id": "576e6186c3a3684695000e16",
+               "name": "Anthony Batarse",
+               "profile_path": null,
+               "id": 1195676,
+               "order": 7
+            },
+            {
+               "cast_id": 35,
+               "character": "Marcus",
+               "gender": 2,
+               "credit_id": "576e61aac3a3684646000e9e",
+               "name": "Gerald Webb",
+               "profile_path": "/ndeC3GwyeR8lPzzKld8DFP9hxIA.jpg",
+               "id": 211900,
+               "order": 8
+            },
+            {
+               "cast_id": 37,
+               "character": "Doc",
+               "gender": 0,
+               "credit_id": "5a0c96e09251414da001873f",
+               "name": "Jeff Bosley",
+               "profile_path": null,
+               "id": 1689339,
+               "order": 9
+            },
+            {
+               "cast_id": 38,
+               "character": "Miller",
+               "gender": 0,
+               "credit_id": "5a0c9733c3a36875fa016b22",
+               "name": "Matthew Anderson",
+               "profile_path": null,
+               "id": 1924369,
+               "order": 10
+            },
+            {
+               "cast_id": 39,
+               "character": "Charlie",
+               "gender": 2,
+               "credit_id": "5a0c97989251414d990188fa",
+               "name": "Paul Logan",
+               "profile_path": "/lx2bemjfnJpHqLREnvUOC0YFRZh.jpg",
+               "id": 98157,
+               "order": 11
+            },
+            {
+               "cast_id": 40,
+               "character": "Cooper",
+               "gender": 0,
+               "credit_id": "5a0c97e19251414dd3017a96",
+               "name": "John Henry Richardson",
+               "profile_path": null,
+               "id": 1924371,
+               "order": 12
+            },
+            {
+               "cast_id": 41,
+               "character": "Jada",
+               "gender": 0,
+               "credit_id": "5a0c9844c3a36875e801a38b",
+               "name": "Rita Khori",
+               "profile_path": null,
+               "id": 1924372,
+               "order": 13
+            },
+            {
+               "cast_id": 42,
+               "character": "Abdul",
+               "gender": 0,
+               "credit_id": "5a0c98779251414dd3017c05",
+               "name": "Shary Nassimi",
+               "profile_path": null,
+               "id": 1559345,
+               "order": 14
+            },
+            {
+               "cast_id": 43,
+               "character": "Jennings",
+               "gender": 2,
+               "credit_id": "5a0c98bb9251414daa017dc2",
+               "name": "Scott Thomas Reynolds",
+               "profile_path": "/8gcpBE7OsSOnce5idjl8Kxbtkue.jpg",
+               "id": 1371784,
+               "order": 15
+            },
+            {
+               "cast_id": 44,
+               "character": "Officer Read",
+               "gender": 0,
+               "credit_id": "5a0c98ebc3a368760b0190ba",
+               "name": "J Ferguson",
+               "profile_path": null,
+               "id": 1741249,
+               "order": 16
+            },
+            {
+               "cast_id": 45,
+               "character": "Chris",
+               "gender": 0,
+               "credit_id": "5a0c99449251414de8017ed5",
+               "name": "Jim Poole",
+               "profile_path": null,
+               "id": 1924375,
+               "order": 17
+            },
+            {
+               "cast_id": 46,
+               "character": "Gunner",
+               "gender": 0,
+               "credit_id": "5a0c99efc3a36875e801a72c",
+               "name": "Rydell Danzie",
+               "profile_path": null,
+               "id": 225339,
+               "order": 18
+            },
+            {
+               "cast_id": 47,
+               "character": "Medic",
+               "gender": 0,
+               "credit_id": "5a0c9a409251414de4019513",
+               "name": "Trevor Scott",
+               "profile_path": null,
+               "id": 1924380,
+               "order": 19
+            },
+            {
+               "cast_id": 48,
+               "character": "Medic 2",
+               "gender": 0,
+               "credit_id": "5a0c9a6e9251414da0018fa5",
+               "name": "Brad Monclova",
+               "profile_path": null,
+               "id": 1924381,
+               "order": 20
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "5724fcb39251411d0900056a",
+               "name": "Fred Olen Ray",
+               "profile_path": "/vHcV6RYDAT1kh3RGRah8tiNrDyK.jpg",
+               "id": 31155,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5724fd2ac3a36836a900025c",
+               "name": "Fred Olen Ray",
+               "profile_path": "/vHcV6RYDAT1kh3RGRah8tiNrDyK.jpg",
+               "id": 31155,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576e5a01c3a3683c24000f6e",
+               "name": "Barry Barnholtz",
+               "profile_path": null,
+               "id": 995466,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "576e5a1592514124990008fe",
+               "name": "Jeffrey Schenck",
+               "profile_path": null,
+               "id": 128979,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576e5a28925141245c0009b5",
+               "name": "Nick Soole",
+               "profile_path": null,
+               "id": 1641093,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "576e5b57c3a3683c2400103e",
+               "name": "Stuart Brereton",
+               "profile_path": null,
+               "id": 1043649,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "576e5bf0925141245c000a93",
+               "name": "Ryan Mitchelle",
+               "profile_path": null,
+               "id": 1100860,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "576e5c27925141237b000b24",
+               "name": "Donald Paul Pemrick",
+               "profile_path": null,
+               "id": 30874,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "576e5c38c3a36845ef000c63",
+               "name": "Dean E. Fronk",
+               "profile_path": null,
+               "id": 30876,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576e5c6a925141237b000b46",
+               "name": "Tino Struckmann",
+               "profile_path": "/8bzX9yF8LivhPPMzaQyfI7tSIAs.jpg",
+               "id": 85411,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576e5c83c3a3684756000b64",
+               "name": "Fernando Valdes",
+               "profile_path": null,
+               "id": 1391649,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576e5c949251412440000a3a",
+               "name": "Daria Castellanos",
+               "profile_path": null,
+               "id": 1585051,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576e5ca4c3a36845ef000c98",
+               "name": "Carrie Glaser",
+               "profile_path": null,
+               "id": 1264510,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576e5cd7925141155700109a",
+               "name": "Mike Tristano",
+               "profile_path": null,
+               "id": 99601,
+               "department": "Crew",
+               "job": "Armorer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576e5cefc3a36819e3001919",
+               "name": "Stephanie Morgan",
+               "profile_path": null,
+               "id": 1641094,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576e5d0dc3a36845b7000afe",
+               "name": "Monique Hyman",
+               "profile_path": null,
+               "id": 1571069,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576e5d99c3a3684756000c05",
+               "name": "Daniel Brothers",
+               "profile_path": null,
+               "id": 1113701,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 1,
+               "credit_id": "576e5db09251412440000ac2",
+               "name": "Laura Beth Love",
+               "profile_path": "/uulsL1D7tiiikPSMp3WI6S3RWFc.jpg",
+               "id": 1192110,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576e5dc79251412499000afb",
+               "name": "Temma Hankin",
+               "profile_path": null,
+               "id": 1321938,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576e5def9251412440000ae7",
+               "name": "Ben Goldberg",
+               "profile_path": null,
+               "id": 1273769,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576e5e019251416cae005238",
+               "name": "Calvin Cairns",
+               "profile_path": null,
+               "id": 1641095,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "576e5e1dc3a36821f9001a80",
+               "name": "Joseph J. Lawson",
+               "profile_path": "/rRes2YOwOVm41iQinKbZuIJ3nqM.jpg",
+               "id": 1023419,
+               "department": "Visual Effects",
+               "job": "Visual Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576e5e36c3a3684756000c63",
+               "name": "Mark McBryde",
+               "profile_path": null,
+               "id": 1558855,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576e5e62c3a36845b7000b93",
+               "name": "David Michael Erwin",
+               "profile_path": null,
+               "id": 1641096,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576e5e76c3a36845b7000b9d",
+               "name": "Dave Moorman",
+               "profile_path": null,
+               "id": 1641097,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576e5ec8c3a36821f9001ad8",
+               "name": "Eric Scott Wilson",
+               "profile_path": null,
+               "id": 1085031,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Department Head"
+            },
+            {
+               "gender": 0,
+               "credit_id": "576e5ed8c3a3684646000cf8",
+               "name": "Hannah Schenck",
+               "profile_path": null,
+               "id": 1641098,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a0c9b069251414de80182ce",
+               "name": "Laurie Hallak",
+               "profile_path": null,
+               "id": 1871303,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a0c9b54c3a368760b0195f2",
+               "name": "David Mendez",
+               "profile_path": null,
+               "id": 1407252,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5a0c9b7cc3a3687597017bac",
+               "name": "Tracy Rosen",
+               "profile_path": null,
+               "id": 1321920,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a0c9bda9251414df301867b",
+               "name": "Christopher Ray",
+               "profile_path": "/IVnfqEPMcsFUksVAX78gQMJsb5.jpg",
+               "id": 97901,
+               "department": "Directing",
+               "job": "First Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a0c9c2a9251414d9901935c",
+               "name": "Yavor Denev",
+               "profile_path": null,
+               "id": 1885799,
+               "department": "Art",
+               "job": "Painter"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a0c9c7e9251414d94019536",
+               "name": "Tino Struckmann",
+               "profile_path": "/8bzX9yF8LivhPPMzaQyfI7tSIAs.jpg",
+               "id": 85411,
+               "department": "Art",
+               "job": "Property Master"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a0c9cf89251414dd3018605",
+               "name": "Sean Christopher",
+               "profile_path": "/keHN5D9IC9hMGDj3mGDINawbt5z.jpg",
+               "id": 1338421,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a0c9d549251414d94019739",
+               "name": "Bob Myers",
+               "profile_path": null,
+               "id": 1526479,
+               "department": "Camera",
+               "job": "Key Grip"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a0c9d8f9251414dd301873e",
+               "name": "Ryan Shovey",
+               "profile_path": null,
+               "id": 1727939,
+               "department": "Editing",
+               "job": "Assistant Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a0c9de7c3a3687642018673",
+               "name": "Ron Eli Cohen",
+               "profile_path": null,
+               "id": 1799078,
+               "department": "Production",
+               "job": "Production Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a0c9e34c3a36875fa0179d8",
+               "name": "Clay Van Sickle",
+               "profile_path": null,
+               "id": 40077,
+               "department": "Crew",
+               "job": "Armorer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "War",
+            "id": 10752
+         }
+      ],
+      "popularity": 4.427852,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 394223,
+      "vote_count": 30,
+      "budget": 0,
+      "overview": "A Special Ops military Force, led by expert sniper Sergeant Jake Chandler, are sent to a remote Afghan village to extract an American congressman being held by the Taliban.",
+      "similar": [
+         37645,
+         562,
+         8068,
+         1701,
+         341006,
+         9739,
+         16608,
+         4141,
+         1991,
+         9654,
+         9679,
+         1572,
+         1573,
+         24,
+         96,
+         101299,
+         156022,
+         245891,
+         8456,
+         754
+      ],
+      "original_title": "Sniper: Special Ops",
+      "runtime": 84,
+      "poster_path": "/xOQwXYnnl5E5tTuGUTvCX3OIq2B.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Steamroller Productions",
+            "id": 3495,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Hybrid",
+            "id": 7119,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2016-04-03",
+      "vote_average": 4.7,
+      "belongs_to_collection": null,
+      "tagline": "He's watching your six.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Fred Olen Ray"],
+      "runtime": 84,
+      "synopsis": null,
+      "writers": ["Fred Olen Ray"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt5344794/",
+      "coverLink": "https://ia.media-imdb.com/images/M/MV5BMTgyNTI3MDE0MF5BMl5BanBnXkFtZTgwMTkwNTc3NzE@._V1_UY268_CR2,0,182,268_AL_.jpg",
+      "actors": [
+         "Steven Seagal",
+         "Rob Van Dam",
+         "Tim Abell"
+      ],
+      "reviews": [
+         "Remember when Seagal used to make films where he appeared to be pro-active and actually put some effort into his fight scenes and running scenes? Where you one of those people who just yearned for a Seagal film where he would be sitting down for 90% of his screen time' and be wearing sunglasses for 99% of his screen time? Well after 28 years of appearing in films, here's the one you've been waiting for..... And it's not that Van Damme either..... When the mission to rescue a U.S. Congressman who has been kidnapped by the Taliban goes sideways, Army sniper Jake Chandler and his injured partner are left behind. Now, on their own, they must survive in enemy territory and wait for their unit to come back for them........ Terrible is one word to describe this film, others would be using obscene language, so I'm not going to go down that route. The film is split into two different stories, one involving a spoilt little rich girl who wants in on the action, whilst the grizzled soldiers are like 'no way....no way.....no way........go on then'. The other is involving (ha ha involving) Seagal and a sweaty partner who cannot walk just sitting in a room. He sweaty partner is a walking (pun intended) cliché, talking about being back home and blah blah blah, and Seagal sits there, in his sunglasses saying nothing. And there is literally one point where he gets up and goes to the shop. This is a real new low for Seagal, he is once again dubbed, he's hardly in any shots with other people in the film, and he could've been using a double half the time as his face is that obscure. But it's worth watching for the sheer audacity of a once reputable name in Hollywood doing something so lazy, so meaningless, and so offensive toward his loyal fan base. He knows his fans will see this no matter what, and he's just sitting there, and I for one, felt unhealthy just looking at the man. Absolute trash from beginning to end....",
+         "The first scene looked quite promising, but after that, It's so bad it's horrible. The sniper rifle is only used during this first scene, after that Seagal use an automatic rifle and he doesn't even bother to aim ; he sprays bullets at random in a prerecorded sequence that is used again and again. Actually, Seagal doesn't do much ; he babysits his comrade from a safe place, for the major part of the movie, while another lame movie is playing with Rob Vandamme and an annoying spoilt journalist who can do it all. Sniper:Special ops, is a low cost and boring movie that use a guest star to sell copies, but don't ask too much from them.",
+         "Yet another in a long succession of horrible straight-to-video movies by Seagal of late. At least there were no CGI bullet holes in this one. What I don't understand is why producers can't hire a decent military consultant when shooting a war movie. Jeff Bosley (Doc) is a Green Beret, how he didn't die laughing during the filming is beyond me. Firearm handling is absolutely ridiculous, Rob Van Dam clearly has never fired a long gun before in his life. Charlene Amoia, who claims to be an \"expert marksman\" holds a pistol like it's a personal massager (wink-wink). You see an assortment of optics on the team's rifles (ACOG, Aimpoint, Eotech) but the funniest is a tiny RDS on Segal's rifle that has superimposed hash marks when looking through it in Seagal's first- person view. Absurd. Overall, horrible low-budget B-flick with bad story, horrible acting and a huge number of blunders. Save yourself some time and DO NOT watch it.",
+         "Overall plot could have been interesting but direction and casting was incredibly poor. Main actors were decades too old and obviously overweight and out of condition to be remotely believable as active duty soldiers let alone the top-shelf special forces they were portraying. Soldier ranks and chain of command was completely wrong for the situation and even the most obvious military tactics such as securing a perimeter, finding cover/laying prone during a firefight or trying to avoid an obvious ambush were mostly ignored. Character development was nil and supporting women only served to annoy the main characters without a hint of romantic interest or sex appeal which might have at least distracted viewers from an overall lackluster film. The audience was given little reason to care who won or lost and there was no interesting subplot, character drama or anything all that interesting to see in terms of actors, vehicles, aircraft or weapons. In spite of the cast including 7th Dan Aikido black belt Steven Seagal and WWE pro wrestler Rob Van Dam there is never a single physical altercation, only a series of lackluster gunfights. Some smaller problems the US weapons were obviously not government issue: barrel lengths, flash hiders, sights were all wrong as was the lack of typical support weapons on both sides. Weapons usage was strange even for b-movies, most rifles were never fired full-auto, characters seemed to have ample ammo but most fired sparingly while the \"sniper\" was spraying everything in sight with full-auto fire. Later no one remembered to reload a nearly empty M9 pistol before starting a new gunfight...the same M9 pistol which proved far more accurate and deadly than any of the scoped M4 assault rifles the soldiers were firing. Tim Abell showed some great acting skills and was a likable character as Sgt Mosby but unfortunately he was still far too old and out of shape to pull off the role.",
+         "I tried watching this movie today and failed. The once great Steven Segal, renoved action star of Under Siege not to mention his martial art and music career, has released this movie on to us and my god was it hard to watch. Although maybe difficult to believe I got excited seeing the poster for it and boy was I let down. First shot of the movie features Segal with a goatee and mustache rendering him almost unrecognizable and then after 13 minutes of you watching the screen wondering when something is gonna happen something happens. Spoiler alert not even the action scenes are any good. Hope I didn't ruin the surprise. The G.I. Joes of the movie then just leave their champion sniper along with his partner right there and run away. I can't believe someone actually made this movie. Don't watch it.",
+         "Fred Olen Ray's 'Sniper: Special Ops' is an Average fare at best. It lacks sharpness & also the tension one would associate with a film based on Snipers on a war-zone. 'Sniper: Special Ops' Synopsis: A Special Ops military Force are sent to a remote Afghan village to extract an American congressman being held by the Taliban. 'Sniper: Special Ops' needed better Writing. Olen Ray's Writing begins very well, but loses steam mid-way. And as I mentioned before, the tension & sharpness is missing here. Olen Ray's Direction, on the other-hand, is passable. Performance-Wise: Steven Seagal is relegated to the backseat. Rob Van Dam does a fair job. Tim Abell is the pick of the lot. He's very sincere. Others lend the required support. On the whole, 'Sniper: Special Ops' is just about okay.",
+         "So, its called Sniper. Sniper is in the title. So, is it a little too much to ask to see a sniper sniping? One would think not. However, this is a Steven Seagal flick, so that means anything goes. As long as Seagal gets to 1. Play it \"cool\" (check), 2. Have minimal dialogue and deliver it in a low, slow, mumbling voice (check), and 3. Wear sunglasses for 99.99% of his screen time (check). What really gets me is that I was pumped to see some sniper shots. You know, head shots where people's skulls are obliterated by the expert marksmanship of the sniper. And what do we get? Three, yes count 'em, 3 sniper shots. And one of them the target was a whiskey flask, not a person. I'm not kidding. The rest of the movie drags on with some lame storyline of special ops guys going to perform automotive maintenance on a broken down supply truck, only to find the head taliban raghead's daughter and infant child trying to flee, thus throwing a monkey wrench in what would have been an easy operation. OK, so firefights ensue, an expendible soldier gets a bullet in the brains, dozens of taliban clowns are mowed down by the superior firepower and marksmanship of the American soldiers. Scene cuts to Seagal every 15 minutes or so for a 2 minute pontification by Steven, who's trying to save his sniper/spotter squad member whose been paralyzed by a bullet to the spine, well at least according to Dr. Seagal. See, not only is he a sniper, but he's such a seasoned vet that he's also an expert medic and qualified to make battlefield diagnoses. So, anyhow, the beta-dog member of the squad (since Seagal is the alpha dog, presumably) pulls into town and confronts the head taliban raghead but tricks him thanks to the savvy female war correspondent whose been a real thorn in his side for the entire movie up until now when he can use her for the old switcheroo. The baby is really a bomb dressed up as an infant and the guy gets blown to smithereens. A few more bullets fly and then Seagal and the paralyzed wounded vet get rescued. Seagal then takes off his sunglasses at the end of the movie. Ooh-Rah!",
+         "After seeing this movie I asked myself why I keep watching Steven Seagal movies? Because honestly Sniper: Special Ops is not good. Actually it is quite bad even for a Steven Seagal movie (if you consider Steven Seagal movies as a genre). The action scenes are poor so do not expect cool hand to hand combat scenes; there are merely guns that are shooting. But maybe it is a bit strange to expect some fighting from an actor who is an Aikido master (Seagal) and the other one a WWE wrestler (Van Dam)? The story line could be more simplified as there are now too many loose ends. Why didn't they focus on one story line? Also in my opinion there was also a bit too much talking instead of ass kicking action. Good thing is that film has a 83 minute running time so you continue with your life. Having said that - I also feel kind of disappointed how this films is presented. I do not have issues with Steven Seagal in a minor role, but please do not put only Seagal on the DVD cover as if he is the lead actor. Secondly, I saw also that some DVD covers are containing the name Seagal and Van Dam; I guess they want us to think that Van Dam is Jean-Claude Van Damme. Very sneaky! And lastly -the name Sniper: Special Ops reminds me a little too much of the Tom Berenger Sniper movies. I guess the answer to the question why I still look Steven Seagal movies is, is that he made some great action movies in the past (Above the Law, Marked for Death) which are dear to me. Even some of the direct to video/DVD I can appreciate (Pistol Whipped, Urban Justice). So I hope I can still expect still some decent movies from him. Please Steven - do not let them exploit you. And in the next movie please play who you are now and not someone who you wanted to be!",
+         "A Special Ops Military Force, led by Sergeant Vic Mosby (Tim Abell) with an expert sniper Sergeant Jake Chandler (Steven Seagal) as \"Over Watch\" during a special mission are sent to a remote Afghan village to extract an American Congressman being held by the Taliban. The rescue mission is a success, but Jake, separated after a firefight with the enemy, stays behind to help an injured soldier. Sergeant Vic Mosby desperately tries to convince Lieutenant Colonel Jackson (Dale Dye) to let him go back and save the soldiers, but is ordered on a mission to retrieve a truckload of munitions which could be vital for the military base. In direct violation of orders, Vic and his Special Ops Team decide to head back to the village to rescue the stranded soldiers. Outnumbered and out gunned, Vic and his men engage in a massive shootout against the enemy, while Jake uses his expert skills to help save them all from certain death. Sniper: Special Ops is your kind of typical dumb action movie that is straight to DVD and although i won't lie the movie did have some decent war action sequences here and there it also had some wooden acting from Seagal who isn't the leading star by the way and i still don't understand why he is in the Poster and there's also some pretty bad effects here and there mostly in the big finale. But overall if you like this kind of dumb flicks you might actually find some enjoyment in this. (4.5/10)",
+         ".... he waddles like a duck through the movie pretending to be a special forces sniper. Just bad. Just as bad is the reporter who turns out to be a super annoying person with no depth in character. You can tell this movie was low a budget production. Cheap and quick. Boring dialogues, flat characters. $8 million budget? No kidding. Any film school student would have produced a movie 10x better with half the budget. Segal should retire for good and move to Siberia. I wonder why Segal makes movies of this kind. I guess he must be broke and needs the money. He needs a better personal wealth manager. I had huge respect for Segal 20 years ago and followed all his movies, now he's losing it. Sad.",
+         "SNIPER: SPECIAL OPS stars Steven Seagal as, get this, a sniper attached to a Special Ops unit. Who knew? It's also the fourth film in what renegade film critic Vern has affectionately dubbed his \"Goatee Era.\" The basic plot is that a Special Ops unit is performing a rescue mission in Afghanistan when things go south and turn into a firefight. Seagal and another soldier are left behind, and the remainder of the team gets sent on a side mission after returning to base, hoping to eventually go back and retrieve Seagal and the other guy, who are still waiting in place. I thought that the story was OK, but nothing special. As is typical with Seagal films, there is some stuff thrown about that makes it a little bit topical, and there was an authentic feel to the dialogue, costumes, and the way the actors carried themselves. All this was fine, and the performances were generally serviceable, if unremarkable. The major problem is the serious lack of Seagal himself. Although he is top-billed and appears on the poster, he really doesn't do all that much. Some other actor could have played his part and no difference would have been made. As for the action, it's mostly just a bunch of shootouts and firefights, and a couple of stock explosions towards the end. There were also a number of interesting throwaway lines and asides that made the characters a little more colorful than they were probably written. Overall, I found this seriously lacking as a Seagal film, but for what it's worth, SNIPER: SPECIAL OPS is a decent low-budget actioner that doesn't insult your intelligence too much.",
+         "As Army sharpshooter Jake Chandler, Steven Seagal drills a neat surgical hole through a Taliban fighter's small flask before he perforates his forehead with another shot. No sooner has he dropped this Taliban fighter in his tracks than another appears, and Jake ices him, too. Writer & director Fred Olen Ray is acclaimed for movies about women in bikinis rather than straight-forward actioneers. Under another name, he made \"Bikini Chain Gang,\" \"Bikini Royale,\" and \"Bikini Girls from the Lost Planet.\" Before his breast fetish days, Ray helmed several direct-to-video action thrillers, including \"Armed Response\" with Lee Van Cleef, \"Terminal Force\" with Richard Harrison, and \"Commando Squad\" with Playmate model Katy Shower. Mind you, Fred Olen Ray is no Spielberg. He specializes in low-budget, exploitation fare, but he displays more than enough competence to keep things going. The derivative \"Sniper, Special Ops,\" with Tim Abell, Dale Dye, and Rob Van Dam, doesn't qualify as one of Ray's run of the mill outings. The adverb 'seriously' best describes the way this movie takes itself, and this attitude enhances what could have amounted to little more than disposable military maneuvers in a wasteland. You cannot watch this gritty, low-budget, patriotic, military mission movie without remembering Clint Eastwood's \"Sniper,\" with Bradley Cooper as real-life U.S. Navy SEAL Chris Kyle. During the violent opening gambit in \"Sniper, Special Ops.,\" Seagal's sniper caps many threats to Sergeant First Class Vic Mosby (Tim Abell of \"We Were Soldiers\") and his team. Mosby and company are searching for abducted Congressman Stan Cooper (John Henry Richardson of \"Panic 5 Bravo\"), who has fallen into the hands of the Taliban. During the withdrawal, Seagal and his spotter cannot reach the rendezvous. Now, Seagal and company find themselves surrounded and trapped by the enemy. What sets \"Sniper, Special Ops\" apart from the typical Ray movie is heroes don't crack jokes, get drunk, or brawl. Ray shows the terrible consequences of war, with scenes in a plywood infirmary as a soldier experiences the loss of his sight. At the risk of overstating the obvious, Fred Olen Ray has departed from his usual fare. Most of the story takes place on the ground with our heroes exchanging gunfire with the Taliban. Ray keeps the cameras focused on the Americans, while the Taliban soldiers pose as targets. Indeed, the only departure from realism is the inclusion of a female news correspondent who proves that she can handle an automatic pistol with the expertise of Wild Bill Hickox. Although executive producer Seagal takes top billing, the primary protagonist is the eminently reliable Tim Abell. Abell gives a tenacious performance, and he looks believable in his combat gear. Anyway, once Mosby's men have gotten the Congressman, they come under fire from several turban-wrapped Taliban troops. At this point, Chandler trades his massive sniper rifle for an assault rifle and mows down Taliban troops. Eventually, a convoy consisting of two vehicles careens into the derelict city. An adequate amount of shooting and killing riddles the first few minutes. During this firefight, Chandler and his spotter are separated from Mosby and company. Chandler and his spotter take refuge in an anonymous building. Meantime, Mosby takes the Congressmen back to headquarters, but he isn't happy about leaving Chandler behind. Ray shifts the setting back to base where Lieutenant Colonel Jackson (Dale Dye of \"Platoon\") is arguing with an embedded NATO correspondent Janet (Charlene Amoia of \"Seven Pounds\") chafing at the bit to get into the thick of the gunfire despite the Colonel's best efforts to keep her at headquarters. The chief problem with this contrived, standard-issue actioneer is its utter lack of urgency. This is the kind of thriller that \"Bourne Supremacy\" director Paul Greengrass could had injected a surfeit of intense energy into each incident and made our teeth rattle with every shot. Greengrass would have lensed it hand-held cameras to thrust audiences into the middle of all the chaos. As it is, Ray keeps the action slogging along without any sense of spontaneity. In just under 30 minutes, Chandler and his wounded spotter Rich (Daniel Booko of \"The Hunger Games\") have found sanctuary in an upstairs room. Since they cannot communicate with their comrades, they are especially vulnerable. Back at headquarters, Mosby fumes about the situation. He thinks the Congressmen's capture stinks, and he complains about too many suspicious things about the Congressmen's mission. Later, Jackson explains that the Congressman was on a fact-finding mission \"to prove that all our efforts are just a waste of time and money.\" The politician wanted to visit an abandoned village, and the Taliban nabbed him. Initially, Colonel Jackson refuses to let Mosby rescue Chandler and Rich because they are short staffed. Instead, Jackson orders Mosby to find a broken down supply truck with the guidance of a native renegade, Bashir (Anthony Batarse). Naturally, Janet takes advantage of this prime opportunity to stow away aboard the truck with an unsuspecting Mosby and his men. When they get to the stalled truck, Mosby discovers that an Afghan woman with a child is with them. Ultimately, he learns that the girl is the daughter of notorious Taliban leader Abul (Shary Nassimi of \"L.A. Nights\") who rules the territory that his men and he are. Abdul is reminiscent of a World War II villain. Although he is Afghan, he speaks English fluently. In a sense, \"Sniper, Special Ops\" channels World War II Allied propaganda features. In the name of realism, Ray says he bought ten-thousand rounds of blanks so he wouldn't have to insert flare bursts and the ejected cartridge casings with CGI in post-production. The actors are blazing away with blanks and the brass flies. Steve Seagal fans are going to gripe because the martial arts maestro doesn't perform any of his antics. He has the best line in the movie: \"If a man does his best . . . what else is there?\" \"Sniper, Special Ops\" ranks as a fair movie.",
+         "Another Seagal movie, although he is hardly in this time. I am a big fan of Seagals, but the movie really belonged to Tim Abell, who is a great bad ass. It all feels realistic and down to earth, and, although Seagal has no fight scenes, he does get to kill a couple of terrorists. It is quite short and to the point, and is not graphic with its violence, which can be a pro or con. Seagal sits around a lot, and stays behind enemy lines to help an injured man, while the other team tries to get the military to help them. There is a relatively large body count, and Seagal does get quite a few. Van Dam is OK, but is sometimes wooden. He will be a great action star soon hopefully. Seagal has heaps of movies coming up, so that's why he is not in this much. Code of Honor, and the Asian Connection are also movies of Seagals that came out near this time. Killing Salazar is also upcoming, and I wonder when it will be released in the US and Au. Sniper Special Ops is an OK entertaining movie.",
+         "This must be the worst military filmI have ever seen. It was so improbable that it was laughable. The acting was amateurish, especially the actress who played the photojournalist/Ninja warrior. Steven Seagal, the draw for this fiasco, played a minor role. That's just as well since he's a bit too old to be still playing these roles. He should remain in a production role for these type of films. He seemed to sleepwalk through the scenes he was in. And how old is Dale Dye? Still playing officers in war films? I realize that he's a respected, retired military officer but he was definitely too old to be in this film. I read that this film was completed in twenty days. It certainly showed. Perhaps more time should have been spent filming it. Better yet, creating the story and writing the script. This was a terrible film that I'm sorry I took the time to watch. I couldn't help myself,. It was so bad that I had to keep on watching.",
+         "I've never knowingly watched a Steven Seagal movie before and I came into this one 5-10 mins after the start on late-night TV, so I didn't recognize him in the dark glasses and - as somebody else has pointed out here - expanded waistline. I quickly became mesmerized by it, simply because I couldn't believe that anybody really makes movies this bad any more. I thought I must be tripping. For a start off, as we all know, according to that Paul Hardcastle song, the average age of the combat soldier in Vietnam was 19. According to Sniper: Special Ops, the average age of the combat soldier in Afghanistan appears to be about 59. The commanding officer in particular, played by actor Dale Dye who is in his 70s, looked monstrously miscast. Then the guy in the dark glasses - presumably the sniper of the title and as I later discovered, played by Seagal - has to get up and get some water. He's behind enemy lines, there are potential snipers behind every wall, IUDs etc, and yes, I know he's hard and frightened of nothing, but wouldn't he have displayed just a little caution in walking around, instead of looking like he's strolling down to the neighborhood 7-11? I found myself yelling at the TV \"you're an actor! Why don't you ACT?\" Then I found out it was that famous and popular actor with the dozens of movies to his name, Steven Seagal. Wow. That's 84 minutes of my life I will never get back. Though I must admit I did get a bit of a giggle out of it.",
+         "Netflix subscribers often overlook one of the best perks for having subscribed to their monthly movie streaming library that being, the ability to access & screen prospective movies of interest without being charged a (per movie) fee, and for men w the remote-control in hand, fast- forward boring sections or toggle over to another flick altogether Btw, the IMDb database denotes that Sniper: Special Ops is 1.24 hours long, which then means that, during our viewing experience, we fast-forwarded no less than a solid 45 minutes of this movie, {due to elongated scenes, dysfunctional editing, rushed takes, inept continuity, spotty acting... And, all-the-while, movie investors/promoters overtly mislead Seagal fans & prospective movie goers that Steven Seagal has a major on screen-role, when in actuality, Seagal's role is considered to be less on screen time than most cameo roles What is frustratingly sad is the realization that this, 'straight to DVD' movie did not have be be 'called in' from the cheap seats, just to get a 'Seagal Product' in the pipeline. Case-in-point, 6 very short months later, after the release of Sniper: Special Ops, Seagal's team released, 'Contract To Kill' in December (same year) & it was exceptionally well done, containing much of the same intrinsic magic that gave early Segal moves that 'it' factor'. Don't waste a minute watching Sniper: Special Ops, its 84 minutes that you'll never get back.",
+         "What a let down of a movie. Why it's called \"Sniper Special OPs\" really is beyond me. When a movie has 'Sniper' in its title, it really should be about a sniper who does his job. Firing a total of 2 shots from a sniper rifle does not fit that bill. Just to top it off actors are overweight and to old to be classed as a crack team as 'Special Ops' Never have I ever seen a military team with overweight, bearded men with long hair. Not only did the writers and director lose the plot but so did I. Waiting to see Steven Seagal in action but he was all talk and no action. Well he hardly even spoke, just sat on a chair and stared out a window. Could have been a good movie with a much better director and a younger fitter cast.",
+         "This was a terrible movie. Everything to do with it looks so fake. The ACUs are so jacked up it's not even funny. I would not buy this movie if it costed only 5 cents. I don't understand why directors put these Military movies out without just looking at the uniforms and how weapons shoot. Yes, you have to have one error but SF dudes aren't wearing cut off t-shirts. M4 does not shoot fully Auto.",
+         "Does anybody know how hard it is to write 10 lines of text about a movie that is so bad that it isn't even funny anymore? Does anybody know how painful it is to watch such a crap show? Yup, I suffered thru it, so you don't have to. Long story short: Steven Seagal plays a US Army Sergeant. A 64 year old US Army Sergeant! A 64 year old Sniper! You gotta be kidding me. What kind of a joke is this? US Army goes Nursing Home? The movie plot itself is depicted pretty accurate with the words: utter crap. The movies story is the same inconsistent drivel seen in numerous other C-Pictures, boring, predictable and so cheaply made it hurts. In the Trivia section someone wrote that they made the movie in 20 days, not that it would make me wonder. Just another Steven Seadull gem!",
+         "This movie would have been MUCH better without Seagal in it. Firstly, the low score... c'mon people, how can you rate a B movie as an A movie? For a B movie with a decent budget, it was acceptable and enjoyable. Tim Abell was awesome and acted his part very well, as did Charlene Amoia, and as everyone else BUT Steven Seagal. I grew up as a big fan of his but this latest movie disgusted me... why is his name as a headliner? It should have been Tim Abell. Every part of Seagal being in that movie was annoying, from his dark-dyed goatee, lame attitude, lazy acting, boring vocabulary, and lack of Seagal action. Any other actor, even a no name would have made this movie more enjoyable than Seagal being in it. Aside Seagal, I gave this B movie a 7 and would have given it at least 1-2 more stars if Seagal wasn't in it. Decent story, action and acting.",
+         "Jake (Steven \"Bradley Cooper is a sissy\" Seagal) is a sniper who is part of group who is tasked to rescue an anti-war congressman (John Henry Richardson) from the Taliban. Rescue of congressman- good, his security team- not so good. The group gets separated. Jake is left behind with an injured man and some dead soldiers as another group lead by Vic (Tim Abell) gets away. The story divides into a plot and subplot. The plot consists back inside the fence Vic trying to avoid a jinx NATO reporter (Charlene Amoia) who is also the admiral's niece. Seagal is the subplot who basically sits and looks out a window, occasionally reading a line in monotone. This is the part of the army that doesn't have to wear helmets in a war zone and can disregard regulations on grooming. Tim Abell is the star of the film, as Seagal had a smaller role, if not minor as compared to the overall plot. The dialogue consisted of cliche lines when good. The plot flew by the seat of its pants, with much of the film being consumed with bad dialogue attempting to make a believable tale. Okay, I lied, at no time did they attempt to make this a believable tale. The ending was unorthodox and idiotic to say the least. And the \"Van Dam\" in the film is Pro Wrestle Rob Van Dam, who can't deliver a line outside of the ring. It was one of those films so awful you sit with your mouth open watching it. Who gave Fred Olen Ray permission to write a serious film? May have camp value. Guide: 1 well spoken F-word. No sex or nudity. Partial view of Charlene Amoia' s bra.",
+         "SNIPER: SPECIAL OPS is a low budget war flick following a squad of soldiers as they battle terrorists in Afghanistan. It was written and directed by Fred Olen Ray, so you have some idea of the level of talent on display here. The film was made to cash-in on the success of films like AMERICAN SNIPER although the story feels more like BLACK HAWK DOWN with a bunch of American soldiers pinned down by the enemy and fighting against the odds. The action never seems to leave the same few streets and, while the direction is okay, it's far from exciting or thrilling. Fans of Steven Seagal - if, indeed, there are any left - will be disappointed to see that he's relegated to a supporting role here and takes part in no hand-to-hand combat, while the unknown Rob Van Dam is an unremarkable protagonist and seems to be cast just so the name 'Van Dam' can be sneakily written in big letters on the video cover.",
+         "Oh hello you there! Are you another one of the war/sniper movie lovers just like me? Looking for a good movie to fill your time? Maybe to watch with friends or family? Or maybe you are just sitting all by yourself looking for another one of those war movies that made you shake of excitement and yelling to the screen. This movie will most definitely make you both shake and yell. But not in the correct way. First of all, the movie is called Sniper: Special Ops, but where is the sniping? One would expect that a sniper movie would contain more than three sniper shots. Another thing i just can't understand is how a reporter (who all of a sudden became a former marksman right in the middle of the movie without any warning) can shoot more accurate with a handgun than marines can with rifles. Just because you're a marksman it doesn't mean you can hit anything with any weapon. For everyone that has seen a previous war movie the first thing that strikes you is that the actors are way to old to make the characters seem credible, as well as the extreme lack of understanding for basic combat strategy or anything involving combat and war in general. It might seem like director(s) just wrote down the name of every hillbilly in the US who didn't got to join the military in their younger days and just pulled some random names out of a hat when they were looking for actors. There are a lot more things that is wrong with this movie that i could have mentioned, but then i would literally sit here all day and i think the other 1-2 star raters managed to sum it up quite good as well. Don't even bother to read the good ratings, its all nonsense. I think I've seen about every war movie that there is to find, and i can honest to God say that this is the worst movie i've ever seen and the one reason why i bothered to watch all of it was to see how low things would get. The only reason why you would want to watch this movie is if you are standing at the edge of a cliff, in need of that one little extra push to get yourself over the edge. Well.. after seeing this movie I ended up getting pushed all the way from my living room to the edge. Thanks for wasting 84 minutes of my life. Please just don't watch this movie. Ever. Im begging you."
+      ],
+      "genres": [
+         "Action",
+         "Drama",
+         "War"
+      ],
+      "productionCompanies": [
+         "Hybrid",
+         "Steamroller Productions"
+      ],
+      "summaries": ["A Special Ops Military Force, led by Sergeant Vic Mosby (Tim Abell) with an expert sniper Sergeant Jake Chandler (Steven Seagal) as \"Over Watch\" during a special mission are sent to a remote Afghan village to extract an American Congressman being held by the Taliban. The rescue mission is a success, but Jake, separated after a firefight with the enemy, stays behind to help an injured soldier. Sergeant Vic Mosby desperately tries to convince Lieutenant Colonel Jackson (Dale Dye) to let him go back and save the soldiers, but is ordered on a mission to retrieve a truckload of munitions which could be vital for the military base. In direct violation of orders, Vic and his Special Ops Team decide to head back to the village to rescue the stranded soldiers. Outnumbered and out gunned, Vic and his men engage in a massive shootout against the enemy, while Jake uses his expert skills to help save them all from certain death."],
+      "budget": 8000000
+   },
+   "movielensId": 163062,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2016-04-03",
+      "dvdReleaseDate": null,
+      "directors": ["Fred Olen Ray"],
+      "runtime": 84,
+      "movieId": 163062,
+      "title": "Sniper: Special Ops",
+      "mpaa": "",
+      "actors": [
+         "Steven Seagal",
+         "Tim Abell",
+         "Rob Van Dam",
+         "Dale Dye",
+         "Charlene Amoia",
+         "Jason-Shane Scott",
+         "Daniel Booko",
+         "Anthony Batarse",
+         "Gerald Webb",
+         "Jeff Bosley",
+         "Matthew Anderson",
+         "Paul Logan",
+         "John Henry Richardson",
+         "Rita Khori",
+         "Shary Nassimi",
+         "Scott Thomas Reynolds",
+         "J Ferguson",
+         "Jim Poole",
+         "Rydell Danzie",
+         "Trevor Scott",
+         "Brad Monclova"
+      ],
+      "imdbMovieId": "5344794",
+      "originalTitle": "Sniper: Special Ops",
+      "genres": [
+         "Action",
+         "War"
+      ],
+      "youtubeTrailerIds": ["Ar-5PAj-YOc"],
+      "plotSummary": "A Special Ops military Force, led by expert sniper Sergeant Jake Chandler, are sent to a remote Afghan village to extract an American congressman being held by the Taliban.",
+      "tmdbMovieId": 394223,
+      "avgRating": 1.83333,
+      "releaseYear": "2016",
+      "numRatings": 6,
+      "posterPath": "/xOQwXYnnl5E5tTuGUTvCX3OIq2B.jpg"
+   }
+}

@@ -1,0 +1,931 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "new zealand",
+            "id": 2658
+         },
+         {
+            "name": "maori",
+            "id": 2659
+         },
+         {
+            "name": "farm",
+            "id": 4932
+         },
+         {
+            "name": "goat",
+            "id": 10947
+         },
+         {
+            "name": "duringcreditsstinger",
+            "id": 179431
+         }
+      ],
+      "imdb_id": "tt1560139",
+      "video": false,
+      "title": "Boy",
+      "recommendations": [
+         341753,
+         44015,
+         84820,
+         167571,
+         17660,
+         40826,
+         145033,
+         51472,
+         51470,
+         81867,
+         129532,
+         49455,
+         51354,
+         141417,
+         147931,
+         209714,
+         46927,
+         145619,
+         43940,
+         162512
+      ],
+      "backdrop_path": "/p4keiuSSV4Vs3QideuXFPlGwRp4.jpg",
+      "revenue": 43,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 10,
+               "character": "Boy",
+               "gender": 0,
+               "credit_id": "52fe47129251416c910691e5",
+               "name": "James Rolleston",
+               "profile_path": "/aQY7n63kVTF2vrBfcxIuEprZaJ0.jpg",
+               "id": 122765,
+               "order": 0
+            },
+            {
+               "cast_id": 1,
+               "character": "Rocky",
+               "gender": 0,
+               "credit_id": "52fe47129251416c910691c5",
+               "name": "Te Aho Aho Eketone-Whitu",
+               "profile_path": null,
+               "id": 122757,
+               "order": 1
+            },
+            {
+               "cast_id": 13,
+               "character": "Alamein",
+               "gender": 2,
+               "credit_id": "52fe47129251416c910691f3",
+               "name": "Taika Waititi",
+               "profile_path": "/8JBRfEb6mz7GdLwpoKDUOG6B5gy.jpg",
+               "id": 55934,
+               "order": 2
+            },
+            {
+               "cast_id": 20,
+               "character": "Dynasty",
+               "gender": 0,
+               "credit_id": "589abd98925141238a003837",
+               "name": "Moerangi Tihore",
+               "profile_path": null,
+               "id": 1753255,
+               "order": 3
+            },
+            {
+               "cast_id": 21,
+               "character": "Kelly",
+               "gender": 0,
+               "credit_id": "589abda4c3a3683aa30039f7",
+               "name": "Cherilee Martin",
+               "profile_path": null,
+               "id": 1753256,
+               "order": 4
+            },
+            {
+               "cast_id": 22,
+               "character": "Chardonnay",
+               "gender": 0,
+               "credit_id": "589abdb49251412387003906",
+               "name": "RickyLee Waipuka-Russell",
+               "profile_path": null,
+               "id": 1753257,
+               "order": 5
+            },
+            {
+               "cast_id": 23,
+               "character": "Dallas",
+               "gender": 0,
+               "credit_id": "589abdbe92514123900037cb",
+               "name": "Haze Reweti",
+               "profile_path": null,
+               "id": 1753259,
+               "order": 6
+            },
+            {
+               "cast_id": 3,
+               "character": "Murray",
+               "gender": 0,
+               "credit_id": "52fe47129251416c910691cd",
+               "name": "Maakariini Butler",
+               "profile_path": null,
+               "id": 122759,
+               "order": 7
+            },
+            {
+               "cast_id": 7,
+               "character": "Tane",
+               "gender": 0,
+               "credit_id": "52fe47129251416c910691dd",
+               "name": "Rajvinder Eria",
+               "profile_path": null,
+               "id": 122763,
+               "order": 8
+            },
+            {
+               "cast_id": 24,
+               "character": "Kingi",
+               "gender": 0,
+               "credit_id": "589abdd1925141238d0034d0",
+               "name": "Manihera Rangiuaia",
+               "profile_path": null,
+               "id": 1753260,
+               "order": 9
+            },
+            {
+               "cast_id": 8,
+               "character": "Holden",
+               "gender": 0,
+               "credit_id": "52fe47129251416c910691e1",
+               "name": "Darcy Ray Flavell-Hudson",
+               "profile_path": null,
+               "id": 122764,
+               "order": 10
+            },
+            {
+               "cast_id": 19,
+               "character": "Aunty Gracey",
+               "gender": 1,
+               "credit_id": "589abcd6925141237e003aa4",
+               "name": "Rachel House",
+               "profile_path": "/8UGo2lHG5wtnH55lKPDm8oJ0IOk.jpg",
+               "id": 15298,
+               "order": 11
+            },
+            {
+               "cast_id": 25,
+               "character": "Weirdo",
+               "gender": 0,
+               "credit_id": "589abde9925141238d0034df",
+               "name": "Waihoroi Shortland",
+               "profile_path": null,
+               "id": 473036,
+               "order": 12
+            },
+            {
+               "cast_id": 16,
+               "character": "Chuppa",
+               "gender": 2,
+               "credit_id": "55f7d2839251416f87001664",
+               "name": "Cohen Holloway",
+               "profile_path": "/7g9JZKwKxFPYVLWkTkrhAnlWRrr.jpg",
+               "id": 939388,
+               "order": 13
+            },
+            {
+               "cast_id": 17,
+               "character": "Juju",
+               "gender": 2,
+               "credit_id": "55f7d28e9251415852003843",
+               "name": "Pana Hema Taylor",
+               "profile_path": "/jZMS7RlQNYcfQFWDkqQTY7hCwvT.jpg",
+               "id": 939398,
+               "order": 14
+            },
+            {
+               "cast_id": 26,
+               "character": "Mr. Nepia",
+               "gender": 0,
+               "credit_id": "589abdf8c3a3683a98003821",
+               "name": "Tuhoro Ranihera Christie",
+               "profile_path": null,
+               "id": 1753261,
+               "order": 15
+            },
+            {
+               "cast_id": 12,
+               "character": "Mr. Langston",
+               "gender": 2,
+               "credit_id": "52fe47129251416c910691ef",
+               "name": "Craig Hall",
+               "profile_path": "/e18KUAquVXJcEl9uPC0InR9BLyu.jpg",
+               "id": 3496,
+               "order": 16
+            },
+            {
+               "cast_id": 27,
+               "character": "Nan",
+               "gender": 0,
+               "credit_id": "589abe02c3a3683aaa003bba",
+               "name": "Mavis Paenga",
+               "profile_path": null,
+               "id": 1753262,
+               "order": 17
+            },
+            {
+               "cast_id": 6,
+               "character": "Mum",
+               "gender": 0,
+               "credit_id": "52fe47129251416c910691d9",
+               "name": "Ngapaki Emery",
+               "profile_path": null,
+               "id": 122762,
+               "order": 18
+            },
+            {
+               "cast_id": 28,
+               "character": "Che",
+               "gender": 0,
+               "credit_id": "589abe6c9251412381003b02",
+               "name": "Ngaru-toa Puru",
+               "profile_path": null,
+               "id": 1753263,
+               "order": 19
+            },
+            {
+               "cast_id": 29,
+               "character": "Hucks",
+               "gender": 0,
+               "credit_id": "589abe76c3a3683a9800385e",
+               "name": "Hoanihuhi Takotohiwi",
+               "profile_path": null,
+               "id": 1753266,
+               "order": 20
+            },
+            {
+               "cast_id": 5,
+               "character": "Kiko",
+               "gender": 0,
+               "credit_id": "52fe47129251416c910691d5",
+               "name": "Tainui Callaghan",
+               "profile_path": null,
+               "id": 122761,
+               "order": 21
+            },
+            {
+               "cast_id": 4,
+               "character": "Miria",
+               "gender": 0,
+               "credit_id": "52fe47129251416c910691d1",
+               "name": "Manaia Callaghan",
+               "profile_path": null,
+               "id": 122760,
+               "order": 22
+            },
+            {
+               "cast_id": 2,
+               "character": "Chardonnay's Friend",
+               "gender": 0,
+               "credit_id": "52fe47129251416c910691c9",
+               "name": "Ei Kura Albert",
+               "profile_path": null,
+               "id": 122758,
+               "order": 23
+            },
+            {
+               "cast_id": 18,
+               "character": "Beat It Gang",
+               "gender": 1,
+               "credit_id": "55f7d2b1925141504d0011f4",
+               "name": "Madeleine Sami",
+               "profile_path": "/4B24QtPhnHuEXZkengQU9EMmKs3.jpg",
+               "id": 89847,
+               "order": 24
+            },
+            {
+               "cast_id": 43,
+               "character": "Falcon Crest",
+               "gender": 0,
+               "credit_id": "5a0438029251412e0d00fabc",
+               "name": "Montana Te Kani-Williams",
+               "profile_path": null,
+               "id": 1920411,
+               "order": 25
+            },
+            {
+               "cast_id": 44,
+               "character": "Young Darcy",
+               "gender": 0,
+               "credit_id": "5a0438499251412dc101006a",
+               "name": "Rangiteaorere Raki",
+               "profile_path": null,
+               "id": 1920412,
+               "order": 26
+            },
+            {
+               "cast_id": 45,
+               "character": "Kingi's Friend",
+               "gender": 0,
+               "credit_id": "5a04386b9251412dc50101e3",
+               "name": "Wairangi Herewini",
+               "profile_path": null,
+               "id": 1920413,
+               "order": 27
+            },
+            {
+               "cast_id": 46,
+               "character": "Teacher",
+               "gender": 0,
+               "credit_id": "5a043884c3a3680fd400e5ca",
+               "name": "Waimihi Hotere",
+               "profile_path": null,
+               "id": 1920414,
+               "order": 28
+            },
+            {
+               "cast_id": 47,
+               "character": "Chardonnay's Friend",
+               "gender": 0,
+               "credit_id": "5a0438a9c3a3680f6c010b57",
+               "name": "Heke-turoa 'Panache' Ropitini",
+               "profile_path": null,
+               "id": 1920415,
+               "order": 29
+            },
+            {
+               "cast_id": 48,
+               "character": "Chardonnay's Friend",
+               "gender": 0,
+               "credit_id": "5a0438ba9251412de200e06d",
+               "name": "Ruataarehu Waititi",
+               "profile_path": null,
+               "id": 1920416,
+               "order": 30
+            },
+            {
+               "cast_id": 49,
+               "character": "Noodle",
+               "gender": 0,
+               "credit_id": "5a0438cfc3a3680fa700f6fa",
+               "name": "Te Urikore Waititi-Lake",
+               "profile_path": null,
+               "id": 1920417,
+               "order": 31
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe47129251416c910691eb",
+               "name": "Taika Waititi",
+               "profile_path": "/8JBRfEb6mz7GdLwpoKDUOG6B5gy.jpg",
+               "id": 55934,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47129251416c910691f9",
+               "name": "Taika Waititi",
+               "profile_path": "/8JBRfEb6mz7GdLwpoKDUOG6B5gy.jpg",
+               "id": 55934,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47129251416c910691ff",
+               "name": "Adam Clark",
+               "profile_path": null,
+               "id": 55939,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "594869a29251413fbb04778e",
+               "name": "Lukasz Pawel Buda",
+               "profile_path": null,
+               "id": 1671688,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "594869aac3a36816f604a394",
+               "name": "Samuel Scott",
+               "profile_path": null,
+               "id": 1671689,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "594869b3925141400d048908",
+               "name": "Conrad Wedde",
+               "profile_path": null,
+               "id": 1671690,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "594869be9251413ff40488fd",
+               "name": "Chris Plummer",
+               "profile_path": null,
+               "id": 15581,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "594869cbc3a368171b043e85",
+               "name": "Tina Cleary",
+               "profile_path": null,
+               "id": 1409490,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "594869d2c3a368261902486c",
+               "name": "Shayne Radford",
+               "profile_path": null,
+               "id": 95306,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "594869d9c3a368265f02865c",
+               "name": "Amanda Neale",
+               "profile_path": null,
+               "id": 989349,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "594869e2c3a3681115034757",
+               "name": "Georgina Allison Conder",
+               "profile_path": null,
+               "id": 1356763,
+               "department": "Production",
+               "job": "Line Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "594869ea9251413fdd047da7",
+               "name": "Cliff Curtis",
+               "profile_path": "/dkSlTaKKe0uaKKAscVaSHlGq4g3.jpg",
+               "id": 7248,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "594869f3c3a368170f04ab59",
+               "name": "Richard Fletcher",
+               "profile_path": null,
+               "id": 1363412,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59486a01c3a36816c5049764",
+               "name": "Ainsley Gardiner",
+               "profile_path": null,
+               "id": 55941,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59486a09c3a36816f604a407",
+               "name": "Emanuel Michael",
+               "profile_path": null,
+               "id": 55940,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59486a10c3a36811150347a3",
+               "name": "Merata Mita",
+               "profile_path": null,
+               "id": 1019226,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a0439689251412e0d00fcc1",
+               "name": "Hayden Bloomfield",
+               "profile_path": null,
+               "id": 1920418,
+               "department": "Costume & Make-Up",
+               "job": "Key Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a04398b9251412dc10101e1",
+               "name": "Hayden Bloomfield",
+               "profile_path": null,
+               "id": 1920418,
+               "department": "Costume & Make-Up",
+               "job": "Key Hair Stylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a0439af9251412df800f81b",
+               "name": "Dannelle Satherley",
+               "profile_path": null,
+               "id": 1263911,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a0439cec3a3680fe700f247",
+               "name": "Dannelle Satherley",
+               "profile_path": null,
+               "id": 1263911,
+               "department": "Costume & Make-Up",
+               "job": "Hair Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a043a16c3a3680f6c010d2d",
+               "name": "Marc Ashton",
+               "profile_path": null,
+               "id": 1128253,
+               "department": "Directing",
+               "job": "First Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a043a529251412e2300fd29",
+               "name": "Simon Pattison",
+               "profile_path": null,
+               "id": 1492295,
+               "department": "Crew",
+               "job": "Scenic Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a043a8dc3a3680fa700f904",
+               "name": "Jason Canovas",
+               "profile_path": null,
+               "id": 1457324,
+               "department": "Sound",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a043ab2c3a3680fa700f92f",
+               "name": "Jo Fraser",
+               "profile_path": null,
+               "id": 1920422,
+               "department": "Sound",
+               "job": "Boom Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a043accc3a3680f6c010e05",
+               "name": "Michael Hedges",
+               "profile_path": null,
+               "id": 1406069,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a043af19251412e2300fde0",
+               "name": "Gilbert Lake",
+               "profile_path": null,
+               "id": 1424617,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a043b2bc3a3680f6c010e9c",
+               "name": "Matthew Lambourn",
+               "profile_path": null,
+               "id": 1365541,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a043b4d9251412e0d00ff23",
+               "name": "Tim Prebble",
+               "profile_path": null,
+               "id": 1182834,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a043b62c3a3680fa700f9e6",
+               "name": "Simon Riley",
+               "profile_path": null,
+               "id": 1920425,
+               "department": "Sound",
+               "job": "Foley Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a043b909251412df800fa39",
+               "name": "Chris Todd",
+               "profile_path": null,
+               "id": 1394065,
+               "department": "Sound",
+               "job": "Supervising Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a043bd3c3a3680f4500f5eb",
+               "name": "Augie Davis",
+               "profile_path": null,
+               "id": 1079558,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a043c0fc3a3680f9400f015",
+               "name": "Matt Grace",
+               "profile_path": null,
+               "id": 1920428,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a043c239251412dc101052e",
+               "name": "Dion Hartley",
+               "profile_path": null,
+               "id": 1920429,
+               "department": "Camera",
+               "job": "Key Grip"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a043c3c9251412e1a00f727",
+               "name": "Gilly Lawrence",
+               "profile_path": null,
+               "id": 1920430,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a043c5bc3a3680f4500f6b4",
+               "name": "Cinzia Puspita Rini",
+               "profile_path": null,
+               "id": 1920431,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a043c68c3a3680fd400ea4a",
+               "name": "Melissa Ririnui",
+               "profile_path": null,
+               "id": 1920432,
+               "department": "Camera",
+               "job": "Dolly Grip"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a043c79c3a3680f6c011031",
+               "name": "Trevor Stark",
+               "profile_path": null,
+               "id": 1920433,
+               "department": "Lighting",
+               "job": "Rigging Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a043c909251412e2300ffdb",
+               "name": "Darryl Ward",
+               "profile_path": null,
+               "id": 1360292,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a043cac9251412de200e49c",
+               "name": "Tymone Winter Betts",
+               "profile_path": null,
+               "id": 1920435,
+               "department": "Costume & Make-Up",
+               "job": "Seamstress"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a043cfd9251412dc50107d9",
+               "name": "Heidi Freeman",
+               "profile_path": null,
+               "id": 1583564,
+               "department": "Editing",
+               "job": "First Assistant Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a043d259251412df800fc00",
+               "name": "Ardy Matthews",
+               "profile_path": null,
+               "id": 1920436,
+               "department": "Production",
+               "job": "Location Manager"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Comedy",
+            "id": 35
+         }
+      ],
+      "popularity": 4.79576,
+      "production_countries": [{
+         "iso_3166_1": "NZ",
+         "name": "New Zealand"
+      }],
+      "id": 39356,
+      "vote_count": 93,
+      "budget": 3,
+      "overview": "It's 1984, and Michael Jackson is king - even in Waihau Bay, New Zealand. Here we meet Boy, an 11-year-old who lives on a farm with his gran, a goat, and his younger brother, Rocky (who thinks he has magic powers). Shortly after Gran leaves for a week, Boy's father, Alamein, appears out of the blue. Having imagined a heroic version of his father during his absence, Boy comes face to face with the real version-an incompetent hoodlum who has returned to find a bag of money he buried years before. This is where the goat enters.",
+      "similar": [
+         527,
+         9598,
+         2323,
+         713,
+         3131,
+         595,
+         35,
+         11430,
+         2675,
+         452507,
+         107,
+         298312,
+         2270,
+         153518,
+         241848,
+         9362,
+         9447,
+         193687,
+         246741,
+         9609
+      ],
+      "original_title": "Boy",
+      "runtime": 87,
+      "poster_path": "/s7dlUplCgyr3vT853W9vxB91SX.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "",
+            "iso_639_1": "mi"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "New Zealand Film Commission",
+            "id": 294,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Unison Films",
+            "id": 2372,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Whenua Films",
+            "id": 2498,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2010-02-14",
+      "vote_average": 7.6,
+      "belongs_to_collection": null,
+      "tagline": "Summer, Girls, Gangs, Drugs ... its not easy being eleven.",
+      "adult": false,
+      "homepage": "http://www.boythemovie.co.nz",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "New Zealand",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Taika Waititi"],
+      "runtime": 87,
+      "synopsis": null,
+      "writers": ["Taika Waititi"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt1560139/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjc4MjQ2ODQyNF5BMl5BanBnXkFtZTcwOTE0NzIzNw@@._V1_SY317_CR0,0,214,317_AL_.jpg",
+      "actors": ["Stars: James Rolleston, Taika Waititi, Moerangi Tihore | See full cast and crew »"],
+      "reviews": [
+         "This New Zealand made movie had me laughing and entertained right from the outset. In fact, within the first five minutes, there were more laughs than some comedy movies manage to achieve in their entirety. The movie 'Boy' is proof that a good script, decent characters and plenty of laughs produces a better result than big budget movies with no originality and plenty of marketing. Go and see this -- but only if you like decent movies, 1980 references, laughing and characters you'll care about; a blend of serious under-currents wrapped up in quirky NZ humor. For New Zealand viewers, some of the scenes will seem so familiar; something you'll be able to relate to...but anyone can watch this.",
+         "I'll start, unfairly perhaps for any new movie, by comparing it with thoughts that other NZ movies have left me with - only to explain how it left me feeling. I am smiling as I recall the movie and type this. A good sign! So, Eagle v Shark's quirkiness. Whale Rider's pathos & culture. Bro Town's language skills (who'd have thought \"Egg\" would be so eloquent a derogatory remark!) Second Hand Wedding's humanity, commentary on relationships & our overall resilience. Good things will happen. Every Boy's natural instinct to worship their father - irrespective of whether he's earned it or not - is shown against the halcyon backdrop of an east coast life in Godzone. I laughed out loud at Rockys apology for abuse of his special powers to knock an old fella over. I ached when Boy's Dad returned and the interactions between them - the hero worship meeting with reality; a coming of age. Taika's now customary expansion of characters was excellent - flawed, bravado filled fragile wee worlds we all build up. I have not served Boy adequately in this random review - its an amazing film. 9/10. Made me feel happy & glad to be alive and living in NZ.",
+         "This is simply one of the best New Zealand movies made in any century. The story is a richly charactered, well researched, emotionally powerful, and hugely entertaining blend of culture, comedy, music, and drama. I absolutely take my hat off(not that I usually wear one) to Taika Cohen and his crew, they have delivered one of the best films of this year, and that being from all countries. The story is well documented by other users so I won't bore you with the details of that, but for me the main talking point of this film is the exquisite performances of the two lead children. While James Rolleston as Boy has a very vocal part in the film his delivery, range of emotions, and expressions are so important to the film's success, and he pulls this off with such ease, and is such a joy to watch. His fragile brother Rocky, played by Te Aho Aho Eketone-Whitu, turns in to be what I consider one of the best and most emotionally powerful performances from a child in any film I have seen. His role is largely speechless(though he certainly has a share of words to deliver) yet he is able to convey what his character is thinking and feeling through facial expressions, and almost in a sense through his eyes. I cannot recommend this film enough, we went to see it two days ago and I am still smiling from the memory of this great film. The incorporation of Michael Jackson tributes into the film could have been hard to pull off in some movies, yet here Cohen blends these in to the mix with great effect, in particular the final scene which simply has to seen to be fully appreciated. The comedy elements have universal appeal, and are well dispersed throughout the film. Just go see it when you are able, as simple as that. Brilliant...........",
+         "I had been told how funny this movie was, and there are quite a few chuckles in the first 20 minutes or so, and then it buckles down to show us the real story of pre-pubescence in a rural community and the father-son thing. It was explored in depth and very well too, and never gets nasty as some NZ movies can do, but still wrings your heart out. The end-piece was stunning, utilising the obsession with a teenage Michael Jackson and humour as only the NZ Maori do. I left the theatre with mixed feelings but since then I have felt buoyed up (sorry) and am remembering it fondly. Will definitely see it again and may add it to my small collection of NZ films. Others have mentioned Eagle and Shark and Secondhand Wedding, but this is more historical and captures the era perfectly. Well done all - especially to all the actors under 20, we know the adults can act, but these fellas will be worth watching out for in the future.",
+         "I went along to this film hoping that it would not be an awkward repeat of the Maori-against-the-world-old-chestnut that seems to pop up far too commonly here in NZ: and I was not disappointed! This was a fantastically enjoyable film that managed to tackle some prolifically odious practices that (still) exist (illicit gang affiliation, the lack of reasonable care and responsibility for children, drug abuse, poverty) without being gratuitously violent. Surprisingly, and very refreshingly, the writer even succeeded to make this film wonderfully heart warming and funny. Thoroughly recommended.",
+         "Introspective narrative can work profound change, and this is a good example. The story is simple enough: New Zealand native village; extreme poverty; passel of young kids establishing the world of the narrative. One of these is our narrator, the Boy, about ten. His primary concern is how he appears to his mates and the local girls. Various comic devices set the tone before his father arrives back from prison. We then see some endearing shared fantasies, before Boy gets the truth about his Dad as selfishly irresponsible. The shape is generally called \"coming of age.\" Thousands of these have been made. They have a built in minimal appeal, and great constraints on the ability to say anything new. But this does have something new, thanks to the apparently limitless gateway of self- reference. We watch the movie that includes an inner movie of the boy's life, composed of fragments of other movies. We've had this since \"Breathless,\" of course. The fragments have to do with roles associated with the father, mostly war movies, and about Boy, mostly Michael Jackson videos. Here's something new: after we get all that settled, there is a second inner movie fold that appears, the Dad and his cohorts. He brings his own inner movie, different than Boy's. It is one of a rebel gang: James Dean, Marlon Brando. Boy tries to adapt his inner movie to his dad's and in the process breaks both. Along the way, there is a spectrum of what we see: the narrator in the film, his ordinary life, his fantasies as he sees them. His fantasies as we see them. His dad's fantasies as he, we and Boy sees them. Taika Cohen wrote, directed and stars as the dad. It is good, very good. Ted's Evaluation -- 3 of 3: Worth watching.",
+         "There are very few movies coming out of NZ that are memorable at all, and stumbling upon such a gem is quite a rarity! I rarely take time to write reviews, but I felt that this movies deserves one:) There is hardly any fault in this movie from direction and acting perspective, although I have to reckon I have never heard of anyone from the main movie credits... Combining unknown actors with a very simple script is a recipe for disaster, in general,BUT not in this film. I think the charm of the movie comes from kids that are playing their roles just perfect:innocent but responsible when need it. The last scene of the movie makes you feel that you've just experienced something unique that comes on the screen once in 10 years! If you manage to get the DVD, invite some friends over and have an '80 night at the movies: all of them they'll feel happy at the end!",
+         "\"You could be happy here. We could grow up together.\" This epigraph from ET at the start of this quirky New Zealand comedy serves as a perfect introduction to the themes and central plot of Boy. Writer/director and former stand-up comedian Taika Waititi (Eagle Vs Shark, The Flight Of The Conchords, etc) has drawn upon his own experiences growing up in new Zealand in the 1980's to shape this poignant and quirky coming of age tale. Boy deals with themes of family, fatherhood, responsibility, the innocence and imagination of childhood that is lost when one grows up, hero worship, and the heartbreaking loss of innocence. Waititi further develops themes and ideas from his Oscar nominated short film Two Cars, One Night, and suffuses the material with subtle black humour, quirky touches and plenty of his trade mark deadpan humour. New comer James Rolleston makes his film debut, and has an appealing and natural presence as the 11-year-old title character. Since the death of his mother, Boy and his family live in the care of their elderly grandmother. But when she travels to Wellington for a few days to attend a funeral, Boy is left in charge of his siblings. When we first meet Boy he is fantasizing about his absentee father, whom he envisages in a variety of heroic roles. But the reality is vastly different. Alamein (played by Waititi himself) has been released from jail, and returns home to the small dead end town of Waihau Bay. Dad turns out to be a drug addled loser, a petty crook who has come home, not to spend time with his children but to try and dig up some money he buried a couple of year earlier. Unfortunately he can't remember where he buried it, and is forced to hang around for a few days. Boy tries to bond with his father, but in the end he realizes that Alamein is a failure as a parent, a father, a man, and a role model. Boy is a painfully personal film that deftly mixes black humour and sadness. The film is set in 1984, and Waititi also imbues the film with a strong sense of place and time, particularly through Boy's obsession with Michael Jackson. Boy has becomes one of the most successful films released in New Zealand, and its universal themes and quirky humour suggests that it could also have broad appeal in other territories.",
+         "Boy is a simple but emotionally powerful story about growing up, relationships, following your head over your heart and drawing the line between right and wrong. It's easily one of the best New Zealand films ever made. It's Rich characters and humorous dialogue, entailed by the occasional light-hearted hand drawn animations delivered a hugely entertaining blend of culture, comedy and drama. The story started on a perfect note with Boy played by James Rolleston giving his show and tell speech in the classroom. It introduced the character, his background and set the atmosphere, mood and setting all in one go without being a dull lead up. Taika Waititi (who also plays the dead beat father) did an amazing job in setting out each detailed scene with the occasional Michael Jackson tributes giving the film an even disperse of light-hearted laughs at the same time appropriately moving the plot along. The film gave a heart aching recount on every boy's natural instinct to worship their father, whether they deserve it or not. The growth and resilience of each character portrayed superbly by every single actor from the child stars to the minor adult characters was a pleasure to watch. It still brings a smile to my face today. Pure brilliance... http://musingsandmorsels.weebly.com/film.html",
+         "Hubby and I went to see this movie last Friday and unfortunately missed the first 10 minutes as we were given the tickets by friends. We sat in a movie theatre with at least 40 people- something quite rare. The movie drew me in straight away to the rural 80s where young Boy and his brother were growing up and meeting their father for the first time. As the movie explored their relationship it was bitter-sweet and very humorous. All the leads acted beautifully and the story, directing and settings were very well done. It was honest, funny, compassionate, heart-wrenching, powerful and life-affirming. I'm still thinking about it days later with a grin. I take my hat off to Mr Waititi for writing, directing and acting in this movie- its a wonderful film. Can't wait to see your next one. All the actors were fantastic but I must mention the young Maori leads who were brilliant."
+      ],
+      "genres": [
+         "Comedy",
+         "Drama"
+      ],
+      "productionCompanies": [
+         "Whenua Films",
+         "Unison Films",
+         "New Zealand Film Production Fund"
+      ],
+      "summaries": [
+         "It's 1984, and Michael Jackson is king-even in Waihau Bay, New Zealand. Here we meet Boy, an 11-year-old who lives on a farm with his gran, a goat, and his younger brother, Rocky (who thinks he has magic powers). Shortly after Gran leaves for a week, Boy's father, Alamein, appears out of the blue. Having imagined a heroic version of his father during his absence, Boy comes face to face with the real version-an incompetent hoodlum who has returned to find a bag of money he buried years before. This is where the goat enters.",
+         "Set on the east coast of New Zealand in the year 1984, Boy, an 11-year-old kid and devout Michael Jackson fan gets a chance to know his father, who has returned to find a bag of money he buried years ago."
+      ],
+      "budget": 0
+   },
+   "movielensId": 86000,
+   "movielens": {
+      "languages": [
+         "English",
+         ""
+      ],
+      "releaseDate": "2010-02-14",
+      "dvdReleaseDate": "2013-07-09",
+      "directors": ["Taika Waititi"],
+      "runtime": 87,
+      "movieId": 86000,
+      "title": "Boy",
+      "mpaa": "",
+      "actors": [
+         "James Rolleston",
+         "Te Aho Aho Eketone-Whitu",
+         "Taika Waititi",
+         "Moerangi Tihore",
+         "Cherilee Martin",
+         "RickyLee Waipuka-Russell",
+         "Haze Reweti",
+         "Maakariini Butler",
+         "Rajvinder Eria",
+         "Manihera Rangiuaia",
+         "Darcy Ray Flavell-Hudson",
+         "Rachel House",
+         "Waihoroi Shortland",
+         "Cohen Holloway",
+         "Pana Hema Taylor",
+         "Tuhoro Ranihera Christie",
+         "Craig Hall",
+         "Mavis Paenga",
+         "Ngapaki Emery",
+         "Ngaru-toa Puru",
+         "Hoanihuhi Takotohiwi",
+         "Tainui Callaghan",
+         "Manaia Callaghan",
+         "Ei Kura Albert",
+         "Madeleine Sami",
+         "Montana Te Kani-Williams",
+         "Rangiteaorere Raki",
+         "Wairangi Herewini",
+         "Waimihi Hotere",
+         "Heke-turoa 'Panache' Ropitini",
+         "Ruataarehu Waititi",
+         "Te Urikore Waititi-Lake"
+      ],
+      "imdbMovieId": "1560139",
+      "originalTitle": "Boy",
+      "genres": [
+         "Drama",
+         "Comedy"
+      ],
+      "youtubeTrailerIds": ["RwqfR8g-Qow"],
+      "plotSummary": "It's 1984, and Michael Jackson is king - even in Waihau Bay, New Zealand. Here we meet Boy, an 11-year-old who lives on a farm with his gran, a goat, and his younger brother, Rocky (who thinks he has magic powers). Shortly after Gran leaves for a week, Boy's father, Alamein, appears out of the blue. Having imagined a heroic version of his father during his absence, Boy comes face to face with the real version-an incompetent hoodlum who has returned to find a bag of money he buried years before. This is where the goat enters.",
+      "tmdbMovieId": 39356,
+      "avgRating": 3.745,
+      "releaseYear": "2010",
+      "numRatings": 200,
+      "posterPath": "/5xnwsfJ14BpqHJow3f3t4RPzVK.jpg"
+   }
+}

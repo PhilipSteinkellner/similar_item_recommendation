@@ -1,0 +1,514 @@
+{
+   "tmdb": {
+      "original_language": "fr",
+      "keywords": [
+         {
+            "name": "falsely accused",
+            "id": 769
+         },
+         {
+            "name": "marseille",
+            "id": 916
+         }
+      ],
+      "imdb_id": "tt0055569",
+      "video": false,
+      "title": "A Man Named Rocca",
+      "recommendations": [],
+      "backdrop_path": "/ttKhFGkh0OzrNTBvxPmUfeZ7gC0.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 5,
+               "character": "Roberto La Rocca",
+               "gender": 2,
+               "credit_id": "52fe4691c3a368484e097d83",
+               "name": "Jean-Paul Belmondo",
+               "profile_path": "/2wzCE3051vejmirP20DVE1HBcTq.jpg",
+               "id": 3829,
+               "order": 0
+            },
+            {
+               "cast_id": 6,
+               "character": "Geneviève Adé",
+               "gender": 1,
+               "credit_id": "52fe4691c3a368484e097d87",
+               "name": "Christine Kaufmann",
+               "profile_path": "/5dOT16uZw2wKekuv1ogvRwS3y5U.jpg",
+               "id": 3762,
+               "order": 1
+            },
+            {
+               "cast_id": 7,
+               "character": "Xavier Adé",
+               "gender": 0,
+               "credit_id": "52fe4691c3a368484e097d8b",
+               "name": "Pierre Vaneck",
+               "profile_path": "/1VYytOUrkCybWzL0qliGTXqNfNp.jpg",
+               "id": 4289,
+               "order": 2
+            },
+            {
+               "cast_id": 8,
+               "character": "Maud",
+               "gender": 0,
+               "credit_id": "52fe4691c3a368484e097d8f",
+               "name": "Béatrice Altariba",
+               "profile_path": "/azD15AceXQEJHFbzE05LN1MNA5x.jpg",
+               "id": 37129,
+               "order": 3
+            },
+            {
+               "cast_id": 9,
+               "character": "Ficelle",
+               "gender": 2,
+               "credit_id": "52fe4691c3a368484e097d93",
+               "name": "Henri Virlojeux",
+               "profile_path": "/5NzhYohQytUEdLze6MV2ozxLccT.jpg",
+               "id": 39098,
+               "order": 4
+            },
+            {
+               "cast_id": 10,
+               "character": "Charlot l'élégant",
+               "gender": 0,
+               "credit_id": "52fe4691c3a368484e097d97",
+               "name": "Mario David",
+               "profile_path": "/qOg1Wx5p6GRGnTulRxv6UZ81ilA.jpg",
+               "id": 28189,
+               "order": 5
+            },
+            {
+               "cast_id": 36,
+               "character": "Villanova",
+               "gender": 1,
+               "credit_id": "59fc5892c3a3681aa502c179",
+               "name": "Nico",
+               "profile_path": "/aedJ0lIZWao7k8OnnReaCk4MYey.jpg",
+               "id": 938895,
+               "order": 6
+            },
+            {
+               "cast_id": 12,
+               "character": "Migli",
+               "gender": 0,
+               "credit_id": "52fe4691c3a368484e097d9f",
+               "name": "Pedro Serano",
+               "profile_path": null,
+               "id": 236139,
+               "order": 7
+            },
+            {
+               "cast_id": 13,
+               "character": "Cipriano",
+               "gender": 0,
+               "credit_id": "52fe4691c3a368484e097da3",
+               "name": "Charles Moulin",
+               "profile_path": "/i3lmfwerV0HyYKsgY4SgBiAghQJ.jpg",
+               "id": 236140,
+               "order": 8
+            },
+            {
+               "cast_id": 14,
+               "character": "Névada",
+               "gender": 2,
+               "credit_id": "52fe4691c3a368484e097da7",
+               "name": "Jean-Pierre Darras",
+               "profile_path": "/pf90YSZyz1A4I8hDkzhxlhkFcjB.jpg",
+               "id": 70173,
+               "order": 9
+            },
+            {
+               "cast_id": 15,
+               "character": "",
+               "gender": 0,
+               "credit_id": "52fe4691c3a368484e097dab",
+               "name": "Edmond Beauchamp",
+               "profile_path": null,
+               "id": 44129,
+               "order": 10
+            },
+            {
+               "cast_id": 16,
+               "character": "Jack Léonard",
+               "gender": 2,
+               "credit_id": "52fe4691c3a368484e097daf",
+               "name": "Jacques Léonard",
+               "profile_path": null,
+               "id": 112760,
+               "order": 11
+            },
+            {
+               "cast_id": 17,
+               "character": "",
+               "gender": 2,
+               "credit_id": "52fe4691c3a368484e097db3",
+               "name": "Jean Gras",
+               "profile_path": "/owi5mYhwlRaSBQulaxvu3bVpi1z.jpg",
+               "id": 115470,
+               "order": 12
+            },
+            {
+               "cast_id": 18,
+               "character": "Le chef des racketteurs américains",
+               "gender": 2,
+               "credit_id": "52fe4691c3a368484e097db7",
+               "name": "Michel Constantin",
+               "profile_path": "/cpf2aQCk8PMSEPRYx7iR6mtF7KK.jpg",
+               "id": 24495,
+               "order": 13
+            },
+            {
+               "cast_id": 19,
+               "character": "Fanfan",
+               "gender": 0,
+               "credit_id": "52fe4691c3a368484e097dbb",
+               "name": "Frédéric Lambre",
+               "profile_path": null,
+               "id": 236141,
+               "order": 14
+            },
+            {
+               "cast_id": 20,
+               "character": "Le directeur de la prison",
+               "gender": 2,
+               "credit_id": "52fe4691c3a368484e097dbf",
+               "name": "Claude Piéplu",
+               "profile_path": "/fhZMIyYxpWEzIXLSJQRu3vC2ZLr.jpg",
+               "id": 24388,
+               "order": 15
+            },
+            {
+               "cast_id": 21,
+               "character": "",
+               "gender": 0,
+               "credit_id": "52fe4691c3a368484e097dc3",
+               "name": "Jean-Louis Marest",
+               "profile_path": null,
+               "id": 236142,
+               "order": 16
+            },
+            {
+               "cast_id": 22,
+               "character": "",
+               "gender": 0,
+               "credit_id": "52fe4691c3a368484e097dc7",
+               "name": "Henri Arius",
+               "profile_path": "/uuXb1KgdKCQZg1EGsCXnur1vgKN.jpg",
+               "id": 236143,
+               "order": 17
+            },
+            {
+               "cast_id": 23,
+               "character": "",
+               "gender": 0,
+               "credit_id": "52fe4691c3a368484e097dcb",
+               "name": "Mick Besson",
+               "profile_path": "/2W2vuzZyYTiEnGmi6pCwFUQtAbA.jpg",
+               "id": 236144,
+               "order": 18
+            },
+            {
+               "cast_id": 24,
+               "character": "",
+               "gender": 0,
+               "credit_id": "52fe4691c3a368484e097dcf",
+               "name": "Pierre Mirat",
+               "profile_path": null,
+               "id": 236146,
+               "order": 19
+            },
+            {
+               "cast_id": 25,
+               "character": "Un prisonnier démineur (uncredited)",
+               "gender": 0,
+               "credit_id": "52fe4691c3a368484e097dd3",
+               "name": "Gérard Hernandez",
+               "profile_path": "/dVO4ZZ0nbkOZlQBdhvknL7HnSQN.jpg",
+               "id": 131380,
+               "order": 20
+            },
+            {
+               "cast_id": 26,
+               "character": "uncredited",
+               "gender": 0,
+               "credit_id": "52fe4691c3a368484e097dd7",
+               "name": "Giovanni Père",
+               "profile_path": null,
+               "id": 236147,
+               "order": 21
+            },
+            {
+               "cast_id": 27,
+               "character": "uncredited",
+               "gender": 2,
+               "credit_id": "52fe4691c3a368484e097ddb",
+               "name": "Jacques Rispal",
+               "profile_path": "/sWFr0JdijBjhrqg42fzFhZXndGp.jpg",
+               "id": 39443,
+               "order": 22
+            },
+            {
+               "cast_id": 28,
+               "character": "Un prisonnier démineur (uncredited)",
+               "gender": 2,
+               "credit_id": "52fe4691c3a368484e097ddf",
+               "name": "Dominique Zardi",
+               "profile_path": "/oOvnUGvgDX9mVxOYwkuUk1pljIV.jpg",
+               "id": 13697,
+               "order": 23
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4691c3a368484e097d6d",
+               "name": "Jean Becker",
+               "profile_path": "/8v6iGAKKH8UCgOEDhXXQAwXXnq9.jpg",
+               "id": 37633,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4691c3a368484e097d73",
+               "name": "Jean Becker",
+               "profile_path": "/8v6iGAKKH8UCgOEDhXXQAwXXnq9.jpg",
+               "id": 37633,
+               "department": "Writing",
+               "job": "Adaptation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4691c3a368484e097d79",
+               "name": "José Giovanni",
+               "profile_path": "/3O3mf4xMxzREEqdN1rqyJ6B6xJB.jpg",
+               "id": 35585,
+               "department": "Writing",
+               "job": "Dialogue"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4691c3a368484e097d7f",
+               "name": "José Giovanni",
+               "profile_path": "/3O3mf4xMxzREEqdN1rqyJ6B6xJB.jpg",
+               "id": 35585,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 0,
+               "credit_id": "597a852f925141364300195c",
+               "name": "Claude Normand",
+               "profile_path": null,
+               "id": 1859355,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "597a8536c3a368375a001b28",
+               "name": "Ghislain Cloquet",
+               "profile_path": null,
+               "id": 11988,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "597a853c925141364300196a",
+               "name": "Denise de Casabianca",
+               "profile_path": null,
+               "id": 23730,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "597a8542c3a36837350019e0",
+               "name": "Maurice Petri",
+               "profile_path": null,
+               "id": 577615,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "597a854ac3a368374c001abe",
+               "name": "Adry De Carbuccia",
+               "profile_path": null,
+               "id": 1859356,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "597a8552925141363f001a3c",
+               "name": "Roland Girard",
+               "profile_path": null,
+               "id": 32318,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "597a8559c3a36837080018ca",
+               "name": "René Gaston Vuattoux",
+               "profile_path": null,
+               "id": 14230,
+               "department": "Production",
+               "job": "Executive Producer"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Drama",
+         "id": 18
+      }],
+      "popularity": 0.466351,
+      "production_countries": [
+         {
+            "iso_3166_1": "FR",
+            "name": "France"
+         },
+         {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+         }
+      ],
+      "id": 62876,
+      "vote_count": 2,
+      "budget": 0,
+      "overview": "Roberto goes to Marseilles to give a hand to his friend Xavier, wrongly imprisoned following a frame-up organized by his associate Villanova. Roberto sets out to seduce Villanova's mistress, but when Villanova is killed, Roberto ends up leader of the band...",
+      "similar": [
+         4415,
+         4479,
+         4416,
+         4412,
+         9798,
+         82695,
+         12113,
+         508,
+         5123,
+         1368,
+         2330,
+         856,
+         861,
+         8247,
+         708,
+         710,
+         764,
+         859,
+         1051,
+         10353
+      ],
+      "original_title": "Un Nommé La Rocca",
+      "runtime": 102,
+      "poster_path": "/a0t7EfuX8nSIvWj5B6FpHzZEXr3.jpg",
+      "spoken_languages": [{
+         "name": "Français",
+         "iso_639_1": "fr"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Da Ma Produzione",
+            "id": 16058,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Les Films du Cyclope",
+            "id": 16059,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1961-11-17",
+      "vote_average": 6.5,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "France",
+      "color": "Black and White",
+      "budgetCurrency": null,
+      "directors": ["Jean Becker"],
+      "runtime": 102,
+      "synopsis": null,
+      "writers": [
+         "Jean Becker",
+         "José Giovanni"
+      ],
+      "originalLanguage": "French",
+      "imdbLink": "http://www.imdb.com/title/tt0055569/",
+      "coverLink": null,
+      "actors": [
+         "Jean-Paul Belmondo",
+         "Christine Kaufmann",
+         "Pierre Vaneck"
+      ],
+      "reviews": ["In 1959,just before his death,Jacques Becker adapted for the screen,José Giovanni's \"le trou\" :the only Giovanni novel which gave a genuine masterpiece.So when the young Becker (Jean) emerged first as a Henri Verneuil and Julien Duvivier assistant,it was only natural that the \"casque d'or\" director's son teamed up with the novelist for his first effort. This first effort is very undistinguished in its first part,but becomes better in the second half which takes place in a jail and then on a beach where the voluntary prisoners do mine clearance.The scenes in the prison were always convincing in Giovanni's screenplays ,because he 'd done time himself (see his 2000 movie \"mon père ,il m'a sauvé la vie\").It's an accurate depiction of a French prison circa 1960.Then the mines segment is of course suspenseful .The last fifteen minutes come as an anticlimax afterward.. Jean Becker would enjoy a lot of success with his overblown (and highly overrated) \"l'été meurtrier\" at the beginning of the eighties.As for Giovanni he made himself a remake of \"un nommé la Rocca\" in 1972:Belmondo took on his leading part,Christine Kaufman was replaced by Claudia Cardinale and Michel Constantin -who plays here a small part of an American deserter who goes racketeering the nightclubs- was cast as Xavier ,Pierre Vaneck's role.The new movie was called \"la scoumoune\" (= rotten luck)but did not bring anything new:highlights remain the scenes on the beach.The conclusion is slightly different ."],
+      "genres": [
+         "Crime",
+         "Drama"
+      ],
+      "productionCompanies": [
+         "Da Ma Produzione",
+         "Les Films du Cyclope"
+      ],
+      "summaries": ["(1961) Jean Paul Belmondo, Christine Kaufman. In this fine thriller, JP's friend ends up in prison. JP then tracks down the man responsible."],
+      "budget": 0
+   },
+   "movielensId": 111838,
+   "movielens": {
+      "languages": ["Français"],
+      "releaseDate": "1961-11-17",
+      "dvdReleaseDate": null,
+      "directors": ["Jean Becker"],
+      "runtime": 102,
+      "movieId": 111838,
+      "title": "A Man Named Rocca",
+      "mpaa": "",
+      "actors": [
+         "Jean-Paul Belmondo",
+         "Christine Kaufmann",
+         "Pierre Vaneck",
+         "Béatrice Altariba",
+         "Henri Virlojeux",
+         "Mario David",
+         "Nico",
+         "Pedro Serano",
+         "Charles Moulin",
+         "Jean-Pierre Darras",
+         "Edmond Beauchamp",
+         "Jacques Léonard",
+         "Jean Gras",
+         "Michel Constantin",
+         "Frédéric Lambre",
+         "Claude Piéplu",
+         "Jean-Louis Marest",
+         "Henri Arius",
+         "Mick Besson",
+         "Pierre Mirat",
+         "Gérard Hernandez",
+         "Giovanni Père",
+         "Jacques Rispal",
+         "Dominique Zardi"
+      ],
+      "imdbMovieId": "0055569",
+      "originalTitle": "Un Nommé La Rocca",
+      "genres": ["Drama"],
+      "youtubeTrailerIds": [],
+      "plotSummary": "Roberto goes to Marseilles to give a hand to his friend Xavier, wrongly imprisoned following a frame-up organized by his associate Villanova. Roberto sets out to seduce Villanova's mistress, but when Villanova is killed, Roberto ends up leader of the band...",
+      "tmdbMovieId": 62876,
+      "avgRating": 4,
+      "releaseYear": "1961",
+      "numRatings": 1,
+      "posterPath": "/a0t7EfuX8nSIvWj5B6FpHzZEXr3.jpg"
+   }
+}

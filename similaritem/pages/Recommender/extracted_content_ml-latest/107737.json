@@ -1,0 +1,789 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "post-apocalyptic",
+            "id": 4458
+         },
+         {
+            "name": "dystopia",
+            "id": 4565
+         },
+         {
+            "name": "suspense",
+            "id": 9937
+         }
+      ],
+      "imdb_id": "tt2369396",
+      "video": false,
+      "title": "Bounty Killer",
+      "recommendations": [
+         3541,
+         263416,
+         251208,
+         94265,
+         264227,
+         306307,
+         60819,
+         326441,
+         119517,
+         325186,
+         183433,
+         232195,
+         257131,
+         108435,
+         226200,
+         82322,
+         269026,
+         381712,
+         69415,
+         35297
+      ],
+      "backdrop_path": "/9bxgzFuIAw5TaJhnYLpNHnIrZwo.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Catherine",
+               "gender": 1,
+               "credit_id": "52fe4d67c3a368484e1e7375",
+               "name": "Kristanna Loken",
+               "profile_path": "/rxeYONGXlnNYOn50KjjiwgLxiGX.jpg",
+               "id": 7218,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Mary Death",
+               "gender": 0,
+               "credit_id": "52fe4d67c3a368484e1e7379",
+               "name": "Christian Pitre",
+               "profile_path": "/mfrIjlY1Hsfji2kLAuk4ArquzQP.jpg",
+               "id": 1192976,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Jack LeMans",
+               "gender": 2,
+               "credit_id": "52fe4d67c3a368484e1e737d",
+               "name": "Barak Hardley",
+               "profile_path": "/aoinc7IiA6323wYI7p45xTN5MvD.jpg",
+               "id": 1042516,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Jimbo",
+               "gender": 2,
+               "credit_id": "52fe4d67c3a368484e1e7381",
+               "name": "Abraham Benrubi",
+               "profile_path": "/f5o2JsFVIqi0kFbvgXVgriap9cA.jpg",
+               "id": 21132,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Van Sterling",
+               "gender": 2,
+               "credit_id": "52fe4d67c3a368484e1e7385",
+               "name": "Gary Busey",
+               "profile_path": "/n66ycv61ZoqusHthcQde1g3JY6T.jpg",
+               "id": 2048,
+               "order": 5
+            },
+            {
+               "cast_id": 7,
+               "character": "Lucille",
+               "gender": 1,
+               "credit_id": "52fe4d67c3a368484e1e7389",
+               "name": "Beverly D'Angelo",
+               "profile_path": "/8fYQIA8dAaA4GOTxOFSKIvTqzi.jpg",
+               "id": 821,
+               "order": 6
+            },
+            {
+               "cast_id": 8,
+               "character": "Mocha Sujata",
+               "gender": 0,
+               "credit_id": "52fe4d67c3a368484e1e738d",
+               "name": "Eve",
+               "profile_path": "/3V7Um9JXpwcuTx6wnO2u1hZ1Jfa.jpg",
+               "id": 230176,
+               "order": 7
+            },
+            {
+               "cast_id": 9,
+               "character": "Daft Willy",
+               "gender": 2,
+               "credit_id": "52fe4d67c3a368484e1e7391",
+               "name": "Kevin McNally",
+               "profile_path": "/fIJF3TZn8ckHkcl44oX77GvPv9e.jpg",
+               "id": 2449,
+               "order": 8
+            },
+            {
+               "cast_id": 28,
+               "character": "Scarlet",
+               "gender": 1,
+               "credit_id": "53a6a9830e0a2614450035dd",
+               "name": "Jolene Andersen",
+               "profile_path": "/25GS0pDeLxGvURipEPJVI4GbeVh.jpg",
+               "id": 558915,
+               "order": 10
+            },
+            {
+               "cast_id": 29,
+               "character": "Korah",
+               "gender": 1,
+               "credit_id": "53a6a9d30e0a261439003654",
+               "name": "Chasty Ballesteros",
+               "profile_path": "/ciHZCLB504QF9cptNy9ecLahPlJ.jpg",
+               "id": 1158832,
+               "order": 11
+            },
+            {
+               "cast_id": 30,
+               "character": "Trevor",
+               "gender": 2,
+               "credit_id": "53a6aa140e0a2614490035b1",
+               "name": "Ivar Brogger",
+               "profile_path": "/cLlwp0wqx3rk7VqexkPWdl7yZa5.jpg",
+               "id": 117598,
+               "order": 12
+            },
+            {
+               "cast_id": 31,
+               "character": "Billy Boom",
+               "gender": 2,
+               "credit_id": "53a6aa3d0e0a2614450035f9",
+               "name": "Will Collyer",
+               "profile_path": "/AiuAxh6IoFqLqHt2BNcYG4WzfH5.jpg",
+               "id": 105191,
+               "order": 13
+            },
+            {
+               "cast_id": 56,
+               "character": "Female Fan",
+               "gender": 0,
+               "credit_id": "559b854dc3a3687176001348",
+               "name": "Jessica Meraz",
+               "profile_path": "/3gOX2vUPRZS1YhZ93dqCgnJQxya.jpg",
+               "id": 1440121,
+               "order": 14
+            },
+            {
+               "cast_id": 57,
+               "character": "Vio Lin",
+               "gender": 1,
+               "credit_id": "55ee76f7c3a3682c5d019d70",
+               "name": "Soon Hee Newbold",
+               "profile_path": "/whYHgZXHJpmZt9ocxh0q2KKOSBe.jpg",
+               "id": 1043286,
+               "order": 15
+            },
+            {
+               "cast_id": 58,
+               "character": "Estelle",
+               "gender": 1,
+               "credit_id": "55ee77039251413e3e018aac",
+               "name": "Mindy Robinson",
+               "profile_path": "/m5KuG9QmgDW02cAgZNxINLs72R5.jpg",
+               "id": 1072882,
+               "order": 16
+            },
+            {
+               "cast_id": 59,
+               "character": "Meredith",
+               "gender": 0,
+               "credit_id": "55ee7711c3a3682c5d019d79",
+               "name": "Alex Scolari",
+               "profile_path": "/3DGaW3oHYmGUHitIpBuAyUX1Veu.jpg",
+               "id": 1506819,
+               "order": 17
+            },
+            {
+               "cast_id": 62,
+               "character": "Daisy",
+               "gender": 0,
+               "credit_id": "5841c64f9251417d50009ee0",
+               "name": "Tyra Colar",
+               "profile_path": "/3MYwyiNthjdFwJWlNfig4UD2K2M.jpg",
+               "id": 1717505,
+               "order": 18
+            },
+            {
+               "cast_id": 63,
+               "character": "Stewardess",
+               "gender": 1,
+               "credit_id": "5841c6d59251417d6200a033",
+               "name": "Alexa PenaVega",
+               "profile_path": "/aHABeErlMgzBkrMSaHOsZFsNlhV.jpg",
+               "id": 57674,
+               "order": 19
+            },
+            {
+               "cast_id": 64,
+               "character": "Gypsy",
+               "gender": 0,
+               "credit_id": "5841c77cc3a36865b600a854",
+               "name": "Cham",
+               "profile_path": "/p1HvPi7ZZ0cRtiL3XkLNlHWl0ZY.jpg",
+               "id": 1717506,
+               "order": 20
+            },
+            {
+               "cast_id": 65,
+               "character": "Greg Gunney",
+               "gender": 0,
+               "credit_id": "5841c856c3a36865ad00aaea",
+               "name": "Jeff Meacham",
+               "profile_path": "/4E9sJkTHpgAswKATmi2FwFrG9FH.jpg",
+               "id": 1407517,
+               "order": 21
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe4d67c3a368484e1e739b",
+               "name": "Henry Saine",
+               "profile_path": null,
+               "id": 225706,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4d67c3a368484e1e73a1",
+               "name": "Henry Saine",
+               "profile_path": null,
+               "id": 225706,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4d67c3a368484e1e73a7",
+               "name": "Jason Dodson",
+               "profile_path": null,
+               "id": 1192977,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4d67c3a368484e1e73ad",
+               "name": "Jason Dodson",
+               "profile_path": null,
+               "id": 1192978,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4d67c3a368484e1e73b3",
+               "name": "Colin Ebeling",
+               "profile_path": null,
+               "id": 1192979,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4d67c3a368484e1e73b9",
+               "name": "Greg Edmonson",
+               "profile_path": null,
+               "id": 1084669,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4d67c3a368484e1e73bf",
+               "name": "David Conley",
+               "profile_path": "/8a76BlFhS6Occ2SsoQGMWxjZffw.jpg",
+               "id": 187812,
+               "department": "Crew",
+               "job": "Cinematography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4d67c3a368484e1e73c5",
+               "name": "Martin Bernfeld",
+               "profile_path": null,
+               "id": 1049770,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4d67c3a368484e1e73cb",
+               "name": "Michael G. Gallenberg",
+               "profile_path": null,
+               "id": 1267843,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4d67c3a368484e1e73d1",
+               "name": "Mel Cooper",
+               "profile_path": null,
+               "id": 1036635,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4d67c3a368484e1e73d7",
+               "name": "Dan Selon",
+               "profile_path": null,
+               "id": 1154096,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4d67c3a368484e1e73dd",
+               "name": "Colin Ebeling",
+               "profile_path": null,
+               "id": 1192979,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4d67c3a368484e1e73e3",
+               "name": "Jason Netter",
+               "profile_path": null,
+               "id": 56238,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4d67c3a368484e1e73e9",
+               "name": "Henry Saine",
+               "profile_path": null,
+               "id": 225706,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4d67c3a368484e1e73ef",
+               "name": "Peter Pappas",
+               "profile_path": null,
+               "id": 1290147,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53a6a9100e0a26143600363e",
+               "name": "Tracy Richards",
+               "profile_path": null,
+               "id": 1333075,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Department Head"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53a6a9330e0a26143c0034b7",
+               "name": "Isabel Mandujano",
+               "profile_path": null,
+               "id": 1333076,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a2b1ffc3a3682f1b00f0e2",
+               "name": "Kris Kobzina",
+               "profile_path": null,
+               "id": 1406299,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a2b218c3a368554200c56d",
+               "name": "Stacee Skala",
+               "profile_path": null,
+               "id": 1406300,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a2b23c9251411d530098de",
+               "name": "Greg Kindra",
+               "profile_path": null,
+               "id": 1406301,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a2b2739251412127005e8c",
+               "name": "Sean Falkner",
+               "profile_path": null,
+               "id": 1406303,
+               "department": "Art",
+               "job": "Assistant Art Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a2b28dc3a3682f1b00f0fc",
+               "name": "Star Fields",
+               "profile_path": null,
+               "id": 1406304,
+               "department": "Art",
+               "job": "Construction Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a2b2a6c3a3684d8f001a23",
+               "name": "Ryan Garton",
+               "profile_path": null,
+               "id": 1375908,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a2b2c39251411d530098e7",
+               "name": "Pete Flynn",
+               "profile_path": null,
+               "id": 106981,
+               "department": "Crew",
+               "job": "Property Master"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a2b2e592514117dd0019d6",
+               "name": "Walter New",
+               "profile_path": null,
+               "id": 1392940,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a2b307c3a368764f00ba59",
+               "name": "Walter New",
+               "profile_path": null,
+               "id": 1392940,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a2b31dc3a36864280002b7",
+               "name": "Donald Lucas",
+               "profile_path": null,
+               "id": 1406305,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a2b3309251412127005eab",
+               "name": "Luke Lucas",
+               "profile_path": null,
+               "id": 1406306,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a2b34ac3a368554200c58a",
+               "name": "Bridget Farrington",
+               "profile_path": null,
+               "id": 1392938,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a2b3699251411860001a78",
+               "name": "Kristaan Cain",
+               "profile_path": null,
+               "id": 1406309,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a2b37fc3a3680b2700d33f",
+               "name": "Laurel Klick",
+               "profile_path": null,
+               "id": 1403192,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54a2b3ad9251414d27009d6d",
+               "name": "Randall Archer",
+               "profile_path": null,
+               "id": 1099428,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a2b3d9c3a3682f2100f27f",
+               "name": "George Peters",
+               "profile_path": null,
+               "id": 1399473,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a2b3f5c3a368554200c59f",
+               "name": "Joe Tamel",
+               "profile_path": null,
+               "id": 1406312,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a2b40ec3a368554200c5a4",
+               "name": "Tristan Nyby",
+               "profile_path": null,
+               "id": 1406313,
+               "department": "Camera",
+               "job": "Additional Camera"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54a2b469c3a368764f00ba89",
+               "name": "Alex Simon",
+               "profile_path": null,
+               "id": 1406315,
+               "department": "Camera",
+               "job": "Additional Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a2b48b92514117dd001a0e",
+               "name": "William Novy",
+               "profile_path": null,
+               "id": 1406316,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a2b4b2c3a3680b2700d35e",
+               "name": "Matt Blackshear",
+               "profile_path": null,
+               "id": 1396825,
+               "department": "Editing",
+               "job": "Digital Intermediate"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a2b4c4c3a36864280002e1",
+               "name": "Emily Eddey",
+               "profile_path": null,
+               "id": 1406317,
+               "department": "Editing",
+               "job": "Digital Intermediate"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a2b4de9251412127005ed0",
+               "name": "Robert Defonte",
+               "profile_path": null,
+               "id": 1406318,
+               "department": "Crew",
+               "job": "Transportation Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54a2b4f3925141198b003ae6",
+               "name": "Sandee Salas",
+               "profile_path": null,
+               "id": 1406319,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56e5f5b8c3a3685a9e008281",
+               "name": "Hawk Walts",
+               "profile_path": "/5jyhpu6YRc7jxO1dhiNacqFED8T.jpg",
+               "id": 1590775,
+               "department": "Crew",
+               "job": "Stunts"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         }
+      ],
+      "popularity": 7.25721,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 209504,
+      "vote_count": 98,
+      "budget": 0,
+      "overview": "It\u2019s been 20 years since the corporations took over the world\u2019s governments. Their thirst for power and profits led to the Corporate Wars, a fierce global battle that laid waste to society as we know it. Born from the ash, the Council of Nine rose as a new law and order for this dark age. To avenge the corporations\u2019 reckless destruction, the Council issues death warrants for all white collar criminals. Their hunters\u2014the bounty killer. From amateur savage to graceful assassin, the bounty killers now compete for body count, fame and a fat stack of cash. They\u2019re ending the plague of corporate greed and providing the survivors of the apocalypse with retribution. These are the new heroes. This is the age of the BOUNTY KILLER.",
+      "similar": [
+         198663,
+         861,
+         76341,
+         131631,
+         157350,
+         263115,
+         315837,
+         281,
+         604,
+         605,
+         335984,
+         185063,
+         9482,
+         7512,
+         9739,
+         9381,
+         12244,
+         1576,
+         869,
+         871
+      ],
+      "original_title": "Bounty Killer",
+      "runtime": 93,
+      "poster_path": "/tRitIE7zNwoF99j3IA31chp5idI.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Just Chorizo Productions",
+            "id": 15705,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/hNeuloz4V2nPqBHtnH9cUCyyTEk.png",
+            "name": "Kickstart Productions",
+            "id": 2526,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2013-09-05",
+      "vote_average": 5.8,
+      "belongs_to_collection": null,
+      "tagline": "In the year 2042, CEO's are making a killing. It's time to return the favor. If the suit fits, waste it.",
+      "adult": false,
+      "homepage": "https://www.facebook.com/bountykillermovie/",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Henry Saine"],
+      "runtime": 92,
+      "synopsis": null,
+      "writers": [
+         "Jason Dodson",
+         "Jason Dodson"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt2369396/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjE0NjE4NTQyMV5BMl5BanBnXkFtZTgwOTQ3NzgwMDE@._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "actors": ["Stars: Matthew Marsden, Kristanna Loken, Christian Pitre | See full cast and crew »"],
+      "reviews": [
+         "I got to see this without knowing anything about it and wow, was I surprised. Any fans of trash/sleaze/exploitation films will love it as it really knows just what it is. the story is a very simple one. Bounty killer's in the future hunt white collar criminals and give their bodies in for cash. Everything is fine until \"drifter\" has a bounty put out on him and he has to make it across \" the badlands \" and gangs of crazed killers out for his blood to clear his name. What follows is a frenetic, comic book style, sci fi, action flick with ass kicking women, dressed in next to nothing, some toting guns. Exploding heads, lashings of violence and a load of humor. Bounty Killer clearly knows what it is and loves it. It has the kind of energy that's missing from most films these days but reminded me of the original Death Race 2000 and even Faster Pussycat Kill, Kill. It's a mans night in film. Sit back, get drunk and enjoy. I get the feeling it will get it's own cult following.",
+         "First of all let me say that I was compelled to create an account after watching this movie despite the one overly negative review of this film. While not my favorite, I had an enjoyable time watching this film and feel it was one of the better action comedy's I have seen in a while. Nothing too thought provoking or deep here, just simple entertainment that succeeds by not trying to be more than it is. Its post-apocalyptic, Its based on a graphic novel, the main character is called \"Drifter,\" Barak Hardley declares PBR Tastes like boobies. Overall I have to side with San Francisco Chronicle reviewer G. Allen Johnson's assessment that everyone in the film looks to be having a good time. If you can get over (or enjoy) the general campiness, excessive gore, and the fact that Gary Busey never says \"Butthorn,\" it should be a good time for you too.",
+         "Many critics miss the point of movies like this and complain about the \"bad acting.\" It takes professionals to translate the freeze-frame action of a graphic novel to the action sequences in a movie, and this is one of those flicks. \"Machete Kills\" is currently in theaters, and you'll see the same techniques and \"blocky\" action. Think back to the spaghetti westerns which are now considered classics. \"Bounty Killer\" is a fun way to vicariously vent your rage at the corporations that are systemically destroying our way of life. If you can't believe in Mary Death, who is there left to believe in????? If this movie were made today as I'm writing this, it would be about the politicians responsible for the health care insurance fiasco we are currently experiencing in the USA, except that people aren't really mad enough to rebel and most of them will calm down by election time and re-elect most of these morons to Congress and they will continue to dump this crap on us. What will they ruin next? Films like this give us hope. There will always be Truth. There will always be Justice. There will always be Freedoms worth fighting for and, if need be, dying for. There will also always, somehow, be a steady supply of gasoline for the rebels to rampage around in their stripped-down SUV's and customized hot rods. And there will always, always, ALWAYS, be gorgeous hero babes like Mary Death! ! !",
+         "Well first off i like action films.And there's a few actors in this i love.I was lucky enough to view this with a friend thats in the industry and i loved every minute of it.Set in the future a bit on the style of the old Mad Max films.But we see a welcome change and unique story line.I Love Gary Busey and even though a small part.He acts well the lead actor and woman were brilliant in there roll.As was there gun minder.Stuntwork brilliant effects cool And directed brilliantly.I Am recommending this one.I Love to see beautiful woman in good and bad roles and there is plenty here to see.I Also recommend at the end of the film you watch the credits they have put some bloopers at the end.Showing you some funny segments.So get the popcorn out give it a go its a great action film",
+         "Awesome movie. B-Rated Cult movie in it's finest. This is probably an unintentional stroke of genius. No matter what it is \"Bounty Killer\" has it. So much, in fact I had to write my first movie review. I did it based on the fact that I think everyone should try this movie out just once. Everything was done to max effect, despite the apparent budget. Matthew Marsden did real good as the brooding \"Drifter\" & Christian Pitre as \"Mary Death\" stole the show with her spicy combination of ruthlessness & sexy. Supporting actor Barak Hardley did a good job as the comic relief gun caddy \"Jack\". Supporting roles by Gary Busey, Eve, and Beverly D'Angelo also were not a wasted. All I can say from my personal experience, is that I came in looking for a time filler movie and found a very entertaining cult raunch movie in the same vein as Quentin Tarantino & Robert Rodriguez films. The only thing that separate this movie from the other ones is marketing & a bigger budget. If it'd had those things, it probably would've took Hollywood by storm. *(Hollywood Execs--hint, hint)* Wondering if you'd like it: If you like the movie poster, then chances are you're REALLY gonna like this film. It's exactly what you thought It was lol",
+         "Good mindless action flick. Plot is pretty good (about how corporations end up running everything and produce an apocalypse), lots of action (if you don't like the sight of blood this film is not for you), fight scenes are well done, plot twists are predictable, but not too contrived within the confines of the film, and in the end, there's a little more to the plot than expected. All the actors are pretty good (esp lead male and female, along with the gun caddy). Only down note was that Gary Busey was in it. But even he couldn't ruin this film! All in all, an enjoyable 90 minute action flick with a good story, actors, and action!",
+         "I gave a 7 because to me this movie was very funny and I really enjoyed the story behind it. The acting was not too bad, at least most of it was believable and the unknown actors were great. Barak Hardley was really funny and brings a left-brains' side to the story. The mix of personalities is really well made and inter-mingling is great. I am really surprised by this film, it has a lot of potential. Of course the old geezers from the Mel Gibson generation (should be in old houses by now!) will complain that it has a Mad Max feeling in the movie, OF COURSE, it is post-apocalyptic! What do you expect? Hollywood hoes with their bling-bling-raper-boyfriends? Nope, it is the right feel for the right situation. To me the best part of this film is the story: bounty killers hunting the white collars bastards that (still as we speak) ruled this world. It is such a liberation of the mind to see evil people getting eliminated by the dozens, too bad there was not enough of them to my taste but still it was bliss! Christian Pitre looks so hot in the Mary Death costume it's nice for the eyes :-) Matthew Marsden is quite good too in this flick, he is the cool guy that keeps things straight...well almost. This is a movie to see if you like action, comedy and violence this is for you, it will totally entertain you. If you are on the soft side, avoid this movie, it is not for you at all, stick to the smurfs!",
+         "I must admit that I hadn't initially expected much from \"Bounty Killers\", so I was pleasantly surprised when I sat down to watch this movie. This movie is sort of a strange hybrid mix of \"Mad Max\", \"Bitchslap\" spiced up with elements from the \"Borderlands\" games. And it actually worked out quite nicely. The end result is entertaining and fast paced, although the storyline is just so-so, but it is more than weighed up for by action and fighting. The story is about the world being controlled and run by corporations, and a few men and women stand up against the mega corporations, literally fighting the corporate machine. And that is basically it, the storyline is rather weak and thin, but you look past that as you become emerged in the violence and action of this movie. The acting in the movie was alright, nothing spectacular or outstanding, but alright. So don't get your hopes up for any award winning performances here in \"Bounty Killer\". Much can be said for Matthew Marsden (playing Drifter), but he was actually doing a great job here. And he was well equaled by the performance of Christian Pitre (playing Mary Death). And as a bonus, then it was really cool to see Beverly D'Angelo (playing Lucille) in this movie, and although I am not really fond of Gary Busey (playing Van Sterling), then he was here, and I am sure someone out there will get a kick out of that. The camera-work was nice, lots of interesting angles and shots, no pun intended. And there is a very dynamic and vibrant feel to the movie. \"Bounty Killer\" is indeed a testosterone-filled movie; one that will sink right in with the male audience.",
+         "------------not really spoilers, because I don't want to give it away--------- I am a Film Projectionist of 20 years I have seen everything from Art House to Popcorn movies from here to Oblivion and back! Believe me when I say I have been on IMDb 13 years and this is the second review I have written for a Film. The First Reviewer gave it 1 star and said Avoid at all costs, I thought this was a gross Misrepresentation, and needed to be squashed voraciously. \"Bounty Killer\", Is a Wonderful Film, reminded me a lot of MAD MAX, with a dash of 300's graphic novel style Thrown in. Of Course this Film is a Movie rendition of The Bounty Killer Graphic novel, and I do like the Graphic novels adapted to Film, there is something Very Artsy about them, its almost as if a lot more thought has gone into the Look of the film and the characters. Maybe the storyline isn't Genius and maybe its a bit over the top in some scenes, but on the whole, \"Bounty Killer\" was an Extremely entertaining *GoreBuster* for the entire duration. The character of Mary Death, Played by Christian Pitre, is Gorgeous! I have not seen such a beautiful actress in a long long time. Christian Pitre has a classic film look straight from the 70's. I would watch it over and over again just to see her shoot up the bad guys! My Question to the film makers would be, how did they find someone so beautiful who can actually act? The Lead Character, Could have been a bit more solidly built for playing such a mean Bounty Killer, but he played the character well enough and by half way through the film your kind of bonded with him and keen to see where the film is heading! The Character of the Gun Caddy, is Hilarious, and is the comedy relief in this gun crazy film, I really enjoyed his performance. There are some great cameo Appearances By Gary Busey of Point Break and Fear and Loathing in Las Vegas fame, Kristiana Loken, of Terminator 3, and Abraham Benrubi who has been in Several TV series and a few Block Busters, Twister and U-turn to name a few. I liked his character also and was happy to see him in this role, good casting. In Closing if your Looking for a Manly/Date Night or Wild ride type of film, that will entertain and Delight then Look no further. I gave this Popcorn film on budget a 9 out of 10 because I love these type of films and not everybody gets them, but I certainly do and I would definitely recommend you give it a chance!",
+         "I manage to find this movie after seeing Mercenaries, a movie starring Zoe Bell and Kristanna Loken. I tough for a low budget from the Asylum it was pretty fun so i looked at Kristanna's latest movies and found this one. Well when it comes to Kristanna, lets just say she is wasted... Any random good looking passable actress would had do, and don't expect her to do any action scenes in this. Very disappointing. Its like they somewhat casted her because of her name, but still is she that \"known\" really? I mean, its the kind of role you would expect a well known B-actress with a huge fan base to fill in. Pretty much like Cynthia Rothrock did in Mercenaries. In any case, pass the initial disappointment for Kristanna, the movie was actually quite enjoyable. The lead actress is not only very hot, but had a pretty bad ass style and with a name like Mary Death, how can you go wrong? :) The other main actor was pretty likable, and his sidekick too. The action is very decent, there is a couple hot who looks a bit CGI too much but considering how gory and bloody they go, i was pretty satisfied with the overall style. Some people said the acting was not too good, well i saw the movie dubbed in french, can't really comment but I'm usually not too hard on this, as anything passable suits me when it comes to B action movies. Overall, saw it was based on a graphic novel, never heard of it, but it was pretty fun, a good fun pop corn action movie with likable leads and a story your interested in. That how those should be done !!"
+      ],
+      "genres": [
+         "Action",
+         "Sci-Fi",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Just Chorizo Productions",
+         "Kickstart Productions"
+      ],
+      "summaries": [
+         "It's been 20 years since the corporations took over the world's governments. Their thirst for power and profits led to the corporate wars, a fierce global battle that laid waste to society as we know it. Born from the ash, the Council of Nine rose as a new law and order for this dark age. To avenge the corporations' reckless destruction, the Council issues death warrants for all white collar criminals. Their hunter's - the BOUNTY KILLER. From amateur savage to graceful assassin, the BOUNTY KILLER'S now compete for body count, fame and a fat stack of cash. They're ending the plague of corporate greed by exterminating the self serving CEO and providing the survivors of the apocalypse with retribution. These are the new heroes. This is the age of the BOUNTY KILLER.",
+         "It's been 10 years since the corporations took over the world's governments. Their thirst for power and profits led to the Corporate Wars, a fierce global battle that laid waste to society as we know it. Born from the ash, the Council of Nine rose as a new law and order for this dark age. To avenge the corporations' reckless destruction, the Council issues death warrants for all white collar criminals. Their hunters -- the bounty killer. From amateur savage to graceful assassin, the bounty killers now compete for body count, fame and a fat stack of cash. They're ending the plague of corporate greed by exterminating the self serving CEO and providing the survivors of the apocalypse with retribution. These are the new heroes. This is the age of the BOUNTY KILLER.",
+         "Bounty killers compete for body count, fame and a fat stack of cash. They're ending the plague of corporate greed and providing the survivors of the apocalypse with retribution. This is the age of the BOUNTY KILLER."
+      ],
+      "budget": 0
+   },
+   "movielensId": 107737,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2013-09-05",
+      "dvdReleaseDate": "2013-10-29",
+      "directors": ["Henry Saine"],
+      "runtime": 93,
+      "movieId": 107737,
+      "title": "Bounty Killer",
+      "mpaa": "R",
+      "actors": [
+         "Kristanna Loken",
+         "Christian Pitre",
+         "Barak Hardley",
+         "Abraham Benrubi",
+         "Gary Busey",
+         "Beverly D'Angelo",
+         "Eve",
+         "Kevin McNally",
+         "Jolene Andersen",
+         "Chasty Ballesteros",
+         "Ivar Brogger",
+         "Will Collyer",
+         "Jessica Meraz",
+         "Soon Hee Newbold",
+         "Mindy Robinson",
+         "Alex Scolari",
+         "Tyra Colar",
+         "Alexa PenaVega",
+         "Cham",
+         "Jeff Meacham"
+      ],
+      "imdbMovieId": "2369396",
+      "originalTitle": "Bounty Killer",
+      "genres": [
+         "Action",
+         "Science Fiction"
+      ],
+      "youtubeTrailerIds": ["ciGAjiPlvYk"],
+      "plotSummary": "It\u2019s been 20 years since the corporations took over the world\u2019s governments. Their thirst for power and profits led to the Corporate Wars, a fierce global battle that laid waste to society as we know it. Born from the ash, the Council of Nine rose as a new law and order for this dark age. To avenge the corporations\u2019 reckless destruction, the Council issues death warrants for all white collar criminals. Their hunters\u2014the bounty killer. From amateur savage to graceful assassin, the bounty killers now compete for body count, fame and a fat stack of cash. They\u2019re ending the plague of corporate greed and providing the survivors of the apocalypse with retribution. These are the new heroes. This is the age of the BOUNTY KILLER.",
+      "tmdbMovieId": 209504,
+      "avgRating": 3.08108,
+      "releaseYear": "2013",
+      "numRatings": 37,
+      "posterPath": "/tRitIE7zNwoF99j3IA31chp5idI.jpg"
+   }
+}

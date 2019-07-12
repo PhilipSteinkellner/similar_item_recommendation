@@ -1,0 +1,569 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "world war ii",
+            "id": 1956
+         },
+         {
+            "name": "hurricane",
+            "id": 2215
+         },
+         {
+            "name": "pilot",
+            "id": 3203
+         },
+         {
+            "name": "conflict",
+            "id": 11933
+         },
+         {
+            "name": "bombing",
+            "id": 33702
+         },
+         {
+            "name": "airfield",
+            "id": 176012
+         },
+         {
+            "name": "valour",
+            "id": 219407
+         },
+         {
+            "name": "battle of britain",
+            "id": 219408
+         }
+      ],
+      "imdb_id": "tt0046714",
+      "video": false,
+      "title": "Angels One Five",
+      "recommendations": [
+         28909,
+         17591,
+         43788,
+         22350,
+         28916,
+         53253,
+         17720,
+         63480
+      ],
+      "backdrop_path": "/axHC1TOBBWqRuP55LSmjVAZ0qdj.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Group Captain 'Tiger' Small",
+               "gender": 2,
+               "credit_id": "52fe45c2c3a36847f80d8d01",
+               "name": "Jack Hawkins",
+               "profile_path": "/lqyKg1O0YTdrZ3gzogfqBNECv0f.jpg",
+               "id": 10018,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Squadron Leader Peter Moon",
+               "gender": 2,
+               "credit_id": "52fe45c2c3a36847f80d8d05",
+               "name": "Michael Denison",
+               "profile_path": "/yycOuH3Lp9LVLtOsbnIMmNhcrN7.jpg",
+               "id": 85934,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "Pilot Officer T.B. 'Septic' Baird",
+               "gender": 2,
+               "credit_id": "52fe45c2c3a36847f80d8d09",
+               "name": "John Gregson",
+               "profile_path": "/bJlwLxxwQ1SqLdZOLQlnrBam23O.jpg",
+               "id": 90624,
+               "order": 2
+            },
+            {
+               "cast_id": 5,
+               "character": "Squadron Leader Barry Clinton",
+               "gender": 2,
+               "credit_id": "52fe45c2c3a36847f80d8d0d",
+               "name": "Cyril Raymond",
+               "profile_path": "/6HtoffFtmqnYbhe0g8FUTj15Mc7.jpg",
+               "id": 12729,
+               "order": 3
+            },
+            {
+               "cast_id": 6,
+               "character": "Betty Carfax",
+               "gender": 0,
+               "credit_id": "52fe45c2c3a36847f80d8d11",
+               "name": "Veronica Hurst",
+               "profile_path": "/zbEACVRtjE1gKkXLGC6uz296CX0.jpg",
+               "id": 126120,
+               "order": 4
+            },
+            {
+               "cast_id": 28,
+               "character": "A.C. 2 Wailes",
+               "gender": 0,
+               "credit_id": "52fe45c2c3a36847f80d8d67",
+               "name": "Harold Goodwin",
+               "profile_path": "/gLhjtadSsrzrdpYrBhV9mZ4uAs5.jpg",
+               "id": 1208202,
+               "order": 5
+            },
+            {
+               "cast_id": 9,
+               "character": "Company Sergeant Major",
+               "gender": 2,
+               "credit_id": "52fe45c2c3a36847f80d8d15",
+               "name": "Geoffrey Keen",
+               "profile_path": "/cfl3AjlaS4beYAbxbmXUWgH337Y.jpg",
+               "id": 10462,
+               "order": 6
+            },
+            {
+               "cast_id": 11,
+               "character": "Police Constable",
+               "gender": 2,
+               "credit_id": "52fe45c2c3a36847f80d8d19",
+               "name": "Philip Stainton",
+               "profile_path": null,
+               "id": 107435,
+               "order": 7
+            },
+            {
+               "cast_id": 12,
+               "character": "W.A.A.F.",
+               "gender": 1,
+               "credit_id": "52fe45c2c3a36847f80d8d1d",
+               "name": "Vida Hope",
+               "profile_path": "/kPootSK4spsqkrDGb3IpXK0t8aB.jpg",
+               "id": 97429,
+               "order": 8
+            },
+            {
+               "cast_id": 13,
+               "character": "Aunt Tabitha",
+               "gender": 1,
+               "credit_id": "52fe45c2c3a36847f80d8d21",
+               "name": "Amy Veness",
+               "profile_path": "/aQN72HAl2YYBmwjN4xExmIC3XDJ.jpg",
+               "id": 126123,
+               "order": 9
+            },
+            {
+               "cast_id": 14,
+               "character": "Group Controller",
+               "gender": 2,
+               "credit_id": "52fe45c2c3a36847f80d8d25",
+               "name": "Ronald Adam",
+               "profile_path": "/mD8zf8SdsreKNW6lN2hmtG1hBRA.jpg",
+               "id": 104302,
+               "order": 10
+            },
+            {
+               "cast_id": 15,
+               "character": "Flight Lieutenant 'Batchy' Salter",
+               "gender": 2,
+               "credit_id": "52fe45c2c3a36847f80d8d29",
+               "name": "Humphrey Lestocq",
+               "profile_path": null,
+               "id": 126124,
+               "order": 11
+            },
+            {
+               "cast_id": 16,
+               "character": "Squadron Leader Bill Ponsford",
+               "gender": 2,
+               "credit_id": "52fe45c2c3a36847f80d8d2d",
+               "name": "Andrew Osborn",
+               "profile_path": null,
+               "id": 99355,
+               "order": 12
+            },
+            {
+               "cast_id": 25,
+               "character": "Nadine Clinton",
+               "gender": 1,
+               "credit_id": "52fe45c2c3a36847f80d8d5b",
+               "name": "Dulcie Gray",
+               "profile_path": "/jlomWWpLsmNGI0Qaoa1oYZDZvOO.jpg",
+               "id": 103684,
+               "order": 13
+            },
+            {
+               "cast_id": 26,
+               "character": "Look Out",
+               "gender": 2,
+               "credit_id": "52fe45c2c3a36847f80d8d5f",
+               "name": "Harry Locke",
+               "profile_path": "/hA4wSvsN41lS31bQJtTaTgZpn51.jpg",
+               "id": 101963,
+               "order": 14
+            },
+            {
+               "cast_id": 27,
+               "character": "'Bonzo'",
+               "gender": 2,
+               "credit_id": "52fe45c2c3a36847f80d8d63",
+               "name": "Norman Pierce",
+               "profile_path": null,
+               "id": 89899,
+               "order": 15
+            },
+            {
+               "cast_id": 29,
+               "character": "Sentry",
+               "gender": 2,
+               "credit_id": "5502f66bc3a3687b69003d65",
+               "name": "Peter Jones",
+               "profile_path": "/ulhvhkxwHUWYnA8cd7NxAw6TFbq.jpg",
+               "id": 95093,
+               "order": 16
+            },
+            {
+               "cast_id": 30,
+               "character": "Pimpernel Pilot",
+               "gender": 2,
+               "credit_id": "5502f6adc3a3685bab004417",
+               "name": "Russell Hunter",
+               "profile_path": null,
+               "id": 74637,
+               "order": 17
+            },
+            {
+               "cast_id": 31,
+               "character": "Airman",
+               "gender": 0,
+               "credit_id": "5502f6d59251413da1004248",
+               "name": "Victor Maddern",
+               "profile_path": "/3Akv2AwAephCaL64jnLXVM9fgZ8.jpg",
+               "id": 40965,
+               "order": 18
+            },
+            {
+               "cast_id": 32,
+               "character": "Airman",
+               "gender": 0,
+               "credit_id": "5502f6f79251413da100424c",
+               "name": "Harry Fowler",
+               "profile_path": "/pOVlgiM7hLpMawg8azXsPKpfpSe.jpg",
+               "id": 129051,
+               "order": 19
+            },
+            {
+               "cast_id": 33,
+               "character": "Mess Waiter",
+               "gender": 2,
+               "credit_id": "5502f715925141275c00422b",
+               "name": "Sam Kydd",
+               "profile_path": "/h8MDMSf2NwojlzQezIfrU4bz0X4.jpg",
+               "id": 92011,
+               "order": 20
+            },
+            {
+               "cast_id": 41,
+               "character": "W.A.A.F",
+               "gender": 1,
+               "credit_id": "59f24f45c3a36806c4037f2f",
+               "name": "Marianne Stone",
+               "profile_path": "/5jFJji3UamXNvDU3it1YeG1V7Zc.jpg",
+               "id": 106628,
+               "order": 21
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe45c2c3a36847f80d8d33",
+               "name": "George More O'Ferrall",
+               "profile_path": null,
+               "id": 126126,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe45c2c3a36847f80d8d39",
+               "name": "John W. Gossage",
+               "profile_path": null,
+               "id": 126127,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe45c2c3a36847f80d8d3f",
+               "name": "Derek N. Twist",
+               "profile_path": null,
+               "id": 3607,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe45c2c3a36847f80d8d4b",
+               "name": "Derek N. Twist",
+               "profile_path": null,
+               "id": 3607,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe45c2c3a36847f80d8d51",
+               "name": "Daniel Birt",
+               "profile_path": null,
+               "id": 126130,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe45c2c3a36847f80d8d57",
+               "name": "Christopher Challis",
+               "profile_path": null,
+               "id": 30923,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5791d1d5925141609a005290",
+               "name": "Pelham Groom",
+               "profile_path": null,
+               "id": 126128,
+               "department": "Writing",
+               "job": "Original Story"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5791d1fe9251415b670057d5",
+               "name": "Frederick Pusey",
+               "profile_path": null,
+               "id": 1349482,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5791d213c3a36874dd000e70",
+               "name": "Marjorie Owens",
+               "profile_path": null,
+               "id": 1652287,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5791d241c3a36874dd000e87",
+               "name": "Freddie Francis",
+               "profile_path": "/ljOItnM4paoICjkKHN2M5rQQ1T1.jpg",
+               "id": 5629,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5791d2569251415fd800536b",
+               "name": "H.L. Bird",
+               "profile_path": null,
+               "id": 254,
+               "department": "Crew",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5791d26c925141609a0052c3",
+               "name": "Polly Young",
+               "profile_path": null,
+               "id": 1581819,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5791d27e925141532a000eaa",
+               "name": "Kenneth Mackay",
+               "profile_path": null,
+               "id": 1654346,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "War",
+            "id": 10752
+         }
+      ],
+      "popularity": 0.873382,
+      "production_countries": [{
+         "iso_3166_1": "GB",
+         "name": "United Kingdom"
+      }],
+      "id": 41312,
+      "vote_count": 15,
+      "budget": 0,
+      "overview": "The summer of 1940, Pilot Officer T.B. Baird arrives straight out of flight school to join a front line RAF squadron at the height of the Battle of Britain. After an unfortunate start and a drumming down from his commanding officer, Baird (nicknamed 'Septic' due to his initials) must balance the struggle to impress his Group Captain, regain his pride, fit in with his fellow squadron mates, and survive one of the most intense air battles in history. This is the story of just one of \"The Few\" and how they managed to fight off the might of the Luftwaffe, despite overwhelming German air power.",
+      "similar": [
+         424,
+         14574,
+         228150,
+         637,
+         369885,
+         821,
+         1771,
+         16869,
+         2253,
+         5925,
+         853,
+         857,
+         203833,
+         289,
+         676,
+         423,
+         613,
+         339259,
+         374720,
+         289222
+      ],
+      "original_title": "Angels One Five",
+      "runtime": 98,
+      "poster_path": "/6HQOoGWVTlX0brGMVABpJOFVmmC.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Templar Film Studios",
+            "id": 63030,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Associated British Picture Corporation",
+            "id": 1441,
+            "origin_country": "GB"
+         }
+      ],
+      "release_date": "1952-03-19",
+      "vote_average": 5.9,
+      "belongs_to_collection": null,
+      "tagline": "A Story of Some of \"The Few\"...",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Black and White",
+      "budgetCurrency": null,
+      "directors": ["George More O'Ferrall"],
+      "runtime": 98,
+      "synopsis": null,
+      "writers": [
+         "Derek N. Twist",
+         "Pelham Groom"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0046714/",
+      "coverLink": null,
+      "actors": [
+         "Jack Hawkins",
+         "Michael Denison",
+         "Andrew Osborn"
+      ],
+      "reviews": [
+         "I don't know why I can't stop watching this film. It certainly has its moments of high \"corn,\" although the British have never been as dedicated to the requisite happy ending as American filmmakers, which is again the case with this one. I think it's the peek into life at an English aerodrome during World War Two that keeps me coming back again and again to view this picture. In my opinion ANGELS ONE FIVE is a kind of mini war classic.",
+         "Typical fare for post-war British cinema-goers - stiff upper lips versus the might of the Nazi war machine. Told over a few short weeks in 1940, the plot follows Pilot Officer 'Septic' Baird (John Gregson) as a fledgling Hurricane pilot posted to an operational squadron during the Battle of Britain. 'Septic' struggles stoically in the face of his boisterous comrades, an earnest would-be girlfriend and impossible numbers of enemy raiders. The Station Commander (Jack Hawkins) puts a human face on the RAF hierarchy, burdened by the knowledge that the fate of the nation really does depend on the skill of his young pilots. 'The few' eventually grasp victory but it doesn't come cheap. Admittedly wooden by today's standards but, through films like this, a whole generation built up their Saturday afternoon understanding of the RAF's 'finest hour'.",
+         "Just watched this film again, really good fun. I've recently bought a WW2 computer Flight Simulator called IL-2 and afterwards I just had to go flying and shoot down some bally Huns, Tally Ho! Shame there are no memorable quotes listed as this film has lots. My favourite is just after the Ops bunker takes a direct hit, the roof has fallen in and there is concrete dust everywhere. People slowly start dusting themselves off, one of the WAAF's (Foster) timidly comes up to SqLdr Clinton and offers him a cup of tea. Foster: Tea sir ? It's a bit gritty, sir... SqLdr Clinton: (looks at the tea in amazement for 5 seconds) Foster, that's an inspiration ! Remind me to have you promoted. Classic.",
+         "I first saw this film over 40 years ago, as a young boy and was absolutely enthralled by it. I always watch it whenever the opportunity arises, and I still find it a very moving film. By modern standards the special effects are not up to much, but the film cleverly gets around this by centering much of the action in the operations room, which helps to build up the tension and adds to the sense of desperation. Touching little scenes, such as hanging out the light on landing, when the rest of the house has been reduced to a pile of rubble, help to capture the spirit of a nation which simply refused to be beaten. The ending of the film is also very memorable, when the young pilot,who was is as keen as mustard and raring to get into the scrap, is very quickly shot down and killed. It serves to remind us that most of \"the few\" who lost their lives were indeed very young men. Overall - a very good film.",
+         "SERIOUS SPOILERS -- be warned! This is a slightly off-beat Battle of Britain film: due either to deliberate decision or budgetary constraint, it focuses on those left behind on the ground when the Spitfires and Hurricanes take off -- the maintenance 'erks', the wives and sisters, the commanders and non-flying officers, and of course the 'Ops Room', with its radar plots and terse jargon. 'Angels One Five' -- friendly aircraft proceed to 15,000 feet... This would be less disconcerting if the film were openly shot as a study of the ground crews of an aerodrome; but it's not. It has its share of airborne sequences, and like its main protagonist, T.B.Baird -- whose unfortunate initials instantly gain him the nickname of 'Septic' -- the viewer constantly assumes that the *real* action in the skies is just about to begin. Labouring under a sense of injustice with which we are by and large induced to sympathise, Baird can't wait to get out of the Ops Room and onto more active duties. But when he does seize an unauthorised chance to fly in defence of the station itself and 'bags' an enemy aircraft, he commits a potentially lethal error; there is a very effective sequence deflating his heroics when it becomes clear just what he has done. The film often seems to work to subvert our expectations in this way, sometimes to comic and sometimes to shocking effect: when Baird finally gets into the air, all seems set for a conventional finale, with the defeat of the Luftwaffe ahead and promotion for our hero after the sad demise of his flight commander. But there is nothing so glorious in store. The same ignominious ambush that brought his leader down proves to have mortally wounded both Baird and his plane -- and the last we witness of his fate, from the Ops Room as always, is the gradually ebbing radio transmissions that mark his end. With another aircraft nursing him down and all resources at base turned to tracking his path, we automatically await a last-minute triumph over disaster... and are caught yet again off-balance. With a record like this, the film ought to be outstandingly original in its impact: yet, somehow, it isn't. Individual scenes are noteworthy indeed, but overall it left me with a strangely unsatisfactory impression. Its only real claim to 'shape' would be as Baird's own story, but its focus is too general for that -- yet it spends too much of its time following Baird to make sense as a story of the station at RAF Neetham itself. The end result seems to be a film without a clear idea of where it's going and missing some central sense of purpose. It's not a story of the futility of war; it's not a story of heroic sacrifice; it's not the story of one individualist coming to acknowledge the contributions of his colleagues; it's not a story of the horrors of responsibility in wartime. But while avoiding all these perhaps clichéd themes, it doesn't really come up with an overarching narrative of its own. The material has potential, but somehow the outcome is less effective than it might have been.",
+         "Any film that contains such immortal lines as \" They've really caught us with both pairs of trousers at the cleaners this time!\" definitely deserves a 10.",
+         "\"Angels One-Five\" would make a wonderful double-feature along with the 1969 classic \"The Battle of Britain\". While both films have to do with the same battle and the same time period, they both approach it from completely different ways. \"Angels\" is a personal film--showing one particular unit and especially one brand-new pilot to the group. On the other hand, \"The Battle of Britain\" tries to do the impossible--encapsulate the entirety of the battle in one film! Plus, \"The Battle of Britain\" is a stunning film because of its amazing aerial sequences--whereas those in \"Angels\" are not particularly good, though this really isn't the focus of the film--it's more on people. Baird is a new pilot arriving in a replacement fighter plane. However, due to an accident (which really isn't his fault), he gets in hot water with his immediate supervisor. Then, after shooting down his first plane, he gets in hot water with the base commander! Can Baird manage to pull it all together and make himself useful or will he crash and burn (literally)? The film does a nice job of capturing the look and feel of the war from the point of view of Baird and he's a nice sympathetic character. While you don't learn much about how Britain prevailed, it is a nice portrait of one particular brave but inexperienced man--something rarely seen in war films. Very enjoyable and I actually have little to criticize--it was a top-notch production aside from the air sequences. By the way, if you are an aviation nut like myself, you'll notice that the planes in both movies are completely different--mostly because of the supply of planes available to both productions at that particular time (one film borrowed planes from the Portuguese air force and the other from the Spanish--which were both still flying WWII vintage planes at the time the films were made). For example, in \"The Battle of Britain\", the only German bombers shown are HE-111s and British are mostly shown flying Spitfires (though many other types of planes were used in the battles). However, \"Angels\" shows the Brits flying Hurricanes (which is more realistic, as more of these were used during that time than the more modern Spitfires) and you see other German bombers (such as a Ju-88). So, you not only see the war from a different perspective, but entire different aircraft as well!",
+         "One of a slew of World War II dramas that appeared from British studios at the beginning of the Fifties, ANGELS ONE-FIVE centers on the brief career of T. B. (\"Septic\") Baird (John Gregson), who joins the Pimpernel Squadron as a tyro pilot, shoots down a German plane but breaks Air Force protocol as a result, but ends up bravely sacrificing his life in an aerial dog-fight against impossible odds. George More O'Ferrall's docu-drama makes some important points about the virtues of teamwork. Led by Peter Moon (Michael Denison), the squadron works as a unit, each member sacrificing personal gain for maximum efficiency. On the ground they enjoy their fair share of joshing - making fun of Baird's penchant for chess - but when called out to battle they set aside their jokes and dedicate themselves to the task in hand, even when they are exhausted. Anyone stepping out of line, such as the mechanic Wailes (Harold Goodwin) is sternly reprimanded. At the head of the entire station stands \"Tiger\" Small (Jack Hawkins), someone who sets an example of dedication to his men. But he is not without his frailties - during a German raid he rushes to a machine- gun and fires on enemy planes, thereby sacrificing his role as leader. On the other hand he possesses sufficient humanity to understand the importance of leisure-time, which is why we see him supping beer in the officers' mess and trying to make the newbie Baird feel at home. The film reflects the class and gender attitudes of its time, with the largely upper-middle class pilots and the forelock-touching working-classes (Harry Fowler, Victor Maddern) supporting them. The women have largely passive roles, especially Nadine Clinton (Dulcie Gray), whose husband Barrie (Cyril Raymond) controls operations during any raids. Her role is simply to look after the house and provide moral succor where necessary. Other women fulfill more significant roles, especially in the Operations Room, but they remain subservient to Clinton and his male superiors. Some of the lines in Derek Twist's script might seem rather archaic today - especially the determination to preserve stiff upper lips even under the most extreme pressure. On the other hand we cannot deny the cast and director's sincerity of purpose to recreate a time during the Battle of Britain when the Royal Air Force were heavily outnumbered yet still managed to protect the country from obliteration by the Luftwaffe. Nothing was ever easy for them; and they did manage to maintain morale even under the most extreme circumstances. The film's final shot says it all - a view of the ruined Operations Room in the middle of an airfield pockmarked by bomb-craters. Despite the heavy attack, everyone followed Prime Minister Winston Churchill's dictum to keep going on despite every attempt to prevent them.",
+         "Angels One-Five is a story of the trials and tribulations of life on an RAF base during World War II. Some great scenes of Hurricanes on the ground, taking off, in the air and landing. The Film is shot at RAF Neethley which I understand is actually RAF Kenley in real life. Some of the flying scenes look distinctly home-made however the story is powerful enough to forgive the shortcomings of the 1950s special effects department. Lovely 1950s English accents and light hearted events go towards making this film quaint in style but the harsh reality of war is impressed upon the viewer making it a poignant but enjoyable experience. I love this film and I return to it again and again and thoroughly enjoy it every time. Highly recommended.",
+         "I'm watching this right after the terrorist attacks on London. Immediately, the Brits snapped back to this period, the so-called Battle of Britain where a few outnumbered airmen held off the bad guys. They've since forgotten that the bad guys were the Germans (not the Nazis), but they'll never, ever forget the unifying experience of the battle. Since Hitler discovered the phenomenon, nations have defined themselves through film. This movie is one of the best examples. Sure, there's some military stuff here... and there's war on. But this centers on the nature of the people and there's not much aerial battle that we see. The point is to trot out all the personalities and characteristics that define what it means to be British. We've got pluck, we've got steadfastness, we've got earnestness and innocence, some kindly but firm officers who tie the whole thing together and then there's the rowdy humor. Thin stuff when you think of it, but enough to build a nation. Ted's Evaluation: 2 of 3 -- Has some interesting elements",
+         "This is a mildly interesting, low budget version of The Battle of Britain. But the fact that it doesn't include any real air action is a huge letdown. The filmmakers borrowed about six Hurricanes from the Portuguese air force, marked them up as British, and filmed them flying past the camera in various ways, taxiing and landing. That's about the extent of real footage for air action. The rest is done with studio shots of men in canopies. Well, not quite all. It's hard to understand why the producers couldn't get footage of air battles, apart from one shot of a half dozen contrails across the sky. Unimpressive. Especially noticeable was the lack of footage of German aircraft. In its place they used some truly embarrassing makeshift replacements, the very worst of which was a drawing of a handful of bombers from below with one fake bomb animated as falling from one of them--truly laughable. And it was used not once, but twice. A couple of models of Messerschmidts on wires were used to show German fighters coming in to attack, and a rather pitiful attempt was made at special effects to depict the downing of German aircraft, seen from the cockpit of British fighters. For a film whose very title indicates battles in the air, it is all very disappointing. The story is workable, if uninspired, leaving just the workings of the air defence system as the main interest in the film. The jaunty dialogue among flyers who in real life would be scared out of their wits was annoying.",
+         "Producers: John W. Gossage, Derek Twist. A Templar Production, released in the U.K. by Associated British. Released in Australia by 20th Century-Fox on 25 November 1953. Released in the U.S.A. by Stratford, May, 1954. Copyright in the U.S. by Stratford Pictures Corp., 25 February 1953. New York opening simultaneously at the Beekman, Gramercy and 8th Street Playhouse: 29 April 1954. U.K. release: May 1954. Sydney opening at the Embassy. Location scenes filmed at Kenley Aerodrome, Surrey. 98 minutes. 8,820 feet. (Available on an Optimum DVD). NOTES: Number ten at British ticket windows for 1952. COMMENT: Far above Mr. O'Ferrall's usual standard, thanks to solid acting and an interesting script that provides plenty of action. Some of the miniature work (particularly the closing shot) is not the best but generally special effects and production values are first-class. OTHER VIEWS: Despite the high-sounding title (it means that aircraft are flying at a height of 15,000 feet), this is a routine drama of the wartime R.A.F. True, better films have been made about war in the air, but rarely have I seen one which is more sincere. To an ex-serviceman, the feeling is there, strong and indefinable, that these were the men he knew, fought with and laughed with. The sensation of reality is well maintained throughout the film with the exception of the few air combat scenes which are rather artificial. \"Angels One Five\" tells the story of some of the \"Few,\" the men who flew the Hurricanes and Spitfires during the Battle of Britain in 1940. These were the men, who, outnumbered six to one by the Germans, managed to stave off the Luftwaffe. - Leo Basser.",
+         "ANGELS ONE FIVE is a somewhat ordinary British WW2 drama about RAF fighters battling the Luftwaffe during the Battle of Britain. Most of the action is centred around a control room on the ground which is actually a positive because this film's dated, cheesy special effects are the worst thing about it. Other than that it feels like a propaganda picture made about ten years too late. Jack Hawkins plays the stern captain in charge of his raw recruits; John Gregson stands out playing the greenest of the lot. The usual character conflict and typical drama ensue, but the film does quite a good job of representing the look and feel of the war in the skies. The usual familiar faces play in support, including Sam Kydd, Victor Maddern, Harry Fowler, and Ronald Adam.",
+         "My first negative review on IMDb - prompted by strong disagreement with the positive reviews \"Angels One Five\" has on here. I found this to be the worst written British war film I've ever seen - a sophomoric, by-the-numbers \"Way to the Stars\" rip-off. There's nothing compelling or original about it. The airmen come across as gratingly camp airHEADS. And the film singularly fails to convey either of the portentous bookending Churchill quotations. For propaganda/entertainment purposes, I'd recommend real classics of the genre like \"The First of the Few\", \"The Way to the Stars\", \"The Dam Busters\" or even so-so flicks like \"Reach for the Sky\" and \"Battle of Britain\". A disappointing waste of time and talent which is of historical interest/value only.",
+         "John Gregson is Pilot Officer \"Septic\" Baird, newly assigned to an RAF Hurricane squadron at the beginning of the war. Jack Hawkins is the Commanding Officer of the base and assorted regulars make up the supporting cast in this tale of the Battle of Britain seen mostly from the ground. Gregson plays a familiar type -- plenty of courage and skill but callow and lacking in discipline. He cracks up on his first landing and is assigned to Operations. That's the room with the big flat board, presided over by a couple of officers who coordinate incoming information while WAAFS sit around the table and plot the position and movement of German raiders and British interceptor squadrons. Gregson gets pretty bored and scuttles off during the first air raid to shoot down an Me 110 but he botches the flight because he accidentally leaves his transmitter on and nobody could use that frequency. The other men are all jolly good types. They toss each other around during moments of boisterous relaxation and affably throw insults at one another. Gregson, though, is alienated and is on his own trip, so to speak. Hawkins is the sensible commander who tries to empathize. There's a nascent romance involved. If this film were to be made by Americans, you know who would have been interested in directing it? Howard Hawks. It isn't really VERY different from many of Hawks' movies about male solidarity -- \"Air Force,\" for instance, which uses a similar plot and similar characters. The chief difference is that there isn't much sparkle in this boyish dialog, whereas Hawks would have been at pains to invite amusing contributions from cast and crew, then taken credit for the gags himself later. Not to argue that Gregson's integration into the group is the focus of the film. It has so many focuses that it lacks focus. It's interesting to have Gregson serve as a proxy for the audience as he's taken on a tour of Operations and introduced to the personnel and their jobs. Also innovative is the use of Hawker Hurricane instead of the more glamorous Spitfires. Hurricane were an older design, slower and clumsier looking, but there were more of them. Their principal task was attacking the bombers. The German fighters were left to the Spitfires whenever the proper arrangements could be made. There's little in the way of air combat until the last few minutes, and the Hurricanes are real enough but the German planes are all models and they look it. The ending will probably come as a surprise. Not a bad show.",
+         "Angels One Five is a low budget rip roaring Britain at war films focusing on the air force and the Battle of Britain. TB 'Septic' Baird (John Gregson) brings in a new plane to the base and promptly crashes it. He then gets involved on a aerial dogfight which we see very little off, more hear the radio transmissions. The squadron is commanded by the stern 'Tiger' Small (Jack Hawkins), who is trying to shape his unit as a team but also understand their frailties. There is nothing much to say about this film apart from I kept thinking it was made in 1942 and surprised to learn that it was actually made in 1952. It looks like a propaganda film made during the war. It is full of stiff upper lip types, subservient working class men and the women are passive such as the radio ops room were full of women's reaction shots. The film was rather dull that celebrates a war that had finished only a few years earlier. The only thing of interest was to see familiar television faces in this film such as Peter Jones, Harry Fowler, Sam Kydd, Dulcie Gray, Russell Hunter etc as well as the line from an officious warden telling someone not to put a light out at the end of the runway and if they need to put on a red light.",
+         "Angels One Five covers a lot of the same ground as the more lavishly produced Battle Of Britain. But the same story about just a very few defending the realm and so many owing their freedom and their very existence to this relatively small bunch of men and women. One thing I do have to point out is that the contribution made by the women working in the operation center. Jack Hawkins is a stern and resolute commander of a coastal Royal Air Force Base. He's got some strict standards of behavior, the strictest being for himself. The bulk of the film is concerning the arrival of a new pilot who doesn't near and endear himself to Hawkins by crashing a a new Hurricane fighter that he was ferrying to the base. John Gregson plays the new man and Hawkins assigns him to the operations center, the better for him to see a whole picture of their situation before flying. Gregson in his own way is stiff and formal, memorizing a whole book of regulations. But that's hardly a substitute for experience and common sense. Some aerial combat situations, but mostly this movie is about the day to life on the base and the attacks there on. In the best stiff upper lip tradition they follow what Horatio Nelson said about England expects every man (and woman) to do his duty. And so they did and rather gloriously.",
+         "forget about what the other guys' high praises of this film. this is actually the worst film ever made about the wwii, period. i fell asleep and nodded off so many times during the viewing. what i saw in it was just a bunch of British guys blah, blah and blah, endless blabbering, joking, saluting, this and that pointless dialog. there's no storyline, no plot and no scenario at all, just a bunch of yoyos who played the British air pilots, they spent more time on the ground instead of in the air to actually do some flying. so many sir this and sir that and saluting, small talks, joking around. there's a woman operator in the operation room kept knitting all the time whenever she was on the scene. this is the worst viewing experience i've ever encountered in my life watching movies. you guys who praised this film should have your brains checked, and your totally untrue and irresponsible reviews had lured me to waste such a long time trying to figure out if there was something i missed during watching, but it just turned out totally a waste of time.",
+         "In a perfect world of course and as it applies to film there would be a definitive film in one genre and no one would bother trying to equal it and leave well enough alone. Alas, we don't live in a perfect world though we DO have a definitive Air Force British movie covering the second world war in the shape of Rattigan's The Way To The Stars which focused more on life on the ground than in the air. Angels One Five stupidly attempts to do the same thing and falls light years short making it more a way to the stairs - even the naughty stair - than to the stars. On the other hand there may well be those who remain ignorant of Rattigan's masterpiece and they will find this highly acceptable despite John Gregson's spot-on impression of a silver birch. Shot in the early fifties there was still enough of England left to capture on film and it must be films like this that inspired the New Left to obliterate it, sadly, where Hitler failed, Tony Blair virtually succeeded."
+      ],
+      "genres": [
+         "Drama",
+         "War"
+      ],
+      "productionCompanies": [
+         "Associated British Picture Corporation (ABPC)",
+         "Templar Film Studios"
+      ],
+      "summaries": [
+         "'Septic' Baird has just joined a front line RAF squadron at the height of the Battle of Britain. This is the story of \"The Few\" and how they managed to fight off the might of the Luftwaffe despite overwhelming German air power.",
+         "The story of an RAF fighter squadron at the height of the Battle of Britain."
+      ],
+      "budget": 0
+   },
+   "movielensId": 160153,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1952-03-19",
+      "dvdReleaseDate": null,
+      "directors": ["George More O'Ferrall"],
+      "runtime": 98,
+      "movieId": 160153,
+      "title": "Angels One Five",
+      "mpaa": "",
+      "actors": [
+         "Jack Hawkins",
+         "Michael Denison",
+         "John Gregson",
+         "Cyril Raymond",
+         "Veronica Hurst",
+         "Harold Goodwin",
+         "Geoffrey Keen",
+         "Philip Stainton",
+         "Vida Hope",
+         "Amy Veness",
+         "Ronald Adam",
+         "Humphrey Lestocq",
+         "Andrew Osborn",
+         "Dulcie Gray",
+         "Harry Locke",
+         "Norman Pierce",
+         "Peter Jones",
+         "Russell Hunter",
+         "Victor Maddern",
+         "Harry Fowler",
+         "Sam Kydd",
+         "Marianne Stone"
+      ],
+      "imdbMovieId": "0046714",
+      "originalTitle": "Angels One Five",
+      "genres": [
+         "Drama",
+         "War"
+      ],
+      "youtubeTrailerIds": [],
+      "plotSummary": "The summer of 1940, Pilot Officer T.B. Baird arrives straight out of flight school to join a front line RAF squadron at the height of the Battle of Britain. After an unfortunate start and a drumming down from his commanding officer, Baird (nicknamed 'Septic' due to his initials) must balance the struggle to impress his Group Captain, regain his pride, fit in with his fellow squadron mates, and survive one of the most intense air battles in history. This is the story of just one of \"The Few\" and how they managed to fight off the might of the Luftwaffe, despite overwhelming German air power.",
+      "tmdbMovieId": 41312,
+      "avgRating": 2.5,
+      "releaseYear": "1952",
+      "numRatings": 2,
+      "posterPath": "/6HQOoGWVTlX0brGMVABpJOFVmmC.jpg"
+   }
+}

@@ -1,0 +1,912 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "based on novel",
+            "id": 818
+         },
+         {
+            "name": "technology",
+            "id": 1576
+         },
+         {
+            "name": "internet",
+            "id": 11615
+         },
+         {
+            "name": "hacking",
+            "id": 12361
+         },
+         {
+            "name": "teenager",
+            "id": 13130
+         },
+         {
+            "name": "new york city",
+            "id": 14512
+         },
+         {
+            "name": "game",
+            "id": 18249
+         },
+         {
+            "name": "adaptation",
+            "id": 186846
+         },
+         {
+            "name": "dare",
+            "id": 201871
+         },
+         {
+            "name": "cellphone video",
+            "id": 212562
+         },
+         {
+            "name": "based on young adult novel",
+            "id": 223438
+         },
+         {
+            "name": "smartphone",
+            "id": 229980
+         },
+         {
+            "name": "taking a risk",
+            "id": 235098
+         }
+      ],
+      "imdb_id": "tt3531824",
+      "video": false,
+      "title": "Nerve",
+      "recommendations": [
+         291805,
+         325133,
+         299687,
+         376659,
+         316023,
+         262504,
+         286565,
+         294254,
+         332567,
+         296096,
+         195589,
+         274870,
+         316727,
+         397837,
+         254470,
+         223702,
+         272693,
+         283366,
+         376660,
+         131634
+      ],
+      "backdrop_path": "/a0wohltYr7Tzkgg2X6QKBe3txj1.jpg",
+      "revenue": 85241496,
+      "reviews": [{
+         "author": "Gimly",
+         "id": "57e887ec92514102ed0027b9",
+         "content": "Even as little as five years ago, _Nerve_ couldn't possibly have been made. Which makes me wonder, in four years from when _Nerve_ was made (where the film is set), will it still be at all applicable? Already the social media it makes use of has changed from the time of filming to the date of release... Food for thought...\r\n\r\nWith that out of the way, the movie itself: Just okay.\r\n\r\nThe soundtrack is, at best, intrusive. The premise is old hat (although the exact way it's done is new). The message is a little blunt-force (though certainly not to Tomorrowland levels). The plot isn't quite solid. The acting is usually on par, though does occasionally slip. Many character interactions are overtly clichéd, and the filming style, while moderately original, is distracting.\r\n\r\nBt it's still fun, and a little warming. I don't regret paying to watch it in cinemas, but keep in mind that's only because I did so at the \"Movie of the Week\" discounted price.\r\n\r\n_Final rating:★★½ - Had a lot that appealed to me, didn\u2019t quite work as a whole._",
+         "url": "https://www.themoviedb.org/review/57e887ec92514102ed0027b9"
+      }],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 4,
+               "character": "Vee Delmonico",
+               "gender": 1,
+               "credit_id": "54f4ebfc9251416abd0005e4",
+               "name": "Emma Roberts",
+               "profile_path": "/5sFDfAJVxRLlsxT9fA16iWAiwpU.jpg",
+               "id": 34847,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Ian",
+               "gender": 2,
+               "credit_id": "54f4ebec9251416acf000595",
+               "name": "Dave Franco",
+               "profile_path": "/sWsW3mFSJzfbMUf43R0J8tY8BeW.jpg",
+               "id": 54697,
+               "order": 1
+            },
+            {
+               "cast_id": 7,
+               "character": "Sydney Sloane",
+               "gender": 1,
+               "credit_id": "56cf29dec3a3681e390028cb",
+               "name": "Emily Meade",
+               "profile_path": "/zDnawujXFcWQ7qejW2GdRTfbL48.jpg",
+               "id": 71815,
+               "order": 2
+            },
+            {
+               "cast_id": 9,
+               "character": "Tommy Mancuso",
+               "gender": 2,
+               "credit_id": "57967384c3a3680a3c000ccf",
+               "name": "Miles Heizer",
+               "profile_path": "/6jyt6aUZFzoNBLc1eg8GHJaqdNn.jpg",
+               "id": 148096,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Nancy Delmonico",
+               "gender": 1,
+               "credit_id": "55d4d51c92514102c80025e7",
+               "name": "Juliette Lewis",
+               "profile_path": "/eeEx3v5ElBHvlrJjULlj5I3EpPF.jpg",
+               "id": 3196,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Liv Kurosawa",
+               "gender": 1,
+               "credit_id": "55d4d52492514102c60025e8",
+               "name": "Kimiko Glenn",
+               "profile_path": "/61YziLaS28m5OsaaGfvVvgoz6IP.jpg",
+               "id": 1443708,
+               "order": 5
+            },
+            {
+               "cast_id": 47,
+               "character": "Ty",
+               "gender": 2,
+               "credit_id": "57a0bf1e92514108bf00106c",
+               "name": "Machine Gun Kelly",
+               "profile_path": "/MT2YKNSCVMTvHFEXDOmjCI05Cx.jpg",
+               "id": 1276759,
+               "order": 6
+            },
+            {
+               "cast_id": 46,
+               "character": "Wes",
+               "gender": 2,
+               "credit_id": "57a0bf0292514105480010e7",
+               "name": "Marc John Jefferies",
+               "profile_path": "/zpsC9yA8TzJFFtoSokZvbgcUiAY.jpg",
+               "id": 62646,
+               "order": 7
+            },
+            {
+               "cast_id": 8,
+               "character": "Azhar",
+               "gender": 1,
+               "credit_id": "56cf29e69251413e6d002aed",
+               "name": "Samira Wiley",
+               "profile_path": "/68zAC7KjSGFWC0INbiwmPatlmVz.jpg",
+               "id": 1034197,
+               "order": 8
+            },
+            {
+               "cast_id": 48,
+               "character": "J.P.",
+               "gender": 0,
+               "credit_id": "57a0bf35c3a3684aca000f8a",
+               "name": "Brian 'Sene' Marc",
+               "profile_path": "/u6Z9g1gMfg1iVA4wZcnbtMx4cQI.jpg",
+               "id": 1560243,
+               "order": 9
+            },
+            {
+               "cast_id": 49,
+               "character": "Chuck",
+               "gender": 0,
+               "credit_id": "57bbe023c3a368356d0061fb",
+               "name": "Ed Squires",
+               "profile_path": "/iStFdlF1i2TyoQAZWgqg0bssXKd.jpg",
+               "id": 1669335,
+               "order": 10
+            },
+            {
+               "cast_id": 55,
+               "character": "Robbie",
+               "gender": 0,
+               "credit_id": "584904f492514119b900ffa9",
+               "name": "Deema Aitken",
+               "profile_path": "/A1Hv8CcmZS5b9heBGnI3ZctPwPz.jpg",
+               "id": 1506479,
+               "order": 11
+            },
+            {
+               "cast_id": 56,
+               "character": "Officer McMillan",
+               "gender": 0,
+               "credit_id": "58490501c3a368141f00fd6f",
+               "name": "Michael Drayer",
+               "profile_path": "/3yB686fmGoIC4Dv3r1pzz6xjdHK.jpg",
+               "id": 176797,
+               "order": 12
+            },
+            {
+               "cast_id": 57,
+               "character": "Dirt Beard",
+               "gender": 0,
+               "credit_id": "5849052092514119c201017c",
+               "name": "Josh Ostrovsky",
+               "profile_path": "/nDiwnIUGe3tuCBa8tWV1vB0odas.jpg",
+               "id": 1680898,
+               "order": 13
+            },
+            {
+               "cast_id": 58,
+               "character": "Hype Boi",
+               "gender": 0,
+               "credit_id": "5849052bc3a368141a010b43",
+               "name": "Eric D'Alessandro",
+               "profile_path": "/sW2qHp7arpF593LvTCJCx6lBbfX.jpg",
+               "id": 1719592,
+               "order": 14
+            },
+            {
+               "cast_id": 60,
+               "character": "Bergdorf Salesman",
+               "gender": 0,
+               "credit_id": "589674c59251412e0d011187",
+               "name": "Rightor Doyle",
+               "profile_path": "/44ZWcZsgVE6DCHQH1YWLRZZ2IP6.jpg",
+               "id": 209728,
+               "order": 15
+            },
+            {
+               "cast_id": 61,
+               "character": "Bergdorf Sales Lady",
+               "gender": 0,
+               "credit_id": "589675c29251412e1401055b",
+               "name": "Arielle Vandenberg",
+               "profile_path": "/mOvQB5ilK3MDZB7z6FoBkEBJbmp.jpg",
+               "id": 1218828,
+               "order": 16
+            },
+            {
+               "cast_id": 62,
+               "character": "Gatekeeper",
+               "gender": 0,
+               "credit_id": "58967656c3a368627c00ca9f",
+               "name": "Jonny Beauchamp",
+               "profile_path": "/uvNvUI9ht2UvrqvB5kksO9PWrG3.jpg",
+               "id": 1552148,
+               "order": 17
+            },
+            {
+               "cast_id": 63,
+               "character": "Taxi Cab Driver",
+               "gender": 0,
+               "credit_id": "589676929251415aaa00c1d3",
+               "name": "Wesley Volcy",
+               "profile_path": "/x4pFZLKjVbzMCZtlA8CWQzNrFlr.jpg",
+               "id": 1378546,
+               "order": 18
+            },
+            {
+               "cast_id": 54,
+               "character": "Derrick",
+               "gender": 0,
+               "credit_id": "584904e4c3a368140e011228",
+               "name": "Damond McFarland",
+               "profile_path": "/sa1aWVlpPQbyzEERqozRL8pb6xZ.jpg",
+               "id": 1719591,
+               "order": 19
+            },
+            {
+               "cast_id": 64,
+               "character": "Senior Sales Woman",
+               "gender": 0,
+               "credit_id": "5896794a92514129c800cf4a",
+               "name": "Kim Ramirez",
+               "profile_path": "/TO6u8DfE4fYwqFR3qX6tCYRqhI.jpg",
+               "id": 1750500,
+               "order": 20
+            },
+            {
+               "cast_id": 53,
+               "character": "Clarence",
+               "gender": 0,
+               "credit_id": "584904d892514119b600fd39",
+               "name": "Albert Sidoine",
+               "profile_path": null,
+               "id": 1719590,
+               "order": 21
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "54f4eb529251416acf00058b",
+               "name": "Henry Joost",
+               "profile_path": "/wP5btUyPGGinHoa3GJmudZB8Pwt.jpg",
+               "id": 142272,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54f4eb7ec3a3683e27000595",
+               "name": "Ariel Schulman",
+               "profile_path": "/8i6QhTl5QdZuWIvoLT01lltc3rp.jpg",
+               "id": 142276,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 1,
+               "credit_id": "54f4ebbf9251416ac5000604",
+               "name": "Jessica Sharzer",
+               "profile_path": "/aJ1RSK14Gi0TzYejMdAISgi4KRq.jpg",
+               "id": 77831,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57993b46c3a3687e5c003e85",
+               "name": "Michael Simmonds",
+               "profile_path": null,
+               "id": 45738,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 1,
+               "credit_id": "57993bf8c3a368640e00791a",
+               "name": "Madeleine Gavin",
+               "profile_path": null,
+               "id": 72038,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57993c06c3a36874e900768d",
+               "name": "Jeff McEvoy",
+               "profile_path": null,
+               "id": 558231,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57993c2f925141234800341d",
+               "name": "John Papsidera",
+               "profile_path": "/quM89TMS6BncoIh4NdlWugXVhuF.jpg",
+               "id": 561,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57a0ba089251410922000d58",
+               "name": "Jeanne Ryan",
+               "profile_path": null,
+               "id": 1660294,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57a0ba69c3a3684aca000d81",
+               "name": "Rob Simonsen",
+               "profile_path": null,
+               "id": 1042699,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57a0ba84c3a3684a0f000d78",
+               "name": "Chris Trujillo",
+               "profile_path": null,
+               "id": 966560,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57a0ba96c3a3684a0f000d85",
+               "name": "Marc Benacerraf",
+               "profile_path": null,
+               "id": 1335210,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57a0baadc3a3687b98002183",
+               "name": "Kara Zeigon",
+               "profile_path": null,
+               "id": 1660296,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57a0bac3925141056d000fc8",
+               "name": "Melissa Vargas",
+               "profile_path": null,
+               "id": 1538810,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57a0badac3a3684531000e19",
+               "name": "Tessa Brophy",
+               "profile_path": null,
+               "id": 1372082,
+               "department": "Art",
+               "job": "Art Department Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57a0bb1bc3a3684a0f000dcd",
+               "name": "Renee Burke",
+               "profile_path": null,
+               "id": 1403710,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57a0bb3492514108eb000e6e",
+               "name": "Mark Wike",
+               "profile_path": null,
+               "id": 1546622,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57a0bb4bc3a3684531000e53",
+               "name": "Randall Poster",
+               "profile_path": null,
+               "id": 52161,
+               "department": "Sound",
+               "job": "Music Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57a0bb61c3a3684a54000da2",
+               "name": "Meghan Currier",
+               "profile_path": null,
+               "id": 1528942,
+               "department": "Sound",
+               "job": "Music Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57a0bb80c3a3687ae100228f",
+               "name": "Megan Stark Evans",
+               "profile_path": null,
+               "id": 1660299,
+               "department": "Costume & Make-Up",
+               "job": "Assistant Costume Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57a0bb9392514108eb000e9c",
+               "name": "Laura Steinman",
+               "profile_path": null,
+               "id": 1524770,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "57a0bbbcc3a3687b9800224d",
+               "name": "Deanna Brigidi",
+               "profile_path": null,
+               "id": 989750,
+               "department": "Production",
+               "job": "Casting Associate"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57a0bbce9251410548000f73",
+               "name": "Michael Morlani",
+               "profile_path": null,
+               "id": 1660300,
+               "department": "Production",
+               "job": "Casting Associate"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57a0bbed9251414d9c0022a2",
+               "name": "Anthony Katagas",
+               "profile_path": null,
+               "id": 60187,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "57a0bc02925141056d00107b",
+               "name": "Allison Shearmur",
+               "profile_path": null,
+               "id": 971840,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "57a0bc2c92514107cb003aa2",
+               "name": "Jennifer Johnson",
+               "profile_path": null,
+               "id": 1526824,
+               "department": "Costume & Make-Up",
+               "job": "Key Hair Stylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57a0bc9592514107cb003ac9",
+               "name": "Drew Jiritano",
+               "profile_path": null,
+               "id": 1043368,
+               "department": "Crew",
+               "job": "Special Effects Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57a0bcb2c3a3684aca000e6e",
+               "name": "Glenn Allen",
+               "profile_path": null,
+               "id": 1395362,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57a0bcc592514108bf000f43",
+               "name": "Richard Friedlander",
+               "profile_path": null,
+               "id": 1395365,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57a0bce3c3a3684a87000f39",
+               "name": "Arielle Sherman",
+               "profile_path": null,
+               "id": 1660306,
+               "department": "Crew",
+               "job": "Visual Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57a0bcfcc3a3684a87000f42",
+               "name": "Eran Dinur",
+               "profile_path": null,
+               "id": 1554382,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57a0bd1492514108bf000f73",
+               "name": "Sid Jayakar",
+               "profile_path": null,
+               "id": 1660308,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57a0bd6992514105f6000ea9",
+               "name": "Jonathan Fang",
+               "profile_path": null,
+               "id": 1532873,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57a0bd7f9251410922000ed9",
+               "name": "Jon Flores",
+               "profile_path": null,
+               "id": 1580948,
+               "department": "Crew",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57a0bdadc3a3684aca000ee0",
+               "name": "Petr Hlinomaz",
+               "profile_path": "/2KckUR9iCfShGftU4moo6KRGykb.jpg",
+               "id": 18087,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57a0bdcc925141056d001160",
+               "name": "Niko Tavernise",
+               "profile_path": null,
+               "id": 1116095,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57a0bde0925141056d001169",
+               "name": "Richard P. Ulivella",
+               "profile_path": null,
+               "id": 1376486,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57a0be0292514105f6000ef8",
+               "name": "Thomas O'Connor",
+               "profile_path": null,
+               "id": 1462854,
+               "department": "Lighting",
+               "job": "Rigging Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57a0be1cc3a3684a54000edf",
+               "name": "Michael LaFond",
+               "profile_path": null,
+               "id": 1660311,
+               "department": "Editing",
+               "job": "First Assistant Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5867b938c3a36810ea00bc9b",
+               "name": "Leslie Bloome",
+               "profile_path": null,
+               "id": 1372207,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58472c1fc3a368140e00191c",
+               "name": "Michele Spooner",
+               "profile_path": null,
+               "id": 1480443,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58472c5292514119b600182f",
+               "name": "Natalie Young",
+               "profile_path": null,
+               "id": 1717769,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58472c99c3a36814280016c3",
+               "name": "Karina Benesh",
+               "profile_path": null,
+               "id": 1558090,
+               "department": "Visual Effects",
+               "job": "Visual Effects Coordinator"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5aa716f89251415e3c012aea",
+               "name": "Halsey",
+               "profile_path": "/d3rzshqj1A3t41TyRGuLHZpApYp.jpg",
+               "id": 1997030,
+               "department": "Sound",
+               "job": "Songs"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Mystery",
+            "id": 9648
+         },
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Crime",
+            "id": 80
+         }
+      ],
+      "popularity": 16.678744,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 328387,
+      "vote_count": 3039,
+      "budget": 19000000,
+      "overview": "Industrious high school senior, Vee Delmonico, has had it with living life on the sidelines. When pressured by friends to join the popular online game Nerve, Vee decides to sign up for just one dare in what seems like harmless fun. But as she finds herself caught up in the thrill of the adrenaline-fueled competition partnered with a mysterious stranger, the game begins to take a sinister turn with increasingly dangerous acts, leading her into a high stakes finale that will determine her entire future.",
+      "similar": [
+         397837,
+         449176,
+         286565,
+         10229,
+         272693,
+         222935,
+         9880,
+         769,
+         1429,
+         23483,
+         70160,
+         198663,
+         262504,
+         315635,
+         169917,
+         674,
+         65754,
+         299687,
+         101299,
+         407451
+      ],
+      "original_title": "Nerve",
+      "runtime": 96,
+      "poster_path": "/uM1dNEmcAeyDGjMcFLlkKOyBgft.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Keep Your Head",
+            "id": 79963,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+            "name": "Lionsgate",
+            "id": 1632,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": null,
+            "name": "Allison Shearmur Productions",
+            "id": 47706,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2016-07-27",
+      "vote_average": 7.1,
+      "belongs_to_collection": null,
+      "tagline": "Are you a watcher or a player?",
+      "adult": false,
+      "homepage": "http://www.playnerve.com/",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": [
+         "Henry Joost",
+         "Ariel Schulman"
+      ],
+      "runtime": 96,
+      "synopsis": "Venus \"Vee\" Delmonico (Emma Roberts) is a high school senior living on Staten Island. She surfs the web and gets a Facebook notification from her crush, J.P. (Brian Marc), who tagged her in a photo that she took. Vee gets a Skype chat invitation from her friend Sydney (Emily Meade). Syd mentions a game called 'Nerve' that is about to launch for the next 24 hours. The game involves \"watchers\" and \"players\" - the players are given dares to do in exchange for money, while the watchers pay to watch everything happen. Syd has signed on to play and encourages Vee to join her, but she declines. Vee wants to go away for college but is worried about leaving her mom Nancy (Juliette Lewis) behind all by herself. It's been years since Vee's brother died, and neither of them have really gotten over it. At school, Vee takes photos for the yearbook, but most of them feature J.P. She joins her friends Tommy (Miles Heizer), Liv (Kimiko Glenn) and Wes (Marc John Jeffries) at a pep rally. Syd gives Liv her phone to record her dare. She joins her fellow cheerleaders and moons the entire school. Her dare is complete. The gang later goes out to eat. Syd keeps trying to get Vee to join Nerve since Vee never takes risks. They see J.P. sitting with his buddies. Syd decides to go over and talk to J.P. for her. She asks him if he would be interested in going out with Vee, but J.P. says she's not his type. Upset, Vee leaves and goes home. She logs onto Nerve and is told the rules before she makes a move. Dares must be recorded on the players' phones, and if they bail or fail, they lose their money. Also, nobody can snitch on Nerve, or it'll end very badly. Vee decides to become a player. Immediately, Nerve starts to obtain all of Vee's personal information. Vee calls Tommy to take her to a diner for her first dare. She must kiss a stranger for five seconds to get $100. The clock is ticking as she hesitates to pick someone. She spots a guy named Ian (Dave Franco) reading her favorite book, Virginia Woolf's \"To The Lighthouse\". Vee kisses him while Tommy records. The dare is done. Vee goes over to Tommy, who is more annoyed than anything (he secretly likes Vee). When she turns around, Ian is gone. He is then spotted going all around the diner singing and putting on a grand performance as part of his dare. He goes to Vee's table, and she is dared to go to the city with him for $200. Although uncertain at first, Vee joins Ian on his motorcycle, leaving Tommy behind. Vee and Ian make it into the city and part ways. She then gets a new dare to try on a couture dress. Vee tries it on and then finds Ian in the same store trying on a suit. When they go back into their dressing rooms, they find all of their stuff is gone. The next dare for both of them is to leave the store. They remove their clothes and leave in their underwear. A bunch of watchers record them as they leave. They find the clothes from the store on Ian's motorcycle for them to keep. Their phones then buzz for the next dare. Before they head out, a player named Ty (Machine Gun Kelly) passes them and comments on their dares, and he also implies that he personally knows Ian. Tommy stays at the diner and decides to watch what Vee is doing. He gets in touch with his hacker friend Azhar (Samira Wiley) and asks for \"a ticket to Aruba\". Azhar thinks it's risky, but she sends him a code for access to a site called Aruba. Tommy discovers past videos of Ian playing Nerve a year earlier. He stole the motorcycle and was hanging from a crane with two other guys. Syd is going around the city with Liv and Wes to continue her dares while gaining more followers. She becomes displeased when she learns Vee is catching up to her watcher count. Vee and Ian go to a tattoo parlor. Ian draws a secret tattoo for Vee to get. It turns out to be a lighthouse as a nod to her favorite book. Nancy then notices that money is being transferred into her and Vee's joint account. She calls Tommy to ask what's going on. Tommy, unable to snitch, says Vee got a job and is having money transferred to her account. Vee and Ian then ride a carousel. Syd and her friends watch at a house party. Vee talks about joining Nerve to get Syd off her back, claiming that she always makes it look like Vee is insecure when it's really Syd that is insecure, and how she always has guys come over when her parents are away. Hurt, Syd seeks out a new dare. She encounters Ty at the party, who suggests that she team up with him. Syd declines. Ian then suggests to Vee that they go to the party. Syd gets really drunk and is then dared to walk across a ladder from one apartment to the next. It's especially terrifying for Syd because she's afraid of heights. After making it halfway, Syd slips and drops her phone. She bails out of Nerve. Vee and Ian arrive at the party. Syd takes the chance to call Vee out on what she said, leading to a huge fight between them, leaving Syd humiliated. Vee decides to complete Syd's dare and she walks across the ladder almost effortlessly. When she goes back to make up with Syd, she finds her making out with J.P. Vee then learns that Ian was dared to go to the party to get Vee and Syd to fight. Angered, Vee decides to tell the cops. Ian runs after her and pleads with her not to do that, but she doesn't listen. Vee sees a cop and tells him about Nerve, but he does nothing. Nancy then calls Vee and says all the money in their account has been taken. Now alone, Vee comes across Ty, who says he has to win the game, and he knocks her out cold. Vee wakes up in a freight container with \"SNITCHES GET STITCHES\" painted on the walls. A TV in the container turns on with a computer voice telling Vee that because she snitched, Nerve now controls her life, family, and future. The only way for her to escape is to win the game. She gets out of the container and is told to get on the ferry. She runs into Ian, who explains to her that like him, she is now a prisoner of the game. For Ian, it happened a year earlier when he, Ty, and a third guy named Robbie were dared to hang from a crane. Robbie slipped and fell to his death. Ian and Ty went to the cops, but Nerve ruined their lives and took away his money and his father's job. Ian says he will do a dare that places him ahead of Ty so that he and Vee can make it to the finals. Vee meets up with Tommy and Syd, where she reconciles with both of them. They get in touch with certain people as part of a plan. Meanwhile, Ian takes a dare in which he must hang from a crane with one hand for five seconds. He succeeds and advances to the final. Vee goes through the city and must pick up a package, which turns out to be a loaded gun. Vee and Ian make it to an arena in front of over a hundred watchers for the final round. Tommy and Syd meet up with Azhar to hack into Nerve's server, and Nancy meets with them there to watch the final round. The dare involves Vee and Ian having to shoot each other. Ian tells Vee to shoot him so she can win. Vee refuses. Ty appears and says he will shoot one of them. The watchers cheer him on. Vee decides to take the shot over Ian. As everyone records, she calls everyone out on wanting to watch someone die for the sake of their entertainment. Nerve then decides to put Vee's life to a vote. The majority votes YES for her to get shot. Ty fires the gun, and Vee goes down in Ian's arms. Every watcher then has their names exposed and a message notifying them that they are accessories to murder, with the option to sign out. Everyone does, allowing Azhar to crash Nerve's server and shut it down for good. Vee then reveals she was alive, having orchestrated the whole thing with Ty involved (he fired a blank). Everything goes back to normal, and Azhar makes it so that Vee and Nancy get their money back. Vee and Ian (who says his real name is Sam) decide to pursue a relationship. They share a kiss as the sun rises on a new day.",
+      "writers": [
+         "Jessica Sharzer",
+         "Jeanne Ryan"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt3531824/",
+      "coverLink": "https://ia.media-imdb.com/images/M/MV5BMTUzOTg1OTM4NV5BMl5BanBnXkFtZTgwMTg2Mjg0OTE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "actors": [
+         "Emma Roberts",
+         "Dave Franco",
+         "Emily Meade"
+      ],
+      "reviews": [
+         "\"Nerve\" is a 95-minute thriller from this year that is based on a novel by Jeanne Ryan. Jessica Sharzer (\"Speak\", \"American Horror Story\") adapted the work for the screen and the directors are Henry Joost and Ariel Schuman, both known mostly for \"Catfish\" so far. The lead actress is Emma Roberts and the only other cast members I knew in here were her co-lead Dave Franco, brother of James, and Juliette Lewis playing the main character's mother. Most of the cast, also because of the subject, are pretty young aspiring actors that do not (yet?) have a big name. I kinda liked Emily Meade (even if the friendship story between her and the main character was one of the weakest parts of the film) and I can see her having a good future in film. But lets look a bit at the now and this movie. It is a take on Big Brother with a mix of \"Hunger Games\" and an ounce of David Fincher's \"The Game\", so if you hear all this you already know it is a mostly dark take on the age of surveillance. Here we have a young woman who gets told by her best friend that she just isn't taking enough risks to lead a fulfilling life. So she agrees to join in a virtual reality game called \"Nerve\", in which she gets watched constantly by thousands of people while she has to fulfill quests. These quests quickly get her to join forces with Franco's character. And from that moment on, the two are out there together and the Watchers see them and hope for them to start a relationship. There is some situational comedy in this film and this was mostly working well. But sadly, in stark contrast to that, the real core of the film was not working for the most part. I am referring to the dramatic thriller sequences. They start off okay, but the script is quickly lost in a whirlwind of desperate attempt to become more controversial, more shocking and more relevant. The social commentary/criticism, which is what the film really is all about, also with a reference to our world, becomes complete garbage at some point and lacks realism entirely. One major problem is Roberts' main character. In one scene, she is scared to step on the motorcycle, int he next she accelerated the bike with her driver blindfolded. A rush of adrenaline cannot explain that. Same can be said about the ladder climbing scene. Lets not forget: This film takes place over the course of one evening/night and I just refuse to believe a character would change like that from one second to the next on all these contradictory occasions. At some point, I felt the film really went for nothing than shock value and it was very empty and irrelevant as a consequence. Police won't do anything to stop the hosts of the game, even after a kid died earlier and probably more did looking at the risky actions. But a teenage boy and his pals can hack into the system and send messages that call everybody an \"accessory to murder\". This was maybe the most embarrassing moment, even if the idea about ending it at the very end felt very false as a whole. And why would everybody, even the \"bad\" guy, know about her plan, but Franco's character, the one closest to her, would not know? There were just so many scenes that did not make any sense at all in the second half of the film. Emma Roberts did not impress me at all. sure this is a film that is much more about the story and plot than about individual performances, but I was shocked how irrelevant her character and performance felt throughout the entire film. A more gifted actress certainly could have elevated the material and her speech in front of the crowd at the very end was nothing special either, more on the cringeworthy side. Franco, a fairly mediocre actor himself, looked really strong next too her. And Juliette Lewis? Oh well. I felt almost sorry for her about what they gave her in terms of the script. The character added absolutely nothing at all, but that's not Lewis' fault, just because of the way she was written. Apart from that, I refuse to believe that the crowd would really want her to die. First of all, humans aren't that cruel, second of all we were led to believe they loved her immediately the moment she entered the game. Make up your mind filmmakers and please don't give me the argument of people's opinions changing fast. Okay, enough said. I am fairly disappointed here. This was definitely a missed opportunity. The film showed some solid premise early, but it quickly turned into a huge mess. I am actually glad it was relatively short and did not get any closer to the two-hour mark. I have not read the book this is based on, so no idea who is to blame and if the base material is also really weak, but if not, then I can not image Ryan being too happy with the way this turned out overall. I just hope they don't get the idea at some point to make a sequel here. This original was already underwhelming enough. I certainly do not recommend the watch. The longer it went, the worse it became, also with the ridiculously bad rushed-in happy ending for everybody. Stay away from this film.",
+         "This movie comes at the perfect time with the craze of Pokemon Go; a time when you literally see millions of people obsessed with an app - where you can find videos of hordes of people in NYC all running after a particular Pokemon. This is essentially the premise of the movie: a new app (game) comes out that takes teens in a particular city by storm, except the consequences can be much graver. As to not give anything away, I try to be brief: The acting was great; the pacing was great, the color pallet and tone of the movie were all top notch. That being said, the plot - as it developed - felt \"obvious\", I wasn't surprised by anything and I wasn't ever emotionally \"moved.\" The movie knows what it is, and it does it pretty well - it's a teen thriller. What the movie explores is far more important: the way people interact with each other when they are hidden behind a wall of anonymity. The movie has a good message. The BOTTOM LINE: I rate movies on whether it is worth spending the $$$ to see at a theater, in my opinion this one is worth seeing at a matinée showing ($5), but probably not dolling out $12 - $15. I hope that helps.",
+         "I struggled staying until the end of that movie, probably because I am not within the right demographic,so I'd say, if you are shaving already, this movie is probably not for you! (But if you are not shaving yet I am not sure I would like you to see that movie) I usually enjoy college silly movies or even some high school centered movies, but this was too much for me. Only good reason to see this movie might be for a drinking game: take a shot every time they say \"OMG!\" This movie is surfing big time the Pokémon Go wave, it is an ode to so many things that as an adult,are bothering me: the social media addiction(Vine,FB, Instagram), it puts ego-centrism, greed, instant gratification, instant fame into the spotlight. It encourages people to break the rules for fame, it makes attention seekers, extreme thrill seekers looks cool. But at the end there is a nice little twist and a lame moralizing lesson, which tells us do not go too far, friendship and life is more important, awwww so true, soooo nice, but...too late, the movie just spent 90 min showing people that all this crap was cool, pretty much being an enabler, validating addictive, dangerous behaviors, in front of a young susceptible audience! (or an older audience wondering why the hell I am here) We all read stories of selfie takers who fell from a crane or roof or cliff because they were trying to score a cool shot for their social media profiles... The movie is rather fast paced, but it is just watching a succession of dares: steal this, be naked, get a tattoo, risk your life...it is actually not funny nor entertaining to watch this. The main actors are likable, but it is was not enough to make me forget how idiotic this movie was. I was fooled by the 7 average, but then I realized 80% of the people watching this movie were below 25, so like I said in my opening statement, this is for a younger audience (who might pause their Pokémon Go hunt or their posting on FB, VIne, Insta... for the duration of this movie, and get their nose back into their phone screen as soon as the movie is over)",
+         "What this movie is, is a watered down version of \"13 Sins\" that try to be edgy and focuses in on the teens as target audiences. I still recommend \"13 Sins\" over this flick. But I do give this movie some credit despite the cheesiness. Is how it depicts people and technology and networks that goes viral. Humanities longing for attention and the distance they will go to get attention and be noticed. Even if it can harm themselves and others in the process. Besides that, this was a dull movie to sit through with a really dumb plot. Some parts just seemed like a insult to the audiences intellect, by it trying to appear edgy, hip and witty but just comes off pretty lame, flat and boring. If you are an audience member that can handle the violence I recommend \"13 Sins\" over this. 4.5/10",
+         "Good idea that failed in execution. If you saw the trailer and read the reviews you might think that there's some depth hiding in the actual movie, but unfortunately, you'll be wrong to think so. The actors are the only bright spot. You'll see some well known and rising star faces who's acting was on point. The movie tries to win you with likable characters, scenes that show familiar problems to most internet users (e.g.Skype call glitching) and with a cute little morale story at the end but fails as it provides no depth to be discovered. Some scenes are super cringe worthy and left me feeling uncomfortable about my movie picking skills. It's just one of those films you watch and forget about in a day, doesn't leave you questioning some character's decisions or the way it ended which left both me and my girlfriend disappointed. Overall 5/10.",
+         "I guess, I was too old in age to watch this movie. It might aim at teenagers. To me, a grown-up middle aged man, the movie was boring and predictable. All boys and girls have stereotype characters. Especially boring is the fact that all characters are very conservative thinking, not much youth in them. They all go a bit wild during playing the game \"Nerve\". But after moral (not ethics) catches them up they fall back in place and will live ordinary boring lives. What remains after leaving the cinema, is the depressing fact that our digital world can only be thought as going mad, that internet brings out mostly the bad side of people, but very seldom the good. In these kind of movies the happy ends finish with the heroes turning off the computers or mobiles. But the kids going out of the cinemas don't.",
+         "This was a movie that I thought had a very cool premise, but at the same time, its trailer appeared to leave no surprises to be discovered. The Good This film's premise is definitely a fun one, and at the least, this movie was almost constantly entertaining. The dares that these people are forced to do as well as the reasons for why people are playing this game are things I found very fun and interesting. Emma Roberts and Dave Franco both give solid performances in this film, and they each work well off of each other. Roberts as Vee accurately depicts a high school senior struggling with social problems as well as college, even if Roberts herself looks like she graduated from high school six years ago. Franco's character was also an intriguing one, and he grew on me the more the film progressed. I enjoyed nearly every moment when a legitimate dare was being done, as they were handled very well and created tension excellently. The style of this movie is also a reason as to why this film feels original, as the sleek visuals create some very cool scenes. The Bad Nerve can be very fun when it wants to be, but the problem is that it also takes itself way too seriously in many scenes. This movie tries to get serious towards the end and become dramatic and have important themes, but it all comes across as incredibly dull and tedious. Speaking of the ending, no matter how serious the movie thinks it is, it is absolutely stupid. The whole plan doesn't make much sense at all, and there are way too many unanswerable questions to just let go how convoluted it is. While I did like Roberts and Franco, I had a massive problem with Emily Meade. Whether it is the design of her character or the performance, Meade is completely unlikable and lacks any sense at all, and that would be okay if we are supposed to be against her. Instead, the movie expects us to feel sorry for her, which I found impossible to do. My biggest fear coming in was that the trailer gave away too much of the main plot. I wouldn't say the trailer gave away too much, I would say the trailer gave away everything. Every single scene, besides two, in particular, I saw coming a mile away because of one individual trailer, and I think it completely ruined my film going experience. Nearly every dare, every important conflict, and even the plot twist can be found within this movie's official trailer, and I highly recommend avoiding that trailer like the plague if you have any interest in seeing this movie. Conclusion Nerve has good performances from its two leads and a unique visual style, and it certainly has its fair share of entertainment. However, though it might not be fair, the trailer absolutely ruined my experience by giving away the vast majority of the plot. Even besides that, there are issues in the film's storytelling, and whenever the movie tries to be taken seriously, it falls flat on its face. Nerve has its moments but falls apart towards its conclusion. 4.5/10",
+         "I'm the guy who can appreciate Ben Affleck's Daredevil as mindless entertainment...so with that being said I'm not too hard to impress. I liked this movie's concept...it's fun and engaging. The actors did a good job with it for what it was. It's not an Oscar worthy movie by any means, but if you're bored and you're looking for something to mindlessly entertain you for a few hours this will do the trick. A little far fetched at times with regards to the antagonist(s)...but it's a good source of mindless entertainment. I've read people say it tries to actually get into serious themes...if that's the case I missed the memo cause I didn't really see any serious themes other than the availability of information over the internet... I'd sort of go the other way with this and say it doesn't really take itself too seriously...which I think is a good thing. I do feel like the ending was a little meh and a little bit of a letdown...but I can't think of a better way to end it off the top of my head so I really shouldn't complain. This was an OK movie with a really good premise for nerds like me.",
+         "I found the central concept of Nerve ingenious, and it seems unbelievable that something like that doesn't already exist. However, the screenplay (based on a homonym novel by Jeanne Ryan) loses credibility with an alarming quickness, making the provocative ethic dilemmas of the game become a series of whims designed to generate drama and suspense which rarely feel authentic. Nevertheless, Nerve didn't bore me due to the dynamic direction from Henry Joost and Ariel Schulman and the adequate performances from Emma Roberts and Dave Franco. However, as I previously said, Nerve gets increasingly improbable with every new detail revealed. To start with, the game doesn't seem economically sustainable; its creators give away hundreds of dollars, and they must keep a considerable technological infrastructure to satisfy the clients (I guess so), in exchange for relatively cheap subscriptions. And, well, let's not even deal with the theme of the game legality, its omnipotent \"data mining\" algorithms and the total absence of cops during the most spectacular \"feats\" of the players (except when they are necessary to complicate the plot, naturally). But even leaving aside the huge logical holes and technological exaggerations, the main problem lies on the reaction the main characters; instead of being realistic characters trapped into an unusual situation, we have pre-fabricated puppets to fill in the requirements of the screenplay. I guess I shouldn't be surprised; a visit to Amazon confirmed the fact that Nerve is based on a \"young adult\" novel... in other words, it competes in the same market as The Hunger Games, The Maze Runner, Divergent, I Am Number Four, Beautiful Creatures, The Host (2013), The Giver, Warm Bodies, Blood and Chocolate, Jumper and other ones which borrowed fantasy, science fiction or horror concepts in order to add them to simpleton tales with obligatory romantic tangents and wide doses of juvenile drama. Anyway, taking it on its own, I found Nerve moderately entertaining but forgettable, appealing to the digital obsessions of the juvenile audience in order to \"connect\" on a more emotional level (we already know that life experiences are valid only if they are registered on video or some shape of social network). And we were complaining about Pokemon Go...",
+         "'Nerve' is one of those films that quietly went under the radar at the cinema, but seem to catch on via word of mouth. Truth is it's a decent film, inspired by a YA book. It also acts as a vehicle for up and coming talents such as Emma Roberts and Dave Franco, who both give good performances. Roberts in particular shines in every scene, and it is her character of Vee who goes through the biggest journey throughout. The plot doesn't hold up to much scrutiny, but it is an action packed film, that proves entertaining. If you can stomach the fact that it's really just people doing lots of irresponsible things then you'll enjoy the film. Parents thinking of letting their teens watch it should be wary though.",
+         "With great internet power comes great irresponsibility. This is the premise behind \"Nerve\", a film whose producers must have wet themselves with excitement that the Pokemon Go craze aligned so nicely with the release of their film. I was delighted that at last this summer there is a film with a modicum of originality I can enthuse about. 'Vee', short for Venus (Emma Roberts, niece of Julia Roberts) is an NYC teen living in the shadow of a family tragedy and the claustrophobic presence of her over-protective mother (Juliette Lewis, \"Cape Fear\"). Always timidly in the shadow of her best friend \u2013 the extrovert Sydney (Emily Meade) \u2013 Vee pooh-poohs Sydney's compulsion with the new viral internet game 'Nerve': a social media 'Truth or Dare' (\"but without the truth\") challenge game where you can either be a \"Player\" or a \"Watcher\". In real time, Watchers set Players with challenges they have to complete for ever-escalating financial rewards\u0085 but \"Bail\" or \"Fail\" and you lose all. And \"snitches get stitches\". With their friendship at breaking point, Vee is provoked into playing the game by Sydney and teams with fellow gamer Ian (Dave Franco, younger brother of James Franco) \u2013 someone with a history that could bring Vee into great danger. However, Vee's geeky wannabe boyfriend Tommy (Miles Heizer) is on the case\u0085. What is so impressive about this film is that the screenplay by Jessica Sharzer (based on a novel by Jeanne Ryan) is genuinely original and is delivered with style and good humor. Sure, you can draw parallels for any film with many other sources: in here there are traces of Hunger Games/Allegiance; the \"Simon Says\" portion of Die Hard 3; perhaps a soupçon of \"Gladiator\" and Schwartznegger's \"Running Man\" in the mix. But this is a novel approach to a teen flick, bang on the topical money in bringing in the frenetically viral nature of social media and aspects of the 'dark web', cyber security and open source programming. The film manages to generate significant credibility about the impact that a game like this would have among a teen audience. And there is a telling message in the finale: that it is easy to be a troll without responsibility hiding behind an internet ident, but when the masks come off and the message back becomes personal then your responsibilities as an individual human can come home to roost. The film is delivered with style and verve as well, with innovative graphics (a great title and end title design) and an 'augmented reality' overlay of the action showing Players and Watchers across the city. Many of the challenges are executed really well, with a few seat-clenchingly tense moments, particularly if you have a poor head for heights. But with all this potential it unfortunately fails to be a 10* classic, smelling at times of 'B' movie. Which is a great shame. Emma Roberts is fine at what she does, but at times I longed for the dramatic depth of a Shailene Woodley or Chloe Grace Moretz, with the scenes with the under-used but excellent Juliette Lewis rather highlighting this differential. The otherwise excellent script is \u2013 for me \u2013 let down by a scene of male-on-female violence which I found both distasteful and unnecessary. And a coding 'geeks shall inherit the earth' moment towards the end is a little too glib for my liking. But overall the directors Henry Joost and Ariel Schulman (\"Paranormal Activity 3\" and \"4\") have done a fine job with a $20M budget. Regular readers of my blog (bob-the-movie-man.com) may recall my use of the \"BvS quotient\" \u2013 the number of films that could be made from the budget of \"Batman vs Superman\": this one has a BvS quotient of 8% meaning you could make over 12 of these instead of the superhero dud. Yes please! Although if they had doubled the budget and rounded off some of the sharp corners, this could have been a true classic. It's still recommended for a memorable movie experience though, and probably makes it into my draft movies of the year list so far. (For the graphical version of this review and to comment, please visit bob-the-movie-man.com. Thanks).",
+         "Starring the amazing and very pretty Emma Roberts, and the always charismatic Dave Franco, \"Nerve\" is a new thriller about a high school senior named Venus (Emma) who joins an online community, called Nerve, of adrenaline-junkies where anonymous watchers can dare players to do, well, whatever they want to see someone do. From start to finish, this film is a non-stop white-knuckle thrill ride that is exciting, intense, romantic, and most importantly, a lot of fun. Trust me, you will have a smile on your face the entire runtime of this movie, and you'll also be on the edge of your seat. Now, I'm going to be honest, maybe my low expectations made this movie better to me than it really is, but I can't help that I had an absolute blast watching this film. One thing that was great about this movie was that the dares were realistic, and didn't feel ridiculous. All of the things that Venus is dared to do are things that you know actually could happen in real life. The dares range from her getting a tattoo, to her having to go 60 miles per hour on a motorcycle while the driver, Ian (Dave Franco), is blindfolded, and while the dares get more and more intense as the film goes on, nothing felt overly unbelievable or too exaggerated just for the sake of putting it in the film. And watching Venus and Ian complete their dares and gain money was so much fun to watch. Their chemistry was fantastic, and I bought their friendship throughout the film. What can I say? They made a cute on-screen couple. It was also satisfying to see Venus go from a shy and timid girl to an adrenaline junky, but hey, I'd do the same thing if someone was offering me thousands of dollars. The world building in this film was very believable as well. The game of Nerve felt like a phenomenon, and it actually felt like something that could happen in real life. There were shots of the city that showed the different usernames of all of the different people who were logged into the game, and this was an effective way of conveying just how popular Nerve was in the films universe. The color palette was also hypnotizing. Bright, vibrant, neon reds, blues, and purples are a feast for the eyes, and the soundtrack, which is comprised of light techno music, accompanies and mixes with the colors very well and fits the overall tone of the film. \"Nerve\" is a fantastically fun and incredibly intense movie that has great chemistry between Emma Roberts and Dave Franco, great visuals to go with an awesome soundtrack, and cool action sequences in the form of the dares that the characters have to complete. I would highly recommend this film to anyone who just wants to spend an hour and a half gripping their seat with a smile on their face.",
+         "Nerve is about an unadventurous girl who decides to take part in an online game that involves completing challenges and dares to increase her popularity and add to her bank balance but as you would expect not everything goes to plan. Before I start to criticise this film too much it's true to say that I'm not the kind of person this is aimed at. What I mean is i'm probably 25 years too old to really enjoy something like this. It's incredibly dumb. The story is so far fetched and unrealistic that you just don't buy into what you are watching. It seams to be set in a neon lit world where everyone is 20 years old and where no internet connection is lost , nothing buffers and camera phones are conveniently aimed on every scene but the biggest problem with this is that it's not gritty enough. I wanted see a game like Jigsaw would play in the Saw film but instead we see a tepid watered down version and that just bored me. Unless you 18 years old give this a miss. The best thing about Nerve is the soundtrack .",
+         "Bad story, bad direction that makes you find out the mistakes that don't make sense. simply, it is a perfect movie for teenagers :) I just registered to IMDb to give the movie worst rate cause it is really over rated!!!!!! I'm shocked that it has 6.9 as an overall rate. guys, you really don't want to waste 90 minutes for on the movie. I think this movie will give Dave Franco a bad reputation. What a difference between this movie and Now You See Me. The trailer of the movie is awesome but the movie itself is bad.",
+         "Taking viewers for a glamorous ride, Nerve brings a harmonious medley entertainment and thought-provoking contemplation. A multifaceted movie, Nerve doesn't fail to give the comedic, thrilling, edge-of- your seat entertainment that moviegoers crave on a night out. The chemistry between Franco and Roberts, the intense visuals, and memorable soundtrack readily draws watchers (get it?) into the movie. These features complement each other so well that the hearts of viewers still race hours after the end. For those who want a deep, discussion starting movie, the door is there for those who want to open it. There's no overt pressure from the movie to draw a certain conclusion, or for watchers to take a certain stance on social media. Rather, it presents an unbiased entry into the thrilling world of social media with its upsides and downsides. Franco and Roberts display superb acting in the way they manifest of their characters history and unique motives through the course of the adrenaline-filled night. Nerve provides a stunning look at the different personalities and impulses that draw people to social media without explicitly labeling motives as wrong or right. Nerve comes at an especially relevant time with the increasing concern over social media and its consequences, and the directors produced a wonderful spark to incite discussion and awareness on this important topic. However, there's no force on audiences to answer to the social media dilemma. Viewers draw their own conclusions as their personalities and thoughts guide them through the movie. Nerve is quite the package. There's enough nerve-racking displays to keep your hearts thumping throughout the night, but there's also the second layer of radical questioning to plague your minds as the night goes on. All in all, Nerve is a great option for those who want to experience an alluring night filled with fun and great music, and for those who want a movie that draws out that reserved, subtle, philosophical parts in ourselves.",
+         "I found the synopsis intriguing, but despite a fairly novel concept, I thought the movie itself was lacking in something. The acting was okay, for the most part, but the whole idea was a bit far-fetched. Yes, I get the moral message, but the idea that this could actually happen, in real time - is nuts! I hope to god this doesn't spawn several Internet themed movies, in the same way 'found movies' did. Haven't we got enough social media in the world, without making movies about it? I suspect this will appeal to the younger person, but it just didn't do it for me. I feel this movie has missed the boat somewhat.....we've already had the ice-bucket challenge, cinnamon challenge, drinking challenges etc etc etc... I agree totally that some clown will try to invent something like this and there will always be bigger clowns who will try to compensate for their lack of a brain by morphing into a sheep and BAAAA copying it. I dare folks to live without their phones for a day - now wouldn't that be something? Okay for a watch, but absolutely no classic!",
+         "This movie was utterly horrendous, so horrendous in fact that it was physically painful to watch. I would not recommend watching this movie unless you would like to see Dave Francos' man boobs in action. The casting was alright, but the ending was unpleasant. As well as the beginning and middle. What good points could I make about the movie? None. Well, to be fair; the editing was decent as well as the soundtrack. But you don't pay to see a movie just for the soundtrack and/or editing. If you enjoy this movie, please rethink your motives in life. Thanks for reading, -The only honest person on this website. You're welcome.",
+         "I was waiting for the movie for quite long time. I was really excited when I got to see it and it made me feel like I want to have an adventure. The movie has a great message and the actors were absolutely amazing in showing this. Spoiler alert: But after I saw the movie and I thought a lot about it, I noticed a mistake in the plot. Maybe I am wrong and I didn't understand it right and if I am, please everyone is free to correct me and explain to me what was going on. Near the end of the movie, Vee met her friends in something like a parking, she changed and she told them about her plan. Then she went where the watchers sent her and found a gun and then she went to the arena where she understood that one of them should die. So what I don't understand is: how did she tell them what the plan is even before she knew what the last dare was. If the plan was only to shut the game OK, I would understand. But Sydney called TY and he went to the arena with a gun so they had to know what the last dare was and they couldn't know if Vee didn't tell them, but she told them about the plan even before she saw the gun. This is the only thing that is really bugging me about the movie and I think that it is not something little. However, I really enjoyed the movie and I loved it.",
+         "When I saw the climax of Nerve; a masked mass of sycophants dimly lit by the light of their phones, I saw what Siegfried Kracauer might have seen in The Cabinet of Dr. Caligari (1920); a denial of tradition mixed with \"...faith in man's power to shape society and nature.\" I saw the prurient fecklessness of reality TV being weaponized, the desensitized and fragmented youth culture being co- opted and the fears of technology being fiendishly well justified. In other words, I saw the end. The film has a deceptively clever little setup; Vee (Roberts) a goody-goody living on Staten Island is coaxed into an online truth or dare game, only without the truth. Those involved are either Watchers or Players. The much larger Watcher community decides which dare/stunt the Player group is to accomplish and each accomplished dare wins you money. Those who \"bail\" or \"fail\" lose all their winnings and lose a chance at the finals. There's a third group which is strongly implied in the trailer but I won't spoil for the sake of those who actually want to watch this harbinger of the end of the republic. After all, snitches apparently get stitches. Objectively speaking this film is okay. The story from a structural point of view is serviceable and the characterizations are bullet- pointed but never fully fleshed out. There are some neat visuals made real by luscious primary colors then sabotaged by ugly staging and distracting ADHD inspired graphics. Directors Henry Joost and Ariel Schulman may have been channeling Nicolas Winding Refn or Rick Famuyiwa's work in Dope (2015) but they really only succeed in reaching the sophistication of Untraceable (2008) drenched in warm neon. Our leads Vee and kinda-sorta Nerve teammate Ian (Franco) don't really feel believable within the context of the film not to mention believable as teenagers. Vee especially takes far too long to suspect something is amiss. If she were truly as brainy as her friends Sydney (Meade) and Tommy (Heizer) thinks she is, she would have bailed right after Ian explains someone just showed up and handed him her favorite book guaranteeing she would meet him. Ian's backstory remains murky until near the end but upon closer scrutiny post-credits his \"too-cool-for-school\" act feels more like a story contrivance than honest characterization. What separates Nerve from other YA screen adaptations, and truly makes this film beyond loathsome is its rather cavalier and quite frankly disgusting attitude towards privacy, technology, social media, democratization and human nature. Nerve has an unabashedly negative view of humanity, taking great relish in exposing the dark side of living in an open forum world with open forum expression and open forum consumption. And yes there is something to be said about advancements like the internet, meant to share knowledge and culture, being used as a means to indulge our baser impulses. Yet by being both broad and ordinary, Nerve spits on the nobility of democracy while simultaneously dooming even the smartest among us to a future of celebrity chasing, easy money and permanent distraction. A future entirely based on up or down votes and culpability is but a word that grownups use. Not since Dirty Harry (1971) have I seen a film so morally backwards and utterly contemptible. While gushing at the excess of it's own high-concept, Nerve burrows into the viewers skull, smuggling in unscrupulous ideas made effective by the film's ordinariness. While watching Nerve I was reminded of Plato's \"The Republic\"; specifically his passages on late-stage democracy. In it, Plato discusses the risks of a fractured polity, a society where \"too much freedom seems to change into nothing but too much slavery\" and thus becomes ripe for tyranny. I much rather believe as Thomas Jefferson once did that \"An educated citizenry is a vital requisite for our survival as a free people.\" Nerve puts that idea into doubt forcing me to fall back on the tired refrain of it's just a movie. And it is just a movie; the walls of Jericho are not going to be tumbling down just because Emma Roberts made out with Dave Franco at a diner. Yet as a harbinger of what's to come let's hope this film is an out-layer and not the eventual rule.",
+         "Nerve reflects the society we live in today, where the internet and smartphones consume our life, like it is an addictive drug. Nerve is very self-aware when it comes to these issues and uses them in an original and interesting way, influencing the film entirely. The plot is well influenced by this self-awareness, as we follow Venus or Vee (Emma Roberts) and Ian (Dave Franco) through an Internet game of truth or dare minus the truth, where you sign up to the game as a watcher or a player. As a player you are dared by watchers to complete a dare to receive a cash incentive, if you fail or don't accept the challenge, its game over. The narrative taps into the peer pressure of teenagers and the influence of the Internet on today's society. As players in Nerve, the aim of the player is to have the most viewers watching you in order to progress through to the finals and win the game. Reflecting the ideas of popularity and being \"internet famous\" that is much apart of the Internet culture that we live in. The way in which Ariel Schulman and Henry Joost have structured and shot the film suits its main themes and influences. This is evident as the film opens in a very topical way, as we enter the film through the entering of a password on Vee's computer. This isn't the only time in the film where the directors directly acknowledge the technology influence/theme of the film, as a majority of the camera shots in the film feel like they are being taken straight from a smartphone camera roll or from a webcam and its visually appealing and suits the film perfectly. These camera shots, complemented by flawless editing add to the action sequences, making fast paced and visually interesting scenes. The graphics also play a part in the aesthetic feel of the film and enhancing the viewing experience. At the beginning of Vee's introduction to being a player in Nerve, her username is displayed over a establishing shot of New York, which shows other players in the game. When she meets Ian and begins doing dares with him their usernames are linked time and time again in shots of the New York skyline. It's this smart use of graphics that really adds to the feeling that we are also watchers in this game without even knowing it. Nerve also has an underlining lesson for us as we watch it and it's a very strong lesson as well. At the beginning of Vee's game and towards the tricky end of the game it shows how accessible we are when we put data on the Internet and that this data can be accessed by anyone on the Internet. Everything we like on Facebook, Google search and buy online is accessible. This provides a grim reality of the world we currently live in and how accessible it is to get information with the click of a button. Nerve is an entertaining, visually appealing and educating film, with a direct reflection of what our everyday lives have become. Through the use of alternative camera work, interesting story line and a little lesson it creates a wonderfully crafted film that offers plenty of reflection upon leaving the cinema. Nerve is a step in a new direction of noir films of today; taking into account the ideas and concerns about technology and uses them to entertain, shock and thrill us from start to finish.",
+         "This is a hard movie to review because there is really no point to it. It is probably meant as a statement about the danger of the internet, the addiction and the pressure associated with social medias, and how detached we are from all the suffering in the world through our screens and phones. Maybe, but this is not what the movie is actually really about in its development. Basically, we just follow a teenager (Emma Roberts) trying to figure out her future by having a crazy night-out and going out of her shell by using the application \"Nerve\", where \"watchers\" proposes challenges to \"players\" with an increasing difficulty as well as money if they complete each of them, until a final showdown at the end of the night between two players who have the most watchers. She then meet a love interest (Dave Franco) and through her challenges, she revises her relationship with herself, her mother, her friends and her life in general. Classic \"coming of age\" movie stuffs. It's as formulaic as it gets. The movie is called \"Nerve\" but it clearly lacks some. Nothing feel exciting, nothing feel \"dangerous\" or thrilling. Most challenges outside of one are pretty tame and never feel life-threatening or really that rebellious or outraging. Worst, they don't really bring anything to the characters in terms of development except for the adrenaline of completing them. Everything feels rushed and too easily resolved. The last challenge is almost breaking the fourth wall and being addressed to the audience with heavy speeches and bad camera work, way too far from the action. The third act in its entirety is very weak and not credible in the slightest, and the characters reaction make less and less sense with each passing minute until the very end. The worst part is, if we take away the \"Nerve\" game and replace it with Dave Franco being a classic attractive bad-boy with a mysterious past who seduces Emma Roberts, it would have work pretty much exactly the same. In the end, the game is played more like a lazy excuse for a watered-down thriller with a weak romance vibe. There are many things to say about the way we relate to social medias and peer pressure through the internet. This movie is treating it like an after-thought or a pretext for the plot and never challenges the viewer in his/her relationship with those kind of content and way of life. \"Nerve\" is a very disappointing movie which looks good in terms of cinematography and that is easy to watch without being too bored. However, it's also way too bland, unexciting and never at no point take advantage of his subject matter. Catch it on Netflix or such when it's available if you're intrigued, but it's really not worth spending any money on it.",
+         "A very terrifying idea that isn't so far from reality. Nerve hits home to how people like to hide behind their anonymity online while, for example, giving hateful comments. While this concept seemed pretty dark in the trailer, it really is a young adult/teen film. The acting cast did well with their characters, and their emotions were clearly expressed. As the protagonist, Roberts did well in displaying her character's conflicting and transitioning state of mind as the story progressed. Franco does well as the male lead, but I felt that his character was a little more superficial than Roberts'. While background information on his character is provided, it feels like something is lacking. As well, I was pleasantly surprised to see both Kimiko Glenn, and Samira Wiley in the film. Both of them are more popularly known for their characters in Orange is the New Black, and it was nice to see them in roles outside of that. While I feel that Wiley wasn't in a completely different persona, Glenn certainly was. They both did great nonetheless. In terms of the soundtrack, I was very into the music played. I feel like most of them belong to the Indie genre, and I have, for the past half year or so, gotten into Indie music. I especially liked it when 'Electric Love' by Børns came on. I'm hooked on that song. Furthermore, the crew did well in the visual effects and editing of the movie. Although I did not care for the fast cuts whenever the game, 'Nerve' is introduced, the rest of the film is edited well. Also, there are quite a few montages, and they give the audience a sense danger as the dares get more and more ridiculous. The montages, along with the dark color palette, added to and helped maintain, the thrilling tone of the movie. Overall, a pretty thrilling young adult movie, with great acting, editing, and an appreciative soundtrack.",
+         "It's a game of truth or dare, minus the truth. You have a choice to be either a watcher or a player. Over the brief period of twenty- four hours, a phone app puts teens everywhere in danger through dares that are played for cash payments. In the meantime, a fan base sends in that money to watch certain players take on requested dares, specific to information picked up from their social media profiles. It is a nationwide phenomenon that is the subject of Nerve, based on the Jeanne Ryan novel, a timely piece of summer entertainment that gives teenagers what they want simultaneously with what they need. Thank goodness this type of mobile game doesn't exist, but thank even greater goodness that directors Henry Joost and Ariel Schulman (Catfish, Paranormal Activity 3 and 4) made it feel as close to real as we could probably grasp it. The camera takes on a DSLR feel with its Steadicam effects and shifting in and out of focus, all made the more heart-pounding to watch with the intense, stylistic colors that make every image pop. The Rob Simonsen score compels with a pulsing synthesizer, adding to the imprisoning effect of the city skyline illuminated at night by the usernames of the game players. But the directing team's most creative narrative technique is the unsettling effect of putting us behind the point of view of the phone screens, as if we're the watchers communicating with the players. Joost and Schulman similarly draw us in at the start of the movie with a wonderfully stylistic opening hook, where a teenage girl's PC fills up the entire screen as if we were the ones running the show. The teenage girl of this story is Venus Delmonico (or Vee for short), played by Emma Roberts. She always has more social media tabs open than she can keep track of, which matches her cluttered mind that is set on leaving her mother's home for college. The problem? She doesn't have money to afford the dorms. But Vee does not consider herself a risk taker\u2014she can't even ask a boy out on a date without her best friend volunteering to do it for her. Here is where the game \"Nerve\" steps into her life, offering a possibility to win hundreds upon thousands of dollars for each dare she achieves. Her first dare: kiss a stranger. Her second dare: take him into the city. Her third dare: try on a sparkly jade dress that costs four- grand. You can figure out the pattern from here. As the night goes on, the money is deposited into her unsuspecting mother's checking account, a romance sparks between her and the stranger she meets from the dare, and she becomes one of the top 10 worldwide players, helping her to at last feel free and respected through her rebellion. It's worth respecting the challenge Emma Roberts and her male co-lead, Dave Franco, went through to complete these dares. They work rather well together, better than most teen couples on screen, although I have to wonder, was adding a predictable love story necessary? I would not say that the screenplay turned out one-hundred-percent bullet-proof. With a story as big as this one, half of the unnecessary subplots had either little resolution or none at all. When Vee gets a tattoo for one of her dares, she tells her newly found boyfriend about the time her brother died. It could have been a meaningful moment, except it's never mentioned again, nor did it add anything to the story. Along with all the loose-ends and time- wasters, I also have one blaring question to ask: how did the police not know that any of this was going on? With a phenomenon as big as Nerve ruling teen culture, I feel like the police would have some involvement, but they didn't. I don't know how you just miss something like that. Nonetheless, I'd be lying if I said I did not enjoy Nerve, because it delivered exactly what it promised: on-edge terror that never stops and splendidly pays off in the end. I am sure that if you are a boy or girl also obsessed with the juvenile culture of mobile gaming, then this should just as well please you.",
+         "With social media at the very heart of the world we live in, the film takes these elements to demonstrate the wide-spreading nature of this technology, as well as the hidden danger through its incredibly intriguing premise. Captivating and brilliantly performed by Roberts and Franco, Nerve exceeded my expectations to become one of the most tense, adrenaline-packed films of the summer. In a blockbuster season that lacked originality, Nerve brought it in abundance, dressing it up in a visually-spectacular package that is well acted, well directed, well edited, thought-provoking and intriguing. With Lionsgate wrapping up their insanely successful Hunger Games franchise with Mockingjay (Part Two) last year and stepping on egg shells with the Divergent series, this is exactly the sort of film that they should pursue as they attempt to craft their new wave of cinema. Summary: Nerve takes an intriguing premise and selection of themes, two charming leads, solid direction and beautiful visuals to deliver an adrenaline-packed, original film, that may just be one of the strongest of the summer. I dare you to watch. FULL REVIEW: http://perksofbeingnath.blogspot.co.uk/2016/08/nerve-2016-review.html",
+         "A nice girl, Vee, succumbs to peer pressure and starts playing an online/social media game of dare called \"Nerve.\" The game swallows up all the person's social media info. A person can lose by bailing or failing. And \"snitches get stitches.\" A player who succeeds in a dare gets money deposited in a bank. The dare has to be filmed with the person's cellphone and is thus put live in the net for viewers to see. The player goes up in rank depending on how many viewers he has. At the end of the day two players face each other and the winner takes all. Vee's first dare is to kiss a stranger in a diner. Then the stranger starts dancing and singing to Vee. That was his dare. Then the game teams them up for dares, separates them, teams them back up. They have to go to a fancy department store, put on fancy clothes, speed on the motorcycle, get tattoos. Vee's best guy friend doesn't like all this especially because Vee and the other guy are getting closer now. So he does some research and finds out stuff about the guy. Meanwhile, Vee's success puts a strain on her friendships. About an hour into the movie finally the stakes are raised. Another contender for #1 is a pretty wild guy willing to do anything. And when things become life-endangering, Vee's friends, who conveniently happen to be hackers, and her mom intervene. Granted that I'm not the intended audience for this movie, I found it to be pretty dull, even for young adults. There's not much at stake for most of the movie. It just uses occasional POV camera-work to attempt to inject thrills, but it doesn't succeed. The cast mainly stands out for its big teeth but not much else. Not even relationship are made meaningful enough. Like back in the 90s, this movie seems more interested in trying to sell kids some music. I'll give it some points for being fairly good-natured and not too perverse and also for it's main point which I take it to be a warning about the dangers of peer pressure combined with social media."
+      ],
+      "genres": [
+         "Action",
+         "Adventure",
+         "Crime",
+         "Drama",
+         "Mystery",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Allison Shearmur Productions",
+         "Keep Your Head",
+         "Lionsgate"
+      ],
+      "summaries": [
+         "'Nerve' is about an online dare game, in which people give participants anonymous dares for money. The participants compete with each other to win the grand prize as the dares get tougher. Things get worse when the tasks get increasingly dangerous and lives are at stake.",
+         "Venus is a hard-working high school senior, focused, with drive and a pending scholarship at CalArts, the esteemed art school in California, that would help her spread her wings and leave Staten Island, her homeplace. Diffident enough and constantly in the shadow of her popular friend Sydney, Venus will be enticed by the notoriously hardcore reality online game \"Nerve\", and accept to become, for once in her life, a \"player\" instead of a mere \"watcher\". However, Venus is definitely not an adrenaline junkie, so by leaving her comfort zone, she will be gradually lured into an ongoing wave of incrementally difficult assignments, all contrived by the \"watchers'\" hungry appetite for thrills and excitement. When Venus accepts to kiss Ian, a random guy who turns out to be another \"Nerve\" player, the \"watchers\" will not be able to get enough of the couple, demanding to team up against an all-night, white-knuckle truth or dare adventure all over town. Inevitably, as the game insidiously claims Vee's personal life and friends, she will have to face one relentless dilemma: how far is she willing to go to win back her life?",
+         "A high school senior finds herself immersed in an online game of truth or dare, where her every move starts to become manipulated by an anonymous community of \"watchers.\""
+      ],
+      "budget": 20000000
+   },
+   "movielensId": 160954,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2016-07-27",
+      "dvdReleaseDate": null,
+      "directors": [
+         "Henry Joost",
+         "Ariel Schulman"
+      ],
+      "runtime": 96,
+      "movieId": 160954,
+      "title": "Nerve",
+      "mpaa": "PG-13",
+      "actors": [
+         "Emma Roberts",
+         "Dave Franco",
+         "Emily Meade",
+         "Miles Heizer",
+         "Juliette Lewis",
+         "Kimiko Glenn",
+         "Machine Gun Kelly",
+         "Marc John Jefferies",
+         "Samira Wiley",
+         "Brian 'Sene' Marc",
+         "Ed Squires",
+         "Deema Aitken",
+         "Michael Drayer",
+         "Josh Ostrovsky",
+         "Eric D'Alessandro",
+         "Rightor Doyle",
+         "Arielle Vandenberg",
+         "Jonny Beauchamp",
+         "Wesley Volcy",
+         "Damond McFarland",
+         "Kim Ramirez",
+         "Albert Sidoine"
+      ],
+      "imdbMovieId": "3531824",
+      "originalTitle": "Nerve",
+      "genres": [
+         "Mystery",
+         "Adventure",
+         "Crime"
+      ],
+      "youtubeTrailerIds": [
+         "2PR9MOPTI7g",
+         "Tyk2_bzca3E",
+         "vpQdRqn1jOI",
+         "HIUPvWjdmWw",
+         "ERDdS6E2rUA",
+         "woYHFcMVtlw"
+      ],
+      "plotSummary": "Industrious high school senior, Vee Delmonico, has had it with living life on the sidelines. When pressured by friends to join the popular online game Nerve, Vee decides to sign up for just one dare in what seems like harmless fun. But as she finds herself caught up in the thrill of the adrenaline-fueled competition partnered with a mysterious stranger, the game begins to take a sinister turn with increasingly dangerous acts, leading her into a high stakes finale that will determine her entire future.",
+      "tmdbMovieId": 328387,
+      "avgRating": 3.48903,
+      "releaseYear": "2016",
+      "numRatings": 729,
+      "posterPath": "/uM1dNEmcAeyDGjMcFLlkKOyBgft.jpg"
+   }
+}

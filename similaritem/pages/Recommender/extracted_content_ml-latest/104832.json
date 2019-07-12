@@ -1,0 +1,464 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "television",
+            "id": 2136
+         },
+         {
+            "name": "murder",
+            "id": 9826
+         }
+      ],
+      "imdb_id": "tt0045825",
+      "video": false,
+      "title": "The Glass Web",
+      "recommendations": [
+         65637,
+         25550,
+         37352,
+         46042,
+         44931,
+         45740,
+         33923,
+         26948,
+         27560,
+         60743,
+         33686,
+         26294,
+         26666,
+         59895,
+         26220,
+         26663,
+         27446,
+         64319,
+         51555,
+         62098
+      ],
+      "backdrop_path": "/sJ67i9qpwwSXRu611CX5e6wtn88.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 8,
+               "character": "Henry Hayes",
+               "gender": 2,
+               "credit_id": "52fe46309251416c9104c451",
+               "name": "Edward G. Robinson",
+               "profile_path": "/af1aBRi4UccaxtmDPWEtlfy1vXE.jpg",
+               "id": 13566,
+               "order": 0
+            },
+            {
+               "cast_id": 9,
+               "character": "Don Newell",
+               "gender": 2,
+               "credit_id": "52fe46309251416c9104c455",
+               "name": "John Forsythe",
+               "profile_path": "/fgtEcuM7CyFN79IN9hXpwkAzCGs.jpg",
+               "id": 24367,
+               "order": 1
+            },
+            {
+               "cast_id": 10,
+               "character": "Paula Rainer (Abbott)",
+               "gender": 1,
+               "credit_id": "52fe46309251416c9104c459",
+               "name": "Kathleen Hughes",
+               "profile_path": "/7n9BWIvHskTONRrfQsAf3dChzhr.jpg",
+               "id": 114956,
+               "order": 2
+            },
+            {
+               "cast_id": 11,
+               "character": "Louise Newell",
+               "gender": 1,
+               "credit_id": "52fe46309251416c9104c45d",
+               "name": "Marcia Henderson",
+               "profile_path": "/tNyKVsHmXiwFnzpFbWXyzOo6oHK.jpg",
+               "id": 101176,
+               "order": 3
+            },
+            {
+               "cast_id": 12,
+               "character": "Dave Markson",
+               "gender": 2,
+               "credit_id": "52fe46309251416c9104c461",
+               "name": "Richard Denning",
+               "profile_path": "/kGYesw34sQkfazqQj3Dy2Ul8lmx.jpg",
+               "id": 54681,
+               "order": 4
+            },
+            {
+               "cast_id": 13,
+               "character": "Detective Lt. Mike Stevens",
+               "gender": 2,
+               "credit_id": "52fe46309251416c9104c465",
+               "name": "Hugh Sanders",
+               "profile_path": "/1Eu8wy1v5aUZXqUVayZSLu9Y6v5.jpg",
+               "id": 98503,
+               "order": 5
+            },
+            {
+               "cast_id": 14,
+               "character": "Sonia",
+               "gender": 1,
+               "credit_id": "52fe46309251416c9104c469",
+               "name": "Jean Willes",
+               "profile_path": "/tf8Mdg3ULobhiTK1pqikikyS9WB.jpg",
+               "id": 101479,
+               "order": 6
+            },
+            {
+               "cast_id": 15,
+               "character": "Viv",
+               "gender": 1,
+               "credit_id": "52fe46309251416c9104c46d",
+               "name": "Eve McVeagh",
+               "profile_path": "/y41JZxTVZDOtKBXk9uA7zOFdtzO.jpg",
+               "id": 4075,
+               "order": 7
+            },
+            {
+               "cast_id": 16,
+               "character": "Jake (as Harry O. Tyler)",
+               "gender": 0,
+               "credit_id": "52fe46309251416c9104c471",
+               "name": "Harry Tyler",
+               "profile_path": "/hShTqyhk5V9LHStQwI4BupCybxf.jpg",
+               "id": 105454,
+               "order": 8
+            },
+            {
+               "cast_id": 17,
+               "character": "Announcer",
+               "gender": 2,
+               "credit_id": "52fe46309251416c9104c475",
+               "name": "John Hiestand",
+               "profile_path": null,
+               "id": 117026,
+               "order": 9
+            },
+            {
+               "cast_id": 18,
+               "character": "Bob Warren",
+               "gender": 2,
+               "credit_id": "52fe46309251416c9104c479",
+               "name": "Clark Howat",
+               "profile_path": "/evBot6971Pf6YTAFoxUTbjOcF0H.jpg",
+               "id": 117027,
+               "order": 10
+            },
+            {
+               "cast_id": 19,
+               "character": "Ted, Plainclothesman",
+               "gender": 0,
+               "credit_id": "52fe46319251416c9104c47d",
+               "name": "Bob Nelson",
+               "profile_path": "/2xCKfmAyu9au4M0SpnmAl5jKaU7.jpg",
+               "id": 104414,
+               "order": 11
+            },
+            {
+               "cast_id": 20,
+               "character": "Fred Abbot, Paula's husband",
+               "gender": 0,
+               "credit_id": "52fe46319251416c9104c481",
+               "name": "John Verros",
+               "profile_path": null,
+               "id": 117028,
+               "order": 12
+            },
+            {
+               "cast_id": 21,
+               "character": "Mrs. Eve Doyle, Credit Union Officer",
+               "gender": 0,
+               "credit_id": "52fe46319251416c9104c485",
+               "name": "Helen Wallace",
+               "profile_path": "/cLgm1zgZ5SbNyEZ9i74eySFgdZm.jpg",
+               "id": 114962,
+               "order": 13
+            },
+            {
+               "cast_id": 22,
+               "character": "Tramp Comic",
+               "gender": 2,
+               "credit_id": "52fe46319251416c9104c489",
+               "name": "Benny Rubin",
+               "profile_path": "/iWjnIur6En50YRvC1zkPPGoP5By.jpg",
+               "id": 117029,
+               "order": 14
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe46309251416c9104c429",
+               "name": "Jack Arnold",
+               "profile_path": "/3iuVO7TDbAI4TpUmgNgZyrnj6ch.jpg",
+               "id": 33883,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46309251416c9104c42f",
+               "name": "Robert Blees",
+               "profile_path": null,
+               "id": 51727,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe46309251416c9104c435",
+               "name": "Leonard Lee",
+               "profile_path": null,
+               "id": 117023,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46309251416c9104c43b",
+               "name": "Max Ehrlich",
+               "profile_path": null,
+               "id": 117024,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46309251416c9104c441",
+               "name": "Albert J. Cohen",
+               "profile_path": null,
+               "id": 90051,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46309251416c9104c447",
+               "name": "Maury Gertsman",
+               "profile_path": null,
+               "id": 117025,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46309251416c9104c44d",
+               "name": "Ted J. Kent",
+               "profile_path": null,
+               "id": 2920,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5808f4c3c3a368664b00abc4",
+               "name": "Milton Rosen",
+               "profile_path": null,
+               "id": 34015,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5808f4d7c3a368752b00a460",
+               "name": "Frank Skinner",
+               "profile_path": "/iXSLNqs6Rf9ynJ9TzNSpabNO2iW.jpg",
+               "id": 30104,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5808f4e3c3a36874cd00ad98",
+               "name": "Herman Stein",
+               "profile_path": null,
+               "id": 56928,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5808f4f59251415dfb00f523",
+               "name": "Bernard Herzbrun",
+               "profile_path": null,
+               "id": 29637,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5808f4fc9251410fe300a8f3",
+               "name": "Eric Orbom",
+               "profile_path": null,
+               "id": 14492,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5808f502925141102800a46d",
+               "name": "Russell A. Gausman",
+               "profile_path": null,
+               "id": 12348,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5808f51292514105ea00b118",
+               "name": "Ruby R. Levitt",
+               "profile_path": null,
+               "id": 12292,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5808f520c3a36874ea0098dc",
+               "name": "Bill Thomas",
+               "profile_path": null,
+               "id": 14493,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Crime",
+         "id": 80
+      }],
+      "popularity": 0.237219,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 37183,
+      "vote_count": 4,
+      "budget": 0,
+      "overview": "The ice-cold diva Paula ruthlessly exploits the guys she dates. While blackmailing the married Don with a recent one-night-stand, she has a secret affair with Henry, who works as researcher for the weekly authentic TV show \"Crime of the Week\", which Don writes for. When Henry fails to help her to a role, she insults him deadly... and ends up dead herself. Now Don desperately tries to hide his traces, but Henry sabotages his efforts and suggests he write the unsolved murder case for next week's show...",
+      "similar": [
+         15069,
+         984,
+         11423,
+         357096,
+         4771,
+         96,
+         979,
+         281,
+         75780,
+         807,
+         395834,
+         25376,
+         3134,
+         10651,
+         12143,
+         2749,
+         18587,
+         26390,
+         37645,
+         12150
+      ],
+      "original_title": "The Glass Web",
+      "runtime": 81,
+      "poster_path": "/uvuLisEKbvlYeRsQ3XT1kudWuXG.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/nY62adzeba5GVK8LJYD6yd9R8H4.png",
+         "name": "Universal International Pictures",
+         "id": 10330,
+         "origin_country": ""
+      }],
+      "release_date": "1953-11-11",
+      "vote_average": 6.1,
+      "belongs_to_collection": null,
+      "tagline": "The Ultimate in Shocking, Suspenseful 3-D!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Black and White",
+      "budgetCurrency": null,
+      "directors": ["Jack Arnold"],
+      "runtime": 78,
+      "synopsis": null,
+      "writers": [
+         "Robert Blees",
+         "Leonard Lee"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0045825/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTM0MTcwNjEwMl5BMl5BanBnXkFtZTYwMzUxNjQ2._V1_SY317_CR109,0,214,317_AL_.jpg",
+      "actors": ["Stars: Edward G. Robinson, John Forsythe, Kathleen Hughes | See full cast and crew »"],
+      "reviews": [
+         "Though much less stylish to look and (and listen to), The Glass Web owes a debt to Michael Curtiz' The Unsuspected of six years earlier. Both movies take as their principal setting a live true-crime show � the earlier in the waning days of radio, the latter in the dawning of the television era. And both make use of the technology of their respective mediums to help unravel their plots. Head writer of the crime show John Forsythe and researcher Edward G. Robinson are at loggerheads; Robinson finds Forsythe callow and slapdash while Forsythe dismisses Robinson, a former police reporter, as an old fussbudget. Both men, however, are carrying on with the same woman, a Los Angeles television actress ( Kathleen Hughes) whose interest in them is entirely mercenary � apart from the professional advancement she schemes for, she's always got a hand out for `loans,' which then escalate into blackmail. When she turns up strangled in her apartment, there's little weeping or gnashing of teeth. Robinson proposes turning the solving of her murder into their season-ending cliffhanger, sure to cinch a skittish sponsor. Both he and Forsythe turn in competing scripts; one of them, however, contains details which could have been known only to the killer.... Set in the world of early television, The Glass Web looks and feels like early television. But upon its release it was part of the early-1950s Hollywood panic over the upstart rival medium, and featured one of the desperate gimmicks calculated to lure viewers back into theaters: 3-D. Fortunately, the projectiles that got early spectators ducking in their seats are confined to a few intense spates and today look rather quaint (even in 3-D, they'd look quaint). Director Jack Arnold went on to make at least two movies that have been enshrined as camp classics: The Incredible Shrinking Man and High School Confidential. The Glass Web is nowhere near so memorable, but it's diverting enough in a don't-expect-much kind of way.",
+         "\"The Glass Web\" was originally filmed in 3-D in 1953. To director Jack Arnold's credit, he doesn't litter the movie with 3-D effects but limits them to scenes that do little to interfere with the plot. Edward G. Robinson, John Forsythe and Richard Denning are involved in the weekly production of realism crime TV show called \"Crime of the Week\". Kathleen Hughes plays an actress who \"uses\" men to achieve her goals. Both Forsythe and Robinson, unbeknownst to each other are involved with her. When she turns up murdered it is decided to make her demise the subject of the season ending show in order to encourage the sponser to pick up the show for the following season. But who really killed her? \"The Glass Web\" is interesting not only for its intricate plot and 3-D effects, but for a look inside 1950s TV production. It was a time in television when shows were produced live on a weekly basis. So you can appreciate the pressure upon the production team to come up with a new and interesting show every week. This is the basis behind the plot of this picture. Robinson is cool and sinister in his role and Forsythe is very good as the harried writer. Kathleen Hughes is also quite good as the femme fatale. Trivia buffs may remember that she was known as \"the 3-D girl\" during the 3-D craze, due to her many appearances in 3-D films. \"The Glass Web\" is a dated but effective thriller representative of the period.",
+         "Breezy programmer pits \"Crime of the Week\" star John Forsythe in a battle of wits against technical consultant Edward G. Robinson. The backdrop is the murder of a calculating and blackmailing beautiful siren, well-played by the radiant Kathleen Hughes. Meanwhile, the record \"Temptation\" plays over and over and over again. A solid \"B\" movie supporting cast and inventive direction moves this one along quickly with the debonair Forsythe disarmed for quite a while by the bulldoggishly cynical Edward G. Robinson. The crime eventually gets reenacted on the TV show in the show's climactic scene. The trap is set, and somebody bites. I enjoyed the resolution, and hope you will also. Warning, Temptation is played so many times that it will probably run through your head for quite some time after seeing this one.",
+         "Any film that opens with a vixen being shot in the back to death then simply tossed into an open pit like yesterday's garbage is sure to get your attention from the get-go, even if it is only dramatizing the filming of a TV show. This is \"Crime of the Week\", a 1950's version of a TV reality show where real-life crimes are dramatized, even if they remain unsolved. Even without the narration of Robert Stack, these solved mysteries are thrilling, and once you meet the actress (Kathleen Hughes) dumped into the pit, you know it's only a matter of time before she becomes a victim herself. She's the typical film noir villainess, not as savvy or deadly as Barbara Stanwyck, Lizabeth Scott or Jane Greer, but determined to use men to get ahead in her business, then toss them aside once she's gotten from them what she desires. Two of the show's staff members (Edward G. Robinson and John Forsythe) become engulfed in her web with Robinson tossed out like a potato peel and Forsythe a victim of blackmail. Throw in an estranged husband of dubious moral demeanor, and it is obvious that the pit awaits her. But amoral or not, a victim of murder deserves their death to be solved, and through writing the crime onto the TV series, that's exactly the revelation expectable, yet how the denouncements are made makes it gripping throughout. Forsythe adds much dimension to his brooding character, loving with wife and son (even if he is cheating on them), yet threatening when he goes to end the brief affair. Robinson stays in character at all times, smooth and confidante, yet touching and vulnerable as he warns the actress not to hurt him. Satisfactory in practically every way, it won't confound the most novice of noir viewers, but is intriguing and fun to watch develop.",
+         "When I first saw this film back in seventies I suspected right from the opening credits that this film was shot originally in 3D. The credits open with a shot of a piece of glass shattering and the fragments flying into the camera. The most obvious scene is when John Forsythe wanders around in a daze after discovering the body of the slain actress/former mistress. He goes through various narrow escapes where just about everything is thrown at him/the camera. A truck driver throws out a stack of newspapers, a fire escape ladder comes down and narrowly misses him, he almost gets run over by a taxi, a truck unloads a load of crushed rock and more. I would not have been surprised if someone threw a kitchen sink from one of the buildings Forsythe walks by. SPOILER! On the mystery side, the gimmick is having the killer (Edward G.), a T.V. writer working on a \"Crime Of The Week\" T.V. show. He writes a script based on the murder and gives himself away when he includes details only the killer would know.",
+         "Edward G. Robinson plays a research assistant and former police reporter who now works on a true crime television series. He's got aspirations to write the show, but John Forsythe stands in his way in The Glass Web. Forsythe is married to Marcia Henderson with two kids, but he made a bad mistake in straying from the fold into the arms of actress Kathleen Hughes. In fact that's how Kathleen's been rising in the profession. As Robinson says and he's another of her trophies, she had talents other than acting. When Hughes winds up strangled, the police at first zero in on her poor hapless estranged husband John Verros who made the incriminating mistake of not canceling an insurance policy of $10,000.00. But Forsythe comes under scrutiny and Robinson finds out and proceeds to blackmail him. The Glass Web was an interesting Hitchcock like thriller which bears some resemblance to the Ray Milland/Charles Laughton classic, The Big Clock. But even in 3-D, The Glass Web was operating on a much tighter budget. How does it all end, let me say that Edward G. Robinson who is such a stickler for the minutest of details to give shows their realism is quite done in with that obsession. In fact the ironic thing is that if he didn't try to blackmail Forsythe he might have got away with it. Kathleen Hughes is the real star of this film, one of the baddest of bad girls ever to grace the silver screen. She could have been a really big star with a few more roles as juicy as this one in The Glass Web. The Glass Web packs a lot in its 81 minute running time, it's fast paced and entertaining. And as Robinson learns, the devil really can be in the details.",
+         "****SPOILERS**** Under presser to come up with a hit show or else lose it's top sponsor and be thrown off the air the crime show \"Crime of the Week's\" top writer Don Newell, John Forsythe, gets himself involved in a murder who's victim is the show's actress Paula Ranier, Kathleen Hughes, who just happened to be blackmailing him. It was Paula who was having an affair with Newell for some six months who threatens to tell his wife Louise, Marcia Henderson, unless he coughs up $2,5000.00 to have her keep her mouth shut. As things turned out after having it out with Paula in her apartment Newell leaves in a hush only to later find out, by coming back, that she was murdered! Not only that it's the show's research editor Henry Hayes, Edward G. Robinson, who was also having a affair with the late or murdered Paula Ranier who seems to have an idea for the show's breakout episode that in fact involves Paula's murder! Knowing that he's the #1 suspect in Paula's murder Newell gives the job of script writing the episode to Hayes who, as we soon see, knows a lot more about Paula's murder and who murdered her then he lets out. ***SPOILERS*** Filmed in 3-D the movie doesn't comes across that well on the flat screen with the now 2-D not 3-D effects that are put into it. Besides that major flaw it's still a top notch murder mystery with a really solid surprise ending. With Paul's killer trying everything to cover his tracks in getting Newell framed in the end it's modern TV technology that does him in. Not knowing that he's on TV the killer admits his crime, a crime of passion and revenge, that everyone in the TV studio sees and hears in living black & white including the cop in charge plainclothesman Bob Nelson. It was by the killer in feeling confident and at the same time shooting off his big mouth that ended up with him getting shot instead!"
+      ],
+      "genres": [
+         "Crime",
+         "Drama",
+         "Film-Noir",
+         "Thriller"
+      ],
+      "productionCompanies": ["Universal International Pictures (UI)"],
+      "summaries": [
+         "The ice-cold diva Paula ruthlessly exploits the guys she dates. While blackmailing the married Don with a recent one-night-stand, she has a secret affair with Henry, who works as researcher for the weekly authentic TV show \"Crime of the Week\", which Don writes for. When Henry fails to help her to a role, she insults him deadly... and ends up dead herself. Now Don desperately tries to hide his traces, but Henry sabotages his efforts and suggests he write the unsolved murder case for next week's show...",
+         "A beautiful but heartless television actress, uses seduction and tricks to blackmail the men in her life to a point, where she could get herself killed."
+      ],
+      "budget": 0
+   },
+   "movielensId": 104832,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1953-11-11",
+      "dvdReleaseDate": null,
+      "directors": ["Jack Arnold"],
+      "runtime": 81,
+      "movieId": 104832,
+      "title": "The Glass Web",
+      "mpaa": "",
+      "actors": [
+         "Edward G. Robinson",
+         "John Forsythe",
+         "Kathleen Hughes",
+         "Marcia Henderson",
+         "Richard Denning",
+         "Hugh Sanders",
+         "Jean Willes",
+         "Eve McVeagh",
+         "Harry Tyler",
+         "John Hiestand",
+         "Clark Howat",
+         "Bob Nelson",
+         "John Verros",
+         "Helen Wallace",
+         "Benny Rubin"
+      ],
+      "imdbMovieId": "0045825",
+      "originalTitle": "The Glass Web",
+      "genres": ["Crime"],
+      "youtubeTrailerIds": ["Vj4fNNeluQE"],
+      "plotSummary": "The ice-cold diva Paula ruthlessly exploits the guys she dates. While blackmailing the married Don with a recent one-night-stand, she has a secret affair with Henry, who works as researcher for the weekly authentic TV show \"Crime of the Week\", which Don writes for. When Henry fails to help her to a role, she insults him deadly... and ends up dead herself. Now Don desperately tries to hide his traces, but Henry sabotages his efforts and suggests he write the unsolved murder case for next week's show...",
+      "tmdbMovieId": 37183,
+      "avgRating": 3.33333,
+      "releaseYear": "1953",
+      "numRatings": 3,
+      "posterPath": "/uvuLisEKbvlYeRsQ3XT1kudWuXG.jpg"
+   }
+}

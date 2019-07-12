@@ -1,0 +1,741 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "anthology",
+            "id": 9706
+         },
+         {
+            "name": "woman director",
+            "id": 187056
+         }
+      ],
+      "imdb_id": "tt5647758",
+      "video": false,
+      "title": "ABCs of Death 2.5",
+      "recommendations": [343701],
+      "backdrop_path": "/lgFAJA83tJSXupAIWcB0HThu0nZ.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 33,
+               "character": "(segment \"M is for Mobile\")",
+               "gender": 0,
+               "credit_id": "593c4b43c3a3680f14010e66",
+               "name": "Ali Arslan",
+               "profile_path": null,
+               "id": 1484464,
+               "order": 1
+            },
+            {
+               "cast_id": 34,
+               "character": "(segment \"M is for Mobile\")",
+               "gender": 0,
+               "credit_id": "593c4b619251410593011bf5",
+               "name": "Ilker Arslan",
+               "profile_path": null,
+               "id": 1484463,
+               "order": 2
+            },
+            {
+               "cast_id": 35,
+               "character": "Best Friend (segment \"M is for Mother\")",
+               "gender": 1,
+               "credit_id": "593c4b7a92514105cf012a23",
+               "name": "Anastasia Baranova",
+               "profile_path": "/cqMlMZBmXwJnKfuSxlp9tVUgxqs.jpg",
+               "id": 1224431,
+               "order": 3
+            },
+            {
+               "cast_id": 36,
+               "character": "Victim (segment \"M is for Manure\")",
+               "gender": 0,
+               "credit_id": "593c4b93c3a3680f42011f4c",
+               "name": "Dani Barker",
+               "profile_path": null,
+               "id": 1475940,
+               "order": 4
+            },
+            {
+               "cast_id": 37,
+               "character": "Townspeople (segment \"M is for Martyr\")",
+               "gender": 2,
+               "credit_id": "593c4bb1925141059b011885",
+               "name": "John Beck",
+               "profile_path": "/chrv4q7zhxuv8esZLBpfSBMp3o5.jpg",
+               "id": 41269,
+               "order": 5
+            },
+            {
+               "cast_id": 38,
+               "character": "Bret (segment \"M is for Merry Christmas\")",
+               "gender": 0,
+               "credit_id": "593c4bca9251410587011a77",
+               "name": "Beat Billson",
+               "profile_path": null,
+               "id": 1831611,
+               "order": 6
+            },
+            {
+               "cast_id": 39,
+               "character": "Darío (segment \"M is for Miracle\")",
+               "gender": 0,
+               "credit_id": "593c4bde9251410587011a8a",
+               "name": "David Blanka",
+               "profile_path": "/djUXccjWyK2Ai07ZEWduYJlgqwq.jpg",
+               "id": 1702289,
+               "order": 7
+            },
+            {
+               "cast_id": 40,
+               "character": "The Mariachi (segment \"M is for Mariachi\")",
+               "gender": 0,
+               "credit_id": "593c4bf39251410593011c5b",
+               "name": "Juan Bravo Jr.",
+               "profile_path": null,
+               "id": 1831617,
+               "order": 8
+            },
+            {
+               "cast_id": 41,
+               "character": "Marauder Leader (segment \" M is for Marauder\")",
+               "gender": 0,
+               "credit_id": "593c4c0a925141059b0118b9",
+               "name": "Wesley Braxton",
+               "profile_path": null,
+               "id": 1831619,
+               "order": 9
+            },
+            {
+               "cast_id": 42,
+               "character": "(segment \"M is for Muff\")",
+               "gender": 0,
+               "credit_id": "593c4c27c3a3680f87011e3b",
+               "name": "Don Bridges",
+               "profile_path": null,
+               "id": 80270,
+               "order": 10
+            },
+            {
+               "cast_id": 43,
+               "character": "Marauder Extras (segment \" M is for Marauder\")",
+               "gender": 0,
+               "credit_id": "593c4c3e9251410593011ca1",
+               "name": "Kevin Byrd",
+               "profile_path": null,
+               "id": 1831622,
+               "order": 11
+            },
+            {
+               "cast_id": 44,
+               "character": "(segment \"M is for Malnutrition\")",
+               "gender": 1,
+               "credit_id": "593c4c5292514105cf012ad9",
+               "name": "Judit Bárdos",
+               "profile_path": "/4tATpbdY07RzVImlNekoLrlO7UV.jpg",
+               "id": 1162340,
+               "order": 12
+            },
+            {
+               "cast_id": 45,
+               "character": "(segment \"M is for Mom\")",
+               "gender": 2,
+               "credit_id": "593c4c6bc3a3680f42011fe9",
+               "name": "Mace Coronel",
+               "profile_path": "/3RnzXjN3llx0Zo3oV3zLDvr3yIZ.jpg",
+               "id": 1392541,
+               "order": 13
+            },
+            {
+               "cast_id": 46,
+               "character": "Boy (segment \"M is for Manure\")",
+               "gender": 0,
+               "credit_id": "593c4c7c92514105970115a2",
+               "name": "Myles Dobson",
+               "profile_path": null,
+               "id": 1831628,
+               "order": 14
+            },
+            {
+               "cast_id": 47,
+               "character": "(segment \"M is for Marriage\")",
+               "gender": 2,
+               "credit_id": "593c4c8f925141059b011921",
+               "name": "Michael Draper",
+               "profile_path": "/sDqOVhPMOeqtFcXSiWTWO38bUBO.jpg",
+               "id": 1277799,
+               "order": 15
+            },
+            {
+               "cast_id": 48,
+               "character": "The Sacrifice (segment \"M is for Messiah\")",
+               "gender": 0,
+               "credit_id": "593c4ca19251410593011cf0",
+               "name": "Michelle Ferguson",
+               "profile_path": "/qkPfxpaumevtZ86U1sLS8RU42rj.jpg",
+               "id": 1656464,
+               "order": 16
+            },
+            {
+               "cast_id": 49,
+               "character": "(segment \"M is for Mom\")",
+               "gender": 0,
+               "credit_id": "593c4cbb9251410593011d03",
+               "name": "Brooke J. Ferrell",
+               "profile_path": null,
+               "id": 1493787,
+               "order": 17
+            },
+            {
+               "cast_id": 50,
+               "character": "Kyle (segment \"M is for Mermaids\")",
+               "gender": 0,
+               "credit_id": "593c4ccf925141058f012482",
+               "name": "Adrian Gaeta",
+               "profile_path": "/6KJKuKtHY2xzUi2d0I4aRbA0PMX.jpg",
+               "id": 1615806,
+               "order": 18
+            },
+            {
+               "cast_id": 51,
+               "character": "The Cook (segment \"M is for Martyr\")",
+               "gender": 0,
+               "credit_id": "593c4ce592514105cf012b4c",
+               "name": "Lawrence R. Greenberg",
+               "profile_path": null,
+               "id": 1831634,
+               "order": 19
+            },
+            {
+               "cast_id": 52,
+               "character": "The Wife (segment \"M is for Martyr\")",
+               "gender": 0,
+               "credit_id": "593c4cf7c3a3680f87011eda",
+               "name": "Jensen Jacobs",
+               "profile_path": null,
+               "id": 1597916,
+               "order": 20
+            },
+            {
+               "cast_id": 53,
+               "character": "Sophia (segment M is for Marble)",
+               "gender": 0,
+               "credit_id": "593c4d0c9251410587011b66",
+               "name": "Sophia Johnson",
+               "profile_path": null,
+               "id": 1670619,
+               "order": 21
+            },
+            {
+               "cast_id": 54,
+               "character": "Victim 1 (segment \"M is for Matador\")",
+               "gender": 0,
+               "credit_id": "593c4d1ec3a3680f42012077",
+               "name": "Emi Kamito",
+               "profile_path": null,
+               "id": 1831640,
+               "order": 22
+            },
+            {
+               "cast_id": 55,
+               "character": "(segment \"M is for Malnutrition\")",
+               "gender": 1,
+               "credit_id": "593c4d319251410597011636",
+               "name": "Gabriela Marcinková",
+               "profile_path": "/qmjljS7I6qmD4HygfxOFSKjK8n4.jpg",
+               "id": 937219,
+               "order": 23
+            },
+            {
+               "cast_id": 56,
+               "character": "The Father (segment \"Mail is for Mailbox\")",
+               "gender": 2,
+               "credit_id": "59f1597ec3a3680ef1003fd4",
+               "name": "Ênio Gonçalves",
+               "profile_path": "/f5F9Ly4QTALCdDQn33uOiPzxYKv.jpg",
+               "id": 104067,
+               "order": 24
+            },
+            {
+               "cast_id": 57,
+               "character": "Bonnie Phillips (segment \"M is for Mormon Missionaries\")",
+               "gender": 1,
+               "credit_id": "59fc1c3492514113a6024297",
+               "name": "Carolyn Purdy-Gordon",
+               "profile_path": "/rkNC80zwfLwDAb23eXZuyZO0JOO.jpg",
+               "id": 37028,
+               "order": 25
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe4f38c3a36847f82c6631",
+               "name": "Maria Ivanova",
+               "profile_path": null,
+               "id": 1284126,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4f38c3a36847f82c6637",
+               "name": "Tim Rutherford",
+               "profile_path": null,
+               "id": 1211203,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4f38c3a36847f82c663d",
+               "name": "Cody Kennedy",
+               "profile_path": null,
+               "id": 1211202,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4f38c3a36847f82c6643",
+               "name": "Christopher Younes",
+               "profile_path": null,
+               "id": 1284127,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4f38c3a36847f82c6649",
+               "name": "Dante Vescio",
+               "profile_path": null,
+               "id": 1284128,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4f38c3a36847f82c664f",
+               "name": "Rodrigo Gasparini",
+               "profile_path": null,
+               "id": 1284129,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4f38c3a36847f82c6655",
+               "name": "Summer Johnson",
+               "profile_path": null,
+               "id": 1284131,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4f38c3a36847f82c665b",
+               "name": "Peter Czikrai",
+               "profile_path": null,
+               "id": 1284133,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4f38c3a36847f82c6661",
+               "name": "Michael Schwartz",
+               "profile_path": null,
+               "id": 572364,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4f38c3a36847f82c6667",
+               "name": "Steve Daniels",
+               "profile_path": null,
+               "id": 1065894,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4f38c3a36847f82c666d",
+               "name": "Zac Blair",
+               "profile_path": null,
+               "id": 1284136,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4f38c3a36847f82c6673",
+               "name": "Eric Pennycoff",
+               "profile_path": null,
+               "id": 1284137,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4f38c3a36847f82c6679",
+               "name": "Todd Freeman",
+               "profile_path": null,
+               "id": 1284138,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4f38c3a36847f82c667f",
+               "name": "Jeff Stewart",
+               "profile_path": null,
+               "id": 976812,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4f38c3a36847f82c6685",
+               "name": "Gigi Saul Guerrero",
+               "profile_path": "/85eUTOWMh7wowiTZBt4vAcFBGbq.jpg",
+               "id": 1284139,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4f38c3a36847f82c668b",
+               "name": "Wolfgang Matzl",
+               "profile_path": null,
+               "id": 1284140,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4f38c3a36847f82c6691",
+               "name": "Ama Lea",
+               "profile_path": null,
+               "id": 1284141,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4f38c3a36847f82c6697",
+               "name": "Lloyd Staszkiewicz",
+               "profile_path": null,
+               "id": 1284142,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4f38c3a36847f82c669d",
+               "name": "Joe Staszkiewicz",
+               "profile_path": null,
+               "id": 1284143,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4f38c3a36847f82c66a3",
+               "name": "Carlos Faria",
+               "profile_path": null,
+               "id": 1284144,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4f38c3a36847f82c66a9",
+               "name": "Nicholas Humphries",
+               "profile_path": null,
+               "id": 1197196,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4f38c3a36847f82c66af",
+               "name": "Brett Glassberg",
+               "profile_path": null,
+               "id": 1284145,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4f38c3a36847f82c66b5",
+               "name": "Álvaro Núñez",
+               "profile_path": null,
+               "id": 1284146,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4f38c3a36847f82c66bb",
+               "name": "Barış Erdoğan",
+               "profile_path": null,
+               "id": 1284147,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4f38c3a36847f82c66c1",
+               "name": "Carles Torrens",
+               "profile_path": null,
+               "id": 1017209,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4f38c3a36847f82c66c7",
+               "name": "Travis Betz",
+               "profile_path": "/bUlF4sKTgdlMASMJsrV8Ayg4fx8.jpg",
+               "id": 116531,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4f38c3a36847f82c66cd",
+               "name": "Peter Podgursky",
+               "profile_path": null,
+               "id": 1284148,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4f38c3a36847f82c66d3",
+               "name": "Mia Kate Russell",
+               "profile_path": null,
+               "id": 1284149,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4f38c3a36847f82c66d9",
+               "name": "Jason Koch",
+               "profile_path": null,
+               "id": 1055722,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4f38c3a36847f82c66df",
+               "name": "Clint Kelly",
+               "profile_path": null,
+               "id": 1284150,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4f38c3a36847f82c66e5",
+               "name": "Ant Timpson",
+               "profile_path": null,
+               "id": 1174074,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4f38c3a36847f82c66eb",
+               "name": "Tim League",
+               "profile_path": null,
+               "id": 968968,
+               "department": "Production",
+               "job": "Producer"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Horror",
+         "id": 27
+      }],
+      "popularity": 2.121591,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 248781,
+      "vote_count": 12,
+      "budget": 0,
+      "overview": "An anthology of 26 fan entries submitted for inclusion in ABCs of Death 2, each offering various takes on the letter \"M\"",
+      "similar": [
+         27586,
+         242224,
+         16288,
+         297160,
+         3981,
+         858,
+         5,
+         112160,
+         141,
+         634,
+         394117,
+         437557,
+         297762,
+         193726,
+         258480,
+         1547,
+         71672,
+         948,
+         298312,
+         346672
+      ],
+      "original_title": "ABCs of Death 2.5",
+      "runtime": 85,
+      "poster_path": "/mmtQE4p3fZGnQFOEZ1x9tEM4hL8.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "Drafthouse Films",
+         "id": 10485,
+         "origin_country": ""
+      }],
+      "release_date": "2016-08-02",
+      "vote_average": 4.2,
+      "belongs_to_collection": {
+         "backdrop_path": null,
+         "name": "The ABCs of Death Collection",
+         "id": 207632,
+         "poster_path": "/fzrKAtcg75Je7N0NereOdKePHDM.jpg"
+      },
+      "tagline": "",
+      "adult": false,
+      "homepage": "http://drafthousefilms.com/",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": null,
+      "budgetCurrency": null,
+      "directors": [
+         "Travis Betz",
+         "Zac Blair"
+      ],
+      "runtime": 85,
+      "synopsis": null,
+      "writers": [
+         "Todd E. Freeman",
+         "Clint Kelly"
+      ],
+      "originalLanguage": null,
+      "imdbLink": "http://www.imdb.com/title/tt5647758/",
+      "coverLink": "https://ia.media-imdb.com/images/M/MV5BYTdkYzFhYWQtMWE4Mi00YmUyLWEyZjAtMTUzZDc1NWY5ZjY1XkEyXkFqcGdeQXVyNDEzODIwOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "actors": [
+         "Ali Arslan",
+         "Ilker Arslan",
+         "Anastasia Baranova"
+      ],
+      "reviews": [
+         "The challenge was to make a horror short of three minutes or less, inspired by the letter 'M'. Over 500 entries were submitted from around the globe, of which 26 finalists were compiled to make The ABC's of Death 2.5. With such a short run-time in which to try and tell a story, the majority of 2.5's episodes prove predictably insubstantial, mere excuses for the film-makers to be as bizarre or outrageously gross as possible ('M is for Munging' being the winner there!). And as much as I enjoy the occasional spot of weirdness or gratuitous splatter, this rapid-fire collection left me longing for something a little more coherent. Of the 26 entries, only a handful manage to impress: opening effort 'M is for Magnetic Tape' delivers a fun premise and some great special effects, 'M is for Malnutrition' ends with a neat Twilight Zone style twist, 'M is for Morman Missionaries' has a warped EC comics style payoff, and 'M is for Mother' features a big-ass spider. The rest of the entries left me either disappointed or scratching my head in bewilderment.",
+         "ABCs of Death 2.5 is a production created by Drafthouse Films. The good people at Drafthouse Films invited directors from all over the world to submit a short film (sometimes less that 2 minutes long)about their take on dead. Out of the 500 films submitted ABCs of Death 2.5 is a compilation of the best 26 shorts submitted. Just when you think it couldn't get any better each short film begins with the letter 'M'. The film is basically like Rob Zombie and Quentin Tarantino both got together, got drunk and then make a completely over the top compilation of the weirdest ways to kill people, or kill themselves in some cases. Even for the content there's nothing too gory here if you seen either one of their movies but I wouldn't bring the kids.",
+         "This is not for people who like a typical horror movie from start to finish. If you thoroughly enjoyed the ABC's of Death 1 and 2 you will like a lot of the films in this one. Granted, each one is different and I don't think it's possible to love each one the same if at all and that should be expected by viewers. The producers tell you what you're going to get and there shouldn't be any surprises. I really love the fact that they had such a respect for the people who made these films that they did something with them. That being said, a couple of the shorts I straight up didn't like at all but it didn't deter me in the least bit. There were others that I just loved and found clever, strange or downright hilarious. This is a great one to rent if you have a small group of friends over and can watch it together.",
+         "Were as the first two entries did deliver pure gore and horror this next part in the franchise isn't the best. It do offer some gory moments but there also shorts that make you go, what is this and what has it to do with the ABC franchise. All shorts are only 3 minutes long and so you have to put all the segments to make it a horror or a watchable flick into those moments. And that's the problem with this compilation. There are parts that like the first one you are thinking oh yes, this is gonna be a hell of a ride because it did contain gore but also absurd moments. And there are a few with that kind of story. Just have a look at ABC 1 and 2. The time the short take were overall longer and you were sucked into the story. here you are left sometimes with a bitter feeling, it's like these shorts were leftovers. It do has a bit of gore here and there but I can't say that it is something of a gore galore compilation. Just another mediocre entry. Gore 1/5 Nudity 0,5/5 Effects 2,5/5 Story 2/5 Comedy 0/5"
+      ],
+      "genres": [
+         "Comedy",
+         "Horror"
+      ],
+      "productionCompanies": ["Borrowtime"],
+      "summaries": ["This is NOT ABCs of Death 3. ABCs of Death 2.5 showcases an additional top 26 finalists, providing fans 85 minutes of unadulterated madness."],
+      "budget": 0
+   },
+   "movielensId": 162304,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2016-08-02",
+      "dvdReleaseDate": null,
+      "directors": [
+         "Maria Ivanova",
+         "Tim Rutherford",
+         "Cody Kennedy",
+         "Christopher Younes",
+         "Dante Vescio",
+         "Rodrigo Gasparini",
+         "Summer Johnson",
+         "Peter Czikrai",
+         "Michael Schwartz",
+         "Steve Daniels",
+         "Zac Blair",
+         "Eric Pennycoff",
+         "Todd Freeman",
+         "Jeff Stewart",
+         "Gigi Saul Guerrero",
+         "Wolfgang Matzl",
+         "Ama Lea",
+         "Lloyd Staszkiewicz",
+         "Joe Staszkiewicz",
+         "Carlos Faria",
+         "Nicholas Humphries",
+         "Brett Glassberg",
+         "Álvaro Núñez",
+         "Barış Erdoğan",
+         "Carles Torrens",
+         "Travis Betz",
+         "Peter Podgursky",
+         "Mia Kate Russell",
+         "Jason Koch",
+         "Clint Kelly"
+      ],
+      "runtime": 85,
+      "movieId": 162304,
+      "title": "ABCs of Death 2.5",
+      "mpaa": "R",
+      "actors": [
+         "Ali Arslan",
+         "Ilker Arslan",
+         "Anastasia Baranova",
+         "Dani Barker",
+         "John Beck",
+         "Beat Billson",
+         "David Blanka",
+         "Juan Bravo Jr.",
+         "Wesley Braxton",
+         "Don Bridges",
+         "Kevin Byrd",
+         "Judit Bárdos",
+         "Mace Coronel",
+         "Myles Dobson",
+         "Michael Draper",
+         "Michelle Ferguson",
+         "Brooke J. Ferrell",
+         "Adrian Gaeta",
+         "Lawrence R. Greenberg",
+         "Jensen Jacobs",
+         "Sophia Johnson",
+         "Emi Kamito",
+         "Gabriela Marcinková",
+         "Ênio Gonçalves",
+         "Carolyn Purdy-Gordon"
+      ],
+      "imdbMovieId": "5647758",
+      "originalTitle": "ABCs of Death 2.5",
+      "genres": ["Horror"],
+      "youtubeTrailerIds": ["j29asI2_Lz4"],
+      "plotSummary": "An anthology of 26 fan entries submitted for inclusion in ABCs of Death 2, each offering various takes on the letter \"M\"",
+      "tmdbMovieId": 248781,
+      "avgRating": 2.2,
+      "releaseYear": "2016",
+      "numRatings": 5,
+      "posterPath": "/mmtQE4p3fZGnQFOEZ1x9tEM4hL8.jpg"
+   }
+}

@@ -1,0 +1,498 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "murder",
+            "id": 9826
+         },
+         {
+            "name": "mystery",
+            "id": 10092
+         },
+         {
+            "name": "cooks",
+            "id": 215526
+         }
+      ],
+      "imdb_id": "tt0078488",
+      "video": false,
+      "title": "Who Is Killing the Great Chefs of Europe?",
+      "recommendations": [
+         6078,
+         54797,
+         41253,
+         52083,
+         225888,
+         31785,
+         14584,
+         38606,
+         65066,
+         3486,
+         37103,
+         24429,
+         33076,
+         67772,
+         42719,
+         57565,
+         25113,
+         24214,
+         76516,
+         30278
+      ],
+      "backdrop_path": "/4kaxhy26sphwNhPz0to6WgggBea.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Robby Ross",
+               "gender": 2,
+               "credit_id": "52fe45f5c3a36847f80e43a7",
+               "name": "George Segal",
+               "profile_path": "/oUUcGtlQYC0HMI3yMmO713kDdGT.jpg",
+               "id": 18364,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Natasha O'Brien",
+               "gender": 1,
+               "credit_id": "52fe45f5c3a36847f80e43ab",
+               "name": "Jacqueline Bisset",
+               "profile_path": "/ys2YfG4d26jUiGvok0jplWgUhzP.jpg",
+               "id": 14061,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "Maximilian Van Devere",
+               "gender": 2,
+               "credit_id": "52fe45f5c3a36847f80e43af",
+               "name": "Robert Morley",
+               "profile_path": "/7R4jQRl8CTFYCYpiQ1O2AjYtiK6.jpg",
+               "id": 6599,
+               "order": 2
+            },
+            {
+               "cast_id": 5,
+               "character": "Louis Kohner",
+               "gender": 2,
+               "credit_id": "52fe45f5c3a36847f80e43b3",
+               "name": "Jean-Pierre Cassel",
+               "profile_path": "/yWIAIvRdx0omV9ZOUwLINzHKois.jpg",
+               "id": 19162,
+               "order": 3
+            },
+            {
+               "cast_id": 6,
+               "character": "Jean-Claude Moulineau",
+               "gender": 2,
+               "credit_id": "52fe45f5c3a36847f80e43b7",
+               "name": "Philippe Noiret",
+               "profile_path": "/13vb0RuOI0t8I1y04pnz81vLptl.jpg",
+               "id": 24366,
+               "order": 4
+            },
+            {
+               "cast_id": 7,
+               "character": "August Grandvilliers",
+               "gender": 2,
+               "credit_id": "52fe45f5c3a36847f80e43bb",
+               "name": "Jean Rochefort",
+               "profile_path": "/A8sLBA6ITG4fhNfziJoHT3iNn2J.jpg",
+               "id": 24421,
+               "order": 5
+            },
+            {
+               "cast_id": 8,
+               "character": "Ravello",
+               "gender": 2,
+               "credit_id": "52fe45f5c3a36847f80e43bf",
+               "name": "Gigi Proietti",
+               "profile_path": "/d2g1e844Eh600IH3es6jzZqyOFz.jpg",
+               "id": 109143,
+               "order": 6
+            },
+            {
+               "cast_id": 9,
+               "character": "Fausto Zoppi",
+               "gender": 2,
+               "credit_id": "52fe45f5c3a36847f80e43c3",
+               "name": "Stefano Satta Flores",
+               "profile_path": "/nImHVCOZfPb26whMAN3V1f6XzQM.jpg",
+               "id": 24606,
+               "order": 7
+            },
+            {
+               "cast_id": 10,
+               "character": "Beecham",
+               "gender": 1,
+               "credit_id": "52fe45f5c3a36847f80e43c7",
+               "name": "Madge Ryan",
+               "profile_path": null,
+               "id": 39033,
+               "order": 8
+            },
+            {
+               "cast_id": 11,
+               "character": "Blodgett",
+               "gender": 2,
+               "credit_id": "52fe45f5c3a36847f80e43cb",
+               "name": "Frank Windsor",
+               "profile_path": "/bWPxwFuJE86uudIWizruO6Rb46P.jpg",
+               "id": 190526,
+               "order": 9
+            },
+            {
+               "cast_id": 12,
+               "character": "St. Claire",
+               "gender": 2,
+               "credit_id": "52fe45f5c3a36847f80e43cf",
+               "name": "Peter Sallis",
+               "profile_path": "/8vMFK2SJFzQbtEIj4FU7adyhCGM.jpg",
+               "id": 7317,
+               "order": 10
+            },
+            {
+               "cast_id": 13,
+               "character": "Doyle",
+               "gender": 2,
+               "credit_id": "52fe45f5c3a36847f80e43d3",
+               "name": "Tim Barlow",
+               "profile_path": "/9rSiw99ubAbRBUSSYE1fptMxb1J.jpg",
+               "id": 79875,
+               "order": 11
+            },
+            {
+               "cast_id": 14,
+               "character": "Dr. Deere",
+               "gender": 2,
+               "credit_id": "52fe45f5c3a36847f80e43d7",
+               "name": "John Le Mesurier",
+               "profile_path": "/42H9hrRtpFrQ7LFlBr8AnHfgDnr.jpg",
+               "id": 14264,
+               "order": 12
+            },
+            {
+               "cast_id": 15,
+               "character": "Cantrell",
+               "gender": 2,
+               "credit_id": "52fe45f5c3a36847f80e43db",
+               "name": "Joss Ackland",
+               "profile_path": "/l7XyBslyU5slMUuO9zTjCRZKXex.jpg",
+               "id": 14324,
+               "order": 13
+            },
+            {
+               "cast_id": 16,
+               "character": "Salpetre",
+               "gender": 2,
+               "credit_id": "52fe45f5c3a36847f80e43df",
+               "name": "Jean Gaven",
+               "profile_path": "/uUybDrQ80cEC9TA34GBr4Pt9Ji6.jpg",
+               "id": 36210,
+               "order": 14
+            },
+            {
+               "cast_id": 25,
+               "character": "Marcel Massanet",
+               "gender": 2,
+               "credit_id": "55e12fb7c3a3682cb4001093",
+               "name": "Jacques Marin",
+               "profile_path": "/vDHb0ktErwMAmdYzSW7o5rsfnZE.jpg",
+               "id": 26890,
+               "order": 15
+            },
+            {
+               "cast_id": 26,
+               "character": "Counterman",
+               "gender": 2,
+               "credit_id": "589618afc3a36808ae00b912",
+               "name": "Nigel Havers",
+               "profile_path": "/hZNkoh83CUAlOmqMwAz7i1jwWgi.jpg",
+               "id": 53517,
+               "order": 16
+            },
+            {
+               "cast_id": 27,
+               "character": "Asst. Director",
+               "gender": 2,
+               "credit_id": "589618d1c3a368089f00d13b",
+               "name": "Struan Rodger",
+               "profile_path": "/qDE0jrAyMzChwwP9x0YlBIvAGrq.jpg",
+               "id": 137927,
+               "order": 17
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe45f5c3a36847f80e43a3",
+               "name": "Ted Kotcheff",
+               "profile_path": "/r4rMwZeClwJR2VCgvYsNjLOTXpB.jpg",
+               "id": 16544,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "543a724d0e0a2649a8002b91",
+               "name": "Nan Lyons",
+               "profile_path": null,
+               "id": 1373180,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 0,
+               "credit_id": "543a725bc3a36819a50028f9",
+               "name": "Ivan Lyons",
+               "profile_path": null,
+               "id": 1373181,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 2,
+               "credit_id": "543a7266c3a36819a50028fd",
+               "name": "Peter Stone",
+               "profile_path": null,
+               "id": 41712,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "543a72740e0a2649a1002bd3",
+               "name": "William Aldrich",
+               "profile_path": null,
+               "id": 41157,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "543a727e0e0a2649b6002a86",
+               "name": "Henry Mancini",
+               "profile_path": "/sXl1lCYNnSf10ESG1nyCEDYGs1L.jpg",
+               "id": 1938,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "543a7291c3a36819a5002903",
+               "name": "Thom Noble",
+               "profile_path": "/pl35WClWJFiuBao1dTMoV4PaxOj.jpg",
+               "id": 17399,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54437e220e0a26633d004498",
+               "name": "John Alcott",
+               "profile_path": null,
+               "id": 2286,
+               "department": "Camera",
+               "job": "Director of Photography"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         },
+         {
+            "name": "Mystery",
+            "id": 9648
+         }
+      ],
+      "popularity": 2.376377,
+      "production_countries": [
+         {
+            "iso_3166_1": "FR",
+            "name": "France"
+         },
+         {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+         },
+         {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+         },
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         }
+      ],
+      "id": 42216,
+      "vote_count": 20,
+      "budget": 0,
+      "overview": "Mystery abounds when it is discovered that, one by one, the greatest Chefs in Europe are being killed. The intriguing part of the murders is that each chef is killed in the same manner that their own special dish is prepared in. Food critics and the (many) self-proclaimed greatest Chefs in Europe demand the mystery be solved.",
+      "similar": [
+         357096,
+         15069,
+         984,
+         8090,
+         4771,
+         96,
+         75780,
+         948,
+         807,
+         445954,
+         21484,
+         10651,
+         11423,
+         2749,
+         123109,
+         18587,
+         7007,
+         285840,
+         26390,
+         15762
+      ],
+      "original_title": "Who Is Killing the Great Chefs of Europe?",
+      "runtime": 112,
+      "poster_path": "/csSrX4cUku8efuMzwOYaFqYZc6m.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Italiano",
+            "iso_639_1": "it"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Geria Productions",
+            "id": 11333,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Aldrich Company",
+            "id": 35140,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Bavaria Film",
+            "id": 1704,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Lorimar Productions",
+            "id": 898,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1978-09-13",
+      "vote_average": 6,
+      "belongs_to_collection": null,
+      "tagline": "The Mystery-Comedy That Tasted as Good as It Looks",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Ted Kotcheff"],
+      "runtime": 112,
+      "synopsis": null,
+      "writers": [
+         "Nan Lyons",
+         "Ivan Lyons"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0078488/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTU3NjgxMjc3MV5BMl5BanBnXkFtZTYwNDE1MTk5._V1_SX214_AL_.jpg",
+      "actors": ["Stars: George Segal, Jacqueline Bisset, Robert Morley | See full cast and crew »"],
+      "reviews": [
+         "This one is going to make it to the roster of all-time great comedies. Its sheer classiness and the elegant level of its wit on both the verbal and visual level - so different from the crassness and vulgarity of much American comedy (the more so in recent years) - made me suspect an English touch, and sure enough, the Canadian-born director, Ted Kotcheff, made his career in the UK. Jacqueline Bissett is a delight to the eye and George Segal makes a charmingly roguish screen presence; they work wonderfully off each other. But Robert Morley - perfectly cast - runs away with the whole movie with his acerbically comic portrayal of the gourmet-cum-gourmand Max. The wonderfully funny food references throughout, and the gorgeous cinematography of European locales put the icing on this comic eclair. And, just for good measure, first-time viewers will have a devil of a time trying to decide just who is killing the great chefs of Europe. This ranks right up there with the best of the Ealing Studios work. A must-see for connoisseurs of literate comedy.",
+         "\"Who Is Killing the Great Chefs of Europe?\" offers up a tasty recipe, combining mystery with laughs. This movie is peppered with colorful characters, such as Max, the snobbish English gourmand magazine editor, Robbie, the brash American fast food magnate, and a host of eccentric chefs. And you also get a feast for the eyes, with colorful views of London, Paris and Venice, and lush images of haute cuisine. This movie is satisfying, and perhaps will leave you hungry for more!",
+         "This is one of those often overlooked comedy gems, which people miss probably because of the title. George Segal is a riot as the entrepreneur ex-husband of Pastry Chef Jacquline Bisset, who is chasing her around Europe to get her to be the Spokes person for his latest Food chain of restaurants called \"H-Dumpty\" Bisset's character is one of four chefs being honored by being invited to create part of a fabulous meal for the Queen of England, set up by a very Obese Robert Morley, as the acerbic and insulting Editor-in-chief and Publisher of a first class gourmet magazine. But after the great dinner someone starts bumping off the four chefs in the manner of their own specialties. The suspects include Segal and other envious chefs not invited to participate in the historic event. Bisset becomes rather concerned when she realizes that she is the last name on the list. From there the mayhem and madcap comedy ensues. Let the game begin.",
+         "This is one of those rare comedies that doesn't become dated and stale over time. The European air of this film keeps the pacing smooth and interesting and fortunately George Segal doesn't try to take over the picture. Robert Morley is fantastic in a tour de force performance as the world's largest and greatest food snob-a total snot who lives very moment filled with food, dry wit and sarcasm. The food looks great and one should definitely have snacks handy when indulging in this fine film. As for the whodunit? When the killer was finally revealed I had guessed wrong and enjoyed every moment. I should note that this fine comedy can often be difficult to locate for viewing in the USA and I have never seen a sharp DVD print -- still this film will make you smile and laugh and is well worth seeking out.",
+         "I dimly remembered this culinary comedy from the late 70s without much affection, until a friend decided to bring along a video to be shown after a Thanksgiving dinner last year. It's a great idea. Stuff yourself and then take a movie break before dessert. Nothing too heavy--preferably something light and frothy. I'm glad we did. This is an adorable movie, and I don't know why it didn't strike me that way the first time around. Maybe it was the horrible and dated costumes designed for Jacqueline Bissett. How does one take one of the most beautiful women in the world, and tart her up in the most ridiculous fur/leather thingies. She looks like a cheap Vegas dancer here. George Segal doesn't escape either, wearing jeans looking like he was poured into them and cowboy hats, he looks like the sweet Jewish boy he is, playing in Daddy's clothing. The heart of the movie is the wonderful Robert Morely, who plays a gleefully glutinous gourmand and food editor who between bites insults just about anyone coming towards him. Only Jacqueline Bissett manages to escape his wrathful tongue. I'm not complaining. Morely is a total delight as the misanthropic epicurian monster. The mystery isn't much of a mystery, and the chemistry between Bissett and Segal doesn't appear to be setting off many sparks. But you can waste your time on far worse things than this modest delight, filmed all over Europe. The food looks great, and oh that nasty Morely!",
+         "The mystery is the thing. Some of the greatest Chef's of England and the Continent are being murdered all around and no one knows why. But everyone certainly knows how for all of them, whoops, wont tell more don't want to spoil any second of this movie. But yep this is a real serious murder mystery alright! The fun is in the timing, these are some of the best actors of the times. Finest of their times to be honest. Whether handsome, beautiful or ugly, that is immaterial. They are all consummate actors, ACTING and creating the characters we either grow to love, hate, loath or find funny as hell. BUT no matter how we react to them, they do what great actors do, they make the viewers really believe in them. The comedy and the black humor are a mix of Keystone Cops and Burns and Alan craziness. Take it for the fun it is and enjoy the movie with friends. A party is in order for this one, good wine, cheeses, fancy deserts and a little sinister fun.",
+         "I noted that the only award recognition that Who Is Killing The Great Chefs Of Europe was from the Golden Globes with nominations for Jacqueline Bisset as Best Actess and Robert Morley as Best Supporting Actor. That was a mistake because this film is totally dominated by Robert Morley giving him a great role to chew on literally. During the Sixties and Seventies Robert Morley became an international symbol of the United Kingdom with his commercials for British Airways and his promise that 'we'll take very good care of you' made to the world. I have no doubt that the films he appeared in and some of them were dreadful got a bit more revenue at the box office with Morley's appearances. But this film is far from dreadful. In fact if you like Robert Morley this film is a treat for his fans everywhere. In this black comedy Morley plays a food critic who has the first requisite of being a food critic, he loves to eat. And he's got the girth to prove it. But along with all that good eating comes some health problems and his doctor says he has to go on a diet or else. Right after that several of the chefs around Europe whose dish specialties have become Morley's favorites start dying in some very bizarre ways. On the list is Jacqueline Bisset whose specialty is pastries as desserts and there is a special method of dispatch earmarked for her. Never fear Jackie has a protector in George Segal who is restaurateur/tycoon and coincidentally happens to be once married to Bisset. Can Segal figure it out, can the police figure it out, can he save the last of the great chefs? For all that you must watch the film. But I guarantee that the laughs are there, the European photographed scenery is great, and Robert Morley is in top form. For his fans especially, this film is a must. Definitely in the top five of his best roles.",
+         "I love this movie and I loved it when I first saw it come out back in 1978. It has dated well and I am amazed - astounded if you will - by the lack of love a film like this has received on here. Sure it has mostly good reviews, but it(at this point in time) has only 10 reviews. 10? TEN! That is all a film like this with an incredibly witty script, a couple A-listers like George Segal and beautiful Jacqueline Bisset, a catchy musical score by Henry Mancini, artful comedic direction by Ted Kotcheff, and a Tour-De-Force performance by Robert Morley - alone reason enough to see this film. All the previous reasons I listed make this film a whole lot of fun. Kotcheff has skills and creates a solid mystery amidst some pretty funny situations and even more importantly really witty dialog. There are a couple of scenes(okay, the food fight scene near the beginning of the film) that are a little too over-the-top, but how about the zippy repartee between Segal and Bisset(did I mention how absolutely gorgeous she is?) What about the wonderful character acting by the likes of Jean-Pierre Cassel and one of the dead chefs or that of Phillipe Noiret or Madge Ryan or Jean Rochefort or even some small character parts like those played by Gigi Proietti as an Italia detective, Frank Windsor as an irritable Scotland Yard inspector, Peter Sallis and an irritable French chef, Joss Ackland as a snooty chef working for the queen, or John Le Mesurier as a doctor to Max, the obese, gluttonous, selfish gourmand whose magazine published an article about the world's most fabulous meal. This meal and its quartet of chefs become targets for a killer out to kill the great chefs of Europe in the style of their own expertise. We get a cook simmered like his pigeons and one having his crushed in a duck press just as examples. The mystery part created by Ivan and Nan Lyons is wonderfully weaved and wonderfully written for this film and its great performances are all pulled together by the wit it generates. And most of that wit is carried on the gargantuan shoulders of Robert Morley as max who utters lines with perfection. I can watch this film again and again if for no other reason than to see/hear Morley's performance. He is that good. I believe this was an Oscar-worthy performance. Every line is a verbal thrust and parry for his razor-sharp tongue line with acid. Morley is a treat to see as he makes himself even more huge in a larger -than-life role as Max. Just listen to that speech he gives in the doctor's office about every fold of his fat being a brush-stroke and every chin a concerto. Wow! Who Is Killing the Great Chefs of Europe? is a fun, exciting film mixing comedy with class.",
+         "Without the well-fed likes of Robert Morley as an elephantine gourmet, \"First Blood\" director Ted Kotcheff's \"Who Is Killing the Great Chefs of Europe,\" a lively whodunit with class, wouldn't be half as much fun. Morley commands attention throughout with his witty dialogue and his snobbishly insouciant sense of over-refinement. Early in the movie, Max (Robert Morley of \"When Eight Bells Toll\") grimaces when his physician advises him to diet or die! Instead of shock, Max registers a pained look of indignation on his cherub's face that is genuinely funny. \"I am precisely what I am,\" Max explains, \"because I have eaten my way to the top.\" As the title implies, the plot concerns a menu of murdered chefs and other unjust desserts, all of which are deliciously served up. When several chefs are found cooked in their own cuisines, dessert chef Natasha (Jacqueline Bisset of \"Bullitt\" in an array of chic attire) learns that her fellow bakers were dispatched the way you would dine. This means she's the next to die, but not if her fast foods expert and ex-husband, Robby (George Segal of \"Where's Poppa?\") can help matters. Robby and Natasha set off to solve the mystery on cooked corpses that leads them across Europe. The action is set against the scenic cities of London, Paris, and Venice, all of which lenser John Alcott has filmed in bright but somber colors that prove a visual feast for the eyes. Kudos are in order for Canadian helmer Ted Kotcheff. Although several ghastly murders occur, he keeps the gore off-screen and leaves it to your imagination. He also keeps the mystery unreeling at a breathless pace, building up a full head of suspense along the way as the murderer closes in for the big kill. The entire cast here is in fine comic form, and their timing and dialogue delivery are impeccable. If there are a few red herrings too many, the outcome is nevertheless satisfying. Overall, \"Who Is Killing the Great Chefs of Europe\" is a very stylish exercise in serio-comic murder mysteries a la Agatha Christie.",
+         "I loved this delightful farce, when it came out in the theaters, decades ago. Segal, Bisset, and Morley, are a joy to watch. I waited for years fro the DVD format to hit the shelves. What a disappointing experience. The disc is not letterbox, nor closed captioned, there is NO Menu, and looks no better than a VSH tape. There is a disclaimer, in fine print, that the DVD will only play on DVD \"Play only\" devices, and may not play on your PC. WD cheaped out on this product. The story is filled with fine foods, kitchen antics, and rapid fire funnies. It was filmed on location all over Europe. The grizzly murders,are shocking. The many characters are played broadly, but then this a comedy. Well worth your time."
+      ],
+      "genres": [
+         "Comedy",
+         "Mystery",
+         "Crime"
+      ],
+      "productionCompanies": [
+         "Aldrich Company",
+         "Bavaria Film",
+         "Geria Productions"
+      ],
+      "summaries": ["Mystery abounds when it is discovered that, one by one, the greatest Chefs in Europe are being killed. The intriguing part of the murders is that each chef is killed in the same manner that their own special dish is prepared in. Food critics and the (many) self-proclaimed greatest Chefs in Europe demand the mystery be solved."],
+      "budget": 0
+   },
+   "movielensId": 110177,
+   "movielens": {
+      "languages": [
+         "English",
+         "Italiano"
+      ],
+      "releaseDate": "1978-10-06",
+      "dvdReleaseDate": null,
+      "directors": ["Ted Kotcheff"],
+      "runtime": 112,
+      "movieId": 110177,
+      "title": "Who Is Killing the Great Chefs of Europe?",
+      "mpaa": "",
+      "actors": [
+         "George Segal",
+         "Jacqueline Bisset",
+         "Robert Morley",
+         "Jean-Pierre Cassel",
+         "Philippe Noiret",
+         "Jean Rochefort",
+         "Gigi Proietti",
+         "Stefano Satta Flores",
+         "Madge Ryan",
+         "Frank Windsor",
+         "Peter Sallis",
+         "Tim Barlow",
+         "John Le Mesurier",
+         "Joss Ackland",
+         "Jean Gaven",
+         "Jacques Marin",
+         "Nigel Havers",
+         "Struan Rodger"
+      ],
+      "imdbMovieId": "0078488",
+      "originalTitle": "Who Is Killing the Great Chefs of Europe?",
+      "genres": [
+         "Comedy",
+         "Thriller",
+         "Mystery"
+      ],
+      "youtubeTrailerIds": [],
+      "plotSummary": "Mystery abounds when it is discovered that, one by one, the greatest Chefs in Europe are being killed. The intriguing part of the murders is that each chef is killed in the same manner that their own special dish is prepared in. Food critics and the (many) self-proclaimed greatest Chefs in Europe demand the mystery be solved.",
+      "tmdbMovieId": 42216,
+      "avgRating": 2.92857,
+      "releaseYear": "1978",
+      "numRatings": 7,
+      "posterPath": "/2guAssTbF0vc6SzBVSBV1PhvY9K.jpg"
+   }
+}

@@ -1,0 +1,430 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "self-awareness",
+            "id": 2417
+         },
+         {
+            "name": "self-discovery",
+            "id": 2796
+         },
+         {
+            "name": "only child",
+            "id": 4555
+         },
+         {
+            "name": "family relationships",
+            "id": 10235
+         }
+      ],
+      "imdb_id": "tt1213825",
+      "video": false,
+      "title": "Love Hurts",
+      "recommendations": [
+         126302,
+         38044,
+         54156,
+         87822,
+         312056,
+         51177,
+         38981,
+         172469,
+         30302,
+         31896,
+         56965,
+         27444,
+         14063,
+         18035,
+         76297,
+         53604,
+         48017,
+         13065,
+         115446,
+         113693
+      ],
+      "backdrop_path": "/dKMzyy3s3H5Hmsqw9Q75dXHikIB.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Amanda Bingham",
+               "gender": 1,
+               "credit_id": "52fe44adc3a368484e030b9b",
+               "name": "Carrie-Anne Moss",
+               "profile_path": "/6gk8GmlfjW8ONS19KMeISp8Cqxf.jpg",
+               "id": 530,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Ben Bingham",
+               "gender": 2,
+               "credit_id": "52fe44adc3a368484e030b9f",
+               "name": "Richard E. Grant",
+               "profile_path": "/jMnSjjPQwCOAJ1kPRXLbh0WnsPa.jpg",
+               "id": 20766,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Young Amanda Bingham",
+               "gender": 1,
+               "credit_id": "52fe44adc3a368484e030ba3",
+               "name": "Julia Voth",
+               "profile_path": "/qow3C9ToJLP76gxDBUxCY10ryTC.jpg",
+               "id": 96081,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Hannah Rosenbloom",
+               "gender": 1,
+               "credit_id": "52fe44adc3a368484e030ba7",
+               "name": "Janeane Garofalo",
+               "profile_path": "/jwZs05qdp8kh6IwfECxDyRrteK8.jpg",
+               "id": 21197,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Gloria",
+               "gender": 1,
+               "credit_id": "52fe44adc3a368484e030bab",
+               "name": "Camryn Manheim",
+               "profile_path": "/baUSk3l2bcmxGvIpifFAyHq2v28.jpg",
+               "id": 20187,
+               "order": 5
+            },
+            {
+               "cast_id": 7,
+               "character": "Curtis",
+               "gender": 2,
+               "credit_id": "52fe44adc3a368484e030baf",
+               "name": "Jeffrey Nordling",
+               "profile_path": "/qLEiNpTGAoizKW9nzINSlrg9d2h.jpg",
+               "id": 24048,
+               "order": 6
+            },
+            {
+               "cast_id": 8,
+               "character": "Wanda",
+               "gender": 1,
+               "credit_id": "52fe44adc3a368484e030bb3",
+               "name": "Caroline Aaron",
+               "profile_path": "/9v9h9bR4CX6MrpZFgEktTHFIlgT.jpg",
+               "id": 1910,
+               "order": 7
+            },
+            {
+               "cast_id": 9,
+               "character": "Valeriya",
+               "gender": 1,
+               "credit_id": "52fe44adc3a368484e030bb7",
+               "name": "Olga Fonda",
+               "profile_path": "/j1qabOHf3Pf82f1lFpUmdF5XvSp.jpg",
+               "id": 111206,
+               "order": 8
+            },
+            {
+               "cast_id": 22,
+               "character": "Sharon",
+               "gender": 1,
+               "credit_id": "52fe44aec3a368484e030bfd",
+               "name": "Candice King",
+               "profile_path": "/cd3IguIkjP9R1WftnwY86zCq76c.jpg",
+               "id": 85144,
+               "order": 9
+            },
+            {
+               "cast_id": 26,
+               "character": "Layla",
+               "gender": 1,
+               "credit_id": "57d51161c3a36814da004380",
+               "name": "Angela Sarafyan",
+               "profile_path": "/wJoJLYaSpRF9Ihca1reca1uR9he.jpg",
+               "id": 85143,
+               "order": 10
+            },
+            {
+               "cast_id": 27,
+               "character": "Trev",
+               "gender": 0,
+               "credit_id": "58090c93c3a36872d600a940",
+               "name": "Max Van Ville",
+               "profile_path": "/13DW36TmuR518O4GuH42J5AlMDs.jpg",
+               "id": 76008,
+               "order": 11
+            },
+            {
+               "cast_id": 28,
+               "character": "Darlene",
+               "gender": 1,
+               "credit_id": "58b04eaf9251411a5c00e820",
+               "name": "Jenna Elfman",
+               "profile_path": "/lY4pLueI0eMmgBXVfw5xw9jysHM.jpg",
+               "id": 40279,
+               "order": 12
+            }
+         ],
+         "crew": [
+            {
+               "gender": 1,
+               "credit_id": "52fe44adc3a368484e030bbd",
+               "name": "Barra Grant",
+               "profile_path": null,
+               "id": 111207,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44adc3a368484e030bc3",
+               "name": "Brian Reilly",
+               "profile_path": null,
+               "id": 56644,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe44adc3a368484e030bc9",
+               "name": "Laura Hopper",
+               "profile_path": null,
+               "id": 111210,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44adc3a368484e030bcf",
+               "name": "Sara Mattison",
+               "profile_path": null,
+               "id": 111211,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44adc3a368484e030bd5",
+               "name": "Michael O. Gallant",
+               "profile_path": null,
+               "id": 111212,
+               "department": "Production",
+               "job": "Line Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44adc3a368484e030bdb",
+               "name": "Alan Caso",
+               "profile_path": null,
+               "id": 22057,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44aec3a368484e030be1",
+               "name": "Roger Bondelli",
+               "profile_path": null,
+               "id": 17164,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44aec3a368484e030be7",
+               "name": "Dina Lipton",
+               "profile_path": null,
+               "id": 11373,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe44aec3a368484e030bf3",
+               "name": "Emily Schweber",
+               "profile_path": null,
+               "id": 22059,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe44aec3a368484e030bf9",
+               "name": "Barra Grant",
+               "profile_path": null,
+               "id": 111207,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56355d0ac3a3681b5901845b",
+               "name": "Frankie Pine",
+               "profile_path": null,
+               "id": 111213,
+               "department": "Sound",
+               "job": "Music Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56355d1a92514129fe00afc2",
+               "name": "Mark Adler",
+               "profile_path": null,
+               "id": 3278,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56355d429251413b4600acae",
+               "name": "Johanna Argan",
+               "profile_path": null,
+               "id": 1037987,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 2.538143,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 24881,
+      "vote_count": 15,
+      "budget": 0,
+      "overview": "After his wife leaves him, middle-aged Ben Bingham slips into a funk and refuses to change out of his pajamas. Justin, Ben's 17-year-old son, has the cure for what ails his depressed dad: he gives Ben a makeover and pushes him out into the singles scene. Soon Ben is the most popular guy in town, but when Justin falls in love for the first time, Ben must refocus his priorities and set about trying to win back his wife.",
+      "similar": [
+         112160,
+         13,
+         5915,
+         11007,
+         333348,
+         24684,
+         11216,
+         1547,
+         11631,
+         10830,
+         40807,
+         49519,
+         82702,
+         41630,
+         858,
+         35,
+         425,
+         93456,
+         55721,
+         137106
+      ],
+      "original_title": "Love Hurts",
+      "runtime": 95,
+      "poster_path": "/lPRERGiVoS6hwFSFSEge4XgRXpT.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "Pageant Productions",
+         "id": 5336,
+         "origin_country": ""
+      }],
+      "release_date": "2009-11-13",
+      "vote_average": 5.2,
+      "belongs_to_collection": null,
+      "tagline": "A painfully romantic comedy.",
+      "adult": false,
+      "homepage": "http://www.lovehurts-movie.com/",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Barra Grant"],
+      "runtime": 90,
+      "synopsis": "Richard E. Grant (star of \"Gosford Park\") plays Dr. Ben Bingham, a middle-aged ear, nose, and throat doctor. Carrie-Anne Moss (known for her role in The Matrix trilogy) plays Amanda, his vibrant wife. Amanda leaves Ben when the idea of sharing an empty nest with her inattentive husband becomes unbearable. Ben becomes depressed and tries to drown himself in alcohol. He walks around in pajamas until his son Justin (Johnny Pacar) give his dad a makeover and introduces him to the social scene. Before long, Ben becomes so popular that he is pursued by his nurse, his personal trainer, and karaoke-loving twin sisters. However, things quickly change when Justin finds himself in love. It is now Bens turn to teach his son the art of romance and in the process recapture his own wife's love.",
+      "writers": ["Barra Grant"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt1213825/",
+      "coverLink": "https://ia.media-imdb.com/images/M/MV5BMTc5MDYyMjM3MF5BMl5BanBnXkFtZTcwMTE5OTI1NA@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "actors": [
+         "Richard E. Grant",
+         "Carrie-Anne Moss",
+         "Johnny Pacar"
+      ],
+      "reviews": [
+         "...unless you count the pain in your cheeks from laughing too much. I certainly had from time to time. Anyhow, when I heard about this movie I seriously thought that it will be just another heartache, breakup, deep-thinking, insert-any-cheap-cliché-here movie, because of the title. I mean, movies with such titles usually smells like recycling the same old breakup story we've all heard for about one hundred times, if not more. The opening scene just made my bad feeling stronger with his \"You've gone heavy on the cheese, honey\" and her bath robe, and the flowers on the sidewalk. Boy, was I wrong...This movie is damn hilarious! It made me laugh so hard that if I was having milk, I'm sure it'd have blew trough my nose. The father - son relationship didn't left me with the awkward feeling of something unreal, god no, I wish everybody could have a dad like that. Mom could have had a bit more time in the movie, but this was close to perfect, in my eyes. Loved it, the craziness, lightness, the way it was always fun and alive and made you cry because of laughing, not because of sadness. Besides, dad's hot. A 9 from me, definitely go watch it, it'll make your day!",
+         "Love hurts, and divorce hurts too, especially if you're so self-absorbed that you have no idea what's happening. Moving on also hurts when you're completely clueless about how regular people in society operate. \"Love Hurts\", the film, is a comedy, but it also hurts because the hackneyed jokes are more painful than funny. None of the characters (the ex-wife, the sex-crazed assistant, or the candid son) were thought out at all. They were empty, annoying, and unintentionally more clueless than Ben, our \"hero\". I came close to liking Ben. Richard E. Grant can pull off sarcasm with aplomb, and he has a look that you can laugh at even when he's drunk and contemptible. But it takes a significantly better written film than this to successfully have an anti-hero hero. \"Love Hurts\" doesn't have anything original, and nothing particularly funny. Most characters didn't make much sense, but they also weren't written as people, they were walking, talking jokes\u2014which unfortunately didn't even provide any laughs. Grant brought everything he could to the character of Ben, and you can almost watch the film for him, but I would just recommend finding him in something else instead.",
+         "A movie about divorce, realizing what is important and the bond between a father and son. After his wife (Moss) leaves Dr. Bingham (Grant) he goes into a deep depression. With help from his son Dr. Bingham changes his image and starts dating again and seems happy. When his son falls in love he puts his plans on hold and helps his son, and learns more about his wife in the process. This movie is really funny and unexpectedly touching in parts. Dr. Bingham thinks only of himself until his son falls in love and then the bond between him and his son starts to grow and it is fun to watch how they interact with each other. This movie was very surprising one of the funniest movies that has come out in the last few months. I give it a B.",
+         "i just saw this movie and believe me i love it.its a really nice comedy movie,all the characters,all the actors and actresses are great,acting was really good,in fact whole movie is really great,specially i love the part of the son Johnny Pacar(Justin Bingham) and a part of father Richard E. Grant(Ben Bingham)they were both totally great,both of them done an amazing job in this movie.The plot of the movie is great,it is something,that will grab you from the chair in whole movie.well now i don't have much to say as usual but i hope my comment will useful to all the people,who they will see later. i rate this movie 10/10",
+         "Stop me if you've heard this plot before: Wife leaves hubby because he's become too boring and inattentive. Hubby must somehow reconnect with the youthful self she fell in love with in order to win her back. In the interim, the writer and director have to come up with a bunch of \"funny\" stuff to happen to Hubby before he finally achieves his goal. This includes him learning to be a stud and hooking up with a host of really unappealing ladies, including Jenna Elfman as his sushi-crazed secretary and Janeane Garofalo as an unorthodox Orthodox Jew. But the \"funny\" stuff is on the order of him going nuts at an 80's Karaoke night, and bowling badly while under the influence of cannabis fudge. I'd call these scenes \"funny-adjacent\" rather than funny. They're similar to scenes you'd find in a funny movie, minus the laughs. Bottom Line: Richard Grant is no Hugh Grant, but this film is watchable--just.",
+         "If you've watched the recent flood of sugar-coated, fluffed and polished, romantic comedies that have the extra filling of \"so beautiful that they almost glow\" people, complete with all the cliché you'll ever get in a movie then you'll agree with me \"Love hurts\" is very close to a breath of fresh air. I'm not saying you won't be getting a small déjà-vu sensation out of it, of course there will be, you can't have a romantic comedy if you don't have something getting broken, like in this case a marriage. I found, while I'm not an avid fan of Carrie-Anne Moss, her portrayal of a down-to-earth, strong yet unpleased and conflicted woman very convincing and from my point of view her performance was touching, elegant and all together excellent. Perhaps not as convincing but only due to his character was Richard E. Grant. I find it hard to believe a man would be so blind to begin with and so deep to end. But then again that's the character not the actor which certainly proved brit accent, blue eyes, acting skills and success don't necessarily belong only to Hugh Grant. I loved the build on the Johnny Pacar's character Justin Bingham no matter how improbable the chance of a son giving hook-up lessons to his father and being so surprisingly unaffected by the separation of it's parents. But hey, it's a movie and I hope it's one in a long list of many for Pacar. Per all it is a very good movie with lots of laughs and emotions even if, little things like the tattooed twins or the calm, effortless swing from a workaholic to a laid back person that hangs with adolescents and easts pot fudge, might have been a bit over the top. Great movie with a very true lesson, love does hurt but on occasions it's worth the pain. And even if I myself am a non-happy ending person, as in I don't like them, I have to admit I found it very satisfying.",
+         "Love Hurts? Yes it does. Richard E Grant in a romantic comedy about a married couple that separates. Wife Carrie Anne Moss Leaves her husband because he is so rigid and so set in his ways that he is never spontaneous. Helped by his son he tries to date and a way to loosen up. I like Richard E Grant but he is so insufferable here its a wonder that his marriage lasted as long as it did. He is a terrible person and seems to be having a terrible time making this movie. I really hated it for any number of reasons, but most have to do with Grant. I can not recommend this film at all, even though it does have a couple of moments.",
+         "WHAT!!! 28 year old playing 17! Who they kidding? Why do they do this? Don't they ever learn. Stop this stupidity. Use actors of the age they are playing. To use somebody almost twice the age they are supposed to be playing is ridiculous. And to the actor: why do you let them do this to you? You have no shame. Are you only in it for the money and and don't care about letting the producers and directors walk all over you? Act your age not somebody half it."
+      ],
+      "genres": [
+         "Comedy",
+         "Romance"
+      ],
+      "productionCompanies": ["Pageant Productions"],
+      "summaries": [
+         "Ben Bingham has slipped into a fossilized middle-age, unlike his vibrant wife Amanda. When she finally leaves him, Ben is at a loss. He drowns himself in gin and refuses to get out of his pajamas until his popular 17 year-old son Justin takes over. He changes Ben's \"look\" and pushes him out into the social scene. Before Ben knows what is happening, he is the most popular single man in town, pursued by his nurse, his trainer, and karaoke-singing twins. Things change when Justin falls in love for the first time and now finds his father's lifestyle incredibly superficial. Ben is forced to refocus, recapture his humanity, his heart, and most importantly his wife... who is now with another man.",
+         "A newly separated father has to learn how to date again with help from his teenage son who himself dreams of conquering one girl's heart."
+      ],
+      "budget": 2000000
+   },
+   "movielensId": 172259,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2009-11-13",
+      "dvdReleaseDate": null,
+      "directors": ["Barra Grant"],
+      "runtime": 95,
+      "movieId": 172259,
+      "title": "Love Hurts",
+      "mpaa": "PG-13",
+      "actors": [
+         "Carrie-Anne Moss",
+         "Richard E. Grant",
+         "Julia Voth",
+         "Janeane Garofalo",
+         "Camryn Manheim",
+         "Jeffrey Nordling",
+         "Caroline Aaron",
+         "Olga Fonda",
+         "Candice King",
+         "Angela Sarafyan",
+         "Max Van Ville",
+         "Jenna Elfman"
+      ],
+      "imdbMovieId": "1213825",
+      "originalTitle": "Love Hurts",
+      "genres": [
+         "Comedy",
+         "Romance"
+      ],
+      "youtubeTrailerIds": ["gc-QpR4Fpqo"],
+      "plotSummary": "After his wife leaves him, middle-aged Ben Bingham slips into a funk and refuses to change out of his pajamas. Justin, Ben's 17-year-old son, has the cure for what ails his depressed dad: he gives Ben a makeover and pushes him out into the singles scene. Soon Ben is the most popular guy in town, but when Justin falls in love for the first time, Ben must refocus his priorities and set about trying to win back his wife.",
+      "tmdbMovieId": 24881,
+      "avgRating": 3.5,
+      "releaseYear": "2009",
+      "numRatings": 2,
+      "posterPath": "/lPRERGiVoS6hwFSFSEge4XgRXpT.jpg"
+   }
+}

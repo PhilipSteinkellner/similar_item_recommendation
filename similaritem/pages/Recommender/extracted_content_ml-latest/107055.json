@@ -1,0 +1,483 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [],
+      "imdb_id": "tt0122037",
+      "video": false,
+      "title": "The Dead Pit",
+      "recommendations": [
+         25422,
+         28349,
+         193611,
+         83413,
+         34094,
+         20669,
+         29611,
+         72648,
+         27630,
+         58864,
+         87469,
+         68180,
+         171703,
+         78253,
+         85133,
+         97636,
+         37901,
+         25573,
+         172002,
+         97544
+      ],
+      "backdrop_path": "/z3rgayDr7JHwUf14NfKISB0hcdH.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 4,
+               "character": "Dr. Gerald Swan",
+               "gender": 2,
+               "credit_id": "52fe4591c3a36847f80cea11",
+               "name": "Jeremy Slate",
+               "profile_path": "/w9SPBkH6XvFSMCDCOUA28BIZGgN.jpg",
+               "id": 78690,
+               "order": 0
+            },
+            {
+               "cast_id": 5,
+               "character": "Jane Doe",
+               "gender": 0,
+               "credit_id": "52fe4591c3a36847f80cea15",
+               "name": "Cheryl Lawson",
+               "profile_path": null,
+               "id": 169449,
+               "order": 1
+            },
+            {
+               "cast_id": 6,
+               "character": "Christian Meyers",
+               "gender": 0,
+               "credit_id": "52fe4591c3a36847f80cea19",
+               "name": "Stephen Gregory Foster",
+               "profile_path": null,
+               "id": 169457,
+               "order": 2
+            },
+            {
+               "cast_id": 7,
+               "character": "Dr. Colin Ramzi",
+               "gender": 0,
+               "credit_id": "52fe4591c3a36847f80cea1d",
+               "name": "Danny Gochnauer",
+               "profile_path": null,
+               "id": 169468,
+               "order": 3
+            },
+            {
+               "cast_id": 8,
+               "character": "Sister Clair",
+               "gender": 0,
+               "credit_id": "52fe4591c3a36847f80cea21",
+               "name": "Geha Getz",
+               "profile_path": null,
+               "id": 169480,
+               "order": 4
+            },
+            {
+               "cast_id": 9,
+               "character": "Nurse Kygar",
+               "gender": 0,
+               "credit_id": "52fe4591c3a36847f80cea25",
+               "name": "Joan Bechtel",
+               "profile_path": null,
+               "id": 169483,
+               "order": 5
+            },
+            {
+               "cast_id": 10,
+               "character": "Nurse Robbins",
+               "gender": 0,
+               "credit_id": "52fe4591c3a36847f80cea29",
+               "name": "Mara Everett",
+               "profile_path": null,
+               "id": 169490,
+               "order": 6
+            },
+            {
+               "cast_id": 14,
+               "character": "Head Orderly Jensen",
+               "gender": 0,
+               "credit_id": "57f3458a9251410c310067ae",
+               "name": "Jack A. Sunseri",
+               "profile_path": null,
+               "id": 231017,
+               "order": 7
+            },
+            {
+               "cast_id": 15,
+               "character": "Featured Dead / Body Double",
+               "gender": 1,
+               "credit_id": "57f345ba9251410c2a0068ac",
+               "name": "Shanna McCullough",
+               "profile_path": "/cmCYntRgmbKpPM1ObMDg5XgopAe.jpg",
+               "id": 45011,
+               "order": 8
+            },
+            {
+               "cast_id": 16,
+               "character": "ud Higgins",
+               "gender": 0,
+               "credit_id": "5a5e3ab39251412a17000c8e",
+               "name": "Michael Jacobs",
+               "profile_path": null,
+               "id": 1961303,
+               "order": 9
+            },
+            {
+               "cast_id": 17,
+               "character": "Bud Higgins",
+               "gender": 0,
+               "credit_id": "5a5e3aba0e0a261a6b000dff",
+               "name": "Michael Jacobs",
+               "profile_path": null,
+               "id": 1961303,
+               "order": 10
+            },
+            {
+               "cast_id": 18,
+               "character": "Orderly Jimmy",
+               "gender": 0,
+               "credit_id": "5a5e3acd0e0a261a6b000e23",
+               "name": "Randall Fontana",
+               "profile_path": null,
+               "id": 1166016,
+               "order": 11
+            },
+            {
+               "cast_id": 19,
+               "character": "Head Orderly Jensen (as Jack Sunseri)",
+               "gender": 0,
+               "credit_id": "5a5e3adb0e0a261a63000e67",
+               "name": "Jack A. Sunseri",
+               "profile_path": null,
+               "id": 231017,
+               "order": 12
+            },
+            {
+               "cast_id": 20,
+               "character": "First Patient",
+               "gender": 0,
+               "credit_id": "5a5e3ae60e0a261a72000ecc",
+               "name": "Frederick Dodge",
+               "profile_path": null,
+               "id": 1961304,
+               "order": 13
+            },
+            {
+               "cast_id": 21,
+               "character": "Night Nurse",
+               "gender": 0,
+               "credit_id": "5a5e3af59251412a20000d1c",
+               "name": "Nettie Heffner",
+               "profile_path": null,
+               "id": 1961305,
+               "order": 14
+            },
+            {
+               "cast_id": 22,
+               "character": "Day Nurse",
+               "gender": 0,
+               "credit_id": "5a5e3b010e0a261a6f000de0",
+               "name": "Luana Speelman",
+               "profile_path": null,
+               "id": 1706331,
+               "order": 15
+            },
+            {
+               "cast_id": 23,
+               "character": "Bearded Mental Patient (uncredited)",
+               "gender": 0,
+               "credit_id": "5a5e3b29c3a3685c71000e2d",
+               "name": "Brett Leonard",
+               "profile_path": "/24eM4jVMEY790YFNf3t7VhgX19z.jpg",
+               "id": 57090,
+               "order": 16
+            },
+            {
+               "cast_id": 24,
+               "character": "Orderly #1",
+               "gender": 0,
+               "credit_id": "5a5e3b449251412a1a000d66",
+               "name": "Scott Malpass",
+               "profile_path": null,
+               "id": 1961306,
+               "order": 17
+            },
+            {
+               "cast_id": 25,
+               "character": "Orderly #2",
+               "gender": 0,
+               "credit_id": "5a5e3b52c3a3685c66000e16",
+               "name": "Skyy Diaz",
+               "profile_path": null,
+               "id": 1961307,
+               "order": 18
+            },
+            {
+               "cast_id": 26,
+               "character": "Orderly #3",
+               "gender": 0,
+               "credit_id": "5a5e3b5c0e0a261a6b000ee1",
+               "name": "Steve Strom",
+               "profile_path": null,
+               "id": 1961308,
+               "order": 19
+            },
+            {
+               "cast_id": 27,
+               "character": "Orderly #4",
+               "gender": 0,
+               "credit_id": "5a5e3b66c3a3685c5b000cca",
+               "name": "Stephen Fritsch",
+               "profile_path": null,
+               "id": 1961309,
+               "order": 20
+            },
+            {
+               "cast_id": 28,
+               "character": "Orderly #5",
+               "gender": 0,
+               "credit_id": "5a5e3b720e0a261a75000e82",
+               "name": "Brett Murmann",
+               "profile_path": null,
+               "id": 1961310,
+               "order": 21
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe4591c3a36847f80cea01",
+               "name": "Brett Leonard",
+               "profile_path": "/24eM4jVMEY790YFNf3t7VhgX19z.jpg",
+               "id": 57090,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4591c3a36847f80cea07",
+               "name": "Gimel Everett",
+               "profile_path": "/rWJHp7R50GRMkXeBbZzilbERXeA.jpg",
+               "id": 64049,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4591c3a36847f80cea0d",
+               "name": "Brett Leonard",
+               "profile_path": "/24eM4jVMEY790YFNf3t7VhgX19z.jpg",
+               "id": 57090,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55591c629251417578000772",
+               "name": "Gimel Everett",
+               "profile_path": "/rWJHp7R50GRMkXeBbZzilbERXeA.jpg",
+               "id": 64049,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55591c93c3a368777e00913a",
+               "name": "Gimel Everett",
+               "profile_path": "/rWJHp7R50GRMkXeBbZzilbERXeA.jpg",
+               "id": 64049,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a5e3b940e0a261a65000eb1",
+               "name": "Jack A. Sunseri",
+               "profile_path": null,
+               "id": 231017,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a5e3ba49251412a20000dea",
+               "name": "Dan Wyman",
+               "profile_path": null,
+               "id": 64050,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a5e3bb29251412a1a000def",
+               "name": "Marty Collins",
+               "profile_path": null,
+               "id": 1961312,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a5e3bd49251412a1a000e23",
+               "name": "Brett Leonard",
+               "profile_path": "/24eM4jVMEY790YFNf3t7VhgX19z.jpg",
+               "id": 57090,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a5e3bddc3a3685c78000f34",
+               "name": "Ransom Rideout",
+               "profile_path": null,
+               "id": 1194423,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a5e3be79251412a14000d6d",
+               "name": "Nina Parker",
+               "profile_path": null,
+               "id": 1961314,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a5e3c2a0e0a261a6f000f37",
+               "name": "Ed Martinez",
+               "profile_path": null,
+               "id": 1961317,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a5e3c6d0e0a261a75000fb7",
+               "name": "Damon Foster",
+               "profile_path": null,
+               "id": 1961319,
+               "department": "Crew",
+               "job": "Stunts"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Horror",
+         "id": 27
+      }],
+      "popularity": 1.261191,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 40448,
+      "vote_count": 12,
+      "budget": 350000,
+      "overview": "A renegade doctor is shot dead and entombed with his fiendish experiments in the basement of an abandoned wing of a mental hospital. Twenty years later, a mysterious woman is admitted with amnesia, and her arrival is marked by an earthquake - which cracks the seal to the Dead Pit, freeing the evil doctor to continue his work.",
+      "similar": [],
+      "original_title": "The Dead Pit",
+      "runtime": 95,
+      "poster_path": "/dkh6uhG8H9wUPwpkrZEaBGdFN6f.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [],
+      "release_date": "1989-01-01",
+      "vote_average": 5.3,
+      "belongs_to_collection": null,
+      "tagline": "They're out.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Brett Leonard"],
+      "runtime": 95,
+      "synopsis": null,
+      "writers": [
+         "Gimel Everett",
+         "Brett Leonard"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0122037/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTg3OTMzODQ2NF5BMl5BanBnXkFtZTYwMjg4Mjg5._V1_.jpg",
+      "actors": ["Stars: Jeremy Slate, Cheryl Lawson, Stephen Gregory Foster | See full cast and crew »"],
+      "reviews": [
+         "The Dead Pit 1989 (*VHS \"R\") � Directed by Brett Leonard An evil doctor that experiments on his mentally ill patients is entombed in the basement of an abandoned wing. 20 years later, an amnesia patient known only as Jane Doe (Cheryl Lawson), arrives. An earthquake breaks the seal releasing the doctor to continue his dirty work. The dead patients also rise to wreck havoc. The biggest complaint I heard from other reviewers was about Lawson's acting ability, which I do not think is that bad considering this is her first feature. She is not Scream Queen material though and would be better suited for a Lifetime movie. (She won acting awards for this role and has since had a long career as a stunt woman). And why is she running around in her underwear? Not only would this be considered unethical treatment for patients, but since when are bikini panties standard issue? She would be wearing granny undies. One size fits all� This movie suspiciously looks a lot like Nightmare on Elm Street, which was released 5 years prior to this. Our Jane Doe looks identical to Elm Street's heroine Nancy Thompson. And the scenes where she is running in a dreamlike state evading the evil man in her dreams� But what really made me take notice was the scene where she is following her recently deceased friend only to be lead to Freddy, uhhh�.I mean the evil doctor. This venture was a bit disappointing for director Leonard (Lawnmower Man, Feed) especially considering he co-wrote the script. There are a few script problems that should have been tweaked during script rewrites. Why do the doctors and nurses speak to patients like best friends? If there is limited funding for this mental institute, then why do they admit someone with amnesia and other minor illnesses? How likely is it that not one, but two patients are snooping around and solving mysteries? The biggest problem is that I guessed the surprise ending early on in the film. And while the film touches on controversial subjects like performing illegal lobotomies on patients, but never digs deep enough to leave a lasting impression on the viewer. There were a few scenes cut from the R rated version I watched such as an open brain surgery. Hopefully these scenes will be added in the upcoming DVD release. What stands out in the film are the top notch special effects provided by Ed Martinez. The zombies were the most exciting part of the movie although they come late at the 67 minute mark. You know the fun starts once the zombies emerge from the dead pit bald, rotting, and slimy. The patients later learn that a little bit of holy water goes a long way and we are treated to many melting faces. My favorite scene was toward the end when the \"good\" doctor (played by the late Jeremy Slate) walks down a hall hearing this disgusting gurgling, choking noise. When he enters the bathroom, it is covered with blood and the nurse walks towards him looking not so hot at the moment. Overall, I think they didn't try hard enough in the first part of the movie. With 2 writers on board, they should have been able to make a clever script with cool dialogue. They have a mental institution, a nun, amnesia, zombies, etc and they still struggled to make it interesting. Maybe they could have shown the orderlies and nurses being abusive towards the patients to make the first half of the film more dramatic and the zombies killing them in the second half bittersweet. Or why not add more religious themes since they had the nun patient blessing holy water? And if they insist on making Jane run around in panties, then why not sleaze it up to make it more fun? There were several different directions this film could have gone, but seemed to just tiptoe around the subjects instead of tackling them head on. Favorite Quote: None. The dialogue was lackluster. And shamefully, it wasn't even goofy enough to make me laugh. Extras: *This was the VHS version with no extras other than a few trailers at the beginning. (It won \"The Best Video Box of the Year\" by Entertainment magazine when it was first released). A special DVD release is in the process now with SFX artist Ed Martinez providing commentary and SFX extras. Commentary has already been recorded with director Brett Leonard, producer Gimel Everett, and the late actor Jeremy Slate. See the Ed Martinez Interview with HorrorYearbook for details. To hear about the upcoming The Dead Pit DVD release and the unfortunate passing of actor Jeremy Slate, read distributor Code Red's Blog here: http://www.codereddvd.com/nublog/. Bottom Line: A must see for Leonard fans interested in his filmography. Has some noteworthy scenes, but fails to be controversial or very scary. Rating: 7/10 Molly Celaschi www.HorrorYearbook.com",
+         "It's fair to say I've earned my stripes in regard to zombie movies. Through the course I've taken to delve deep into horror, I've seen countless titles given the highest honors to the lowest scum-of-the- earth production values cinema has ever witnessed. From A to Z grade, however, there stands a few shining stars that are worth discussing. \"The Dead Pit\" is one of these last glimmers of hope. Brett Leonard, the man responsible for both writing and directing 1992's \"The Lawnmower Man,\" made his directorial debut with this undead feature; he did a fine job in presenting it. The story begins at a mental hospital in California. Dr. Ramzi, a deranged doctor at the facility, has been murdering and experimenting on patients in the basement. Dr. Gerald Swan learns of his sinister activities; in fear of jeopardizing his career at the hospital, he decides to eliminate Dr. Ramzi and bury the truth for 20 years. Jane Doe, an unidentified woman suffering from amnesia, is admitted to the facility. After an earthquake occurs, visions allow her to slowly uncover the dark secret buried deep beneath. This movie seems to function greatly for a variety of reasons. Although a few typical 80s production clichés exist they all seem to apply perfectly in the given scenarios the plot uncovers - the use of smoke machines in correlation with intense back lighting are exhausted thoroughly. The bumbling policemen standing outside discussing donuts was also a nice touch. I expect certain predictable elements to exist within the era I'm experiencing. It all works tremendously. The vacant hospital wings that were chosen as set pieces for this film are outstanding. The director clearly knew what he was doing; as a viewer, I felt isolated. The cast of actors/actresses hired to fill the character roles did a decent job - certainly no Emmy nominations to be had, but a solid enough attempt in their own right. As far as the musical score is concerned, expect typical, 80s off-beat harmonics - which, in my opinion, is what I look forward to. Clearly anything with a dark melody is par for the course. This film can be classified as a zombie flick but it requires a bit of patience from the viewer. The pace seems sluggish for the first 40 minutes of the film but picks up nicely. There is plenty of violence and gore to satiate the blood thirst of any gore hound. The special effects and makeup are worth noting. Although I reserve a special pedestal for Tom Savini, the artists responsible for \"The Dead Pit\" are truly remarkable and come in a close second - their work displayed here is even a few notches down from , in my humble opinion, the greatest zombie masterpiece of all time, George A. Romero's 1985 feature \"Day of the Dead.\" I consider this a true accomplishment; many Z grade zombie flicks from the 80s, primarily ones with an Italian-schlock quality (I'm not including Lucio Fulci when I speak of schlock, so please don't send a lynch mob to my doorstep!), fail miserably in achieving the same success. When it comes to zombie movies in general, I think most could agree that Romero was responsible for reinventing and trend-setting a particular brand of undead fiend in 1968's \"Night of the Living Dead.\" I don't consider it a crime if his influence is shared by directors and production teams alike. Although not in the top 5 of classic zombie re- tellings, \"The Dead Pit\" surely makes the top 10 - give it a try and you won't be disappointed.",
+         "Hell.. I have watched scores of horror films of all genres, liked many and trashed quite a few, in this very portal. All said and done, this too is a '80s style horror film, with gore, campy effects, shambling zombies, evil doctors, half-naked females, scary hospitals and whatnot. There are loopholes aplenty, but can we really expect logic in a horror film? They are there for our entertainment - love them or leave them. In this film, the hospital scenes are satisfyingly eerie, the nurses and orderlies expectedly intimidating, and the lead female, Cheryl Lawson, attractive enough. Amazingly, in the apparently high security asylum, male and female patients freely intermingle, and even visit each others rooms. Wow.. now that creates certain possibilities :) Cheryl is endowed with a delicious figure and attractive good looks.. plus she runs around the corridors at night, wearing bikini-cut panties and a short slip. Yummy! Amazingly, neither IMDb nor Wikipedia have any info on Cheryl till date. Seems a pity, considering that she carried the entire film on her.. umm.. shoulders?(I am kidding). Watchable for the antics of Cheryl, the evil doctor and the creepy hospital building, if nothing else. The idea of drenching zombies with holy water seems to be a novel one. Usually, they appear to be indestructible.. Post-script: Can anybody explain to me why Hollywood zombies always want to attack and eat living humans? I mean, whats the logic behind it? Oh Jesus.. again I am searching for logic.. how stupid of me :)",
+         "*SPOILER ALERT* *SPOILER ALERT* I bought this video. A disturbed woman gets thrown into an insane asylum where she belongs. She insists she's not crazy. It's hard to believe her when she spends half her time screaming and wailing at whomever is around. This all becomes meaningless when zombies start charging out of the cellar. They were stashed in the pit. The Dead Pit. They want their asylum back and their head zombie won't take no for an answer. This was OK. There are a few gory spots once the zombies start chugging along. We get to see brains, delicious brains, and lots of them. The movie doesn't really get going until about the halfway point. The first half of the movie we get to see the heroine cry her eyes out at being declared insane as she's foaming at the mouth. \"I didn't lose my memory! It was taken from me!\" Hmmmm. Same difference? Look babe, you're a loon. Deal with it. As zombie flicks go, this was decent. It's worth a look.",
+         "Mysterious amnesia victim Jane Doe (a game portrayal by luscious brunette stuntwoman Cheryl Lawson) gets sent to an asylum where twenty years ago the deranged Dr. Colin Ramzi (a pleasingly creepy Danny Gochnauer) was conducting sadistic brain experiments on the hapless inmates. A sudden earthquake resurrects Dr. Ramzi so he can embark on a new campaign of terror. Director/co-writer Brett Leonard and co-writer Gimel Everett do a bang-up job of creating and maintaining a grim, morbid and absolutely twisted brooding gloom-doom atmosphere: the dank and depressing tone rarely lets up for a minute, there's no goofy comic relief to speak of (however, this film does have a wickedly macabre sense of pitch-black gallows humor), Ramzi's lobotomized zombie victims are genuinely hideous and unsettling (the climactic lively zombie rampage seriously smokes, too), and we've got a handy helping of grisly gore (brains are scooped out, the tops of heads are cut off to expose peoples' glistening cerebrums, and long, sharp needles are thrust into several folks' skulls). The slick cinematography by Marty Collins makes neat use of shadowy lighting and gives the picture an attractive glossy look. Dan Wyman's spirited shivery'n'spooky score likewise does the skin-crawling trick. Moreover, the solid cast all play their parts with tremendous enthusiasm: Steffen Gregory Foster delivers an utterly engaging performance as charming explosives expert Christian Meyers, Joan Bechtel is deliciously hateful as the cruel and domineering Nurse Kygar, plus there's sturdy supporting work from Jeremy Slate as friendly head psychiatrist Dr. Gerald Swan, Geha Getz as unhinged nun Sister Clair, Mara Everett as the sweet Nurse Robbins, and Jack A. Sunseri as affable orderly Jimmy. As a yummy extra bonus, the gorgeously voluptuous Lawson spends a fair share of her screen time clad only in a tight tank top and skimpy panties (and she also even briefly bares her beautifully bountiful breasts as well!). All in all, this fright feature sizes up as a great deal of good'n'ghastly ghoulish fun.",
+         "If anyone �s checked my list of write-ups, you'll see that mostly I tend to review slashers. The Dead Pitt isn't exactly one of those flicks, but for a fair part of the runtime it incorporates some of the genre's defining elements. There's a psychopathic, surgical masked serial killer that has the trademark heavy breath and only the heroine can see him (Halloween). And some similar themed stalking set pieces and fairly gruesome murders (Just about every slasher that's ever been released!). It's like an insane mix of Exquisite Tenderness, Dawn of the Mummy and strangely enough, The Exorcist! But overall it's a zombie movie; alas it's an original one, with an exquisite surrounding for the plot to unravel in! I suppose the question that you really want answered if you're reading this is, - is it any good? In the beginning, Jane Doe is admitted to the State Mental asylum (sorry but they don't give us the name) with amnesia. She protests that she hasn't lost her memory, but it was in fact stolen from her! Her arrival spells bad news for the other inmates however, when an earthquake rocks the institution. Soon after, everyone starts freaking out and people begin to disappear although Jane knows that they have been brutally murdered. She begins seeing a deranged looking surgeon with a bullet hole in his head hanging around the complex, but no-one else spots him and the nurses assume that it's just her insanity creating illusions. Dr. Swann tries her under hypnotherapy, which provides some shocking, if a little unexpected results! The only person that does listen to her is Christian, a patient that becomes close friends with the distraught female. The two set out to solve the mystery of the bizarre disappearances, unaware of the evil that's growing in the clock tower opposite them! This was Cheryl Lawson's first movie and impressively she managed to land herself the lead part. I can't understand why though, she's one of the worst actresses that I've ever seen! She spends most of the runtime in a tight T-shirt (obviously without a bra, I mean come on!) and small knickers. That's great for us because she's lick-lippingly gorgeous and exceptionally well endowed, but it's pretty unflattering for any female to have to dress like that more than once in her movie debut. Tight clothes and good looks are still no substitute for talent and sadly watching her unconvingly wine and warble her way through the script can become almost nauseating at times! The rest of the cast is equally unimpressive and the only real �stars' are the extras that play the deluded inmates of the asylum. Some of the portrayals of dementia are fairly conclusive and add a welcome feeling of uneasiness to the proceedings. Director Brett Leonard didn't disappear after this like the myriad of other horror helmers from the eighties. Instead he managed to climb on to better things; most noticeably Lawnmower Man. It's obvious from his experimental photography that he could indeed handle his place in �the hot seat', although at times he struggles to create suspense when it felt like it was most needed. He also co-wrote the screenplay, which somewhat lowers his credibility, because it has more holes than a keep-net! For example: How did a doctor that was locked in a basement with a bullet in his head manage to find the time to erase Jane's memory? How can he be dead for twenty-one years and only rot slightly? How did the zombies manage to take the distributor caps from the car engines to prevent escape, aren't they supposed to be the walking DEAD? And most importantly, were they deliberately aiming for paroxysms of laughter with their method for stopping the hordes of zombies? It has to be seen to be believed! Answers on a postcard please� The Dead Pitt is essentially a patchwork of a movie, and not just because it attempts to be a successful crossbreed of horror sub-genres. The excellent lighting that is evident in the opening scenes seems to inexplicably evade the rest of the movie. The plot seems to crumble from imaginative to downright inept and it flies back and fourth from sluggish to energetic throughout. Surprisingly enough, the BBFC � who were at their strictest in the eighties - were implausibly lenient when they gave this an 18 certificate, they left an astonishing amount of gore unedited and the story benefits from it's presence. A claustrophobic and affectively eerie atmosphere is created at times. But there are far too many ideas fighting for attention, which leaves the best of them struggling to be realised. Huge potential that should have been further developed is sadly wasted by the film's attempt to be a Jack of all trades. There are a few redeeming features that prevent it from complete failure, but ultimately far too much has been crammed into far too little. It is indeed a shame, but what could have been a benchmark in horror history is unforgivably flawed.",
+         "THE DEAD PIT is a movie that seems to divide people on whether they like it or not. Straight zombie fans say it's too slasher-esque in the middle. Straight slasher fans dislike the zombie angle. I happen to be both, so I quite enjoyed it. Dr. Colin Ramzi is a psychotic scientist who experiments on the patients at the mental institution he works for. His associate, Dr. Swan, has had enough, so he confronts him in his basement laboratory, shoots him in the head, and throws him in the pit where he stored the dead bodies. Twenty years later, a woman who calls herself Jane Doe enters the institution because the doctors say she has amnesia, yet she knows her memory was taken from her. She manages to befriend one patient by the name of Chris, who's in there for his habit of building bombs (Golly, I'll bet that won't come in handy later in the film!). Well, after a large earthquake, Dr. Ramzi and all the corpses in the dead pit awaken and wreak havoc on the hospital. Can Jane and Chris save the day? I liked THE DEAD PIT. The movie had a lot of good things going for it, even though it doesn't fully utilize some of its potential, but as it stands, it's a fun ride. All the actors were pretty good, with the exception of Cheryl Lawson as Jane. She's fine during scenes where she just has to talk, but in her \"emotional\" scenes, like crying and such, she was horrible. She was a good screamer, though, and she was easy on the eyes, but she began to really get on my nerves after a while. THE DEAD PIT is a very well-made movie as well. Director Brett Leonard obviously knew what he was doing, and it's no surprise he went on to do bigger things like direct the sci-fi film THE LAWNMOWER MAN. Leonard uses lots of fog and colored lights to build atmosphere, and he does so surprisingly well. The gore is also top-notch, especially during a period where the MPAA basically neutered a lot of these gore films. There's a lot of gory brain-munching, head-drilling, and decapitations, courtesy of Dr. ramzi and co. While the last forty or so minutes are pure zombie-filled bliss, the previous hour was one half characterization and one half stalk 'n' slash with some pretty good and nasty kills. This seems to annoy people expecting a straight-forward zombie movie, but I liked it. Of course, the film does have its flaws. There are some obvious miniatures, especially near the end, but personally, the added to the fun for me. There are some slow parts, but that doesn't take too much out of it. There's also a REALLY obvious \"twist\" that I guessed in the first fifteen minutes. Overall, THE DEAD PIT is a really fun movie that plays it straight, yet with a sense of fun all throughout. It's gory, occasionally funny (for both intended and unintended reasons), and some the characters are likable. Dr. Ramzi is a great villain, and the zombie effects are great as well. Check it out.",
+         "I happened to fall over \"The Dead Pit\" in a secondhand store that deals in movies and music close to where I live, and the zombie on the DVD cover made me curious, so I picked it up, being a zombie aficionado, of course I had to. And as I came home and watched this, I was not at all amused or entertained in the least. This movie, despite being from 1989 (not that there is anything wrong with old movies), just failed to scare or entertain in any possible way. And I do think that even back in 1989, this movie wouldn't have been considered anything even remotely to being scary. I was hoping to see more zombies, but ended up with a doctor who was shot in the head, then returned from the dead with these wonderfully red glowing eyes, and a pit full of \"zombies\" - who were essentially just regular people with really bad make-up jobs. The storyline was fairly straight forward, and fairly average for a horror movie from that particular time of age. If you, like me, have grown up watching horror movies in the 80's, then you will know exactly what I mean - as this is the essence of late 80's horror movie. I am regarding this in the sense of plot, execution and characters. You might find some enjoyment in the movie if you are a fan of Jeremy Slate or Cheryl Lawson - providing you even know who these people are to begin with. For a zombie movie, then \"The Dead Pit\" is a massive disappointment, and you'd best stay clear of this unless you have absolutely nothing else to watch. There are far better horror movies from the late 80's that surpass this movie by a mile and beyond.",
+         "20 years ago, Dr. Ramzi (Danny Gochnauer) was caught performing unethical experiments on patients by Dr. Gerald Swan (Jeremy Slate.) 20 years later, mental patient Jane Doe (Cheryl Lawson) is seeing visions. Long story short, Ramzi is back, and he has an army of zombies with him. Brett (\"Feeder\", and several lesser movies like \"Virtuosity\" and \"Man-Thing\") Leonard's debut movie came to video in 1989 (complete with awesome video cover) and has since garnered something of a cult following-some think it's one of the worst zombie movies ever made, while others think it's a lost classic. The truth is: it's neither. The movie does suffer through some problems. While Gochnauer and Slate do a good job, the rest of the cast ranges from campy to amusing to just plain bad. Lawson, while she tries her hardest (and looks good in a nipple hugging baby tee and panties), is pretty bad in particular, and doesn't make a strong lead. Also, while the movie tries to play it straight, when it tries to be funny, it falls flat, with two cringe worthy one liners that threaten to turn Ramzi into a 3rd rate Freddy knock off. Still, there's plenty to enjoy. The biggest highlight is the eventual zombie carnage. While not the goriest, we get some highlights (brain removal, brain acupuncture, and more) that will put a smile to fans of the undead. Also, the zombies can only be killed with holy water-a unique method to say the least. Also, the score by Dan Wyman may be a bit dated, but it gets the job done. Is \"The Dead Pit\" a lost classic? Hardly. Is it one of the worst zombie movies ever made? Far from it. The best way to describe it is that it's like a bag of Twizzlers candy-it's not bad, but you won't exactly remember it either.",
+         "\"The Dead Pit\" is a glorious example of 80s cheese. **SPOILERS** Found wandering the streets, Jane Doe, (Cheryl Lawson) is admitted to a mental health facility and clashes with Nurse Kygar, (Joan Bechtel) over her refuted case of amnesia. With help from Nurse Robbins, (Mara Everett) and psychiatrist Dr. Gerald Swan, (Jeremy Slate) they vow to help her although she still maintains her story about having her memory wiped out. As she continues her treatment, she begins to have crazy nightmares and dreams about Dr. Colin Ramzi, (Danny Gochnauer) who used to run the facility along with Dr. Swan years ago but had been banished from the site for practicing medical experiments to reanimate the dead. Forced to fight the man through her own means, she finds that he has plans for her to help him unless a horde of the undead across the dimensions into our world, and she must race to stop it before it takes over the sanitarium and beyond. The Good News: This here is one of the very best 80s cheese-fests that was ever made. One of the main reasons for that is because there's so much bloodshed in the film. This is an incredibly bloody film, packed with loads of gore and messy features, and there's a ton of both in here that makes this one as bloody as it is. The kills make this one worth it, as there's literally no end to the ripped off limbs, a lobotomy pick through the eyes, scores of decapitations, brain surgeries where the top part of the head gets cut off to expose the brain matter within gets exposed, and there's also a ton of really great gunshots to the head. Even the dead on here are bloody, full of wounds, all slimy and blood-streaked, many of them bald in spotted and mildewed hospital gowns. They shuffle and stutter their way up the spiral staircase to wreak havoc. There's many great scenes of them coming along for the main characters, lit from behind in an awesome setting, which just makes them that much more impressive-looking, and that manages to give more of a fear to them which is always appreciated. The other really big part to this is the rather great story to this, as there's much more to this one than what's said. The fact that it throws in much more than normal, and all of them are nicely woven together into a rich story that has a lot of twists and turns to keep it going. There's some nice stuff here, from the nightmarish dreams to the therapy sessions and the few attack scenes that pop up, this one does manage to stay interesting for most of the time. When it hits the second half, there's as much goodness from the action as the first half, which includes the zombie massacre on the staff and patients that offers up some great moments, and there's also the big scenes in the basement of the facility where all the good parts happen. Then, there's the greatness of the finale, where the film goes to a larger scale than expected and employs the complete destruction of a water tower and the resulting flood it unleashes to deal with the matter for once and for all. It's great and manages to employ some nice action into the proceedings to make it come to an end. The last part that works well is the mental hospital setting, which is completely creepy, offers up some unnerving atmosphere and just gives the whole thing a really uneasy feeling. All of these here are what make the film worthwhile. The Bad News: This one doesn't have a whole lot of flaws to it. The main one is that the plot here, while being really inventive, is rather hard to get into. There's a lot of things going on in here, from the amnesia victim to the past relationship that's remained hidden but is quite recognizable to those who don't have to think too hard about it and to the rather clichéd manner in which it all manages to occur at the end, and while all of these make the film feel smart, trying to piece together the way it all unfolds is just plain exhausting, and that's not a great feeling to have, especially when it's obvious that this wants to be a simple gore-shocker. Then there's that whole cliché of the spook that only the main character can see, including the \"look-look away-look back\" vanishing act that happens every time in these film. Worse is that the main villain gets to give a couple of the standard one-liners, not a lot of them, but what they lack in number they make up for in groaning ability. Otherwise, there isn't much wrong to this one. The Final Verdict: One of the better 80s-era cheese-fests around, this one does a decent job with it, but beyond that not much. See it only if you're a big fan of the style or in the mood for a really nice zombie film from the time, otherwise there's not much else to recommend something like this to. Rated R: Graphic Violence, Graphic Language and Nudity"
+      ],
+      "genres": ["Horror"],
+      "productionCompanies": ["Skouras Pictures"],
+      "summaries": ["A renegade doctor is shot dead and entombed with his fiendish experiments in the basement of an abandoned wing of a mental hospital. Twenty years later, a mysterious woman is admitted with amnesia, and her arrival is marked by an earthquake - which cracks the seal to the Dead Pit, freeing the evil doctor to continue his work."],
+      "budget": 350000
+   },
+   "movielensId": 107055,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1989-01-01",
+      "dvdReleaseDate": null,
+      "directors": ["Brett Leonard"],
+      "runtime": 95,
+      "movieId": 107055,
+      "title": "The Dead Pit",
+      "mpaa": "",
+      "actors": [
+         "Jeremy Slate",
+         "Cheryl Lawson",
+         "Stephen Gregory Foster",
+         "Danny Gochnauer",
+         "Geha Getz",
+         "Joan Bechtel",
+         "Mara Everett",
+         "Jack A. Sunseri",
+         "Shanna McCullough",
+         "Michael Jacobs",
+         "Michael Jacobs",
+         "Randall Fontana",
+         "Jack A. Sunseri",
+         "Frederick Dodge",
+         "Nettie Heffner",
+         "Luana Speelman",
+         "Brett Leonard",
+         "Scott Malpass",
+         "Skyy Diaz",
+         "Steve Strom",
+         "Stephen Fritsch",
+         "Brett Murmann"
+      ],
+      "imdbMovieId": "0122037",
+      "originalTitle": "The Dead Pit",
+      "genres": ["Horror"],
+      "youtubeTrailerIds": ["cRSG4y-gc1A"],
+      "plotSummary": "A renegade doctor is shot dead and entombed with his fiendish experiments in the basement of an abandoned wing of a mental hospital. Twenty years later, a mysterious woman is admitted with amnesia, and her arrival is marked by an earthquake - which cracks the seal to the Dead Pit, freeing the evil doctor to continue his work.",
+      "tmdbMovieId": 40448,
+      "avgRating": 1.875,
+      "releaseYear": "1989",
+      "numRatings": 4,
+      "posterPath": "/dkh6uhG8H9wUPwpkrZEaBGdFN6f.jpg"
+   }
+}

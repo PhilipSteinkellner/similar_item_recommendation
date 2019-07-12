@@ -1,0 +1,356 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "small town",
+            "id": 1415
+         },
+         {
+            "name": "diner",
+            "id": 10738
+         },
+         {
+            "name": "societal hypocrisy",
+            "id": 11292
+         },
+         {
+            "name": "bigotry",
+            "id": 157912
+         }
+      ],
+      "imdb_id": "tt2011218",
+      "video": false,
+      "title": "Salem Falls",
+      "recommendations": [],
+      "backdrop_path": "/c1x8lliBGUKWmw5d6q5F6u4vZWg.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Jack St. Bride",
+               "gender": 2,
+               "credit_id": "52fe4a409251416c750e2b7f",
+               "name": "James Van Der Beek",
+               "profile_path": "/gcytCvmikcg8BEVg7GyINmnsF7I.jpg",
+               "id": 19210,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Addie Peabody (as Sarah Sanguin Carter)",
+               "gender": 1,
+               "credit_id": "52fe4a409251416c750e2b83",
+               "name": "Sarah Carter",
+               "profile_path": "/sLrzKbriBxBGP8VTJMiEwc9RMSl.jpg",
+               "id": 56825,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "Gillian Duncan (as AJ Michalka)",
+               "gender": 1,
+               "credit_id": "52fe4a409251416c750e2b87",
+               "name": "AJ Michalka",
+               "profile_path": "/yD83OMnRgdP3ydozt158IYAB3o0.jpg",
+               "id": 113926,
+               "order": 2
+            },
+            {
+               "cast_id": 5,
+               "character": "Amos Duncan",
+               "gender": 2,
+               "credit_id": "53536a39c3a3681da000388f",
+               "name": "Rick Roberts",
+               "profile_path": "/a9WvYNMC5raIRvnDc1CcibZgiUK.jpg",
+               "id": 3720,
+               "order": 3
+            },
+            {
+               "cast_id": 6,
+               "character": "Addie's Father",
+               "gender": 2,
+               "credit_id": "53536a4bc3a3681da500386e",
+               "name": "Peter MacNeill",
+               "profile_path": "/wNBsE9FqylAdCwzRvZtkvZJCfVI.jpg",
+               "id": 229,
+               "order": 4
+            },
+            {
+               "cast_id": 7,
+               "character": "Jordan McAfee",
+               "gender": 2,
+               "credit_id": "53536a66c3a3681d87003b37",
+               "name": "James Thomas",
+               "profile_path": "/66BZ05EaQiiSlvX9J6JPSd81S6F.jpg",
+               "id": 444420,
+               "order": 5
+            },
+            {
+               "cast_id": 8,
+               "character": "Megan Saxton",
+               "gender": 1,
+               "credit_id": "53536a76c3a3681d930039c9",
+               "name": "Allie MacDonald",
+               "profile_path": "/c6aIwOKjCA56oJs3IUMTrPLnC4c.jpg",
+               "id": 226833,
+               "order": 6
+            },
+            {
+               "cast_id": 9,
+               "character": "Chelsea",
+               "gender": 1,
+               "credit_id": "53536ae30e0a2655fe00436b",
+               "name": "Zoë Belkin",
+               "profile_path": "/vR4LKgU6LGsjOP15bmDyXCN2GE1.jpg",
+               "id": 964415,
+               "order": 7
+            },
+            {
+               "cast_id": 10,
+               "character": "Chief Mitchell",
+               "gender": 2,
+               "credit_id": "53536afa0e0a26560a0043de",
+               "name": "Thomas Mitchell",
+               "profile_path": null,
+               "id": 131546,
+               "order": 8
+            },
+            {
+               "cast_id": 11,
+               "character": "Wes",
+               "gender": 2,
+               "credit_id": "53536b0c0e0a2656140042e7",
+               "name": "Jefferson Brown",
+               "profile_path": "/6rfOW3jTe9vbGuPFTh5t7Dyx6uU.jpg",
+               "id": 83530,
+               "order": 9
+            },
+            {
+               "cast_id": 12,
+               "character": "Maggie",
+               "gender": 0,
+               "credit_id": "53536b1b0e0a26560e0044f6",
+               "name": "Brittany Scobie",
+               "profile_path": "/g9mtIiUMoz59B77w18gwmuJaiCA.jpg",
+               "id": 239853,
+               "order": 10
+            },
+            {
+               "cast_id": 13,
+               "character": "Delilah",
+               "gender": 0,
+               "credit_id": "53536b2d0e0a26561d004333",
+               "name": "Maria Vacratsis",
+               "profile_path": "/8HkZMChHTjIS7MhUISB4Fd94xQs.jpg",
+               "id": 1228304,
+               "order": 11
+            },
+            {
+               "cast_id": 14,
+               "character": "Catherine",
+               "gender": 1,
+               "credit_id": "53536b470e0a26561d004339",
+               "name": "Sidney Leeder",
+               "profile_path": "/e1TSnSeUhRZSHMMhoMImT7A1wTn.jpg",
+               "id": 1311518,
+               "order": 12
+            },
+            {
+               "cast_id": 15,
+               "character": "Carol",
+               "gender": 1,
+               "credit_id": "53536b610e0a26560600411a",
+               "name": "Shauna MacDonald",
+               "profile_path": "/hugd6xCGb5V6xYqN1hcIsLa8xu0.jpg",
+               "id": 205082,
+               "order": 13
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4a409251416c750e2b7b",
+               "name": "Bradley Walsh",
+               "profile_path": "/5srgJxiNp8VJ2Aoscw8Z5lE39aY.jpg",
+               "id": 221723,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55185b829251416f0d004ace",
+               "name": "Jodi Picoult",
+               "profile_path": null,
+               "id": 929256,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 2,
+               "credit_id": "55185b8dc3a368155200111a",
+               "name": "Craig Bolotin",
+               "profile_path": null,
+               "id": 34692,
+               "department": "Writing",
+               "job": "Teleplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55185b9ac3a36862f9004758",
+               "name": "Teena Booth",
+               "profile_path": null,
+               "id": 226533,
+               "department": "Writing",
+               "job": "Teleplay"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Crime",
+            "id": 80
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "TV Movie",
+            "id": 10770
+         }
+      ],
+      "popularity": 0.82606,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 99762,
+      "vote_count": 8,
+      "budget": 0,
+      "overview": "A man with a troubled past tries to settle down in a small town, finds love and then ends up being the target of a witch hunt.",
+      "similar": [
+         59,
+         76640,
+         9362,
+         11069,
+         262841,
+         300665,
+         6977,
+         1640,
+         1585,
+         11615,
+         1427,
+         755,
+         793,
+         273481,
+         162,
+         338766,
+         339967,
+         359940,
+         346364,
+         472805
+      ],
+      "original_title": "Salem Falls",
+      "runtime": 84,
+      "poster_path": "/5bH40aqd12kGMayVBZo4YZ1iRie.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/6LVLYfZAEQfhJey0MGvhFXdDEK1.png",
+         "name": "Lifetime",
+         "id": 3431,
+         "origin_country": "US"
+      }],
+      "release_date": "2011-11-19",
+      "vote_average": 5.1,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Bradley Walsh"],
+      "runtime": 89,
+      "synopsis": null,
+      "writers": [
+         "Jodi Picoult",
+         "Craig Bolotin"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt2011218/",
+      "coverLink": null,
+      "actors": [
+         "James Van Der Beek",
+         "Sarah Carter",
+         "AJ Michalka"
+      ],
+      "reviews": [
+         "Ex-history teacher and soccer coach James Van Der Beek (as Jack McBraddon) heads for \"Salem Falls\" on his way to begin a new life in California. Out to put a dark secret behind him, Mr. Van Der Beek almost kills the alcoholic father of attractive local Sarah Carter (as Addie Peabody) in an accident; the older man's on a binge and driving his lawnmower recklessly. Grateful Peter MacNeill (as Roy) is unharmed, Ms. Carter invites Van Der Beek to stay in town and gives him a job at her \"Do-or-Diner\"... Romance between Van Der Beek and Carter develops, but that dark secret from his past surfaces. Also, troubled teen Wiccan practitioner Amanda Michalka (as Gillian Duncan) wants to seduce Van Der Beek. She and her girlfriends are who we see in the opening. Missing in some cast lists are dad Rick Roberts (as Amos) and James Thomas (as Jordan McAfee). This \"Lifetime\" TV-movie is engaging, but loses points by not adequately explaining how a certain character's semen came to be identified. ***** Salem Falls (11/19/11) Bradley Walsh ~ James Van Der Beek, Sarah Carter, Amanda Michalka, Peter MacNeill",
+         "Addie Peabody (Sarah Carter) has a drunk father who causes former teacher Jack St. Bride (James Van Der Beek) to crash his car. Jack is trying to move on with his life after a bad experience. Addie owns the diner and offers him a job. She can't let go of her dead daughter. Three girls Gillian Duncan (AJ Michalka), Megan Saxton (Allie MacDonald) and Chelsea (Zoë Belkin) are a covenant of witches. Gillian lusts after Jack thinking he's stuck in town because of a spell they performed. Gillian's father Amos (Rick Roberts) is on the rampage to get rid of Jack. AJ plays it like a swooning teenager instead of something more dangerous. There are a lot of possibilities in this movie. I don't know what's in Jodi Picoult's novel. This could be a good thriller. This is more of a slow clunky romance with a horny clingy teenager causing criminal troubles. The pacing is way too slow for the first half with no tension at all. Once Rick Roberts gets involved, the movie improves a bit. It's too little too late. As a crime drama, it's a little too soft. Everything is done with such a soft touch. There isn't enough for me to recommend. And the ending twist is too twisty.",
+         "I was channel surfing this week and found this little gem! Good little mystery with good casting, locations and lots of twists and turns. An interesting look at what happens to someone once you're labeled. Some of it was pretty predictable- beautiful diner owner, evil head of the town, self-absorbed teenagers. It did have lots of twists and turns to keep me interested through the rest of the movie. It also asks how much would you give up if wrongly convicted? I sure didn't see the last big twist coming, that's a whopper! Don't miss the last 10 minutes, as a major secret will be revealed! You'll kick yourself if you do, if you ever find out what it is...",
+         "This film was shot on location in my town of Fergus, Ontario. I must say, it makes me so proud to live here. It is amazing seeing your town from an artistic perspective. Pretty here! The film itself was not too bad. I wish that a few things were explained a little better...too many unanswered questions. I think that I will pick up the book because it will probably be more enjoyable. The story itself was intriguing but I thought that a little more character development would have improved the film. Because we did not know enough about the characters it was hard to invest any emotion in them or care about what happens to them. Could have been really good but fell a little short.",
+         "I was really looking forward to watching this movie. However once I did, I was severely disappointed. The movie deviated from the book far too much. It held some resemblance to the book, but not enough for my liking. There were a lot of crucial moments and character interactions that were pivotal to the storyline left out. Too many changes were made to the storyline which took it down a completely different path. I can't believe Jodi Picoult actually signed off on this. I believe a lot more could have been done with this movie to make it better. They got the basic storyline/plot right, but there were far too many changes that stole away from the book that could have made the movie so much more interesting and true to the story as it was written. I am yet to see the other two movies made from a Jodi Picoult novel, I just hope that they are not as disappointing as this one was."
+      ],
+      "genres": [
+         "Crime",
+         "Drama"
+      ],
+      "productionCompanies": ["Automatic Pictures"],
+      "summaries": [
+         "Jack St. Bride was a teacher and soccer coach at a girls' prep school. Then one student's \"crush\" goes terribly wrong. He loses his job, and goes to prison. Eight months later Jack tries to move on and start over. He finds a job in Addie Peabody's diner and starts a relationship with the kind and beautiful owner. All this is set in Salem Falls, New England. When things start going well for Jack, a small group of teenage girls target him.",
+         "En route to California to start a new life, Jack McBradden is forced to stay in the small New England town of Salem Falls until his car gets repaired following an accident caused by Roy Peabody, who was on one of his typical benders at the time. Roy and his grown single daughter Addie Peabody own and operate the diner in town, Addie who is still mourning the sudden death of who was then her adolescent daughter Chloe from bacterial meningitis some time ago. As a gesture to say sorry for Roy's actions, Addie hires Jack to do odd jobs at the diner, and provides him with room and board living above the diner with Roy for as long as he decides to stay in town. Jack initially tells them that he is a laid-off schoolteacher, but after he decides to stay permanently, largely due to his mutual and growing attraction with Addie, he is forced to tell the truth out of necessity: that he is a registered sex offender, having been convicted and jailed for eight months for having sex with one of his female students. He vows to the Peabodys that it was a false charge, and that he solely plead guilty in the face of the evidence against him for a reduced sentence on the advice of his lawyer. Both Addie and Roy ultimately believe him. However, Jack's stay in Salem Falls was already difficult before this revelation because of high schooler Gillian Duncan, who along with her father Amos Duncan, have a sense a privilege in town because of their vast wealth. Upon first sight of him, Gillian, who has been experimenting with witchcraft along with her two friends Megan and Chelsea, believed she was destined to be with Jack, despite he being twice her age. As Amos does whatever he can to drive Jack out of town, Gillian, who, regardless of his sex offender status, does whatever she needs to achieve her goal of being with Jack, which largely does include the use of spells. But Gillian believes she needs to force the situation along as when the opportunity arises, she is able, with Megan and Chelsea's corroboration, to accuse Jack of rape, with DNA evidence to prove her claim. She plans to use this accusation to get Jack to do what she wants. Although initially believing Gillian's accusation, Addie decides to help Jack by delving into the past sexual assault case against him while looking into her own past experiences at the time when she was around Gillian's age.",
+         "A man with a troubled past tries to settle down in a small town, finds love and then ends up being the target of a witch hunt."
+      ],
+      "budget": 0
+   },
+   "movielensId": 141112,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2011-11-19",
+      "dvdReleaseDate": null,
+      "directors": ["Bradley Walsh"],
+      "runtime": 84,
+      "movieId": 141112,
+      "title": "Salem Falls",
+      "mpaa": "",
+      "actors": [
+         "James Van Der Beek",
+         "Sarah Carter",
+         "AJ Michalka",
+         "Rick Roberts",
+         "Peter MacNeill",
+         "James Thomas",
+         "Allie MacDonald",
+         "Zoë Belkin",
+         "Thomas Mitchell",
+         "Jefferson Brown",
+         "Brittany Scobie",
+         "Maria Vacratsis",
+         "Sidney Leeder",
+         "Shauna MacDonald"
+      ],
+      "imdbMovieId": "2011218",
+      "originalTitle": "Salem Falls",
+      "genres": [
+         "Crime",
+         "Drama",
+         "TV Movie"
+      ],
+      "youtubeTrailerIds": ["YVCLmC9ZcBw"],
+      "plotSummary": "A man with a troubled past tries to settle down in a small town, finds love and then ends up being the target of a witch hunt.",
+      "tmdbMovieId": 99762,
+      "avgRating": 1.25,
+      "releaseYear": "2011",
+      "numRatings": 2,
+      "posterPath": "/5bH40aqd12kGMayVBZo4YZ1iRie.jpg"
+   }
+}

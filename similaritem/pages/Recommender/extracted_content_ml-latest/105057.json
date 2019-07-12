@@ -1,0 +1,468 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "france",
+            "id": 254
+         },
+         {
+            "name": "trial",
+            "id": 11038
+         },
+         {
+            "name": "saint",
+            "id": 41610
+         },
+         {
+            "name": "joan of arc",
+            "id": 190855
+         }
+      ],
+      "imdb_id": "tt0050928",
+      "video": false,
+      "title": "Saint Joan",
+      "recommendations": [83209],
+      "backdrop_path": "/qfTNqe5pvyrEkxyx3mRT1FpRG9N.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 14,
+               "character": "St. Joan of Arc",
+               "gender": 1,
+               "credit_id": "52fe4a9fc3a36847f81d8cc9",
+               "name": "Jean Seberg",
+               "profile_path": "/9ARTCuncSRg83PMRvGfoPE7Tcqc.jpg",
+               "id": 3830,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "The Dauphin, Charles VII",
+               "gender": 2,
+               "credit_id": "52fe4a9fc3a36847f81d8c9d",
+               "name": "Richard Widmark",
+               "profile_path": "/whrZ2aEg3FghVaDJf0JRrEhFLWl.jpg",
+               "id": 12149,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "Dunois, Bastard of Orleans",
+               "gender": 2,
+               "credit_id": "52fe4a9fc3a36847f81d8ca1",
+               "name": "Richard Todd",
+               "profile_path": "/asmQq1hLKEHiBQdQvvO4jXzfrNg.jpg",
+               "id": 20393,
+               "order": 2
+            },
+            {
+               "cast_id": 5,
+               "character": "Cauchon - Bishop of Beauvais",
+               "gender": 2,
+               "credit_id": "52fe4a9fc3a36847f81d8ca5",
+               "name": "Adolf Wohlbrück",
+               "profile_path": "/8qCb45vVZG27byqpeg1DIjwbpgH.jpg",
+               "id": 88935,
+               "order": 3
+            },
+            {
+               "cast_id": 6,
+               "character": "Earl of Warwick",
+               "gender": 2,
+               "credit_id": "52fe4a9fc3a36847f81d8ca9",
+               "name": "John Gielgud",
+               "profile_path": "/jvTSqk7cuOrsdtf037olQ9BKRAe.jpg",
+               "id": 11857,
+               "order": 4
+            },
+            {
+               "cast_id": 7,
+               "character": "Inquisitor",
+               "gender": 2,
+               "credit_id": "52fe4a9fc3a36847f81d8cad",
+               "name": "Felix Aylmer",
+               "profile_path": "/sfNcE9p956L9WjTGiNB6M6xjUdh.jpg",
+               "id": 85345,
+               "order": 5
+            },
+            {
+               "cast_id": 8,
+               "character": "Robert de Baudricourt",
+               "gender": 2,
+               "credit_id": "52fe4a9fc3a36847f81d8cb1",
+               "name": "Archie Duncan",
+               "profile_path": "/OvNlxC14sr4HVzUhxL99tBRSog.jpg",
+               "id": 153020,
+               "order": 6
+            },
+            {
+               "cast_id": 9,
+               "character": "John de Stogumber",
+               "gender": 2,
+               "credit_id": "52fe4a9fc3a36847f81d8cb5",
+               "name": "Harry Andrews",
+               "profile_path": "/1EJXH5DyJWDtHfX8MeqSrCrUlwD.jpg",
+               "id": 19463,
+               "order": 7
+            },
+            {
+               "cast_id": 10,
+               "character": "Duchesse de la Tremouille",
+               "gender": 1,
+               "credit_id": "52fe4a9fc3a36847f81d8cb9",
+               "name": "Margot Grahame",
+               "profile_path": "/xllWb7C8x7HEyCkadCcOJ67Frj1.jpg",
+               "id": 136151,
+               "order": 8
+            },
+            {
+               "cast_id": 11,
+               "character": "De Courcelles",
+               "gender": 2,
+               "credit_id": "52fe4a9fc3a36847f81d8cbd",
+               "name": "Barry Jones",
+               "profile_path": "/3ppMtMy28TXB0H4rpr8EjZ4hw9G.jpg",
+               "id": 48959,
+               "order": 9
+            },
+            {
+               "cast_id": 12,
+               "character": "La Tremouille",
+               "gender": 2,
+               "credit_id": "52fe4a9fc3a36847f81d8cc1",
+               "name": "Francis de Wolff",
+               "profile_path": "/olCw4cQXhVeYIjv45mZnxvwz40H.jpg",
+               "id": 9899,
+               "order": 10
+            },
+            {
+               "cast_id": 13,
+               "character": "Archbishop of Rheims",
+               "gender": 2,
+               "credit_id": "52fe4a9fc3a36847f81d8cc5",
+               "name": "Finlay Currie",
+               "profile_path": "/4ezZVGhlabVRIeavptVayV1VJGC.jpg",
+               "id": 10027,
+               "order": 11
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4a9fc3a36847f81d8c99",
+               "name": "Otto Preminger",
+               "profile_path": "/t9eetEzRgKAanGRDCSEF9h3KyTW.jpg",
+               "id": 834,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5481e4d7c3a36829b5007a4c",
+               "name": "Graham Greene",
+               "profile_path": "/cz2Nnw7YASKCOHB5B9cgHT7mZuH.jpg",
+               "id": 15379,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5481e4e19251416e810063f5",
+               "name": "George Bernard Shaw",
+               "profile_path": "/fBFXY9ZUUToA5VUM8yXNqiOPw5O.jpg",
+               "id": 33085,
+               "department": "Writing",
+               "job": "Theatre Play"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5992e75ec3a36840f200f0df",
+               "name": "Otto Preminger",
+               "profile_path": "/t9eetEzRgKAanGRDCSEF9h3KyTW.jpg",
+               "id": 834,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5992e7679251417c2600f9c2",
+               "name": "Helga Cranston",
+               "profile_path": null,
+               "id": 20137,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5992e7a4c3a368408e00ed2c",
+               "name": "Douglas Peirce",
+               "profile_path": null,
+               "id": 1138068,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5992e7b39251417be300f8ac",
+               "name": "Mischa Spoliansky",
+               "profile_path": null,
+               "id": 592417,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5992e7c09251417c4200f807",
+               "name": "Georges Périnal",
+               "profile_path": null,
+               "id": 20136,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5992e7d2c3a368414600f57a",
+               "name": "Lionel Larner",
+               "profile_path": null,
+               "id": 1870067,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5992e7e5c3a368412d00febf",
+               "name": "Roger K. Furse",
+               "profile_path": null,
+               "id": 20138,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5992e7ee9251417c1100f783",
+               "name": "Ray Simm",
+               "profile_path": null,
+               "id": 10591,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5992e7fcc3a368411c00f5f2",
+               "name": "John McCorry",
+               "profile_path": null,
+               "id": 1581489,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5992e828c3a36840b4010757",
+               "name": "Tony Sforzini",
+               "profile_path": null,
+               "id": 30939,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5992e832c3a36840d400eada",
+               "name": "Gordon Bond",
+               "profile_path": null,
+               "id": 1432524,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5992e840c3a368410a00f986",
+               "name": "Laurie Laurence",
+               "profile_path": null,
+               "id": 1870069,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5992e852c3a368414600f620",
+               "name": "Red Law",
+               "profile_path": null,
+               "id": 20139,
+               "department": "Sound",
+               "job": "Sound"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5992e8b2c3a368414600f697",
+               "name": "Peter Handford",
+               "profile_path": null,
+               "id": 1713005,
+               "department": "Sound",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5992e8c3c3a368414600f6af",
+               "name": "Doreen Merriman",
+               "profile_path": null,
+               "id": 139702,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5992e92d9251417c4200f9c4",
+               "name": "Saul Bass",
+               "profile_path": "/eIvic86r1AMm48BjAOcfnvc044L.jpg",
+               "id": 19460,
+               "department": "Art",
+               "job": "Title Designer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "History",
+            "id": 36
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         }
+      ],
+      "popularity": 1.604012,
+      "production_countries": [
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         },
+         {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+         }
+      ],
+      "id": 108564,
+      "vote_count": 7,
+      "budget": 0,
+      "overview": "Young Joan of Arc comes to the palace in France to make The Dauphin King of France and is appointed to head the French Army. After winning many battles she is not needed any longer and soon she is thought of as a witch.",
+      "similar": [
+         1645,
+         9313,
+         389,
+         2926,
+         707,
+         283227,
+         16869,
+         1592,
+         1813,
+         819,
+         2501,
+         2503,
+         8055,
+         350,
+         612,
+         979,
+         80,
+         1427,
+         22803,
+         9800
+      ],
+      "original_title": "Saint Joan",
+      "runtime": 110,
+      "poster_path": "/hDq4deSt79RjjPzu6Ew4VgFzD4w.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "Wheel Productions",
+         "id": 800,
+         "origin_country": ""
+      }],
+      "release_date": "1957-05-08",
+      "vote_average": 6.6,
+      "belongs_to_collection": null,
+      "tagline": "A Brilliant Triumph!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Black and White",
+      "budgetCurrency": null,
+      "directors": ["Otto Preminger"],
+      "runtime": 110,
+      "synopsis": null,
+      "writers": [
+         "Graham Greene",
+         "George Bernard Shaw"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0050928/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTQxOTEyNjE3OV5BMl5BanBnXkFtZTgwODQ1MzIxMDE@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Richard Widmark, Richard Todd, Anton Walbrook | See full cast and crew »"],
+      "reviews": [
+         "Preminger's adaptation of G. B. Shaw's ''Saint Joan''(screenplay by Graham Greene) received one of the worst critical reactions in it's day. It was vilified by the pseudo-elite, the purists and the audiences was unresponsive to a film that lacked the piety and glamour expected of a historical pageant. As in ''Peeping Tom'', the reaction was malicious and unjustified. Preminger's adaptation of Shaw's intellectual exploration of the effects and actions surrounding Joan of Arc(her actual name in her own language is Jeanne d'Arc but this film is in English) is totally faithful to the spirit of the original play, not only on the literal emotional level but formally too. His film is a Brechtian examination of the functioning of institutions, the division within and without of various factions all wanting to seize power. As such we are not allowed to identify on an emotional level with any of the characters, including Joan herself. As played by Jean Seberg(whose subsequent life offers a eerie parallel to her role here), she is presented as an innocent, a figure of purity whose very actions and presence reveals the corruption and emptiness in everyone. As such Seberg plays her as both Saint and Madwoman. Her own lack of experience as an actress when she made this film(which does show up in spots) conveys the freshness and youth of Jeanne revealing both the fact that Jeanne la Pucelle is a humble illiterate peasant girl who strode out to protect her village and her natural intelligence. By no means did she deserve the harsh criticism that she got on the film's first release, it's a performance far beyond the ken and call of any first-time actress with no prior acting experience. Shaw and Preminger took a secular view towards Joan seeing her as a medieval era feminist, not content with being a rustic daughter who's fate is to be married away or a whore picked up by soldiers to and away from battlefields. Her faith, her voices, her visions which she intermingles with words such as \"imagination\" and \"common sense\" leads her to wear the armour of her fellow soldiers to lead them to battle to chase the invading Englishman out of France. And yet it can be said that the film is more interested in the court of the Dauphin(Richard Widmark), the office of the clergy who try Joan led by Pierre Cauchon(Anton Walbrook, impeccably cast) and the actions of the Earl of Warwick(John Gielgud) then in Joan herself. The superb ensemble cast(all male) portray figures of scheming, Machievellian(although the story precedes Niccolo) opportunists who treat religion as a childish toy to be used and manipulated for their own ends. The sharp sardonic dialogue gives the actors great fun to let loose. John Gielgud as the eminently rational Earl whose intelligence,(albeit accompanied by corruption), allows him to calculate the precise manner in which he can ensure Joan gets burnt at the stake and Anton Walbrook's Pierre Cauchon brings a three dimensional portrait to this intelligent theologian who will give Joan the fair trial that will certainly find her guilty. Richard Widmark as the Dauphin is a real revelation. As against-type a casting choice you'll ever find, Widmark portrays the weak future ruler of France in a frenzied, comic caricature that's as close as this film comes to comic relief. A comic performance that feels like an imitation of Jerry Lewis far more than an impetuous future ruler of France. Preminger shot ''Saint Joan'' in black and white, the cinematographer is Georges Perinal who worked with Rene Clair and who did ''The Life and Death of Colonel Blimp'' in colour. It's perfectly restrained to emphasize the rational intellectual atmosphere for this film. Preminger's preference for tracking shots of long uninterrupted takes is key to the effectiveness of the film, there's no sense of a wasted movement anywhere in his mise-en-scene. It also marks the direction of Preminger's most mature(and most neglected period) his focus is on the conflict between individuals and the institutions in which they work, how the institution function and how the individual acts as per his principles. These themes get their most direct treatment in his film and as always he keeps things unpredictable and finds no black and white answers. This is one of his very best and most effective films.",
+         "Most of the comments made on this film suggest that the writers have neither read nor seen the George Bernard Shaw play on which it is based. Shaw in \"St. Joan,\" as in every single one of his plays, is all about talk. It's impossible to make an action movie out of a Shaw play without doing it irremediable violence. \"St. Joan\" is a play about Nationalism and Protestantism, ideas that did not even exist in the period when the play is set. Shaw's St. Joan IS a French nationalist, which is what makes her an anathema to the British. Shaw's St. Joan IS a Protestant, inspired directly by the spirit of God, un-mediated by the Church, and that is why she is an anathema to the Catholic authorities. Preminger's \"St. Joan\" is an adaptation of the play and, because the play (in important respects) utterly defies film conventions, the movie is mediocre. Anyone who wants to understand \"St. Joan\" as Shaw conceived her needs either to read or see the play, preferably both. Unfortunately, \"St. Joan\" is rarely performed these days, partly because Shaw has fallen out of fashion but also because it takes an extraordinary young actress to perform convincingly as Shaw's Maid, a warrior child whose voices speak common sense to her, , and there aren't too many of those around. If a director wishes to make another FILM about Jean d'Arc, as someone, somewhere, some time will undoubtedly want to do, Shaw's play is not the place to look. It belongs to the stage or the page, not the movies.",
+         "Joan of Arc is probably the most extraordinary character in French history.So introducing fantastic elements in the screenplay makes sense.There are so many mysterious things about the Maid of Orleans ,although,thanks to the manuscript of her trial,she 's the most known character of the Middle Ages.BUt this woman definitely eludes human Otto Preminger did not commit sacrilege when he showed Joan reappearing one night in Charles the seventh's bedroom ,with other dramatis personae:bishop Cauchon,Dunois and the soldier who made a cross for the heroine with two pieces of wood just before she died.\"They cleared your name\" the king says \"Can you unburn me?\" she says.Robert Shaw 's vision of Joan is not unlike that of Jean Anouilh in \"l'alouette\":Anouilh ended his play on a glorious note:he demolished the stake and he brought back Joan in Reims cathedral. I sincerely believe that Otto Preminger's movie has been unfairly dismissed :in my native France,they say it's a static movie ,and however,I had never the impression to be watching a filmed stage production.To my mind ,it's the best Joan of Arc ,with the staggering exception of Dreyer's masterpiece ,of course,which will probably never surpassed.But all the others ,Bresson,Fleming,Rosselini,Besson (Besson???),Rivette ,et al,cannot hold a candle to Preminger:his Joan is a woman of flesh and blood and Jean Seberg (debut) had a strong presence .But the stand-out is definitely Richard Widmark :his fans won't recognize him,particularly in the sequences where he appears as the old king at the end of the road;but he gives a very fine portrayal of Charles the seventh ,probably outré -this king was finally a smart one :he knew when war had to give way to negotiation,which Joan could not understand.But watching Widmark the tough guy of many a western or a film noir playing hopscotch is just a joy.He easily outshines such luminaries as Jose Ferrer,in Fleming 's version or John Malkovich ,in Besson's video game. There are funny anachronisms:\"this horse cost 16 FRANCS\" (the franc came much later);or Joan calling Gilles De Rais \"Bluebeard\" :Charles Perrault ,admittedly inspired by De Rais ,wrote his fairy tale more than two centuries later.But it's not a problem:Joan will come back after her death,and she will know the whole French history ,because ,unlike her contemporaries,she's eternal.The relationship Joan/Dunois is wonderfully treated :it's some kind of love story ,and seeing the young maid mother him brings something romantic . One can regret a detail:it's not because she was afraid of prison for life that Joan was relapsed :it's because they took away from her her woman's clothes and thus forced her to dress up again as a man.It' minor ;Shaw's lines ,depicting these foolish things which Joan could not live without,if she were buried forever in a hole ,are deeply poetic. I say it again:one of the best films about Joan Of Arc.",
+         "This is an under-rated version of the story of the farm girl who fought the British and helped kick them out of France. Seberg is nowhere near as bad in this movie as reputation would suggest (and looks great with a way cool cropped hair-do), and there are good performances from Geilgud, Richard Widmark, and Richard Todd. It does have to be said, though, that this is not a movie for action-lovers - the centrepiece of Joan leading the troops in the liberation of Orleans, for example, is replaced by a fade-to-black! The movie is also quite stagey and it is stylistically easy to think it was made at least ten years earlier than it's 1957 release date. The movie makes a nice change if you are fed up with the Ingrid Bergman version, though.",
+         "Savaged when it came out, this film now looks handsome and sounds great. A feast of intelligent thoughtful acting, from Gielgud, Kenneth Haigh, Harry Andrews and especially Anton Walbrook,and a moving central performance from the beautiful and incredibly young Jean Seberg. Preminger doesn't jump around and show off- his long slow takes encourage you to listen and reflect, and Graham Greene's script condenses Shaw without sacrificing complexity.The piece has the look of a made for TV movie, and is certainly studio bound but none the worse for that. Too many contemporary movies on 'historical' themes cannot resist dumbing down. What would Mel Gibson have made of the Maid? Many drooling shots of her on the rack probably, then crisping up on the BBQ as the flames take hold. Preminger does none of this. The burning is shown mainly through a guilt-stricken reaction. There are a few weak performances, but not enough to cause any serious damage. I caught this movie on TV and was not expecting to watch it through, but I was gripped . In our age of religious fundamentalism and sacrifice, Joan's story has unexpected resonance.",
+         "The Joan of Arc story is always a hard one to deal with, especially for skeptics. Did she really hear voices, divinely inspired, that put the burden of liberating France on her 17 year old shoulders? Or should she have been locked in a loony bin? I'm not really sure that any other culture than the French ought to be telling her story, inevitably the interpretation will fall short of the mark. It falls short here because we have two diametrically opposed viewpoints working on the treatment. The key to this film is that it is adapted from a play by George Bernard Shaw by Graham Greene. So we have the writing of a Fabian Socialist being interpreted by one very Catholic writer. I think there's a great deal more Greene than Shaw. Shaw gets his innings here, but I think Graham Greene dominates the film. If he had lived I'm sure Shaw would not have approved. Charles VIII in history or as portrayed by Richard Widmark here or Jose Ferrer in the Ingrid Bergman film about Joan of Arc, is not the noblest of monarchs. If you are a good Catholic, what he did was going against the will of the Deity. Otherwise though what he tries to do in consolidating his gains makes perfect good sense. It's funny that I did a review of Olivier's Henry V which viewed from the English point of view which shows how the French got in the situation they were in. What happens afterwards is that Henry V dies quite suddenly like Alexander the Great and England with an infant monarch and fifty year plus struggle for power implodes internally. Before he died however Charles VII disowned his son the Dauphin and blessed the marriage of Henry V to his daughter Katherine with the provision that Henry succeed Charles VII as King. The French for good reason do not list the English Henry as one of their kings. Enter Joan of Arc whose visions inspire an army and a nation. As played by Jean Seberg she's in the right age group to be sure. But I think Ingrid Bergman being the far more skilled professional carries it off better in her film. Ditto for Jose Ferrer instead of Richard Widmark. The best acted parts in this film are Anton Walbrook as Cauchon the Bishop who presided over the trial and the clever and serpentine John Gielgud as the Earl of Warwick. Maybe if Otto Preminger had chosen to film pure Shaw, Saint Joan would have been better received.",
+         "Perhaps it's just my weakness for short-haired brunettes that made me think that this film had far more in it's favour than it had detracting from it. The direction was admittedly slow, nay stationary, and some of the actors did not help this much. What was not originally appreciated about this film is that the story of Joan of Arc is an exceptionally simple one, but yet cloaked in mystery. Where the film failed was perhaps in not making us empathise with Joan, because we are given nothing of her motivations or her life before or after the seige at Orleans. Compare this to the Besson film, that fails in my eyes for the exact opposite reason, it gives us too much! I liked the film, but I liked it because although I couldn't empathise with a saint, I could empathise with a young woman who knew what she was doing, but didn't know where she was going. What I shall always remember about this film is Seberg's transformation from trusting, coy and innocent to bewildered, bothered and (dare I say it) bewitched. A great performance, and she really ought to have gone on to greater things.",
+         "Otto Preminger's much-maligned version of Joan of Arc's inquisition and defeat came under critical scrutiny for, among many things, the casting of an unknown in the demanding leading role. Jean Seberg was touted as Preminger's discovery, and her youthful energy and doe-eyed rebelliousness are the right ingredients for the Maid of Orleans. What Seberg lacks is forceful projection--though, with so much talent surrounding her, one hardly notices. After promoting the foppish Dauphin as the next King of France, a simple but fierce country girl heads the French Army into battle against England; sadly, with her triumphs passed her and her usefulness run dry, she was turned over to the courts where she was declared a heretic, her talk of voices the ramblings of a demonic influence. Graham Greene adapted George Bernard Shaw's celebrated play, putting much of the emphasis on Joan's trial; still, one clearly senses Preminger's pithy hand in the playful framework complete with ghosts and a music-box score. The costumes are plushy, the sets passable, yet one longs for more involving action (there's the set-up for battle, but no fighting); without a grander design, a more florid visual scope, what we're left with is textbook history. Certainly the performances make the film worth-seeing, and Seberg shouldn't be counted out in this regard. Hers is an empathic reading and, while she isn't yet a riveting presence, the newcomer manages a connection with the material (translating it to the viewer) which many seasoned pros might have found unmanageable. **1/2 from ****",
+         "Mankind has always interfered in the individual's right to have a one on one relationship with God in a way which they do not understand. George Bernard Shaw's play asks the question whether or not organized religion has the right to call someone a heretic because they have been given the gift of hearing God's voice and trying to spread their message in a way which the church doesn't approve. Like \"The Song of Bernadette\" and \"The Miracle of Our Lady of Fatima\", it is a woman who is the vessel of God's word, a taboo back in the day, especially in Joan of Arc's era. The fact that she dresses in man's clothes also makes her a target, especially when she goes into battle wearing a suit of armor and carrying a sword. This is a difficult film to assess, and even more difficult to get into, but once the message does get through and you accept Jean Seberg in the part (which many believe she was miscast in), the film will grab your soul and you will feel the emotional pain Joan must have felt as she realizes what denying her quest means in her spiritual journey. Seberg's Joan is much more waif like than Ingrid Bergman's was, and she seems more age appropriate. Of course, there are those who are going to use her lack of acting experience against her, even though her vulnerability does shine through amongst the more experienced actors. The fact that she does appear to be an emotionally fragile 19 year old works totally for her as she must face the variety of zealots and chauvinistic men who hold her future in their hands. It certainly was daring of director Otto Preminger to cast her, and in various aspects of her performance, it is a wise choice rather to have cast someone more well known like Natalie Wood. On the other hand, the presence of such veteran actors as Richard Widmark, Felix Aylmer, John Gielgud and Anton Walbrook add authority as the men, so her almost emotionless performance becomes more profound as their judgments against her get more and more authoritarian. This is a film which builds emotionally as her fate becomes more sealed, filmed sort of like Orson Welles' \"MacBeth\" and Ingmar Bergman's \"The Seventh Seal\" in a dark, dream-like state that is half dream, half nightmare. The minutes leading up to her execution are profoundly intense, and the burning itself is almost unbearable. Told as if a ghostly visit after her demise, \"Saint Joan\" is perhaps not the definitive film version of Shaw's classic play, but for what Preminger did, it deserves to be noticed more than the mediocre reviews it initially received. Pretty much every character is given a chance to identify the fact that they are aware that if they are revealed to have been wrong about her, they know they are damned, and yet Joan's ghostly return offers a chance of atonement for some, damnation for others. At any rate, it is one of those spiritual dramas which deserves to open discussion on many fronts, especially with the idea that God speaks to everybody in different ways, that God does show many faces, and that as human beings with weaknesses, strengths, vulnerabilities and passions, we can never understand why God chooses to deal with humanity the way he does.",
+         "Otto Preminger's notorious version of GB Shaw's SAINT JOAN was pummeled by critics on its first release due in large part to the director's controversial casting of novice Jean Seberg in the title role. While it's clear that Seberg did not possess the chops to pull of a role as complex and challenging as Joan of Arc, it's also evident, by her performance, that she's not wholly terrible either. She's not what is chiefly wrong with this film, a condensed version of the Shaw play (the screenplay is by Graham Greene). Preminger, who reportedly held the piece in the highest regard since his youth, was perhaps too close to it to put together a fully satisfying movie. His directing style, which by 1957 included many sweeping camera shots and few cuts, was not what a play this intimate needed. Although the sets by Ray Simm (built at Pinewood Studios in England) are pitch perfect, the film has a very chilly feel to it. Preminger's bigger casting blunder was to surround Seberg with the likes of John Gielgud, Anton Walbrook & Richard Todd, acting giants who soundly dwarf her. Worst of all is Richard Widmark as the sniveling Dauphin. Meant to be a child like innocent, Widmark plays his role as a feral court jester. Still, there's a number of pluses: Georges Périnal's stunning B&W photography, a rousing score by Mischa Spoliansky and many familiar faces in the (mostly) British supporting cast: Felix Aylmer, Finlay Currie, Harry Andrews and David Oxley as the bitchy \"Bluebeard.\""
+      ],
+      "genres": [
+         "Biography",
+         "Drama",
+         "History"
+      ],
+      "productionCompanies": ["Wheel Productions"],
+      "summaries": ["Young Joan of Arc comes to the palace in France to make The Dauphin King of France and is appointed to head the French Army. After winning many battles she is not needed any longer and soon she is thought of as a witch."],
+      "budget": 0
+   },
+   "movielensId": 105057,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1957-05-08",
+      "dvdReleaseDate": null,
+      "directors": ["Otto Preminger"],
+      "runtime": 110,
+      "movieId": 105057,
+      "title": "Saint Joan",
+      "mpaa": "",
+      "actors": [
+         "Jean Seberg",
+         "Richard Widmark",
+         "Richard Todd",
+         "Adolf Wohlbrück",
+         "John Gielgud",
+         "Felix Aylmer",
+         "Archie Duncan",
+         "Harry Andrews",
+         "Margot Grahame",
+         "Barry Jones",
+         "Francis de Wolff",
+         "Finlay Currie"
+      ],
+      "imdbMovieId": "0050928",
+      "originalTitle": "Saint Joan",
+      "genres": [
+         "History",
+         "Drama"
+      ],
+      "youtubeTrailerIds": [],
+      "plotSummary": "Young Joan of Arc comes to the palace in France to make The Dauphin King of France and is appointed to head the French Army. After winning many battles she is not needed any longer and soon she is thought of as a witch.",
+      "tmdbMovieId": 108564,
+      "avgRating": 2.5,
+      "releaseYear": "1957",
+      "numRatings": 4,
+      "posterPath": "/hDq4deSt79RjjPzu6Ew4VgFzD4w.jpg"
+   }
+}

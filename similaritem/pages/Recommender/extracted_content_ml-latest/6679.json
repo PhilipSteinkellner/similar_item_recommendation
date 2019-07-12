@@ -1,0 +1,442 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "hacker",
+            "id": 2157
+         },
+         {
+            "name": "history",
+            "id": 9682
+         },
+         {
+            "name": "linux",
+            "id": 196390
+         },
+         {
+            "name": "gnu",
+            "id": 210034
+         },
+         {
+            "name": "free software",
+            "id": 215267
+         },
+         {
+            "name": "open source",
+            "id": 215268
+         }
+      ],
+      "imdb_id": "tt0308808",
+      "video": false,
+      "title": "Revolution OS",
+      "recommendations": [
+         27267,
+         21710,
+         139212,
+         60383,
+         12759,
+         162873,
+         20468,
+         39411,
+         52017,
+         27855,
+         57203,
+         42284,
+         10088,
+         84626,
+         49352,
+         39997,
+         24458,
+         109109,
+         83412,
+         13371
+      ],
+      "backdrop_path": "/5wEQn7xOOGsGJZAJHvLGNsd56MN.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 4,
+               "character": "Narrator",
+               "gender": 1,
+               "credit_id": "52fe47d89251416c750a75d1",
+               "name": "Susan Egan",
+               "profile_path": "/makjHZa6ZsjH16gLp276tB1Krd3.jpg",
+               "id": 86128,
+               "order": 0
+            },
+            {
+               "cast_id": 5,
+               "character": "Himself - Creator, Linux Kernel",
+               "gender": 0,
+               "credit_id": "5589b6f4c3a3681dca00353a",
+               "name": "Linus Torvalds",
+               "profile_path": "/oURkxNtFJmLZVpeuq88IY0NqAtD.jpg",
+               "id": 132039,
+               "order": 1
+            },
+            {
+               "cast_id": 6,
+               "character": "Himself - Founder, GNU Project",
+               "gender": 0,
+               "credit_id": "5589b85fc3a3681dca00354f",
+               "name": "Richard M. Stallman",
+               "profile_path": "/9aefr3VKS2FogX6y646by6r5pXd.jpg",
+               "id": 132038,
+               "order": 2
+            },
+            {
+               "cast_id": 7,
+               "character": "Himself - Author",
+               "gender": 0,
+               "credit_id": "5589b8839251414c7100218d",
+               "name": "Eric S. Raymond",
+               "profile_path": "/hoHjtqfzVU9BUS8ssPkTYOLLMkM.jpg",
+               "id": 132037,
+               "order": 3
+            },
+            {
+               "cast_id": 8,
+               "character": "Himself - Author, Open Source Definition",
+               "gender": 0,
+               "credit_id": "5589b970c3a368290f000018",
+               "name": "Bruce Perens",
+               "profile_path": "/jSLkyjCdgeIzBp8YiwyubzODmPv.jpg",
+               "id": 1480810,
+               "order": 4
+            },
+            {
+               "cast_id": 9,
+               "character": "Himself - Co-Founder, CEO, VA Linux Systems",
+               "gender": 0,
+               "credit_id": "5589bb6092514140b2000d7c",
+               "name": "Larry Augustin",
+               "profile_path": null,
+               "id": 1480811,
+               "order": 5
+            },
+            {
+               "cast_id": 10,
+               "character": "Himself - Co-Founder, Cygnus Solutions",
+               "gender": 0,
+               "credit_id": "5589bbcd9251410dd4000234",
+               "name": "Michael Tiemann",
+               "profile_path": "/lL0sEsnO2PQP8JQtv9tJpDGUhgC.jpg",
+               "id": 1480812,
+               "order": 6
+            },
+            {
+               "cast_id": 11,
+               "character": "Himself",
+               "gender": 0,
+               "credit_id": "5589bceec3a368053e0046d1",
+               "name": "Brian Behlendorf",
+               "profile_path": "/bqMoXiqhg8C5rg52pl0O7hAtOWS.jpg",
+               "id": 1480815,
+               "order": 7
+            },
+            {
+               "cast_id": 12,
+               "character": "Himself - Former Netscape Systems Engineer",
+               "gender": 0,
+               "credit_id": "5589be2e9251410dd4000255",
+               "name": "Frank Hecker",
+               "profile_path": null,
+               "id": 1480816,
+               "order": 8
+            },
+            {
+               "cast_id": 13,
+               "character": "Himself",
+               "gender": 0,
+               "credit_id": "5589be6592514152dc000a8c",
+               "name": "Chris DiBona",
+               "profile_path": null,
+               "id": 1480817,
+               "order": 9
+            },
+            {
+               "cast_id": 14,
+               "character": "Himself",
+               "gender": 0,
+               "credit_id": "5589be9a925141521c000123",
+               "name": "Nick Moffitt",
+               "profile_path": null,
+               "id": 1480818,
+               "order": 10
+            },
+            {
+               "cast_id": 15,
+               "character": "Himself",
+               "gender": 0,
+               "credit_id": "5589bef2c3a36809b1001201",
+               "name": "Rob Malda",
+               "profile_path": null,
+               "id": 1480819,
+               "order": 11
+            },
+            {
+               "cast_id": 16,
+               "character": "Himself - Employee, Red Hat Software",
+               "gender": 0,
+               "credit_id": "5589bf22c3a36821040022c7",
+               "name": "Donnie Barnes",
+               "profile_path": null,
+               "id": 1480820,
+               "order": 12
+            },
+            {
+               "cast_id": 17,
+               "character": "Himself",
+               "gender": 0,
+               "credit_id": "5589bf719251410dd4000269",
+               "name": "Marc Merlin",
+               "profile_path": null,
+               "id": 1480821,
+               "order": 13
+            },
+            {
+               "cast_id": 18,
+               "character": "Himself",
+               "gender": 0,
+               "credit_id": "5589bf9d9251414371001d4b",
+               "name": "Terry Egan",
+               "profile_path": null,
+               "id": 1480822,
+               "order": 14
+            },
+            {
+               "cast_id": 19,
+               "character": "Herself",
+               "gender": 0,
+               "credit_id": "5589c01d92514152dc000aa8",
+               "name": "Lisa Corsetti",
+               "profile_path": null,
+               "id": 1480823,
+               "order": 15
+            },
+            {
+               "cast_id": 20,
+               "character": "Himself",
+               "gender": 0,
+               "credit_id": "5589c04092514152dc000aad",
+               "name": "David Ljung",
+               "profile_path": null,
+               "id": 1480824,
+               "order": 16
+            },
+            {
+               "cast_id": 21,
+               "character": "Himself",
+               "gender": 0,
+               "credit_id": "5589c097c3a36805450044b1",
+               "name": "José Medeiros",
+               "profile_path": null,
+               "id": 1480825,
+               "order": 17
+            },
+            {
+               "cast_id": 22,
+               "character": "Himself",
+               "gender": 0,
+               "credit_id": "5589c0bac3a368290f00007b",
+               "name": "Russ Emerson",
+               "profile_path": null,
+               "id": 1480826,
+               "order": 18
+            },
+            {
+               "cast_id": 23,
+               "character": "Himself",
+               "gender": 0,
+               "credit_id": "5589c100c3a3681dca0035c3",
+               "name": "Patrick Devine",
+               "profile_path": null,
+               "id": 1480827,
+               "order": 19
+            },
+            {
+               "cast_id": 24,
+               "character": "Themselves",
+               "gender": 0,
+               "credit_id": "5589c12a9251410dd400027a",
+               "name": "The GNU/Stallmans",
+               "profile_path": null,
+               "id": 1480828,
+               "order": 20
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe47d89251416c750a75c1",
+               "name": "J.T.S. Moore",
+               "profile_path": null,
+               "id": 110351,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47d89251416c750a75c7",
+               "name": "Christopher Anderson-Bazzoli",
+               "profile_path": null,
+               "id": 110352,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47d89251416c750a75cd",
+               "name": "Steven Balick",
+               "profile_path": null,
+               "id": 110353,
+               "department": "Crew",
+               "job": "Sound Recordist"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Documentary",
+         "id": 99
+      }],
+      "popularity": 2.32904,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 19433,
+      "vote_count": 23,
+      "budget": 0,
+      "overview": "REVOLUTION OS tells the inside story of the hackers who rebelled against the proprietary software model and Microsoft to create GNU/Linux and the Open Source movement.",
+      "similar": [
+         201088,
+         65754,
+         15472,
+         37799,
+         12289,
+         284427,
+         33613,
+         2322,
+         10429,
+         10428,
+         860,
+         26428,
+         97,
+         10518,
+         9754,
+         317144,
+         9989,
+         28874,
+         1557,
+         250658
+      ],
+      "original_title": "Revolution OS",
+      "runtime": 85,
+      "poster_path": "/wND5cDOeSxcCt037nmmy83S0mm3.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "svenska",
+            "iso_639_1": "sv"
+         }
+      ],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "Wonderview Productions",
+         "id": 56291,
+         "origin_country": ""
+      }],
+      "release_date": "2001-01-01",
+      "vote_average": 6.4,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": "http://www.revolution-os.com",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["J.T.S. Moore"],
+      "runtime": 85,
+      "synopsis": null,
+      "writers": ["J.T.S. Moore"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0308808/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTgyNDU0NTIwNV5BMl5BanBnXkFtZTcwNzE4MDQyMQ@@._V1_SY317_CR1,0,214,317_AL_.jpg",
+      "actors": ["Stars: Linus Torvalds, Richard M. Stallman, Eric Raymond | See full cast and crew »"],
+      "reviews": [
+         "My fourteen-year-old boy is very much into computers (that's hardly surprising). This summer he'll be back with the Johns Hopkins University Center for Talented Youth program studying - I don't really know exactly what. It's some kind of computer program, I just sign the check. He's very much both anti-Microsoft and anti-Bill Gates. He's also quite pro-Linux, the emblem of the \"Open Source\" movement whose adherents regard its underlying virtues with a devotion normally reserved by the religious for the icons of their faiths. So he wanted me to see \"Revolution OS,\" a documentary about the Linux operating system and the open source movement that spawned the increasingly important competitor to both Microsoft and Apple. This is a very interesting documentary which I, clueless as to the secrets of operating systems, readily understood. I watched it with the barest comprehension of Linux or the philosophy underlying the open source concept. Much credit to the filmmaker for not only explaining the seminal value of open source - the commitment to free interchange of ideas with minimal incorporation of legal protection for intellectual property - but for also succinctly allowing contrasting values and competing personalities screen time. This documentary is a very concise but excellent guide for the uninitiated into a world usually the arcane preserve of specialists most adept at talking to each other. The Open Source movement is a work in progress threatened by the real risk of those benefiting from openness legally protecting their own \"added value\" and thus, in a sense, betraying their benefactors. Several of those interviewed pursue their open source values almost as a creed, the commitment to computers taking the place of more traditional dogma. Anyone interested in a major intellectual counterpoint to the dominance of both Microsoft and the role of law in insuring proprietary benefits for innovators should see \"Revolution OS\": no manual required. 8/10.",
+         "While this documentary only covers the early period of Linux and Open Source history (up to about 2000), it provides great insights into how the software industry got itself where it is today. Of course, since 2000, Linux has made great strides into the server market, the desktop market (even Walmart sells computers with Linux now), and the embedded market. Cell phones, Palm PDAs, cameras, camcorders, cars, networking, Tivo, cable boxes, etc. all run by Linux now (or soon will, according to announcements from manufacturers). The days when you needed to learn a dozen different operating systems are gone. Learn Linux and you know how everything works. The best part is that if you don't like the way something works, you can change it. That, and it's free! Make copies for all your friends, legally. Tens of thousands of high-quality free software products (office suites, graphics packages, video processing, everything imaginable). Tech support is provided by tens of thousands of volunteers. It's hard to understand how this change from paying for software to free software happened; for many people not involved in the process, it's still news to them. If you want to know how this all happened, Revolution OS will give you the background you need to understand the way the software business works now, and in the future.",
+         "Given that I have no knowledge about computers nor how they operate, I found this film very informative with some basic descriptions of the free software and open source movement (which have some ideological differences... not that I had ever heard of either). The film recounts the historical evolution (and subsequent \"revolution\") through a series of interviews of key players in the development of the Linux operating systems for computers. If you know nothing about computers, do not assume that you will find this film uninteresting. In fact, although dense with information, the narrative is straight forward and almost all the information is explained for the ignorant like myself. There are some relatively small problems with the film, mainly near its conclusion. The finale of the film does not address the disparity between the commercial aspects of open source in the 90's and the long-term growth of the philosophy and practical applications. I assume that the Linux OS and the idea of open source did not lose steam after the dot-com stock bubble burst. Given I don't work around computers, besides for internet research and writing, I must make that assumption. Yet the film implies, for those of us who are ignorant, that perhaps it was derailed by the economic problems. But given the stable foundation of the idea that the film describes, I cannot imagine that commercial problems would have a long-term affect. The film ultimately is a nicely constructed lesson for those of us out of the loop. I recommend it to anyone who is interested in watching documentaries or learning interesting kernels about our world. In terms of emotional involvement, the way the director juxtaposes the interviewees creates interesting moments of humor (there seems to be a jockeying for credit happening within the community of programmers). Where the credit belongs and how people have used this ideology (which it is according to one of the founders of GNU-- see the movie, it will all be explained) to launch practical business operations creates a nice tension. Of course, there are some mentions of Microsoft's relationship, which is adversarial, to the Linux OS that can help the laymen get emotionally involved in the story by means of creating a hero (the Open Source community) and a villain (Microsoft). Of course the Microsoft way of business (proprietary rights) is never really given voice with the exception involving an over-dramatized reading of argumentative letter written in the 70's by Bill Gates (given I am originally from Seattle and some of my friends work for the giant, it seems a little one-sided). Again, if you have no knowledge of computers, do not avoid this film for that reason alone. If you are on this site, you have an interest in films. You can at least appreciate it as a nicely constructed documentary (although not excellent) that will illuminate a part of recent history. A small note: although there are some mannerisms of the interviewees that can be regarded as stereotypical regarding computer enthusiasts, they are some of the more well-spoken interviewees I have seen in film in awhile.",
+         "When I first saw this on the shelf at the store I thought that it had a strong potential to just be a \"feel-good\" movie geared only towards those in the open source movement. But after watching it, I feel like this is a documentary that I could show my parents so that they can better understand the Open Source Community that I call myself a member of. This movie provides a very good introduction to what drove software programmers of the 70s into the idea of freely available source code. I thought I new most of the history, but a lot of what Richard Stallman and Bruce Perens talk about enlightened me. I feel like I know understand the open source community better and get the big picture. Even though I thought I knew the big picture before.",
+         "I guess I expected Revolution OS to show not only the history of LINUX and OpenSource but also why these softwares are better than their commercial counterparts. I was pleased with the presentation of the history, as I had not been previously aware of it, but I was less than satisfied with the documentary's complete lack of any demonstration, however brief, of the software and an explanation of why it's better than Microsoft Windows. There's a scene where Bill Gate's is responding to the issue of free software. Some of his remarks make sense- but it was difficult to focus on the ideas because at that point there was absolutely atrocious and intrusive music 'pasted' into the background and I couldn't help feeling that I was being manipulated. I also did not get how some of these developers make their money. Someone has to create the software. This takes time. People have to eat and they need to pay for their food to eat. If they are giving their time away developing free software, where are they getting the money for food? I would have liked the documentary to address that issue. I would also like to say that I do use OpenSource software and find it to be quite good, and since it's free, remarkable. I think the OpenSource movement is revolutionary, but I'm not sure this film brings this across.",
+         "\"Revolution OS\" starts off strong by allowing several important and articulate people to explain how and why they became involved with free and open source software. It uses these interviews very effectively to reveal the ideas, personalities, and history behind free software, open source, and Linux. Unfortunately, after this broad and detailed introduction, it ignores all implications of open source and free software except one: the impact of Linux on the commercial software market, and more specifically, the fate of \"Linux companies\" in the tech crash. Nevertheless, it is an enjoyable and worthy film. Complaints first. Unfortunately, \"Revolution OS\" is a short film, and it devotes a disproportionate amount of time to the emergence of Linux-related companies and the precipitous rise and then fall of their stock prices. Although it may be hard now to imagine someone seeing this film without already knowing that story, it's misleading for the film to present this spectacle without making it clear that these stocks were only a few of hundreds of computer stocks that shared the same fate. By devoting so much time to the buildup of commercial excitement about Linux and then concluding the film with the collapse of Linux company share prices, \"Revolution OS\" gives the impression that the recent history of Linux is contained in the boom-bust story of Linux stocks, leaving the uninformed viewer to conclude -- what? That the stock market has rendered final judgment on the value of open source? That the apparent importance of Richard Stallman and Linus Torvalds was just a delusion of tech-crazed investors? This distorted presentation is apparently due to the filmmakers' lack of understanding that the open source and free software phenomena have significance beyond Linux's impact on the commercial software market. So many other avenues could have been explored: the economic and social impact of the availability of free software in developing nations; perspectives from the economic theory of information; the utility of the ongoing creation of useful software by open source development teams; the applicability of licenses such as the GNU General Public License to everything that can be seen as information, including musical compositions and other intellectual creations; and last but certainly not least, the contributions of free software and open source ideas (and their opponents' ideas) to debates over intellectual property, perhaps the defining issue of this generation. Simply mentioning some of these ways in which the free software and open source movements have the potential to influence society would have paid sufficient respect to the complexity of the subject, but after allotting generous time to philosophical and historical exposition, the filmmakers inexplicably revert to the simplistic public perception of Linux circa 2001: a bunch of geeks who almost got rich. In fact, if you only saw the last third of \"Revolution OS\", you would think it was a mock-affectionate eulogy for Linux geeks' dot-com dreams. On the up side, the stars of \"Revolution OS\" are treated fairly, and their foibles generate plenty of humor, especially their ego clashes. When Richard Stallman accepts an award named after Linus Torvalds, he unleashes a simile about Torvalds' role in the success of Linux that left me laughing at its cleverness, Stallman's baldness in demanding his share of credit, and the (probably justified) assumption he makes of his audience's intimate familiarity with \"Star Wars.\" \"Revolution OS\" also deserves credit for the care it takes to portray the differences and disagreements between individuals, their common ground, and their varying attitudes toward unfree software. Merely recognizing that the difference between free software and open source software is important enough to present to a lay audience puts this movie in my good graces. Overall, \"Revolution OS\" will be better understood and appreciated by people who are already familiar with the subject matter. Non-geeks, however, will find considerable enlightenment, especially if they follow up by reading _The Cathedral and the Bazaar_ (which is available on the web) and the articles by Richard Stallman and others on the \"Philosophy of the GNU Project\" page at the GNU web site.",
+         "I had been hearing about Revolution OS from some programmers at my company for the past several months. I'm a management-type so I didn't think the film would really be my type of thing. I then heard a CNET radio segment on the film and decided it might be kind of interesting after all. As it ended up, I caught the last show at the Towne 3 in San Jose. I was tired by the time I sat down in my seat, but I was surprised that I actually stayed awake through the whole film. The director really succeed in making the film a lot more entertaining and involving than I would have thought possible. There were lots of talking heads, but I not as much as I was expecting. The best thing about the film was that it had a sense of humor about the whole thing. If you don't know anything about Linux or Open Source, but are interested in the topics, then you will really like Revolution OS. If you are looking for an intelligent documentary about something pretty important, then you will definitely like Revolution OS. If you are looking for some sort of super-technical film about how to write software or how and why obscure software patches were created, then this film is not for you. Basically, the director, J.T.S. Moore, approached the film like he was telling the story of a revolution with its own heroes, villains, defeats and sly comebacks. That's why I liked it because it was about people and some universal ideas. One final note, I don't see a lot a documentaries in the theater, but Revolution OS seemed really well made. The print I saw was scratched up from a lot of screenings, but the cinematography, editing, shot design, and music were totally top notch. A lot better than the stuff on TLC or The History Channel. I think the whole film was shot on 35mm and in cinemascope. Very neat. I will definitely get the DVD when it comes out.",
+         "If this really is a serious attempt for making a documentary it tries to cover so many areas that it should have been made a series instead. It fails to give a proper history of open source/free software. It fails to recreate the role of open source/free software during the period of focus, namely the dot com boom and crash of 1997-2001. It fails to give any new insights, even for the year it was made. And it fails miserably to have any kind of objectivity or dialogue. The value of this movie are the interviews with the key persons of the various open source and free software movements, though it becomes quite tiresome to sit and wait for the goodies. What really brings the credibility down is the overly hostile reading of the letter by Bill Gates and the traditional Microsoft bashing through the entire production, combined with the heroic soundtrack during the interviews of the \"good guys\". It gives the over all impression of really being a sales pitch for a church from a bunch of overly enthusiastic believers, though without the visionary parts that can make it a document of its context of production. In conclusion, even though far between, there are some good bits in this documentary that could make it worth watching if you have a special interest in the open source movement. Just be aware that you might also get some chills of embarrassment in between.",
+         "*Note, there may be spoilers but it's documented history. It's like spoiling The Civil War by Ken Burns. Fast forward thirteen years to 2014, it's easy to reflect back on this film and see it was a product of its time. This documentary is an interesting look into the world of the Open Source movement and the people behind it but nothing more. Revolution OS spends most of its time speaking on the open source community and chiding proprietary software giant, Microsoft. A popular narrative in 2004. It's very much an idealist view on the computing world built on Richard Stallman's rhetoric. A brilliant man who was unable to adapt to changing times, a relic of the hippie generation. Apple had yet to make a comeback with its Switch campaign, the iMac and iPod - during this time it was primarily Linux vs. Microsoft for people such as myself. I couldn't build software from scratch but I was able to fix problems. For me? There was no doubt Microsoft was the winner in this area and as much as I enjoy this movie, it fails in addressing the open source community problems. Have they produced some great software? Apache is mentioned and it's great for running a server, even on Windows. But what they fail to speak of is the hardware manufacturer's lack of support for Linux in the early 2000's. I can't build software, I certainly can't build hardware. So you'd find 20 page hacks just to get your sound to work. Now if you're in the business of wanting to provide software support for people, which is a big part of this community, that's great. Someone will pay you to fix the problem and you're the geek to do it but why not just make it work to begin with? Paid support is an unfeasible business model for the average user - it's flipping expensive. They make a big point of paid support in the open source community which it has but so does Windows. There's thousands of companies in direct contact with Microsoft to help alleviate any problems your company may encounter. Tinkering with the various operating systems was and is fun but at some point you either continue that progress of \"hacking\" the software or you get tired and want it to work. With the exception of Windows ME, Microsoft had a fairly good track record of a stable operating system filled with support from hardware manufacturers. With proprietary software, you DO have choices. If Voodoo begins to fail at its job in providing a decent video card, you switch to Nvidia and then ATI... there's also a plethora of software choices from free, open source to paid. Support can be free, sometimes it's not. We are really in a different era by now. The film also delves a bit into the Mozilla project and the problem it had with Internet Explorer. Today? After years of development and hundreds and thousands of changes the browser of choice for geeks, FireFox, began to lose out to Google Chrome. Why? It was faster. FireFox had become set in a quagmire of relying on plug-ins and they forgot to shore up the primary software itself. It had a huge ram issue when Chrome was released. A sleek and faster browser. In today's world, you have APIs and SDKs that allow you certain licensing rights that allow you to tap into the system you're building software for. The Linux vs. Microsoft is almost a dead narrative by now. The majority of people have moved on from the desktop to the tablets and mobile phones. They really don't care about proprietary vs. open source - the average user does not care. Period. They want it to be easy and work. It's hard to imagine the desktop dying off for web developers like myself - what could possibly take its place in the heavy computing and production world? It's not a tablet or cell phone but it's something and it'll probably spawn its own documentary when it arrives.",
+         "I've read 3 books related to the open source movement - \"Just For Fun\", \"Rebel Code\" and \"Free As In Freedom\". This documentary told much the same story as in the books. However, it was kind of neat to \"meet\" some of the key players and hear them personally give their observations and viewpoints. It was also neat seeing them \"in person\" because they portrayed a different image than I sensed from the books. They are real people dedicated to a great endeavour. For anyone interested in open source, this documentary is a \"must see\"!"
+      ],
+      "genres": [
+         "Documentary",
+         "Comedy"
+      ],
+      "productionCompanies": ["Wonderview Productions"],
+      "summaries": ["While Microsoft may be the biggest software company in the world, not every computer user is a fan of their products, or their way of doing business. While Microsoft's Windows became the most widely used operating system for personal computers in the world, many experts took issue with Microsoft's strict policies regarding licensing, ownership, distribution, and alteration of their software. The objections of many high-profile technology experts, most notably Richard Stallman, led to what has become known as \"the Open Source Movement,\" which is centered on the belief that computer software should be free both in the economic and intellectual senses of the word. Eventually, one of Stallman's admirers, Linus Torvalds, created a new operating system called Linux, a freely distributed software which many programmers consider to be markedly superior to Windows. Revolution OS is a documentary that examines the genesis of the Open Source Movement, and explores and explains the technical and intellectual issues involved in a manner understandable to computer aficionados and non-techheads alike."],
+      "budget": 0
+   },
+   "movielensId": 6679,
+   "movielens": {
+      "languages": [
+         "English",
+         "svenska"
+      ],
+      "releaseDate": "2001-01-01",
+      "dvdReleaseDate": "2003-09-30",
+      "directors": ["J.T.S. Moore"],
+      "runtime": 85,
+      "movieId": 6679,
+      "title": "Revolution OS",
+      "mpaa": "",
+      "actors": [
+         "Susan Egan",
+         "Linus Torvalds",
+         "Richard M. Stallman",
+         "Eric S. Raymond",
+         "Bruce Perens",
+         "Larry Augustin",
+         "Michael Tiemann",
+         "Brian Behlendorf",
+         "Frank Hecker",
+         "Chris DiBona",
+         "Nick Moffitt",
+         "Rob Malda",
+         "Donnie Barnes",
+         "Marc Merlin",
+         "Terry Egan",
+         "Lisa Corsetti",
+         "David Ljung",
+         "José Medeiros",
+         "Russ Emerson",
+         "Patrick Devine",
+         "The GNU/Stallmans"
+      ],
+      "imdbMovieId": "0308808",
+      "originalTitle": "Revolution OS",
+      "genres": ["Documentary"],
+      "youtubeTrailerIds": [],
+      "plotSummary": "REVOLUTION OS tells the inside story of the hackers who rebelled against the proprietary software model and Microsoft to create GNU/Linux and the Open Source movement.",
+      "tmdbMovieId": 19433,
+      "avgRating": 3.69005,
+      "releaseYear": "2001",
+      "numRatings": 221,
+      "posterPath": "/wND5cDOeSxcCt037nmmy83S0mm3.jpg"
+   }
+}

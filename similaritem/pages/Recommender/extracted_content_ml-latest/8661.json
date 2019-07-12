@@ -1,0 +1,763 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "river",
+            "id": 1261
+         },
+         {
+            "name": "settler",
+            "id": 3591
+         },
+         {
+            "name": "caravan",
+            "id": 5867
+         },
+         {
+            "name": "epic",
+            "id": 6917
+         },
+         {
+            "name": "frontier",
+            "id": 9454
+         },
+         {
+            "name": "outlaw",
+            "id": 9503
+         },
+         {
+            "name": "native american",
+            "id": 10322
+         },
+         {
+            "name": "colonisation",
+            "id": 12337
+         },
+         {
+            "name": "family",
+            "id": 18035
+         },
+         {
+            "name": "riverboat",
+            "id": 158244
+         }
+      ],
+      "imdb_id": "tt0056085",
+      "video": false,
+      "title": "How the West Was Won",
+      "recommendations": [
+         14551,
+         13909,
+         16211,
+         40630,
+         22201,
+         29244,
+         14554,
+         37347,
+         11617,
+         6644,
+         12584,
+         18647,
+         14881,
+         3089,
+         17529,
+         37412,
+         29715,
+         22383,
+         18118,
+         6529
+      ],
+      "backdrop_path": "/rTLd4dIgEeM7QzifI2IYwDiFoo5.jpg",
+      "revenue": 50000000,
+      "reviews": [{
+         "author": "John Chard",
+         "id": "590b1868c3a36843a10161fe",
+         "content": "Bound for the promised land, indeed.\r\n\r\nOne of the last great epic movies to come out of MGM that was a roaring success, How the West Was Won still has enough quality about it to warrant high praise. The story that drives the film on was suggested by the series of the same name that featured in \"Life\" magazine 1959. Narrative is formed around one family, the Prescott's, who set out on a journey West in 1839. They and their offspring fill out five segments of film that are directed by three different men, \"The Rivers\", \"The Plains\" & \"The Outlaws\" is under the guidance of Henry Hathaway, and \"The Civil War\" by John Ford and \"The Railroad\" by George Marshall. \r\n\r\nFilmed in the unique Cinerama format, which in a nutshell is three cameras filming at once to project a fully formed experience for the human eye, the production has an all star cast and four supreme cinematographers aiding the story. To name all the cast would take forever, but in the main all of the major parts were filled by stars who had already headlined a movie previously. The cinematographers are naturally key since such a sprawling story inevitably has sprawling vistas, they come up trumps with some truly special work: William H. Daniels, Milton Krasner, Charles Lang Jr. & Joseph LaShelle, four great names who help to make the film a poetic beauty.\r\n\r\nAs a whole it's undeniably far from flawless, complaints such as it running out of steam towards the end (the irony of it since a steam train features prominently), and the plot contrivances, are fair enough. However, when the film is good, it's real good: raft in the rapids, Cheyene attack, buffalo stampede and train robbery, each of them are good enough to be a highlight in separate movies. Even the songs are pleasant, particularly when they revolve around the effervescent Debbie Reynolds, while home format transfers are now finally up to a standard worthy of investment, time and cash wise.\r\n\r\nHard to dislike for a Western fan, and carrying enough about it to lure in the casual viewer, How the West Was Won really is a case of they don't make them like they used to. 8/10",
+         "url": "https://www.themoviedb.org/review/590b1868c3a36843a10161fe"
+      }],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Eve Prescott Rawlings",
+               "gender": 1,
+               "credit_id": "52fe449c9251416c7503ae37",
+               "name": "Carroll Baker",
+               "profile_path": "/iLjfUkmVv9B9WAvvuJpcKpVNpZA.jpg",
+               "id": 14701,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Marshal Lou Ramsey",
+               "gender": 2,
+               "credit_id": "52fe449c9251416c7503ae3b",
+               "name": "Lee J. Cobb",
+               "profile_path": "/535dOk8eUI97esLMunIXdG58jUu.jpg",
+               "id": 5248,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Jethro Stuart",
+               "gender": 2,
+               "credit_id": "52fe449c9251416c7503ae3f",
+               "name": "Henry Fonda",
+               "profile_path": "/jNLuMWW7SpSeGMUP5qxOAtg0Ryr.jpg",
+               "id": 4958,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Julie Rawlings",
+               "gender": 0,
+               "credit_id": "52fe449c9251416c7503ae43",
+               "name": "Carolyn Jones",
+               "profile_path": "/2MiUzB4xpwjFQhAq3aF5VNxsNA.jpg",
+               "id": 19109,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Zebulon Prescott",
+               "gender": 2,
+               "credit_id": "52fe449c9251416c7503ae47",
+               "name": "Karl Malden",
+               "profile_path": "/mszc66eJmCKzOD2vwl8qJrVSz1W.jpg",
+               "id": 9857,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Cleve Van Valen",
+               "gender": 2,
+               "credit_id": "52fe449c9251416c7503ae4b",
+               "name": "Gregory Peck",
+               "profile_path": "/ycs6o0UoohQ7nV7A6VWaTkoIkCQ.jpg",
+               "id": 8487,
+               "order": 5
+            },
+            {
+               "cast_id": 7,
+               "character": "Zeb Rawlings",
+               "gender": 2,
+               "credit_id": "52fe449c9251416c7503ae4f",
+               "name": "George Peppard",
+               "profile_path": "/4a0pbvG693RXAzuMgPGLOH0ZqbD.jpg",
+               "id": 1933,
+               "order": 6
+            },
+            {
+               "cast_id": 8,
+               "character": "Roger Morgan",
+               "gender": 2,
+               "credit_id": "52fe449c9251416c7503ae53",
+               "name": "Robert Preston",
+               "profile_path": "/jYeXchYunCtIN3wd6VbNnoMWaqD.jpg",
+               "id": 40202,
+               "order": 7
+            },
+            {
+               "cast_id": 9,
+               "character": "Lilith 'Lily' Prescott",
+               "gender": 1,
+               "credit_id": "52fe449c9251416c7503ae57",
+               "name": "Debbie Reynolds",
+               "profile_path": "/p5o3qOl4bFZxrnUxG826cIN0GvP.jpg",
+               "id": 8857,
+               "order": 8
+            },
+            {
+               "cast_id": 10,
+               "character": "Linus Rawlings",
+               "gender": 2,
+               "credit_id": "52fe449c9251416c7503ae5b",
+               "name": "James Stewart",
+               "profile_path": "/aBLtt0Sl4AZVNclzFrXzbndRzux.jpg",
+               "id": 854,
+               "order": 9
+            },
+            {
+               "cast_id": 12,
+               "character": "Gen. William Tecumseh Sherman",
+               "gender": 2,
+               "credit_id": "52fe449c9251416c7503ae5f",
+               "name": "John Wayne",
+               "profile_path": "/iw9gHSQj1l3TQeiJb5tNK2N8k2w.jpg",
+               "id": 4165,
+               "order": 11
+            },
+            {
+               "cast_id": 13,
+               "character": "Narrator",
+               "gender": 2,
+               "credit_id": "52fe449c9251416c7503ae63",
+               "name": "Spencer Tracy",
+               "profile_path": "/vnLAbTFBcKJcNfxQYwTImzZSext.jpg",
+               "id": 12147,
+               "order": 12
+            },
+            {
+               "cast_id": 27,
+               "character": "Charlie Gant",
+               "gender": 2,
+               "credit_id": "52fe449d9251416c7503aeb5",
+               "name": "Eli Wallach",
+               "profile_path": "/nRoyZzUjzY7iGdnp2V2kOgrMMFi.jpg",
+               "id": 3265,
+               "order": 13
+            },
+            {
+               "cast_id": 28,
+               "character": "Mike King",
+               "gender": 2,
+               "credit_id": "52fe449d9251416c7503aeb9",
+               "name": "Richard Widmark",
+               "profile_path": "/whrZ2aEg3FghVaDJf0JRrEhFLWl.jpg",
+               "id": 12149,
+               "order": 14
+            },
+            {
+               "cast_id": 29,
+               "character": "Col. Jeb Hawkins",
+               "gender": 2,
+               "credit_id": "52fe449d9251416c7503aebd",
+               "name": "Walter Brennan",
+               "profile_path": "/wPp0mmWWVMzOD3ipne6MrgDr0Tm.jpg",
+               "id": 4302,
+               "order": 15
+            },
+            {
+               "cast_id": 30,
+               "character": "Abraham Lincoln",
+               "gender": 2,
+               "credit_id": "52fe449d9251416c7503aec1",
+               "name": "Raymond Massey",
+               "profile_path": "/hGum9pfA0NOSD1CYXyG4TYc3upQ.jpg",
+               "id": 2669,
+               "order": 16
+            },
+            {
+               "cast_id": 31,
+               "character": "Rebecca Prescott",
+               "gender": 1,
+               "credit_id": "52fe449d9251416c7503aec5",
+               "name": "Agnes Moorehead",
+               "profile_path": "/ajpbxYhFVcpGAGMnux9zCwzRYlo.jpg",
+               "id": 11025,
+               "order": 17
+            },
+            {
+               "cast_id": 32,
+               "character": "Agatha Clegg",
+               "gender": 1,
+               "credit_id": "52fe449d9251416c7503aec9",
+               "name": "Thelma Ritter",
+               "profile_path": "/oMCbRKA165vBWOCskSXNKDplQf9.jpg",
+               "id": 7684,
+               "order": 18
+            },
+            {
+               "cast_id": 33,
+               "character": "Confederate deserter",
+               "gender": 2,
+               "credit_id": "52fe449d9251416c7503aecd",
+               "name": "Russ Tamblyn",
+               "profile_path": "/eSVSJvOR18dTgLRkeOqRYd6ew31.jpg",
+               "id": 6725,
+               "order": 19
+            },
+            {
+               "cast_id": 34,
+               "character": "Gen. Ulysses S. Grant",
+               "gender": 2,
+               "credit_id": "52fe449d9251416c7503aed1",
+               "name": "Harry Morgan",
+               "profile_path": "/xQlBwecEQEz84k7jDLPGi6FqxRJ.jpg",
+               "id": 4073,
+               "order": 20
+            },
+            {
+               "cast_id": 35,
+               "character": "Gant Henchman",
+               "gender": 2,
+               "credit_id": "52fe449d9251416c7503aed5",
+               "name": "Harry Dean Stanton",
+               "profile_path": "/fkl5iJYpKxSFGixyvAsBpLdDmqN.jpg",
+               "id": 5048,
+               "order": 21
+            },
+            {
+               "cast_id": 36,
+               "character": "River Pirate",
+               "gender": 2,
+               "credit_id": "54bf4c90925141315a000d17",
+               "name": "Lee Van Cleef",
+               "profile_path": "/oEEsdGCBjpyJyVZlx1X8PKvHe7S.jpg",
+               "id": 4078,
+               "order": 22
+            },
+            {
+               "cast_id": 39,
+               "character": "Gant  gang member",
+               "gender": 2,
+               "credit_id": "592a41dbc3a36877bc05e430",
+               "name": "Rodolfo Acosta",
+               "profile_path": "/m7lQ5rATvSUtamHOj6qtfZJGDHr.jpg",
+               "id": 24827,
+               "order": 23
+            },
+            {
+               "cast_id": 40,
+               "character": "Deputy Stover",
+               "gender": 2,
+               "credit_id": "5a08b80392514177f6005771",
+               "name": "Mickey Shaughnessy",
+               "profile_path": "/8HpRsdMdatOi5u0VYjhuoUM1q7.jpg",
+               "id": 3442,
+               "order": 24
+            },
+            {
+               "cast_id": 41,
+               "character": "Hylan Seabury",
+               "gender": 2,
+               "credit_id": "5a08b82b925141784f005450",
+               "name": "Clinton Sundberg",
+               "profile_path": "/ird4IaorvWN07a4CBQmy6Xl7oL.jpg",
+               "id": 94112,
+               "order": 25
+            },
+            {
+               "cast_id": 42,
+               "character": "Jeb Hawkins' Daughter",
+               "gender": 1,
+               "credit_id": "5a08b85cc3a36867ac00526b",
+               "name": "Brigid Bazlen",
+               "profile_path": "/sf4RFn1SjK482iSbzlQvmTkV4SJ.jpg",
+               "id": 112964,
+               "order": 26
+            },
+            {
+               "cast_id": 43,
+               "character": "Civil War Surgeon",
+               "gender": 2,
+               "credit_id": "5a08b879c3a368680a0055a5",
+               "name": "Willis Bouchey",
+               "profile_path": "/g0senkqHarzlxMl0MT68bTNdMpy.jpg",
+               "id": 83149,
+               "order": 27
+            },
+            {
+               "cast_id": 44,
+               "character": "Jeremiah Rawlings",
+               "gender": 0,
+               "credit_id": "5a08b88f9251417834005890",
+               "name": "Claude Johnson",
+               "profile_path": null,
+               "id": 1376913,
+               "order": 28
+            },
+            {
+               "cast_id": 45,
+               "character": "Sam Prescott",
+               "gender": 2,
+               "credit_id": "5a08b8a99251417811005ab1",
+               "name": "Kim Charney",
+               "profile_path": "/duJKj5iz2cgCuxpTbn5g65ODOxf.jpg",
+               "id": 136180,
+               "order": 29
+            },
+            {
+               "cast_id": 46,
+               "character": "Zeke Prescott",
+               "gender": 2,
+               "credit_id": "5a08b8c39251417845005aae",
+               "name": "Bryan Russell",
+               "profile_path": "/8wmB9Zo1Ptt4tUC06Y2XVljfd6A.jpg",
+               "id": 37885,
+               "order": 30
+            },
+            {
+               "cast_id": 47,
+               "character": "Prescott Rawlings",
+               "gender": 2,
+               "credit_id": "5a08b8d8c3a36867ac0052e4",
+               "name": "Stanley Livingston",
+               "profile_path": "/1EyfXStuBOfWCj1SEfFd7JZ7rhh.jpg",
+               "id": 100288,
+               "order": 31
+            },
+            {
+               "cast_id": 48,
+               "character": "Lilith's Attorney",
+               "gender": 2,
+               "credit_id": "5a08b8f4925141783b005538",
+               "name": "David Brian",
+               "profile_path": "/e0BICAGCXRtTksyOm8Np0TZfMST.jpg",
+               "id": 16016,
+               "order": 32
+            },
+            {
+               "cast_id": 49,
+               "character": "Peterson",
+               "gender": 2,
+               "credit_id": "5a08b93d9251417824005a68",
+               "name": "Andy Devine",
+               "profile_path": "/w4tLltNhtOqQXJzju4TzUJRiesg.jpg",
+               "id": 14966,
+               "order": 33
+            },
+            {
+               "cast_id": 50,
+               "character": "Huggins",
+               "gender": 2,
+               "credit_id": "5a08b9669251417824005a9e",
+               "name": "Jay C. Flippen",
+               "profile_path": "/gioapO1wsvHUH9cLmlxsWK6HaSx.jpg",
+               "id": 3338,
+               "order": 34
+            },
+            {
+               "cast_id": 51,
+               "character": "Alec Harvey",
+               "gender": 2,
+               "credit_id": "5a08b97d9251417811005b95",
+               "name": "Tudor Owen",
+               "profile_path": "/wl75h6SDHDJ9kYjzDK3NCXKtduM.jpg",
+               "id": 106101,
+               "order": 35
+            },
+            {
+               "cast_id": 52,
+               "character": "Train Conductor",
+               "gender": 2,
+               "credit_id": "5a08b992925141785d005890",
+               "name": "Karl Swenson",
+               "profile_path": "/yyeaz3ruAZbyPWame4CZW49GSHe.jpg",
+               "id": 12158,
+               "order": 36
+            },
+            {
+               "cast_id": 53,
+               "character": "Gambler",
+               "gender": 2,
+               "credit_id": "5a08b9b0c3a368672a005aff",
+               "name": "James Griffith",
+               "profile_path": "/AcltehHWFxLWgIZfuhxfAJnIJYX.jpg",
+               "id": 3347,
+               "order": 37
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe449c9251416c7503ae69",
+               "name": "John Ford",
+               "profile_path": "/dEOu7wZjE9BH4kdADWh9eTM10U.jpg",
+               "id": 8500,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe449c9251416c7503ae6f",
+               "name": "Henry Hathaway",
+               "profile_path": "/aHXD9EFWbtftnaBzPYfO2dkLLKd.jpg",
+               "id": 37360,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe449d9251416c7503ae75",
+               "name": "George Marshall",
+               "profile_path": "/i1FThWBJ62u2biOcrprrqRjAB9n.jpg",
+               "id": 19093,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe449d9251416c7503ae7b",
+               "name": "Richard Thorpe",
+               "profile_path": "/szbaqa5qggPXjaLbNGb2JMgsoi3.jpg",
+               "id": 70862,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe449d9251416c7503ae81",
+               "name": "James R. Webb",
+               "profile_path": null,
+               "id": 69104,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe449d9251416c7503ae87",
+               "name": "John Gay",
+               "profile_path": null,
+               "id": 19573,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe449d9251416c7503ae8d",
+               "name": "Bernard Smith",
+               "profile_path": null,
+               "id": 70863,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe449d9251416c7503ae93",
+               "name": "Alfred Newman",
+               "profile_path": "/498k6KmplSJPvWzAecS7eUnaBNg.jpg",
+               "id": 8503,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe449d9251416c7503ae99",
+               "name": "William H. Daniels",
+               "profile_path": null,
+               "id": 3637,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe449d9251416c7503ae9f",
+               "name": "Milton Krasner",
+               "profile_path": "/mcCWfNEjNZc7tLd4QXN6epluwfG.jpg",
+               "id": 10602,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe449d9251416c7503aea5",
+               "name": "Charles Lang",
+               "profile_path": "/1k74XckQqxOwdPYvhvhEdZ9jl4l.jpg",
+               "id": 3148,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe449d9251416c7503aeab",
+               "name": "Joseph LaShelle",
+               "profile_path": "/3j8m5eDzhinBJeUscfNZWhJn9ch.jpg",
+               "id": 4101,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe449d9251416c7503aeb1",
+               "name": "Harold F. Kress",
+               "profile_path": null,
+               "id": 7510,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5561a821c3a3681f9600185e",
+               "name": "Walter Plunkett",
+               "profile_path": null,
+               "id": 11491,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5561a85dc3a36820c600171f",
+               "name": "Sydney Guilaroff",
+               "profile_path": null,
+               "id": 14681,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Western",
+         "id": 37
+      }],
+      "popularity": 12.64824,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 11897,
+      "vote_count": 114,
+      "budget": 15000000,
+      "overview": "The epic tale of the development of the American West from the 1830s through the Civil War to the end of the century, as seen through the eyes of one pioneer family.",
+      "similar": [
+         223485,
+         49849,
+         57201,
+         281957,
+         10530,
+         196,
+         10747,
+         9086,
+         57120,
+         103731,
+         10638,
+         11040,
+         152748,
+         10046,
+         1255,
+         10915,
+         75552,
+         6643,
+         42703,
+         43367
+      ],
+      "original_title": "How the West Was Won",
+      "runtime": 162,
+      "poster_path": "/ixbhzvECnuqCBYnF9J1mfVfLCPF.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Español",
+            "iso_639_1": "es"
+         }
+      ],
+      "production_companies": [{
+         "logo_path": "/zcxym93i5BTqqjhVvAhV5HPwYTR.png",
+         "name": "Metro-Goldwyn-Mayer",
+         "id": 21,
+         "origin_country": "US"
+      }],
+      "release_date": "1962-11-01",
+      "vote_average": 6.7,
+      "belongs_to_collection": null,
+      "tagline": "It's here! The mightiest adventure ever filmed!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": [
+         "John Ford",
+         "Henry Hathaway"
+      ],
+      "runtime": 164,
+      "synopsis": null,
+      "writers": ["James R. Webb"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0056085/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BNTk2NDk1NjY0MV5BMl5BanBnXkFtZTgwMzkzNTcxMTE@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: James Stewart, John Wayne, Gregory Peck | See full cast and crew »"],
+      "reviews": [
+         "Ford's most distinctive work has dealt with the white American's conquest of the wilderness... He has made films about most of the significant episodes in American history\u0097early colonization of the West, the Civil War, the extermination of the Indians\u0097and in so doing he has recounted the American saga in human terms and made it come alive... Ford directed one of the episodes of \"How the West Was Won,\" the Civil War... His brief but redeeming contribution effectively recounted the bloody Battle of Shiloh and its aftermath... Hathaway's strong points were atmosphere, character and authentic locations... He directed, in the film, the episodes of 'The Rivers,' 'The Plains,' and 'The Outlaws.' George Marshal\u0097the most prolific and most versatile of all major Hollywood filmmakers\u0097directed the episode of 'The Railroad.' As seen through the eyes of four generations of a pioneer family of New England farmers as they made their way west in the l840s, the scope of \"How the West Was Won\" is enormous, with essays on the physiology of the West (pioneers, settlers, Indians, outlaws, and adventurers). The film describes the hard life and times of the Prescott's family across the continent and their fortune to the western shore after years of hardship, loss, love, war, danger and romance... Stewart appears in the first half hour as a trapper named Linus Rawlings, who marries the daughter (Carroll Baker) of a family migrating West\u0085 The story touched all the bases: runaway wagon trains; Indians stampeding Buffalos; confused and erratic river rapids; the grandeur of Monument Valley, Utah; the rocky mountains; the Black Hills of South Dakota; the clamor of gold in St.Louis; the Cheyenne attack; the Pony Express; the overland telegraph; the coming of the steel roadway of the iron horse; the bloody battle between cattlemen and homesteaders; and some thrilling hand-to-hand fighting\u0085 The result is a stupendous epic Western with 8 Academy Award Nominations including Best Picture and three Academy Awards including Best Original Story and Screenplay; Best Soundand Best Film Editing... Narrated by Spencer Tracy, \"How the West Was Won\" enlists the services of such top stars as: Carroll Baker, the strong-minded woman; Gregory Peck, the luckiest gambler; Debbie Reynolds, the perplexing talented singer and dancer; Henry Fonda, the buffalo hunter with gray flowing hair and mustaches; George Peppard, the man with a star; Robert Preston, the decent character with moral flaws; Thelma Ritter, the character woman; Karl Malden, the patriarch; Agnes Moorehead, the unfortunate wife and mother; John Wayne, the major architect of modern warfare; Richard Widmark, the 'king' of the railroad; Russ Tamblyn the Confederate deserter; Andy Levine, the Corporal Ohio volunteer; Lee J. Cobb, the lawman; Carolyn Jones, the worried wife; Eli Wallach, the dangerous outlaw; Rodolfo Acosta, the train robber; Raymond Massey, the great Abraham Lincoln; Walter Brennan and Lee Van Cleef, the thieves to fear\u0085 Alfred Newman and Ken Darby's majestic music takes the pioneers through every conceivable encounter in the West, achieving with conviction a whole constellation of magnificent spectacle...",
+         "As a seven year old boy who adored history, I was brought by my mother to see this in Cinemascope on a huge screen. Anyone who has seen this can just imagine the impact. There has always been a healthy dispute about what historical developments most influenced the outlook and behavior of Americans. Among the candidates are: i) the development of an entirely new world on distant shores - a world where the rules were there to be made as the Pilgrims/Puritans/Quakers and others determined, ii) the colonists' growing self-identity as Americans, the evolution of that separate identity, and these peoples' coordination and cooperation from 1607 to the Albany Union conference in 1759, the Stamp Act Congress in 1763 and the Second Continental Congress' decision to declare independence in 1776, iii) the workings of a multi-racial society due to the presence of aboriginal people and the importation of slaves, iv) the role of the frontier and settlement of a continually receding West, v) the enormity of immigration and their inter-action with the native-born from about the 1840s to the present, vi) the sheer size and diverse conditions of topography and climate, vii) the evolution of democracy over four centuries on a large scale, viii) the experience of modernization over the past century on a scale unknown to, and before, the rest of the world. This movie in effect tells the fourth story - and tells it in a thrilling, colorful way -- from the 1840s when the frontier was still the Ohio Valley to about 1885 - not so long a time. (Contrast this with the 169 year colonial period). The movie is stunning - beautifully cast - music you'll always remember - and many powerful and moving scenes. So many scenes live forever in my mind - the return of the George Peppard character from the Civil War to his family's farmstead in Ohio, -- the astonishing speech by the Richard Widmark character after the buffalo stampede has killed so many, -- the wonderfully written emotional scenes whenever Debbie Reynolds was dealing with either Robert Preston's clumsy attempt at courtship (\"why with hips like yours, having children would be as easy as rolling off a log\") or her own love for the roguish Gregory Peck, -- the George Peppard family (with the wonderful Carolyn Jones and Debbie Reynolds) singing Greensleaves as the movie nears its end, -- and the astonishing scene of the West transformed into cloverleaf highways and overpasses after we've been watching a deserted West for several hours. The pride in those who won the West is so evident throughout the movie - yet it's shown along with losses (the deep sadness of Henry Fonda's mountaineer at the continuing encroachment of civilization, the breach of the boundary set in an Indian treaty due to the railroad's need to set a straight course - and the resulting catastrophe). Not too many years would pass before movie makers would be telling audiences that the settlement of the West was a triumph of vicious villains, charlatans, cynics and fast-buck artists in movies like McCabe and Mrs. Miller, Soldier Blue, Little Big Man, The Wild Bunch. But I'm deeply grateful that I was old enough to see how the West was won in a movie like this.",
+         "Three cheers are much in order for Warner Home Video with their release of this superb issue on Blue Ray disc of MGM's 1962 blockbuster epic HOW THE WEST WAS WON! Firstly the nine star rating adjudged the disc is NOT for the movie - which I think is generally agreed to be something of a much flawed western extravaganza - but for the quite awesome two disc presentation this time around on Blue Ray. Virtually gone are the once irritating panel lines that were left by the filming with three cameras. Now we have the definitive version of the movie that is nothing short of stunning! With extremely well defined sharp as a button imagery, pluperfect colour resolution and outstanding audio sound (Alfred Newman's brilliant score comes across with dynamic clarity!) the entire visual experience is certainly something to behold! The first disc presents the film in a terrific 2.35 widescreen version with some excellent extras that includes a documentary giving us the history of Cinerama and how the public responded to its introduction in the early fifties. There are also some great clips from the first Cinerama picture \"This Is Cinerama\" (1953) presented by explorer and Cinerama pioneer Lowell Thomas. But it is disc two that really takes the biscuit! Here we get a \"smile box\" version of the complete HOW THE WEST WAS WON. This is the \"wrap around\" totally curved format of the film which simulates the cinema Cinerama viewing experience. And by simply moving your seat closer to your TV (the greater your TV screen the greater the effect) you can well imagine watching the movie in your bygone Cinerama theatre. It is all quite astonishing really and makes a great fun demo. to show off to your friends! Amazingly this unique presentation - with all its technical brilliance - actually makes the movie better than it really is! GO FETCH!!",
+         "It was a good payoff; the print was as perfect as could be expected and the Pacific Cinerama theater is in top form. Seating was fine (it's reserved, so you know ahead where you'll be. Because you're looking at three separate 35mm projections, the sum total of the three result in a very large, clear and bright picture, just as good as a 70mm film, and perhaps better in some respects. The prints were vivid and sharp. At the Dome, a theater executive came out to discuss the film and the theater history with the audience just prior to the start of the picture; he spoke for 10-15 minutes discussing the pros and cons of the process, why it wasn't practical to continue making films this way etc. One of the plus aspects is that with the small lenses they used, the focus was fixed and any object from 2 ft to infinity was always in focus (therefore, all the scenery was sharp except for certain single-camera and process shots). One of the downside aspects is that extreme closeups are not possible in Cinerama, and he said that the directors hated that. Then he tells inside trivia about the film, how it includes about a minute of footage from two other films (one was The Alamo) because the scenes fit perfectly in the storyline. He also mentioned that back in the 1960's it took 5 people to run the show: three projectors, the 35mm sound projector and one master projectionist - total of 5. The gentleman said that today, with all the modern technological improvements, they were now able to produce the identical result -- with just 5 projectionists! In other words, nothing had changed. Another reason the process could not survive. Got a big laugh. He then introduced each projectionist to the audience. Anyway, the whole thing came off without a hitch and I had forgotten much of the film's vivid details and incredible scenery, so it was very much like seeing it for the first time. I had not seen it in Cinerama ever, and when I did see a blended 35mm print in a local Edwards theater back in '64, it was somewhat of a disappointment. The magnetic 6-track sound was on still another 35mm film strip, so 4 separate strips are actually required to comprise the presentation). The sound was fine - clear and sharp - with lots of separation in the six channels, but it was not as boomy as the sound we hear in today's pics. For anyone interested in what it might have been like to see a state-of-the-art presentation in the early 1960's, this presents a magnificent opportunity, and the film is a trip. --- DFR",
+         "Watching a letterboxed version of \"How the West Was Won,\" I noticed the dividing lines on the screen, and it was clear that much of the picture was still missing even in this format. But neither hindered my enjoyment of this sprawling epic, even if James R. Webb's Oscar winning screenplay left something to be desired. Alfred Newman's music score is terrific, and so is that all-star cast. Unlike those disaster flicks of the 70s like \"The Poseidon Adventure\" and \"The Towering Inferno\" that claimed to be stuffed with stars but actually boasted \"names\" (usually familiar performers, primarily from TV, who rarely headlined a first class feature), \"How the West Was Won\" has the genuine article. John Wayne, James Stewart, Gregory Peck, Richard Widmark, Henry Fonda, George Peppard, Robert Preston, Carroll Baker, and Debbie Reynolds may mean little at the ticket windows of the 90s (and many of them are dead, anyway), but all were above the title stars who carried their own films at the box-office in the early 60s. Three directors helmed this project but I'd be hard pressed to distinguish whether John Ford, George Marshall or Henry Hathaway were behind the camera during any particular episode if the opening credits didn't identify each segment and its director. I suppose \"How the West Was Won\" is more quantity than quality, but it's entertaining overall.",
+         "I still remember seeing How the West Was Won in Cinerama when it made it into general release back in 1962. A motion picture theater equipped for Cinerama is the only way this one should be seen. The formatted VHS copy I watched tonight can't come close to doing it justice. James R. Webb's original screenplay for the screen won an Oscar in 1962 and it involves an episodic account of the Presscott family and their contribution to settling the American west in the 19th century. We first meet the Presscotts, Karl Malden and Agnes Moorehead going west on the Erie Canal and later by flatboat on the Ohio River. They have two daughters, dreamy romantic Carroll Baker and feisty Debbie Reynolds. The girls meet and marry mountain man James Stewart and gambler Gregory Peck eventually and their adventures and those of their children are what make up the plot of How the West Was Won. Three of Hollywood's top directors did parts of this film although the lion's share by all accounts was done by Henry Hathaway. John Ford did the Civil War sequence and George Marshall the sequence about the railroad. The Civil War piece featured John Wayne and Harry Morgan in a moment of reflection at the battlefield of Shiloh. Morgan did a first rate job as Grant in his brief cameo and Wayne was playing Sherman for the second time in his career. He'd previously played Sherman in an unbilled cameo on his friend Ward Bond's Wagon Train series. I'm surprised Wayne never did Sherman in a biographical film, he would have been good casting. If any of the stars could be said to be THE star of the film it would have to be Debbie Reynolds. She's in the film almost through out and in the last sequence where as a widow she goes to live with her nephew George Peppard and his family she's made up as a gray haired old woman and does very well with the aging. Debbie also gets to do a couple of musical numbers, A Home in the Meadow and Raise A Ruckus both blend in well in the story. Debbie's performance in How the West Was Won must have been the reason she was cast in The Unsinkable Molly Brown. Cinerama was rarely as effectively employed as in How the West Was Won. I well remember feeling like you were right on the flatboat that the Presscott family was on as they got caught in the Ohio River rapids. The Indian attack and the buffalo stampede were also well done. But the climax involving that running gun battle between peace officers George Peppard and Lee J. Cobb with outlaw Eli Wallach and his gang on a moving train even on a formatted VHS is beyond thrilling. There is a sequence that was removed and it had to do with Peppard going to live with buffalo hunter Henry Fonda and marrying Hope Lange who was Fonda's daughter. She dies and Peppard leaves the mountains and then marries Carolyn Jones. Lange's part was completely left on the cutting room floor. Hopefully there will be a restored version of How the West Was Won, we'll see Hope Lange and more of Henry Fonda. And it should be restored. All those Hollywood legends in one exciting film. They really don't make them like this any more.",
+         "One of the last great epic movies to come out of MGM that was a roaring success, How the West Was Won still has enough quality about it to warrant high praise. The story that drives the film on was suggested by the series of the same name that featured in \"Life\" magazine 1959. Narrative is formed around one family, the Prescott's, who set out on a journey West in 1839. They and their offspring fill out five segments of film that are directed by three different men, \"The Rivers\", \"The Plains\" & \"The Outlaws\" is under the guidance of Henry Hathaway, and \"The Civil War\" by John Ford and \"The Railroad\" by George Marshall. Filmed in the unique Cinerama format, which in a nutshell is three cameras filming at once to project a fully formed experience for the human eye, the production has an all star cast and four supreme cinematographers aiding the story. To name all the cast would take forever, but in the main all of the major parts were filled by stars who had already headlined a movie previously. The cinematographers are naturally key since such a sprawling story inevitably has sprawling vistas, they come up trumps with some truly special work: William H. Daniels, Milton Krasner, Charles Lang Jr. & Joseph LaShelle, four great names who help to make the film a poetic beauty. As a whole it's undeniably far from flawless, complaints such as it running out of steam towards the end (the irony of it since a steam train features prominently), and the plot contrivances, are fair enough. However, when the film is good, it's real good: raft in the rapids, Cheyene attack, buffalo stampede and train robbery, each of them are good enough to be a highlight in separate movies. Even the songs are pleasant, particularly when they revolve around the effervescent Debbie Reynolds, while home format transfers are now finally up to a standard worthy of investment, time and cash wise. Hard to dislike for a Western fan, and carrying enough about it to lure in the casual viewer, How the West Was Won really is a case of they don't make them like they used to. 8/10",
+         "I have not been fortunate to view this film in its original Cinerama format, but I have seen various prints of it over the years, and have recently watched the newly released DVD version. Even in DVD's digital format, I can see how the color in some sections of the film has faded -- a pity, for there are vistas of incredible beauty in this film. There are several reasons why this film works. The photography is simply breathtaking. The story is epic in proportions, yet as simple as the pioneers. Alfred Newman's score is lovely; This is the best film music that he had written since The Song of Bernadette. Ken Darby's vocal arrangements add just the right feel of authenticity to the sonic scheme. And, the actors are truly actors, not just \"personalities\". I absolutely fell in love with Thelma Ritter, Agnes Moorehead, Karl Malden, and Walter Brennan. These were just the \"supporting\" members of the cast. Debbie Reynolds and Gregory Peck made a great duo, James Stewart was independent, strong, yet vulnerable, and Carol Baker was sweet, if just a little conniving. I was surprised how many times while watching the film I was moved to tears -- and not always during the sad scenes. (The scene at her father's grave when Carol Baker sends her son off to war, long after her husband has also gone, is very moving.) What was it that made me so misty-eyed? I found myself getting caught up in the lives of these pioneers, with their hopes, dreams, and disappointments, and all too human frailties. Now for the flip side -- I must admit that I cringed when I heard Spencer Tracey's narration stating that \"the west had to be won...from primitive man.\" It made me think about how one-sided this presentation was with regards to our treatment of Native Americans. George Peppard's character is an ally of the Native Americans, but this plot development occurs far too late to provide any kind of real balance to the story. In the final analysis, we have a film that is not very politically correct, but is a tale told well, filmed beautifully, about people who sacrificed everything they had to pursue their dream.",
+         "I'm not a fan of westerns in particular, but this magnificent epic is an exception for me because it has all the wonderful elements of a sprawling historical epic that only Hollywood could do so wonderfully in the 50s and 60s. And yes, I embrace it for holding to a perspective that today's PC revisionists who see evil in everything associated with the rise of America as a great nation are always so quick to condemn. While this is by no means a flawless look at history, it is only those who dare to liken the American pioneers with \"Nazis\" as one reviewer did who end up \"creating history\" more than a film like this does.",
+         "Turbulent and mighty story about a family saga set against the background of wars and historical deeds ; covering several decades of Westward expansion in the nineteenth century--including the Gold Rush , the Civil War, , Pony Express , Telegraph , confrontation between cattlemen and homesteaders . And of course , the building of the railroads and career between Union Pacific and Central Pacific to arrive in Promontory Point ; among other epic events . As a family of Western settlers from the 1830s to the 1880s , beginning with their voyage on The Eerie Canal and going on to encompass a Civil War battle and other happenings . The picture gets great action , expansive Western settings , shootouts , love stories , it is quite entertaining and there some some scenes still rate with the best of the West , including marvelous moments along the way . It efficiently describes an attractive panoramic view of the American Western focusing on the tribulations , trials and travels of three generations of a family . It's a big budget film with good actors , technicians, production values and pleasing results . Awesome as well as spectacular scenes such as an exciting white-water rafting sequence , a train robbery , a thundering buffalo stampede and Indian attacks . The Civil War is the shortest part and the weakest including a brief acting by John Wayne as General Sheridan and Harry Morgan as General Ulysses S Grant . Particularly supreme for its all-star cast list with some actors epitomising the spirit of the early West , at least as Hollywood saw it , including a Mountain man as James Stewart , a rogue card player , Gregory Peck , and Debbie Reynolds is notable here as a gorgeous dancer seeking fame and fortune . Not many of the players have a chance to register as a bearded Henry Fonda as a scout , Walter Brennan , Lee Van Cleef , Agnes Moorehead , Ken Curtis , Raymond Massey as Abraham Lincoln , Agnes Moorehead , Thelma Ritter , Mickey Shaughnessy , Russ Tamblyn and an interminable list , Impressive cinematography filmed in Cinerama, and photographed in splendorous Metrocolor , though it loses much of its breathtaking visual impact on TV but otherwise holds up pretty well . All four cinematographers were Oscar-winners such as William H. Daniels , Milton R. Krasner , Milton Krasner , Charles Lang Jr and Joseph LaShelle . Rousing musical score by the classical Alfred Newman , including an immortal leitmotif . The motion picture was spectacularly directed by three veteran filmmakers , they were enlisted by producer Bernard Smith to handle the multi-part frontier stories relating exciting exploits of an ordinary family . Of the five segments, Henry Hathaway directed \"The Rivers\", \"The Plains\" and \"The Outlaws\", John Ford directed \"The Civil War\" and George Marshall did \"The Railroad\". Some uncredited work was done by Richard Thorpe. The picture won Oscar 63 to Film editing , Sound , Story and Screenplay . Rating : Extraordinary film , essential and indispensable watching . It's a magnificent example of the kind of old-fashioned blockbuster just don't make anymore ."
+      ],
+      "genres": ["Western"],
+      "productionCompanies": [
+         "Metro-Goldwyn-Mayer (MGM)",
+         "Cinerama Productions Corp."
+      ],
+      "summaries": [
+         "Sprawling epic which follows the Prescotts, an emigrant family through four generations, from the Erie Canal in the 1830's to their settled home in the West a half a century later. On the way they encounter river pirates, and escape with the help of fur trapper Linus Rawlings, who subsequently marries one of their daughters, Eve. The parents are drowned on a foundering raft, and the other daughter Lilith becomes a riverboat singer and catches the eye of a genteel adventurer Cleve Van Valen. They cross the plains together in a wagon train and make and lose a fortune in California; meanwhile Linus has turned farmer and, comes the Civil War, joins the Union Army and is killed at the Battle of Shiloh. One of his sons Zeb also joins the army and stays after the war as a cavalry officer and is sent to Colorado to help guard the pioneering railroad against the Indians, whose land they are crossing. By this time Lilith is the elderly lady of the family, having survived long enough to see the dream of settlement realized, but not, mercifully, the aerial shots of the Los Angeles freeway traffic with which the film ends.",
+         "The fifty years of American westward expansion between the 1830s and 1880s are viewed through the experiences of the Prescott and Rawlings families, as they migrate by the Erie Canal, continue over the prairies from St. Louis during the California gold rush, suffer through the Civil War, and finally help build the railroads on the plains and bring law and justice to the frontier. Along the way they meet mountain men, journey by wagon train, deal with Native Americans, and face outlaws in the southwest.",
+         "The story of how, over several generations, families opened up the Western U.S. to settlement. Zebulong Prescott, his wife Rebecca and daughters Eve and Lilith make the perilous journey, first down the newly built Erie Canal. Along the way they meet hunter and trapper Linus Rawlings, a genuine mountain man and catches Eve's eye in particular. They go their separate ways but Linus helps them out again when river bandits try to rob the Prescotts of their earthly possessions. A subsequent tragedy on the river however brings Eve and Linus together. Eve's sister Lilith decides to leave as soon as possible but ends up meeting her man, Cleve Van Valen and they make their way to the West Coast where they make their fortune. Eve and Linus' son Zeb fights in the Civil War and stays in the army afterward. He is assigned to protect the railroad, currently under construction. He sees the fear Indians have of the encroachment of white men onto their lands and the destruction of the buffalo. He makes a name for himself as a lawman and eventually agrees to take over his aunt Lilith's ranch, but not before having to take on one last fight.",
+         "A family saga covering several decades of Westward expansion in the nineteenth century--including the Gold Rush, the Civil War, and the building of the railroads."
+      ],
+      "budget": 15000000
+   },
+   "movielensId": 8661,
+   "movielens": {
+      "languages": [
+         "English",
+         "Español"
+      ],
+      "releaseDate": "1962-11-01",
+      "dvdReleaseDate": "1998-07-28",
+      "directors": [
+         "John Ford",
+         "Henry Hathaway",
+         "George Marshall",
+         "Richard Thorpe"
+      ],
+      "runtime": 162,
+      "movieId": 8661,
+      "title": "How the West Was Won",
+      "mpaa": "G",
+      "actors": [
+         "Carroll Baker",
+         "Lee J. Cobb",
+         "Henry Fonda",
+         "Carolyn Jones",
+         "Karl Malden",
+         "Gregory Peck",
+         "George Peppard",
+         "Robert Preston",
+         "Debbie Reynolds",
+         "James Stewart",
+         "John Wayne",
+         "Spencer Tracy",
+         "Eli Wallach",
+         "Richard Widmark",
+         "Walter Brennan",
+         "Raymond Massey",
+         "Agnes Moorehead",
+         "Thelma Ritter",
+         "Russ Tamblyn",
+         "Harry Morgan",
+         "Harry Dean Stanton",
+         "Lee Van Cleef",
+         "Rodolfo Acosta",
+         "Mickey Shaughnessy",
+         "Clinton Sundberg",
+         "Brigid Bazlen",
+         "Willis Bouchey",
+         "Claude Johnson",
+         "Kim Charney",
+         "Bryan Russell",
+         "Stanley Livingston",
+         "David Brian",
+         "Andy Devine",
+         "Jay C. Flippen",
+         "Tudor Owen",
+         "Karl Swenson",
+         "James Griffith"
+      ],
+      "imdbMovieId": "0056085",
+      "originalTitle": "How the West Was Won",
+      "genres": ["Western"],
+      "youtubeTrailerIds": [
+         "6RQbcUP8PO0",
+         "MRFfMFa6m0w"
+      ],
+      "plotSummary": "The epic tale of the development of the American West from the 1830s through the Civil War to the end of the century, as seen through the eyes of one pioneer family.",
+      "tmdbMovieId": 11897,
+      "avgRating": 3.42181,
+      "releaseYear": "1962",
+      "numRatings": 243,
+      "posterPath": "/ixbhzvECnuqCBYnF9J1mfVfLCPF.jpg"
+   }
+}

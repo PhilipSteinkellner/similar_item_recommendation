@@ -1,0 +1,622 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "los angeles",
+            "id": 12670
+         },
+         {
+            "name": "urban setting",
+            "id": 33556
+         }
+      ],
+      "imdb_id": "tt0099751",
+      "video": false,
+      "title": "Heat Wave",
+      "recommendations": [],
+      "backdrop_path": null,
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 0,
+               "character": "Ruthana Richardson",
+               "gender": 1,
+               "credit_id": "5440559f0e0a260273000a79",
+               "name": "Cicely Tyson",
+               "profile_path": "/j7j7Qc1qi3W6JOqmPVWqqs5awjt.jpg",
+               "id": 18249,
+               "order": 0
+            },
+            {
+               "cast_id": 1,
+               "character": "Bob Richardson",
+               "gender": 2,
+               "credit_id": "544055ab0e0a26025f000aa0",
+               "name": "Blair Underwood",
+               "profile_path": "/xDqEtEwJNb3fDYnopeFlmMYVQ66.jpg",
+               "id": 56871,
+               "order": 1
+            },
+            {
+               "cast_id": 31,
+               "character": "Mrs. Canfield",
+               "gender": 1,
+               "credit_id": "56945b55c3a3680e9a00091a",
+               "name": "Sally Kirkland",
+               "profile_path": "/bAjUA08z6k8FZ3bu5QWcMWWVdMQ.jpg",
+               "id": 12134,
+               "order": 2
+            },
+            {
+               "cast_id": 2,
+               "character": "Junius Johnson",
+               "gender": 2,
+               "credit_id": "544055b9c3a3680544000a32",
+               "name": "James Earl Jones",
+               "profile_path": "/2ZuBf3ip2RXhkiQqGUjbUzAf4Nx.jpg",
+               "id": 15152,
+               "order": 3
+            },
+            {
+               "cast_id": 26,
+               "character": "Roxie Turpin",
+               "gender": 1,
+               "credit_id": "56945ac99251414b6e0009ec",
+               "name": "Margaret Avery",
+               "profile_path": "/heWNDxiHXDRg71UJgfsvpGubN1r.jpg",
+               "id": 13307,
+               "order": 4
+            },
+            {
+               "cast_id": 27,
+               "character": "Bill Thomas",
+               "gender": 2,
+               "credit_id": "56945adac3a3680ea8000ac8",
+               "name": "David Strathairn",
+               "profile_path": "/5P9hWKVBXVD6bNdDO3O7upa1A6S.jpg",
+               "id": 11064,
+               "order": 5
+            },
+            {
+               "cast_id": 28,
+               "character": "J.T. Turpin",
+               "gender": 2,
+               "credit_id": "56945afcc3a3680eac000a43",
+               "name": "Glenn Plummer",
+               "profile_path": "/esZnjqw2WRA7zaX8SbJKGMp1xBg.jpg",
+               "id": 2683,
+               "order": 6
+            },
+            {
+               "cast_id": 29,
+               "character": "Clifford Turpin",
+               "gender": 2,
+               "credit_id": "56945b10c3a3680ea8000ad6",
+               "name": "Vondie Curtis-Hall",
+               "profile_path": "/tH7QvQ9ST9zLuZZsTHzxMXkgtIy.jpg",
+               "id": 6198,
+               "order": 7
+            },
+            {
+               "cast_id": 30,
+               "character": "Lada",
+               "gender": 1,
+               "credit_id": "56945b429251414b6e000a09",
+               "name": "Paris Vaughan",
+               "profile_path": null,
+               "id": 1562294,
+               "order": 8
+            },
+            {
+               "cast_id": 32,
+               "character": "John Riggs",
+               "gender": 2,
+               "credit_id": "56945b76c3a3680ea8000af7",
+               "name": "Harold Pruett",
+               "profile_path": null,
+               "id": 94286,
+               "order": 9
+            },
+            {
+               "cast_id": 33,
+               "character": "Art Berman",
+               "gender": 2,
+               "credit_id": "56945b8c9251414b640009c4",
+               "name": "Adam Arkin",
+               "profile_path": "/zCLaZZMQxBMZ4DtXOecy84xnO2g.jpg",
+               "id": 55257,
+               "order": 10
+            },
+            {
+               "cast_id": 34,
+               "character": "Reverend Brooks",
+               "gender": 2,
+               "credit_id": "56945bdec3a3680e9d000926",
+               "name": "Robert Hooks",
+               "profile_path": "/9iZSNq0NF2gK2PKbVWujtrGS1jX.jpg",
+               "id": 88094,
+               "order": 11
+            },
+            {
+               "cast_id": 35,
+               "character": "Mr. Canfield",
+               "gender": 2,
+               "credit_id": "56945bf2c3a3680e9d00092a",
+               "name": "Michael Greene",
+               "profile_path": "/greQI4q5Cbpy0SUkZCHZ1tuaaAe.jpg",
+               "id": 29368,
+               "order": 12
+            },
+            {
+               "cast_id": 36,
+               "character": "Jason (age 12)",
+               "gender": 2,
+               "credit_id": "56945c49c3a3680eb0000aca",
+               "name": "Charlie Korsmo",
+               "profile_path": "/5TiMQj3AXDVL1wDVtQss2xUPzTC.jpg",
+               "id": 13389,
+               "order": 13
+            },
+            {
+               "cast_id": 37,
+               "character": "Dominique Freeman",
+               "gender": 2,
+               "credit_id": "56945c5f9251414b6e000a4e",
+               "name": "T.E. Russell",
+               "profile_path": "/hYmP11j1f2Ib0nC7pOWFMX2mPP8.jpg",
+               "id": 521717,
+               "order": 14
+            },
+            {
+               "cast_id": 38,
+               "character": "Florence Blake",
+               "gender": 1,
+               "credit_id": "56945c729251414b720009f1",
+               "name": "Stephanie Covington",
+               "profile_path": null,
+               "id": 546319,
+               "order": 15
+            },
+            {
+               "cast_id": 39,
+               "character": "Rachel Freeman",
+               "gender": 0,
+               "credit_id": "56945cd59251414b740009e2",
+               "name": "Janice McElroy",
+               "profile_path": null,
+               "id": 1562295,
+               "order": 16
+            },
+            {
+               "cast_id": 40,
+               "character": "Reggie Freeman",
+               "gender": 2,
+               "credit_id": "56945cf99251414b6e000a67",
+               "name": "Christopher M. Brown",
+               "profile_path": null,
+               "id": 168279,
+               "order": 17
+            },
+            {
+               "cast_id": 41,
+               "character": "Guidance Counselor",
+               "gender": 0,
+               "credit_id": "56945d199251414b62000a2c",
+               "name": "Emily Yancy",
+               "profile_path": null,
+               "id": 1232039,
+               "order": 18
+            },
+            {
+               "cast_id": 42,
+               "character": "Jason (age 6)",
+               "gender": 0,
+               "credit_id": "56945d4e9251414b670009c4",
+               "name": "Roger Grato III",
+               "profile_path": null,
+               "id": 1562296,
+               "order": 19
+            },
+            {
+               "cast_id": 43,
+               "character": "Cora",
+               "gender": 1,
+               "credit_id": "56945d6f9251414b6b00097c",
+               "name": "Marilyn Coleman",
+               "profile_path": null,
+               "id": 89954,
+               "order": 20
+            },
+            {
+               "cast_id": 44,
+               "character": "Winnie (as Bebe Drake-Massey)",
+               "gender": 1,
+               "credit_id": "56945d899251414b670009cc",
+               "name": "Bebe Drake",
+               "profile_path": null,
+               "id": 98902,
+               "order": 21
+            },
+            {
+               "cast_id": 45,
+               "character": "Officer Zekanis",
+               "gender": 2,
+               "credit_id": "56945e5ec3a3680ea6000a0b",
+               "name": "Mark Rolston",
+               "profile_path": "/bsh3cqDNwVvux4NdaY1Bj4S7mNS.jpg",
+               "id": 6576,
+               "order": 22
+            },
+            {
+               "cast_id": 46,
+               "character": "Lt. Keyes",
+               "gender": 0,
+               "credit_id": "56945e71c3a3680ea3000aee",
+               "name": "Randy Kirby",
+               "profile_path": null,
+               "id": 1562297,
+               "order": 23
+            },
+            {
+               "cast_id": 47,
+               "character": "Spook Hunter",
+               "gender": 2,
+               "credit_id": "56945e859251414b67000a04",
+               "name": "Pepper Sweeney",
+               "profile_path": null,
+               "id": 131365,
+               "order": 24
+            }
+         ],
+         "crew": [
+            {
+               "gender": 1,
+               "credit_id": "569450a09251414b64000709",
+               "name": "Debra Neil-Fisher",
+               "profile_path": null,
+               "id": 14189,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569450c0c3a3680e9a000699",
+               "name": "Donna Stamps",
+               "profile_path": null,
+               "id": 1312641,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569450d29251414b6b0006d5",
+               "name": "Robi Reed",
+               "profile_path": null,
+               "id": 15522,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "544055ddc3a368054c000a4d",
+               "name": "Kevin Hooks",
+               "profile_path": "/xqzV7byaH95GSvR86JjGzHceIY4.jpg",
+               "id": 40230,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56944eed9251414b78000678",
+               "name": "Michael Lazarou",
+               "profile_path": null,
+               "id": 1003279,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56944fa4c3a3680e9a000655",
+               "name": "Thomas Newman",
+               "profile_path": "/nZSsNIrjbkqqxFYwsD3zcHskxdP.jpg",
+               "id": 153,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56944fb0c3a3680ea60006a4",
+               "name": "Richard Hoover",
+               "profile_path": null,
+               "id": 10365,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56944fbbc3a3680e9a000660",
+               "name": "Mark Irwin",
+               "profile_path": null,
+               "id": 7413,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56945144c3a3680e9f00073d",
+               "name": "Kathleen M. McKernin",
+               "profile_path": null,
+               "id": 1562286,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56945158c3a3680ea600070f",
+               "name": "Brad R. Loman",
+               "profile_path": null,
+               "id": 1357219,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "569451759251414b6700073d",
+               "name": "Lyn Matsuda Norton",
+               "profile_path": null,
+               "id": 1370916,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5694518cc3a3680ea30007fb",
+               "name": "Barbara Amato",
+               "profile_path": null,
+               "id": 1562287,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569451d19251414b62000788",
+               "name": "Jane Prosnit",
+               "profile_path": null,
+               "id": 1562288,
+               "department": "Production",
+               "job": "Production Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569451e3c3a3680e9f000766",
+               "name": "Danny Feld",
+               "profile_path": null,
+               "id": 1562289,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "569452129251414b74000785",
+               "name": "Russell Williams II",
+               "profile_path": null,
+               "id": 18749,
+               "department": "Sound",
+               "job": "Sound mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5694522fc3a3680eac000823",
+               "name": "Ron Horwitz",
+               "profile_path": null,
+               "id": 1446534,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56945246c3a3680eb0000838",
+               "name": "Kevin Spears",
+               "profile_path": null,
+               "id": 1422063,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5694541bc3a3680e9a00075e",
+               "name": "Albert Aquino",
+               "profile_path": null,
+               "id": 1338370,
+               "department": "Sound",
+               "job": "Boom Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569454429251414b6b000798",
+               "name": "Jeffrey J. Haboush",
+               "profile_path": null,
+               "id": 1341138,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5694556d9251414b67000811",
+               "name": "Michael Herbick",
+               "profile_path": null,
+               "id": 1378226,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5694567ac3a3680eb0000968",
+               "name": "Donald O. Mitchell",
+               "profile_path": null,
+               "id": 1378170,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569456e99251414b78000848",
+               "name": "George Budd",
+               "profile_path": null,
+               "id": 1556309,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56945707c3a3680e9d000830",
+               "name": "Jophrey Brown",
+               "profile_path": null,
+               "id": 1562293,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "History",
+            "id": 36
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         }
+      ],
+      "popularity": 0.82362,
+      "production_countries": [],
+      "id": 297850,
+      "vote_count": 0,
+      "budget": 0,
+      "overview": "A rookie black journalist investigates the tensions of the Watts section of Los Angeles in the bloody summer of 1965.",
+      "similar": [
+         96,
+         941,
+         1538,
+         1640,
+         281,
+         90,
+         3580,
+         9654,
+         218,
+         942,
+         193893,
+         1847,
+         1266,
+         829,
+         37247,
+         1422,
+         4771,
+         2034,
+         7345,
+         10835
+      ],
+      "original_title": "Heat Wave",
+      "runtime": 100,
+      "poster_path": "/mx3lfMbo8MJp7dUJ7RCpwPW5oni.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [],
+      "release_date": "1990-08-13",
+      "vote_average": 0,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Kevin Hooks"],
+      "runtime": 100,
+      "synopsis": null,
+      "writers": ["Michael Lazarou"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0099751/",
+      "coverLink": null,
+      "actors": [
+         "Cicely Tyson",
+         "Blair Underwood",
+         "James Earl Jones"
+      ],
+      "reviews": [
+         "The Watts Riots occurred six months before I was even born, but my mom still has vivid memories of what happened during that time. From what she and my late father told me the movie was an accurate portrayal of that ugly chapter in the history of the City of Los Angeles. Also, this film showed me that the conditions that led up to that riot also helped to spark an even bigger riot almost 26 years later. And much like the first riot the second riot was only a reaction to the problems that were plaguing the city of Los Angeles; a seemingly racist police chief, poor economic conditions and hopelessness in the black community. The entire cast, especially Blair Underwood and James Earl Jones, were outstanding in this historical piece. And Kevin Hooks showed that Thomas Carter wasn't the only great director to come out of the cast of \"White Shadow\".",
+         "This was an intelligent, well-done story about the Watts' riots in Los Angeles back in 1965. An intelligent cast is featured here, too, with Cicely Tyson, Blair Underwood, James Earl Jones and Sally Kirkland. Language-wise, this is a surprisingly clean movie. Even more of a shock is to see a good Christian woman in the lead (Tyson as \"Ruthana Richardson\") You don't see that too often in films anymore. Blair and Underwood play likable characters as well. This is a good movie the whole family could enjoy. However, it's not one you're likely to watch many times. It's just not that riveting, but certainly deserves more attention that it's getting here with just a handful of reviews. Worth seeing and discussing.",
+         "Should be required viewing for anyone interested in America's racial issues past and present as well as the journalists who cover them. This film was a tear-jerker at times, bitingly funny at others. It was always enlightening. Definitely gets a thumbs up.",
+         "Intelligently and insightfully written, movingly played. Heat Wave is hot!"
+      ],
+      "genres": [
+         "Drama",
+         "History"
+      ],
+      "productionCompanies": [
+         "Avnet/Kerner Productions",
+         "Propaganda Films"
+      ],
+      "summaries": ["The events that led to the 1965's racial riots in Watts, Los Angeles, are covered by a black messenger-turned-reporter at the L.A. Times, as he was one of the first correspondents to arrive at the scene. The movie also follows the troubled times he, his family and friends went through in one of the most tense and sad moments in American history."],
+      "budget": 0
+   },
+   "movielensId": 130150,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1990-08-13",
+      "dvdReleaseDate": null,
+      "directors": ["Kevin Hooks"],
+      "runtime": 100,
+      "movieId": 130150,
+      "title": "Heat Wave",
+      "mpaa": "",
+      "actors": [
+         "Cicely Tyson",
+         "Blair Underwood",
+         "Sally Kirkland",
+         "James Earl Jones",
+         "Margaret Avery",
+         "David Strathairn",
+         "Glenn Plummer",
+         "Vondie Curtis-Hall",
+         "Paris Vaughan",
+         "Harold Pruett",
+         "Adam Arkin",
+         "Robert Hooks",
+         "Michael Greene",
+         "Charlie Korsmo",
+         "T.E. Russell",
+         "Stephanie Covington",
+         "Janice McElroy",
+         "Christopher M. Brown",
+         "Emily Yancy",
+         "Roger Grato III",
+         "Marilyn Coleman",
+         "Bebe Drake",
+         "Mark Rolston",
+         "Randy Kirby",
+         "Pepper Sweeney"
+      ],
+      "imdbMovieId": "0099751",
+      "originalTitle": "Heat Wave",
+      "genres": [
+         "History",
+         "Drama"
+      ],
+      "youtubeTrailerIds": ["nPJJCqhdPs4"],
+      "plotSummary": "A rookie black journalist investigates the tensions of the Watts section of Los Angeles in the bloody summer of 1965.",
+      "tmdbMovieId": 297850,
+      "avgRating": 4.5,
+      "releaseYear": "1990",
+      "numRatings": 1,
+      "posterPath": "/mx3lfMbo8MJp7dUJ7RCpwPW5oni.jpg"
+   }
+}

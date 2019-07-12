@@ -1,0 +1,611 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "london england",
+            "id": 212
+         },
+         {
+            "name": "sex",
+            "id": 572
+         },
+         {
+            "name": "dying and death",
+            "id": 3737
+         },
+         {
+            "name": "poet",
+            "id": 5933
+         },
+         {
+            "name": "theatre milieu",
+            "id": 6034
+         },
+         {
+            "name": "monolog",
+            "id": 6657
+         },
+         {
+            "name": "monkey",
+            "id": 15149
+         },
+         {
+            "name": "alcoholic",
+            "id": 33457
+         }
+      ],
+      "imdb_id": "tt0375920",
+      "video": false,
+      "title": "The Libertine",
+      "recommendations": [
+         29572,
+         1909,
+         2086,
+         2900,
+         4104,
+         9956,
+         768,
+         30431,
+         25208,
+         10922,
+         622,
+         11093,
+         14517,
+         21052,
+         18191,
+         11004,
+         13798,
+         128842,
+         9059,
+         23609
+      ],
+      "backdrop_path": "/oATWFtfvTPpqRTKwDlNbCPh9GtC.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 22,
+               "character": "Rochester",
+               "gender": 2,
+               "credit_id": "52fe4483c3a36847f809a6c5",
+               "name": "Johnny Depp",
+               "profile_path": "/ctaca3ALycPP0vPhRSYK5DTBEPF.jpg",
+               "id": 85,
+               "order": 0
+            },
+            {
+               "cast_id": 24,
+               "character": "Elizabeth Barry",
+               "gender": 1,
+               "credit_id": "54cc6626c3a3687f8f000a40",
+               "name": "Samantha Morton",
+               "profile_path": "/zRvK2T98rz5smCwRiAaFRq1CoDo.jpg",
+               "id": 2206,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Charles II",
+               "gender": 2,
+               "credit_id": "52fe4482c3a36847f809a673",
+               "name": "John Malkovich",
+               "profile_path": "/tCtiWZbKKRgHhLxFCIPfveYAsdc.jpg",
+               "id": 6949,
+               "order": 2
+            },
+            {
+               "cast_id": 6,
+               "character": "Elizabeth Malet",
+               "gender": 1,
+               "credit_id": "52fe4483c3a36847f809a67f",
+               "name": "Rosamund Pike",
+               "profile_path": "/wevcai4tcGA5niawACntEzgZsKN.jpg",
+               "id": 10882,
+               "order": 3
+            },
+            {
+               "cast_id": 2,
+               "character": "Chiffinch",
+               "gender": 2,
+               "credit_id": "52fe4482c3a36847f809a66f",
+               "name": "Paul Ritter",
+               "profile_path": "/v9QLaCWeLsJXTPkRbNRwtioZQLX.jpg",
+               "id": 52888,
+               "order": 4
+            },
+            {
+               "cast_id": 4,
+               "character": "Keown",
+               "gender": 2,
+               "credit_id": "52fe4482c3a36847f809a677",
+               "name": "Stanley Townsend",
+               "profile_path": "/nZZWcRY77Cc01E4bWJhHUyHOJhZ.jpg",
+               "id": 25074,
+               "order": 5
+            },
+            {
+               "cast_id": 5,
+               "character": "Countess",
+               "gender": 1,
+               "credit_id": "52fe4483c3a36847f809a67b",
+               "name": "Francesca Annis",
+               "profile_path": "/zthEyoTKvuOsq9n1NkB1RN7b6r1.jpg",
+               "id": 12513,
+               "order": 6
+            },
+            {
+               "cast_id": 7,
+               "character": "Etherege",
+               "gender": 2,
+               "credit_id": "52fe4483c3a36847f809a683",
+               "name": "Tom Hollander",
+               "profile_path": "/w3jpQ0Lcus7voaq0tKGd4xv2X1D.jpg",
+               "id": 2441,
+               "order": 7
+            },
+            {
+               "cast_id": 8,
+               "character": "Sackville",
+               "gender": 2,
+               "credit_id": "52fe4483c3a36847f809a687",
+               "name": "Johnny Vegas",
+               "profile_path": "/jw3TDmE7ryslB7uYVpyjieO48EC.jpg",
+               "id": 52889,
+               "order": 8
+            },
+            {
+               "cast_id": 9,
+               "character": "Alcock",
+               "gender": 2,
+               "credit_id": "52fe4483c3a36847f809a68b",
+               "name": "Richard Coyle",
+               "profile_path": "/4EVfNa7ZO6zSFDviiRvIOyoU9Ro.jpg",
+               "id": 52890,
+               "order": 9
+            },
+            {
+               "cast_id": 10,
+               "character": "Vaughan",
+               "gender": 2,
+               "credit_id": "52fe4483c3a36847f809a68f",
+               "name": "Tom Burke",
+               "profile_path": "/yw442LGBNYr9i07aiND3oMlox5h.jpg",
+               "id": 52891,
+               "order": 10
+            },
+            {
+               "cast_id": 11,
+               "character": "Ratcliffe",
+               "gender": 0,
+               "credit_id": "52fe4483c3a36847f809a693",
+               "name": "Hugh Sachs",
+               "profile_path": null,
+               "id": 52892,
+               "order": 11
+            },
+            {
+               "cast_id": 12,
+               "character": "Downs",
+               "gender": 2,
+               "credit_id": "52fe4483c3a36847f809a697",
+               "name": "Rupert Friend",
+               "profile_path": "/hhui6G6mh0Bhq0Pn7YLOBgx8T2.jpg",
+               "id": 36669,
+               "order": 12
+            },
+            {
+               "cast_id": 13,
+               "character": "Jane",
+               "gender": 1,
+               "credit_id": "52fe4483c3a36847f809a69b",
+               "name": "Kelly Reilly",
+               "profile_path": "/utp6IT1cLk80RgJzehBIWkSQ8FJ.jpg",
+               "id": 17521,
+               "order": 13
+            },
+            {
+               "cast_id": 14,
+               "character": "Harris",
+               "gender": 2,
+               "credit_id": "52fe4483c3a36847f809a69f",
+               "name": "Jack Davenport",
+               "profile_path": "/4asp2xBJS98Tx8yKTLyWn7fjLKj.jpg",
+               "id": 1709,
+               "order": 14
+            },
+            {
+               "cast_id": 15,
+               "character": "Rose",
+               "gender": 1,
+               "credit_id": "52fe4483c3a36847f809a6a3",
+               "name": "Trudi Jackson",
+               "profile_path": null,
+               "id": 52893,
+               "order": 15
+            },
+            {
+               "cast_id": 37,
+               "character": "Acting Troop",
+               "gender": 1,
+               "credit_id": "56d2c326c3a3681e3600e4eb",
+               "name": "Cara Horgan",
+               "profile_path": "/tNIjCcxeOczan5J00Q7ykwmuQ55.jpg",
+               "id": 961840,
+               "order": 16
+            },
+            {
+               "cast_id": 38,
+               "character": "Molly Luscombe",
+               "gender": 1,
+               "credit_id": "5a261a8992514103260edc26",
+               "name": "Clare Higgins",
+               "profile_path": "/jfSzbpiCArUJ0lFrwqB7PSyus7k.jpg",
+               "id": 45588,
+               "order": 17
+            },
+            {
+               "cast_id": 39,
+               "character": "Sackville's Servant",
+               "gender": 0,
+               "credit_id": "5a261aa10e0a264cbe0e456a",
+               "name": "Jake Curran",
+               "profile_path": "/h7Jw2wfR1fQoevliz1QA3D3VL0I.jpg",
+               "id": 3551,
+               "order": 18
+            },
+            {
+               "cast_id": 40,
+               "character": "Constable",
+               "gender": 0,
+               "credit_id": "5a261ac4c3a3680b960e6d0e",
+               "name": "Kevin Doyle",
+               "profile_path": "/aNdeUYPORUaH94IMCME5E6v31hm.jpg",
+               "id": 1216101,
+               "order": 19
+            },
+            {
+               "cast_id": 41,
+               "character": "Barrillon",
+               "gender": 2,
+               "credit_id": "5a261ae6c3a3680b960e6d1f",
+               "name": "Paul Chahidi",
+               "profile_path": "/vWkGrqzTYAPiSTrsz6laY4jQ9aG.jpg",
+               "id": 75074,
+               "order": 20
+            },
+            {
+               "cast_id": 42,
+               "character": "Black Rod",
+               "gender": 2,
+               "credit_id": "5a261af40e0a264cbe0e4596",
+               "name": "T.P. McKenna",
+               "profile_path": "/7OJongx1j7hqTGbtLQicBsPqbtx.jpg",
+               "id": 1589813,
+               "order": 21
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe4483c3a36847f809a6a9",
+               "name": "Laurence Dunmore",
+               "profile_path": null,
+               "id": 52894,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4483c3a36847f809a6af",
+               "name": "Stephen Jeffreys",
+               "profile_path": null,
+               "id": 52896,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4483c3a36847f809a6b5",
+               "name": "Russell Smith",
+               "profile_path": null,
+               "id": 52897,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4483c3a36847f809a6bb",
+               "name": "John Malkovich",
+               "profile_path": "/tCtiWZbKKRgHhLxFCIPfveYAsdc.jpg",
+               "id": 6949,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe4483c3a36847f809a6c1",
+               "name": "Lianne Halfon",
+               "profile_path": null,
+               "id": 52445,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4483c3a36847f809a6cb",
+               "name": "Stephen Jeffreys",
+               "profile_path": null,
+               "id": 52896,
+               "department": "Writing",
+               "job": "Theatre Play"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56696316c3a36833b6001307",
+               "name": "Peter Mountain",
+               "profile_path": null,
+               "id": 1393883,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5669635f9251415eed001076",
+               "name": "Alexander Melman",
+               "profile_path": null,
+               "id": 1088851,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5669643ec3a36834c100151c",
+               "name": "Michael Nyman",
+               "profile_path": "/yAjkiel4NWG4zu9o53GusvsdTEn.jpg",
+               "id": 10759,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5669645fc3a36834c1001520",
+               "name": "Ben van Os",
+               "profile_path": null,
+               "id": 33444,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5669647bc3a3682e980005dd",
+               "name": "Elizabeth Tremblay",
+               "profile_path": null,
+               "id": 1340126,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5669648dc3a368535a000272",
+               "name": "Dien van Straalen",
+               "profile_path": null,
+               "id": 33447,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5669649fc3a36834c100152f",
+               "name": "Jill Bilcock",
+               "profile_path": null,
+               "id": 3050,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "566964aec3a3682e980005e5",
+               "name": "Robert Wischhusen-Hayes",
+               "profile_path": null,
+               "id": 582929,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "566964c292514169e2000fa1",
+               "name": "Marshall Leviten",
+               "profile_path": null,
+               "id": 32257,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "566964f1c3a3682e980005f4",
+               "name": "Nigel Egerton",
+               "profile_path": null,
+               "id": 1317048,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56696581c3a3682e98000609",
+               "name": "Lucy Bevan",
+               "profile_path": null,
+               "id": 23424,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "566965a492514169e2000fbe",
+               "name": "Mary Selway",
+               "profile_path": null,
+               "id": 668,
+               "department": "Production",
+               "job": "Casting"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 5.687452,
+      "production_countries": [{
+         "iso_3166_1": "GB",
+         "name": "United Kingdom"
+      }],
+      "id": 7548,
+      "vote_count": 164,
+      "budget": 0,
+      "overview": "The story of John Wilmot, a.k.a. the Earl of Rochester, a 17th century poet who famously drank and debauched his way to an early grave, only to earn posthumous critical acclaim for his life's work.",
+      "similar": [
+         4771,
+         627,
+         979,
+         8649,
+         2149,
+         1381,
+         6075,
+         80752,
+         106646,
+         4995,
+         27,
+         122081,
+         339692,
+         634,
+         169917,
+         97630,
+         263472,
+         9946,
+         295964,
+         11826
+      ],
+      "original_title": "The Libertine",
+      "runtime": 114,
+      "poster_path": "/a0gI62QrqJ7PjTsUhJlEsWOPHeU.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "First Choice Films",
+            "id": 2267,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/wgDks2qYgwN6u1OkW1bBre0rf4F.png",
+            "name": "Isle of Man Film",
+            "id": 2268,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2004-09-16",
+      "vote_average": 5.9,
+      "belongs_to_collection": null,
+      "tagline": "He didn't resist temptation. He pursued it.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Laurence Dunmore"],
+      "runtime": 114,
+      "synopsis": null,
+      "writers": [
+         "Stephen Jeffreys",
+         "Stephen Jeffreys"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0375920/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTE5MTQ4ODQzNl5BMl5BanBnXkFtZTYwMDIxNTQ3._V1_SY317_CR1,0,214,317_AL_.jpg",
+      "actors": ["Stars: Johnny Depp, Samantha Morton, John Malkovich | See full cast and crew »"],
+      "reviews": [
+         "The Libertine was a brilliant period piece. It was a tragically realistic yet witty and humorous look at the Restoration period in England, but more specifically depicted the latter stages of the life of the Second Earl Of Rochester, a poet, who endured a short and debauched life. Here was a man so highly intelligent, yet so bored with life that he thrived by consistently pushing his limits and the boundaries of his relationships. Johnny Depp eloquently and emotionally portrayed the Earl of Wilmot. This has to be by far his most brilliant achievement in a long line of unique and amazing performances. Mr. Depp's portrayal of the Earl showed a range of emotions, incredible nuances and a depth of empathy never before seen on screen, best illustrated during the scene where The Earl addresses parliament - which has to be the most gut wrenching scene, rife with fervor but with credibility. Suffice it to say by the end of this movie I had been reduced to tears and cheers, both at times coinciding. This is definitely an Oscar worthy performance. The golden statue is a must. The supporting cast was also excellent; most notably, the actor who played the Earl's servant, and who appeared to have a great rapport with Mr. Depp, on screen. Samantha Morton, also superb as Mrs. Barry, gave a lovely and unobtrusive performance as was required for this character. Laurence Dunmore captured the atmosphere of the period exquisitely with simplicity yet with a keen eye to detail. The reproduction of the 'family' Portrait of the Earl with the monkey is an excellent example. The lighting, the sets, the costumes all added to the reality of the movie. The musical score by Michael Nyman beautifully augmented the spirit of the times and of this production. The Libertine was a work in progress when I viewed it twice at the Toronto Film Fest. I cannot imagine a scene being cut; even the more risqué dreams are required to impart the true emotional state of the Earl at that time in his life. Before passing judgment on this film I suggest that one see it at least twice so as to appreciate the full impact of the movie \u0096 to fully identify with the meaning and the thought behind this production. The Libertine is a wonderful piece of art, representing the true raison d'être of this poet with incredible wit and insight. Congratulations to all who graced the production of the Libertine.",
+         "The Libertine is a movie that is of Oscar caliber. Stunning, unbelievable and brilliant....even these words do not accurately describe Depp's execution of this part. We were blown away and that is the best way to describe it. It was funny in parts, raunchy in others and finally, tear-jerking. I found myself holding my breath so many times, because Depp's acting was so amazing. When Rochester starts to show the ravages of his disease towards the end, all I could think of was that Johnny FINALLY got his wish....to play a character as ugly as possible with his face so mutilated and scarred that he was almost beyond recognition. It was MAGNIFICENT!! He was truly hideous and it was a good reminder of the toll that syphilis took on a person in those days. This movie is not for the faint-hearted or easily offended. It's mid-17th century England at it's grubbiest, filthiest and most depraved. There is foul language, plenty of nudity and phallic symbols are used liberally throughout this film, although Rochester is always fully clothed. We definitely felt there was much more chemistry between Johnny and Rosamund Pike, who played his wife, than between Johnny and Samantha Morton. Perhaps it was supposed to seem that Morton's character Elizabeth Barry did not really 'click' with Rochester, as that was the impression we were left with. The sex scenes, even between Rochester and Barry are rough -- almost emotionless, as opposed to being actual 'love' scenes. It was the opinion of our group that Johnny Depp has elevated himself to that upper echelon of actors who are to be revered for their skills and talent. This role is the crowning glory of his career to date and it's time he is given his due for being one of the best actors of our time. Although the film needs some fine-tuning, we left the theater in awe of the magnificent performances we had just witnessed.",
+         "I had the fortunate pleasure of viewing The Libertine in Toronto on Saturday 9/18/04 and wanted to share my thoughts and feelings. Before doing so, in reply to those who have seen it and have made comments on things such as the sound, camera work, lighting, etc., it should be reminded that this film was shone at the festival in the \"Special Presentations\" category and was listed as \"a work in progress.\" The filmmakers were hustling to get the film edited as much as they could before the first showing, in hopes of finding a distributor. That said, minor details such as those mentioned need to be taken with a grain of salt. If released theatrically, or to DVD alone, it will be further \"cleaned up\" and edited. But I digress, because that wasn't what I was paying attention to while watching this movie. I go to see a movie for the story, the characters, and/or the actors; not the lighting, sound or costumes. Now, on to my review: In a nutshell, this movie was fantastic and the performance of Johnny Depp was nothing short of brilliant. I was captivated from the moment Depp begins his monologue as the Earl of Rochester to assure the audience that \"You will not like me,\" to the very end of his epilogue where he asks \"How do you like me now?\" Depp impeccably captured the essence of a man who despised life, drank profusely, seduced women, condescended everyone from the King to his mother to his servant, and preferred to have his portrait done with a monkey rather than his wife. Hmmm, not too much to like, right? On the contrary. Mixed with his utter disrespect for life was his charm, his wit, his irresistibility, and his desire to do whatever he pleased. As such, I had conflicting feelings of hatred, pity, love and admiration for Rochester. This was due, entirely, to Depp's performance. As Rochester's fatal disease begins to take it's toll, Depp transforms into a creature almost too unbearable to look at. You will weep and shudder at the same time. It is without doubt Depp's best work to date and I'm convinced that no other actor could have portrayed him as brilliantly as Johnny. John Malkovich as Charles II, and Samantha Morton as Rochester's mistress are wonderful as well, and contribute nicely to a movie mixed with humor, sex, tragedy, and darkness. All said, it was a movie I would highly recommend and would love desperately to see again.",
+         "This wasn't a glamorized period costume drama that Hollywood loves to overdo and it wasn't NC-17 for nothing! There was some technical roughness and lack of continuity but they were minor quibbles in what I considered a triumph. The mood, the sets and cinematography, the script and, most of all, the acting were all of the highest and most innovative caliber. Depp was in almost every scene and was fascinating beyond anything I'd ever experienced. His force and range of emotion and naturalness were exceptionally powerful and moving from first to last. You hated him and loved him, were repulsed by him and felt pity for him. You were drawn to him almost against your will, like a vortex pulling you in. All else paled in comparison. This was a Johnny Depp that I'd never seen before but so hope I have a chance to again. This performance is the crowning glory to date of his illustrious career and I see no limits to what he can accomplish in the future. Everyone else was uniformly excellent although Samantha Morton didn't portray the allure the Elizabeth Barry in the play had. My primary recommendation for improving this work in progress before theatrical release center around clarifying motivations up front for why these people were the way they were. This could be done by a combination of edits and additions. I found I liked it even better and was more moved by it the second time I saw it when I wasn't concentrating as much on following the storyline. This was a movie I loved and can't get it out of my mind. It was stunning and compelling beyond anything I've seen in a very long while.",
+         "My experience in viewing Laurence Dunmore's The Libertine at the Toronto Film Festival left me overwhelmed and in a high emotional state of awe and praise. The dramatic opening prolog was enough to convince me that Johnny Depp is the life force in this powerful film. He is more than an actor portraying a character, he is a force that knows no limitations nor will stop at anything. His performance in The Libertine had such an effect, that I was overwhelmed and moved to the point of tears and fear. Once sitting in the darkened theater, I was not prepared for what I was about to witness. Slowly, coming into view, his beautiful face emerges as big as life itself and from his sinister and well formed sensual lips he speaks the words, \"You're not going to like me.\" From there, this man gives the most gut wrenching speech I have ever heard. This is Johnny Depp like you've never seen before. Powerful, intense, and compelling are an understatement. I felt as if I were hit between the eyes with a forty-five automatic and left spent without even remembering the act. Even Laurence Dunmore could not say enough about Johnny's performance and I give him high praise for his art in progress. In my opinion Dunmore handed the reins to Johnny allowing him to play the Earl without restraint. Not only was Dunmore courageous with that decision, he was brilliant in doing so. This period piece about the wretched Earl of Rochester has him go through incredible transformations and, willingly, pulled me along with each gritty step. I loved him, I despised him and I wanted him. Most of all, I felt him in my soul and this I will never forget. This Oscar worthy performance by Johnny Deep truly needs to be experienced. The film was the perfect vehicle in allowing Laurence Dunmore his creativity to soar with its wonderfully wicked and gritty feel and intense acting from Johnny Depp and Samantha Morton. John Malkovitch was superb as well, however, I would have liked to have seen more scenes with him and Mr. Depp. After watching Johnny Depp in The Libertine, I am convinced, he is a powerful force who, not only took my breath away, but held me on his rock hard pedestal and kissed my soul.",
+         "What images are conjured up by the title! Especially when we know in advance the lead is to be played by the handsome Johnny Depp. Perhaps a likable rake, a dissolute, even fashionable but very colourful icon of male supremacy - to be forgiven by female fans if they can watch from the safety of a cinema seat! The reality is a disturbingly different film, dark and sombre, a 17th century candle-lit England, a portrait of the poet and debauchee John Wilmot, and one that ultimately bows out to a feminist heroine in the form of the great actress Elizabeth Barry (played by Samantha Morton). In an opening prologue, Wilmot tells the audience that they will not like him. With the gusto characteristic of Depp, he throws himself into his melodramatic character in a way that is markedly different from his many half-serious, half-comic roles. As if to win his wager, he is out to repulse us - but not just with licentious excess: the tragedy of Wilmot is that he possesses genius but is unable to use it to furnish his own fulfilment. He is a tragic character, no Don Juan that follows a promiscuous lifestyle as a summum bonum, but a man of inner greatness for whom the outer world is so boring that he loses himself in drink and sexual excess and eventually alienates those around him. \"I have to speak my mind,\" he says, \"for it is always more interesting than what is going on around me.\" As the 2nd Earl of Rochester, Wilmot is in and out of favour at the court of Charles II (John Malkovitch) and frequently upsets his lovely wife (Rosamund Pike) with his whoring and drinking. But his wife's jealousy is eventually piqued not so much by the loose women or the ale-house, but by Wilmot's love of the theatre - especially in the form of prostitute-destined-for-greatness, Elizabeth Barry. At a time before the emancipation of women, when the stage had recently been the sole province of men, Barry is determined to make it as an actress. She is hobbled by inexperience and a lowly position, but Wilmot takes her under his patronage and tutelage. Wary of the deal, Barry resists, saying she wants to rise by her own efforts - not so Wilmot can take the credit! He asks her what drives her, and her response, her passion for theatre, the desire to thrill and move an audience, is one that Wilmot identifies with, for he is tired of the lukewarm pastiches that trivialise even great writing. Unfortunately for Wilmot, his own greatness is on the ebb. It was said of him that he was, \"A man whom the muses were fond to inspire, but ashamed to avow.\" His taunting of the king and a scurrilous lampoon of Charles II in front of the French ambassador help to seal his fate. Samantha Morton continues to show her acting talents with a substantial (if not substantial enough) part and Malkovitch is an adequate counterbalance to the very considerable stage presence of Depp. The screenplay (based on an earlier play starring Malkovitch) sparkles with wit and, even if the direction is a little uneven or turgid at times, it is an admirable and important debut from Laurence Dunmore. The desaturated colours and muddy, rain-sodden English countryside create an air of foreboding entirely appropriate for a work that is more serious than its title suggests. Intellectually, we are treated to the drollness and intelligence of Wilmot but realise that he is a 'locked-in' and isolated character, a loner and barely appreciated trailblazer (in some respects like the great Marlon Brando to whose memory, among others, the film is dedicated). We also see the folly and weakness of his philosophy. Wilmot wrote: \"Consider real Honour then, You'll find hers cannot be the same; 'Tis noble confidence in men, In women, mean, mistrustful shame.\" Yet it was the honour of the lowly Elizabeth Barry that ultimately inspired him and, somehow, remained ever out of reach.",
+         "The libertine - What a film... Despite its murkiness, and turgid subject matter, Johnny gives what has to be, his most intricate and breathtaking performance. The first forty-five minutes focuses mainly on John Wilmot's drunken and lecherous ways, and the final forty-five minutes (roughly at around the time that Johnny removes his wig), the sad and awful truth of the life of Rochester kicks in, and from then on, its a cracking story. At the final scene as the light fades along with the haunting words of Rochester's final monologue, I don't think that I would be alone in saying that I was moved to goosebumps and spine chills. Depp is just so intense that frankly, he is beyond brilliant. If the academy don't recognise him this time, I will personally have 'words' with Mr Weinstein! On the whole, an absorbingly different film that deserves all credit.",
+         "I had the \"liberty\" of seeing the libertine at the Toronto Film Festival earlier this year. Though I am a big Johnny Depp fan, I truly didn't know what to excpect. Considering the movie started off with Johnny's character 'pleasuring' his wife..... I was a little shocked, but the film really turned itself around and turned out to be funny, sad, disgusting and just a little rude. I personnaly feel that Johnny Depp gave the most impressive performance of his career, and deserved considerable praise. It was probably one of the more difficult of characters he has played, and in my opinion the most compelling. Samantha Morton was simply SUPERB playing Johnny's actress lover. She showed her true acting ability, and also portrayed a difficult character with ease. Laurence Dunmore showed true potential in his debut film, and directed an EXTREMELY controversial piece making it stand out. In my downright opinion, the Libertine has not received at all as much praise as it should be receiving. It would be a travesty not to release this masterpiece worldwide. *********.5/10",
+         "The film is introduced by The Earl of Rochester, portrayed by Johnny Depp. It is a tongue lashing so profound that we feel as if the Earl individually admonishes each one of us for intruding on his life... So rises the great magnificent work of John Wilmot, a quite perverse fellow that doesn't care for anyone, including himself. Losing his faith in God, turns his anger into lust. This is by far, Johnny Depp's best performance. He is on screen for every breath taking minute...His movements and voice reflect the Earl, as if the Earl has transposed his soul into Depp. Johnny glides through this movie, with emotional outbursts to tender words of seduction. Not once does Johnny expose his flesh; perhaps becoming the Earl, and the Earl's need to never expose the real Wilmot. Laughter, sorrow, anger and wonder will keep you guessing as to what Johnny will throw out to the audience next. Prior to the Earl's death, Johnny's scene with his wife, in the sitting room is superb. Oscar breath taking superb! You will mourn Wilmot's passing, and the end of the movie. Yes, Johnny, we do like you.",
+         "John Wilmot was a complex, brilliant man. Having read about him, and having read his poetry, I was not certain a film about him could be done that portrayed those points in any meaningful way. The Libertine shows Wilmot for what he was, a man of many personalities, interests, and indulgences. When the story begins, after a marvelous prologue warning the audience not to like him, Wilmot is for the most part still well. He returns after once again being banned from his precious city, having missed all of the good plays. You will discover later just how important a play is to him. He carouses with his friends, coming up with excellent, extemporaneous lines of verse at their insistence. The heart of the film is struck when he enters the theater and witnesses the dismal failure of a newcomer to the stage. He sees in this woman a potential for taking the theater in an exciting new direction of realism and becomes determined to work with her, to have her become the diamond in the crown of London's theater. At the same event, the King welcomes Wilmot back and gives him a service to perform. It is quite apparent that Wilmot has no love for the King nor his assigned task. How little regard the Earl has for said King and task is the other major thread of the story. Much of The Libertine is spent in taking us along with the Earl as he proves his wit is far exceeds the determination of the monarch to manipulate. All the while, the Earl himself is dying. He has lived his life in his own fashion, always exceeding in every instance. Disgrace does not deter him; banishment does not deter him. To live is to go too far, and that is Wilmot's rule. The characters surrounding Wilmot are engrossing. From the servant, Allcock (who does his best to prove his is all-cock) to the favored whore to the less than enthusiastic actor who turns down the offered role, everyone is either there to point the way to overindulgence or to run from it. Banned yet again from London, Wilmot shows us his own expertise as actor as he turns quack physician Dr. Bendo. The good doctor's cures are embodied by urine and fornication. Finally Bendo is exposed to be none other than Rochester and brought back yet again to be told by the King that to be ignored is the only solution. Wilmot is returned to his country home to die. He flails at death, and in a masterful scene shows us that of which he is made. He drags his useless body, made up face, and false nose into the House of Lords on crutches. He offers a speech to save the line of succession that finally exposes what he could have been all along. You see at last fully what his talents were and how he has wasted them on his life of surfeit. And finally you see him die. He has taken the short journey from brilliant, scurrilous profligate to corpse. He accepts the angels dancing on pin which he's always fought. Watching, you long for him to be young and well again to continue his journey. While the film I saw was a work-in-progress, you could see a masterful story there. A little work on the soundtrack, a snip here or there of footage and this will be a film everyone will want to see and discuss. The performances are magnificent. Johnny Depp has never played a role like this before, and you will be awe struck by his ability. John Malkovitch is stately and restrained. Samantha Morton does not let you forget that her purpose is to succeed upon the stage, and not in the bedroom. The music seems strange at first, then insinuates itself into the piece until nothing else would serve."
+      ],
+      "genres": ["Drama"],
+      "productionCompanies": [
+         "Weinstein Company, The",
+         "Isle of Man Film",
+         "Mr. Mudd"
+      ],
+      "summaries": [
+         "In 1660, with the return of Charles II to the English throne, theater, the visual arts, science and sexual promiscuity flourish. Thirteen years later, in the midst of political and economical problems, Charles II asks for the return of his friend John Wilmot, aka the second Earl of Rochester, from exile back to London. John is a morally-corrupt drunkard and a sexually- active cynical poet. When the King asks John to prepare a play for the French ambassador so as to please him, John meets the aspiring actress Elizabeth Barry in the playhouse and decides to make her into a great star. He falls in love with her and she becomes his mistress. During the presentation to the Frenchman, he falls into disgrace with the court. When he was thirty-three years old and dying of syphilis and alcoholism, he converts to being a religious man.",
+         "The story of John Wilmot, a.k.a. the Earl of Rochester, a 17th century poet who famously drank and debauched his way to an early grave, only to earn posthumous critical acclaim for his life's work."
+      ],
+      "budget": 0
+   },
+   "movielensId": 40966,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2004-09-16",
+      "dvdReleaseDate": "2006-07-04",
+      "directors": ["Laurence Dunmore"],
+      "runtime": 114,
+      "movieId": 40966,
+      "title": "The Libertine",
+      "mpaa": "R",
+      "actors": [
+         "Johnny Depp",
+         "Samantha Morton",
+         "John Malkovich",
+         "Rosamund Pike",
+         "Paul Ritter",
+         "Stanley Townsend",
+         "Francesca Annis",
+         "Tom Hollander",
+         "Johnny Vegas",
+         "Richard Coyle",
+         "Tom Burke",
+         "Hugh Sachs",
+         "Rupert Friend",
+         "Kelly Reilly",
+         "Jack Davenport",
+         "Trudi Jackson",
+         "Cara Horgan",
+         "Clare Higgins",
+         "Jake Curran",
+         "Kevin Doyle",
+         "Paul Chahidi",
+         "T.P. McKenna"
+      ],
+      "imdbMovieId": "0375920",
+      "originalTitle": "The Libertine",
+      "genres": [
+         "Drama",
+         "Romance"
+      ],
+      "youtubeTrailerIds": ["H2t2KvVp6sM"],
+      "plotSummary": "The story of John Wilmot, a.k.a. the Earl of Rochester, a 17th century poet who famously drank and debauched his way to an early grave, only to earn posthumous critical acclaim for his life's work.",
+      "tmdbMovieId": 7548,
+      "avgRating": 3.0541,
+      "releaseYear": "2004",
+      "numRatings": 573,
+      "posterPath": "/a0gI62QrqJ7PjTsUhJlEsWOPHeU.jpg"
+   }
+}

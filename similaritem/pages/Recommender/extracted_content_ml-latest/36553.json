@@ -1,0 +1,582 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "chicago",
+            "id": 520
+         },
+         {
+            "name": "musical",
+            "id": 4344
+         }
+      ],
+      "imdb_id": "tt0029047",
+      "video": false,
+      "title": "In Old Chicago",
+      "recommendations": [
+         67022,
+         85926,
+         35920,
+         44669,
+         84086,
+         26592,
+         44101,
+         72529,
+         42401,
+         23283
+      ],
+      "backdrop_path": "/3NvuygppVMlx3Y1yYt3nb7IFnog.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Dion O'Leary",
+               "gender": 2,
+               "credit_id": "52fe49b0c3a368484e1390d9",
+               "name": "Tyrone Power",
+               "profile_path": "/zHKNyYKkWIQBwhqxCMNBns1eoXR.jpg",
+               "id": 10922,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Belle Fawcett",
+               "gender": 1,
+               "credit_id": "52fe49b0c3a368484e1390dd",
+               "name": "Alice Faye",
+               "profile_path": "/x4ld83LmBnJMpSyQO6ef2u5PGKP.jpg",
+               "id": 94928,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "Jack O'Leary",
+               "gender": 2,
+               "credit_id": "52fe49b0c3a368484e1390e1",
+               "name": "Don Ameche",
+               "profile_path": "/q4t9dds6jQuuqpMLvALbOqVJRFV.jpg",
+               "id": 18156,
+               "order": 2
+            },
+            {
+               "cast_id": 5,
+               "character": "Molly O'Leary",
+               "gender": 1,
+               "credit_id": "52fe49b0c3a368484e1390e5",
+               "name": "Alice Brady",
+               "profile_path": "/rE7HNowLzB11QwxEiNoZzRGLerq.jpg",
+               "id": 125841,
+               "order": 3
+            },
+            {
+               "cast_id": 6,
+               "character": "Pickle Bixby",
+               "gender": 2,
+               "credit_id": "52fe49b0c3a368484e1390e9",
+               "name": "Andy Devine",
+               "profile_path": "/w4tLltNhtOqQXJzju4TzUJRiesg.jpg",
+               "id": 14966,
+               "order": 4
+            },
+            {
+               "cast_id": 7,
+               "character": "Gil Warren",
+               "gender": 2,
+               "credit_id": "52fe49b0c3a368484e1390ed",
+               "name": "Brian Donlevy",
+               "profile_path": "/dJP0woESrhHQrPbTieZdE54OM2f.jpg",
+               "id": 41755,
+               "order": 5
+            },
+            {
+               "cast_id": 8,
+               "character": "Ann Colby",
+               "gender": 1,
+               "credit_id": "52fe49b0c3a368484e1390f1",
+               "name": "Phyllis Brooks",
+               "profile_path": "/uwiENiF7hgZV57NYvTZ75xNJ2M6.jpg",
+               "id": 120758,
+               "order": 6
+            },
+            {
+               "cast_id": 9,
+               "character": "Bob O'Leary",
+               "gender": 2,
+               "credit_id": "52fe49b0c3a368484e1390f5",
+               "name": "Tom Brown",
+               "profile_path": "/gHteMYdsKoKLKGgY9cA65WjPEjg.jpg",
+               "id": 89687,
+               "order": 7
+            },
+            {
+               "cast_id": 10,
+               "character": "General Phil Sheridan",
+               "gender": 2,
+               "credit_id": "52fe49b0c3a368484e1390f9",
+               "name": "Sidney Blackmer",
+               "profile_path": "/ijI8tIlurlyyVTZYgZvoiifrMi3.jpg",
+               "id": 12022,
+               "order": 8
+            },
+            {
+               "cast_id": 14,
+               "character": "Pat O'Leary",
+               "gender": 2,
+               "credit_id": "52fe49b0c3a368484e13910f",
+               "name": "J. Anthony Hughes",
+               "profile_path": null,
+               "id": 992912,
+               "order": 9
+            },
+            {
+               "cast_id": 15,
+               "character": "Senator Colby",
+               "gender": 2,
+               "credit_id": "52fe49b0c3a368484e139113",
+               "name": "Berton Churchill",
+               "profile_path": "/ogPbWVXGrcGwTQmXWjwrOPTDo6I.jpg",
+               "id": 14969,
+               "order": 10
+            },
+            {
+               "cast_id": 16,
+               "character": "Mrs. Colby",
+               "gender": 1,
+               "credit_id": "52fe49b0c3a368484e139117",
+               "name": "Bess Flowers",
+               "profile_path": "/akbW8jJl8GSXFpixFaobMOqvNv4.jpg",
+               "id": 121323,
+               "order": 11
+            },
+            {
+               "cast_id": 17,
+               "character": "Gretchen",
+               "gender": 1,
+               "credit_id": "52fe49b0c3a368484e13911b",
+               "name": "June Storey",
+               "profile_path": "/xYnTwWePJSet3WAn2AUrFMcDV22.jpg",
+               "id": 85991,
+               "order": 12
+            },
+            {
+               "cast_id": 18,
+               "character": "Mitch",
+               "gender": 0,
+               "credit_id": "52fe49b0c3a368484e13911f",
+               "name": "Paul Hurst",
+               "profile_path": "/yVgjaZvnrIJZ6jWzkkkPw3NKvRk.jpg",
+               "id": 14664,
+               "order": 13
+            },
+            {
+               "cast_id": 19,
+               "character": "Beavers",
+               "gender": 2,
+               "credit_id": "52fe49b0c3a368484e139123",
+               "name": "Spencer Charters",
+               "profile_path": "/67wOC0rjJG6tpXVQLZsOj6s7clP.jpg",
+               "id": 34280,
+               "order": 14
+            },
+            {
+               "cast_id": 20,
+               "character": "Hattie",
+               "gender": 0,
+               "credit_id": "52fe49b0c3a368484e139127",
+               "name": "Madame Sul-Te-Wan",
+               "profile_path": null,
+               "id": 103017,
+               "order": 15
+            },
+            {
+               "cast_id": 21,
+               "character": "Rondo",
+               "gender": 2,
+               "credit_id": "52fe49b0c3a368484e13912b",
+               "name": "Rondo Hatton",
+               "profile_path": "/zir0SuHwhFb2Sj7feQgIeMecG8m.jpg",
+               "id": 931198,
+               "order": 16
+            },
+            {
+               "cast_id": 22,
+               "character": "Political crony",
+               "gender": 2,
+               "credit_id": "52fe49b0c3a368484e13912f",
+               "name": "Russell Hicks",
+               "profile_path": "/hRRM5ni87mxjlDV2G9jr4GCxFew.jpg",
+               "id": 13969,
+               "order": 17
+            },
+            {
+               "cast_id": 23,
+               "character": "Johnson",
+               "gender": 2,
+               "credit_id": "52fe49b0c3a368484e139133",
+               "name": "Harry Hayden",
+               "profile_path": "/x0dehwsSXkTXFqDhMGIf7FH6Tv7.jpg",
+               "id": 103068,
+               "order": 18
+            },
+            {
+               "cast_id": 24,
+               "character": "Townsman",
+               "gender": 2,
+               "credit_id": "52fe49b0c3a368484e139137",
+               "name": "George Chandler",
+               "profile_path": "/txFaIyol1OmqgMyJS3N50GHn5q2.jpg",
+               "id": 33178,
+               "order": 19
+            },
+            {
+               "cast_id": 25,
+               "character": "Dion O'Leary (as a boy)",
+               "gender": 2,
+               "credit_id": "52fe49b0c3a368484e13913b",
+               "name": "Gene Reynolds",
+               "profile_path": "/bjrNIqNKFqZsd38FMkrTiXtyzXe.jpg",
+               "id": 14874,
+               "order": 20
+            },
+            {
+               "cast_id": 26,
+               "character": "Jack O'Leary (as a boy)",
+               "gender": 2,
+               "credit_id": "52fe49b0c3a368484e13913f",
+               "name": "Billy Watson",
+               "profile_path": null,
+               "id": 30218,
+               "order": 21
+            },
+            {
+               "cast_id": 27,
+               "character": "Bob O'Leary (as a boy)",
+               "gender": 2,
+               "credit_id": "52fe49b0c3a368484e139143",
+               "name": "Bobs Watson",
+               "profile_path": "/tVVXCJp1gPwKrUck5h89cWdBXUo.jpg",
+               "id": 199468,
+               "order": 22
+            },
+            {
+               "cast_id": 28,
+               "character": "Wedding witness",
+               "gender": 0,
+               "credit_id": "52fe49b0c3a368484e139147",
+               "name": "Vera Lewis",
+               "profile_path": "/q8kMDxClpiT543Ktt5I4gUZ3LkE.jpg",
+               "id": 29953,
+               "order": 23
+            },
+            {
+               "cast_id": 38,
+               "character": "Driver",
+               "gender": 2,
+               "credit_id": "58451bfe9251416764013455",
+               "name": "Francis Ford",
+               "profile_path": "/1o50aKPvcpXX6KvO1PCp8NDo3S3.jpg",
+               "id": 30496,
+               "order": 24
+            },
+            {
+               "cast_id": 39,
+               "character": "Opening Night Guest",
+               "gender": 0,
+               "credit_id": "5a7b7f24c3a3680f86003145",
+               "name": "Bert Moorhouse",
+               "profile_path": "/p0v0vNPZOnocEbD9tqQky6Gy0Cz.jpg",
+               "id": 122984,
+               "order": 25
+            },
+            {
+               "cast_id": 40,
+               "character": "Senate Waiter",
+               "gender": 2,
+               "credit_id": "5a7b7f33c3a3680f9c00302e",
+               "name": "William H. O'Brien",
+               "profile_path": "/d8BySpwzgqv8rVezb0QbtXvmxbb.jpg",
+               "id": 1176510,
+               "order": 26
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe49b0c3a368484e1390d5",
+               "name": "Henry King",
+               "profile_path": "/3gG3Ctgcttq6632GIeCqBTsv8nB.jpg",
+               "id": 37362,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe49b0c3a368484e1390ff",
+               "name": "Lamar Trotti",
+               "profile_path": null,
+               "id": 14646,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe49b0c3a368484e139105",
+               "name": "Sonya Levien",
+               "profile_path": null,
+               "id": 70045,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe49b0c3a368484e13910b",
+               "name": "Niven Busch",
+               "profile_path": null,
+               "id": 120312,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "543e4620c3a368251a001cc0",
+               "name": "Darryl F. Zanuck",
+               "profile_path": "/pfl8oR2otTYihADFtjLkrtKoFrM.jpg",
+               "id": 8502,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "543e46460e0a266f8b001d14",
+               "name": "Barbara McLean",
+               "profile_path": "/18NdkfiYOB1aSCaWLZZFc2zofub.jpg",
+               "id": 10603,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "543e465ac3a368251f001d17",
+               "name": "William S. Darling",
+               "profile_path": null,
+               "id": 1096786,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "543e466a0e0a266f8e001d43",
+               "name": "Rudolph Sternad",
+               "profile_path": null,
+               "id": 4085,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "543e467f0e0a266f77001df8",
+               "name": "Thomas Little",
+               "profile_path": null,
+               "id": 8508,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "543e4695c3a368250a001d92",
+               "name": "Royer",
+               "profile_path": null,
+               "id": 1355547,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "543e46aec3a368250d001c19",
+               "name": "Robert D. Webb",
+               "profile_path": null,
+               "id": 89216,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5512d109c3a3683f39009c94",
+               "name": "J. Peverell Marley",
+               "profile_path": null,
+               "id": 98501,
+               "department": "Camera",
+               "job": "Director of Photography"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         }
+      ],
+      "popularity": 3.622668,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 78734,
+      "vote_count": 7,
+      "budget": 10000000,
+      "overview": "The O'Leary brothers -- honest Jack and roguish Dion -- become powerful figures, and eventually rivals, in Chicago on the eve of its Great Fire.",
+      "similar": [
+         872,
+         11224,
+         224141,
+         5503,
+         8587,
+         2048,
+         9277,
+         117,
+         1574,
+         10530,
+         15121,
+         27582,
+         824,
+         10545,
+         703,
+         134,
+         2064,
+         18947,
+         19404,
+         82695
+      ],
+      "original_title": "In Old Chicago",
+      "runtime": 95,
+      "poster_path": "/lSkLiVmxECi0DbOwG4bogsN9vob.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Darryl F. Zanuck Productions",
+            "id": 13630,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+            "name": "20th Century Fox",
+            "id": 25,
+            "origin_country": "US"
+         }
+      ],
+      "release_date": "1937-04-14",
+      "vote_average": 5.7,
+      "belongs_to_collection": null,
+      "tagline": "The great American motion picture!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Black and White",
+      "budgetCurrency": "$",
+      "directors": ["Henry King"],
+      "runtime": 95,
+      "synopsis": null,
+      "writers": [
+         "Lamar Trotti",
+         "Sonya Levien"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0029047/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BOTY4ODg2NjU2Ml5BMl5BanBnXkFtZTcwOTM1MDAzMQ@@._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "actors": ["Stars: Tyrone Power, Alice Faye, Don Ameche | See full cast and crew »"],
+      "reviews": [
+         "The film is delicious in that brassy, over-blown 20th Century Fox way. Among the absurdities is Alice Faye singing \"In Old Chicago\" in a town that was 35 years old. Yet it's amazing that so much of the actual fire's history is accurately portrayed, such as Mrs. O'Leary's \"peg-leg\" neighbor who sounded the alarm for the immediate DeKoven St. neighbors. Some of the bigger shots are copied right from lithographs of the period. But then most of the politics is totally fraudulent. Women extras were not allowed to appear in dangerous situations in '30s Hollywood so watch closely during the street scenes where there are runaway horses and racing fire engines. The \"ladies\" scrambling around are clearly tall men in Victorian drag. It's a hoot. Those viewers of a certain age may remember a Sunday evening TV program in the '50s with Walter Kronkite called \"You Are There\" which put you into historical events. The episode featuring the Chicago Fire cannibalized this Fox film and lifted much of the disaster footage. There are so many parallels to the previous year's big MGM success \"San Francisco\" (1936) with Clark Gable and Jeanette McDonald. Here we have Alice Faye also singing in a saloon, a disaster during the night, \"dirty politics\" with an attempt to clean out the slum zone, little kids in danger during the fire, buildings being dynamited to contain the blaze, the hero searching for days for his lost love among the victims, and so forth.",
+         "IN OLD CHICAGO (20th Century-Fox, 1937/38), directed by Henry King, is a prestigious production inspired by MGM's SAN FRANCISCO (1936) climaxed by the earthquake that destroyed the city in 1906, thus, the birth of natural disaster films. Headed by the youthful trio of Tyrone Power, Alice Faye and Don Ameche, all with only a few years into the movie business, it is veteran actress Alice Brady, best known for her scatterbrained society matrons of numerous comedies, who stands out with her change of pace characterization. Also playing against type is musical star Alice Faye in a rare dramatic performance. With her name on the marquee, one would assumed this to be a turn-of-the-century Technicolor musical. Granted, it's a dramatic story with some doses of comedy and production numbers, but no Technicolor, which would have benefited with its lavish sets and periodic costumes. IN OLD CHICAGO can be best summed up as a fictionalized story of the O'Leary Family, a \"strange tribe,\" and the events leading to the big Chicago fire of 1871. The story opens with a prologue as the O'Leary's traveling on wagon train bound for new beginnings. After racing alongside a passing train just for the fun of it, Patrick (J. Anthony Hughes) meets with an accident that kills him, leaving his wife, Molly (Alice Brady) to rear her three boys (Gene Reynolds, Billy & Bobs Watson) alone. After burying her husband in the plains, the O'Leary's move on, coming to Chicago where Molly earns money washing laundry and settling her family in the slum area known as \"the Patch.\" Moving forward, Molly's boys grow into handsome young men: Jack (Don Ameche), a crusading attorney who's later elected mayor of Chicago; Bob (Tom Brown), the youngest who earns a living driving the family laundry wagon and marrying Gretchen (June Storey), one of his mother's helpers; and Dion (Tyrone Power), a gambler and saloon keeper whose ambitious ways leads him to corruption. Of Molly's three sons, Dion is her biggest concern. She disapproves of his love for Belle Fawcett (Alice Faye), a cabaret singer (\"what a woman!\") whose involved with Gil Warren (Brain Donlevy), a corrupt political boss who rivals Dion. Situations become complex after Jack learns how his smooth operating brother got him into office but determined to make good at his job, and Dion's methods in using Belle for his own ambitious ways. With the story of secondary importance and the Chicago fire the main event, the added attraction of musical numbers featured include: \"I've Taken a Fancy to You\" (sung by chorus) by Sidney Clare and Lew Pollack; \"Carry Me Back to Old Virginny\" (sung by Alice Faye) by James A. Bland; \"In Old Chicago\" (sung by Faye) by Mack Gordon and Harry Revel; \"I'll Never Let You\" (sung by Faye); and \"Take a Dip in the Sea\" (sung by Tyler Brooke). Theatrically released at close to two hours (112 minutes), IN OLD CHICAGO was a top-grossing film of the day, and it shows. It's popularity lead to a 1943 reissue cut down by twenty minutes. Since then, the 94 minute edition became the one available to commercial and later cable television markets (American Movie Classics and Fox Movie Channel), as well as video cassette in the 1990s, with the missing material believed to be lost and gone forever. Then around 2002, those missing scenes lifted from IN OLD CHICAGO were discovered and restored to now close to its original play length onto DVD in 2005. The restoration consists the O'Leary family gathered together and praying over the father's grave before continuing on their journey to Chicago; a lengthy courtroom sequence of Jack's first case as a lawyer defending a man (Paul Hurst) with a woman (Thelma Manning) on the witness stand who turns out to be his wife, thus having the judge dismissing the case on the grounds that \"a wife cannot testify against her husband,\" followed by Dion introducing Belle to Jack as they exit the courthouse. The DVD package also features the abridged version on the flip side that had been overexposed on television for decades. In the 1950s, IN OLD CHICAGO was televised as the basis of a one hour show \"City in Flames\" from \"20th Century Fox Hour\" (1957), an episode that premiered on the Fox Movie Channel in 2002. Andy Devine, Sidney Blackmer, Phyllis Brooks and Berton Churchill take part in a long list of supporting players. Any similarity between SAN FRANCISCO and IN OLD CHICAGO is purely intentional. The disastrous climax lasts about 20 minutes; the characters of Clark Gable and Tyrone Power are ambitious and loved by singers (Jeanette MacDonald and Alice Faye); both have a third party who takes an interest in the couple (priest Spencer Tracy and brother Don Ameche); and following the natural disaster, both leading men are seen roaming around with a steak of blood down his face. Regardless of similarities, both films became blockbuster hits. Did Mrs. O'Leary's cow actually start the Chicago fire? One thing for certain, the Chicago disaster of 1871 is as part of American history as the motion picture itself, fact or fiction, being associated with cinema history. Now fully restored, IN OLD CHICAGO can be seen and appreciated in its entirety, thanks to film historians and their effort in putting the missing pieces back together again, and Turner Classic Movies for premiering the movie in its long unseen entirety May 29, 2013. (***1/2)",
+         "Immortalized by Martha at the beginning of \"Who's afraid of Virginia Wolff,\" \"In Old Chicago\" is a dramatization (you know, 20th Century Fox style) of the 1871 Chicago fire. As is fitting, it focuses on the owners of the cow that allegedly started it all, the O'Learys. Tyrone Power is the drop dead gorgeous, bad boy brother of good Don Ameche. \"Little Miss Alice Faye,\" (as Martha says) plays Power's love interest, a dance hall girl. All of the performances are good, the threesome of Power-Ameche-Faye being a great combination that works well here and in \"Alexander's Ragtime Band.\" Faye gets to show off her voice, and she looks very pretty, having graduated from the days when Zanuck tried to make her look like Jean Harlow. The role was actually intended for Harlow, who died before she could do it; Gable was also supposed to be loaned out for the Power role. Power had only started with Fox a year earlier. Harlow's death killed the deal. Also in the film is Rondo Hatton, referred to by Power as \"Rondo.\" Hatton suffered from acromegaly after laughing gas exposure in World War I. Standing side by side were a man who, due to disease, was deformed and ugly, and Power, perhaps the handsomest man in the world. More ironic yet, Power had no appreciation of his looks, feeling they kept him from roles he wanted. The fire and devastation effects are fantastic, Fox no doubt feeling the \"heat\" from MGM's \"San Francisco\" earthquake scenes. Alice Brady gives a strong performance, with a somewhat melodramatic monologue at the end. She won an Oscar, which was stolen by the person she sent to accept it. A lovely actress, it's a shame she died at the age of 47.",
+         "\"In Old Chicago\" is the best film the trio of leading actors: Tyrone Power, Alice Faye, and Don Ameche, ever made. They made several movies together and this is their best. It has everything in it: love, musical numbers, hunger to succeed, business dealings, government corruption, personal deceit, and a fire to boot. You can see on the faces of the trio of leading actors that they loved playing their roles. A special note on Alice Faye, she inherited the role after Jean Harlow's early death. The role was perfect for Alice Faye because she was a singer and dancer before making it in the movies. The strong supporting cast was headed by Brian Donlevy and Alice Brady, who deservedly won an Academy Award for her performance.",
+         "This was the first of three films that teamed Tyrone Power and Alice Faye, the others being Alexander's Ragtime Band and Rose of Washington Square. In Old Chicago and Alexander's Ragtime Band also had Don Ameche in it. And it set a pattern, no way was Ameche going to get Faye when Power was on the scene. Ty Power's roles in his Fox days fell in two Categories. He was either the total romantic hero or he was a hero/heel. In In Old Chicago he's the latter although Power usually has the heroic side win out in these parts, he's not above a little scheming. Power's Dion O\"Leary both double crosses Brian Donlevy and marries Alice Faye not just because he loves her, but so she can't testify against him. But Ty's always a charming likable cuss and Ameche is always the straight arrow, but slightly dull rival and in this case, brother. However the film is known for two things. It gave Alice Faye her first real notice as actress. Up to this point, she'd been a Jean Harlow wannabe right down to the platinum blonde hair. Here Faye gets those period costumes that she wore so well. It was the first of many successes in that genre. The second thing is the grand special effects showing the burning of Chicago. Even almost 70 years later it's a spectacular sight.",
+         "This is a good, old-fashioned movie featuring brotherly rivalry between Don Ameche's character and Tyrone Power's. Tyrone is the good-hearted scoundrel of the two -- his scenes with Alice Faye have pizzaz despite her not being half as gorgeous as her leading man. The scene where Tyrone ducks objects that Alice throws at him in anger, then wrestles her to the floor and bites her lower lip, is a must-see for Power admirers. The Chicago fire is portrayed so well, this movie won an award for special effects.",
+         "The historical drama In Old Chicago is directed by Henry King and stars Tyrone Power, Alice Faye, and Don Ameche. The film takes place in 1870s Chicago. The film starts out with a family heading to Chicago in 1854. On the way to Chicago the father decides to race a train after his children ask him to do so and he loses control of the cart and ends up badly injuring himself, so much so it leads to his death. When the remainder of the family enter Chicago two of the children accidentally dirty a woman's dress and the mother offers to clean it for her. The mother is so good as cleaning she starts a business and then it is cut to 1870. All the boys are grown up one is a lawyer, one is involved with gambling and other frowned on affairs, and the final one does not really have that much of a part so it doesn't matter. The son that is a lawyer, Jack (Ameche), is convinced to run for mayor and Dion (Power) is one of the heads of a somewhat crime organization. The two are rivals, but then the great fire starts burning... The writing for this film is decent. It is an interesting concept having the two brothers pitted against each other, I like that part a lot. But every relationship involving a woman of romance just seemed so unnatural and forced. It was just like if anyone talked to a woman in a few minutes they would be in love. I liked towards the end everything that had to do with the fire, I thought that was very interesting and kept my attention. After the film ended though not much was very memorable. Henry King's direction for this film was quite good. One shot in particular I liked was when it was in the bar and the camera dollied backwards and I saw all the bartenders serving beer to the large crowd of people. This shot was so much more efficient than just an overhead shot displaying the large amount of people because it felt like I was actually there. Also King directed everything with the fire brilliantly as well. He got solid performances from all his leads as well. The editing for this film was equally as good as the direction. One thing I liked in particular was when the mother was washing the clothes and all the years passed by over her washing. I thought that was much smarter than just going to the next shot and putting 1870 on the bottom of the screen. Again with the fire scenes everything was edited perfectly, especially involving the special effects. The acting was solid by most of the cast. I thought Tyrone Power played his part very well, he was likable even though his character was devious. I did think the parts where he was with any woman besides his mother were ridiculous, but that wasn't his fault it was the writers and director. Alice Faye did not give that great of a performance but I thought her role was somewhat useless so it was hard for her to be good. Don Ameche basically just read his lines and furrowed his brow during the whole film so nothing remarkable. Alice Brady won an Oscar for her role as the mother and she deserved it. She was basically a caring mother that did not want her sons to be running around and being with women who were not of class. She played the part perfectly and really could not have improved. Overall I give this film a very weak 7/10. My main issue is that after the film I almost immediately forgot it but during the film it was quite an experience. I would recommend this film to anyone who enjoys historical dramas.",
+         "In 1936, MGM made the huge and impressive \"San Francisco\". It starred Clark Gable and the singing sensation, Jeanette MacDonald and ended with an amazing earthquake sequence that brought down the crooked empire that Gable had spent the movie amassing. Here, in a totally different(?) film done just a year later, starring Tyrone Power (a prettier version of Clark Gable) and the singing sensation, Alice Faye and ending with an amazing fire sequence that brought down the crooked empire that Power and Brian Donlevy had spent the move amassing. In other words, this 20th Century-Fox film was essentially a knockoff of the original MGM film--and they barely disguised this by only waiting one year. The only major difference was that IN OLD CHICAGO is based on really, really bad history, as the whole \"Mrs. O'Leary's cow\" incident is complete hooey--as this never happened. Still, if you don't mind that it's a knockoff and you don't mind that it's a terrible history lesson, the film is moderately entertaining. Overall, a watchable time-passer and obvious knockoff.",
+         "I see the original version of the film is 115 minutes and the version on FOX Movie Channel is 95 minutes. So twenty minutes are lost. I presume this was done on a re-release so the film would fit better in a double bill. This is quite common and a shame. I hope a film restorer is looking for the lost footage to add back so film buffs can see the original. This was done with 'For Whom the Bells Tolls'. 'In Old Chicago' is an important film and deserves the same. Secondly, I think the maid Hattie is quite hilarious. I thought her remarks were very subtle and cleaver. I wonder if she was improvising? If so, it added a lot to the film.",
+         "This is the fictional story of the O'Leary family and the birth of the Great Fire of Chicago. Big budget, big stars and a completely big production, In Old Chicago may be deemed as a Zanuck cash in on the previous years MGM eye opener, San Francisco, it is however a wonderful picture that features two differing halves of worth. Casting aside historical accuracy (lets really not go down that road in cinema history), this Henry King directed piece firstly engages us as a jaunty family character piece, only to then pull the rug from underneath us to let in political intrigue, deception, down right ugliness and a near $2 million fire besieged Chicago! Tyrone Power, Don Ameche, Alice Faye, Alice Brady (Best Supporting Actress Academy Award) and Brian Donlevy all line up to entertain the viewers, all possibly aware that they are merely the starter course for the extravagant main course that will be the 20 minute final reel of panic and burning disaster. Yet to focus merely on the fire itself, and the effects that some 70 years later still impact smartly, is to do the first half a disservice, characters are formed and the story is fully fleshed to make the wait for the fire completely worth our time. It's no history lesson for sure but the devilment of some characters, and the ineptitude of some others, more than make this an essential watch for fans of 30s cinema. 7.5/10"
+      ],
+      "genres": [
+         "Action",
+         "Drama",
+         "Musical",
+         "Romance"
+      ],
+      "productionCompanies": [
+         "Twentieth Century Fox Film Corporation",
+         "Darryl F. Zanuck Productions"
+      ],
+      "summaries": [
+         "Story of the great fire of 1871. Fictional story of two sons of Mrs. O'Leary (the owner of the cow which started the fire), one a rogue (Power) the other a lawyer (Ameche). One of the most expensive films of its time ($1.8 million).",
+         "The O'Leary brothers -- honest Jack and roguish Dion -- become powerful figures, and eventually rivals, in Chicago on the eve of its Great Fire."
+      ],
+      "budget": 1800000
+   },
+   "movielensId": 36553,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1937-04-14",
+      "dvdReleaseDate": "2005-08-09",
+      "directors": ["Henry King"],
+      "runtime": 95,
+      "movieId": 36553,
+      "title": "In Old Chicago",
+      "mpaa": "",
+      "actors": [
+         "Tyrone Power",
+         "Alice Faye",
+         "Don Ameche",
+         "Alice Brady",
+         "Andy Devine",
+         "Brian Donlevy",
+         "Phyllis Brooks",
+         "Tom Brown",
+         "Sidney Blackmer",
+         "J. Anthony Hughes",
+         "Berton Churchill",
+         "Bess Flowers",
+         "June Storey",
+         "Paul Hurst",
+         "Spencer Charters",
+         "Madame Sul-Te-Wan",
+         "Rondo Hatton",
+         "Russell Hicks",
+         "Harry Hayden",
+         "George Chandler",
+         "Gene Reynolds",
+         "Billy Watson",
+         "Bobs Watson",
+         "Vera Lewis",
+         "Francis Ford",
+         "Bert Moorhouse",
+         "William H. O'Brien"
+      ],
+      "imdbMovieId": "0029047",
+      "originalTitle": "In Old Chicago",
+      "genres": [
+         "Action",
+         "Drama"
+      ],
+      "youtubeTrailerIds": ["Q8CaPs2Jtu8"],
+      "plotSummary": "The O'Leary brothers -- honest Jack and roguish Dion -- become powerful figures, and eventually rivals, in Chicago on the eve of its Great Fire.",
+      "tmdbMovieId": 78734,
+      "avgRating": 3.05882,
+      "releaseYear": "1937",
+      "numRatings": 34,
+      "posterPath": "/lSkLiVmxECi0DbOwG4bogsN9vob.jpg"
+   }
+}

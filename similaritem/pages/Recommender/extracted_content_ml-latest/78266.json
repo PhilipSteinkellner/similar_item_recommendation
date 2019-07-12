@@ -1,0 +1,941 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "experiment",
+            "id": 1706
+         },
+         {
+            "name": "dna",
+            "id": 1718
+         },
+         {
+            "name": "genetics",
+            "id": 6017
+         },
+         {
+            "name": "gene manipulation",
+            "id": 158256
+         },
+         {
+            "name": "genetic engineering",
+            "id": 163561
+         }
+      ],
+      "imdb_id": "tt1017460",
+      "video": false,
+      "title": "Splice",
+      "recommendations": [
+         19898,
+         43933,
+         19901,
+         29427,
+         11152,
+         13220,
+         60935,
+         42684,
+         31867,
+         9392,
+         7978,
+         22824,
+         9667,
+         13460,
+         44040,
+         9035,
+         2666,
+         13812,
+         22825,
+         8645
+      ],
+      "backdrop_path": "/iPTMOZdrWE3q8rXQnUYSPRedah6.jpg",
+      "revenue": 0,
+      "reviews": [{
+         "author": "Andres Gomez",
+         "id": "547585bdc3a368364c00212c",
+         "content": "The FX is OK and the uneasiness and thrill is always there but the script is stereotypical, weak and full of holes.",
+         "url": "https://www.themoviedb.org/review/547585bdc3a368364c00212c"
+      }],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Clive",
+               "gender": 2,
+               "credit_id": "52fe46659251416c91053257",
+               "name": "Adrien Brody",
+               "profile_path": "/zvMslH1C8xmEBpGgDsdzL797Rv.jpg",
+               "id": 3490,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Elsa",
+               "gender": 1,
+               "credit_id": "52fe46659251416c9105325b",
+               "name": "Sarah Polley",
+               "profile_path": "/asFwK6hCFYHtHVJoOwMBSMTETtg.jpg",
+               "id": 98,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "Dren",
+               "gender": 1,
+               "credit_id": "52fe46659251416c9105325f",
+               "name": "Delphine Chanéac",
+               "profile_path": "/en21TtTTtWfTZ5yqCGW0FQ2acxn.jpg",
+               "id": 118357,
+               "order": 2
+            },
+            {
+               "cast_id": 5,
+               "character": "Barlow",
+               "gender": 2,
+               "credit_id": "52fe46659251416c91053263",
+               "name": "David Hewlett",
+               "profile_path": "/yntJ7Lur8LmjQ9rTfoVzlKb5WsX.jpg",
+               "id": 5892,
+               "order": 3
+            },
+            {
+               "cast_id": 6,
+               "character": "Yang Dren",
+               "gender": 1,
+               "credit_id": "52fe46659251416c91053267",
+               "name": "Abigail Chu",
+               "profile_path": "/erbfyBNGmUGb0X84lItZBBZ8trk.jpg",
+               "id": 88931,
+               "order": 4
+            },
+            {
+               "cast_id": 7,
+               "character": "Elsa / PD",
+               "gender": 0,
+               "credit_id": "52fe46659251416c9105326b",
+               "name": "Stephanie Baird",
+               "profile_path": null,
+               "id": 118358,
+               "order": 5
+            },
+            {
+               "cast_id": 9,
+               "character": "Gavin",
+               "gender": 0,
+               "credit_id": "52fe46659251416c9105326f",
+               "name": "Brandon McGibbon",
+               "profile_path": "/bkOiaf6zOHzRjkT2rM0KMrB6lJg.jpg",
+               "id": 81801,
+               "order": 6
+            },
+            {
+               "cast_id": 19,
+               "character": "Melinda Finch",
+               "gender": 1,
+               "credit_id": "52fe46669251416c910532a3",
+               "name": "Amanda Brugel",
+               "profile_path": "/t7Nef0M3sub90VjhQtsSTO004qF.jpg",
+               "id": 1232769,
+               "order": 7
+            },
+            {
+               "cast_id": 84,
+               "character": "Joan Chorot",
+               "gender": 1,
+               "credit_id": "5a86f025c3a36862e103a020",
+               "name": "Simona Maicanescu",
+               "profile_path": "/b4hCnBwZtcYqvxDuG6r7Fs0fkjM.jpg",
+               "id": 77902,
+               "order": 8
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe46659251416c91053281",
+               "name": "Guillermo del Toro",
+               "profile_path": "/aBPPwt3jcFw2ridEkKTgchfPaic.jpg",
+               "id": 10828,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe46659251416c91053287",
+               "name": "Franck Chorot",
+               "profile_path": null,
+               "id": 118361,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46659251416c9105328d",
+               "name": "Steven Hoban",
+               "profile_path": "/zChL93hWGyNgkAeOxD5G2u5CWYf.jpg",
+               "id": 59935,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe46659251416c91053293",
+               "name": "Tetsuo Nagata",
+               "profile_path": null,
+               "id": 16930,
+               "department": "Crew",
+               "job": "Cinematography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe46669251416c9105329f",
+               "name": "Vincenzo Natali",
+               "profile_path": "/4rdmLwBRQKs1gpjEfrTxabOUerv.jpg",
+               "id": 5877,
+               "department": "Writing",
+               "job": "Scenario Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5373857ec3a368150900145b",
+               "name": "Vincenzo Natali",
+               "profile_path": "/4rdmLwBRQKs1gpjEfrTxabOUerv.jpg",
+               "id": 5877,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 1,
+               "credit_id": "53738594c3a36815300013a3",
+               "name": "Antoinette Terry Bryant",
+               "profile_path": null,
+               "id": 118360,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "537383f0c3a3681520001387",
+               "name": "John Buchan",
+               "profile_path": null,
+               "id": 933333,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "53738405c3a368152000138a",
+               "name": "Constance Demontoy",
+               "profile_path": null,
+               "id": 966444,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5373845ac3a368151800141b",
+               "name": "Jason Knight",
+               "profile_path": "/lSOISo7qPcawFQC5KrwQjSs8xib.jpg",
+               "id": 190936,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "53738470c3a3681509001430",
+               "name": "Alex Kavanagh",
+               "profile_path": null,
+               "id": 51035,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5373848ac3a368150200137b",
+               "name": "Cyrille Aufort",
+               "profile_path": null,
+               "id": 1183015,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "537384a8c3a3681528001347",
+               "name": "Todd Cherniawsky",
+               "profile_path": null,
+               "id": 959555,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "537384bfc3a36815200013a7",
+               "name": "Joshu de Cartier",
+               "profile_path": null,
+               "id": 60088,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "537384e1c3a368150900143f",
+               "name": "Marie Nardella",
+               "profile_path": null,
+               "id": 1319467,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Department Head"
+            },
+            {
+               "gender": 0,
+               "credit_id": "537385acc3a3681518001448",
+               "name": "Doug Taylor",
+               "profile_path": null,
+               "id": 23801,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "537385f1c3a36815300013b0",
+               "name": "Vincenzo Natali",
+               "profile_path": "/4rdmLwBRQKs1gpjEfrTxabOUerv.jpg",
+               "id": 5877,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54901529c3a3686d820013ff",
+               "name": "Joseph Boccia",
+               "profile_path": null,
+               "id": 1121601,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5490156ac3a3686d8200140d",
+               "name": "William Cheng",
+               "profile_path": null,
+               "id": 1399909,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5490158bc3a3686d74001490",
+               "name": "Sam Hudecki",
+               "profile_path": null,
+               "id": 1399910,
+               "department": "Art",
+               "job": "Assistant Art Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "549015a1c3a3686d74001499",
+               "name": "Rossana DeCampo",
+               "profile_path": null,
+               "id": 1399911,
+               "department": "Crew",
+               "job": "Scenic Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "549015b99251412203001443",
+               "name": "Jason Lunn",
+               "profile_path": null,
+               "id": 1399912,
+               "department": "Art",
+               "job": "Leadman"
+            },
+            {
+               "gender": 0,
+               "credit_id": "549015cfc3a3686d71001178",
+               "name": "James R. Murray",
+               "profile_path": null,
+               "id": 1399913,
+               "department": "Crew",
+               "job": "Property Master"
+            },
+            {
+               "gender": 0,
+               "credit_id": "549015fe9251412215001376",
+               "name": "Janice Ierulli",
+               "profile_path": null,
+               "id": 1375604,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5490161692514122050013b0",
+               "name": "Jill Purdy",
+               "profile_path": null,
+               "id": 1340346,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "549016529251412203001463",
+               "name": "David McCallum",
+               "profile_path": "/qInIKuwRy2yV6BhhLuY0skbznRr.jpg",
+               "id": 1338133,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "549016689251412212001473",
+               "name": "Laurent Kossayan",
+               "profile_path": null,
+               "id": 1399914,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5490168cc3a3686d7100118e",
+               "name": "Lou Thomas",
+               "profile_path": null,
+               "id": 1399915,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "549016a19251412215001389",
+               "name": "Jean-Alexandre Villemer",
+               "profile_path": null,
+               "id": 1399916,
+               "department": "Crew",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "549016b59251412212001482",
+               "name": "Stefan Fraticelli",
+               "profile_path": null,
+               "id": 1399917,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "549016ca925141220300146d",
+               "name": "John Sievert",
+               "profile_path": null,
+               "id": 1338134,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 2,
+               "credit_id": "549017039251412215001396",
+               "name": "Roderick Deogrades",
+               "profile_path": null,
+               "id": 85964,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "549017219251412203001476",
+               "name": "Garrett Kerr",
+               "profile_path": null,
+               "id": 1375605,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5490174192514122180012b7",
+               "name": "Mark Shnuriwsky",
+               "profile_path": null,
+               "id": 1399918,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "549017ccc3a3687cb80003ef",
+               "name": "David Rose",
+               "profile_path": null,
+               "id": 90769,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "549017eb925141220f001481",
+               "name": "Steve Pederson",
+               "profile_path": null,
+               "id": 1378228,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54901806925141220b001434",
+               "name": "Brad Sherman",
+               "profile_path": "/70tXowp8YRwjyB0CYh114YaDFmT.jpg",
+               "id": 1399861,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54901865c3a3686d86001658",
+               "name": "Daniel White",
+               "profile_path": null,
+               "id": 1399919,
+               "department": "Crew",
+               "job": "Special Effects Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5490187f92514122090015b1",
+               "name": "François-Xavier Aubague",
+               "profile_path": null,
+               "id": 1399920,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54901895c3a368269a000245",
+               "name": "Jacques Bled",
+               "profile_path": null,
+               "id": 1399921,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "549018abc3a3686d740014fa",
+               "name": "Arnauld Boulard",
+               "profile_path": null,
+               "id": 1399922,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "549018c292514122180012e8",
+               "name": "Jean-François Bourrel",
+               "profile_path": null,
+               "id": 544428,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "549018df92514122120014d1",
+               "name": "Dale Gagne",
+               "profile_path": null,
+               "id": 1399923,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "549018f7925141220b00144e",
+               "name": "Michael Griffith",
+               "profile_path": null,
+               "id": 1399924,
+               "department": "Crew",
+               "job": "Visual Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5490191092514122120014dc",
+               "name": "Alain Lalanne",
+               "profile_path": null,
+               "id": 1204668,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5490192592514122090015d3",
+               "name": "Sue Len Quon",
+               "profile_path": null,
+               "id": 1399925,
+               "department": "Crew",
+               "job": "Visual Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54901945c3a3686d7400151a",
+               "name": "David Sanger",
+               "profile_path": null,
+               "id": 1394445,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "549019919251412205001435",
+               "name": "Bob Munroe",
+               "profile_path": null,
+               "id": 1233109,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "549019aa92514122030014b9",
+               "name": "Fabrice Lagayette",
+               "profile_path": null,
+               "id": 1399926,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "549019c5c3a3686d820014ad",
+               "name": "Ian Hunter",
+               "profile_path": null,
+               "id": 1392095,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "549019f9c3a3686d860016a0",
+               "name": "Pierre Buffin",
+               "profile_path": null,
+               "id": 937975,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54901a26925141221800131e",
+               "name": "Plato Fountidakis",
+               "profile_path": null,
+               "id": 8361,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54901a3992514122090015f8",
+               "name": "Paul Rapovski",
+               "profile_path": "/1hjxQcz3Fr1vz1FkTESAN2j7kC0.jpg",
+               "id": 28242,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54901a56925141221200150e",
+               "name": "Angelo Colavecchia",
+               "profile_path": null,
+               "id": 1399927,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54901a739251412218001327",
+               "name": "Dino Laurenza",
+               "profile_path": null,
+               "id": 1399928,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54901a8b925141220b00149c",
+               "name": "Steve Wilkie",
+               "profile_path": null,
+               "id": 1179441,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54901aaf925141221200151f",
+               "name": "Chris Howard",
+               "profile_path": null,
+               "id": 1399508,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54901b03c3a3686d74001562",
+               "name": "Christopher M. Meagher",
+               "profile_path": null,
+               "id": 1399929,
+               "department": "Editing",
+               "job": "Digital Intermediate"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54901b249251412209001617",
+               "name": "Shie Rozow",
+               "profile_path": null,
+               "id": 1393021,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54901b3ac3a3686d820014e2",
+               "name": "Dana Howes",
+               "profile_path": null,
+               "id": 1337473,
+               "department": "Crew",
+               "job": "Transportation Coordinator"
+            },
+            {
+               "gender": 1,
+               "credit_id": "54901b52925141221500141d",
+               "name": "Lisa Burling",
+               "profile_path": null,
+               "id": 1340343,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "54901b84c3a3686d71001216",
+               "name": "Marty Dejczak",
+               "profile_path": "/jf97PsfaicjX0BkltaJZMSpFl8I.jpg",
+               "id": 1399930,
+               "department": "Production",
+               "job": "Location Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54901bb79251412212001538",
+               "name": "Chris Howard",
+               "profile_path": null,
+               "id": 1399508,
+               "department": "Crew",
+               "job": "Thanks"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54901beb9251412218001356",
+               "name": "Leslie Kavanagh",
+               "profile_path": null,
+               "id": 1312174,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54901c359251412212001554",
+               "name": "Aidan Stanford",
+               "profile_path": null,
+               "id": 1399931,
+               "department": "Editing",
+               "job": "Color Timer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54901c789251412218001370",
+               "name": "David R. Beecroft",
+               "profile_path": null,
+               "id": 1193691,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "554aad00925141469c00035c",
+               "name": "Christina Butterfield",
+               "profile_path": null,
+               "id": 1460504,
+               "department": "Visual Effects",
+               "job": "VFX Artist"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5902322b9251410acb001e54",
+               "name": "Cynthia Amsden",
+               "profile_path": "/g4XvtBReELx9cbDlflsv0d55yuy.jpg",
+               "id": 1242935,
+               "department": "Crew",
+               "job": "Unit Publicist"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Horror",
+            "id": 27
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         }
+      ],
+      "popularity": 7.710625,
+      "production_countries": [
+         {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+         },
+         {
+            "iso_3166_1": "FR",
+            "name": "France"
+         },
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         }
+      ],
+      "id": 37707,
+      "vote_count": 850,
+      "budget": 26000000,
+      "overview": "Elsa and Clive, two young rebellious scientists, defy legal and ethical boundaries and forge ahead with a dangerous experiment: splicing together human and animal DNA to create a new organism. Named \"Dren\", the creature rapidly develops from a deformed female infant into a beautiful but dangerous winged human-chimera, who forges a bond with both of her creators - only to have that bond turn deadly.",
+      "similar": [
+         3034,
+         8078,
+         9738,
+         9348,
+         1694,
+         9426,
+         782,
+         384521,
+         126889,
+         336843,
+         1927,
+         9383,
+         22825,
+         1930,
+         399055,
+         4961,
+         18111,
+         9667,
+         1724,
+         36647
+      ],
+      "original_title": "Splice",
+      "runtime": 104,
+      "poster_path": "/2ERwnTksOfNnAyZFp6oUn3BSRqK.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": "/weCaiLyIQXuN7T5SH7zQEjQgUFs.png",
+            "name": "Gaumont",
+            "id": 9,
+            "origin_country": "FR"
+         },
+         {
+            "logo_path": "/joLFuCWg9e2lweYnFQtRPJKSLlI.png",
+            "name": "Dark Castle Entertainment",
+            "id": 1786,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": null,
+            "name": "Copperheart Entertainment",
+            "id": 5106,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Senator Entertainment Co",
+            "id": 3319,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2009-10-06",
+      "vote_average": 5.5,
+      "belongs_to_collection": null,
+      "tagline": "Science's newest miracle...is a mistake.",
+      "adult": false,
+      "homepage": "http://www.splicethefilm.com/",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Canada",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Vincenzo Natali"],
+      "runtime": 104,
+      "synopsis": "Genetic engineers Clive Nicoli (Adrien Brody) and Elsa Kast (Sarah Polley) achieve fame by successfully splicing together the DNA of different animals to create incredible new hybrid animals. Now they want to use human DNA in a hybrid that could revolutionize science and medicine. But the pharmaceutical company that funds their research, N.E.R.D. (Nucleic Exchange Research & Development), forbids it, instead mandating that their department be reorganized to focus on finding & extracting certain proteins from the creatures they have already created. Not wishing to spend all their time engaged in what they consider mundane research for the next 5-10 years, Clive and Elsa secretly conduct their own experiments, blending human DNA with that of other animals. Though they disagree about actually bringing the hybrid to term, Elsa pushes the issue and she persuades Clive to go along with it, in continued secrecy. They name their creature Dren (nerd backwards), who exceeds their wildest dreams; she begins to grow and learn at an accelerated rate. As their lab becomes exceedingly crowded, and the risk of Dren being discovered increases, they move Dren to Elsa's late mother's farm. One of the original hybrid animals that they had created, which was originally female, had changed sex, unbeknownst to the preoccupied Clive & Elsa. This led to a disastrous presentation during a company shareholders' meeting, when the two original hybrids, previously one male and one female very much in love with each other, became both male, saw each other as rivals and bloodily killed each other in front of a shocked audience of shareholders and potential investors. Following this meeting, N.E.R.D., found itself in danger of going out of business unless they could find a profitable discovery. Their work at the company suffers as their attention is focused on Dren. Meanwhile, Dren has become amphibious and omnivorous with a toxic sting and retractable wings coming out of parts of her arm and back. Elsa, who had formed a maternal bond with Dren, changes her mind after Dren shows violent behavior, killing her own pet cat out of spite and assaulting her. She cuts off Dren's stinger and uses organic tissue from it to finally isolate and synthesize a protein they had been searching for. Soon after, Clive is seduced by Dren and has sex with her, much to Elsa's disgust; during her sexual encounter with Clive, Dren reveals that she has regenerated her stinger. Elsa and Clive have a heated argument about Clive having cheated, during which he confronts her with his discovery that she used samples of her own DNA in the creation of Dren. Deciding to deal with Dren, they go back to the farm, only to discover her body in the water tank, apparently dead. They bury Dren near the farmhouse but before they leave, their boss from pharmaceutical company arrives, having figured out that there was some sort of human hybrid because of the DNA present in the protein they had finally synthesized. Elsa tells her boss he can dig up Dren's body if he really wants to see it. Suddenly, they are attacked by Dren, who was not dead, but apparently in some sort of coma as her body underwent changes that turned her into a male. After killing her boss and Clive's brother, Dren drags Clive into a freezing pond. Elsa pulls him out, but he is unconscious and Elsa flees. Dren finds her and rapes her. As Dren is raping Elsa, Clive comes to the rescue, impaling Dren with a large sharp branch. Dren kills Clive with a toxic sting, but is dealt a fatal blow by Elsa when she smashes its head with a rock. Later on, Elsa is seen in the office of the pharmaceutical company's head and is given a massive amount of money in exchange for her silence and taking the experiment to the \"next stage\". The head of the company then thanks Elsa for the personal risk that she is undergoing. Elsa stands up and is revealed to be pregnant with Dren's baby.",
+      "writers": [
+         "Vincenzo Natali",
+         "Antoinette Terry Bryant"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt1017460/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjEwODQ0MjI2OV5BMl5BanBnXkFtZTcwMTA4MjQ0Mw@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Adrien Brody, Sarah Polley, Delphine Chanéac | See full cast and crew »"],
+      "reviews": [
+         "\"Splice\" is a step in the right direction for horror. Every so often, I find myself pleasantly surprised by intentionally misadvertised entertainment, and writer/director Vincenzo Natali's genetic genre mash-up is the latest such example. From a marketing standpoint, its scare-tactics are clearly the easy sell, despite their comprising only a tiny percentage of its thematic intent. 'Hard sci-fi parenting metaphor' is, after all, a much tougher pitch. So expecting the tasteless creature feature from the trailer, \"Splice\" impressed me in its pursuit of a more complex emotional response than fear, and is successful in burrowing into your subconscious and picking at your psyche. It's a thinking man's B picture, which plays with the idea of morality on both a scientific and personal level. That it remains intellectually stimulating, even when the surface-area film dips into more traditionally hokey horror territory, is its greatest strength. What's so interesting about the story, in spite of what the trailer suggests, is that the creature artificially spawned by genetic engineers Clive and Elsa (Adrian Brody and Sarah Polley) is not an antagonist for the vast majority of the film. \"Splice\" isn't about a monster� It's about parenthood, and like with \"Rosemary's Baby\" or \"Eraserhead,\" taking the associated fears and filtering them through a horror lens. Besides the tail and the pronounced facial cleft, test-tube baby Dren ('Nerd' backwards, heh) is essentially human, and a big part of \"Splice's\" inherent creepiness is that she's treated in turn as a subject and a child�Warmly received, but caged and abandoned for significant stretches of time. The realization of this character by French actress Delphine Chanéac, is another of the film's triumphs. Her general lack of dialogue sometimes forces the performance to rely a little too heavily on pantomime, but that we can both feel for and fear Dren simultaneously is a testament to the range of the actress. Perhaps it's because \"Splice\" nails the big performances and the big ideas, and because the gears turning behind the action are so consistently fluid, that it's all the more apparent when it stumbles over little things, like stilted motivation issues, and superfluous, grating secondary characters. Clive's brother (Brandon McGibbon) and boss (David Hewlett), for example, are flat placeholder roles that transparently progress the plot instead of enriching it. The triangular relationship between Clive, Elsa, and Dren, and its weird morphing emotional permutations, is what \"Splice\" is at its core. It is a film with very few characters, but every moment not spent on that central dynamic feels like time wasted. Still, that minor gripe is forgivable because \"Splice\" has two hugely important and rare qualities for modern horror�Original thought and fearless storytelling. The undercurrent of sexuality in the film, the internal dialogue on gender roles, is apparently one of the reasons no studio wanted to touch the script last year, but Natali's film is a cut above the rest precisely because it isn't afraid to make an audience uncomfortable. And it gets uncomfortable. \"Splice\" gets a lot of credit from me in the abstract. The concrete film doesn't quite live up to the incredible promise of the ideas behind it, but the very presence of those ideas is reaffirming to a degree, and that \"Splice\" received a wide domestic release is more encouraging still. Granted, it went on to perform below expectations at the box office, but was positioned against more breezy summer fare like \"Shrek\" and \"Get Him to the Greek.\" The other possibility, and this suggests more consumer confidence than an ad man may be inclined to grant, is that \"Splice's\" scare-tactics aren't the easy sell. Maybe, like me, potential moviegoers just saw a trailer for another crappy horror movie instead of the interesting, offbeat experiment it is. It's Warner Brother's loss, and the audience's.",
+         "Splice centres on two renowned young scientists (Adrien Brody and Sarah Polley) that are quasi-famous for successfully creating a new species of animal, a species with enormous pharmaceutical industry potential in the form of an ability to secrete profitable proteins. Despite a refusal by their company bosses to approve the next stage of the project, or anything that tampers with human DNA, their ambitions lead them to create a human-animal hybrid by combining human genes with those of the created species. This in turn leads to the creation of a new entity they name Dren, which they raise and attempt to study as a personal project concealed from their employers and colleagues. The story becomes highly engrossing as we follow the creature's development alongside that of the two scientists, who are in a relationship that becomes increasingly strained by a series of ethical and logistical dilemmas. The two central performances are well-judged, but the real star is Dren; or the CGI responsible for her creation, which is always convincing and solid at all stages of the creature's evolution. Vincenzo Natali's visually intense direction is also worth mentioning, and he clearly enjoys playing with a generous budget as compared with his previous features like Cube. This is, however, no modern masterpiece � the plot becomes predictable and contrived in the final third, the minor characters are little more than stereotypes (lax young brother, venal bosses) and the comedic elements of the film don't always sit comfortably with the horror aspects (there is, however, a notable exception in a hilarious scene towards the end). But these drawbacks are outweighed by the plus points, which makes Splice an enjoyable experience overall.",
+         "So Many things went wrong with this movie. One, a high-tech lab where there are NO cameras in the \"secure\" areas. I mean seriously are we supposed to believe that there were no cameras in the room with the multi-million dollar piece of equipment (fake uterus) was. Also, about that they break a multi-million dollar piece of equipment (smash it) and no one even asks what happened to it. They end up moving Dren into the basement (where no one goes), because yea maintenance and janitorial employees ever go into areas where maintenance and janitorial things are stored. OK, but those are minor things. How about we look at how Adrian Brody/Sarah Polley characters changed so quickly without explanation. Adrian Brody starts out thinking they need to kill Dren, then he thinks no we need to take care of it, and then near the end he says \"the experiment's over we no longer have an obligation to the specimen\" none of those transitions are ever explained they just happen. Sarah Polley's character does the same thing only in reverse. She starts off wanting to take care of Dren, then after Dren kills the cat she goes all kinds of crazy and wants to kill Dren and then she goes back to wanting to take care of Dren and then at the very end she wants to kill it again. Now, I guess we can say that she turns on Dren because of the abuse her mother did to her, although we are never told that not even a damn flash-back scene. Also, why did Adrian Brody have sex with Dren, it was not needed and in the scene right before that we see that she has no vagina (so we will call it Comic Book Magic. Next, they are supposed to be brilliant scientist, but they fail to notice that every single time there is a change in Dren she \"Dies\" for a bit. In the fake uterus machine she dies and then comes out, she gets drowned and dies and then develops the aqua-lungs. So they really don't see that come on. Finally, there is NO moral, I mean I guess the moral is go ahead and screw around with nature and when it kills everything that you love and rapes you, don't worry go ahead and screw around with nature some by selling your rape creature. I mean the sex scene was totally un-needed but the rape scene was just sick, and then on top of that to find out that she is just money hungry woman at the end. When she said \"What's the worst thing that can happen\", I totally wanted the camera to pan outside and see the whole city on fire. This movie was horrible, it was horribly written and horribly put together. I am sadden that people actually found this movie to be good.",
+         "Splice was a movie that had a lot of promise. It seemed to be building towards something special, but got lost in an unnecessary plot thread that didn't quite work towards the end. THis specific plot started with a scene involving the creature and the character played by Adrian Brody, and it was a scene that didn't quite work because there wasn't enough of a build up towards something like that happening. Sure there were some scenes leading towards that, but in my opinion those scenes were not enough to take such a major step forward, not after he first showed disgust towards the creature at the earlier phases of its development. On top of that the movie goes even farther into absurdity at the conclusion, involving the character played by Sarah Polley and the creature again, taking much of the intelligence of the film out of the equation. In my opinion, the director was onto something in the beginning but then took the story into an unnecessary direction that might've still worked if there had been some real build up to those points which led to the conclusion. Sure there were some signs, but really not enough. Instead the movie ends in what can only be called a total WTF moment, and it doesn't work at all. Not a horrible movie, but only average and not recommended.",
+         "I was privileged enough to catch a screening of Splice last night that headlined the director Vincenzo Natali as a special guest. I've been a moderate fan of his work since his eerie and claustrophobic feature, Cube. Like Cube, I found that this movie was able to set an atmosphere that was almost palatable throughout the film. The main characters, Elsa and Clive (played by Sarah Polley and Adrien Brody, respectively) were both likable and detestable, and yet all the time believable throughout the film. I credit Natali's writing with this emotional tug-of-war, because he was able to explain the motives of the characters without giving too much away and forcing the pacing to lag. (The man is whip smart, and it showed through his handling of the Q&A session after the movie). They do some despicable things, but Natali oft times tries to explain the character's background to justify certain actions. I appreciate the effort, but at the same time, I felt the film required some serious suspension of disbelief on the part of its viewers to really swallow some scenes and resulting relationships. After seeing the movie, you'll probably realize you've seen this movie and premise before. Without giving too much away, this tale reminds me a lot of Jurassic Park. The overarching narrative parallels the sentiments of Dr. Malcom from Jurassic Park (\"but your scientists were so preoccupied with whether or not they could, they didn't stop to think if they should. \"). The character's themselves were even named after pivotal actors in Bride of Frankenstein (Colin Clive and Elsa Lanchester), an homage to one of the great creatures of Science Fiction films, and a source of inspiration to the director himself. The hybrid starts off looking quite alien, but evolves into looking quite human-like (probably due to budget constraints, as well as done to help the viewer identify and empathize with the creature) with legs immediately reminding me of the aliens from The Arrival (1996). Throughout the film, you could see the evolution of all the characters that contributed to the final climax of the film. Elsa and Clive make a lot of mistakes and poor judgments throughout the film considering how 'brilliant' these scientists were supposed to be. They try to approach the creation of this hybrid being with an objective mind - purely for the sake of science. However, in turn, they make a lot of 'human' errors along the way where their emotions come into play. As Chaos Theory explains, small variations in initial conditions renders long-term predictions impossible. The movie keeps you guessing throughout. It evolves in an uncontrolled way, just like the hybrid the scientists created. Like every other creature feature flick before it (Frankenstein, Jurassic Park and even Species), everything culminates into a final climactic scene where the makers are forced to atone for their actions. The creature effects were solid and the actress playing Dren is amazingly beautiful and exotic looking. Her mild androgyny was perfect for the role. Her sharp movements seemed quite alien to me and she took the creature further than what special effects could have done alone. Brody and Polley were both solid actors throughout the film. I particularly enjoyed Brody's wardrobe and styling. The pacing of the film started almost magical, like ET, then quickly picked up pace, paralleling the frenetic tension the scientists themselves must have been feeling. It wasn't a perfect movie by any means and it certainly wasn't one of my favourites in recent years, but I enjoyed it. If I had to compare it to his earlier work, Cube, I would have to say that Cube made a much more lasting impression (I own it and recommend it to friends often). This movie is a fun way to spend an evening. You'll come out of the theatre with a positive experience, but it probably won't be a movie you'd rush out to see a second time. 7/10",
+         "Three fourths of these reviews hate the movie and whine about the idiot decisions of the scientists. Well of COURSE they made idiotic decisions! Where's the film if they made perfectly sane decisions? What kind of film is that? I actually thought the film was effing brilliant. I think it took a familiar premise and retooled it. The performances of Adrien Brody and Sarah Polley were exemplary, as always. I saw it for Sarah Polley as she is one of my favorite actors and one of the most underrated ones out there today. The actress that played Dren was also strong and had the perfect mix of human, alien, and innocence. The film addresses many scientific issues, but does so with a moral and emotional center. I like that the film doesn't pull punches and I like that there are consequences for the actions of the scientists. I thought the complex relationship of the couple and their creation was skillfully rendered and and excellently acted. Was it flawed? Sure. But it was also really kick ass and I'd see it again in a heartbeat. If you want your horror sci-fi movies neat and tidy and pedestrian this probably isn't for you.",
+         "Clive (Adrien Brody) and Elsa (Sarah Polley) are genetic scientists attempting to come up with a breakthrough protein that will help combat against deadly diseases. But the pharmaceutical company financing their work wants to push ahead, despite their insistence of needing more time to perfect their work. With the prospect of losing everything they have worked for, the couple secretly splices together a cocktail of animal DNA with human DNA, and wait to see what happens. Rather quickly, an extraordinary creature is born, and the pair must figure out what to do with it. It may be 2010, but Splice owes its entire existence to the pioneering works of David Cronenberg and David Lynch. Yes, there are elements of Frankenstein and the work of H.P. Lovecraft scattered throughout the film, but the body horror, the mutations, the sexual depravity, the creature itself � all of these elements are cut of the same cloth the two legendary directors gave birth to in the 1970s and 1980s. But it is almost too easy to narrow down the little homages, references, and ideas co-writer and director Vincenzo Natali has dropped into his other-worldly tale. The whole film has a pulse unlike anything I have seen from the genre in recent years (outside of the enigmatic Avatar), and its low budget grittiness helps the tones and ideas of the picture go a very long way. It is because of these elements that Splice rises out of the gluttony of modern horror and science fiction films. It has the old school charm, and it uses that to its advantage to create a rather unique film for its time. Natali, alongside co-writers Antoinette Terry Bryant and Doug Taylor, have crafted an uncompromising view of a potential nightmare of the future. Much like other great science fiction titles, Splice makes the audience think very hard about the morals being broken at any given time, the consequences of the characters' actions, and the very nightmare before them of whether a splicing experiment gone wrong like this one, could actually happen in reality. If there is anything wrong with the film, it is the final act. Up until that point, everything feels very calculated and wildly unpredictable (especially one scene that rather easily disgusted the entire audience I was sitting with, including myself). But the last chunk of the film and especially in the dying moments of the film, the plotting seems very ill-conceived. It feels as if the writers had squandered all of their good ideas for the first two-thirds of the movie, and then ran out of ideas as to what to do afterwards. There are some good ideas at play here, but they just lack the intensity, enthusiasm and uniqueness of what came before. Ironically, a lot of these last scenes are in the television spots that make Splice look like any other horror movie, while the rest of the film tries its hardest to distance itself from everything else. The various creatures that appear during the film, specifically the differing evolutions of the spliced together science project nicknamed Dren, are the true marvel of the film. Much like District 9, the filmmakers here have taken a significantly smaller sum of money than the average Hollywood blockbuster, and have created effects that appear all the more realistic and genuinely impressive. While some look a whole lot better than others (the early renditions of Dren suffer the most), all of these nightmarish beings look excellent and for all intents and purposes, a lot better than they ever should have looked. Great care and detail went into creating these effects, and even more went into some of the makeup used on Delphine Chanéac and Abigail Chu to make the look of Dren become increasingly more believable. The work here is truly spectacular, and compliments the script wonderfully. The unfortunate thing about having such small casts is that the lead actors end up doing the entirety of the heavy lifting. But this is not a problem for Polley or Brody, who appears to have found a new resonance within the Hollywood zeitgeist, years after proving himself worthy of the big time in his Oscar-winning turn in The Pianist. Both are more than qualified for keeping the film afloat, and bring a passion to the small roles. Neither is terribly well written, but both actors breathe depth into their characters and performances. They have just the right conviction to their roles. They never waver or alter their style, even when the film veers into disturbing territory or all out insanity. Their chemistry is also quite well developed, and despite the initial weirdness, they are very believable as a couple. The real marvel of the film however is undoubtedly Chanéac. She is simply magnificent in her role as Dren. She has to emote for the entire film (the creature does not really learn to talk), in various stages of dress, and she is more than up to the task. Her quick tonal changes reflect both the character's struggle for identity, and the immediacy and honesty of the portrayal. Much like Polley and Brody, Chanéac has a heightened conviction to the role that never falters. Her depiction of this monster makes it all the more human, and she makes genuine horror still look devastating. Despite having seen the film a few weeks back, I still cannot get over how well done Splice was. It was cheap and gritty, but it had a low budget effects polish that was stronger than some of the best Hollywood blockbusters. The film has a few problems, but it is still well done all around, and should more than please fans of the genre. I can only hope for more inspired films like this to come from Natali in the future. 8/10. (This review also appeared on http://www.geekspeakmagazine.com).",
+         "I am stunned that so many people on here are giving this high reviews. I assumed of all sites this one would give what this movie truly deserves...a 1/10. I went into this movie with no expectations. A few friends of mine were going to see it so I tagged along. I hadn't heard anything about it except that it was something about genetic engineering, which intrigued me as I am interested in the advancement of genetic engineering. I will start off by saying that this movie is very predictable. As an independent filmmaker myself, I could already picture how they were going to open up the movie by just watching the intro credits. It opened with a first person view of something looking up at a group of doctors. What used to be a great first shot is something that is way overdone. Now when I saw that Adrien Brody was in the movie I was pretty excited because I have always respected him as an actor (until this film). He played a scientist with what seemed to be his girlfriend (maybe his wife, they never established whether or not they were married). They worked together in the lab to develop these \"spliced\" blobs that could be used for medical miracles in science...artificial proteins created from animal DNA. They then decided to risk it all by splicing animal with human DNA. This created this animal/human hybrid that grew at a rapid pace, had lungs that could breathe underwater and could even fly. It also had a tail with this pointy thing at the end of it. Quite a complex combination of who knows what. This was another drawback...the \"girl\" just didn't make sense. She was part human and part like 3-4 different kinds of animals. The idea was great but it fell way short. The dialogue in many areas was pretty awful with the most generic lines ever seen in a movie. For example, as predicted the brother of Brody and their boss shows up and the brother steps out and says something like \"I had no choice\". I saw this scene coming the moment the brother found they had a human/animal. There was even a scene after Brody did something that took him from being a great actor to being a nobody in my book because anyone that would accept a scene like this has got to be out of their mind. I will commend them for this scene because half the audience turned their heads in disgust and the other half burst out laughing about how absurd it was. From then on the movie was nothing but a huge laugh. The whole theater was laughing...it went from a sci fi thriller to a comedy pretty quickly. Probably the best part was the ending...because it was finally over. Overall I would tell everyone to wait for this movie on DVD because it isn't worth your money in the theaters unless you want to watch a comedy. It had a ton of potential but wasn't presented in a believable way. I did however enjoy the opening credits...they were very well done. It' a shame the rest of the movie could not have been the same caliber as the opening credits.",
+         "I saw this movie just tonight at the \"Second Run\" Cheap theater for $1.75. I was ROBBED. This is by far the worst movie I'v seen in years. At some point, I'm sure I've seen another movie this bad, but I can't think of any at the moment. OK, so let's get to the reasons this movie completely sucked. Obviously, this is supposed to be a Sci-Fi thriller, and Character development isn't usually paramount, but The director gives us no reason whatsoever to care about the two main human characters. They're not really good people, they're not really bad, they're just there conducting the most ridiculous experiments which end up giving us the \"Creature\". OK, so the two main characters don't give us anything to care about. No big deal, this is a Thriller right? So we can expect some good old fashioned, edge of your seat, scares right? Wrong. There's nothing remotely scary about this film, aside from the fact that the studio greenlighted it. OK, so, We don't care about the characters... It's not scary.. Maybe it'll have some higher purpose, with great social commentary, and a message of ethics that makes us think. NOPE. The whole premise of the movie is beyond stupid, but by the time Brodie has sex with the Creature, it's completely impossible to take this movie seriously. I usually have no problem suspending disbelief at the movies... But c'mon, Throw us a bone here, you want me to believe that two young, successful, highly educated scientists working in a medical/genetics laboratory, splice one of their own DNA samples with that of.... some other DNA coctail to create a humanoid creature in the broom closet in the basement, of the Med Lab because... Why? who knows. Who Cares. It grows up into a female freakshow, that not even the lonliest guy I know would have sex with, but Brodie decides to do it anyway. Then the Creature changes it's gender, and Rapes the female doctor, knocking her up, and Killing Brodie in the process. Female doctor is pregnant with Freakshow's child, and the movie ends with GREAT possibilities for a FANTASTIC sequel. Somebody slap the Director. If I hadn't seen it with my own eyes, I wouldn't have believed that in this day, and age a movie this bad didn't go straight to DVD. I wasted 2 hours of my life, and $1.75 on this steaming heap of crap. Learn from my mistake, and don't let it happen to you. Stay home, and watch Seinfeld Reruns, Change the oil in your car, Paint the Garage... anything... just don't waste your time on this movie.",
+         "James Whale's 1931 adaptation of Mary Shelley's \"Frankenstein\" was one of the earliest films to chronicle man's quest (via science and nature, and in notably strict defiance of God) to literally create life by transgressing human reproduction; granted, the result was the hideous, hulking visage of Boris Karloff, but one couldn't help but be in awe of the sheer gumption of Victor Frankenstein and his accomplices. Roman Polanski evolved this idea (via adaptation of Ira Levin's novel) in \"Rosemary's Baby,\" which took the notion of creating something truly awful (the son of Satan) and using it as a metaphor for a woman's self-destruction and paranoia during pregnancy. Larry Cohen's \"It's Alive\" took contemporary paranoias of a carcinogen-engulfed atmosphere and nuclear proliferation and applied it to his own murderous, bloodthirsty infant. And rounding out this prolific bunch is David Lynch's \"Eraserhead,\" a hauntingly surreal horror film that not only presents parenthood with fearful uncertainty, but treats acts of sexuality and procreation with a metaphorically clinical (but never explicit) disgust. Vincenzo Natali's \"Splice\" falls somewhere within this noteworthy pantheon of mad science, moral/ethical conundrums, and icky special effects. Many have already drawn comparisons (both positive and negative) to the early, mutation-informed works of Canadian auteur David Cronenberg, but Natali is just as interested in exploring the questions under the surface as he is showing an astutely creative visual eye. For a while, the film plays like something closer to an art-house feature (especially given the presence of character actors like Adrien Brody and Sarah Polley) with intriguing ideas and a solid FX budget. There are missteps along the way, but for the most part, this is a solid little sleeper. Clive (Brody) and Elsa (Polley) are young scientists who have made a breakthrough in artificial life: two blob-like creatures (one male, one female) with the ability to manufacture an artificial protein for the purpose of nourishing livestock. In typical, business-first fashion, their corporate overlords marvel at the notion of mass-manufacturing it, and promptly reject Elsa's proposition of human experimentation (to cure genetic disorders). Driven by curiosity, the duo wind up creating Dren (Delphine Chaneac), a creature whose accelerated life cycle prompts the creepily maternal Elsa to keep her as part of a more personal \"experiment.\" \"Splice\" contains subtle, well-played allusions to bad childhoods, long-term psychoses, and the shifting roles of parents in the eyes of children (Clive starts off as vehemently oppositional; later, he becomes a reluctant accomplice who ultimately develops a bizarre affection for the creation), not to mention the tension between parents amid the child-rearing process; watching this trio interact supplies most of the film's compelling, hypnotic moments. This deliberate pace and focus on character may prove off-putting to horror fans sold on the ADHD weirdness of the trailer, but those with open minds will find much to gorge themselves on. Despite all the admirably creative spins on familiar concepts, Natali (or perhaps the producers, action aficionado Joel Silver being one) run out of fresh material by the climax, which takes chase clichés and overdone monster effects down a road that exists solely to patch up some character arcs and drum up excitement in a blandly conventional way. That being said, the first 3/4 of \"Splice\" is such a surprisingly effective slow burn of suspense and dread (culled from universal hopes and fears), played out by actors who know the fine line between camp and creep, that its later machinations are pretty easy to forgive. 6.5 out of 10"
+      ],
+      "genres": [
+         "Horror",
+         "Sci-Fi"
+      ],
+      "productionCompanies": [
+         "Gaumont",
+         "Copperheart Entertainment",
+         "Dark Castle Entertainment"
+      ],
+      "summaries": [
+         "Two young rebellious scientists are told by their employers to halt groundbreaking work that has seen them produce new creatures with medical benefits by splicing together multiple organisms' DNA. They decide to secretly continue their work, but this time splicing in human DNA.",
+         "Clive Nicoli and Elsa Kast are scientists of the Newstead Pharmaceutics researching the splice of DNA from different animals to form new genetic beings and find medical benefits to mankind. They have just created the hybrid Ginger and Fred and now they intend to join together human DNA to alter the genetic structure of their experiment. When the senior management calls off their experiment, they decide to secretly proceed and they generate a life form with human characteristics. They call it Dren and Elsa is very fond of their creation that grows up fast and showing intelligence. When the company shutdown their experiment, they bring Dren to Elsa's abandoned farm and the scientists raise Dren like a daughter. But when it reaches adulthood, the sex drive of Dren is activated and Clive and Elsa learn that they have a serious problem to resolve.",
+         "Genetic engineers Clive Nicoli and Elsa Kast hope to achieve fame by successfully splicing together the DNA of different animals to create new hybrid animals for medical use."
+      ],
+      "budget": 26000000
+   },
+   "movielensId": 78266,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2009-10-06",
+      "dvdReleaseDate": "2010-10-05",
+      "directors": ["Vincenzo Natali"],
+      "runtime": 104,
+      "movieId": 78266,
+      "title": "Splice",
+      "mpaa": "R",
+      "actors": [
+         "Adrien Brody",
+         "Sarah Polley",
+         "Delphine Chanéac",
+         "David Hewlett",
+         "Abigail Chu",
+         "Stephanie Baird",
+         "Brandon McGibbon",
+         "Amanda Brugel"
+      ],
+      "imdbMovieId": "1017460",
+      "originalTitle": "Splice",
+      "genres": [
+         "Horror",
+         "Thriller",
+         "Science Fiction"
+      ],
+      "youtubeTrailerIds": ["lDB7bnl7nQQ"],
+      "plotSummary": "Elsa and Clive, two young rebellious scientists, defy legal and ethical boundaries and forge ahead with a dangerous experiment: splicing together human and animal DNA to create a new organism. Named \"Dren\", the creature rapidly develops from a deformed female infant into a beautiful but dangerous winged human-chimera, who forges a bond with both of her creators - only to have that bond turn deadly.",
+      "tmdbMovieId": 37707,
+      "avgRating": 2.83129,
+      "releaseYear": "2009",
+      "numRatings": 978,
+      "posterPath": "/2ERwnTksOfNnAyZFp6oUn3BSRqK.jpg"
+   }
+}

@@ -1,0 +1,736 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [],
+      "imdb_id": "tt1020055",
+      "video": false,
+      "title": "Night Train",
+      "recommendations": [
+         19237,
+         22085,
+         18467,
+         22076,
+         17240,
+         352128,
+         9911,
+         13954,
+         26486,
+         41846,
+         219575,
+         45390,
+         45675,
+         12312,
+         13557,
+         20055,
+         17740,
+         69129,
+         14809,
+         19599
+      ],
+      "backdrop_path": "/neRyRVmIOrulysfTjjOgUQGHbdn.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Miles",
+               "gender": 2,
+               "credit_id": "52fe45fe9251416c75069879",
+               "name": "Danny Glover",
+               "profile_path": "/jSNTEnm0Sxm8FRtoBfJmhmQyozH.jpg",
+               "id": 2047,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Pete",
+               "gender": 2,
+               "credit_id": "52fe45fe9251416c7506987d",
+               "name": "Steve Zahn",
+               "profile_path": "/tcRHqtdi4wM8hlZ3MjPDWgePp7L.jpg",
+               "id": 18324,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Chloe",
+               "gender": 1,
+               "credit_id": "52fe45fe9251416c75069881",
+               "name": "Leelee Sobieski",
+               "profile_path": "/fAJ4H6Hi0SZPt6I82TfnfCl9i43.jpg",
+               "id": 22290,
+               "order": 2
+            },
+            {
+               "cast_id": 6,
+               "character": "Frankie",
+               "gender": 2,
+               "credit_id": "5523cd2c925141475200198a",
+               "name": "Matthias Schweighöfer",
+               "profile_path": "/qp2AD7quBf4busgntuk0kd1Bsiq.jpg",
+               "id": 16808,
+               "order": 3
+            },
+            {
+               "cast_id": 7,
+               "character": "Yamashita",
+               "gender": 2,
+               "credit_id": "5630a1db9251413b46001f10",
+               "name": "Togo Igawa",
+               "profile_path": "/8rKFVCdEKIvHj1ZYdY6ya73VIpE.jpg",
+               "id": 9192,
+               "order": 4
+            },
+            {
+               "cast_id": 8,
+               "character": "Detective",
+               "gender": 2,
+               "credit_id": "5630a217c3a3681b5c00f671",
+               "name": "Geoff Bell",
+               "profile_path": "/1zWgEcKr25XSfHGuXdCuFLUvEoX.jpg",
+               "id": 6969,
+               "order": 5
+            },
+            {
+               "cast_id": 9,
+               "character": "Mr. Gutman",
+               "gender": 2,
+               "credit_id": "5630a23cc3a3681b4b00e98a",
+               "name": "Constantine Gregory",
+               "profile_path": "/2zJA2LCS6utcD9hvXpDkRtY55ZO.jpg",
+               "id": 27425,
+               "order": 6
+            },
+            {
+               "cast_id": 10,
+               "character": "Mrs. Froy",
+               "gender": 2,
+               "credit_id": "5630a3f492514161670019f6",
+               "name": "Richard O'Brien",
+               "profile_path": "/pCxCt82DQQLTgOryp6FPczmN3L9.jpg",
+               "id": 13474,
+               "order": 7
+            },
+            {
+               "cast_id": 11,
+               "character": "Mr. Cairo",
+               "gender": 2,
+               "credit_id": "5630a45e92514129fe001ed6",
+               "name": "Jo Marr",
+               "profile_path": "/7zl8pMAW1JlQOKO1TGuQc8iLf8W.jpg",
+               "id": 1109517,
+               "order": 8
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe45fe9251416c75069887",
+               "name": "Brian King",
+               "profile_path": null,
+               "id": 63928,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe45fe9251416c7506988d",
+               "name": "Brian King",
+               "profile_path": null,
+               "id": 63928,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5687d6a4c3a3684be902206b",
+               "name": "Christopher Eberts",
+               "profile_path": null,
+               "id": 56171,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5687d6b6c3a368362800b348",
+               "name": "Brian R. Etting",
+               "profile_path": null,
+               "id": 86545,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5687d6ccc3a36860e9023261",
+               "name": "Steve Markoff",
+               "profile_path": null,
+               "id": 56172,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5687d72fc3a3685f8900de15",
+               "name": "Bruce McNall",
+               "profile_path": null,
+               "id": 56003,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5687d744c3a3685f8900de1c",
+               "name": "Wendy Park",
+               "profile_path": null,
+               "id": 1556974,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5687d7969251414ecb014934",
+               "name": "Michael Philip",
+               "profile_path": null,
+               "id": 62209,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5687d7b09251417e1500ade8",
+               "name": "Arnold Rifkin",
+               "profile_path": null,
+               "id": 20842,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5687d80f9251417e6300aeed",
+               "name": "Henning Lohner",
+               "profile_path": "/AoXLOV8gZGPvrzTsP96xP3MUakD.jpg",
+               "id": 40613,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5687d821c3a368227b018658",
+               "name": "Christopher Popp",
+               "profile_path": null,
+               "id": 970291,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5687d840c3a368362800b3a0",
+               "name": "Patrick Wilfert",
+               "profile_path": null,
+               "id": 1369106,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5687d855c3a36860e90232a3",
+               "name": "Shannon Makhanian",
+               "profile_path": null,
+               "id": 59668,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5687d87292514132db0213d8",
+               "name": "Daniel Hubbard",
+               "profile_path": null,
+               "id": 3501,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5687d895c3a3684bcc024e2a",
+               "name": "John Welbanks",
+               "profile_path": null,
+               "id": 62216,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5687d8a69251414ecb014964",
+               "name": "Anca Perja",
+               "profile_path": null,
+               "id": 1322063,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5687d8c49251412e52021ad3",
+               "name": "Jayme Bohn",
+               "profile_path": null,
+               "id": 1296488,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5687d8ff9251417e1500ae15",
+               "name": "Nikki Nikolov",
+               "profile_path": null,
+               "id": 1556975,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5687d91e9251417e1500ae1e",
+               "name": "Denise Ballantyne",
+               "profile_path": null,
+               "id": 1402028,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5687d9329251417e6300af19",
+               "name": "Alex Filipov",
+               "profile_path": null,
+               "id": 1556976,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5687d94992514132db0213f4",
+               "name": "Liubomir Savov",
+               "profile_path": null,
+               "id": 1556977,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5687d9b19251414ecb01498f",
+               "name": "Calin Constantin",
+               "profile_path": null,
+               "id": 1402987,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5687d9cb9251417e1500ae35",
+               "name": "Alexander Krumov",
+               "profile_path": null,
+               "id": 1363344,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5687d9dec3a36860e90232d2",
+               "name": "Sascia Ippoliti",
+               "profile_path": null,
+               "id": 1540851,
+               "department": "Camera",
+               "job": "Steadicam Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5687da0292514131df020423",
+               "name": "Alexandra Bachvarova Trifonova",
+               "profile_path": null,
+               "id": 1541745,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5687da189251412e52021b8a",
+               "name": "Simon Varsano",
+               "profile_path": "/yoHd5WFy760njbXjKe6yakS018Q.jpg",
+               "id": 1400317,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5687da3492514131df02042e",
+               "name": "Iurie Bustiuc",
+               "profile_path": null,
+               "id": 1556978,
+               "department": "Camera",
+               "job": "First Assistant Camera"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5687da5192514169d000e983",
+               "name": "Boryana Papazova",
+               "profile_path": null,
+               "id": 1556979,
+               "department": "Camera",
+               "job": "First Assistant Camera"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5687da7f92514132db02142b",
+               "name": "Raliza Laskova",
+               "profile_path": null,
+               "id": 1556980,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5687daa292514132db02143b",
+               "name": "Victoria Scoggins",
+               "profile_path": null,
+               "id": 1556981,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5687dab6c3a3684be9022117",
+               "name": "Vladimir Yossifov",
+               "profile_path": null,
+               "id": 1541821,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5687daf792514169d000e9a7",
+               "name": "Marieta Duncheva",
+               "profile_path": null,
+               "id": 1556982,
+               "department": "Costume & Make-Up",
+               "job": "Set Costumer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5687db2e9251411334019f60",
+               "name": "Liz Gallacher",
+               "profile_path": null,
+               "id": 1066776,
+               "department": "Sound",
+               "job": "Music Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5687db46c3a36860e9023318",
+               "name": "Mila Maslarova",
+               "profile_path": null,
+               "id": 1350262,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5687db5892514132db02145d",
+               "name": "Simona Dascalu",
+               "profile_path": null,
+               "id": 1556985,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5687db769251417e1500ae7c",
+               "name": "Boryana Stambolieva",
+               "profile_path": null,
+               "id": 1500377,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5687db8ec3a3684be9022135",
+               "name": "Ivan Salnikov",
+               "profile_path": null,
+               "id": 1556987,
+               "department": "Crew",
+               "job": "Armorer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5687dbd69251417e1500ae91",
+               "name": "Dimitrina Stoyanova",
+               "profile_path": null,
+               "id": 1412601,
+               "department": "Costume & Make-Up",
+               "job": "Key Hair Stylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5687dbedc3a36828f5019af0",
+               "name": "Petya Simeonova",
+               "profile_path": null,
+               "id": 1437692,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5687dc0692514169d000e9da",
+               "name": "Yana Stoyanova",
+               "profile_path": null,
+               "id": 1327184,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5687dca3c3a3686075022c99",
+               "name": "Elitsa Vutova",
+               "profile_path": null,
+               "id": 1556992,
+               "department": "Art",
+               "job": "Art Department Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5687dcbbc3a3685f8900def6",
+               "name": "Vladimir Petkov",
+               "profile_path": null,
+               "id": 1539289,
+               "department": "Art",
+               "job": "Construction Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5687dcd592514131df020498",
+               "name": "Peter Rakovski",
+               "profile_path": null,
+               "id": 1463992,
+               "department": "Crew",
+               "job": "Property Master"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5687dd109251411334019fa8",
+               "name": "Bogdan Bogdanov",
+               "profile_path": null,
+               "id": 1541448,
+               "department": "Crew",
+               "job": "Carpenter"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5687dd2cc3a36860e902337c",
+               "name": "Anca Perja",
+               "profile_path": null,
+               "id": 1322063,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5687dd6ac3a3684bcc024ef0",
+               "name": "Edward M. Steidele",
+               "profile_path": null,
+               "id": 1378172,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5687dd8cc3a368227b018720",
+               "name": "Rachel Holley",
+               "profile_path": null,
+               "id": 1421247,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5687ddae92514169d000ea20",
+               "name": "Gary Coppola",
+               "profile_path": null,
+               "id": 1347997,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5687ddc592514131df0204b8",
+               "name": "Derek Marcil",
+               "profile_path": null,
+               "id": 9410,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5687dde59251414ecb014abc",
+               "name": "Kelly Cabral",
+               "profile_path": null,
+               "id": 1412452,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Thriller",
+            "id": 53
+         },
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Crime",
+            "id": 80
+         }
+      ],
+      "popularity": 3.525563,
+      "production_countries": [
+         {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+         },
+         {
+            "iso_3166_1": "RO",
+            "name": "Romania"
+         },
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         }
+      ],
+      "id": 14549,
+      "vote_count": 62,
+      "budget": 0,
+      "overview": "Two Passengers (Sobieski and Zahn) and the conductor (Glover), discovered that a person has passed away on their Night Train cabin. They come across valuable diamonds on his person, that they decide to keep for themselves...",
+      "similar": [],
+      "original_title": "Night Train",
+      "runtime": 87,
+      "poster_path": "/wLvJQXipr32yXMs2FzmJfoHxnLw.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Français",
+            "iso_639_1": "fr"
+         },
+         {
+            "name": "Polski",
+            "iso_639_1": "pl"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": "/ueIUlKF0dSZ82HYsw26E8CRra38.png",
+            "name": "Instinctive Film",
+            "id": 4306,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "A-Mark Entertainment",
+            "id": 2248,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "FilmTiger",
+            "id": 68795,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2009-04-15",
+      "vote_average": 5.5,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Brian King"],
+      "runtime": 83,
+      "synopsis": null,
+      "writers": ["Brian King"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt1020055/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTQxMjMzNDYxMV5BMl5BanBnXkFtZTcwMzY5NjU1Mg@@._V1_SY317_CR3,0,214,317_AL_.jpg",
+      "actors": ["Stars: Danny Glover, Leelee Sobieski, Steve Zahn | See full cast and crew »"],
+      "reviews": [
+         "Leelee Sobieski, Danny Glover, and Steve Zahn give life to their characters as people overcome with greed (or hope) for a better life. What starts out as an innocent \"finders keepers\" tale turns into a lemming march to destruction. The story is about three strangers whose lives intersect while traveling at night on a train during the Christmas holidays. Sobieski is Chloe, a biology/med student unhappy with her future prospects of following a career not of her choosing. Danny Glover is the aging conductor whose family is desperately in need of additional financial support that he cannot provide. Zahn is a wannabe salesman whose life story seems to be one of alcohol abuse and failure. The story swirls around these strangers as they try to hold onto a box of riches which can fulfill their dreams. Although obviously a low budget production, the suspense is well paced, the action sequences are timed perfectly and the characters are all empathetic (especially Glover's character, the conductor). Only one fault I find with the movie is a couple of minutes of totally unnecessary gore. Otherwise a solid piece of film making and storytelling.",
+         "'Night Train' is sort of a chamber movie that takes place in the compartments of a train. Made at a low budget (which actually works to its benefits), the film uses glowing lights. This adds to the tense atmosphere and mystery element and the bright colours used within the train compartments bring a feeling of illusion. The story starts off interesting but is downright predictable not to forget the typical Hollywood ending which brings the film down by a huge notch. Acting is okay. Danny Glover is restrained (which is quite unexpected of such films). Steve Zahn's Pete is a caricature but the actor infuses some humour and provides comic relief. Leelee Sobieski is good in the beginning but her performance heads towards 'cliched psychopath' as the film proceeds. Overall, in terms of story it doesn't offer anything new and there are plenty of plot holes but what I liked about it was the atmosphere within the train compartments. It sort of looks like a noire film in colour. The use of bright colours, the strange passengers, the characters: salesman, med student and ticket conductor and music create contribute to this bizarre atmosphere. I also liked how the wooden box was symbolically used. Pandora's box is the first thing that comes to mind and the writer could have done so much with it, but alas!",
+         "Leelee Sobieski is the main reason for seeing this low-budget train thriller. From a mousy medical student in a watch cap in the beginning to a cleaver-wielding, blood-spattered maiden of death by the end, she gives a performance of unsettling ferocity. A train has stopped in the darkness during a snowstorm and two conductors, one of them Danny Glover in decent-guy mode, are on the tracks smoking when a man clutching a package stumbles out of the woods. The conductors allow him on board with the understanding he'll buy his ticket later. Once aboard, the stranger settles in a lounge car, where he swallows a bunch of pills, washing them down with vodka. Next thing you know, he's dead of an overdose. Only two other people were in the lounge car to witness this, an alcoholic salesman played by Steve Zahn in his usual goofball-loser mode and a medical student with a studious, ultra-serious demeanor played by Sobieski. They call the death to the attention of the conductor played by Glover. They become curious about the man's package and look inside. It contains a small wooden box with perforations allowing them to see what's inside, which is apparently worth a king's ransom because everybody who looks inside gasps in wonder. This is our macguffin and it serves much the same purpose as the briefcase in \"Pulp Fiction.\" It doesn't really matter what's inside; you just know everybody wants it. The three conspire. First order of business -- disposing of the body (black, black humor). Then things get complicated. Turns out the three conspirators are not the only ones who knew the stranger was on the train with his package. You know nothing good is going to come of this and you are absolutely right. Betrayal. Mayhem. Murder. In order to enjoy this movie, you have to overlook a lot of major implausibilities. For such a long train, there's hardly anyone aboard. Plot points involving night ice fishing and murderous electrical tape are also hard to swallow. All the exteriors of the train hurtling down the track at what looks like 200 mph are cheap CGI. Doesn't matter. We get it -- fast train, darkness, lots of snow, in the middle of nowhere. And then there's Leelee Sobieski, icily delivering lines with blood on her face and insanity in her eyes. Whoa.",
+         "I'm a fan of low budget film-making and I am convinced that from the truly talented filmmakers monetary limitations bring out the best in terms of creativity. Night Train is basically a chamber piece. The whole story takes place within the compartments of a long train riding relentlessly through the darkness on Christmas eve. All the exterior shots are rather cheap looking CGI of the passenger train going ahead in the snow blizzard which in itself is not distracting, on the contrary - the darkness outside increases the gloomy, disturbing atmosphere inside the train. The set design is problematic though. The interior of the train makes it look like we're in the past, early in the last century. I was under the impression that that was the case - even the way people dress in the movie fueled this conviction - but then around 40 minutes into the film one of the characters uses a cell phone. Although the tech credits are okay, by the look of the inside of the train I could see the film was shot somewhere in Eastern Europe and firing up IMDb I saw I was right. So it's not the dodgy CGI but the unnecessarily confusing set design what gives away the low budget of the film. Plotwise it's all seen it all before. Many people refer to Shallow Grave in the threads here - yes, the setup recalls that movie, but then halfway through the story it takes a turn into a far more mysterious direction. Problem is, up until that time the plot is very predictable and goes through the usual motions (albeit in fast forward, given the time constraints) as characters debate what to do with the dead body and the loot, begin to act suspiciously to each other and to outsiders then ultimately turn on each other. This mechanical plot takes over from characterization, so after the twist in the midpoint when events become less predictable it's hard to really care because the characters remain thin and uninteresting. Acting is okay, Danny Glover gives a low-key performance that suits the purposes of the film, while Zahn apparently tries to bring out the best of his clichéd role. Leelee Sobielski is quite convincing at first with her deadpan reactions and attitude but later gives a kind of performance which is borderline comic - I am not sure if this was intentional. The unfortunate set design and some grave credibility issues (I am no expert of US police procedure but the way a detective handles the situation later on in the film seems quite ridiculous, plus even on Christmas it is hard to imagine only a handful of people would take a train that has a dozen carriages, a working bar and kitchen but no other staff than two attendants) make this a slightly worse than average movie.",
+         "Night Train is a colorful thriller reminiscent of the short lived Amazing Stories series of the mid-eighties. What begins as a Shallow Grave or a A Simple Plan type of thriller, with a group of strangers discovering what they believe to be a fortune--riches that ultimately turn their lives upside down as everything escalates into murder and betrayal--soon twists into a tale of the supernatural, sort of like Hellraiser without the demons. Nobody is who you think they are. Greed becomes a possessing force. The bodies begin to pile up like luggage. Next stop: Boot Hill. Visually Night Train is a demented Polar Express, a train ride that turns into a nightmare rather than a happy adventure. I enjoyed Danny Glover's performance as the conductor; he takes what could have been just another X-File episode and turns it into something top notch, and some extremely nasty violence keeps the plot from being a typical Outer Limits scenario. This is a must see for fans of pulp fiction.",
+         "If it hadn't been for the ending I would have given this movie a much higher rating. I don't mind bad or harsh endings if there had been any compensation earlier on. But if it ends like it did you will wonder why you were watching this movie. There are only two endings that would have made more sense. The first one where someone would receive the reward or the second one where we the viewer would get explained what the whole box thing was about. I mean at least the viewer should be rewarded for watching this movie in the first place. It felt like watching \"The Happening\" all over again. A very thrilling and exciting movie in which you are presented with a mystery that you want to see solved. Only to be let down with the notion that all the events you have been witnessing will start all over again in another form in another place with no explanation whatsoever. Does this mean that it isn't worth watching. Well,I must admit that I didn't expect to be thrilled like this at all. But the acting is quite excellent and you will be rooting for the characters to get away with what is going down on the screen. If you can get past the ending than you will have an enjoyable time.",
+         "I wasn't expecting to enjoy this movie because I'm generally not a fan of Leelee Sobieski's work, but I watched it anyway as a way to kill time. I don't know if it's because I went into the movie with low expectations, but I actually enjoyed it. The acting was fine; I have definitely seen Danny Glover in better roles, but Sobieski actually wasn't terrible & I thought Steve Zahn did a great job. It was suspenseful and interesting with some nice plot twists. I didn't like the kind of supernatural twist the film took near the end, but it was a good fun movie to watch.",
+         "NIGHT TRAIN is a suspenseful dark thriller which seems to be, at first sight, just a story of crime and greed. Then it takes a major twist when the main characters realize that the box they are trying to steal has different \"jewels\", depending of whom had looked inside it� After this moment the film enters in the supernatural/paranormal field. And that was not bad� Not at all! Since then it gains more suspense and interest (at least in my point of view�) and what seemed to be an average and quite boring crime story turned into a different and refreshing supernatural plot based in the Pandora's box myth. It's not an excellent film but it has its moments and nice suspense until the end, which is not that unexpected but is quite satisfactory in my perspective. I score it 7/10, because it was quite entertaining, suspenseful and even a bit refreshing as told.",
+         "\" Night Train\" is a quirky and hard to define movie, but nevertheless an enjoyable experience. Its seems to be a dedication to the golden oldies of the 1940's, the era of Peter Lorre , Sidney Greenstreet and other amazing character actors that all but disappeared these days. The plot is a strange mix of thriller, comedy ,slasher and even religious metaphor about greed. And, unfortunately it is where some of its troubles begun. The talented director seems to hop from one genre to another like a confused fly. It adds to a certain level of frustration in this little irritated albeit good natured viewer. To sum it up: I'll rather have a bit troubled effort than stale and predictable rubbish.",
+         "On a snowing Christmas Eve, a stranger embarks in the night train Nightingale at Fall Brook Station and has a heart attack after an overdose on pills and vodka. The medical student Chloe (Leelee Sobieski) and the drunken salesman Peter Dobbs (Steve Zahn) see a mysterious box with the stranger with valuable stones inside and convince the stiff conductor Miles (Danny Glover) to not report the death of the passenger and keep the box for them. Chloe chops the corpse with a cleaver; put the severed parts in a trunk and Peter and Miles dump it from a bridge into the Sturgeon River; however they do not succeed in opening the box. Therefore Chloe does not get off the train in Maple Creek, but the passenger Mr. Gutman (Constantine Gregory) embarks seeking out the stranger. He subdues the greedy trio and discloses that everyone that sees inside the box dies until the end of the day; but Peter accidentally kills him. When they have an unscheduled stop by the police that had found the body parts in the river, the number of corpses increases in a travel without return. \"Night Train\" has an intriguing plot with a mysterious Pandora box that corrupts the soul of bizarre characters. The weird story has a promising beginning with black humor and an excellent character � Chloe � that is wasted to a collection of clichés in the end. Unfortunately the director and writer Brian King loses control and derails with his \"Night Train\" to a very deceptive conclusion without any explanation about the content of the mystical box. My vote is six. Title (Brazil): \"Viagem Sem Volta\" (\"Travel Without Return\")"
+      ],
+      "genres": [
+         "Action",
+         "Crime",
+         "Mystery",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "A-Mark Entertainment",
+         "FilmTiger",
+         "Instinctive Film"
+      ],
+      "summaries": ["Two Passengers and the conductor discover that a person has passed away on their Night Train cabin. They come across valuable diamonds on his person, that they wish to keep for themselves. So, to make it look like the man never boarded the train, they conspire to dump his body in a river that the train passes. Their scheme to get rid of the corpse escalates to the point where they have to chop up his body just to fit him into a small trunk. They then become paranoid, as they might turn on each other."],
+      "budget": 0
+   },
+   "movielensId": 65927,
+   "movielens": {
+      "languages": [
+         "English",
+         "Français",
+         "Polski"
+      ],
+      "releaseDate": "2009-04-15",
+      "dvdReleaseDate": null,
+      "directors": ["Brian King"],
+      "runtime": 87,
+      "movieId": 65927,
+      "title": "Night Train",
+      "mpaa": "",
+      "actors": [
+         "Danny Glover",
+         "Steve Zahn",
+         "Leelee Sobieski",
+         "Matthias Schweighöfer",
+         "Togo Igawa",
+         "Geoff Bell",
+         "Constantine Gregory",
+         "Richard O'Brien",
+         "Jo Marr"
+      ],
+      "imdbMovieId": "1020055",
+      "originalTitle": "Night Train",
+      "genres": [
+         "Thriller",
+         "Action",
+         "Crime"
+      ],
+      "youtubeTrailerIds": ["S5MuGIwj9_8"],
+      "plotSummary": "Two Passengers (Sobieski and Zahn) and the conductor (Glover), discovered that a person has passed away on their Night Train cabin. They come across valuable diamonds on his person, that they decide to keep for themselves...",
+      "tmdbMovieId": 14549,
+      "avgRating": 2.75,
+      "releaseYear": "2009",
+      "numRatings": 64,
+      "posterPath": "/wLvJQXipr32yXMs2FzmJfoHxnLw.jpg"
+   }
+}

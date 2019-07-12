@@ -1,0 +1,538 @@
+{
+   "tmdb": {
+      "original_language": "da",
+      "keywords": [],
+      "imdb_id": "tt1609492",
+      "video": false,
+      "title": "Superclásico",
+      "recommendations": [47798],
+      "backdrop_path": "/37DvOYbFNkhI9Z2gfr1p7sDPcRg.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 4,
+               "character": "Anna",
+               "gender": 0,
+               "credit_id": "52fe48d9c3a368484e10e05f",
+               "name": "Paprika Steen",
+               "profile_path": "/7iz6g2gXDCVL9LFjqmVV8KwGvNP.jpg",
+               "id": 4458,
+               "order": 0
+            },
+            {
+               "cast_id": 5,
+               "character": "Christian",
+               "gender": 2,
+               "credit_id": "52fe48d9c3a368484e10e063",
+               "name": "Anders W. Berthelsen",
+               "profile_path": "/y5mBIJnXTavpdHm1zEmHnhcNHaN.jpg",
+               "id": 1184,
+               "order": 1
+            },
+            {
+               "cast_id": 6,
+               "character": "Juan Diaz",
+               "gender": 2,
+               "credit_id": "52fe48d9c3a368484e10e067",
+               "name": "Sebastián Estevanez",
+               "profile_path": "/rxOnYSxv14kcBK3J5StKPekphBD.jpg",
+               "id": 495355,
+               "order": 2
+            },
+            {
+               "cast_id": 7,
+               "character": "Narrator",
+               "gender": 2,
+               "credit_id": "52fe48d9c3a368484e10e06b",
+               "name": "Mikael Bertelsen",
+               "profile_path": "/pU6zlMd4to45AW6ttFFYGNESIYH.jpg",
+               "id": 572299,
+               "order": 3
+            },
+            {
+               "cast_id": 8,
+               "character": "Oscar",
+               "gender": 2,
+               "credit_id": "52fe48d9c3a368484e10e06f",
+               "name": "Jamie Morton",
+               "profile_path": "/gXERw3z5GYyYJuEaMuxBskLQVi0.jpg",
+               "id": 148720,
+               "order": 4
+            },
+            {
+               "cast_id": 9,
+               "character": "Mendoza",
+               "gender": 2,
+               "credit_id": "52fe48d9c3a368484e10e073",
+               "name": "Miguel Dedovich",
+               "profile_path": null,
+               "id": 237960,
+               "order": 5
+            },
+            {
+               "cast_id": 10,
+               "character": "Veronica",
+               "gender": 0,
+               "credit_id": "52fe48d9c3a368484e10e077",
+               "name": "Dafne Schiling",
+               "profile_path": null,
+               "id": 572303,
+               "order": 6
+            },
+            {
+               "cast_id": 11,
+               "character": "Fernanda",
+               "gender": 0,
+               "credit_id": "52fe48d9c3a368484e10e07b",
+               "name": "Adriana Mascialino",
+               "profile_path": null,
+               "id": 572304,
+               "order": 7
+            },
+            {
+               "cast_id": 13,
+               "character": "",
+               "gender": 2,
+               "credit_id": "5511a5969251410701007baf",
+               "name": "Pietro Gian",
+               "profile_path": "/caDbYLkzPrWHuSi2cXEda4riSxU.jpg",
+               "id": 1445107,
+               "order": 8
+            },
+            {
+               "cast_id": 14,
+               "character": "",
+               "gender": 0,
+               "credit_id": "5511a59fc3a3680174001f07",
+               "name": "Pablo Pirrotta",
+               "profile_path": null,
+               "id": 1445108,
+               "order": 9
+            },
+            {
+               "cast_id": 15,
+               "character": "",
+               "gender": 0,
+               "credit_id": "5511a5ae9251410701007bb5",
+               "name": "Rodolfo Basile",
+               "profile_path": null,
+               "id": 1445110,
+               "order": 10
+            },
+            {
+               "cast_id": 16,
+               "character": "",
+               "gender": 0,
+               "credit_id": "5511a5bd9251415caa001b71",
+               "name": "Sérgio Amorim",
+               "profile_path": null,
+               "id": 1338812,
+               "order": 11
+            },
+            {
+               "cast_id": 17,
+               "character": "",
+               "gender": 0,
+               "credit_id": "5511a5cac3a3680174001f22",
+               "name": "German Romero",
+               "profile_path": null,
+               "id": 1445111,
+               "order": 12
+            },
+            {
+               "cast_id": 18,
+               "character": "",
+               "gender": 0,
+               "credit_id": "5511a5d392514148dd000393",
+               "name": "Gabriel Lobianco",
+               "profile_path": null,
+               "id": 1445112,
+               "order": 13
+            },
+            {
+               "cast_id": 19,
+               "character": "",
+               "gender": 0,
+               "credit_id": "5511a5ddc3a3680296001b14",
+               "name": "Miguel Forza",
+               "profile_path": null,
+               "id": 1445113,
+               "order": 14
+            },
+            {
+               "cast_id": 20,
+               "character": "",
+               "gender": 0,
+               "credit_id": "5511a5e592514148dd000398",
+               "name": "Juan Alari",
+               "profile_path": null,
+               "id": 1445114,
+               "order": 15
+            },
+            {
+               "cast_id": 21,
+               "character": "",
+               "gender": 0,
+               "credit_id": "5511a5f19251415c32001c85",
+               "name": "Gustavo Comini",
+               "profile_path": null,
+               "id": 1122494,
+               "order": 16
+            },
+            {
+               "cast_id": 22,
+               "character": "",
+               "gender": 0,
+               "credit_id": "5511a5f8c3a3681db200e295",
+               "name": "Mariano Gerling",
+               "profile_path": null,
+               "id": 1445115,
+               "order": 17
+            },
+            {
+               "cast_id": 23,
+               "character": "",
+               "gender": 0,
+               "credit_id": "5511a601c3a36802c3001e1c",
+               "name": "Juan Martín Guix",
+               "profile_path": null,
+               "id": 1445116,
+               "order": 18
+            },
+            {
+               "cast_id": 24,
+               "character": "",
+               "gender": 0,
+               "credit_id": "5511a60ac3a36801d2001d1a",
+               "name": "Nicolas Borlenghi",
+               "profile_path": null,
+               "id": 1445117,
+               "order": 19
+            },
+            {
+               "cast_id": 25,
+               "character": "",
+               "gender": 0,
+               "credit_id": "5511a614c3a36801bb001c34",
+               "name": "Juan Cruz Polimeno",
+               "profile_path": null,
+               "id": 1445118,
+               "order": 20
+            },
+            {
+               "cast_id": 26,
+               "character": "",
+               "gender": 0,
+               "credit_id": "5511a61d9251415c96001af3",
+               "name": "Germán Cabrera",
+               "profile_path": null,
+               "id": 1445119,
+               "order": 21
+            },
+            {
+               "cast_id": 27,
+               "character": "",
+               "gender": 0,
+               "credit_id": "5511a62692514148dd0003a1",
+               "name": "Nicolás Rocca",
+               "profile_path": null,
+               "id": 1445120,
+               "order": 22
+            },
+            {
+               "cast_id": 28,
+               "character": "",
+               "gender": 0,
+               "credit_id": "5511a62f9251412a88000fc8",
+               "name": "Mariano Caligaris",
+               "profile_path": null,
+               "id": 1445121,
+               "order": 23
+            },
+            {
+               "cast_id": 29,
+               "character": "",
+               "gender": 0,
+               "credit_id": "5511a637c3a3683e7f007a1a",
+               "name": "Hilario Quinteros",
+               "profile_path": null,
+               "id": 1445122,
+               "order": 24
+            },
+            {
+               "cast_id": 30,
+               "character": "",
+               "gender": 0,
+               "credit_id": "5511a642925141065c007c2e",
+               "name": "Adrian Garvano",
+               "profile_path": null,
+               "id": 1445123,
+               "order": 25
+            },
+            {
+               "cast_id": 31,
+               "character": "",
+               "gender": 0,
+               "credit_id": "5511a64e9251410701007bc6",
+               "name": "Victoria Bargues",
+               "profile_path": null,
+               "id": 1445124,
+               "order": 26
+            },
+            {
+               "cast_id": 32,
+               "character": "",
+               "gender": 0,
+               "credit_id": "5511a657c3a3680296001b22",
+               "name": "Alvaro Arocena",
+               "profile_path": null,
+               "id": 1445125,
+               "order": 27
+            },
+            {
+               "cast_id": 33,
+               "character": "",
+               "gender": 0,
+               "credit_id": "5511a6609251415c32001c8b",
+               "name": "Mauro Arocena",
+               "profile_path": null,
+               "id": 1445126,
+               "order": 28
+            },
+            {
+               "cast_id": 34,
+               "character": "",
+               "gender": 0,
+               "credit_id": "5511a66c9251417d0d000b00",
+               "name": "Miguel Paludi",
+               "profile_path": null,
+               "id": 1445127,
+               "order": 29
+            },
+            {
+               "cast_id": 35,
+               "character": "",
+               "gender": 0,
+               "credit_id": "5511a67bc3a3683e7f007a27",
+               "name": "Jose Luis Arias",
+               "profile_path": null,
+               "id": 1445128,
+               "order": 30
+            },
+            {
+               "cast_id": 36,
+               "character": "",
+               "gender": 0,
+               "credit_id": "5511a684c3a36801bb001c41",
+               "name": "Anahi Martela",
+               "profile_path": null,
+               "id": 1445129,
+               "order": 31
+            },
+            {
+               "cast_id": 37,
+               "character": "",
+               "gender": 0,
+               "credit_id": "5511a68cc3a3683f39007ed2",
+               "name": "Pablo Grasso",
+               "profile_path": null,
+               "id": 1445130,
+               "order": 32
+            },
+            {
+               "cast_id": 38,
+               "character": "",
+               "gender": 0,
+               "credit_id": "5511a694c3a3683e7f007a2e",
+               "name": "Flavio Carvalho",
+               "profile_path": null,
+               "id": 1445131,
+               "order": 33
+            },
+            {
+               "cast_id": 39,
+               "character": "",
+               "gender": 0,
+               "credit_id": "5511a69dc3a3683f39007ed9",
+               "name": "Derli Prada",
+               "profile_path": null,
+               "id": 1445133,
+               "order": 34
+            },
+            {
+               "cast_id": 40,
+               "character": "",
+               "gender": 0,
+               "credit_id": "5511a6a59251417d0d000b08",
+               "name": "John Galindo",
+               "profile_path": null,
+               "id": 1445134,
+               "order": 35
+            },
+            {
+               "cast_id": 41,
+               "character": "",
+               "gender": 0,
+               "credit_id": "5511a6adc3a3681db200e2a8",
+               "name": "Dana Frigoli",
+               "profile_path": null,
+               "id": 1445135,
+               "order": 36
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe48d9c3a368484e10e04f",
+               "name": "Ole Christian Madsen",
+               "profile_path": "/4OWrmw3QkWTCLpIdMXY9S0zO11r.jpg",
+               "id": 56195,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe48d9c3a368484e10e055",
+               "name": "Anders Frithiof August",
+               "profile_path": null,
+               "id": 114541,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe48d9c3a368484e10e081",
+               "name": "Ole Christian Madsen",
+               "profile_path": "/4OWrmw3QkWTCLpIdMXY9S0zO11r.jpg",
+               "id": 56195,
+               "department": "Writing",
+               "job": "Screenplay"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Comedy",
+         "id": 35
+      }],
+      "popularity": 1.885492,
+      "production_countries": [{
+         "iso_3166_1": "DK",
+         "name": "Denmark"
+      }],
+      "id": 74674,
+      "vote_count": 13,
+      "budget": 3400000,
+      "overview": "Christian is a Copenhagen wine seller on the brink of bankruptcy. Equally unsuccessful in just about every other aspect of life, it has been 17months since his wife Anna left him. Anna works as a soccer agent in Buenos Aires and now lives a life of luxury with Argentina's top player Juan Diaz. Then one day Christian and their 16-year-old son Oscar get on a plane to Buenos Aires. Christian arrives under the pretense of wanting to sign the divorce papers, but in truth, he wants to try to win Anna back.",
+      "similar": [],
+      "original_title": "Superclásico",
+      "runtime": 99,
+      "poster_path": "/iGI9vHOYwIp0UrZlwGPszavuRRp.jpg",
+      "spoken_languages": [{
+         "name": "Dansk",
+         "iso_639_1": "da"
+      }],
+      "production_companies": [{
+         "logo_path": "/26JWW5ooRJoQBolVjG0x8SZmFRs.png",
+         "name": "Nimbus Film Productions",
+         "id": 11672,
+         "origin_country": ""
+      }],
+      "release_date": "2011-03-17",
+      "vote_average": 6.3,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Denmark",
+      "color": "Color",
+      "budgetCurrency": "DKK ",
+      "directors": ["Ole Christian Madsen"],
+      "runtime": 99,
+      "synopsis": "Christian (Anders W. Berthelsen) is a Copenhagen wine seller on the brink of bankruptcy. Equally unsuccessful in just about every aspect of life, it has been 17months sine his wife Anna (Paprika Steen) left him. Anna works as a soccer agent in Buenos Aires and now lives a life of luxury with Argentina's top player Juan Diaz (Sebastian Estevanez). Then one day Christian and their 16-year-old son Oscar (Jamie Morton) get on a plane to Buenos Aires. Christian arrives under the pretence of wanting to sign the divorce papers, but in truth, he wants to try to win Anna back!",
+      "writers": [
+         "Ole Christian Madsen",
+         "Anders Frithiof August"
+      ],
+      "originalLanguage": "Danish",
+      "imdbLink": "http://www.imdb.com/title/tt1609492/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjAzNjUzMzU3NF5BMl5BanBnXkFtZTcwMDQ4OTc0NA@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Mikael Bertelsen, Anders W. Berthelsen, Jamie Morton | See full cast and crew »"],
+      "reviews": [
+         "Danish director Ole Christian Madsen must have felt the need for a change of pace and setting from his usual style. While his other films are tight, well-composed dramas, SuperClásico benefits from a loose, more free flowing construction and as the film plays out you realize that style and mood are a perfect match. This film is in no way groundbreaking, nor is it meant to be. The title is a comment on the film itself, and the characters are all acting as they're supposed to be in a dramedy of this kind. However, you can't help but to be engaged in the story, mainly because of some great performances and the beautiful Argentinian settings. All the supporting actors work well, without ever being more than 2-dimensional, as the character development is reserved for the main players. Especially Anders W. Berthelsen does a great job at conveying a man who's nearly given up on life until he is introduced to a change of scenery. SuperClásico is recommended if you're looking for a sweet film with just the right amount of sentimentalism and temperament. It will in no way rock your world, but it's damn charming with very few weak moments. It recalls the feeling from Vicky Cristina Barcelona and Lost in Translation a little bit.",
+         "It is definitely not politically correct either. The movie that centers between a failed relationship and the consequences (which result in traveling) of the same. The main actors are really good and you buy into the situation they are in. Don't get me wrong, the movie is uneven at times and it is anything but perfect, but it does entertain, if you let it to. The acting is superb and the dialog is on the spot too. There are not too many easy answers to be found and while it might go into a direction you expect it to go, it might still be able to surprise you (not only in the end that is). If you like a smart little comedy, than this is for you"
+      ],
+      "genres": ["Comedy"],
+      "productionCompanies": [
+         "Nimbus Film Productions",
+         "OC Film",
+         "Nordisk Film ShortCut"
+      ],
+      "summaries": ["Christian is a Copenhagen wine seller on the brink of bankruptcy. Equally unsuccessful in just about every other aspect of life, it has been 17months since his wife Anna left him. Anna works as a soccer agent in Buenos Aires and now lives a life of luxury with Argentina's top player Juan Diaz. Then one day Christian and their 16-year-old son Oscar get on a plane to Buenos Aires. Christian arrives under the pretense of wanting to sign the divorce papers, but in truth, he wants to try to win Anna back."],
+      "budget": 18400000
+   },
+   "movielensId": 105753,
+   "movielens": {
+      "languages": ["Dansk"],
+      "releaseDate": "2011-03-17",
+      "dvdReleaseDate": "2012-07-19",
+      "directors": ["Ole Christian Madsen"],
+      "runtime": 99,
+      "movieId": 105753,
+      "title": "Superclásico",
+      "mpaa": null,
+      "actors": [
+         "Paprika Steen",
+         "Anders W. Berthelsen",
+         "Sebastián Estevanez",
+         "Mikael Bertelsen",
+         "Jamie Morton",
+         "Miguel Dedovich",
+         "Dafne Schiling",
+         "Adriana Mascialino",
+         "Pietro Gian",
+         "Pablo Pirrotta",
+         "Rodolfo Basile",
+         "Sérgio Amorim",
+         "German Romero",
+         "Gabriel Lobianco",
+         "Miguel Forza",
+         "Juan Alari",
+         "Gustavo Comini",
+         "Mariano Gerling",
+         "Juan Martín Guix",
+         "Nicolas Borlenghi",
+         "Juan Cruz Polimeno",
+         "Germán Cabrera",
+         "Nicolás Rocca",
+         "Mariano Caligaris",
+         "Hilario Quinteros",
+         "Adrian Garvano",
+         "Victoria Bargues",
+         "Alvaro Arocena",
+         "Mauro Arocena",
+         "Miguel Paludi",
+         "Jose Luis Arias",
+         "Anahi Martela",
+         "Pablo Grasso",
+         "Flavio Carvalho",
+         "Derli Prada",
+         "John Galindo",
+         "Dana Frigoli"
+      ],
+      "imdbMovieId": "1609492",
+      "originalTitle": "Superclásico",
+      "genres": ["Comedy"],
+      "youtubeTrailerIds": ["swOCtS3CbGo"],
+      "plotSummary": "Christian is a Copenhagen wine seller on the brink of bankruptcy. Equally unsuccessful in just about every other aspect of life, it has been 17months since his wife Anna left him. Anna works as a soccer agent in Buenos Aires and now lives a life of luxury with Argentina's top player Juan Diaz. Then one day Christian and their 16-year-old son Oscar get on a plane to Buenos Aires. Christian arrives under the pretense of wanting to sign the divorce papers, but in truth, he wants to try to win Anna back.",
+      "tmdbMovieId": 74674,
+      "avgRating": 2.83333,
+      "releaseYear": "2011",
+      "numRatings": 9,
+      "posterPath": "/voNbrKco1p9BtfZBzhpUXVGJEvz.jpg"
+   }
+}

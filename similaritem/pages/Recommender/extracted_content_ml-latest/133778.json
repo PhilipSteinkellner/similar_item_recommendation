@@ -1,0 +1,436 @@
+{
+   "tmdb": {
+      "original_language": "de",
+      "keywords": [
+         {
+            "name": "dark comedy",
+            "id": 10123
+         },
+         {
+            "name": "woman director",
+            "id": 187056
+         }
+      ],
+      "imdb_id": "tt3163304",
+      "video": false,
+      "title": "The Farewell Party",
+      "recommendations": [
+         290544,
+         37284
+      ],
+      "backdrop_path": "/x5rpf0oSJh2RU786evoMZXqU7g6.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 0,
+               "character": "Yehezkel",
+               "gender": 0,
+               "credit_id": "53f2afac0e0a2675b5007338",
+               "name": "Ze'ev Revach",
+               "profile_path": "/mlHruR6bAIkdOkovWrayAeAvzSu.jpg",
+               "id": 74604,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Levana (as Levana Finkelshtein)",
+               "gender": 1,
+               "credit_id": "541426bec3a3687db20018d3",
+               "name": "Levana Finkelstein",
+               "profile_path": null,
+               "id": 94701,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Yana",
+               "gender": 0,
+               "credit_id": "541426c9c3a3687dc5001951",
+               "name": "Alisa Rozen",
+               "profile_path": null,
+               "id": 1363562,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Dr. Daniel",
+               "gender": 2,
+               "credit_id": "541426d7c3a3687dbe001811",
+               "name": "Ilan Dar",
+               "profile_path": null,
+               "id": 536822,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Raffi Segal",
+               "gender": 0,
+               "credit_id": "541426e40e0a26198a001974",
+               "name": "Rafael Tabor",
+               "profile_path": null,
+               "id": 1363563,
+               "order": 5
+            },
+            {
+               "cast_id": 22,
+               "character": "Carmon (as Josef Carmon)",
+               "gender": 0,
+               "credit_id": "581bb4b192514164bf001020",
+               "name": "Yosef Carmon",
+               "profile_path": null,
+               "id": 545787,
+               "order": 6
+            },
+            {
+               "cast_id": 23,
+               "character": "Noa (as Hilla Surjon)",
+               "gender": 0,
+               "credit_id": "581bb4b892514164bf00102e",
+               "name": "Hilla Sarjon",
+               "profile_path": null,
+               "id": 1703685,
+               "order": 7
+            },
+            {
+               "cast_id": 24,
+               "character": "Zelda",
+               "gender": 0,
+               "credit_id": "581bb4c092514115d30048aa",
+               "name": "Ruth Geller",
+               "profile_path": null,
+               "id": 1326712,
+               "order": 8
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "53f2b0ad0e0a2675b80074bf",
+               "name": "Tal Granit",
+               "profile_path": null,
+               "id": 1354319,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55142566c3a36840a30013eb",
+               "name": "Sharon Maymon",
+               "profile_path": null,
+               "id": 235138,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55353a71c3a36848ca006aaf",
+               "name": "Tal Granit",
+               "profile_path": null,
+               "id": 1354319,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55353a78c3a3682dc2002655",
+               "name": "Sharon Maymon",
+               "profile_path": null,
+               "id": 235138,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "581bb441c3a368695e003af0",
+               "name": "Avi Belleli",
+               "profile_path": null,
+               "id": 1594800,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "581bb44892514115ce0045df",
+               "name": "Tobias Hochstein",
+               "profile_path": null,
+               "id": 171,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 1,
+               "credit_id": "581bb44ec3a3686964004ab1",
+               "name": "Einat Glaser-Zarhin",
+               "profile_path": null,
+               "id": 1026685,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "581bb456c3a3686964004ac8",
+               "name": "Arad Sawat",
+               "profile_path": null,
+               "id": 1678408,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "581bb45ec3a3686964004ad4",
+               "name": "Moshe Edery",
+               "profile_path": null,
+               "id": 53092,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "581bb466c3a36869550048cb",
+               "name": "Leon Edri",
+               "profile_path": null,
+               "id": 1703684,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "581bb46dc3a36869670043a7",
+               "name": "Osnat Handelsman-Keren",
+               "profile_path": null,
+               "id": 1703594,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "581bb474c3a368695e003b14",
+               "name": "Thanassis Karathanos",
+               "profile_path": null,
+               "id": 28391,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "581bb47bc3a3686964004afb",
+               "name": "Talia Kleinhendler",
+               "profile_path": null,
+               "id": 1393092,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "581bb483c3a36869670043c4",
+               "name": "Maria Kontogianni",
+               "profile_path": null,
+               "id": 1645845,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "581bb48a92514115c200447d",
+               "name": "Haim Mecklberg",
+               "profile_path": null,
+               "id": 953119,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "581bb49192514115ca0041b9",
+               "name": "Estee Yacov-Mecklberg",
+               "profile_path": null,
+               "id": 1316517,
+               "department": "Production",
+               "job": "Producer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         }
+      ],
+      "popularity": 1.443449,
+      "production_countries": [
+         {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+         },
+         {
+            "iso_3166_1": "IL",
+            "name": "Israel"
+         }
+      ],
+      "id": 287483,
+      "vote_count": 18,
+      "budget": 0,
+      "overview": "A group of friends at a Jerusalem retirement home build a machine for self-euthanasia in order to help their terminally ill friend. When rumors of the machine begin to spread, more and more people ask for their help, and the friends are faced with an emotional dilemma",
+      "similar": [
+         258480,
+         370663,
+         401898,
+         244772,
+         12793,
+         27586,
+         10735,
+         858,
+         14,
+         112160,
+         141,
+         634,
+         376867,
+         359940,
+         437557,
+         242224,
+         10818,
+         11421,
+         43923,
+         340485
+      ],
+      "original_title": "Am Ende ein Fest",
+      "runtime": 90,
+      "poster_path": "/ioKXRKEEQE6othtOF7DJkLV3pKi.jpg",
+      "spoken_languages": [{
+         "name": "עִבְרִית",
+         "iso_639_1": "he"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Pallas Film",
+            "id": 789,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Pie Films",
+            "id": 24662,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Twenty Twenty Vision Filmproduktion GmbH",
+            "id": 32545,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "2-Team Productions",
+            "id": 35508,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/gf4S6UfByfEaSpDPLl663ivyDRC.png",
+            "name": "United King Films",
+            "id": 16,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2014-08-29",
+      "vote_average": 6.1,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Israel",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": [
+         "Tal Granit",
+         "Sharon Maymon"
+      ],
+      "runtime": 95,
+      "synopsis": null,
+      "writers": [
+         "Tal Granit",
+         "Sharon Maymon"
+      ],
+      "originalLanguage": "Hebrew",
+      "imdbLink": "http://www.imdb.com/title/tt3163304/",
+      "coverLink": "https://ia.media-imdb.com/images/M/MV5BMTQ4OTY3NzAyM15BMl5BanBnXkFtZTgwOTM3Mzk0NDE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "actors": [
+         "Ze'ev Revach",
+         "Levana Finkelstein",
+         "Aliza Rosen"
+      ],
+      "reviews": [
+         "This movie has brought be to tears - which is extremely unusual for me. Going through a similar process with my late father, I can say that the movie is very accurate. Such an amazing mixture of laughter and tears. So real, and so different from the run-of-the- mill, dime-a-dozen, Hollywood films. The kind of movie that provides you with real food for thought and a long lasting impression. I was greatly impressed by the very high quality of acting, direction, editing and cinematography, which is rare in the Israeli films landscape. I would most definitely rate is the best movie I've seen the past year.",
+         "I laughed, I cried, I loved this film. Old people in a retirement home face illness and dementia every day. When the wife of a very sick friend tells the patent inventor Yehezkel that her husband is desperate to die and end the pain, Yehezkel builds an appropriate machine. The emotional and the moral aspects of helping with self-euthanasia come up. It's always subtle, or really painful, or funny-and the narrative is never longer than it should. There's even a scene with a song-and it is subversive and moving-brings Almodovar to mind. Great acting of everyone. There are some glitches in the Portuguese subtitles, but maybe not in English-and either way, it's not that bad.",
+         "There are not many films that will make me ponder about my mortality. Sitting in the old- school cinema of The Projector last night, I think only Departures (2008) made me do that. About what exactly? About whether my life journey up to that point has yielded dividends in terms of significant milestones and character building; about whether I have laid the path ahead of me; about whether I have enriched my own life so that I can enrich others who crossed my path; about my legacy. Departures changed my life. Since then no other films have come along to make me contemplate the deeper aspects of my mortality. That is until last night. The Farewell Party (2014) opened the Israeli Film Festival here and what a film it was. I found myself laughing so hard at the antics and ideas, but I think I got ahead of myself here. The story is about a group of old friends living in a retirement home for old folks. Life is hard when they see their friends slowly dying from debilitating diseases. So a tinkerer tinkers out a self-euthanising machine to put the choice of life or death in the hands of terminally ill patients. Soon the rumours of the machine spread and more people ask for their help. The group of friends are now faced with a life and death dilemma. I think this gem of a film is what it means to laugh in the face of death. From the get go scene of a woman getting a phone call from God, me and my friends and a near full-house audience were laughing till our sides hurt. This is not rude humour of the Hollywood kind but sensitive and compassionate. By tackling the difficult theme of euthanasia through comedy, it provides a way into a labyrinthine can of worms. It feels real and genuine, not made up to gain sympathies. The tone is deftly maintained from the first scene to the last with nary a misstep. Nothing is overcooked; everything timed perfectly. It is warm and comforting; like snuggling underneath a warm blanket with your significant other in cold weather. There is joy coupled with deep sadness. Get ready to laugh through streaming tears. The writing is marvellous and effortless in a sense that the two writer-directors must have written this from a deep place of hurts but yet it doesn't want to wring your emotions dry. It rises above the common denominator and glides from scene to scene like an angel on wings. It is thorough but never exhausting. It dares to ask hard questions but never forces its ideas down your throat. Get ready to debate after the movie because you will want to. The acting by the ensemble cast is amazing. Watch out for a scene in which they wear nothing just to cheer a friend up. The exquisite balancing act is sheer masterclass. Not many directors would be able this pull it off and I think you really need to be an amazing human being to be able to do this, and we got two here. Tal Granit and Sharon Maymon were there last night with an illuminating post-film discussion. Their talk was candid, heartfelt and they shared from a deep place. I had a chance to talk to them later about a scene in which the actors did a song number that felt like the only misstep for me and you know what... their explanation convinced me it wasn't. Love the film; love them.",
+         "A woman in a retirement home answers a telephone ringing in the hallway. The caller pretends to be God and asks the terminally-ill woman to continue her difficult medical treatments. \"We currently don't have any vacancies,\" he says, referring to heaven. He adds that the woman's husband says \"hello.\" The woman is shocked. \"My husband?\" she says. \"I was never married.\" God quickly hangs up. This is the opening scene from the Israeli comedy-drama \"The Farewell Party\" (NR, 1:35) and it perfectly encapsulates what the movie is \u2013 a sometimes comedic look at the very serious topic of euthanasia. Yehezkel (Ze'ev Revach) is an old man who has several friends in a Jerusalem retirement home. As one of his friends lies in great pain and close to death, the man's wife begs Yehezkel to do something to help her husband. Yehezkel is a retired machinist. He researches and builds a euthanasia device which allows his friend to press a button and self-administer a drug that basically puts him to sleep. The old man is able to end his suffering and die with dignity. His widow is heart-broken, but grateful. What seemed like an ending, however, turns out to be only the beginning of the story for Yehezkel and his friends. Rumors about the old man's death quickly circulate around the retirement home. Yehezkel and his co-conspirators soon find themselves facing a series of moral dilemmas regarding helping to end the suffering of others. One man threatens to call the police if the group doesn't help his terminally-ill wife in the same way that they helped the first man. As it becomes clear that this will not be the last such request, they each have to come to terms with what they've done and decide how to react to what they're now being asked. As they begin to disagree about what to do next, and the circumstances start hitting even closer to home, the decisions become more difficult, and the dilemmas more profound. Neither the film nor its characters take this topic lightly, even though the script does have some fun with the various circumstances that present themselves. The movie's opening scene shows that Yehezkel (the voice of \"God\" on one end of that phone call) wants to preserve the life of his friends. Yet, out of respect for them, and probably wondering what he'd want if he were in their situation, Yehezkel and a few others choose what they see as the least terrible among some pretty terrible options. To keep the movie from being too depressing, and to make such a serious topic more palatable, the script allows us to see a little of the humor in the lives of these characters \u2013 and in some of their deaths \u2013 but with due respect. \"The Farewell Party\" tells an interesting story about a controversial subject and still manages to function well as entertainment. The film is more serious than the trailer, movie poster and title imply, but most of the humor is well-done and well-placed throughout the film. The script and direction of Tal Granit and Sharon Maymon balance the comedy and drama based on what's happening in the story at any given moment and the very talented cast makes it work. Still, just a few of the movie's light-hearted moments feel a little inappropriate and a sub-plot about a secret romantic relationship between two male characters seems unnecessarily distracting, but those are relatively minor complaints. Overall, this movie entertains the audience, while encouraging each audience member to think about a very important topic and how we each feel about it. \"B+\"",
+         "The Farewell Party was probably the funniest film at this year's Palm Springs film festival. It had to be. It's about euthanasia. By making it equal parts farewell and party the comedy made the sombre reality bearable. In an Israeli retirement home a modest inventor Yeheskel devises a machine to add a mortal combination to a hopeless patient's IV. The delicate operation is done by a heavy combination of gears and chains that looks like it would raise a drawbridge. That's a comic paradox akin to \"mercy killing.\" He makes it for his old friend Max, who begs for release. The only doctor who will help is a vet, another resident. Yeheskel and his accomplices do not take their enterprise lightly. At every step it's a battle of conscience, to determine whether they're taking a life or saving it. It's a fight between the law and justice. When the home's administrator scolds them for an indecorous generosity, her piercing, personalized insults make their justice superior to her law. They're also supported by an incidental news report, which features the daily traffic mortality count \u2014 an unsolved problem larger than mercy killing \u2014 and the story of an 80-year-old man who with no other alternative killed his suffering wife then himself. Yeheskel's wife Levana is at first the most strenuously opposed to the death machine. But as she slips into humiliating dementia she comes to crave it herself. At the first sign of that Yeheskel destroys his machine. He won't use it on her. Or rather, for her. Then he remembers serving his beloved's needs should trump his own, so he rebuilds it to let her die in comfort and dignity. The framing story of one Zelda provides the religious context. In the first scene she gets ostensible phone calls from God, advising her to continue her treatments because there's not yet a vacancy in heaven. At the end she lets on that she knew it was Yeheskel all along. When she gets his treatment it's interrupted twice by power failures. She takes that as a sign from God and resolves to live on. Thus we contrive a higher power to direct us, i.e., to let us do what we want. Even these modest saints remain human, too. The vet's lover \u2014 who literally comes out of the closet \u2014 is venal enough secretly to collect a fee for the service. He's banished from the group and the affair. When Yeheskel gives his Levana the last \"duckie kiss,\" it's what he gives his granddaughter. The characters' playfulness expresses their essential childishness, a vestigial joy and innocence. As Levana tells the administrator, \"Their bodies are old but they're still children inside.\" To their credit. Retired from work and responsibility they're free to be young again however they can. That's the last joy in life. So, too, the old veterinarian is still trying to find a way to tell his mother he's gay. The fall setting outside reminds us that death is just a part of the natural cycle. That continuity also impels the musical interlude where the dead join the living to sing about Neverland. This marvellous film is required viewing for governments considering regulations to allow for assisted suicides. They all should be. .",
+         "\"The Farewell Party\" starts as a tragi-comedy in a retirement pension where the question of euthanasia is first raised then addressed. As the movie progresses the tragic dimension becomes more and more apparent, as minds and bodies decay, requests for a dignified death grow and \"survivors\" are left sadder. This is no trifle matter: euthanasia raises serious debates in many countries, even where it is already partly legal. How do we treat our elderly? By the way, how long was it since we last saw a movie where all main characters are aged? If only for this, \"The Farewell Party\" stands out, but it delivers much more. *** WARNING: CONTAINS SPOILERS *** In terms of content, it deals with many themes: life, old age, illness, euthanasia, justice, death, dementia, friendship, love, homosexuality. All these are quite beautifully and efficiently addressed. For instance after the main character affected by dementia walks into the dining hall just with her night gown on, she is depressed by her mistake. Her friends then have her come over to the greenhouse\u0085 where they are naked, to cheer her up and show her that exhibiting one's body is not an issue. They drink and laugh together, naked in the night. What better demonstration of friendship could there be? In terms of form, the movie smartly, maybe too smartly, triggers contradictory emotions. Notably, we are constantly hesitating to cry or smile, especially when we expect it less. For instance an old lady is about to die secretly\u0085 then we hear a group of friends singing loudly outside her window, to the great surprise of the \"euthanasists\". At last they can proceed with their task\u0085 but their device crashes, blowing all lights out! They are obliged to leave the old lady grumbling, which is at the same time happy news (she is still alive) and tragic (she still wants to die). Another aspect of contrasting emotions is when we are expecting something\u0085 and something else happens, not completely different, but sort of on the side. When a policeman stops the main characters' car after they perform their first illegal euthanasia, we think \"Oh no, this is really cliché, he is just stopping them for speeding\"\u0085 but they manage to get out of this in a special way which is sad and somewhat comical at the same time (enough with spoilers). And when he stops them for a second time later on, we think \"Oh no, not again\"\u0085 but then the scene is quite different, more on the frightening side even though it ends well (too long to detail). In summary, the main strength of \"The Farewell Party\" is to succeed treating almost as a comedy some very serious and even tragic aspects of life. It also progresses very efficiently throughout all the stages of the characters' dilemmas and actions: the decisions, the preparation, the first time, the never-again, the but-we-have-to, the moral issues, the group conflicts, the suspense, etc. Most of the action occurs in the pension but at no time does it feel long or useless. Characters are attaching, complex and sometimes double-sided. An old man regularly calls an old lady to have her believe he is God so she feels better\u0085 but does she really believe this or does she pretend to, ironically in order to please the old man? One of the members of the \"euthanasia squad\" who apparently has high values is actually being paid for the \"job\". The main character who rejects euthanasia will in the end ask this for herself. Acting is absolutely outstanding; I know this is a standard comment about many movies, but here it truly is impressive how all actors manage to show their emotions and bodies, while at the same time remaining most decent. However, one of the main drawbacks of the movie is the luxury of the pension, which does not acknowledge that many elderly end their lives in poorer conditions. Granted, I don't know how pensions are in Israel where the action takes place, but the topics of the movie can be considered as universal and hence probably should have been depicted in a more realistic way. Maybe the directors wanted to avoid making a \"social\" movie in order to focus more on other themes, or wanted to limit dramatic elements? Despite this minor downside, \"The Farewell Party\" is outstanding by many aspects, some of which I briefly described above. Perhaps the most poignant parts are the videos recorded by the elderly on their deathbed. In this regard, the last scene is certainly the saddest of the movie and probably one of the saddest of film history: what do we get from life, what does our existence boil down to, what are we left with in the end just before departing from this world? At best, a small kiss from the person we love.",
+         "In the past two decades the Israeli cinema improved significantly and some excellent movies were produced. The present movies can be rated at the highest end! The cast is excellent (most are theater actors)and the atmosphere is real (I know it closely). I was surprised by the dialogue, acting and human dilemmas raised by this excellent movie. Going through with my late parents, I lived it again before my own turn! It has an excellent sense of humor and above all it reveals humanistic and philosophical aspects. I would give it a 10 but the pace is a little bit slow (what should we expect with these elderly people?!),otherwise it is a masterpiece about getting very old, two fingers up!!!",
+         "It's not your everyday hero VS villain type of film, it's different, and it's probably not for everyone. It's hard to watch, both because of the delicate nature of the subject it's about and because most of the characters are hard to fall for, but once you manage to ignore it, you're in for a treat. It touches some of the ugliest parts of one of the ugliest topics in our lives, that is getting old, and manage to do it with creativity and lightheartedness that I didn't expect. It made me sad and happy, all at the same time, and if you're into this sort of films, you won't regret watching it. The directing was awesome, the cameraman as well. Also great performances by Aliza Rozen and Ze'ev Revach. Sorry for English mistakes.",
+         "I'd like to give this movie a 10 for acting and a 2 for content, because it weighs in on the side of euthanasia, with humor and sentimentality, and euthanasia is a treacherously slippery slope. Who should be more aware of what can happen when society starts ending lives deemed not worth living than the Jewish Israelis who made this movie and the Germans, of all people, who godfathered it? But to give the movie its due, it includes fine acting, including many dynamic and demanding close-ups, from Ze'ev Revach, Levana Finkelstein, and the other major players. Revach won Israel's annual Best Actor award for this role, and the angelic Finkelstein, portraying a woman with incipient Alzheimer's, was unjustly passed over for Best Actress in favor of the colorless but personally popular Dana Ivgy. The movie also won awards for its cinematography (which, it's been complained, makes sheltered housing look too attractive) and for its soundtrack.",
+         "The Israeli movie Mita Tova was shown in the U.S. with the title The Farewell Party (2014). It was co-written and co-directed by Tal Granit and Sharon Maymon. It's described as a drama/comedy, but it's not very funny. I like the concept of the movie--a group of older people in a retirement home are brought together to help members of their group who are suffering. Can they technically manage euthanasia? What are the ethical and moral implications? What are the legal implications? The most difficult situation does not involve physical pain. Levana, played by Levana Finkelstein, is a beautiful, intelligent woman who is showing signs of dementia. She's astute enough, in her lucid moments, to understand what's happening to her. What is the wisest answer to her terrible problem? The directors made a brilliant casting decision when they chose Ms. Finkelstein as the actor to play Levana. We tend to think of patients with dementia as being very old, with disheveled hair and clothing. Finkelstein does not conform to this stereotype. She is youthful, attractive, and stylish. We realize that this woman had a reasonable expectation of many more years of happiness. Sadly, that expectation will not be fulfilled. It's tragic. I found the comic portion of the movie to be problematic. Certainly, you can have comic interludes in a tragedy. However, I don't believe directors Granit and Maymon succeeded in making the comedy work. To me, this was a drama, and I think viewers should approach it as a drama. If you enjoy the comic aspects of the movie, all the better. We saw this film at Rochester's Little Theatre, as part of the fabulous Rochester International Film Festival. It will work very well on a small screen."
+      ],
+      "genres": [
+         "Comedy",
+         "Drama",
+         "Romance"
+      ],
+      "productionCompanies": [
+         "Pie Films",
+         "2-Team Productions",
+         "Twenty Twenty Vision Filmproduktion GmbH"
+      ],
+      "summaries": [
+         "THE FAREWELL PARTY is a compassionate dark comedy about friendship and knowing when to say goodbye. A group of friends at a Jerusalem retirement home build a machine for self-euthanasia in order to help their terminally ill friend. When rumors of the machine begin to spread, more and more people ask for their help, and the friends are faced with an emotional dilemma.",
+         "THE FAREWELL PARTY is a unique, compassionate and unlikely funny story of a group of friends at a Jerusalem retirement home who decide to help their terminally ill friend. When rumors of their assistance begin to spread, more and more people ask for their help, and the friends are faced with a life and death dilemma.",
+         "Residents of a retirement home build a machine for self-euthanasia in order to help their terminally ill friend, though they are faced with a series of dilemmas when rumors of the machine begin to spread."
+      ],
+      "budget": 0
+   },
+   "movielensId": 133778,
+   "movielens": {
+      "languages": ["עִבְרִית"],
+      "releaseDate": "2014-08-29",
+      "dvdReleaseDate": null,
+      "directors": [
+         "Tal Granit",
+         "Sharon Maymon"
+      ],
+      "runtime": 90,
+      "movieId": 133778,
+      "title": "The Farewell Party",
+      "mpaa": "",
+      "actors": [
+         "Ze'ev Revach",
+         "Levana Finkelstein",
+         "Alisa Rozen",
+         "Ilan Dar",
+         "Rafael Tabor",
+         "Yosef Carmon",
+         "Hilla Sarjon",
+         "Ruth Geller"
+      ],
+      "imdbMovieId": "3163304",
+      "originalTitle": "Am Ende ein Fest",
+      "genres": [
+         "Comedy",
+         "Drama"
+      ],
+      "youtubeTrailerIds": ["iV3yVl9YjRU"],
+      "plotSummary": "A group of friends at a Jerusalem retirement home build a machine for self-euthanasia in order to help their terminally ill friend. When rumors of the machine begin to spread, more and more people ask for their help, and the friends are faced with an emotional dilemma",
+      "tmdbMovieId": 287483,
+      "avgRating": 3.61111,
+      "releaseYear": "2014",
+      "numRatings": 9,
+      "posterPath": "/ioKXRKEEQE6othtOF7DJkLV3pKi.jpg"
+   }
+}

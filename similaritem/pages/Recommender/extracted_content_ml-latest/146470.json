@@ -1,0 +1,648 @@
+{
+   "tmdb": {
+      "original_language": "zh",
+      "keywords": [{
+         "name": "martial arts",
+         "id": 779
+      }],
+      "imdb_id": "tt0076660",
+      "video": false,
+      "title": "Death Duel",
+      "recommendations": [
+         90556,
+         61037,
+         67021,
+         26569,
+         42380
+      ],
+      "backdrop_path": "/iqGyqyCGOrlf9Jluhyfv5L5oP03.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 5,
+               "character": "3rd Master Chi",
+               "gender": 0,
+               "credit_id": "5485efa9c3a3680b3a003e3a",
+               "name": "Derek Yee Tung-Sing",
+               "profile_path": "/2VlJDPqQRNetisF5S10qhZFfRL1.jpg",
+               "id": 240150,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Yen Shih-San",
+               "gender": 2,
+               "credit_id": "52fe4724c3a368484e0b7281",
+               "name": "Ling Yun",
+               "profile_path": "/4hXpU3la20l19FntfWFnSzf4SM8.jpg",
+               "id": 544461,
+               "order": 1
+            },
+            {
+               "cast_id": 21,
+               "character": "Hsiao Li",
+               "gender": 0,
+               "credit_id": "568496fb9251411334010e67",
+               "name": "Candice Yu On-On",
+               "profile_path": "/hrjEQG3j9GbAWcoGqgtwPlGnGmC.jpg",
+               "id": 127410,
+               "order": 2
+            },
+            {
+               "cast_id": 7,
+               "character": "Miao Tzu",
+               "gender": 2,
+               "credit_id": "5485efe5c3a36867d5002355",
+               "name": "Ku Feng",
+               "profile_path": "/zSJwvWED9pT54YUBrQhL31UzeaC.jpg",
+               "id": 229302,
+               "order": 4
+            },
+            {
+               "cast_id": 8,
+               "character": "Hsiao Li's mother",
+               "gender": 1,
+               "credit_id": "5485efef9251416a630032ee",
+               "name": "Ou-Yang Sha-Fei",
+               "profile_path": "/6pC66FBZmscDlnUX86OEGTkY34F.jpg",
+               "id": 1134748,
+               "order": 5
+            },
+            {
+               "cast_id": 9,
+               "character": "Mu-Yung Chiu-Ti",
+               "gender": 1,
+               "credit_id": "5485effa9251416a6f0030c4",
+               "name": "Chen Ping",
+               "profile_path": "/dVYtdIGYsaUF65lJzS8uUiNl4Sd.jpg",
+               "id": 240181,
+               "order": 6
+            },
+            {
+               "cast_id": 10,
+               "character": "Mu-Yung Chien-Lung",
+               "gender": 2,
+               "credit_id": "5485f0059251416a630032f4",
+               "name": "David Chiang",
+               "profile_path": "/ptY33J5Ap1hxDUf9a8tNjDz3SER.jpg",
+               "id": 65986,
+               "order": 7
+            },
+            {
+               "cast_id": 11,
+               "character": "Mu-Yung Family's swordsman",
+               "gender": 2,
+               "credit_id": "5485f0159251416a69002f92",
+               "name": "Norman Chu",
+               "profile_path": "/txvot9CrqOsVLtS2Z9io4GIe93D.jpg",
+               "id": 70674,
+               "order": 8
+            },
+            {
+               "cast_id": 13,
+               "character": "One of the Yu Mien brothers",
+               "gender": 2,
+               "credit_id": "5485f054c3a36867d5002365",
+               "name": "Ngaai Fei",
+               "profile_path": "/cACyPmMLAW0otPpNm5w7FWpGmcT.jpg",
+               "id": 994384,
+               "order": 9
+            },
+            {
+               "cast_id": 17,
+               "character": "One of the Yu Mien brothers",
+               "gender": 0,
+               "credit_id": "54d5cbf8c3a3683b8f00197a",
+               "name": "Ku Kuan-Chung",
+               "profile_path": "/fKIDgB6rvzT2T4TpPw1LyozkmDd.jpg",
+               "id": 240156,
+               "order": 10
+            },
+            {
+               "cast_id": 18,
+               "character": "Han Tang",
+               "gender": 2,
+               "credit_id": "55beb49ec3a3686528004979",
+               "name": "Lo Lieh",
+               "profile_path": "/dtnWwYt8eptupEpraJEAsHwQYcV.jpg",
+               "id": 70673,
+               "order": 11
+            },
+            {
+               "cast_id": 19,
+               "character": "Fu Hung-Hsueh",
+               "gender": 2,
+               "credit_id": "55beb4b79251413e510056e9",
+               "name": "Ti Lung",
+               "profile_path": "/1daG4DpWRRvpssf5gimrFoTPFk4.jpg",
+               "id": 69636,
+               "order": 12
+            },
+            {
+               "cast_id": 24,
+               "character": "Mute",
+               "gender": 2,
+               "credit_id": "59dbe340c3a368624d060fca",
+               "name": "Fan Mei-Sheng",
+               "profile_path": "/jzD3y8xdLlOPIiKcwJkWaWQhhpq.jpg",
+               "id": 240185,
+               "order": 13
+            },
+            {
+               "cast_id": 25,
+               "character": "Mute's wife",
+               "gender": 1,
+               "credit_id": "59dbe34e925141252c0624db",
+               "name": "Teresa Ha Ping",
+               "profile_path": "/xpR94vYONQIRWBVrLwJKbKANJC3.jpg",
+               "id": 1178817,
+               "order": 14
+            },
+            {
+               "cast_id": 26,
+               "character": "Chief Yang",
+               "gender": 2,
+               "credit_id": "59dbe360c3a368624d060feb",
+               "name": "Yeung Chi-Hing",
+               "profile_path": "/sDI8YsvMACm40KpJSfJdGlNMugp.jpg",
+               "id": 1133986,
+               "order": 15
+            },
+            {
+               "cast_id": 27,
+               "character": "Yang Wu",
+               "gender": 0,
+               "credit_id": "59dbe3709251412505062123",
+               "name": "Lam Fai-Wong",
+               "profile_path": "/8x13SPg0DkUUcvAjTEwcTxW63aJ.jpg",
+               "id": 930251,
+               "order": 16
+            },
+            {
+               "cast_id": 28,
+               "character": "Chief Yang's assistant",
+               "gender": 2,
+               "credit_id": "59dbe37f925141252c062505",
+               "name": "Liu Wai",
+               "profile_path": "/ivabeubLoV4ldvv7pLEZH5qkS0r.jpg",
+               "id": 1163355,
+               "order": 17
+            },
+            {
+               "cast_id": 29,
+               "character": "Keeper Shih Wang-Sun",
+               "gender": 0,
+               "credit_id": "59dbe38c925141252c062511",
+               "name": "Cheng Miu",
+               "profile_path": "/gltp4SJWSEHj11EBVAPRHMPpEgJ.jpg",
+               "id": 544921,
+               "order": 18
+            },
+            {
+               "cast_id": 30,
+               "character": "Ferryman for Divine Sword Mansion",
+               "gender": 0,
+               "credit_id": "59dbe399c3a3686200066182",
+               "name": "Shum Lo",
+               "profile_path": "/4JWlqHmlaa96MFGlMDHug7M7Tld.jpg",
+               "id": 1178707,
+               "order": 19
+            },
+            {
+               "cast_id": 31,
+               "character": "'Tu Lang Chun' Chou Yu Feng",
+               "gender": 0,
+               "credit_id": "59dbe3b3925141251406656a",
+               "name": "Elliot Ngok",
+               "profile_path": "/cn4WSOQjxQVigWj4QPHiy561z3e.jpg",
+               "id": 94972,
+               "order": 20
+            },
+            {
+               "cast_id": 32,
+               "character": "Yu Cheng",
+               "gender": 1,
+               "credit_id": "59dbe3bec3a36861a3062abf",
+               "name": "Nancy Yen Nan-See",
+               "profile_path": "/xVWvMomSlbklgfPWbRHXeOZSOSM.jpg",
+               "id": 95674,
+               "order": 21
+            },
+            {
+               "cast_id": 33,
+               "character": "Girl bullied at tavern",
+               "gender": 0,
+               "credit_id": "59dbe3d2c3a368620d0591e9",
+               "name": "Chan Sze-Kai",
+               "profile_path": "/klDPB4oinG4pvTZ2Eiq0xeSgMja.jpg",
+               "id": 240154,
+               "order": 22
+            },
+            {
+               "cast_id": 34,
+               "character": "Teacher at tavern",
+               "gender": 0,
+               "credit_id": "59dbe3dfc3a36862000661c1",
+               "name": "Lau Luk-Wah",
+               "profile_path": null,
+               "id": 1574974,
+               "order": 23
+            },
+            {
+               "cast_id": 35,
+               "character": "Ms. Hua/Clothes shop boss",
+               "gender": 0,
+               "credit_id": "59dbe3edc3a36861a3062adf",
+               "name": "Lau Wai-Ling",
+               "profile_path": "/tnexcIxnlRz2TI4zDfoAStQkH2P.jpg",
+               "id": 1114839,
+               "order": 24
+            },
+            {
+               "cast_id": 36,
+               "character": "Tien Hu",
+               "gender": 2,
+               "credit_id": "59dbe3f8c3a368620d05920b",
+               "name": "Johnny Wang Lung-Wei",
+               "profile_path": "/ktExluorH4yrX01bMWUYdkZRru1.jpg",
+               "id": 240174,
+               "order": 25
+            },
+            {
+               "cast_id": 37,
+               "character": "Tien Hu's brother",
+               "gender": 0,
+               "credit_id": "59dbe40692514125050621be",
+               "name": "Huang Pei-Chih",
+               "profile_path": "/rK9g5AYcQGlZUZnbqYq58f1XUFi.jpg",
+               "id": 1743596,
+               "order": 26
+            },
+            {
+               "cast_id": 38,
+               "character": "Tien Hu's brother",
+               "gender": 0,
+               "credit_id": "59dbe411925141251f066003",
+               "name": "Jamie Luk Kim-Ming",
+               "profile_path": "/issyq7o6xLI0XeF5COauEToPyRs.jpg",
+               "id": 1134732,
+               "order": 27
+            },
+            {
+               "cast_id": 39,
+               "character": "Leader of Hei Sha Clan",
+               "gender": 0,
+               "credit_id": "59dbe41bc3a368620d059228",
+               "name": "Chan Shen",
+               "profile_path": "/hGrbFj472hify2v9y5zMtFi8he2.jpg",
+               "id": 1042681,
+               "order": 28
+            },
+            {
+               "cast_id": 40,
+               "character": "Japanese in Hei Sha Clan",
+               "gender": 0,
+               "credit_id": "59dbe42892514124c5064fbf",
+               "name": "Corey Yuen",
+               "profile_path": "/uLRXQt1LlTfbYtm0kMLC8KSvHxN.jpg",
+               "id": 35452,
+               "order": 29
+            },
+            {
+               "cast_id": 41,
+               "character": "Japanese in Hei Sha Clan",
+               "gender": 0,
+               "credit_id": "59dbe43a92514124c9064ada",
+               "name": "Tino Wong Cheung",
+               "profile_path": "/wUN0jz2NAMRqcTRQym3Fho8j2RP.jpg",
+               "id": 1166104,
+               "order": 30
+            },
+            {
+               "cast_id": 42,
+               "character": "Member of Hei Sha Clan",
+               "gender": 0,
+               "credit_id": "59dbe445c3a3686200066232",
+               "name": "Hsu Hsia",
+               "profile_path": "/x8WtgVLgltsxyC8RNF9xyEKObov.jpg",
+               "id": 119457,
+               "order": 31
+            },
+            {
+               "cast_id": 43,
+               "character": "Member of Hei Sha Clan/Yen's challenger",
+               "gender": 0,
+               "credit_id": "59dbe45592514124cd06519e",
+               "name": "Chui Fat",
+               "profile_path": null,
+               "id": 1158036,
+               "order": 32
+            },
+            {
+               "cast_id": 44,
+               "character": "Leader of 4 Swift swords",
+               "gender": 2,
+               "credit_id": "59dbe46392514124c9064afb",
+               "name": "Ng Hong-Sang",
+               "profile_path": "/b4DJP22hBXYSyfStrZMvnRBf5ar.jpg",
+               "id": 1140994,
+               "order": 33
+            },
+            {
+               "cast_id": 45,
+               "character": "Tavern boss",
+               "gender": 0,
+               "credit_id": "59dbe471925141252c0625d9",
+               "name": "Hao Li-Jen",
+               "profile_path": "/7og5Q5ZP1fsNZBqAOIvfJM4I8lv.jpg",
+               "id": 1180157,
+               "order": 34
+            },
+            {
+               "cast_id": 46,
+               "character": "Bully at tavern",
+               "gender": 0,
+               "credit_id": "59dbe47cc3a368624d0610e4",
+               "name": "Wang Han-Chen",
+               "profile_path": null,
+               "id": 1134979,
+               "order": 35
+            },
+            {
+               "cast_id": 47,
+               "character": "Bully's thug at tavern",
+               "gender": 0,
+               "credit_id": "59dbe48892514124eb062ef6",
+               "name": "Yuen Biao",
+               "profile_path": "/hdBQMhtzpamgodIURGPQAcKdbWC.jpg",
+               "id": 62414,
+               "order": 36
+            },
+            {
+               "cast_id": 48,
+               "character": "Collies supervisor",
+               "gender": 2,
+               "credit_id": "59dbe4a392514124c506504b",
+               "name": "Fung Ging-Man",
+               "profile_path": "/20TtHvmFCfkiSWJLuufrIWrELII.jpg",
+               "id": 119449,
+               "order": 37
+            },
+            {
+               "cast_id": 49,
+               "character": "Collie",
+               "gender": 2,
+               "credit_id": "59dbe4b092514124cd065206",
+               "name": "Ting Tung",
+               "profile_path": null,
+               "id": 1619660,
+               "order": 38
+            },
+            {
+               "cast_id": 50,
+               "character": "Brothel worker",
+               "gender": 1,
+               "credit_id": "59dbe4c1925141251406665c",
+               "name": "Mama Hung",
+               "profile_path": "/8FxabD1QG6gFNvpbRHe70R9vtLo.jpg",
+               "id": 1148003,
+               "order": 39
+            },
+            {
+               "cast_id": 51,
+               "character": "Waiter",
+               "gender": 2,
+               "credit_id": "59dbe4c99251412514066667",
+               "name": "Gam Tin-Chue",
+               "profile_path": "/v9zMKXExLwZsLux84HwxydRHxYD.jpg",
+               "id": 1583011,
+               "order": 40
+            },
+            {
+               "cast_id": 52,
+               "character": "One of 8 Spirit Catchers",
+               "gender": 0,
+               "credit_id": "59dbe4d592514124c9064ba0",
+               "name": "Brandy Yuen",
+               "profile_path": "/j3mGV5oOo9cosap30xjNX9q1uKi.jpg",
+               "id": 1088190,
+               "order": 41
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4724c3a368484e0b7279",
+               "name": "Chor Yuen",
+               "profile_path": "/3CvTzafjpfcpOBGEHTqQJNb0jFa.jpg",
+               "id": 96546,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5485f0649251416a6600335d",
+               "name": "Chor Yuen",
+               "profile_path": "/3CvTzafjpfcpOBGEHTqQJNb0jFa.jpg",
+               "id": 96546,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5485f06d9251416a600035c4",
+               "name": "Runme Shaw",
+               "profile_path": "/25r5CsgxV4UTASR5yyXo5qaWDPI.jpg",
+               "id": 96550,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "55d6030d92514102c6004af5",
+               "name": "Chiang Hsing-Lung",
+               "profile_path": "/4rJVpsyq1UA2JoMQDdvGSbvzxMh.jpg",
+               "id": 43913,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "580bddd99251416efe00626e",
+               "name": "Ku Long",
+               "profile_path": null,
+               "id": 83601,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 0,
+               "credit_id": "593cb69b925141059701603b",
+               "name": "Chieh Huang",
+               "profile_path": null,
+               "id": 1129532,
+               "department": "Camera",
+               "job": "Director of Photography"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Action",
+         "id": 28
+      }],
+      "popularity": 1.117271,
+      "production_countries": [{
+         "iso_3166_1": "HK",
+         "name": "Hong Kong"
+      }],
+      "id": 66013,
+      "vote_count": 5,
+      "budget": 0,
+      "overview": "This martial arts spectacular showcases 20-year-old Erh Tung-sheng (a.k.a. Derek Yee). Even Variety noted: \"Erh's charismatic screen presence should take him to superstardom like his older brother, David Chiang.\" The prediction proved correct, and his performance as ace swordsman Third Master is just what any producer would want. He fights evil, saves damsels in distress (including a kindhearted prostitute played by Chow Yun-fat's first wife, Yu An-an), and duels rival swordsmen to the, well, death.",
+      "similar": [
+         9053,
+         11841,
+         140300,
+         55292,
+         233361,
+         9461,
+         44865,
+         20811,
+         11770,
+         146,
+         605,
+         272,
+         604,
+         24,
+         98566,
+         682,
+         9502,
+         7549,
+         1498,
+         2024
+      ],
+      "original_title": "San shao ye de jian",
+      "runtime": 90,
+      "poster_path": "/2vmLaB2LSZPdX3wnA248XueHWc.jpg",
+      "spoken_languages": [{
+         "name": "普通话",
+         "iso_639_1": "zh"
+      }],
+      "production_companies": [{
+         "logo_path": "/nPGLMS26OKdu6T7RYakXGYVXFzK.png",
+         "name": "Shaw Brothers",
+         "id": 5798,
+         "origin_country": ""
+      }],
+      "release_date": "1977-07-06",
+      "vote_average": 7.3,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Hong Kong",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Yuen Chor"],
+      "runtime": 90,
+      "synopsis": null,
+      "writers": [
+         "Yuen Chor",
+         "Lung Ku"
+      ],
+      "originalLanguage": "Mandarin",
+      "imdbLink": "http://www.imdb.com/title/tt0076660/",
+      "coverLink": null,
+      "actors": [
+         "Tung-Shing Yee",
+         "On-On Yu",
+         "Ping Chen"
+      ],
+      "reviews": [
+         "Yuen Chor was having a good run of films during the second half of the 1970's. Sentimental Swordsman, Magic Blade, Clans of Intrigue, Jade TIger were all made during this five year period. \"Death Duel\" is just one more during this time. As with his other films you can expect good photography, unique art direction and dozens of characters. As with other successful Yuen Chor films, this one succeeds by focusing on one enigmatic main character for most of the film. However, the viewer will still have to deal with a lot of fascinating characters who show up and usually are killed off quickly. The body count in this film is very high. This film is very moody and the withdrawn character of Ah Chi make the story interesting. There are some uneven parts and the constant guest cameos from Shaw stars is a little annoying as you might wish that they would stick around longer in the film. That said, the script is above average, the pacing is good and by the time the ending comes around the film holds up. Recommended.",
+         "DEATH DUEL (1977) is another Shaw Bros. swordplay-and-intrigue extravaganza directed by Chu Yuan (aka Chor Yuen) from a novel by Ku Lung. Its release on DVD follows that of KILLER CLANS (1976), THE MAGIC BLADE (1976) and CLANS OF INTRIGUE (1977), all also reviewed on this site. The plot here is a lot simpler than those of the earlier films and involves fewer characters and, unfortunately, fewer fight scenes. It does, however, offer a fresh star in then-newcomer Derek Yee who plays a character who calls himself \"Hopeless Ah Chi,\" a wandering, enigmatic kung fu expert who is challenged by numerous other swordsmen in the course of the film for reasons that are made clear in the second half. That's basically all there is to the film: various challengers pop up to try and kill Ah Chi until Yen Shih-San (Ling Yun), the only one who truly qualifies as Ah Chi's equal, shows up for the final bout. There are only slight hints of the interlocking clan rivalries, conflicting loyalties and vast spy networks that made KILLER CLANS, et al, so fascinating. The film is beautifully shot and scored and filmed entirely on Shaw Bros. studio sets. The costumes are pretty snappy also. The fight scenes involve lots of breakaway walls and furniture and are often staged in extreme long shot, perhaps to cover up the frequent use of a stunt double for the lead. As usual, the cast offers a number of Shaw Bros. notables, including dependable character actors Ku Feng and Fan Mei-Sheng as Ah Chi's allies and--in welcome action cameos--Shaw Bros. stars Ti Lung, Lo Lieh, and David Chiang. Also appearing are Wang Lung-Wei, Norman Chu, Yueh Hua, Yuen Wah, Chan Shen and Cheng Miu, along with many other familiar faces from kung fu films. As usual with Chu Yuan films, there are some lively and beautiful women on hand to spice up the action, although not as many as in the earlier films. Candy Yu plays Yee's girlfriend while Chan Ping plays a rival clan leader stirring things up behind the scenes. The two leading men, Derek Yee and Ling Yun, are adequate but lack the flair of the aforementioned cameo players. Still, Yee makes an interesting hero--young, deadpan, and far more handsome than most kung fu stars of the era. He acted for approximately 20 years, but also turned to writing, directing, and producing and wound up making some key Hong Kong New Wave dramas of the 1990s, including C'EST LA VIE MON CHERI, FULL THROTTLE, and VIVA EROTICA.",
+         "Pleasing purposeful and taut Swordsplay - movie based on stories by Gu Long, about the supremacy of the Jiang Hu. Third master [ Derek Yee ] is the #1 at the moment , considered as the best sword fighter, but he's tired of his way of life, pretends his death and begins a simple life. Too early for Yen Shi kwan [ Ling Yun ], who aimed the whole life for fame and the answer if he could be the real #1. Death Duel is a little different from other Gu Long movies directed also by Chu Yuan, no obscure jumble of plot and persons here, it's strictly concentrated oh Third Master and his tries to survive the power struggle, where he's attacked again and again. The then 20yrs old Derek Yee [ now director of movies like ONE NITE IN MONGKOK, VIVA EROTICA, FULL THROTTLE ] does a strong impression, mainly optically and particularly with his mimic, and performs the action sequences well. These are well choreographed, unbloody swordplay with martial arts and jumps varied, there's also good use of the environment Optically the film is rather lyric - magical, many red and blue contrasts, much fog, added a calm, but appropriate score. Really entertaining 90mins. Movie has some relation to the other Gu Long picturizations like KILLER CLANS and MAGIC BLADE, Ti Lung has a cameo as his Swordsman Fu and Lo Lieh as the killer Han Tang.",
+         "DEATH DUEL is yet another of those gems fans of the genre hope for: it has everything, from plenty of action to solid performances (and even some philosophy, which many Shaw Brothers movies have in common)- and none of it gets in the way of the story. When \"Hopeless\" Ah Chi (Yee) gets hired on at a local brothel, he and Miss Li, one of the lovelier Ladies of the Evening, fall for each other; and when things go bad at the brothel, Chi moves in with Li and her brother (played by Ku Feng). When Chi gets poisoned (by Hua Yueh), he begins to wander the land looking for a cure.(And here we have a great line from Miss Li: She vows that, should Chi die before he can find the cure, she will wait for him \"in the hereafter.\" It's a beautiful line- not to mention sentiment- and deserves mention.) At one point, he encounters several people at a tavern and asks them, point blank, what they would do if they were to learn that they had only three days to live. When a scholar begins to spout scripture, Chi snatches him up by the shirtfront and makes him confess that he would gamble away his life's savings and go to a brothel. A young waitress confesses that she'd like to have sex before she died. Her father chases her out of the building, cursing her for a harlot. It's a funny scene and leads into a pair of cameos by Lo Lieh (who smears his face with blood when he kills an attacker, as in KILLER CLANS) and Ti Lung (wearing what looks like the tattered poncho he wore in THE MAGIC BLADE). Chi finds the cure, which is given to him by Yen, who now has a yen to find out who's really the Number One Swordsman in the Martial Arts World. Yen fancies himself Numero Uno, so he and Chi square off. But- duelus interruptus- David Chiang enters the picture as the mad Mu (driven mad, apparently, when he took practicing his swordsmanship to the nth degree). Chi and Yen pretty much kill everybody and his brother (well, sister, because it's Mu's sister who brings him to the fight- in a cage, no less) before taking up where they left off. When Yen appears to have won, Chi acknowledges that Yen is Number One and walks away- whereupon Yen allows one hand to drop, revealing the tip of Chi's sword jutting from his chest. He topples like a felled tree, referring to Chi as \"Number One.\" This one pretty much has it all and shouldn't disappoint fans one bit.",
+         "This is what the martial arts films were meant to be like, before the hacks made them into clowns jumping all over the place, kicking and striking a thousand times, with 90 back flips in each fight. Here, we have a crisp story, and interesting characters. The film follows mostly \"Third Master\" and his attempt to become a normal man, trying to elude his fame. It reminds a viewer of the \"gunfighter\" in the old West, trying to hang up his guns, but with young upstarts out to make a name for themselves, trying to goad him into a fight. The interesting thing here is the array of other characters. Some are simple folk, some helpful, some afraid, some benevolent. Others are fighters. We find that many others also hung up their swords. At least two characters, we find, were successful in \"retiring\" before they reached a stage that Third Master did. The first master also drops into obscurity for a while. The reasons are made clear later. A lot of chance meetings happen for the sake of a great fairy tale, but it's okay, because it's part of the magic. The body count is higher than it should be. A lot of the deaths are \"cliche\" movie deaths, and brings this film down from the classic status it could have attained. Still, the imagery is good, and there is refreshing dialog, a lot of insight. Parituclarly good is the scene where the third master thinks he is dying, and asks others what they would do if they knew they would die tomorrow. Later martial arts movies failed because they couldn't balance action with dialog. This film has a great balance, because too much action becomes as dull as too little. This comes from a guy who is very attention deficit, so when movies are too relentless in meaningless action for me, there is a real problem. Here, we have a nice balance, although even this film could have toned down the action some. Put it this way. It makes the normal action Western, say \"The Magnificent Seven\" look slow paced in comparison. Good film. Worth watching, but has some sadness to it."
+      ],
+      "genres": [
+         "Drama",
+         "Action"
+      ],
+      "productionCompanies": [
+         "Shaw Brothers",
+         "Shaw Brothers"
+      ],
+      "summaries": ["The Third Master (Erh Tung Sheng, aka Derek Yee, in the role that launched his career) is considered to be the greatest sword master of the day. His displays of skill and strength bring armies of challengers to his door, seeking the title for themselves. Not to be defeated, the Third Master fights evil, saves damsels in distress, and duels rival swordsmen to the death."],
+      "budget": 0
+   },
+   "movielensId": 146470,
+   "movielens": {
+      "languages": ["普通话"],
+      "releaseDate": "1977-07-06",
+      "dvdReleaseDate": null,
+      "directors": ["Chor Yuen"],
+      "runtime": 90,
+      "movieId": 146470,
+      "title": "Death Duel",
+      "mpaa": null,
+      "actors": [
+         "Derek Yee Tung-Sing",
+         "Ling Yun",
+         "Candice Yu On-On",
+         "Ku Feng",
+         "Ou-Yang Sha-Fei",
+         "Chen Ping",
+         "David Chiang",
+         "Norman Chu",
+         "Ngaai Fei",
+         "Ku Kuan-Chung",
+         "Lo Lieh",
+         "Ti Lung",
+         "Fan Mei-Sheng",
+         "Teresa Ha Ping",
+         "Yeung Chi-Hing",
+         "Lam Fai-Wong",
+         "Liu Wai",
+         "Cheng Miu",
+         "Shum Lo",
+         "Elliot Ngok",
+         "Nancy Yen Nan-See",
+         "Chan Sze-Kai",
+         "Lau Luk-Wah",
+         "Lau Wai-Ling",
+         "Johnny Wang Lung-Wei",
+         "Huang Pei-Chih",
+         "Jamie Luk Kim-Ming",
+         "Chan Shen",
+         "Corey Yuen",
+         "Tino Wong Cheung",
+         "Hsu Hsia",
+         "Chui Fat",
+         "Ng Hong-Sang",
+         "Hao Li-Jen",
+         "Wang Han-Chen",
+         "Yuen Biao",
+         "Fung Ging-Man",
+         "Ting Tung",
+         "Mama Hung",
+         "Gam Tin-Chue",
+         "Brandy Yuen"
+      ],
+      "imdbMovieId": "0076660",
+      "originalTitle": "San shao ye de jian",
+      "genres": ["Action"],
+      "youtubeTrailerIds": ["Lepxbqa3K-A"],
+      "plotSummary": "This martial arts spectacular showcases 20-year-old Erh Tung-sheng (a.k.a. Derek Yee). Even Variety noted: \"Erh's charismatic screen presence should take him to superstardom like his older brother, David Chiang.\" The prediction proved correct, and his performance as ace swordsman Third Master is just what any producer would want. He fights evil, saves damsels in distress (including a kindhearted prostitute played by Chow Yun-fat's first wife, Yu An-an), and duels rival swordsmen to the, well, death.",
+      "tmdbMovieId": 66013,
+      "avgRating": 3.5,
+      "releaseYear": "1977",
+      "numRatings": 1,
+      "posterPath": "/2vmLaB2LSZPdX3wnA248XueHWc.jpg"
+   }
+}

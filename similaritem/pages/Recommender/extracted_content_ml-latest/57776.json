@@ -1,0 +1,620 @@
+{
+   "tmdb": {
+      "original_language": "pt",
+      "keywords": [
+         {
+            "name": "brazilian",
+            "id": 983
+         },
+         {
+            "name": "biography",
+            "id": 5565
+         },
+         {
+            "name": "woman director",
+            "id": 187056
+         }
+      ],
+      "imdb_id": "tt0318590",
+      "video": false,
+      "title": "Cazuza: Time Doesn't Stop",
+      "recommendations": [
+         40823,
+         77710,
+         49367,
+         37050,
+         30127,
+         34196,
+         8440,
+         40096,
+         34671,
+         73169,
+         52345,
+         17358,
+         70815,
+         60209,
+         21752,
+         53961,
+         34277,
+         84756,
+         34588,
+         70666
+      ],
+      "backdrop_path": "/t4w11ehWCiu8x2noCC5A9cAvdoS.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Cazuza",
+               "gender": 2,
+               "credit_id": "52fe4992c3a36847f81a12b3",
+               "name": "Daniel de Oliveira",
+               "profile_path": "/xhLcXI86abbO3cM1BUBbk5H9pcd.jpg",
+               "id": 142818,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Lucinha Araújo",
+               "gender": 0,
+               "credit_id": "52fe4992c3a36847f81a12b7",
+               "name": "Marieta Severo",
+               "profile_path": "/hF09L6YlIxmO7fo1Z2hbb5FqWz6.jpg",
+               "id": 138327,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "João Araújo",
+               "gender": 2,
+               "credit_id": "52fe4992c3a36847f81a12bb",
+               "name": "Reginaldo Faria",
+               "profile_path": "/3kizJYrByCrlfAp1w04P2wyW6p0.jpg",
+               "id": 559724,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Malu",
+               "gender": 1,
+               "credit_id": "52fe4992c3a36847f81a12bf",
+               "name": "Andréa Beltrão",
+               "profile_path": "/kgjQO4nVFpbUX74i1usXUFc5UZJ.jpg",
+               "id": 102556,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Bebel",
+               "gender": 1,
+               "credit_id": "52fe4992c3a36847f81a12c3",
+               "name": "Leandra Leal",
+               "profile_path": "/zH1cS4el6PlNYpq7A05c8unAoFl.jpg",
+               "id": 278354,
+               "order": 4
+            },
+            {
+               "cast_id": 11,
+               "character": "Guto",
+               "gender": 2,
+               "credit_id": "53a25c8b0e0a2622860009c9",
+               "name": "Dudu Azevedo",
+               "profile_path": "/Ffw4lNbMMfaFdmWo9QQm0PYGtp.jpg",
+               "id": 443366,
+               "order": 5
+            },
+            {
+               "cast_id": 14,
+               "character": "Zeca",
+               "gender": 2,
+               "credit_id": "57fa8dba925141212b00a0b5",
+               "name": "Emílio de Mello",
+               "profile_path": "/kJzulKJHjkdhvSR306uJVsj0QSF.jpg",
+               "id": 1085274,
+               "order": 6
+            },
+            {
+               "cast_id": 13,
+               "character": "Garota de Bauru",
+               "gender": 0,
+               "credit_id": "53a25cab0e0a262282000ad8",
+               "name": "Maria Flor",
+               "profile_path": "/rSiEGFgMfXPoBhxYJDdQKQF4iz6.jpg",
+               "id": 129884,
+               "order": 7
+            },
+            {
+               "cast_id": 23,
+               "character": "Denise Dumont",
+               "gender": 1,
+               "credit_id": "57fdbada9251410b17003d4c",
+               "name": "Débora Falabella",
+               "profile_path": "/j2XiVhNld02mfJEUQeX8rjtHzVC.jpg",
+               "id": 138328,
+               "order": 8
+            },
+            {
+               "cast_id": 15,
+               "character": "Roberto Frejat",
+               "gender": 0,
+               "credit_id": "57fdb92cc3a3681f0b003a98",
+               "name": "Cadu Fávero",
+               "profile_path": "/28CwD4T1QoPo9tAiUOkSPYmfkHH.jpg",
+               "id": 592375,
+               "order": 9
+            },
+            {
+               "cast_id": 16,
+               "character": "Maneco",
+               "gender": 0,
+               "credit_id": "57fdb9469251410b5b003a35",
+               "name": "André Gonçalves",
+               "profile_path": "/vhC8vb0B9s6YoDqJijUuSfcEvRK.jpg",
+               "id": 55828,
+               "order": 10
+            },
+            {
+               "cast_id": 17,
+               "character": "Dé",
+               "gender": 0,
+               "credit_id": "57fdb95ac3a3681e2900380f",
+               "name": "Arlindo Lopes",
+               "profile_path": "/6HINaAVV4xGauzOT8pCdg7mQl6s.jpg",
+               "id": 1693277,
+               "order": 11
+            },
+            {
+               "cast_id": 18,
+               "character": "Maurício",
+               "gender": 0,
+               "credit_id": "57fdb9ebc3a3681f0b003b0d",
+               "name": "André Pfeffer",
+               "profile_path": null,
+               "id": 1693278,
+               "order": 12
+            },
+            {
+               "cast_id": 19,
+               "character": "Serginho",
+               "gender": 0,
+               "credit_id": "57fdba029251410af2003b12",
+               "name": "Eduardo Pires",
+               "profile_path": "/cllWWcvS1tsh5Sn4NzxoUf34ma3.jpg",
+               "id": 1693279,
+               "order": 13
+            },
+            {
+               "cast_id": 20,
+               "character": "Garota da Ponte",
+               "gender": 0,
+               "credit_id": "57fdba48c3a3681931003908",
+               "name": "Fernanda Boechat",
+               "profile_path": "/yFDKoGckw1wqI5zQNFmuUFJXUbZ.jpg",
+               "id": 1693280,
+               "order": 14
+            },
+            {
+               "cast_id": 21,
+               "character": "Tonico",
+               "gender": 0,
+               "credit_id": "57fdba5cc3a3681e29003875",
+               "name": "Pierre Santos",
+               "profile_path": "/yLYUyAghy86nF9EDMlzweCK4u99.jpg",
+               "id": 1282658,
+               "order": 15
+            },
+            {
+               "cast_id": 22,
+               "character": "Bené",
+               "gender": 0,
+               "credit_id": "57fdba969251410b25003aaa",
+               "name": "Victor Hugo",
+               "profile_path": "/6xOEmZ0u4V9JKrIH0eJM1cNGYoY.jpg",
+               "id": 1693281,
+               "order": 16
+            },
+            {
+               "cast_id": 25,
+               "character": "Talita",
+               "gender": 0,
+               "credit_id": "57fdbb059251410af2003baa",
+               "name": "Maria Mariana",
+               "profile_path": "/pH7r5WhjVUbufWIBf5lbxo8BbQw.jpg",
+               "id": 1437119,
+               "order": 17
+            },
+            {
+               "cast_id": 26,
+               "character": "Guitarrista",
+               "gender": 0,
+               "credit_id": "57fdbb23c3a3681de6003b54",
+               "name": "André Moraes",
+               "profile_path": null,
+               "id": 150488,
+               "order": 18
+            },
+            {
+               "cast_id": 24,
+               "character": "",
+               "gender": 0,
+               "credit_id": "57fdbaea9251410699003c27",
+               "name": "Gustavo Berriel",
+               "profile_path": null,
+               "id": 1693282,
+               "order": 19
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "57fdbcce9251410af2003cb0",
+               "name": "Daniel Filho",
+               "profile_path": "/q92xPOOiNzyy6GRQMIkD9Fcn21y.jpg",
+               "id": 8568,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4992c3a36847f81a12cd",
+               "name": "Walter Carvalho",
+               "profile_path": "/y7FAwZ5YBKvCjkNRMTMIksaG97r.jpg",
+               "id": 10038,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4992c3a36847f81a12d3",
+               "name": "Sandra Werneck",
+               "profile_path": "/ydjs4JW4gAKPdKC9fOsFIlc3T5F.jpg",
+               "id": 132375,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4992c3a36847f81a12d9",
+               "name": "Fernando Bonassi",
+               "profile_path": null,
+               "id": 127106,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4992c3a36847f81a12df",
+               "name": "Victor Navas",
+               "profile_path": null,
+               "id": 142816,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57fdbc8bc3a3681931003a3d",
+               "name": "Carlos Eduardo Rodrigues\t",
+               "profile_path": null,
+               "id": 565227,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57fdbcaec3a3681f0b003c94",
+               "name": "Flávio R. Tambellini",
+               "profile_path": null,
+               "id": 1084094,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57fdbd129251410788003cb5",
+               "name": "Cazuza",
+               "profile_path": null,
+               "id": 1316847,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57fdbd339251410b25003c27",
+               "name": "Guto Graça Mello",
+               "profile_path": null,
+               "id": 1693283,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57fdbd65c3a3681de6003ca1",
+               "name": "Walter Carvalho",
+               "profile_path": "/y7FAwZ5YBKvCjkNRMTMIksaG97r.jpg",
+               "id": 10038,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57fdbd88c3a3681de6003cb4",
+               "name": "Sérgio Mekler",
+               "profile_path": null,
+               "id": 55840,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "57fdbdcac3a3681fc2003a2f",
+               "name": "Claudio Amaral Peixoto",
+               "profile_path": null,
+               "id": 1135310,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57fdbdf3c3a3681de6003ce4",
+               "name": "Juliana Mendes",
+               "profile_path": null,
+               "id": 1693284,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Department Head"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57fdbe40c3a3681f0b003dc3",
+               "name": "Ana Chiarini",
+               "profile_path": null,
+               "id": 1148997,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57fdbe5bc3a3681fc2003a93",
+               "name": "Zezé d'Alice",
+               "profile_path": null,
+               "id": 1308839,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57fdbe819251410788003d89",
+               "name": "Fernando Henna",
+               "profile_path": null,
+               "id": 1405966,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57fdbe9ac3a3681fc2003ab1",
+               "name": "Daniel Turini",
+               "profile_path": null,
+               "id": 1420274,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57fdbed2c3a3681de6003d76",
+               "name": "Marcelo Costa",
+               "profile_path": null,
+               "id": 1004906,
+               "department": "Sound",
+               "job": "Boom Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57fdbefec3a3681f47003a84",
+               "name": "Waldir Xavier",
+               "profile_path": null,
+               "id": 1342931,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57fdbf2e9251410900003cfd",
+               "name": "Lula Carvalho",
+               "profile_path": null,
+               "id": 52582,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "57fdbf799251410af2003e3b",
+               "name": "Lúcia Araújo",
+               "profile_path": null,
+               "id": 1693285,
+               "department": "Writing",
+               "job": "Book"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Music",
+            "id": 10402
+         }
+      ],
+      "popularity": 3.859224,
+      "production_countries": [{
+         "iso_3166_1": "BR",
+         "name": "Brazil"
+      }],
+      "id": 59474,
+      "vote_count": 56,
+      "budget": 0,
+      "overview": "Inspired by the moving and brave book \u201cSó as Mães São Felizes\u201d, by Lucinha Araújo, Cazuza's mother, the film covers a little more than 10 years of the singer\u2019s crazy and brief life \u2013 from the beginning of his career in the Circo Voador venue, in 1981, to the huge success and the apotheosis of his shows with the Barão Vermelho band, his solo career, his relations with his parents, friends, lovers and passions, and the courage he had to face his final years, with HIV, until his death, in 1990.",
+      "similar": [
+         2771,
+         11202,
+         112160,
+         858,
+         141,
+         227306,
+         634,
+         5915,
+         242224,
+         323677,
+         258480,
+         43923,
+         437557,
+         297762,
+         2539,
+         294016,
+         27586,
+         11216,
+         1578,
+         12162
+      ],
+      "original_title": "Cazuza - O Tempo Não Pára",
+      "runtime": 98,
+      "poster_path": "/d7ausRHc90YOiUGUKQBD2RW3nx0.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Português",
+            "iso_639_1": "pt"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Lereby Productions",
+            "id": 11446,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Cineluz - Produções Cinematográficas Lda.",
+            "id": 93190,
+            "origin_country": "BR"
+         },
+         {
+            "logo_path": null,
+            "name": "Globo Filmes",
+            "id": 13969,
+            "origin_country": "BR"
+         }
+      ],
+      "release_date": "2004-06-11",
+      "vote_average": 7.1,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Brazil",
+      "color": "Black and White",
+      "budgetCurrency": null,
+      "directors": [
+         "Walter Carvalho",
+         "Sandra Werneck"
+      ],
+      "runtime": 98,
+      "synopsis": null,
+      "writers": [
+         "Lúcia Araújo",
+         "Fernando Bonassi"
+      ],
+      "originalLanguage": "Portuguese",
+      "imdbLink": "http://www.imdb.com/title/tt0318590/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjU3MjQwOTk4MV5BMl5BanBnXkFtZTcwMjk1NTEzMQ@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Daniel de Oliveira, Marieta Severo, Reginaldo Faria | See full cast and crew »"],
+      "reviews": [
+         "If you're not Brazil and have never lived here, you probably don't know Cazuza. But Brazilian people and lucky ones who lived in this countries in the 1980's know this great composer and singer. In 1981 he begun his career as the singer of Barão Vermelho, that soon became one of the most popular Brazilian rock bands. With great heats playing on TV and radio, Cazuza and his band got fans all over the country. In 1985 he decided he wouldn't keep on playing with his mates and kicked out a solo career, that took five years. Cazuza had more success due to his talent and courage to sing everything he wanted. Unfortunately, he also kept on using drugs and with dangerous free sex habits. As a consequence, he got AIDS. Even after the discovery of this terrible disease, he kept on singing and showing no fear of showing the whole country the effects of AIDS. In 1990 he died. This is the story everybody (in Brazil at least) knows. This is what we saw on TV news, magazines and newspapers. The film shows it all in a beautiful, but at the same time strong, way. Daniel Oliveira plays the protagonist in a great way, and physically he really looks like Cazuza. Marieta Severo and Reginaldo Faria, two of the best Brazilian actors, play Cazuza's parents, who never left him alone. Walter Carvalho and Sandra Werneck direct this movie in a remarkably. Cameras are never totally stopped. There's always some kind of movement, as if the cameramen had the cameras on their shoulders all the time. This gives a flavour of movement, that makes some kind of tense atmosphere. My Rate 8/10",
+         "Not being a Cazuza fan, I was remarkably impressed with how good, inspiring, and unforgettable this movie proved to be. Some may be put off by the narrative style, which employs a significant amount of freedom in its composition. We aren't treated to a normal dramatic progression, instead being given specific segments of time covering Cazuza's adventures, relationships, dreams and hardships, as if we were looking at a picture book. This brings a sense of poetry, liveliness and urgency to the picture, even if it may displease moviegoers used to Hollywood film-making. The Cinematography - as the narrative style - is urgent, free-floating, using only hand-held cameras. To put it quite simply, the picture perfectly captures the poetry of being young, of hoping for better days, of yearning to feel alive and connect with people. Daniel de Oliveira's performance is easily one of the best I've seen this decade, and I hope he picks up many awards around the globe with his work - both extremely convincing and captivating. He's one of your great young actors, and I hope to see him in many more pictures. Thankfully, this is a picture that can be enjoyed by any Brazilian, as it is a testimony of a great period of our culture. This film is not only about Cazuza - is about any kid out there with dreams in his heart and the courage to try and go some good in this world. Congratulations to Carvalho, Werneck, Lucinha and co. for creating one of the Best Brazilian films in recent memory. Our idols cannot - and will not - be forgotten.",
+         "How can we know if this was a superficial picture of Cazuza? Could we ever separate the man from the myth? The movie did show him as being a spoiled kid, self destructive and with no boundaries and at the same time, his passion and ability to make poetry out of anything - politics, love, relationships and even his imminent encounter with death. For whoever expected the movie to be a political statement, I understand the disappointment. The movie focused on his legacy (probably what he'd proud of the most): his music. Excellent work from main actor Daniel de Oliveira impersonating Cazuza - especially towards the end, it was amazing, very touching. I liked the way it ended, not falling for an easy soap opera melodrama. I'd recommend it - great movie.",
+         "Cazuza is the name of one of the most incredible singers in Brazil,he begun in the 80s with his band called Barao Vermelho,after the great success of the band he decided to start a solo career,but his future was drastically destroyed by his death in 1991 of AIDS.But actually nothing could stop Cazuza because he still inspire people in Brazil,so in some way he remains alive in all of us. The movie is incredible and a real masterpiece.Daniel de Olivera plays the singer and gives a performance that makes you be astonished by his talent.No one on earth could play Cazuza as Daniel played!The way he speaks,he acts,it's almost creepy!He is Cazuza you are going to be quite impressed! Everything in his story is poetic, his music sometimes in the movie speaks for itself, and the beauty of his musics makes us sad and happy in the same time.Na explosion of feelings is what you feel,marvelous feeling.The time doesn't stop but Cazuza made it stop.And he could do whatever he wanted!Viva Cazuza!",
+         "The \"daddy's boy\" Cazuza was an icon of the Brazilian Popular Song in the 80's with his wonderful lyrics and songs. However, the poet and singer Cazuza does not deserve his shallow biography presented in this movie, actually an apology to drugs and homosexuality. Cazuza is shown as a dysfunctional, drug and booze addicted, homosexual that disrespects basic social rules and terrible and irresponsible son and man. His career is built by chance because he is useless as a man, needs to work and his father and president of phonographic industry Som Livre, João Araújo, gives a job opportunity in his company as a simple employee. His talent is found by his chief Zeca, who convinces João Araújo to release his album. The best moments in this film are the songs, therefore better of listening to the CDs or watching his live concerts released on VHS or DVD. The unknown Daniel de Oliveira has a great performance and his make-up when Cazuza is sick with Aids is very realistic and impressive. I confess that I was completely disappointed with the screenplay of this film. My vote is six. Title (Brazil): \"Cazuza: O Tempo Não Para\" (\"Cazuza: The Time Does not Stop\")",
+         "It was very disappointing because I wanted to know about who was Cazuza, why he was writing those songs and saying how bad was his family, his class and the evil Brazil. All I've discovered was a spoiled child that want to do everything he intend to. There were no repercussion about his real personal life and how he became friend of the Barao Vermelho's members again after their separation and discussions. After all, its pointless to watch it if you have no idea about who is that guy, that Brazilian singer... The last part of the movie should't longer, it was the most dramatic part of his life and that kind of thing works on movies biographies. Maybe his mother didn't want to watch it or reaffirm the disease his is remembered for.",
+         "The impression I had on the first hour of the movie was that it was more like a scrapbook of some memorable events in Cazuza's life rather than a biography. The scenes have no connection, it seems they're only there for you to know what happened. It looks like a story told by a fan who collects news about him. There is no drama, nothing to expect, no plot at all. The last 30 minutes aren't really a change, but it's a more dense part, because of the discovery of the disease that is slowly killing him. The only things that save the movie are the performance of Daniel de Oliveira, not only on stage but also off, and of course the songs and poetry of Cazuza.",
+         "Cazuza was the lead singer of Barao Vermelho, a Brazilian rock n'roll band, back in the early 80s. Their songs were distinguished by the creative work of Frejat, the guitar player. But it was Cazuza's strong, sexual, acid and ironic lyrics and attitude who made of him \"the best poet of his generation\" - according to Caetano Veloso. He followed a solo career during the second half of that decade, and died out of AIDS in 1990, aged 32. The movie covers from his early 20s, the first rehearsals with Barao Vermelho, until his death. The apex of Barao at the first Rock in Rio, and the drama of discovering the disease. Expect a lot of sex, drugs and high quality 80s Brazilian rock n'roll. Daniel Oliveira incorporates Cazuza in a way only seen before in the Jim Morrison/Val Kilmer possession during the shooting of The Doors. An special attention to the role of Lucinha, Cazuza's mother (and writer of the book upon which the movie was based), played here by the all-talented Marietta Severo. Although one can notice some lack of resources in one or other scene - esp.the ones in stage - the story of the bisexual genius in his road to excess is told in the most wholehearted way.",
+         "First I have to state I'm not a fan of Cazuza the singer. I find his songs a little senseless, they're just good to listen to because they're full of rhymes with enjoyable melody. I'm also not a fan of Cazuza himself, in my humble opinion he's not someone to be inspired by. Also, I don't identify myself with him in many aspects, just in some vague thoughts. The main beautiful thing about \"Cazuza: the time doesn't stop\" is the love of his parents. He used to be the kind of son nobody would like to have. He didn't care about studying or working, was on drugs, got aids, had sex with men and wasted much of his parents' money. Nevertheless, his parents still loved and supported him in every decision of his life; they were by his side whenever he needed, even if he didn't deserve to be so well attended. That's one thing that moved me throughout this tearjerker film. Daniel de Oliveira was very good at portraying this guy, he learned to speak just like Cazuza sang, using that Rio accent yet whistle. The rest of the cast is regular and do their job simply as they are. In my opinion, this is one of the best Brazilian's films from the 00's.",
+         "I was very interested in watching Cazuza. His story is well-known by most of the Brazilians that lived during the 80s rock moment. But Cazuza himself was not really explained in the movie. It was based in the book of Lucinha Araujo, Cazuza's mother, and it seems that she tried to convince herself and the others that she was a good mother and he was a good son. If you are a parent, you can take you own conclusion about this. All the self-destructive behavior of Cazuza doesn't fix in this scenario.From where it came from? For his rebellion with the homophobic world? Or it was a consequence of the inexistence of limits or punishments in a high-class Brazilian family? For who knows the story, the movie looks like a poor documentary. If Cazuza is considered the real Brazilian poet of the 80s, he deserved a better explanation."
+      ],
+      "genres": [
+         "Biography",
+         "Music"
+      ],
+      "productionCompanies": [
+         "Cineluz - Produções Cinematográficas Lda.",
+         "Globo Filmes",
+         "Lereby Productions"
+      ],
+      "summaries": [
+         "The \"daddy's boy\" Cazuza is a dysfunctional, drug and booze addicted, homosexual that disrespects basic social rules and terrible and irresponsible son and man. He loves his freedom, his friend and singing with his garage band, Barão Vermelho. His career is built by chance because he needs to work and his father and president of phonographic industry Som Livre gives a job opportunity in his company as a simple employee. His talent is found by his direct chief Zeca, who convinces Cazuza's father to release his album. In the top of his career, he leaves the Barão Vermelho and finds that he has Aids.",
+         "The life and times of Cazuza, Brazilian singer/poet/enfant terrible, from his start with rock group \"Barão Vermelho\", to his death from Aids, in 1990, showing his career, love affairs, and involvement with drugs."
+      ],
+      "budget": 0
+   },
+   "movielensId": 57776,
+   "movielens": {
+      "languages": [
+         "English",
+         "Português"
+      ],
+      "releaseDate": "2004-06-11",
+      "dvdReleaseDate": null,
+      "directors": [
+         "Walter Carvalho",
+         "Sandra Werneck"
+      ],
+      "runtime": 98,
+      "movieId": 57776,
+      "title": "Cazuza: Time Doesn't Stop",
+      "mpaa": null,
+      "actors": [
+         "Daniel de Oliveira",
+         "Marieta Severo",
+         "Reginaldo Faria",
+         "Andréa Beltrão",
+         "Leandra Leal",
+         "Dudu Azevedo",
+         "Emílio de Mello",
+         "Maria Flor",
+         "Débora Falabella",
+         "Cadu Fávero",
+         "André Gonçalves",
+         "Arlindo Lopes",
+         "André Pfeffer",
+         "Eduardo Pires",
+         "Fernanda Boechat",
+         "Pierre Santos",
+         "Victor Hugo",
+         "Maria Mariana",
+         "André Moraes",
+         "Gustavo Berriel"
+      ],
+      "imdbMovieId": "0318590",
+      "originalTitle": "Cazuza - O Tempo Não Pára",
+      "genres": [
+         "Drama",
+         "Music"
+      ],
+      "youtubeTrailerIds": [],
+      "plotSummary": "Inspired by the moving and brave book \u201cSó as Mães São Felizes\u201d, by Lucinha Araújo, Cazuza's mother, the film covers a little more than 10 years of the singer\u2019s crazy and brief life \u2013 from the beginning of his career in the Circo Voador venue, in 1981, to the huge success and the apotheosis of his shows with the Barão Vermelho band, his solo career, his relations with his parents, friends, lovers and passions, and the courage he had to face his final years, with HIV, until his death, in 1990.",
+      "tmdbMovieId": 59474,
+      "avgRating": 3.27778,
+      "releaseYear": "2004",
+      "numRatings": 36,
+      "posterPath": "/d7ausRHc90YOiUGUKQBD2RW3nx0.jpg"
+   }
+}

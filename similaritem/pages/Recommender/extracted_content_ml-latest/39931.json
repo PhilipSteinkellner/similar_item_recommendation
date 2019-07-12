@@ -1,0 +1,601 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "based on novel",
+            "id": 818
+         },
+         {
+            "name": "future",
+            "id": 2964
+         },
+         {
+            "name": "post-apocalyptic",
+            "id": 4458
+         },
+         {
+            "name": "war",
+            "id": 6091
+         },
+         {
+            "name": "cockroach",
+            "id": 7325
+         },
+         {
+            "name": "motorcycle",
+            "id": 14735
+         },
+         {
+            "name": "scorpion",
+            "id": 159245
+         },
+         {
+            "name": "post nuclear",
+            "id": 194713
+         },
+         {
+            "name": "battle for survival",
+            "id": 196367
+         }
+      ],
+      "imdb_id": "tt0075909",
+      "video": false,
+      "title": "Damnation Alley",
+      "recommendations": [
+         16380,
+         43780,
+         40244,
+         12505,
+         35392,
+         150308,
+         44592,
+         43398,
+         32665,
+         32014,
+         23097,
+         35664,
+         25952,
+         302584,
+         43028,
+         831,
+         40160,
+         18783,
+         46875,
+         35001
+      ],
+      "backdrop_path": "/mMO1p1kTPNWWGjZlVj0IOm9wmR6.jpg",
+      "revenue": 8720000,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 10,
+               "character": "Tanner",
+               "gender": 2,
+               "credit_id": "52fe44dcc3a368484e03b1c5",
+               "name": "Jan-Michael Vincent",
+               "profile_path": "/dZcM4xaywRFo4HC9vG23epx7kox.jpg",
+               "id": 83037,
+               "order": 0
+            },
+            {
+               "cast_id": 11,
+               "character": "Maj. Eugene Denton",
+               "gender": 2,
+               "credit_id": "52fe44dcc3a368484e03b1c9",
+               "name": "George Peppard",
+               "profile_path": "/4a0pbvG693RXAzuMgPGLOH0ZqbD.jpg",
+               "id": 1933,
+               "order": 1
+            },
+            {
+               "cast_id": 12,
+               "character": "Janice",
+               "gender": 1,
+               "credit_id": "52fe44dcc3a368484e03b1cd",
+               "name": "Dominique Sanda",
+               "profile_path": "/qNLSPZshmNb5j63iCwiKLd10JPI.jpg",
+               "id": 24590,
+               "order": 2
+            },
+            {
+               "cast_id": 13,
+               "character": "Keegan",
+               "gender": 2,
+               "credit_id": "52fe44dcc3a368484e03b1d1",
+               "name": "Paul Winfield",
+               "profile_path": "/6FuLfJh70aDUxggFuPC2oID5Mjg.jpg",
+               "id": 1818,
+               "order": 3
+            },
+            {
+               "cast_id": 14,
+               "character": "Billy",
+               "gender": 2,
+               "credit_id": "52fe44dcc3a368484e03b1d5",
+               "name": "Jackie Earle Haley",
+               "profile_path": "/qVPNzBEm9xF4YX1SwkXhxgsuqCt.jpg",
+               "id": 17183,
+               "order": 4
+            },
+            {
+               "cast_id": 15,
+               "character": "Lt. Tom Perry",
+               "gender": 2,
+               "credit_id": "52fe44dcc3a368484e03b1d9",
+               "name": "Kip Niven",
+               "profile_path": "/cjQAIRCEPNt8s6cHBZKzCl3SxIN.jpg",
+               "id": 151447,
+               "order": 5
+            },
+            {
+               "cast_id": 16,
+               "character": "Man / Guard",
+               "gender": 2,
+               "credit_id": "52fe44dcc3a368484e03b1dd",
+               "name": "Robert Donner",
+               "profile_path": "/6GXjsXEC5a0BoFwq1pad5OqJ5M9.jpg",
+               "id": 13875,
+               "order": 6
+            },
+            {
+               "cast_id": 17,
+               "character": "Mountain Man #2",
+               "gender": 0,
+               "credit_id": "52fe44dcc3a368484e03b1e1",
+               "name": "Seamon Glass",
+               "profile_path": "/h15I9XfrdcXPlFZHLSaOfmQKh0d.jpg",
+               "id": 153393,
+               "order": 7
+            },
+            {
+               "cast_id": 18,
+               "character": "Technician",
+               "gender": 2,
+               "credit_id": "52fe44dcc3a368484e03b1e5",
+               "name": "Trent Dolan",
+               "profile_path": null,
+               "id": 160387,
+               "order": 8
+            },
+            {
+               "cast_id": 19,
+               "character": "Haskins",
+               "gender": 0,
+               "credit_id": "52fe44dcc3a368484e03b1e9",
+               "name": "Mark L. Taylor",
+               "profile_path": "/uvqfJeuIQEHvbEDJWDZJcTBlzNy.jpg",
+               "id": 78003,
+               "order": 9
+            },
+            {
+               "cast_id": 20,
+               "character": "Colonel",
+               "gender": 0,
+               "credit_id": "52fe44dcc3a368484e03b1ed",
+               "name": "Bob Hackman",
+               "profile_path": null,
+               "id": 152584,
+               "order": 10
+            },
+            {
+               "cast_id": 21,
+               "character": "Burning Man",
+               "gender": 0,
+               "credit_id": "52fe44dcc3a368484e03b1f1",
+               "name": "Erik Cord",
+               "profile_path": null,
+               "id": 91833,
+               "order": 11
+            },
+            {
+               "cast_id": 22,
+               "character": "Air Policeman",
+               "gender": 0,
+               "credit_id": "52fe44dcc3a368484e03b1f5",
+               "name": "Terence Locke",
+               "profile_path": null,
+               "id": 564785,
+               "order": 12
+            },
+            {
+               "cast_id": 23,
+               "character": "Gloria",
+               "gender": 0,
+               "credit_id": "52fe44dcc3a368484e03b1f9",
+               "name": "Marcia Holley",
+               "profile_path": null,
+               "id": 564786,
+               "order": 13
+            },
+            {
+               "cast_id": 24,
+               "character": "Mountain Man",
+               "gender": 2,
+               "credit_id": "52fe44dcc3a368484e03b1fd",
+               "name": "Roger Creed",
+               "profile_path": null,
+               "id": 166335,
+               "order": 14
+            },
+            {
+               "cast_id": 25,
+               "character": "Gen. Landers",
+               "gender": 0,
+               "credit_id": "52fe44dcc3a368484e03b201",
+               "name": "Murray Hamilton",
+               "profile_path": "/zSkAeg5lGbyZWwYZYunl3HR8jHb.jpg",
+               "id": 8608,
+               "order": 15
+            },
+            {
+               "cast_id": 26,
+               "character": "Mountain Man",
+               "gender": 2,
+               "credit_id": "52fe44dcc3a368484e03b205",
+               "name": "James R. Parkes",
+               "profile_path": null,
+               "id": 160122,
+               "order": 16
+            },
+            {
+               "cast_id": 40,
+               "character": "Musician",
+               "gender": 2,
+               "credit_id": "59b244e5c3a3682c6209be17",
+               "name": "Ulf Kjell Gür",
+               "profile_path": "/dlhD9kdI8SGnjHK8JVkkimL9Ezy.jpg",
+               "id": 1608817,
+               "order": 17
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe44dcc3a368484e03b191",
+               "name": "Jack Smight",
+               "profile_path": "/lLJg4SQ6kSvPL32gAvSQpO2RTEC.jpg",
+               "id": 30422,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44dcc3a368484e03b197",
+               "name": "Roger Zelazny",
+               "profile_path": null,
+               "id": 564784,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44dcc3a368484e03b19d",
+               "name": "Alan Sharp",
+               "profile_path": null,
+               "id": 70476,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44dcc3a368484e03b1a3",
+               "name": "Lukas Heller",
+               "profile_path": null,
+               "id": 21600,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44dcc3a368484e03b1a9",
+               "name": "Paul Maslansky",
+               "profile_path": null,
+               "id": 33096,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44dcc3a368484e03b1af",
+               "name": "Jerome M. Zeitman",
+               "profile_path": null,
+               "id": 95127,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44dcc3a368484e03b1b5",
+               "name": "Jerry Goldsmith",
+               "profile_path": "/e6sd10VuwFXkgRFrCTCygbhMq2q.jpg",
+               "id": 1760,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44dcc3a368484e03b1c1",
+               "name": "Frank J. Urioste",
+               "profile_path": null,
+               "id": 7715,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "560eb7cdc3a368682400beed",
+               "name": "Harry Stradling Jr.",
+               "profile_path": null,
+               "id": 14094,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "586a69dc9251414e7d019fcc",
+               "name": "Bobby Roberts",
+               "profile_path": null,
+               "id": 76018,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "586a69ef9251414e7a019629",
+               "name": "Hal Landers",
+               "profile_path": null,
+               "id": 76017,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "586a69fcc3a3680f5c01847d",
+               "name": "Maury M. Cohen",
+               "profile_path": null,
+               "id": 1071812,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "586a6a159251414e7f0198d9",
+               "name": "Jane Feinberg",
+               "profile_path": null,
+               "id": 597,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "586a6a209251414e8a0188be",
+               "name": "Mike Fenton",
+               "profile_path": null,
+               "id": 598,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "586a6a2c9251414e87018f33",
+               "name": "E. Preston Ames",
+               "profile_path": null,
+               "id": 40170,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "586a6a37c3a3680f5801a3d8",
+               "name": "William Cruse",
+               "profile_path": null,
+               "id": 10629,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "586a6a42c3a3680f5101a6ae",
+               "name": "Norman Rockett",
+               "profile_path": null,
+               "id": 1384145,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "586a6a4dc3a3680f54019c5a",
+               "name": "Lon Bentley",
+               "profile_path": null,
+               "id": 164768,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "586a6a59c3a3680f4501b661",
+               "name": "Evelyn Preece",
+               "profile_path": null,
+               "id": 1731421,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "586a6b56c3a3680f4e017ebf",
+               "name": "William Davidson",
+               "profile_path": null,
+               "id": 1627097,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "586a6b689251414e78019780",
+               "name": "Milt Rice",
+               "profile_path": null,
+               "id": 4107,
+               "department": "Crew",
+               "job": "Special Effects"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         }
+      ],
+      "popularity": 3.44459,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 25763,
+      "vote_count": 34,
+      "budget": 17000000,
+      "overview": "A small group of survivors at a military installation who survived World War 3 attempt to drive across the desolate wasteland to where they hope more survivors are living. Hopefully their specially built vehicles will protect them against the freakish weather mutated plant and animal life and other dangers along the way.",
+      "similar": [
+         12244,
+         2048,
+         9659,
+         198663,
+         101299,
+         76341,
+         131631,
+         157350,
+         294254,
+         81,
+         5491,
+         841,
+         5925,
+         9693,
+         17431,
+         87101,
+         110415,
+         49049,
+         72190,
+         119450
+      ],
+      "original_title": "Damnation Alley",
+      "runtime": 91,
+      "poster_path": "/iHlGDgaw8jJCs5CUQ9oHuHdjqoH.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Español",
+            "iso_639_1": "es"
+         }
+      ],
+      "production_companies": [{
+         "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+         "name": "20th Century Fox",
+         "id": 25,
+         "origin_country": "US"
+      }],
+      "release_date": "1977-09-10",
+      "vote_average": 5.1,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Jack Smight"],
+      "runtime": 91,
+      "synopsis": null,
+      "writers": [
+         "Roger Zelazny",
+         "Alan Sharp"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0075909/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMzI2NTM3NjgwOF5BMl5BanBnXkFtZTcwNDY5ODM4OA@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Jan-Michael Vincent, George Peppard, Dominique Sanda | See full cast and crew »"],
+      "reviews": [
+         "Wowza! Now this movie aint great (far from it) but it aint horrid either. Just yer basic post nuclear sci-fi apocalypse survival flick. Survivors get from point A to point B with a bunch of trouble in between. The trouble actually doesn't add up to much (look for roaches!) and the acting and storyline are at a minimum....BUT!!!!!! The following things kicked ass!: Beginning!--->creepy slow suspense as the world faces nuclear destruction! Score!--->Great music sets the tone for the scenes (saving many) Sky FX!--->tripped out! The skies are the best looking I've seen in any apocalyptic movie...way cool! The SUV!!--->They actually built this thing! it works and works great! No scale model here, although I'm sure its looks are best viewed on the outside, but its done well, not cheap, handles the road great, and if i could find one, I'd buy it (look carefully at wheel design....amazing!) Dats it, Dats all. B-movie sci-fi fun. No brainer..great for 2 for 1 rental, follow it with something that will get brain workin again.",
+         "The beginning of this film really shakes you up. The careful, measured tones coming from the missile base loudspeaker announcing the progress of \"the war\" belie the fact that at that moment scores of millions of people are being atomized as the bombs fall. However, the aftermath seems to be typical post-nuclear mis-adventure, with the survivors from the base starting out on a cross-country road trip. The \"Landmaster\" vehicles add a jazzy and technie touch to the otherwise predictable trip. Wild weather, crazed hermits, and killer cockroaches require a little suspension of disbelief, but still keep the pace going. Fans of \"The A-Team\" will like seeing George Peppard in a lead role, as the by-the-book superior officer who tries to keep the non-conformist junior officer (Vincent) in line. Dominique Sanda adds some nice eye candy as the token female member of the intrepid band of pilgrims, rescued by Peppard and company from the ruins of Las Vegas. Overall, a pretty good film if you are looking for an evening of distraction and non-reality, if you can get past the opening sequence.",
+         "So, you've managed to survive world devastation by being inside a missile silo (after you and your fellow soldiers have reacted so stoically to the sight of incoming missiles on the screen that it might as well have been a Russian pizza delivery), but then you discover that all it takes to wipe out your giant military bunker is a sleepy soldier dropping a cigar onto a Playboy magazine (a \"hot\" centerfold being an aiding factor in the flames). Aw, hell, Tanner, now you gotta hit the road. Of course, it's only been a couple of years after those radioactive nukes were dropped and the sky looks freakishly dangerous (as in VERY RADIOACTIVE), but thankfully with a lot of sunscreen and a convenient monster truck at the ready, you can head off confidently in your pursuit of a taped signal coming from Albany, New York, and hopefully there you'll find a home able to withstand the lethal force of a burning porno magazine. The leader of the expedition looks suspiciously like George Peppard, but his southern accent makes you wonder. Along for the ride is Paul Winfield, to give the black audience their token, always with the caveat that the black supporting actor in horror/sci-fi films will NOT get the girl and will NOT survive. The girl will be played by Dominique Sanda, and she, along with Jan Michael Vincent and Peppard, will provide enough wooden acting that this film will more resemble a mission of hauling lumber rather than people to Albany. Especially after the lively and un-wooden Winfield misses the rest of the ride in order to provide nutrition to an army of \"killer cockroaches\" (many of whom are suspiciously riding on conveyor belts--or perhaps that form of cockroach mass transit is a post-nuclear evolutionary development.... okay, just cheap effects). But what trip through the lonely desert is complete without some \"human cockroaches\" who are in the mood to devour Miss Sanda. Get out yer banjo's, Sonny-Jim, it's the Mountain Man Raping Hour. Oops, forgot to mention the ugly kid (Jackie Earle Haley) that got picked up by our heroes along the way. He knows how to throw a rock and helps save the day (and Miss Sanda's virtue). Unfortunately, the kid only throws rocks at the actors and not at the director or writers, who are more deserving (of really big rocks, I might add). I assume original author Roger Zelazny would like to toss a few himself for the stealing of his title (well, they certainly DIDN'T steal his book... but then Zelazny's novel had the nerve not to provide the producers with Killer Cockroaches or Truck-Stop Rapists). Aw heck, even with those two odd set-piece detours, this trip is resembling nothing more than a weekend drive from Los Angeles to Las Vegas (with an acid-trip sky, so perhaps it's more like Hunter Thompson's weekend drive). Why not finish it off with a big storm scene and throw a toy version of that monster truck into the studio tank. Well, it's been a long trip and Peppard has mapped it out (calling his route 'Damnation Alley' hence the cool title) and all have accepted it, even though Peppard hasn't been out of that bunker since the holocaust but somehow knows this carefully defined route (and is unperturbed by the notion that the gasoline they'll need during the trip would have turned to varnish after sitting for years). At the end of it will be Albany and people and a big banner that reads YOU MISSED US, RUSSKIES! Wouldn't you be shocked to discover that you were sitting in that bunker all that time when you could've been in Albany where not only is there no devastation, but time has gone backwards and the city now resembles the land of Andy Hardy or Leave It To Beaver? Surprisingly, you also discover this is actually a 20th Century Fox film, instead of the usual cheesy AIP/New World Roger Corman film-slop that it resembles. And Fox thought THIS was the big sci-fi film on its slate for 1977. Woe to those who saw this when it opened a few months after Star Wars (myself sadly included). But now it's cheesy relic that is only a reminder of what NOT to do, sci-fi filmwise. Still, there is some accidental twistedness to this saga, especially when you first see Vincent roaring through the dunes on his motorbike with a passenger strapped to him. We see at one point it's a real woman, but Vincent tosses her off to escape from those process shot scorpions (the filmmakers \"process\" being state-of-the-art....back in 1910) and we find out it was a mannequin (can you say \"goof\"?). Then later, Vincent does a bike stunt with Sanda aboard and skids to a stop, and we notice that the stunt rider has a female mannequin for a passenger, not a stunt double. Strangely, this mannequin gives one of the better performances. And sadly, in the days before straight-to-video sequels, we never got to see 'Damnation Alley 2: Tanner's European Vacation.'",
+         "This notoriously hard to get (at least legitimately) movie follows the travails of five nuke apocalypse survivors in the late 1970s. Their task is to drive their armored personnel vehicle cum Winnabago from Bakersfield CA to Albany NY. On the way they stop off in Vegas, Salt Lake City and Detriot bumping into maniac mutant cockroaches and some radioactive hillbillies along the way. 99% of the time the sky is a swirling orangish red that transfers its Gatorade hues to most sequences in this movie. The locations are all dust, sand and rock... this is after all Damnation Alley and the Earth has been tilted off its axis. An absolute trash B movie that I'm sure many of those associated with would rather forget, it is nonetheless hugely compelling. After viewing you can appreciate the cult classic status of this film, yet to not be entirely sure why that is so.",
+         "Based on the post-apocalyptic novel \"Damnation Alley\" by Roger Zelazny, the film version shares almost nothing with the book other than the title. In the film, a band of World War III survivors from the 123rd Strategic Missile Wing in the California desert set out across a devastated America in an armored, 12-wheeled \"Landmaster\" vehicle in search of a faint radio signal from Albany, New York. Along the way, they encounter freak storms, ragged survivors, and yes, those infamous \"killer cockroaches.\" \"Damnation Alley\" definitely has its strong points, most notably the first 20 minutes, which features perhaps one of the most chilling depictions of the start of World War III , as the crew of the 123rd SMW watches helplessly as the war begins and ends in a matter of minutes before their eyes. On the down side, the film also has a wealth of weak points, most of which are after the survivors begin their journey. Inane dialog, bizzare laser effects, and plot inconsistencies abound, as do wooden performances by George Peppard and Jan-Michael Vincent. Paul Winfield is the only standout in the film, and he is offed by the infamous \"killer cockroaches\" in a scene that leads to the best line of the film: \"Tanner, this is Denton... This whole town is infested with killer cockroaches!!!\" It seems as if many scenes in the film that would have helped it play better may have been left on the cutting room floor (and in fact, publicity stills from the film do show scenes not included in the final release), and the inclusion of these scenes may have turned this mediocre film into something better. Good idea, but poor execution.",
+         "This is a really fun movie if you like post-atomic flicks! Or any Jan Michael Vincent flick, for that matter. The effects are sometimes cheesy, but overall the atmosphere and film-work on this are pretty decent! It's also fun to see Jan Michael 'AIRWOLF' with George Peppard \"A TEAM\" together. They make a good pair! The 'bug' scene is very fun- and includes some great Jan Michael motorcycle wheelies! The tornado scene is also cool. This movie definitely takes you to a different world, and the strange sky color throughout sort of makes everything seem - well- post atomic! It's a clever movie, not too violent, but it definitely is worth the buy! If you are a Jan Michael fan, this would be a MUST have as he looks fantastic as usual.",
+         "Killer cockroaches, Jan Michael Vincent, Paul Winfield, George Peppard, giant scorpions, ultimate SUV's, inbred hillbilly types and dusty old Las Vegas where the slots still work...all combine to make a fun little, albeit cheesy, flick. As a kid this movie was a fun Saturday matinee movie and to this day, still a fun Saturday Matinee movie...grab a big bucket of popcorn, turn your brain off and have some cheesy fun...",
+         "***** minor spoilers ***** Without doubt the best scene in DAMNATION ALLEY is the one set in the control room as the airforce men stand in stunned silence as the major cities of the USA are nuked . I don`t think as some critics have said that this scene is bland , it`s because the people in the control room are shocked that world war 3 has broken out and realise that civilisation has ended, it`s a very understated and haunting scene. Alas however as soon as the exposition subtitles come up ( And very purple prose they are too . They match the colour of the sky ) the film quickly falls apart . Two of the characters have now left the airforce which doesn`t strike me as being logical . After a major event , and they don`t come much more major than global thermonuclear conflict I`d have thought , wouldn`t martial law be introduced ? If so would servicemen be allowed to leave the forces when they felt like it ? And aren`t any men on the base related to anyone ? This really stuck in my mind that no one ever mentions loved ones who must have been wiped out during the war . Maybe they were married to the guests on THE JERRY SPRINGER SHOW ? If so I guess nuclear holocaust does have its plus points The film then turns into an epic quest adventure but if you`re expecting LORD OF THE RINGS don`t hold your breathe because it all becomes both silly and boring B movie stuff with the only point of interest being the line about killer cockroaches which made me laugh out loud . And I felt cheated by the upbeat happy ending . Strangely enough if you look up the resumes of the two screenwriters you`ll find they have a very good track record of writing intelligent involving scripts so what went wrong here ? One last point . Watch the scene where Jan Michael Vincent is riding about the desert evading the crap superimposed mutant scorpians . He`s supposedly driving around with a mannequin on the back of his motorbike but if you look closely just before he throws it off you can quite clearly see it`s an actress/ stuntwomen of latino/native American ethnicity",
+         "Damnation Alley is set in a post apocalyptic America in world war three a band of survivors led by air-force major dent-on George Peppard following an accident at their base travel in style in a land-master which essentially is a deluxe camper van which is capable of traveling over rough terrain it has to be seen to be believed! i one can see where George A Romero got his 'Land of the dead inspiration! is one of those films that typically grows on you, i happen to enjoy it what's not to like? for starters the casting is excellent you have George Peppard before he entered further stardom with the A-team, complete with a southern accent( just wait till he utters the immortal line 'the town is full of Killa cockroaches! Jan Michael Vincent before he became famous with air-wolf the wisecracking Token black guy Paul Winfield, who suffers a fate worse than death when runs afoul of 'said Killa cockroaches' French actress Dominque Sanda as a Vegas show girl along for the ride and a Pre -breaking away Jackie Earle Haley as a waif who is adept at throwing rocks at disgruntled hillbillies! it's an enjoyable romp which is aided invaluably by Jerry Goldsmith's music score. the major downside is 'Damnation Alley' was shot in anamorphic widescreen unfortunately it remains to be seen whether fox decide to release this and they should. for the time being we'll have to make do with the horrendous panned and scanned copies.",
+         "I enjoy this every time I watch it. Science Fiction with some very good and some mediocre visual effects. The cast does a good job. I liked the vehicle the \"Landmaster.\" Jack Earle Haley, the kid in this movie is currently in a series on television, and it's pretty good. Most of the movie takes place as the people go from one place to another in the Landmaster, and the people and things they meet. Jan Michael Vincent and Haley get some motorcycle riding in. This was out of print for some while, also the newest DVD of this movie is slightly different than the one I originally saw. It is well worth the price of a rental, check it out and see what you think."
+      ],
+      "genres": ["Sci-Fi"],
+      "productionCompanies": ["Twentieth Century Fox Film Corporation"],
+      "summaries": [
+         "A small group of survivors at a military installation who survived World War 3 attempt to drive across the desolate wasteland to where they hope more survivors are living. Hopefully their specially built vehicles will protect them against the freakish weather mutated plant and animal life and other dangers along the way.",
+         "In the aftermath of a nuclear holocaust a group of survivors, mostly US Air Force personnel, travel from the western US to Albany, New York from where a radio broadcast has been received. Led by a no nonsense Major, Eugene Denton, they travel in specialized vehicles built specifically for survival in harsh conditions. Along the way, they are joined by an attractive young woman when they stop in Las Vegas, are joined by a young boy when they meet desperate survivors in the desert, must face hoards of killer cockroaches and survive a major flood in Detroit.",
+         "In an post-apocalyptic world, a group of survivors travel and find other settlements in huge custom designed all terrain vehicles."
+      ],
+      "budget": 17000000
+   },
+   "movielensId": 39931,
+   "movielens": {
+      "languages": [
+         "Español",
+         "English"
+      ],
+      "releaseDate": "1977-09-10",
+      "dvdReleaseDate": "2011-07-12",
+      "directors": ["Jack Smight"],
+      "runtime": 91,
+      "movieId": 39931,
+      "title": "Damnation Alley",
+      "mpaa": "PG",
+      "actors": [
+         "Jan-Michael Vincent",
+         "George Peppard",
+         "Dominique Sanda",
+         "Paul Winfield",
+         "Jackie Earle Haley",
+         "Kip Niven",
+         "Robert Donner",
+         "Seamon Glass",
+         "Trent Dolan",
+         "Mark L. Taylor",
+         "Bob Hackman",
+         "Erik Cord",
+         "Terence Locke",
+         "Marcia Holley",
+         "Roger Creed",
+         "Murray Hamilton",
+         "James R. Parkes",
+         "Ulf Kjell Gür"
+      ],
+      "imdbMovieId": "0075909",
+      "originalTitle": "Damnation Alley",
+      "genres": [
+         "Action",
+         "Adventure",
+         "Science Fiction"
+      ],
+      "youtubeTrailerIds": ["wVe7p5N62ug"],
+      "plotSummary": "A small group of survivors at a military installation who survived World War 3 attempt to drive across the desolate wasteland to where they hope more survivors are living. Hopefully their specially built vehicles will protect them against the freakish weather mutated plant and animal life and other dangers along the way.",
+      "tmdbMovieId": 25763,
+      "avgRating": 3.09259,
+      "releaseYear": "1977",
+      "numRatings": 27,
+      "posterPath": "/iHlGDgaw8jJCs5CUQ9oHuHdjqoH.jpg"
+   }
+}

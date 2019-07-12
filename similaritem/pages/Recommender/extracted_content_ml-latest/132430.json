@@ -1,0 +1,473 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "san francisco",
+            "id": 582
+         },
+         {
+            "name": "japanese",
+            "id": 907
+         },
+         {
+            "name": "extramarital affair",
+            "id": 34094
+         },
+         {
+            "name": "neo-noir",
+            "id": 207268
+         }
+      ],
+      "imdb_id": "tt2287170",
+      "video": false,
+      "title": "Man from Reno",
+      "recommendations": [
+         114994,
+         37640,
+         36335,
+         28666,
+         114285,
+         25532
+      ],
+      "backdrop_path": "/i15A89bbBzZ0GeybxvsvK9B9s6.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 0,
+               "character": "Aki",
+               "gender": 1,
+               "credit_id": "5385e1d80e0a2614440016c5",
+               "name": "Ayako Fujitani",
+               "profile_path": "/cF8inx4ZwQ3HTH7aULcS8jvBV2v.jpg",
+               "id": 84029,
+               "order": 1
+            },
+            {
+               "cast_id": 1,
+               "character": "Paul Del Moral",
+               "gender": 1,
+               "credit_id": "5385e1e00e0a2614440016c8",
+               "name": "Pepe Serna",
+               "profile_path": "/hz2T6EDJt0uRMIqdiiOZe2Tv3bh.jpg",
+               "id": 1169,
+               "order": 2
+            },
+            {
+               "cast_id": 2,
+               "character": "Akira",
+               "gender": 2,
+               "credit_id": "5385e1eb0e0a26145000169a",
+               "name": "Kazuki Kitamura",
+               "profile_path": "/2DefK5vG0JquPJ1UdcckaPRcy96.jpg",
+               "id": 2542,
+               "order": 3
+            },
+            {
+               "cast_id": 3,
+               "character": "Hitoshi",
+               "gender": 0,
+               "credit_id": "5385e1ff0e0a2614440016cb",
+               "name": "Hiroshi Watanabe",
+               "profile_path": "/dYquBWBSq6urKeEmvFo9T4e0Kp0.jpg",
+               "id": 33519,
+               "order": 4
+            },
+            {
+               "cast_id": 4,
+               "character": "Shinsuke",
+               "gender": 0,
+               "credit_id": "5385e20c0e0a2614470016bf",
+               "name": "Tetsuo Kuramochi",
+               "profile_path": null,
+               "id": 1203491,
+               "order": 5
+            },
+            {
+               "cast_id": 5,
+               "character": "Teresa Del Moral",
+               "gender": 0,
+               "credit_id": "5385e2140e0a26145000169e",
+               "name": "Elisha Skorman",
+               "profile_path": "/AunoeXJ5mryDXTGgC6simpzlc7a.jpg",
+               "id": 1028098,
+               "order": 6
+            },
+            {
+               "cast_id": 6,
+               "character": "Tatsuji",
+               "gender": 0,
+               "credit_id": "5385e2240e0a261441001712",
+               "name": "Masami Kosaka",
+               "profile_path": "/zPEm2HvmZ9gPbAwTA8zfieW5k6a.jpg",
+               "id": 97552,
+               "order": 7
+            },
+            {
+               "cast_id": 7,
+               "character": "Kageyama",
+               "gender": 2,
+               "credit_id": "5385e22e0e0a261441001715",
+               "name": "Rome Kanda",
+               "profile_path": "/lrsUgdU1r9q9OQwIwTa7eaqneDr.jpg",
+               "id": 52715,
+               "order": 8
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "5385e24b0e0a26144a001677",
+               "name": "Dave Boyle",
+               "profile_path": null,
+               "id": 129768,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5385e2590e0a2614470016c3",
+               "name": "Dave Boyle",
+               "profile_path": null,
+               "id": 129768,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5385e2680e0a26144a00167a",
+               "name": "Joel Clark",
+               "profile_path": null,
+               "id": 1169453,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5385e2730e0a26144a00167e",
+               "name": "Michael Lerman",
+               "profile_path": null,
+               "id": 1325243,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53a463e00e0a2667d5001868",
+               "name": "Nelson Cheng",
+               "profile_path": null,
+               "id": 1080866,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53a463f10e0a2667d9001842",
+               "name": "Tarô Gotô",
+               "profile_path": null,
+               "id": 1332320,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53a463ff0e0a2667d0001794",
+               "name": "Mye Hoang",
+               "profile_path": null,
+               "id": 1332321,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53a464160e0a2667bf001810",
+               "name": "Ben Lyon",
+               "profile_path": null,
+               "id": 1332322,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53a464370e0a2667bf001816",
+               "name": "Ko Mori",
+               "profile_path": null,
+               "id": 1332323,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53a464470e0a2667d900184b",
+               "name": "Shôhei Sano",
+               "profile_path": null,
+               "id": 1332324,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53a464530e0a2667c9001829",
+               "name": "Emily Ting",
+               "profile_path": "/lcMmFi6zWLRAwepTASk7AiauLmX.jpg",
+               "id": 1332325,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53a4645d0e0a2667cd0018f3",
+               "name": "Alex Verba",
+               "profile_path": null,
+               "id": 1332326,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53a464890e0a2667bf00181d",
+               "name": "Mye Hoang",
+               "profile_path": null,
+               "id": 1332321,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53a464980e0a2667d9001858",
+               "name": "Satoshi Mashida",
+               "profile_path": null,
+               "id": 1332328,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53a464a80e0a2667d900185d",
+               "name": "Katy Porter",
+               "profile_path": null,
+               "id": 1332329,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53a464b40e0a2667c60018f7",
+               "name": "Ciara Butler",
+               "profile_path": null,
+               "id": 1332330,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53a464c10e0a2667d9001866",
+               "name": "D.J. Theriot",
+               "profile_path": null,
+               "id": 1332331,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53a464cc0e0a2667cd001906",
+               "name": "Irene Chan",
+               "profile_path": null,
+               "id": 1332332,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5481c0bac3a3684afd0018cd",
+               "name": "Richard Wong",
+               "profile_path": null,
+               "id": 956491,
+               "department": "Camera",
+               "job": "Director of Photography"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Mystery",
+            "id": 9648
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Crime",
+            "id": 80
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 1.457985,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 272418,
+      "vote_count": 17,
+      "budget": 0,
+      "overview": "A stranger in the increasingly strange city of San Francisco, Japanese crime novelist Aki is unsure of precisely what role she has to play in a real-life murder mystery involving ambiguous MacGuffins and amorphous identities. Unfolding in lonely places such as bookshops and hotel bars, Dave Boyle's moody thriller uncovers exhilarating new takes on genre conventions. Consequently, it's an alluring l'homme fatal who supplies Aki with the breadcrumb trail of clues that entices her into a labyrinthine plot of sinister dealings. In turn, the aging sheriff (veteran character actor Pepe Serna, fantastic in a rare leading role), who should rightfully be riding to her rescue, proves to be equally out of his depth. The game is afoot, the chase is exhilarating and the stakes are perilously high in this inspired neo-noir.",
+      "similar": [
+         4823,
+         21484,
+         4588,
+         2149,
+         1586,
+         1949,
+         402,
+         101,
+         180,
+         949,
+         4771,
+         189,
+         320,
+         14412,
+         2251,
+         27066,
+         283227,
+         59967,
+         244772,
+         28468
+      ],
+      "original_title": "Man from Reno",
+      "runtime": 111,
+      "poster_path": "/Asx0wgW7uYepnu5eHgHySbn0eQg.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "日本語",
+            "iso_639_1": "ja"
+         }
+      ],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "Eleven Arts",
+         "id": 24637,
+         "origin_country": ""
+      }],
+      "release_date": "2015-03-27",
+      "vote_average": 6.1,
+      "belongs_to_collection": null,
+      "tagline": "The greatest mystery she's ever written. And it could be her last.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Dave Boyle"],
+      "runtime": 111,
+      "synopsis": null,
+      "writers": [
+         "Dave Boyle",
+         "Joel Clark"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt2287170/",
+      "coverLink": "https://ia.media-imdb.com/images/M/MV5BMjE5NDA2NDg1N15BMl5BanBnXkFtZTgwNjM1NDQ1MzE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "actors": [
+         "Ayako Fujitani",
+         "Pepe Serna",
+         "Kazuki Kitamura"
+      ],
+      "reviews": [
+         "Director Dave Boyle is largely known for two things: character-driven comedies and an interest in (and understanding of) Japanese culture. While work such as \"Big Dreams Little Tokyo\" and \"White on Rice\" used the former to good effect, his latest film \"Man From Reno\" capitalizes on the latter in the context of a modern-day noir. In two separate narratives that inform one another, veteran character actor Pepe Serna and Japanese actors Auako Fujitani and Kazuki Kitamura all give career-best performances in parts that afford them time and space to do more than what's usually asked of them. Serna grounds his small-town sheriff with a matter-of-factness and dedication that hints at a great understanding of the character; Fujitani crackles with intellect as a mystery novelist a little too eager to live out an adventure similar to those about which she writes, and Kazuki Kitamura is finally given a role that acknowledges and maximizes his mischievous charm. Set and shot in the Bay Area of California, \"Man From Reno\" is a clever, noirish mystery that plays as part procedural, part character drama. Director Dave Boyle takes a major step out of his comfort zone with the film and the payoff is immediate. If you're a fan of snappy, believable dialogue and plot twists, this one's for you.",
+         "An expertly crafted throwback to film noir with the unique twist of being dual language. I was fortunate enough to see this during the LA Film Fest and immensely enjoyed following the twists and turns of the story. It begins with an enigmatic man and separately, a crime fiction novelist that seemingly have nothing to do with each other and only deepen into other mysteries as the film progresses. Hidden secrets about the characters come to light and slowly the two stories begin to interweave with each other. Well written, directed and acted it was definitely a stand out on the film festival circuit and the location of San Francisco serves as another character within the film.",
+         "Ever see at these film festivals these badge wearers with the lanyards, the premium seating, eyes bugged-eyed from all the darkness, the concentration? How could someone see that many movies in so concentrated a time? And why? Here's your answer, one of those utterly joyous discoveries deep in the festival catalog that makes everything - the expense, taking off from work for a week, the fatigue - completely worth it. Brighter movie minds than mine can comment on things like the movie antecedents at work here (there are a ton!), to how this movie compares with Dave Boyle's earlier efforts, etc. What I can relate is that coast-to-coast smile that came over me as the movie found its gear (early) and then just held for an hour and a half as it propelled forward with one crackling and comedic plot twist after another. Standout and surprisingly deep performances from Auoko Fujitani and Pepe Serna (so, so good to see him in a role where he gets the time and physical space to really round out his character), the whole cross- cultural noir thing, and these gorgeous wanders around old San Francisco. I've seen some great films here at the Philadelphia Film Festival thus far, but at the mid-way point this one is shaping up as the clear take-away memory. Why would someone want to see four films in a day in pursuit of that hard-to-convey sensation of those beautiful and magical connections between ideas, storyline, casting and portrayals? This is why. Here's hoping this charming and well-built movie finds the larger audience it so richly deserves.",
+         "Man from Reno was a surprising delight! I'm not usually a lover of mystery movies or film noir, but Man from Reno was both serious and whimsical. I know that I like a movie if I keep thinking about it afterward, and Man from Reno gave me lots to think about: the beautiful cinematography, the intricate plot itself, and the characters. I thought that one of the strongest points of the film was the character development, as well as the actors' portrayals. Man from Reno does a lot in one film by including English and Japanese dialogue, as well as an elaborate story; however, I was left fulfilled and didn't feel like the film tried to take on too much. This movie is a great blend of fun and mystery and I would recommend it to any of my friends or family.",
+         "\"Man from Reno\" is Indie Director's Dave Boyle's fifth feature, a neo-noir featuring two inter-connected stories, one in English and the other in Japanese. The story begins with small-town sheriff Paul Del Moral (expertly played by Pepe Serna), in fictional San Marco County, north of San Francisco. While driving one night in the fog, Del Moral runs into a man who turns out to be a Japanese national, later disappearing from the hospital, before the sheriff can interview him. Along with his daughter (who's also an officer in the sheriff's department) Del Moral attempts to learn the identity of the man who has disappeared. Del Moral's investigations eventually leads him to Aki Akahori (Ayako Fujitani), a mystery writer who's famous in Japan for her Inspector Takabe series. Aki has checked herself into the Majestic Hotel in San Francisco but is intentionally no longer checking in with her publicist who reports to the press back in Japan that she's a missing person. Meanwhile Aki falls for a handsome stranger staying at the hotel, Akira Suzuki (Kazuki Kitamura), who also ends up disappearing. There's a McGuffin involved here, a set of endangered turtles, whom a bunch of bad guys are trying to get their hands on. Sheri Linden writing in \"The Hollywood Reporter\" notes problems with the \"Man from Reno\" second act: \"Beyond awkward shifts in tone and emphasis, the movie goes lax for a stretch in the midsection, bogged down in scene after scene of crime-solving revelations in the form of explanatory conversations.\" There are just too many characters and events that oversaturate the narrative, violating the cardinal rule of screen writing: \"show don't tell.\" Nonetheless, \"Man From Reno\" is the type of film that one should watch twice. Since the bulk of the film is in Japanese, it's difficult following who is who and exactly what's happening in terms of the plot. The cinematography is by veteran Richard Wong who makes this low budget project appear as if it's a high budget studio film. The \"Man From Reno\" denouement strikes me having roots in neo-noir\u2014particularly the 70s classic, \"Chinatown.\" Both feature villains who \"get away with it\" but somehow \"Reno's\" ending is not as special or striking as \"Chinatown.\" \"Man From Reno\" is a smart looking feature which features interesting characters and plot shifts, that perhaps needed a bit more thought, shaping and paring, particularly in the second act.",
+         "Just finished watching \"Man From Reno.\" I first learned about the \"Man From Reno\" from Kickstarter when I choose to become a supporter of the movie back in August 2013. Director/Writer Dave Boyle promised supporters a gripping film noir movie about a Japanese crime writer and a small town sheriff whose paths crossed when they are independently, but unknowingly investigating two strange disapperances miles apart from each other. Aki Akahori is a highly successful mystery writer in Japan who skips out on her latest publicity tour for her newest novel because she feels like a fraud. Aki flees to San Francisco where she vists some of her old friends, where hints of her past are revealed. Her disapperance is causing a media sensation back in Japan, and is boosting sales of all her novels. Aki does contemplate committing suicide by slitting her wrists in the bathtub; but fate intervenes. Meanwhile Sheriff Paul is trying to locate the whereabouts of \"The Running Man\" - the man he accidentally hit with his car on a foggy night and who later fled from the hospital after stealing a change of clothes. Aki meanwhile meets a handsome stranger and has a one-night affair with him. He disappears the next morning, leaving behind only a suitcase with clothes and a head of lettuce. Aki tries her best to track him down Aki's and Paul's paths cross when both realize that they are looking for the same man and Paul tracks her down to her hotel. Dave Boyle has filmed a love letter to the gritty film noir movies of the 1930s and 1940s with \"Man From Reno.\" \"Man From Reno\" is an intense and absorbing movie that has unexpected twists and turns; with a payoff that is chilling when you realize how easy it would be easy to commit the \"real\" crime. \"Man From Reno\" is not, sadly available on DVD yet - I got my DVD in advance because I was a Kickstarter supporter of the movie. If you are a lover of film noir, I STRONGLY urge you to see \"Man From Reno\" on the big screen if it plays in your area. STRONGLY AND HIGHLY RECOMMENDED! FIVE STARS!",
+         "Man from Reno was my first foray into the films of Dave Boyle, and from what I hear, it is quite different from what he has previously made. But if any of his other films do resemble this one, I will definitely make the effort to seek them out. Man from Reno felt at once like a throwback to great 1940s noir mysteries like The Big Sleep, while also being remarkably relevant in 2015. The opening scene - driving through fog so thick you can't see three feet in front of you - sets the tone for the rest of the movie; the plot twists and turns so much it's nearly impossible to keep up with all the new information, but it still manages to stay coherent enough that you stay on the edge of your seat, trying to grasp whatever details may stick. And through all this, a set of richly developed characters connect with you, keeping you invested in their story, even if you may not fully understand it. I left turning over the details of the movie in my head and will continue to do so for some time - hopefully a second viewing will reveal much of what I missed the first time around!",
+         "Sometimes, in order to see a good story that breaks the formula, you just have to go Indie, and these guys deserve support and they spend that extra once of energy to get it the way it should be, and not a Hollywood by number cliché film. Dave Boyle again proves he is the King of Indie film-making with a continuous run of great films. He has retained his quirky sense of humor and wrapped it into a mystery story that .. well had me guessing. I won't even suggest a spoiler here as it's worth looking up if it's coming to a theater near you, or checking it out on Netflix or whatever Service you have available to you. Props to Shiori Ideta for her stone cold delivery of my favourite line in the film, selections of credit music and a great cast that includes some fantastic Japanese actors and a script that kept me guessing. Well done to Dave and the team at Tiger. Looking forward to seeing more films in the future, you've won a fan in Australia and will continue my support for your future endeavors. Ivan Wheelwright Adelaide Australia",
+         "My wife being from Reno the movie title caught my eye. I had absolutely no clue what it was going to be about. I didn't read any reviews before watching it, just saw it was a mystery/crime and that's the kind of movies I like so I gave it a shot. I didn't regret it. It's a good movie but you for sure have to stay alert every second because you might miss something because of the many twists. I might even have to watch it a second time to get more answers. The mix of Japanese and English worked very well. To me the two stars of the movie are Ayako Fujitani and Pepe Serna. Very good performances both of them. Surely worth a watch or even two to get everything.",
+         "A small-town sheriff accidentally knocks down a man late at night on an isolated road. A Japanese crime novelist has a one night stand with a mysterious man who suddenly disappears. The two stories seem to be connected. Man from Reno is a San Francisco set neo-noir mystery. It is most distinctive for being an American/Japanese hybrid. This cross-cultural aspect probably contributes to this being a somewhat unpredictable film with genuinely unexpected moments. This, of course, is a very good thing in a mystery/detective movie. The story slowly reveals itself and contains several strange details which all eventually dovetail together. It is quite a complex plot though and its bilingual nature only adds to the complexity, so I feel this is a film in which a second viewing would add a lot and help capture details missed the first time around. Another strength is the very good acting performances. In particular, Auoko Fujitani and Pepe Serna, who play, respectively, the female crime writer and the sheriff. Both are fleshed out and convincing characters whom we believe in and care about. This is a very good and unusual mystery. It also has a fairly dark and uncompromising ending which only adds to its overall unpredictability and boldness of approach. This is one well worth seeking out.",
+         "This movie has a very promising start. A veteran sheriff squints through his windscreen as he drives down a mist-shrouded road. Suddenly, he strikes a pedestrian hard who collides with the windscreen and rolls off. Then he struggles to his feet and runs away. The film then descends into a confusing mêlée of American and Asian characters, subtitles and a strange and often baffling plot involving exotic pets and various unbelievable situations. For instance, would an attractive young lady really open her hotel door to admit an evil-looking character to use her phone, simply because he was of the same race as her, therefore presumably trustworthy? The acting can only be described as sluggish and underplayed to a torpor-inducing point. It was very consistent but not in a good way. By the way, could anyone explain why in a couple of scenes the (admittedly very decorative) female lead was shown toying with a cut-throat razor? My main gripe, though is that this movie is too slow and complex to really work well.",
+         "Greetings again from the dark. It's been awhile since we have seen a turtle movie that didn't also feature pizza and nunchucks. While it's true that the endangered exotic turtles in director Dave Boyle's neo-noir potboiler don't live in the sewer or wear masks, they do play a key role in his multiple-plot murder mystery co-written with Joel Clark and Michael Lerner. This nifty little web of clues and McGuffins centers on mystery writer Aki (Ayako Fujitani) and a small town Sheriff (Pepe Serna), and starts with a foggy night on a nearly deserted road. From there we get murders, turtles, a night of passion, deceit, paparazzi, secrets, and a rich Brit and his burly henchmen. And if that's not enough, there is a professional impostor who takes identity theft to the extreme. With the back and forth between English and Japanese dialogue, the film has the feel of a foreign film, yet it's filmed mostly in San Francisco. The use of mood lighting and atmospheric sets add an element of intrigue. Heck, even one small hotel room gets used over and over for a variety of scenes. It's a fun movie to watch and play along with. Ms. Fujitani and Mr. Serna are both excellent in their roles, and support work comes courtesy of Kazuki Kitamura (The Raid, Killers), Hiroshi Watanabe (Letters from Iwo Jima), Rome Kanda, and Derrick O'Connor (Lethal Weapon 2). This was a favorite on the film festival circuit last year, and despite the use of a couple of false endings, it is one most fans of mysteries will enjoy.",
+         "Good Idea Bad Execution , I didn't mean its a bad movie but it could be much better when a viewer felt bored during the film that means something went wrong that's what what I mean the movie is less than 2 hours but it feels like more than that with all the extra stories and scene that aren't necessary to be added , The film started so well then it began to go down. Despite the fact that this movie and director Dave Boyle which he was 32 years old when he directed that movie had a lot of wins and nominations but with all due respect but if it was directed by more experienced director it might have been much better !",
+         "Saw this movie listed on Netflix. Well, clicked it, read the story line, not too sure, but what the heck I can turn it off. Wondered if it were a Japanese film? Seemed like a strange beginning, then bang the story begins. Let me say before going any further, the three leading actors were excellent. Their acting just took me into the story. I watched, listened and wondered where this story would go next. And it flowed and flowed and flowed. There was a mystery, another mystery upon mystery flowing toward the climax. My rating would have been higher, but for what I thought the ending had some questions that weren't answered. This film is well worth watching for its story line, acting, mystery and directing. It also demonstrates great films can be made without big stars and budgets. My rating is really 8.5.",
+         "I really enjoyed this movie. It had a great twist at the end. The actors were fantastic. I loved how inexpensive it was for the movie to be developed and produced. Furthermore, the fact that the movie title is \"Man from Reno\" and the movie does not ever happen in Reno, I find fascinating\u2014 that is that the director could pull off such a successful flick when the setting is not taking place in Reno. I had the grand opportunity to view this movie in Wichita, Kansas at the Tall Grass Film Festival. I liked it so much that I want to own it. What I liked the most is how humor was introduced into the flick. So many times, subtle humor caught me off guard and made me laugh (inside not out loud) and the mysterious action kept rolling on and on. One negative part to this plot was that the police sheriff broke down the door into Aki's room when he did not know that Kazuki's character would or would not be there\u2014drama for a neat scene was created, I suppose. I certainly recommend this film. It was a great way to spend an afternoon. And it lived up to the Tallgrass promise of the \"second funnest thing you can do in the dark.\"",
+         "I was intrigued by the film. Every moment is filled =with suspense. The film held my attention every single frame. I was always wondering what would come next right to the very last frame. I thought the writing and acting were very well done. The title was a great choice in my opinion. It kind of summed up everything. A really great mystery full of twists and turns. I don't want in any way spoil the film. The movie is thick with possibility and wonder from the very first scene. I was found wondering who is who is who, what is what, and what was really happening at every moment. Cinematography in first scene especially was exceptional. The actors were I felt living in the moment all the time which only added to the suspense. The moments were filled with poignancy as they were always observing, listening in the moment, and reacting to the moment. With Ayako Fujitani, Pepe Serna, Kazuki Kitamura.",
+         "This is an exceptional piece of cinema in ways obvious and not so obvious. It can be especially appreciated by native Californians, although that's not necessarily a prerequisite to enjoy the film. The plot captures your interest from the opening scenes of a driver carefully navigating his way through fog on a lonely road, but hitting a pedestrian in spite of his caution. To the surprise of both the audience and the driver, who stops and gets out of the car to assist, the victim gets up and runs away, disappearing into the fog. True to the film noir tradition, this is just the first in a whole series of mysterious occurrences, some of which are eventually resolved, and some which are not. This keeps the viewer guessing not only during the film, but after he/she leaves the theater. Your attention is focused all during the film, although a few of the less important plot points are so convoluted, you never do figure them out. Never mind, there is great beauty in the film, thanks to carefully thought out direction by Dave Boyle and the extraordinary skill of the cinematographer, Richard Wong. In shot after shot, the collaboration of the director and his cinematographer results in images perfectly composed. The cinematographer, who is based in San Francisco, obviously has a great feeling and appreciation for both interiors and exteriors of this exceptional city. Even more impressive to this native Californian is his feel for the state's subtle beauty outside of its famous urban areas. There are the icons familiar to all: San Francisco's Victorian architecture, fascinating waterfront, hilly skyline and impressive bridges. Less familiar are the sparsely-populated areas of the California countryside, with rolling hills, winding roads, and occasional trees. The muted color palette and quiet beauty in these areas of the state may not have the majesty and impact of San Francisco or Yosemite, but they can have their own unique appeal just the same. It's obvious that the cinematographer and director understand this and wisely included some of these kinds of scenes in their opus. They also maximize the beauty of their lead actress, Ayako Fugitani, not only with the cinematography, but also in collaboration with the individual responsible for her elegant attire, costume designer Irene Chan. Ms. Fugitani's affluent chic look is evidence that great care and thought went into in how she was to be presented. And of course her expert hairstyling and make up work was icing on the cake. My guess is that she has never looked better since she began her acting career two decades ago. Welcome also is the humanity of the portrayal of the sheriff by veteran actor Pepe Sema. His sincerity and smooth professionalism \u2013 over 40 years as an actor - is reflected in his work in this film. Also admirable - and unusual - is the attempt to accurately portray two complete different cultures, Japanese and American, in the same film without relying on stereotypes or preconceived ideas that the audience might have. The director's previous work has involved having a foot in both cultures, and this film demonstrates how well he has honed his expertise. Speaking of expertise, the film, which was shot digitally on a modest budget, but doesn't look like it, is a terrific example of how today it is possible to make a film with superb production values because excellent tools are more accessible than they ever have been in history of filmmaking. You don't need a studio and the associated overhead. The tools for capture - cameras, lenses, and lighting - are so good and so portable, they can literally be used anywhere under any conditions. And you can work with minimal crew, which minimizes the risk of disruption when working on location. It's the same story with post-production, where filmmakers spend far more time refining their story than they spent shooting it. The editing capability of the computers and software available today is phenomenal, even if you only have a modest budget. Just ask the director, who has been editing professionally for years. The film noir efforts of 70 years ago still stand up well when it comes to the storyline, but when it comes to the production values . . . well, you really appreciate all the progress that has been made since. \"Man from Reno\" is a superb example of that progress. I look forward to seeing more work from this director and his team of very talented collaborators.",
+         "Film Noir, which often united the darker impulses of America post- WWII with an exhausted, disillusioned Europe, showed the world was both smaller and larger than mere borders. Dave Boyle's new noir Man From Reno is both a step back into the contained yet expansive world of San Francisco and an up-to-the- minute dispatch from the lonely land of singles. The brilliant Pepe Serna is the aptly named sheriff, Moral, whose calm demeanor and intelligence inspires confidence. The cast, down to the bartenders, are living in this world and the darker places of the psyche. But it is talented Ayako Fujitani as the lionized author whom we want to know better. She carries her secrets like a true detective--close to vest. Secrets and dark alleys abound but the characters carry the story. This one's a keeper-- years from now it will double-bill with The Maltese Falcon at our land-marked neighborhood movie palaces.",
+         "Man from Reno definitely has a captivating movie plot, nothing like I've ever seen before. The movie has a creepy feel to it and it is not a movie where you can easily guess what is about to happen next. Dave Boyle does an excellent job at keeping two different story lines going at once and chooses a brilliant time to mash them together. Also, the actors/actresses in the film do an amazing job at portraying their roles, my favorite was Ayako Fujikani; she was great at playing a witty yet disturbed writer. I also want to highlight the music and Boyle's decision to make the movie bilingual. The music in the film was incredible and helped add to the eerie and mysterious vibe. It wasn't too much or too cheesy, the music come and went at the perfect segments. Part of the movie is in Japanese with English subtitles, when does not take away from the film at all, but adds another complicated elements that Boyle skillfully incorporates. Overall, for such a low budget film, Boyle does an a spectacular job at making a complex story come to life without overwhelming the audience with too much information and keeping it interesting throughout.",
+         "Just seen on big theatre screen. Excellent, well done suspense story, and should have had wider distribution except... 1) After the pre-title powerful open the movie drags due to far too much mostly dull character development (with a lot of just talk) that should have been cut. 2) The end goes on and on and on; the there are too many scenes that could have been handled more rapidly or the scenes cut down in length. There is a feel of a whole bunch of \"false endings\" before the movie finally ends. It's a shame, because this movie was definitely was ripe for much bigger theatre distribution. Still, be sure to catch it if you can, especially on a big theatre screen.",
+         "\"Planet of the Apes\", with more than half its dialog sub-titled, found wide distribution, but this excellent crime thriller, with half its dialog subtitled, is not distributed. Do fictional ape grunts yield more marketable subtitles than real Japanese? It is rare indeed to find a movie in which Japanese culture is showcased so well as in this bilingual movie set in the Bay area. American audiences should be allowed to see more such films. The last Japanese-language movie (in my memory anyway) was \"Shall We Dance?\" Of course, the bad remake with Richard Gere lost all the cultural resonance which made it so special. In most of movies of the crime thriller genre, it is relatively easy to identify the bad guy, know who is going to die, and anticipate the plot twists---or at least, not be too surprised by them. Such is not the case in this movie---everything about the plot is genuinely surprising and unusual. Mostly, this is because so many of the characters are Japanese; in a foreign land, they flummox not only themselves, but the American law enforcement officers trying to figure things out. The cross-cultural aspect of this movie is precisely what makes it so unpredictable and so good. American distributors should pick up more movies like this, and market them at least as well as \"planet of the apes.\"",
+         "A mystery outside of San Francisco brings together small-town sheriff Paul Del Moral (Pepe Serna), Japanese author Aki Akahori, and a traveler from Reno who soon disappears, leaving behind his suitcase and a trail of questions. According to Pepe Serna, director Dave Boyle is a Mormon who spent his missionary time in Australia, immersed in Japanese culture. He has read numerous crime novels, both in English and Japanese, and already by his early 30s has had a string of Japanese-inspired films that get critical acclaim. This a great one, blending small town sheriff and Japanese crime author. They make a great team, and one could imagine this being a series of films. It stands out as being the biggest starring role of Serna's career, as well as being a film where he was not just a \"token Chicano\". After decades in the film business, appearing in dozens of great films, it is nice to see him finally get a bit of respect and recognition.",
+         "I really wanted to like it - so I did. A murder mystery with a worn premise. Strange combination of 60% Japanese with subtitles and 40% English. Liked that too. Main character, Ayako Fujitani, is very good and takes a mean close-up. Very cute. People keep disappearing and identities are always in question. Nothing new, but with the conflageration of characters it was hard to follow, especially since most of the characters were Japanese. The protagonist was developed, but the antagonist could have been a whole movie. The problem was that this could easily have been a six part mini-series. There were so many characters and sub-plots, all introduced and abandoned. Each of these could have been a one or two hour episode instead of just dropped. In the end - it just ended. Then I saw the credits. 'Gofundme'. Apparently they were moving along at a brisk pace and suddenly ran out of money. 'Well, I guess that's a wrap, folks.' As the lawman stands on a dock with no visible means of escape, but the bad guy gets away anyway. Wheredidhego? After more funding? I enjoyed it anyway, just wish it had been 'finished'.",
+         "Only read if you've seen the movie first! So there are plenty of reviews on this film, but no explanations, so mine will be the latter. Overall I thought this was a fantastic, yet confusing film that you need to watch twice. However, after my second time watching it makes clear sense. Spoiler starts here: Key to the movie is the guy in hotel at beginning kills people and steals their identity. I'll call him mystery man. Akira Suzuki was the man found dead in the Pond. He had the real turtles, him and his girlfriend, who got caught in customs, were trying to sell them. The Chauffeur driver (Hitoshi) - also called the running man, tried to buy the turtles from Akira Suzuki for the wheelchair man (Steven Luft), so he could use them to cure himself, but at the drop it was really the mystery man who had heard about the sale and wanted to make a quick buck, he had Suzuki's half of the turtles after killing him and then bought regular turtles to complete the other half. The Chauffeur was going to offer fake passports for turtles so turtle seller could get a new life (the real Akira Suzuki and his girlfriend in jail - she said this was their last job), but when the impostor showed up to the drop he wanted money, because passports were useless to him. So he roughed up the chauffeur driver and said he wanted $1 mil and that's when the sheriff found him. Mystery man Left ordinary turtles in room as a distraction so that they would go after Aki instead, while he got rid of other 5 turtles. Osamu is also a fake name of some guy who disappeared in Japan that mystery man pretended to be. At the end mystery man kills Aki and steals her identity And publishes her final book, which will have great sales now that she has gone rogue - and he is free to make the profit (hence the more interesting way to make profit that he mentioned to wheelchair man. After he told him that he let the turtles go in the river). When Aki pepper sprays the paparazzi guy he says the picture of the red boat house is home. At the end sheriff finds mystery man on the red boat because he killed the paparazzi guy when he came to Aki's room. Then he added that to his long list of fake lives. The Sheriff found his mystery man on accident because he was looking for paparazzi guy to ask if he knew where Aki went. At the end of the movie when mystery man meets the guy in a bar who just passed his bar exam he says his name is also Junya which is foreshadowing he's going to kill him and take his identity.",
+         "Viewed on DVD. Cinematography/lighting = eight (8) stars; other major production values = eight (8) stars; subtitles/credits = ten (10) stars. Director Dave Boyle's tale of four-legged contraband and deadly serial identity theft is a classic edge-of-your-seat thriller. Packed with red-herring subplots and many moving parts, it really requires multiple viewings to understand all that occurs and why as well as to tie up a multitude of what seem to be (but really are not) loose ends. There is no happy ending. It also lacks (thankfully!) the usual Pro Forma car chases up and down the very hilly streets of San Francisco. Acting/direction is very good with bilingual leading actress Ayako Fujitani delivering a scene-stealing, radiant, and intelligent performance (it's a pure pleasure to see her in action!). Cinematography (wide screen, color), scene lighting, and other productions values (such as choice of exterior/interior locations and set decoration) are all excellent. Score is a bit uneven with themes that range from creative use of one or a few instruments to an overriding (and irritating) scrapping-like buzz apparently meant to signal that danger lies ahead. Surround sound field is good when fully deployed. Subtitles (which can not be turned off) are excellent and almost mandatory due to the heavy use of Tokyo dialect/slang. Everyone and everything (even if only mentioned in the dialog) is given on-screen credit including the supplier of Kame (turtles). Since initial funding came from crowd sourcing, several hundred contributors are also listed. Highly recommended for multiple viewings! WILLIAM FLANIGAN, PhD."
+      ],
+      "genres": [
+         "Crime",
+         "Drama",
+         "Mystery",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Eleven Arts",
+         "Tiger Industry Films"
+      ],
+      "summaries": [
+         "In a small town south of San Francisco, Sheriff Paul Del Moral (Pepe Serna) is driving home through the fog when he accidentally strikes a pedestrian, a lone Japanese man. However, before an investigation can take place the man disappears from the hospital without a trace. At the same time, Japanese mystery author Aki Akahori (Ayako Fujitani) takes a trip to San Francisco in order to escape the press tour for her latest book--a potboiler in her world famous \"Inspector Takabe\" series. Feeling lonely and vulnerable, she begins a romantic affair with a mysterious Japanese traveler from Reno (Kazuki Kitamura). Her new lover is charismatic and charming but abruptly disappears from the hotel, leaving behind his suitcase and a trail of questions...",
+         "A mystery outside of San Francisco brings together small-town sheriff Paul Del Moral, Japanese author Aki Akahori, and a traveler from Reno who soon disappears, leaving behind his suitcase and a trail of questions."
+      ],
+      "budget": 0
+   },
+   "movielensId": 132430,
+   "movielens": {
+      "languages": [
+         "English",
+         "日本語"
+      ],
+      "releaseDate": "2015-03-27",
+      "dvdReleaseDate": null,
+      "directors": ["Dave Boyle"],
+      "runtime": 111,
+      "movieId": 132430,
+      "title": "Man from Reno",
+      "mpaa": "",
+      "actors": [
+         "Ayako Fujitani",
+         "Pepe Serna",
+         "Kazuki Kitamura",
+         "Hiroshi Watanabe",
+         "Tetsuo Kuramochi",
+         "Elisha Skorman",
+         "Masami Kosaka",
+         "Rome Kanda"
+      ],
+      "imdbMovieId": "2287170",
+      "originalTitle": "Man from Reno",
+      "genres": [
+         "Mystery",
+         "Drama",
+         "Crime",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": [
+         "5X0d-2x0NAk",
+         "knVDy4pLJwQ"
+      ],
+      "plotSummary": "A stranger in the increasingly strange city of San Francisco, Japanese crime novelist Aki is unsure of precisely what role she has to play in a real-life murder mystery involving ambiguous MacGuffins and amorphous identities. Unfolding in lonely places such as bookshops and hotel bars, Dave Boyle's moody thriller uncovers exhilarating new takes on genre conventions. Consequently, it's an alluring l'homme fatal who supplies Aki with the breadcrumb trail of clues that entices her into a labyrinthine plot of sinister dealings. In turn, the aging sheriff (veteran character actor Pepe Serna, fantastic in a rare leading role), who should rightfully be riding to her rescue, proves to be equally out of his depth. The game is afoot, the chase is exhilarating and the stakes are perilously high in this inspired neo-noir.",
+      "tmdbMovieId": 272418,
+      "avgRating": 3.21053,
+      "releaseYear": "2015",
+      "numRatings": 19,
+      "posterPath": "/Asx0wgW7uYepnu5eHgHySbn0eQg.jpg"
+   }
+}

@@ -1,0 +1,886 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "prisoner",
+            "id": 1563
+         },
+         {
+            "name": "fight",
+            "id": 1721
+         },
+         {
+            "name": "liberation",
+            "id": 2434
+         },
+         {
+            "name": "shelter",
+            "id": 4917
+         }
+      ],
+      "imdb_id": "tt0107711",
+      "video": false,
+      "title": "Nowhere to Run",
+      "recommendations": [
+         10861,
+         9103,
+         9594,
+         2019,
+         9405,
+         9091,
+         10596,
+         17466,
+         9399,
+         37498,
+         37632,
+         10134,
+         3513,
+         8831,
+         10222,
+         9624,
+         19277,
+         10366,
+         10908,
+         17774
+      ],
+      "backdrop_path": "/9snG3oqEgPMjkhTazqbjfOU454d.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Sam Gillen",
+               "gender": 2,
+               "credit_id": "52fe436a9251416c7500f73d",
+               "name": "Jean-Claude Van Damme",
+               "profile_path": "/t9to1GoMzx7IDSBXwzwe1huakFk.jpg",
+               "id": 15111,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Clydie Anderson",
+               "gender": 1,
+               "credit_id": "52fe436a9251416c7500f741",
+               "name": "Rosanna Arquette",
+               "profile_path": "/rQMQYQUF9QzD6oDfkP6tsjmyZhS.jpg",
+               "id": 2165,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Mike 'Mookie' Anderson",
+               "gender": 2,
+               "credit_id": "52fe436a9251416c7500f745",
+               "name": "Kieran Culkin",
+               "profile_path": "/swcqQCMREeGCk6FAxIfczGpFBys.jpg",
+               "id": 18793,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Mr. Dunston",
+               "gender": 2,
+               "credit_id": "52fe436a9251416c7500f749",
+               "name": "Ted Levine",
+               "profile_path": "/7O3vgqgicfNeGr3leC0qB074fjX.jpg",
+               "id": 15854,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Bree Anderson",
+               "gender": 1,
+               "credit_id": "52fe436a9251416c7500f74d",
+               "name": "Tiffany Taubman",
+               "profile_path": "/uVflueO5wY19yfTfGccSFYFIcr4.jpg",
+               "id": 65036,
+               "order": 4
+            },
+            {
+               "cast_id": 17,
+               "character": "Sheriff Lonnie Cole",
+               "gender": 0,
+               "credit_id": "52fe436a9251416c7500f793",
+               "name": "Edward Blatchford",
+               "profile_path": "/hyvOKYvdt682STFOOfSS27dykVx.jpg",
+               "id": 1066171,
+               "order": 5
+            },
+            {
+               "cast_id": 18,
+               "character": "Billy",
+               "gender": 2,
+               "credit_id": "52fe436a9251416c7500f797",
+               "name": "Anthony Starke",
+               "profile_path": "/qBFnwUROHkoSTqOTsZZBF4lcjtM.jpg",
+               "id": 10682,
+               "order": 6
+            },
+            {
+               "cast_id": 19,
+               "character": "Franklin Hale",
+               "gender": 2,
+               "credit_id": "52fe436a9251416c7500f79b",
+               "name": "Joss Ackland",
+               "profile_path": "/l7XyBslyU5slMUuO9zTjCRZKXex.jpg",
+               "id": 14324,
+               "order": 7
+            },
+            {
+               "cast_id": 20,
+               "character": "Bus Driver",
+               "gender": 2,
+               "credit_id": "52fe436a9251416c7500f79f",
+               "name": "Allan Graf",
+               "profile_path": "/kY2U92OoIr21UGGPHgDf8b4rIHZ.jpg",
+               "id": 33017,
+               "order": 8
+            },
+            {
+               "cast_id": 21,
+               "character": "Bus Guard",
+               "gender": 2,
+               "credit_id": "52fe436a9251416c7500f7a3",
+               "name": "Leonard Termo",
+               "profile_path": "/jdXgGMSpQGeN6vCZO5OM758dh3t.jpg",
+               "id": 7140,
+               "order": 9
+            },
+            {
+               "cast_id": 22,
+               "character": "Prisoner",
+               "gender": 2,
+               "credit_id": "59354aecc3a3685a0b0354fd",
+               "name": "Peter Malota",
+               "profile_path": "/9Yh6HFHHc0KhBeVu3hQuijq2xfS.jpg",
+               "id": 1785844,
+               "order": 10
+            },
+            {
+               "cast_id": 23,
+               "character": "Prisoner",
+               "gender": 2,
+               "credit_id": "59edeeed9251412a29018aea",
+               "name": "Robert Apisa",
+               "profile_path": "/nk8NuL0rR4QD1vDvrNAyxNmxCfe.jpg",
+               "id": 20762,
+               "order": 11
+            },
+            {
+               "cast_id": 24,
+               "character": "Prisoner",
+               "gender": 0,
+               "credit_id": "59edefa8c3a36851bd0250a1",
+               "name": "Jophery C. Brown",
+               "profile_path": "/gaqAdMVSylBmS3WUI3WQbSMBmWN.jpg",
+               "id": 9559,
+               "order": 12
+            },
+            {
+               "cast_id": 25,
+               "character": "Prisoner",
+               "gender": 2,
+               "credit_id": "59edefba925141245f025568",
+               "name": "Tony Brubaker",
+               "profile_path": "/pi2U3iRoMNc4zHvzWdXG8hqMQUn.jpg",
+               "id": 15850,
+               "order": 13
+            },
+            {
+               "cast_id": 26,
+               "character": "Prisoner",
+               "gender": 2,
+               "credit_id": "59edf0519251412a29018c7e",
+               "name": "Jack Lucarelli",
+               "profile_path": "/7urdA1dFvN8ceeFtNvfmpYzJBBQ.jpg",
+               "id": 1116951,
+               "order": 14
+            },
+            {
+               "cast_id": 27,
+               "character": "Prisoner",
+               "gender": 0,
+               "credit_id": "59edf0c6925141366d01e7c3",
+               "name": "Voyo Goric",
+               "profile_path": "/1ApKClZr32ey6Ycv4zJjaR86iyE.jpg",
+               "id": 16583,
+               "order": 15
+            },
+            {
+               "cast_id": 28,
+               "character": "Prisoner",
+               "gender": 2,
+               "credit_id": "59edf112c3a36879fe0306e8",
+               "name": "Manny Perry",
+               "profile_path": "/aCYOiEZ7LkqJUEce0PsPVx6GWo0.jpg",
+               "id": 1502517,
+               "order": 16
+            },
+            {
+               "cast_id": 29,
+               "character": "Prisoner",
+               "gender": 0,
+               "credit_id": "59edf196c3a3680ae900ed9e",
+               "name": "Thomas Rosales, Jr.",
+               "profile_path": "/ffDrcpKGvjPgpcjd0t9T6EtQ2hz.jpg",
+               "id": 43010,
+               "order": 17
+            },
+            {
+               "cast_id": 31,
+               "character": "Prisoner",
+               "gender": 2,
+               "credit_id": "59edf22cc3a368535b02cdb4",
+               "name": "Sven-Ole Thorsen",
+               "profile_path": "/vNjv3gk22eqihzOqXm2vz5yP58V.jpg",
+               "id": 20761,
+               "order": 18
+            },
+            {
+               "cast_id": 30,
+               "character": "Tom Lewis",
+               "gender": 2,
+               "credit_id": "59edf1ce9251412783024b1f",
+               "name": "Stephen Bridgewater",
+               "profile_path": "/y8HD6TcZllYESxeUQzlSiRvGeRN.jpg",
+               "id": 81692,
+               "order": 19
+            },
+            {
+               "cast_id": 32,
+               "character": "Sarah Lewis",
+               "gender": 0,
+               "credit_id": "5a22a501c3a3680b9d0adf18",
+               "name": "Christy Botkin",
+               "profile_path": null,
+               "id": 1933433,
+               "order": 20
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe436a9251416c7500f753",
+               "name": "Robert Harmon",
+               "profile_path": null,
+               "id": 57895,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe436a9251416c7500f759",
+               "name": "Joe Eszterhas",
+               "profile_path": null,
+               "id": 10492,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe436a9251416c7500f75f",
+               "name": "Leslie Bohem",
+               "profile_path": "/pOCxerT9XoH4fEtPcHhoTlgAk8.jpg",
+               "id": 58726,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe436a9251416c7500f765",
+               "name": "Randy Feldman",
+               "profile_path": "/iebh0LeaE1kPlpgGYfNMfe5cMik.jpg",
+               "id": 56186,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe436a9251416c7500f76b",
+               "name": "Gary Adelson",
+               "profile_path": null,
+               "id": 14694,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe436a9251416c7500f771",
+               "name": "Craig Baumgarten",
+               "profile_path": null,
+               "id": 14695,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe436a9251416c7500f777",
+               "name": "Michael I. Rachmil",
+               "profile_path": null,
+               "id": 58183,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe436a9251416c7500f77d",
+               "name": "Mark Isham",
+               "profile_path": "/juP82LbS9chU3VXgelb7CICBN2Q.jpg",
+               "id": 4140,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe436a9251416c7500f783",
+               "name": "David Gribble",
+               "profile_path": null,
+               "id": 22103,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe436a9251416c7500f789",
+               "name": "Mark Helfrich",
+               "profile_path": null,
+               "id": 1098,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe436a9251416c7500f78f",
+               "name": "Zach Staenberg",
+               "profile_path": null,
+               "id": 4671,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a22a6a60e0a264cc10b42ce",
+               "name": "Joe Eszterhas",
+               "profile_path": null,
+               "id": 10492,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a22a6f392514103330b422e",
+               "name": "Richard Marquand",
+               "profile_path": "/wuO69rNp2mMG9unvRpZhbccoAh9.jpg",
+               "id": 19800,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5a22a77dc3a3680b8a0b43b9",
+               "name": "Jackie Burch",
+               "profile_path": null,
+               "id": 1097,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a22a7a992514103330b42d5",
+               "name": "J. Dennis Washington",
+               "profile_path": null,
+               "id": 16614,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a22a7d692514103360b7e8f",
+               "name": "Joseph P. Lucky",
+               "profile_path": null,
+               "id": 3988,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5a22a84692514103300b1f02",
+               "name": "Anne D. McCulley",
+               "profile_path": null,
+               "id": 11375,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a22a85fc3a3680b880b90b6",
+               "name": "Gamila Smith",
+               "profile_path": null,
+               "id": 1933447,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a22a8f2c3a3680b960b6558",
+               "name": "Katalin Elek",
+               "profile_path": null,
+               "id": 14763,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a22a91792514103330b43f0",
+               "name": "Zoltan Elek",
+               "profile_path": null,
+               "id": 32355,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5a22a932c3a3680b8f0b648f",
+               "name": "Tamara Smith",
+               "profile_path": null,
+               "id": 57112,
+               "department": "Production",
+               "job": "Production Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a22a9600e0a264cbc0bb32f",
+               "name": "Brian W. Cook",
+               "profile_path": null,
+               "id": 5015,
+               "department": "Directing",
+               "job": "First Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a22a9de92514103260bbb63",
+               "name": "Larry Clark Bird",
+               "profile_path": null,
+               "id": 75234,
+               "department": "Art",
+               "job": "Property Master"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a22aa0a925141032c0b8030",
+               "name": "Dick Girod",
+               "profile_path": null,
+               "id": 1933449,
+               "department": "Art",
+               "job": "Painter"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a22aa2292514103240b4ea9",
+               "name": "Stacey S. McIntosh",
+               "profile_path": null,
+               "id": 1378162,
+               "department": "Art",
+               "job": "Construction Coordinator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a22aa4e92514103390b60a6",
+               "name": "Richard McKenzie",
+               "profile_path": null,
+               "id": 1344257,
+               "department": "Art",
+               "job": "Set Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a22aa770e0a264cbc0bb407",
+               "name": "Fred J. Brown",
+               "profile_path": null,
+               "id": 16552,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a22aae992514103240b4f56",
+               "name": "Raul A. Bruce",
+               "profile_path": null,
+               "id": 1563430,
+               "department": "Sound",
+               "job": "Boom Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a22ab2892514103240b4f8c",
+               "name": "David B. Cohn",
+               "profile_path": null,
+               "id": 16639,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a22ab3b92514103300b2120",
+               "name": "Martin Dreffke",
+               "profile_path": null,
+               "id": 1933453,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a22ab800e0a264cbe0b47e9",
+               "name": "Linda Folk",
+               "profile_path": null,
+               "id": 1546873,
+               "department": "Sound",
+               "job": "ADR Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a22abb60e0a264cca0b5023",
+               "name": "Frank Jimenez",
+               "profile_path": null,
+               "id": 1664273,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a22ac700e0a264cc40b239a",
+               "name": "David Kirschner",
+               "profile_path": null,
+               "id": 1933456,
+               "department": "Sound",
+               "job": "Sound Mixer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "5a22ac91c3a3680b960b67ee",
+               "name": "Cindy Marty",
+               "profile_path": null,
+               "id": 118944,
+               "department": "Sound",
+               "job": "Foley Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a22acafc3a3680b8f0b673c",
+               "name": "Aaron Rochin",
+               "profile_path": null,
+               "id": 1394924,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a22acce0e0a264ccd0b9681",
+               "name": "Michele Sharp",
+               "profile_path": null,
+               "id": 1564476,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a22ad150e0a264cc80bd492",
+               "name": "Stan Siegel",
+               "profile_path": null,
+               "id": 1822899,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a22ad3992514103240b5112",
+               "name": "John J. Stephens",
+               "profile_path": null,
+               "id": 1455402,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a22ad7792514103260bbe09",
+               "name": "Gregory H. Watkins",
+               "profile_path": null,
+               "id": 1338374,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a22adab0e0a264cc10b477a",
+               "name": "David Williams",
+               "profile_path": null,
+               "id": 1252535,
+               "department": "Sound",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a22addfc3a3680b8f0b6844",
+               "name": "Jeff Jarvis",
+               "profile_path": null,
+               "id": 10067,
+               "department": "Crew",
+               "job": "Special Effects Coordinator"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a22ae56c3a3680b880b953e",
+               "name": "William H. Burton Jr.",
+               "profile_path": "/xhvDErmxpPvEb9dd3h2XMNnB7Re.jpg",
+               "id": 1412253,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a22ae770e0a264cc80bd5c1",
+               "name": "Samuel Buddy Fries",
+               "profile_path": null,
+               "id": 1933461,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a22aee30e0a264cc40b254a",
+               "name": "Michael Meinardus",
+               "profile_path": null,
+               "id": 1933463,
+               "department": "Camera",
+               "job": "Steadicam Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a22af4092514103290ba3b1",
+               "name": "Tony Rivetti",
+               "profile_path": null,
+               "id": 1446661,
+               "department": "Camera",
+               "job": "First Assistant Camera"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a22af71925141032c0b8454",
+               "name": "Randall Robinson",
+               "profile_path": null,
+               "id": 36035,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a22afcdc3a3680b9a0c0662",
+               "name": "Andrea Sachs",
+               "profile_path": null,
+               "id": 1877146,
+               "department": "Lighting",
+               "job": "Gaffer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a22b00892514103390b649e",
+               "name": "Robert Fong",
+               "profile_path": null,
+               "id": 1933464,
+               "department": "Editing",
+               "job": "First Assistant Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a22b04f0e0a264cc40b2675",
+               "name": "James R. Maceo",
+               "profile_path": null,
+               "id": 75706,
+               "department": "Production",
+               "job": "Location Manager"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a22b07992514103260bc0a7",
+               "name": "Michael Connell",
+               "profile_path": null,
+               "id": 1406905,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a22b0970e0a264cca0b53ae",
+               "name": "Susan Dukow",
+               "profile_path": null,
+               "id": 1684385,
+               "department": "Production",
+               "job": "Production Coordinator"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 8.221057,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 10413,
+      "vote_count": 151,
+      "budget": 0,
+      "overview": "Escaped convict Sam Gillen single handedly takes on ruthless developers determined to evict Clydie - a widow with two young children. Nobody knows who Sam is.",
+      "similar": [
+         38234,
+         575,
+         398175,
+         10651,
+         2749,
+         6075,
+         5925,
+         605,
+         1701,
+         10483,
+         8456,
+         1369,
+         59,
+         604,
+         681,
+         97630,
+         76640,
+         107846,
+         339692,
+         180299
+      ],
+      "original_title": "Nowhere to Run",
+      "runtime": 94,
+      "poster_path": "/mpEJ955gAHB5pGHbFGd7J4hW3lk.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+         "name": "Columbia Pictures",
+         "id": 5,
+         "origin_country": "US"
+      }],
+      "release_date": "1993-01-15",
+      "vote_average": 5.5,
+      "belongs_to_collection": null,
+      "tagline": "When the law can't protect the innocent,  the only hero left is an outlaw.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Robert Harmon"],
+      "runtime": 94,
+      "synopsis": "Sam Gillen (Van Damme) is a convict who gets sprung from Federal custody somewhere in the Midwest by his bank-robbing partner. In their last heist, Sam's partner killed a bank guard, and Sam took the rap for it. Sam's partner gets killed in the break, forcing Sam to go it alone in search of the loot, which is buried on the property of a farm inhabited by Clydie Anderson (Arquette), the widowed mother of two kids named Mike \"Mookie\" Anderson and Bree Anderson. Attempting to sneak into Clydie's house and \"borrow\" some salt for a campfire-broiled steak, Sam catches sight of Clydie taking a shower. The next morning, Sam is spotted bathing outdoors by Mookie. After saving Clydie, Mookie, and Bree from a trio of intruding thugs, Sam discovers that Clydie is holding out from selling her place to property developer Franklin Hale, who fears that he will be put out of business if he doesn't get Clydie's land so he can develop on it. Sam decides to hang around, sleeping first in Clydie's barn and then in her bed while repairing her late husband's Triumph motorcycle. And Hale hires an intimidation expert named Dunston, to force Clydie into selling her land. Secretly on Hale's payroll is corrupt sheriff Lonnie Cole, a sometime lover of Clydie. A jealous Lonnie discovers Sam's true identity and threatens to expose him if he doesn't leave. Not wanting to place Clydie in additional danger for helping a fugitive, Sam decides to leave, only to find that Hale has already blown the whistle on him in an attempt to get him out of the way. After evading police chasing him in cars, land rovers, helicopters, and on motorcycles and horseback, Sam returns to save Clydie from Dunston and Hale, who are planning to burn down her house. After fighting off the bad guys and getting Hale caught holding a gun to Clydie's head, he decides to turn himself in, rather than run away. He promises to be back to live with them.",
+      "writers": [
+         "Joe Eszterhas",
+         "Richard Marquand"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0107711/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTYzNDExNDMzNV5BMl5BanBnXkFtZTcwNDY3OTUyMQ@@._V1_SY317_CR3,0,214,317_AL_.jpg",
+      "actors": ["Stars: Jean-Claude Van Damme, Rosanna Arquette, Kieran Culkin | See full cast and crew »"],
+      "reviews": [
+         "This is another Jean-Claude Van Damme action flick, but a definite notch above many of his other films, at least in production values. The photography and stereo sound are excellent. Actually, this is pretty simple stuff and old storyline of a low-key good guy rescuing the girl from local meanies. Here, Van Damme defends Rosanna Arquette and her small kids. In another respect, the movie is just another avenue for the two stars to show off their incredible bodies. Neither has ever been shy about doing that and certainly aren't in this movie. My only objection is having one of the kids make a sexual remark, which is done in here. There is no excuse for that. Ted Levine, who has turned nice guy in the hit TV series \"Monk,\" is an effective bad guy in here. He played a lot of villains before \"Monk\" came around. Anyway, it's fairly low-brow entertainment, but at least it is entertaining and fun to watch.",
+         "Van Damme has a reputation as a kickboxer or an ass kicker and a martial artist. No one really thinks he can act and the only reason he has a career in the movies is because he can do all those things and because women swoon over him. Being the quintessential guy, I am pretty much in the category of guys that likes to see him in films that are loaded with kicks to the head and punches to the stomach. It is a guy thing to want to see guys like Van Damme, Arnold, Sly and Seagal kick some major butt. But I have to admit that as much as I like some of his films that are action and nothing but, this film really blew me away. I was completely convinced with the love story and I felt for the characters. Jean Claude gives his best performance in here. And the sript being written by Eszetheras is perfect. This is a film that relies more on character and dialogue than it does kickboxing skills. And perhaps that alienates die hard Van Damme fans but for the rest of the audience out there this is a great step in the right direction. I have heard people that love his smashmouth style of film say that this is a more tame Van Damme and they don't like it that much, but when your films only gross about the same amount as a typical Friday the 13th film, it's safe to say that there is room to grow and Nowhere to Run is definitely growth. The only reason that people didn't go to see it is because it is Van Damme. But this has so much more to offer than just your typical action flick. The romance is fresh and Kieran Culkin is excellent as the young tyke who grows attached to Van Damme. It's just too bad Claude couldn't make more movies like this one because I really think people would warm up to this style of movie from him and eventually his box office appeal would grow. But as long he continues to make movies like Universal Soldier 2 and Knock Off, he will forever be stuck in that mold. Nowhere to Run is a great film and when it came out in 1993, I remember making out my list for the ten best films that year, and yes, this one was on it. I highly recommend it. I think you will be surprised. However, if you are hard core and like to see his films with lots of kicks and blood and cheesy lines from guys like Bolo Yeung, then don't go see this one, it is too much of a movie for you to enjoy.",
+         "Nowhere To Run is one of Van Damme's better films. It has a nice storyline and some good acting. The direction is tight and I lked the score also. Not bad, but will probably be overlooked because it's a Van Damme picture.",
+         "Escaped from prison, Van Damme camps out near a widow's home in the woods. Sure there's some action in the movie with quite a number of punch 'em outs but the movie really should have been in the drama section, not the action section of rental stores. This is quite a change for Van Damme as he becomes a father to the fatherless, nice guy, gentleman, and town savior. So the story was really good and damn Van Damme did a good job at his nice guy part. The funniest part is when he and the boy go into town for motorcyle parts and the sherrif dude asks him questions. Listen to how Van Damme pronounces 'motercycle' and 'Quepec'.",
+         "Having recently revisited my old Van Damme collection (my wife has developed a bit of a crush on JC), I have made my way through all the classics (Bloodsport, AWOL, Kickboxer, Death Warrant, Universal Soldier etc) and hugely enjoyed revelling in the guilty pleasure of watching a short, white Belgian dude kick the living snot out of everyone else on the screen. Why else would anyone go to see a Van Damme picture? The last film I came to was Nowhere to Run. Having not seen it in a good ten years, and remembering it as slow-paced, indulgent and severely lacking in arse-kicking, I was not really expecting to be at all impressed. It's funny, looking through most of the reviews here, that two groups of people have clearly emerged. The first group, the Van Damme fans, are all complaining that this is not your average VD film and bitching about how they were cheated into watching a serious drama. The other group are all up in arms at the fact that anyone would make a serious drama and cast Van Damme in it. I have a name for this group, but I doubt IMDb would publish it. Let's just call them w*nkers. Why the w*nkers, who clearly have an abundant dislike for the Muscles from Brussells, would go to see a film with his name above the title is beyond me. Cinesnobs have no place at a Van Damme show. I'll leave it at that. The reason I felt compelled to write this review is that I am, admittedly, a bit of a Cinesnob, but I'm also happy to take a film for what it is. I like James Bond, I like Sonny Chiba, I like blaxploitation and I also fricking like Van Damme movies! What I did not expect, was for \"a serious drama starring Van Damme\" (trying saying that out loud without snickering) to be so Damme good! (Get it?) The story is pretty simple, JC is an escaped con who happens upon a sleepy little town which is about to be pulverised by a nihilistic land developer (not surprisingly, a British one, played with appropriate menace by Joss Ackland). He befriends a little boy (not in the Michael Jackson way, though the boy in question is, ironically, Macaulay Culkin's younger brother, Kieran) and consequently gets rather chummy with the boy's mother. Happily, she is both widowed and incredibly hot. As if her being a still distraught widow weren't enough, she is also being harassed to a rather unreasonable degree by Ted Levine, who is hilarious and brilliant and the land developer's chief henchman. Cue Van Damme. Sounds like the ideal recipe for another typical action flick, so I am willing to forgive those VD fans who felt cheated. What we actually end up with is a genuinely moving, well paced and hugely enjoyable action drama. It may sound unthinkable, but JC actually pulls his character off perfectly. Sam is mistrusting, awkward but ultimately striving to be a decent person. Director Mark Harmon made a very savvy decision in keeping JC's dialogue to a minimum, leaving him the task of creating a believable character with his face and body language alone. Don't believe the naysayers, JC delivers a truly surprising performance. Rosanna Arquette also handles her role well, even if the character is flying dangerously close to stereotype. Her performance grounds the whole story, and we both care for her plight and admire her determination (the men in the audience will also admire her perfectly formed semi-naked body). The two kids were bound to be annoying, but they're certainly nowhere close to being as bad as they could have been. The real star of this film is the consistently beautiful cinematography by the relatively unknown David Gribble. With scenery like this, you'd be hard pressed to go wrong with the external stuff, but the interiors are equally well shot. The big let down, both in terms of cinematography and the film as a whole, is the truly lame action. There are only a handful of action sequences in the whole show, but they're easily the dullest moments in the film. When you have a good story, solid characters and a really well-cast group of fine actors, do you really need to throw in a bunch of crappy fights? Sadly, if you're selling this as a Van Damme picture, the answer is yes. So they had the courage to put JC in a serious role and give him the chance to prove that he can actually act, but they didn't have the balls to actually sell the film on this basis. The trailer says \"Van Damme, as you've never seen him before\" and then just gives us a bunch of poor action clips. Is it any wonder that nobody who actually bothered to see this film liked it? If it weren't bad enough that the action scenes are badly shot and clumsily edited, they're also punctuated by really poor one-liners from JC (\"Strike 3, you're out!\" and \"Au revoir, f**ker\" are among the worst). One gets the feeling that there were differences in the opinions of the director and the star and the opinions of the producers and studio folk. Presumably, someone thought they had found a happy balance. Someone was wrong, and the film really suffers as a consequence. If you can overlook this, and you're not watching the film either to complain that it's not a solid action flick or to complain that Van Damme is in a drama, you'll probably find yourself surprisingly impressed with the film.",
+         "I must have enjoyed it I stayed up until 2 am to watch it. I thought it showed a softer side of VD he should make more films of this kind.I liked the story line and was not too much kick boxing,the young boy (Kieran Culkin) played his part very well I thought. I really enjoyed seeing VD in a movie without so much blood and guts",
+         "I enjoyed this movie very much. It had a good, easy-to-follow story, some good action and good humor. Van Damme give's one of his best performances to date, and for the first time use's his brain and fist's instead of his martial art expertise. The chemistry between Van Damme and Arquette is very believable and you can tell that Van Damme's character really does care about the family. A very enjoyable film and believe it or not, an A+ performance from Jean-Claude Van Damme.",
+         "This is probably Jean-Claude van Damme at his sexiest. The best thing is that he's a prisoner, and there's no suggestion that he was wrongfully imprisoned. He starts off as a bad boy, but of course his tough exterior melts away to reveal his inner sentimentality when he meets a widow and her two children, one of which is played by one of those hideous Culkins.",
+         "I had heard that this movie wasn't typical Van Damme, but I still expected it to be mindless action on the whole. I was shocked when it turned out to be truly well done, and not just for a Van Damme movie. The acting is great, especially Rosanna Arquette's performance, and the story is not cheesy at all--it's actually compelling. The (sparse) fight sequences don't involve any weird Van Damme midair split-kicks to the head; they're straight-ahead brawls. This is definitely Van Damme's best, focusing on story and not action, but I guess his presence makes a lot of people overlook it. My rating: 8/10.",
+         "Reactions to this movie seem to depend on one's appetite for action. Those hungry for it are disappointed while those looking instead for plot and character development are pleased. I tend to fall into the latter category but must point out that while \"Nowhere to Run\" ranks among the better Van Dammes, it relies too much on stock situations, (plucky woman defending homestead), and cliche characters, (corrupt business tycoon with oily smile). I'd also like to point out the good work of Edward Blatchford as the local Deputy Sheriff. It's a thankless part but he manages to make something of it, and no, I didn't read any dark psychological meaning into the scene in which he discovers Van Damme taking a shower. However, I did find utterly bizarre that moment at the dinner table when Patricia Arquette's little girl casually comments on the impressive size of a certain portion of Van Damme's anatomy. This was promptly followed by Arquette's comment that it was only average in size. Talk about weird!"
+      ],
+      "genres": [
+         "Action",
+         "Crime",
+         "Drama",
+         "Romance",
+         "Thriller"
+      ],
+      "productionCompanies": ["Columbia Pictures Corporation"],
+      "summaries": [
+         "Escaped convict Sam Gillen single handedly takes on ruthless developers determined to evict Clydie - a widow with two young children. Nobody knows who Sam is.",
+         "Sam Gillen is a convict who gets sprung from Federal custody somewhere in the Midwest by his bank-robbing partner. In their last heist, Sam's partner killed a bank guard, and Sam took the rap for it. Sam's partner gets killed in the break, forcing Sam to go it alone in search of the loot, which is buried on the property of a farm inhabited by Clydie Anderson, the widowed mother of two kids named Mike \"Mookie\" Anderson and Bree Anderson. Attempting to sneak into Clydie's house and \"borrow\" some salt for a campfire-broiled steak, Sam catches sight of Clydie taking a shower. Sam is spotted by Mookie. After saving Clydie, Mookie, and Bree from a trio of intruding thugs, Sam discovers that Clydie is holding out from selling her place to property developer Franklin Hale, who fears that he will be put out of business if he doesn't get Clydie's land so he can develop on it. Sam decides to hang around, sleeping first in Clydie's barn and then in her bed, while repairing her late husband's Triumph motorcycle. And Hale hires an intimidation expert named Dunston, to force Clydie into selling her land. Secretly on Hale's payroll is corrupt sheriff Lonnie Cole, a sometime lover of Clydie. A jealous Lonnie discovers Sam's true identity and threatens to expose him if he doesn't leave. Not wanting to place Clydie in additional danger for helping a fugitive, Sam decides to leave, only to find that Hale has already blown the whistle on him in an attempt to get him out of the way. After evading police chasing him in cars, land rovers, helicopters, and on motorcycles and horseback, Sam returns to save Clydie from Dunston and Hale, who are planning to burn down her house."
+      ],
+      "budget": 15000000
+   },
+   "movielensId": 7014,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1993-01-15",
+      "dvdReleaseDate": "1998-10-27",
+      "directors": ["Robert Harmon"],
+      "runtime": 94,
+      "movieId": 7014,
+      "title": "Nowhere to Run",
+      "mpaa": "R",
+      "actors": [
+         "Jean-Claude Van Damme",
+         "Rosanna Arquette",
+         "Kieran Culkin",
+         "Ted Levine",
+         "Tiffany Taubman",
+         "Edward Blatchford",
+         "Anthony Starke",
+         "Joss Ackland",
+         "Allan Graf",
+         "Leonard Termo",
+         "Peter Malota",
+         "Robert Apisa",
+         "Jophery C. Brown",
+         "Tony Brubaker",
+         "Jack Lucarelli",
+         "Voyo Goric",
+         "Manny Perry",
+         "Thomas Rosales",
+         " Jr.",
+         "Sven-Ole Thorsen",
+         "Stephen Bridgewater",
+         "Christy Botkin"
+      ],
+      "imdbMovieId": "0107711",
+      "originalTitle": "Nowhere to Run",
+      "genres": [
+         "Action",
+         "Adventure",
+         "Drama",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": ["5Zy5JXQUvUM"],
+      "plotSummary": "Escaped convict Sam Gillen single handedly takes on ruthless developers determined to evict Clydie - a widow with two young children. Nobody knows who Sam is.",
+      "tmdbMovieId": 10413,
+      "avgRating": 2.6122,
+      "releaseYear": "1993",
+      "numRatings": 205,
+      "posterPath": "/mpEJ955gAHB5pGHbFGd7J4hW3lk.jpg"
+   }
+}

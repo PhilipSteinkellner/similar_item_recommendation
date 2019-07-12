@@ -1,0 +1,808 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [],
+      "imdb_id": "tt1571243",
+      "video": false,
+      "title": "Sniper: Reloaded",
+      "recommendations": [
+         14247,
+         38540,
+         128280,
+         105485,
+         36555,
+         277353,
+         36567,
+         65799,
+         141824,
+         74539,
+         115547,
+         380754,
+         239318,
+         401294,
+         58718,
+         172767,
+         22076,
+         119117,
+         379305,
+         398792
+      ],
+      "backdrop_path": "/xgE40geiSYLKLy6O5SG71SoesgQ.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 4,
+               "character": "Richard Miller",
+               "gender": 2,
+               "credit_id": "52fe4972c3a36847f819aa0f",
+               "name": "Billy Zane",
+               "profile_path": "/lkwvmo7vVL8TpMCDLRoHjZIkJQ4.jpg",
+               "id": 1954,
+               "order": 0
+            },
+            {
+               "cast_id": 5,
+               "character": "Col. Hans Jaeger",
+               "gender": 2,
+               "credit_id": "52fe4972c3a36847f819aa13",
+               "name": "Richard Sammel",
+               "profile_path": "/fa1eHH0Tg7CugDg9qIsxTsF2STX.jpg",
+               "id": 49487,
+               "order": 1
+            },
+            {
+               "cast_id": 6,
+               "character": "Sgt Brandon Beckett",
+               "gender": 2,
+               "credit_id": "52fe4972c3a36847f819aa17",
+               "name": "Chad Michael Collins",
+               "profile_path": "/eXC2wjQ3AX2gsFJjNKH3Ta1ZkQA.jpg",
+               "id": 228371,
+               "order": 2
+            },
+            {
+               "cast_id": 7,
+               "character": "Martin Chandler",
+               "gender": 2,
+               "credit_id": "52fe4972c3a36847f819aa1b",
+               "name": "Patrick Lyster",
+               "profile_path": "/5Gk1E6ctwH2GazkM5Jd8DiOTSsp.jpg",
+               "id": 109653,
+               "order": 3
+            },
+            {
+               "cast_id": 8,
+               "character": "Lieutenant Ellen Abramowitz",
+               "gender": 0,
+               "credit_id": "52fe4972c3a36847f819aa1f",
+               "name": "Annabel Wright",
+               "profile_path": "/oApVxDucXTgN3jcnmJOEj4QqXRj.jpg",
+               "id": 147232,
+               "order": 4
+            },
+            {
+               "cast_id": 9,
+               "character": "Dustin Nelson",
+               "gender": 0,
+               "credit_id": "52fe4972c3a36847f819aa23",
+               "name": "Conrad Kemp",
+               "profile_path": "/abaE6en6JJWaoRPD3d9AbL9YP5J.jpg",
+               "id": 228372,
+               "order": 5
+            },
+            {
+               "cast_id": 10,
+               "character": "Kelli Van Brunt",
+               "gender": 0,
+               "credit_id": "52fe4972c3a36847f819aa27",
+               "name": "Kayla Privett",
+               "profile_path": null,
+               "id": 228373,
+               "order": 6
+            },
+            {
+               "cast_id": 11,
+               "character": "Patrick Mundy",
+               "gender": 0,
+               "credit_id": "52fe4972c3a36847f819aa2b",
+               "name": "Ian Van Der Heyden",
+               "profile_path": null,
+               "id": 228374,
+               "order": 7
+            },
+            {
+               "cast_id": 34,
+               "character": "Jean Van Brunt",
+               "gender": 0,
+               "credit_id": "543b8583c3a368199c004e71",
+               "name": "Rob Fruithof",
+               "profile_path": null,
+               "id": 1373436,
+               "order": 8
+            },
+            {
+               "cast_id": 36,
+               "character": "Vincent Capobianco",
+               "gender": 0,
+               "credit_id": "543b85e8c3a368198c004ea7",
+               "name": "Nic Rasenti",
+               "profile_path": "/emKp6Re9lme4Gt2TJ9Sz0Ndtg6E.jpg",
+               "id": 1373437,
+               "order": 10
+            },
+            {
+               "cast_id": 37,
+               "character": "Captain Sporo Ngoba",
+               "gender": 0,
+               "credit_id": "543b8605c3a3681990005069",
+               "name": "Khulu M. Skenjana",
+               "profile_path": null,
+               "id": 1373438,
+               "order": 11
+            },
+            {
+               "cast_id": 39,
+               "character": "Vincent 'The Italian' Masiello",
+               "gender": 0,
+               "credit_id": "59f5f111c3a3681fc9035ee7",
+               "name": "Justin Strydom",
+               "profile_path": "/eSsrFy98hyeAvzTIAxNp8iSdX0h.jpg",
+               "id": 1264617,
+               "order": 12
+            },
+            {
+               "cast_id": 40,
+               "character": "Kyle Brown",
+               "gender": 0,
+               "credit_id": "59f5f1669251414d57035370",
+               "name": "Hlomla Dandala",
+               "profile_path": "/a05GQZaNcMRsGrIMotwztllzRgG.jpg",
+               "id": 1229854,
+               "order": 13
+            },
+            {
+               "cast_id": 41,
+               "character": "Martin Hoag",
+               "gender": 0,
+               "credit_id": "59f5f1c6925141428201562e",
+               "name": "Justin Shaw",
+               "profile_path": null,
+               "id": 1913897,
+               "order": 14
+            },
+            {
+               "cast_id": 42,
+               "character": "JAG Hiram Clarke",
+               "gender": 2,
+               "credit_id": "59f5f25492514142aa015715",
+               "name": "Martin Le Maitre",
+               "profile_path": null,
+               "id": 1088311,
+               "order": 15
+            },
+            {
+               "cast_id": 43,
+               "character": "Marine Sniper Nakelski",
+               "gender": 0,
+               "credit_id": "59f5f29f92514141ed0165f6",
+               "name": "Clyde Berning",
+               "profile_path": "/pZIfJFgAYnj1dkopGC9ciTr0hR7.jpg",
+               "id": 1541472,
+               "order": 16
+            },
+            {
+               "cast_id": 44,
+               "character": "SOCOM Commander",
+               "gender": 0,
+               "credit_id": "59f5f301c3a3681fc90361b4",
+               "name": "Adrian Waldron",
+               "profile_path": null,
+               "id": 1846254,
+               "order": 17
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4972c3a36847f819a9ff",
+               "name": "Claudio Fäh",
+               "profile_path": null,
+               "id": 56533,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4972c3a36847f819aa05",
+               "name": "John Fasano",
+               "profile_path": null,
+               "id": 65237,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4972c3a36847f819aa0b",
+               "name": "Ross Helford",
+               "profile_path": null,
+               "id": 65244,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "543b82b70e0a2649a8005048",
+               "name": "Michael Frost Beckner",
+               "profile_path": null,
+               "id": 21203,
+               "department": "Writing",
+               "job": "Characters"
+            },
+            {
+               "gender": 0,
+               "credit_id": "543b82ce0e0a2649a5004fbb",
+               "name": "Crash Leyland",
+               "profile_path": null,
+               "id": 25008,
+               "department": "Writing",
+               "job": "Characters"
+            },
+            {
+               "gender": 2,
+               "credit_id": "543b82e7c3a3681989004b98",
+               "name": "Claudio Fäh",
+               "profile_path": null,
+               "id": 56533,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "543b82fe0e0a2649b2004d18",
+               "name": "David Wicht",
+               "profile_path": null,
+               "id": 19697,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "543b830f0e0a2649b2004d1d",
+               "name": "Mark Sayfritz",
+               "profile_path": null,
+               "id": 939420,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "543b8323c3a3681989004ba0",
+               "name": "Marcus Trumpp",
+               "profile_path": null,
+               "id": 56535,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "543b8334c3a36819a1004f6a",
+               "name": "Lorenzo Senatore",
+               "profile_path": null,
+               "id": 61851,
+               "department": "Crew",
+               "job": "Cinematography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "543b83450e0a2649ab004f70",
+               "name": "William Flicker",
+               "profile_path": null,
+               "id": 551881,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "543b8357c3a36819a1004f6f",
+               "name": "Christa Schamberger",
+               "profile_path": null,
+               "id": 23828,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "543b83700e0a2649a8005055",
+               "name": "Shane Bunce",
+               "profile_path": null,
+               "id": 971040,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "543b838ac3a3681998004ac5",
+               "name": "Maria Hofmeyer",
+               "profile_path": null,
+               "id": 1373426,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "543b839dc3a368198c004e6c",
+               "name": "Maria Schicker",
+               "profile_path": null,
+               "id": 25750,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "543b83c60e0a2649a8005063",
+               "name": "Sonja Nyman",
+               "profile_path": null,
+               "id": 1373427,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "543b83e50e0a2649b2004d2e",
+               "name": "Derek Leininger",
+               "profile_path": null,
+               "id": 1373428,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "543b83ff0e0a2649a8005070",
+               "name": "Eric Raber",
+               "profile_path": null,
+               "id": 1373429,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "543b842e0e0a2649a8005077",
+               "name": "Aubrey Lovett",
+               "profile_path": null,
+               "id": 1373430,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "543b8452c3a368199c004e50",
+               "name": "Robyn Aronstam",
+               "profile_path": null,
+               "id": 6514,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "543b84740e0a2649a5004fea",
+               "name": "P.J. Foley",
+               "profile_path": null,
+               "id": 1373431,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "543b848bc3a3681990005048",
+               "name": "Christina Graff",
+               "profile_path": null,
+               "id": 1373432,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "543b84a20e0a2649a10051a4",
+               "name": "Paul Graff",
+               "profile_path": null,
+               "id": 1373433,
+               "department": "Visual Effects",
+               "job": "Visual Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "543b84c00e0a26499e0051bb",
+               "name": "Magdalena Wolf",
+               "profile_path": null,
+               "id": 1373434,
+               "department": "Visual Effects",
+               "job": "Visual Effects Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "543b84dbc3a368199500516d",
+               "name": "Lisle Engle",
+               "profile_path": null,
+               "id": 1373435,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54ea271ec3a36836dc004e02",
+               "name": "Luke Guidici",
+               "profile_path": null,
+               "id": 1302737,
+               "department": "Crew",
+               "job": "Visual Effects Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "59f5f3679251414d20031e63",
+               "name": "Nina Heyns",
+               "profile_path": null,
+               "id": 1530270,
+               "department": "Production",
+               "job": "Line Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "59f5f3f9c3a3682e0c014f5b",
+               "name": "Nancy Bishop",
+               "profile_path": "/AejHeiQQ14pm4Ezfcd4iYtZXAQA.jpg",
+               "id": 25729,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f5f4309251414d57035711",
+               "name": "Karel Flint",
+               "profile_path": null,
+               "id": 1896840,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f5f462c3a3682daa0146ce",
+               "name": "Maria Hofmeyr",
+               "profile_path": null,
+               "id": 1913902,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f5f4879251414d20031fc8",
+               "name": "Melissa Slabbert",
+               "profile_path": null,
+               "id": 1913903,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Department Head"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f5f4c69251414221014fb6",
+               "name": "Jaco Snyman",
+               "profile_path": null,
+               "id": 1854830,
+               "department": "Crew",
+               "job": "Makeup Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f5f5089251414d20032064",
+               "name": "Marisa Soneman",
+               "profile_path": null,
+               "id": 1410276,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f5f53ec3a3682e4c014ff8",
+               "name": "Corry Turner",
+               "profile_path": null,
+               "id": 1913904,
+               "department": "Directing",
+               "job": "First Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f5f579c3a3682dd4015988",
+               "name": "Jeanne Henn",
+               "profile_path": null,
+               "id": 1913905,
+               "department": "Art",
+               "job": "Property Master"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f5f5a79251414d5703595f",
+               "name": "Amanda Scholtz",
+               "profile_path": null,
+               "id": 1854757,
+               "department": "Art",
+               "job": "Leadman"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f5f62f92514142c90153d5",
+               "name": "Steve LeSieur",
+               "profile_path": null,
+               "id": 1558580,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f5f6b8c3a3682df40138c8",
+               "name": "Kevin Bitters",
+               "profile_path": null,
+               "id": 1543905,
+               "department": "Crew",
+               "job": "Pyrotechnician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f5f758c3a3682d6a0155c4",
+               "name": "Gerhard van der Heever",
+               "profile_path": null,
+               "id": 1564090,
+               "department": "Visual Effects",
+               "job": "Special Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f5f79b925141425701679c",
+               "name": "Cyryl Koshyk",
+               "profile_path": null,
+               "id": 1395453,
+               "department": "Visual Effects",
+               "job": "Visual Effects Coordinator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f5f8209251414d57035ddf",
+               "name": "Karin Alsbirk",
+               "profile_path": null,
+               "id": 1913908,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f5f8429251414d200325dd",
+               "name": "Lars Cox",
+               "profile_path": null,
+               "id": 1424626,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f5f8a5925141422101565c",
+               "name": "Mark Davidson",
+               "profile_path": null,
+               "id": 1913909,
+               "department": "Camera",
+               "job": "Key Grip"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f5f92b9251414d200327a2",
+               "name": "Emanuele Salvatore",
+               "profile_path": null,
+               "id": 1141914,
+               "department": "Camera",
+               "job": "Key Grip"
+            },
+            {
+               "gender": 2,
+               "credit_id": "59f5f9a5c3a3682e4c015788",
+               "name": "Lorenzo Senatore",
+               "profile_path": null,
+               "id": 61851,
+               "department": "Camera",
+               "job": "Steadicam Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f5f9dac3a3682df4013df8",
+               "name": "Athena Lamberis",
+               "profile_path": null,
+               "id": 1913914,
+               "department": "Costume & Make-Up",
+               "job": "Wardrobe Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f5f9fe92514141ed017221",
+               "name": "Grant David Cinnamon",
+               "profile_path": null,
+               "id": 1913915,
+               "department": "Production",
+               "job": "Location Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59f5fa2cc3a3681fc9036e62",
+               "name": "Dale Townsend",
+               "profile_path": null,
+               "id": 1913919,
+               "department": "Production",
+               "job": "Production Coordinator"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "War",
+            "id": 10752
+         },
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         }
+      ],
+      "popularity": 5.539204,
+      "production_countries": [
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         },
+         {
+            "iso_3166_1": "ZA",
+            "name": "South Africa"
+         },
+         {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+         }
+      ],
+      "id": 58767,
+      "vote_count": 48,
+      "budget": 0,
+      "overview": "Brandon Beckett (Collins), the son of the previous Sniper film's star Thomas Beckett (Tom Berenger), takes up the mantle set by his father and goes on a mission of his own.",
+      "similar": [],
+      "original_title": "Sniper: Reloaded",
+      "runtime": 91,
+      "poster_path": "/dpkM74BP9CE94fYvCKciY3UegdR.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "ApolloMovie Beteiligungs",
+            "id": 3299,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Film Afrika Worldwide",
+            "id": 4792,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Stage 6 Films",
+            "id": 29097,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2011-04-26",
+      "vote_average": 5,
+      "belongs_to_collection": {
+         "backdrop_path": "/xmXnB27dZSp1SliHOyTio25P3Il.jpg",
+         "name": "Sniper Collection",
+         "id": 14246,
+         "poster_path": "/kbXbfY8DZWZmleuiBNxbfFencjp.jpg"
+      },
+      "tagline": "Deep in the Congo, Marine... Peace Keeper... Killer.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "South Africa",
+      "color": null,
+      "budgetCurrency": null,
+      "directors": ["Claudio Fäh"],
+      "runtime": 91,
+      "synopsis": "While working with the UN Forces in the Democratic Republic of the Congo, Marine Sgt. Brandon Beckett (Chad Michael Collins), son of renowned sniper Thomas Beckett, receives orders to rescue a European farmer trapped in the middle of hostile rebel territory. When he and his men arrive at the farm, a mysterious sniper ambushes them, wounding Beckett and killing everyone else. With the help of his fathers former protégé, sniper instructor Richard Miller (Billy Zane), Beckett must learn to think like a sniper to track down the assassin before the sniper returns to finish the job. On top of this he must also track down the one who is giving the orders and reveal a conspiracy.",
+      "writers": [
+         "John Fasano",
+         "Ross Helford"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt1571243/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTY5Nzg5MTg5OF5BMl5BanBnXkFtZTcwNDg3NDM1NA@@._V1_SY317_CR27,0,214,317_AL_.jpg",
+      "actors": ["Stars: Clyde Berning, Chad Michael Collins, Hlomla Dandala | See full cast and crew »"],
+      "reviews": [
+         "This movie has good quality action, good sound effects, and not too bad for an action movie. Script is very weak. Poor dialogs and poor acting is pulling the quality of the movie down. I guess actors are inexperienced but doing their best with limited talents they got (or limited by the script - not sure). Storyline is all right. It has a little twist but it becomes apparent at the start of the movie. No deep emotions and drama element, although, there was enough room for it in the story. If you are looking for a thriller or a serious action movie, this is NOT it. This is something little better than a tele drama, which will keep you occupied till the end. There are few \"adult elements\" in the movie: a short sex scene, shooting, blood, and display of child soldiers.",
+         "This movie is far better than the previous sniper instalments at least the ones I remember seeing, first of all I'd like to commend the screen writers for the choice of setting, the savannah bathed in the African sun provided a unique and enchanting backdrop for good action shots. I found fascinating the way the producers made use of visual effects to create the blood splatter and the plot development was not too bad, the movie starts of in the future- with a court martial thus leading us back to the events that led Sgt Brandon Beckett to go AWOL in search of the sniper that wiped out his entire unit. While I find that the story line keeps you interested in finding out how Beckett intends to find the sniper it doesn't give you a punchy ending, I feel the endgame was rushed through and the villain (masiello) disposed of in a manner that defied the reputation that the writers had so painstakingly built to create. Beckett received the unsolicited help of Miller (part played by Billy Zane) to achieve his mission, Miller is a friend of his late father and being something of a sniper legend offers to help his friends son along on his mission. In the end director Claudio Fah I feel will need six stars from me for the effort. Recommendation: Watch the movie.",
+         "Greetings from Lithuania. Now that's a nice one action film. I love the first \"Sniper\". It was my childhood film. Me with my friends watched \"Sniper\", \"Rambo\" hundreds of times. That was a GREAT (slow) action film. Years later, i watched \"Sniper 2\". I don't even want to remember that one because there is nothing to remember. Couple of days before i saw \"Sniper Reloaded\" (like \"Matrix Reloaded\" heh) and - what a surprise, i really liked this movie. Sure there isn't anything special - no SGI or Oscar worthy stuff, just a simple low budget action movie. And it works. Maybe because i was a fan of the first \"Sniper\" i really liked this one. The lines where they remember \"a father\" are a great ones (to the fans of the first one). Overall it's a really nice one film, just don't expect much and you will be really surprised. My vote is 7, but because i'm a fan of the first one i'm actually giving this one a solid 8.",
+         "We see the son (Chad Michael Collins) of the original Sniper (Tom Berenger) in a story that goes up and down a bit. The part where the whole team gets wiped out shows some good directing and camera-work in my eyes, but the whole story goes a bit downhill after that, and with it, the directing and that same camera-work. There's a whole lot of running back to bases and then back into the jungle, on the way there's a very stubborn rebel that can take about 6 snipershots and the skirmishes and battles get more and more amateuristic near the end. In the final I found the \"feared evil\" sniper being rather clumsy and he didn't come across as a well-trained soldier. Maybe I am just a bit disappointed that this is not really about the sniper, it is about finding the sniper. I never got that thrill from this movie of what a sniper feels and sees - thats basically what I wanted to see.",
+         "I kinda feared a disaster coming when I first heard about this movie only a couple of months before its release. No Berenger, at all. Some guy I never heard of playing his son. However Billy Zane's involvement sounded promising(although it had the taste of 'we couldn't get Berenger, so here have Zane instead') The trailer looked solid but showed absolutely nothing that could probably have promised quality of the first Sniper. After having watched the final product, I have to admit that I enjoyed it. A lot. Chad Michael Collins plays a charismatic character but underacts in some situations for my taste(final kill). His physical appearance is very close to Berenger's. Think of Bruce Li in Bruceploitation terms ;) Billy Zane has just enough screen time to qualify his second name listing in the credits. He comes a lot more likable than in the first movie and has some gory kills and cool one-liners. The remaining characters also do their jobs pretty well considering their limited screen time. The script is nothing special but so were the scripts for the first 3 movies. It pays a lot of homages to its predecessors for example in some kills and camera shots. It's clear that the makers have seen the original movies and were trying hard to bring the most enjoyable elements from those movies into the reboot. The typical \"mission went wrong, fight on your own, cover up a conspiracy\" element is there. As usual for the snipers series the main bad guys are not evil 'just because the script says so' but have realistic motivations. The sex scene comes out of nowhere but is needed to make some later plot points more realistic. This surely could have been made in a more fluent and less forced way. The camera work is solid. The shaky cam is nowhere as annoying and overused as in a lot of new action movies ala The Expendables. There are some beautiful landscape shots and the locations are always exciting to look at. The mounted on the weapon camera angle is competently done for a movie of this budget league, although admittedly somewhat less impressive in the year 2011 than in 1998. The action scenes are shot furiously. Like in the first 3 movies there are not many of them, but when they come, they come with a bang. The more dialog-heavy scenes in between always have something going on and never feel like boring padding. Some weak points of the action scenes is that the baddies seem to like to run towards the sniper's hideout without shooting just to be easily killed instead of trying to hide. Maybe they are just in panic, don't get where the shots are coming from and think that they are running from the shots and not into them. Maybe it's the director's fault, both possibilities are realistic. The soundtrack is nowhere as subtle-but-memorable as Gary Chang's soundtrack in the first two movies and also not as melancholic as the American Beautyesque soundtrack of the third Sniper movie. It sounds generic however it fits to the mood of the slower scenes and gets more energetic in the action scenes. It still manages to play a couple of similar tunes to the Chang version. Not much to complain about. In conclusion I have to say that the Sniper series treated their fans way better than other series based on movies from the 90ies(see Darkman, Anaconda, Operation Delta Force). They might not be masterpieces and surely the Sniper sequels have been criticized for some factual errors in their plots/weapons/locations. In these regards \"Sniper: Reloaded\" may not be different. However for fans it is a great reboot of a series that just could not have survived with an aging Tom Berenger. I would never had thought that I would say that but: Introducing Beckett's son to series was probably the best solution in order to being able to continue the series. With Billy Zane the producers have established connection to an important character from the first movie. While the movie never feels like it belongs into the cinemas, it is obvious that everyone involved put huge effort into making the final result as good as possible. Which sadly is not that common in today's DTV movies. Ratings Sniper: Reloaded 8/10 (with a possible fan-boy bonus of 1.5-2 points :) ) For reference: Sniper 1: 9.5/10 Sniper 2: 6/10 Sniper 3: 6.5/10 With that in mind: Make another one!",
+         "I was about to write a detailed review on this but Matt-441 said it all... i totally agree with him.... with no super-duper stars, this movie really hits the very best of Genre in recent times... Me, i like movies where i can go inside the screen and be in the movie. I didn't move an inch watching this one... Script was well written, acting was way above average.. sound effects are key to the sniper movies, sound rocked in this movie!!!... what else?? scenery... it is based in Africa so what not to expect? beautiful views of jungle, Elephants, Rhinos, Giraffes etc... it is worth watching in short...",
+         "Sniper Reloaded is a film about politics but apparently some of it's bloodthirsty reviewers expected some sort of African cowboy action movie! Well, for what its worth, they got one insofar that there was plenty of blood (one wonders about their mentality though). OK, this is a (relatively) low-budget movie with (for me) only one known actor (Zane) in it. I particularly noted that, for over half the cast, this is their only film credit. Well that made it real! Congolese people played Congolese people as they would be in the prevalent conditions. Kayla Privett, in her first (and only) acting role, portrayed a kid who's dad had been shot only a short while after their reunification. Maybe her youth and inexperience was a valuable asset in portraying a bewildered girl in a hostile environment. I hope she has a professional manager and we see more of her in the future. I wish that there was a bio for her on IMDb. In particular, I liked how Beckett (Collins) and especially Miller (Zane) did what they were supposed to do and actually hit their targets - no messing. This is a kill or be killed action - so they only had one chance. We (the viewers) weren't insulted by any of that crappy 'hero' stuff where the good guy gets into a big moralistic discussion with his target (except at the end where that was the plan anyway). When the hero, Brandon Beckett eventually faces the sniper, Masiello, he just shoots him in the face! There was nothing to discuss. Masiello knew why Brandon was there and Brandon knew why Brandon was there - end of story! I guess I'm sick and tired of movies where the protagonists do numerous death scenes when, given the number of bullets/sword wounds (or whatever), still come back for more. As I say, it insults the intelligence - and this film doesn't have any of that! Great! I also liked the inclusion of wildlife and scenic shots throughout the movie. That gave it realism and showed how political conflict and ambition are no respecters of location. Not a blockbuster by any means - did the producers ever expect it to be? Surely, if they did, then they would have used some big-name action stars like Bruce Willis and Jason Statham. I enjoyed it though.",
+         "For the most part, any film that relates itself to a franchise by having the words \"Son of\" end up doing horrible with fans and audiences. Son of the Mask (2005) is a perfect example of this type of fail. And then there are the few that actually respect their elders instead of jumping all over them. Sniper: Reloaded is exactly what it implies in the title; Berenger's out, time to bring in his \"son\" to fill in the shoes. And it's done almost perfectly to that of the first Sniper (1993). This \"fourquel\", as some would call it, is about the story of Sgt. Brandon Beckett (Chad Michael Collins) who decides to fill in for his legendary father, Master Gunnery Sgt. Thomas Beckett, played by Tom Berenger in the past three films. Collins looks astonishingly similar to that of Berenger and it was stroke of luck that he acts just like him too. Thank you Christa Schamberger for casting Collins, you're great! And that's just one actor to be thankful for. Then there's the character of Richard Miller (Billy Zane) who is now overgrown looking and has receding hair. So much for what he used to be! Now he's back to help Beckett's son become a sniper. And it's an honor to see Zane's character as the father figure in this film. This is the duo that made this franchise a hit and it's gratifying to see Richard Miller reciprocating what he learned to Tom Beckett's son. Not mention the fact that Zane makes his character so nonchalant yet charismatic. I laughed at a lot of the lines Miller had to say. It was fun to see him again. The way John Fasano configured the script was cleverly written. There are some many juicy hints and references that will fans cringing with joy. Right at the beginning fans will even see a military record of Tom Beckett with an authenticated picture. Sweet. The audience will even learn why Brandon Beckett joined the marines. A specific character mentions even the line \"One shot, two kills\". Ahhh the memories! One thing that disappointed me was that even with all these clues, the truth to what happened to Thomas Beckett is left unmarked. Why? I guess the only thing we can assume is that since Berenger did not reprise the role, the character of Beckett Sr. is dead too. Oh well. Like the past two sequels, the sniper franchise has moved to an action genre and has abandoned the thriller part of it. That still annoyed me but for what it's worth, this particular action was more entertaining than Sniper 2 (2002) or Sniper 3 (2004) put together. The carnage was turned up too which was a nice touch. It made the warfare more fun to watch. Credit to director Claudio Fäh, also director of far less entertaining Hollow Man 2 (2006) for the action sequences. His direction was much better than the Hollow Man sequel. The scenery is great too. Sniper 2 (2002) was in the midst of a city and it didn't seem as real for a sniper to be taking out enemies there than in a Panamanian jungle. Sniper 3 (2004) had some of that but still failed to elevate it much higher. But Sniper: Reloaded is all filmed in the African Sahara. The audience will even get to see live animals; simply beautiful. Both Mark Sayfritz and Marcus Trumpp had an enjoyable musical soundtrack. Of course since this is a direct-to-video sequel it won't be released, but it does feel authentic and not just random notes put together. Finally, as love interests go, I'd say it didn't have to be penned in but it did help make a good subplot. Annabel Wright plays Beckett's secret lover, Lt. Ellen Abramowitz, who helps him find the bad guys and take them out. I'm not sure why a sex scene was obligatory to have in the running time though. I guess it was that the story revolved around Collins, and because he's hunk, he's suppose to have sex with a fairly attractive military chick? I don't know. But overall I was very pleased with the outcome and it even leaves itself open for another sequel, which hopefully will happen with the same cast from this movie. Aside the few nit-picks, Sniper: Reloaded is hard not to enjoy. The story, action, music, script and atmosphere by far surpass the last two sequels.",
+         "Can you ever compare to a legend? After being ambushed on a mission Sgt. Beckett (Collins), must step into his fathers shoes. Can he become as good of a sniper as his dad was and fight his way home? I spent the last few days watching \"Sniper 1-3\" in order to catch up. Although it helps to know the back story of his father and why Miller (Zane) is helping, but it's not necessary. This movie is very much like the other three, action is very good and exciting to watch. When there is no action or shooting, which is about 80% of the movie it slows way down and is hard to stay focused on it. If you like the other ones you will probably like this one. I did not. If you like \"The American\" you will probably enjoy this also. I just couldn't stay interested. I give it a C. Would I watch again? - I will not.",
+         "I have to admit that it was a chance that I saw this movie, moreover I wasn't expecting anything much from this flick, however to my surprise this movie came out to be a complete winner! I have to commend and give credit to the director and camera crew of the movie, which made this flick so interesting. Even acting by different characters is not bad, further I would suggest that everyone who is a snipper movie fan and an action movie fan should give this flick a chance. This movie is shot in Africa, among real African people as background actors, unlike clichés which we often see these days. This move has substance and shows how plutonic determination of a soldier can make him overcome all odd. I am sure whosoever watches this movie will be glued till the end! Happy Viewing!"
+      ],
+      "genres": [
+         "Action",
+         "Drama",
+         "Thriller",
+         "War"
+      ],
+      "productionCompanies": [
+         "Stage 6 Films",
+         "ApolloMovie Beteiligungs",
+         "Film Afrika Worldwide"
+      ],
+      "summaries": [
+         "Brandon Beckett the son of Master Gunnery Sargent Thomas Beckett while serving as a UN peace keeper and government trainer is assigned the task to rescue a European farmer located in the middle of hostile rebel territory. Upon arrival a mysterious sniper ambushes them, wounding Beckett and killing everyone else. Becket returns to his base and desires to seek revenge by killing the sniper. during his time on the base Beckett becomes involved with British Army Lieutenant Ellen Abramowitz. Beckett Also meets his father's former protégé, sniper instructor Richard Miller.",
+         "The son of a renowned sniper decides to track down the sniper who ambushed his squad when they were sent to rescue a white planter in the Congo."
+      ],
+      "budget": 0
+   },
+   "movielensId": 109939,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2011-04-26",
+      "dvdReleaseDate": "2011-04-26",
+      "directors": ["Claudio Fäh"],
+      "runtime": 91,
+      "movieId": 109939,
+      "title": "Sniper: Reloaded",
+      "mpaa": "R",
+      "actors": [
+         "Billy Zane",
+         "Richard Sammel",
+         "Chad Michael Collins",
+         "Patrick Lyster",
+         "Annabel Wright",
+         "Conrad Kemp",
+         "Kayla Privett",
+         "Ian Van Der Heyden",
+         "Rob Fruithof",
+         "Nic Rasenti",
+         "Khulu M. Skenjana",
+         "Justin Strydom",
+         "Hlomla Dandala",
+         "Justin Shaw",
+         "Martin Le Maitre",
+         "Clyde Berning",
+         "Adrian Waldron"
+      ],
+      "imdbMovieId": "1571243",
+      "originalTitle": "Sniper: Reloaded",
+      "genres": [
+         "War",
+         "Action",
+         "Thriller",
+         "Drama"
+      ],
+      "youtubeTrailerIds": ["MXOHTuXPM1k"],
+      "plotSummary": "Brandon Beckett (Collins), the son of the previous Sniper film's star Thomas Beckett (Tom Berenger), takes up the mantle set by his father and goes on a mission of his own.",
+      "tmdbMovieId": 58767,
+      "avgRating": 2.55556,
+      "releaseYear": "2011",
+      "numRatings": 18,
+      "posterPath": "/dpkM74BP9CE94fYvCKciY3UegdR.jpg"
+   }
+}

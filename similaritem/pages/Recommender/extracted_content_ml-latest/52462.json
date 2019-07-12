@@ -1,0 +1,589 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "africa",
+            "id": 409
+         },
+         {
+            "name": "blood splatter",
+            "id": 8636
+         },
+         {
+            "name": "surrealism",
+            "id": 9887
+         },
+         {
+            "name": "blood",
+            "id": 11221
+         },
+         {
+            "name": "robot",
+            "id": 14544
+         },
+         {
+            "name": "adult animation",
+            "id": 161919
+         }
+      ],
+      "imdb_id": "tt0455326",
+      "video": false,
+      "title": "Aqua Teen Hunger Force Colon Movie Film for Theaters",
+      "recommendations": [
+         254174,
+         150889,
+         118641,
+         40454,
+         28314,
+         164423,
+         27773,
+         204904,
+         36523,
+         143928,
+         62105,
+         30798,
+         48463,
+         8675,
+         245589,
+         47360,
+         218266,
+         31605,
+         7234,
+         38295
+      ],
+      "backdrop_path": "/iMBnKJxna8nuy9o9hKqAACPagO8.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Master Shake (voice)",
+               "gender": 2,
+               "credit_id": "52fe45469251416c75050f9f",
+               "name": "Dana Snyder",
+               "profile_path": "/1fwzneYjtj5nkumzoGshUvEUisS.jpg",
+               "id": 74337,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Frylock (voice)",
+               "gender": 2,
+               "credit_id": "52fe45469251416c75050fa3",
+               "name": "Carey Means",
+               "profile_path": "/sxPBoEOyYbCwjz2lXIkQHoquPDM.jpg",
+               "id": 74338,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Meatwad / Carl / Ignignokt / Video Game Voice (voice)",
+               "gender": 2,
+               "credit_id": "52fe45469251416c75050fa7",
+               "name": "Dave Willis",
+               "profile_path": "/jXEMUfDvKNgrsroTLhFlshfGndy.jpg",
+               "id": 74339,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Oglethorpe (voice)",
+               "gender": 0,
+               "credit_id": "52fe45469251416c75050fab",
+               "name": "Andy Merrill",
+               "profile_path": "/54PyJnbrSdCKpfpLs6OM7Gp3FOc.jpg",
+               "id": 74340,
+               "order": 3
+            },
+            {
+               "cast_id": 9,
+               "character": "Chicken Bittle (voice)",
+               "gender": 2,
+               "credit_id": "52fe45469251416c75050fc7",
+               "name": "Bruce Campbell",
+               "profile_path": "/hZ2fW0gpPIBvXxT5suJzaPZQCz.jpg",
+               "id": 11357,
+               "order": 4
+            },
+            {
+               "cast_id": 10,
+               "character": "Time Lincoln (voice)",
+               "gender": 2,
+               "credit_id": "5321fe7f9251411f85003659",
+               "name": "Fred Armisen",
+               "profile_path": "/d4RwMcYqEGsetnYsfWUZyG1ix3P.jpg",
+               "id": 61110,
+               "order": 5
+            },
+            {
+               "cast_id": 11,
+               "character": "Walter Melon (voice)",
+               "gender": 2,
+               "credit_id": "5321fea59251411f8100348c",
+               "name": "Chris Kattan",
+               "profile_path": "/kTmr5DuGMoXPFH0FcXxUqQKhpgA.jpg",
+               "id": 58317,
+               "order": 6
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe45469251416c75050fb1",
+               "name": "Matt Maiellaro",
+               "profile_path": "/filHP5z1M7b28SI8fvaeGeuxTsw.jpg",
+               "id": 74341,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe45469251416c75050fb7",
+               "name": "Dave Willis",
+               "profile_path": "/jXEMUfDvKNgrsroTLhFlshfGndy.jpg",
+               "id": 74339,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe45469251416c75050fbd",
+               "name": "Matt Maiellaro",
+               "profile_path": "/filHP5z1M7b28SI8fvaeGeuxTsw.jpg",
+               "id": 74341,
+               "department": "Writing",
+               "job": "Author"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe45469251416c75050fc3",
+               "name": "Dave Willis",
+               "profile_path": "/jXEMUfDvKNgrsroTLhFlshfGndy.jpg",
+               "id": 74339,
+               "department": "Writing",
+               "job": "Author"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5518ec6fc3a36862ef006ab6",
+               "name": "Joe Pitt",
+               "profile_path": null,
+               "id": 1447382,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "551f9289c3a3684dc1001184",
+               "name": "Matt Whitlock",
+               "profile_path": null,
+               "id": 1447343,
+               "department": "Writing",
+               "job": "Storyboard"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55357dbe9251417eb80022cd",
+               "name": "Nikki Vanzo",
+               "profile_path": null,
+               "id": 1128341,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55357ff2c3a3681c35001b82",
+               "name": "Myung Nam Jang",
+               "profile_path": null,
+               "id": 1457207,
+               "department": "Visual Effects",
+               "job": "Animation Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55357ffec3a368523e004228",
+               "name": "Joon Sik Kim",
+               "profile_path": null,
+               "id": 1457209,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55358009c3a3682dc2002bc1",
+               "name": "Duk Hoo Kim",
+               "profile_path": null,
+               "id": 1457210,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5535801392514166aa0006c3",
+               "name": "Young Nam Kim",
+               "profile_path": null,
+               "id": 1457211,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5535801e925141118c0000fd",
+               "name": "Tae Hyun Park",
+               "profile_path": null,
+               "id": 1457212,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5535804b925141118c000104",
+               "name": "Eun Young Park",
+               "profile_path": null,
+               "id": 1457213,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55358059c3a368523e00422f",
+               "name": "Sun Jae Lee",
+               "profile_path": null,
+               "id": 1457214,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55358065c3a3682dc2002bce",
+               "name": "Ho Sik Lee",
+               "profile_path": null,
+               "id": 1457215,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55358070925141675e002841",
+               "name": "Mi Sun Yoon",
+               "profile_path": null,
+               "id": 1453589,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5535807cc3a3680bdc002db8",
+               "name": "Sun Kyu Kim",
+               "profile_path": null,
+               "id": 1457216,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55358087c3a36852de004379",
+               "name": "Su Mee Cho",
+               "profile_path": null,
+               "id": 1457217,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "55358094c3a36834430024ae",
+               "name": "Yong Bae Won",
+               "profile_path": null,
+               "id": 1457218,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5535809e92514125dc0044e0",
+               "name": "Kyu Haw Jo",
+               "profile_path": null,
+               "id": 1457219,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "553580a89251417ae3005f4c",
+               "name": "Mee Sun Jo",
+               "profile_path": null,
+               "id": 1457220,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "553b3028925141275e004a9f",
+               "name": "Bill Schwab",
+               "profile_path": null,
+               "id": 1447499,
+               "department": "Art",
+               "job": "Background Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "553d72d6c3a3685cf8008393",
+               "name": "Eric Wachtman",
+               "profile_path": null,
+               "id": 1459544,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "553dad1592514138a9009b29",
+               "name": "Chung Sup Yoon",
+               "profile_path": null,
+               "id": 1447427,
+               "department": "Art",
+               "job": "Background Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5548d3aac3a368787700237c",
+               "name": "James Galatas",
+               "profile_path": null,
+               "id": 1447545,
+               "department": "Crew",
+               "job": "Compositors"
+            },
+            {
+               "gender": 0,
+               "credit_id": "554af267c3a3685e4c000f93",
+               "name": "Bob Pettitt",
+               "profile_path": null,
+               "id": 1397793,
+               "department": "Art",
+               "job": "Background Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "554af26fc3a3685e63000eb5",
+               "name": "Bob Pettitt",
+               "profile_path": null,
+               "id": 1397793,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "554af47392514174ef000c4a",
+               "name": "Scott Fry",
+               "profile_path": null,
+               "id": 1459563,
+               "department": "Visual Effects",
+               "job": "Animation Production Assistant"
+            },
+            {
+               "gender": 0,
+               "credit_id": "554bc4d39251413acd00055b",
+               "name": "Keith Crofford",
+               "profile_path": null,
+               "id": 1215656,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "555257fdc3a3684191003ce6",
+               "name": "Ray daSilva",
+               "profile_path": null,
+               "id": 1462615,
+               "department": "Art",
+               "job": "Background Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "555ff4e49251412c9300013c",
+               "name": "Chul-ho Kim",
+               "profile_path": null,
+               "id": 1469852,
+               "department": "Production",
+               "job": "Production Manager"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Animation",
+            "id": 16
+         },
+         {
+            "name": "Comedy",
+            "id": 35
+         }
+      ],
+      "popularity": 2.655978,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 13158,
+      "vote_count": 43,
+      "budget": 0,
+      "overview": "An action epic that explores the origins of the Aqua Teen Hunger Force (better known as Master Shake, Frylock, and Meatwad,) who somehow become pitted in a battle over an immortal piece of exercise equipment.",
+      "similar": [
+         588,
+         341006,
+         381288,
+         10527,
+         11430,
+         4141,
+         9732,
+         9473,
+         19908,
+         10185,
+         11837,
+         45132,
+         765,
+         1991,
+         13885,
+         8456,
+         1690,
+         24,
+         948,
+         769
+      ],
+      "original_title": "Aqua Teen Hunger Force Colon Movie Film for Theaters",
+      "runtime": 86,
+      "poster_path": "/2n9wHyZy8L6itGMEwXeIHaSo2Ql.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Adult Swim",
+            "id": 6759,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Williams Street",
+            "id": 6760,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "First Look Pictures",
+            "id": 13534,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Cartoon Network",
+            "id": 33423,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/6rFNo5taSC9i0Sxnl81nucQMsw9.png",
+            "name": "Warner Bros. Pictures",
+            "id": 174,
+            "origin_country": "US"
+         }
+      ],
+      "release_date": "2007-04-13",
+      "vote_average": 6.3,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": [
+         "Matt Maiellaro",
+         "Dave Willis"
+      ],
+      "runtime": 86,
+      "synopsis": null,
+      "writers": [
+         "Matt Maiellaro",
+         "Dave Willis"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0455326/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTc0OTQwNzYyNF5BMl5BanBnXkFtZTcwMDc5NTM0MQ@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Dana Snyder, Dave Willis, Carey Means | See full cast and crew »"],
+      "reviews": [
+         "There are two types of people, those who get Aqua Teen Hunger Force and those who just don't understand its appeal. Having said that, I am of the former. I have always loved Aqua Teen Hunger Force. For those like me, you will not be disappointed. This movie is great! Sure, the movie goes all over the place and has a zany plot that really goes no where, but thats what makes the movie so good, it follows the same crazy storyline style of the show. Without giving too much away, from the old school 80s style death metal intro on to the end, the movie is hilarious. Any fan of the show MUST see this movie, it is in my opinion the best piece of work to come out of Williams Street to date.",
+         "From the days of Bunuel and Dali to the years of Fellinni and Lynch to be followed by the genius that is The Aqua Teen Hunger Force. \"If you do not understand, you should not be here,\" we're warned. For those who attempt to make sense out of the abstract mess that is life, avoid. For those who can appreciate the nonsensical absurdity that it holds, view and love. It's just so goddamn beautiful and anybody who criticizes the 'pointless' nature of this film, try finding anything of an otherwise nature. Please. A vital attack on censorship, the senses, and sense itself. With animation so beautiful in it's simplicity, voices that could not fit better (specifically the Master Shake), and the freshest thing since Darwinism. A cinematic meditation.",
+         "I'm 51 years old -- a suburban housewife. My son, now 11, introduced me to ATHF 4 years ago. At first, I tuned out. Then I got hooked. Now we have almost all of their videos and the show is my favorite on TV. My son and I just got back from seeing the film. It's brilliant. I laughed out loud almost the entire time and it's not easy to get me to laugh out loud at the movies. Like some have said -- one either gets Aqua Teen or one doesn't. I feel lucky to be among the former and am proud that my son is astute enough to appreciate the humor also ... The show is a terrific send-up of just about everything imaginable -- including trite movie conventions -- and the film did not disappoint. That being said, you have to let yourself get ready to trip, and I did have to assure the young man selling me the tickets that my son and I knew what we were getting into. Honestly, it's not that shocking and the vulgarities are delivered so deftly and speedily that one hardly has time to focus or dwell.",
+         "This movie was the funniest movie I've seen in a long time; in fact, I can't remember a single movie that literally made me laugh out loud the entire movie. Whether you'll like this movie or not will depend on if you enjoy absurdist humor, such as the ATHF TV show. If you do enjoy absurdism, I guarantee you, this movie is the absolute pennacle in absurdist hurmor and cinema. Rest assured, Aqua Teen fans, this movie will definitely fulfill and surpass all your expectations for an Aqua Teen movie. Oh, and don't bring your babies. Not because it's bad for them but no one likes a goddamn crying baby in a movie theater.",
+         "This is the official Aqua Teen Hunger Force movie...and it delivers only as Aqua Teen can. Master Shake, Meatwad, Carl, the Mooninites....everyone's here, with a couple fun cameos here and there. Non-fans take note - if you've never seen the show, this movie will likely make NO SENSE WHATSOEVER. Here's something you might not know either: it's meant to be that way. The movie is as random and inappropriate as the TV show, and I loved every minute of it. There are a few times when the movie slows down, but you have to admit that it has one of the most catching opening sequences. You almost HAVE to watch it after that...and chances are, you'll probably love what you see.",
+         "Aqua Teen Hunger Force Colon Movie Film for Theaters (2007) Review: I love the series. Now Williams Street has brought The Aqua Teens to the theaters. Is This good? Yep. It is. Aqua Teen is all about fun. This movie starts off with an incredible Thrash metal intro to tell the audience to shut-up and watch the movie with hostility and fury. This is brilliant. Complete with lyrical subtitles. The lyrics are hilarious. The whole theater was laughing and gave a round of applause afterwords. This has to be seen in theaters! As for the movie, If you like the series, you will love this. This is all dumb-ass comedy that the Aqua teens have given us for years only on the big screen and unedited curse words to boot. The boys at Williams Street do not hold back on the crude, vulgar, and offensive humor. The Aqua Teens are on the move to make you laugh. The whole theater was in stitches. Amusing stuff to say the least. This movie is not about the use of your brain, it's about taking that brain of yours, and chucking it out the freaking window and then running it over with a tank. Let go of your mind and laugh like an idiot. It feels good to be so stupid. The Last Word: The Aqua Teens are here! This is exactly what you will expect in an Aqua Teen movie. Makes me happy. For the fans only, though newbies are always available to hop aboard the ship before it takes off without ya. See it!",
+         "If the title in all it's absurdity didn't already warn you, this movie is typical Aqua Teen Hunger Force insanity. And in running with the show's tradition of absurdity, came out to be an epic moment in their history. Granted, much like the show it is definitely not for everyone, and certainly not for children. If you like the show and it's bizarre moments, you'll most certainly love the movie. But if you have never caught the show or don't care for it, you're likely better off going to see something else or picking up an episode or two of the show first. Definitely worth it for fans, it had me rolling in laughter. Best laugh I've had at the theater in ages.",
+         "If you have never seen the series, there are little things that have been layered into the film that you might miss that can make it really enjoyable. A few points I loved about it: The cybernetic ghost of Christmas past from the future and the plutonians play a HUGE hilarious role. I loved seeing them, and I was glad to see a little less of the mooninites, whom I don't consider very funny. There are actually a lot of twists and turns, that actually hold a kinda pseudo-plot, and as many reviewers have said already and will continue to say, as long as you walk into this not expecting much past the most glorified ATHF episode ever, you will not be disappointed. It is wonderfully refreshing to see animators and writers who understand their audience so well, and can play so well to everything they love. These three characters and the world they live in are the finest examples of 'for the fans, by the fans' of whatever this new genereation of comedy is. I was lucky enough to see this with a packed theater of people who appreciate it, and it made all the difference. \"DRUM SOLO OF LIFE!\"",
+         "Given the unique ironic brand of post-modern absurdist style humour that the TV show essentially is--how then does one turn it into a 90 minute movie? I was almost hoping for a series of stories, but they did one big story. It's certainly more a treat for the fans than for the unitiated. Some things work, but it does start to drag after a while. The refreshing thing is that the movie doesn't care--it's an outright F-you to the audience and as they tell you (hilariously) at the start you can leave cause they have your money already. How many movies would do that? Aside from all that, the characters are truelly amazing and they stayed true to them. Not sure how I feel about some of the revelations--but whatever.",
+         "CONTAINS SPOILERS Based on the original reviews of this film, I was expecting extreme randomness and the essence of simply four episodes strung together. That's not what it was at all. The entire show was quite coherent throughout, although I will concede only if you had the mental makeup to appreciate absurdity as a vehicle for comedy. One of the characteristics about great sci-fi is the ability to take complex social issues, apply them to a different world altogether taking any personal biasness out of the equation, then re-examine the problem in a way that simplifies the problems and makes more sense out of them. This wasn't great sci-fi, but it did include this characteristic and was Douglas Adams-esqe in it's capacity to think completely outside of the box. The movie features the Aqua Teen Hunger Force. They are unique in appearance and therefore stuck together with a familial relationship. Frylock is the logical and responsible one, Master Shake is abrasive and aggressive yet lacking common sense or intelligence (very much like a teenager who thinks jackass is brilliant programming and deems himself intelligent for knowing good TV when he sees it) and Meatwad, who is naive and irresponsible, but otherwise good hearted and just along for the ride. They know not where they come from, but are making the most of life in New Jersey and have a nextdoor neighbor who is a Ron Jeremy wannabe named \"Carl\" (who also owns a pool which makes him 'better' than most). For those that deem themselves of higher intelligence, you should at least be able to appreciate the manner in which characteristics of the stupid are brought out to play in this world. The rest of the cast are very lifelike in the fact that the less intelligent they are the more aggressive and greedier they are. The Moonites are two dimensional and resemble atari figures and have lame 70's technology to match, yet are full of smack talk. I knew a 5'4\" drummer just like this. The Plutonians consist of Oglethorp, who is also quite dumb but yet has an apparent leadership role, and his compatriot Emory. Emory is obviously more \"with it\" yet he just goes along with the ride much like the employees in \"The Office\". Finally there is the Cybernetic Ghost of Christmas Past, who comes onto the scene as one of great capability including the apparent ability to look into the past, present and future. Although he speaks authoritavely and confidently as one with this knowledge, in truth he knows as little as everyone else and just likes talking. He is the great uncle you try and avoid at reunions. \"A thousand years ago I ran for treasurer of the student council...\" I'm still laughing at that. The team tries to put together a piece of exercise equipment (ne'er an easy thing to do) even though they are warned not to, which leads to the potential destruction of mankind to the tune of a one-line techno song, which I found extremely poetic (the manner in which it moved was likewise hilarious). All of this perpetrated by a talking watermelon slice who is lucky enough to have Neil Peart, the drummer for the greatest rock group on Earth, to have as a compatriot. Is it as funny as the \"Knights Who Say Ni\"? I certainly think so. Admittedly, Walter's rational for creation was a little lame, but one could say it gives tribute to those who wonder if life on Earth was created simply to provide entertainment to our creators. Another brilliant aspect of the show was the timing. Space Ghost C2C (which many of the ATHF producers worked on before this) was brilliant for it's pauses...something ludicrous and somewhat inane would be said and there would oftentimes be a pause as everyone stood perfectly still with perhaps a blinking or two before any kind of response. The ATHF movie introduces another dimension of this...Character 1 would say something inane (often times the hilarious Cybernetic Ghost of Christmas Past), then there would be a humorous pause, then a 2nd character would reply in an attempt to make sense of what Character 1 said and instead of a return pause, Character 1 would answer immediately and crisply although even more inane in order to support the first statement. Finally, a note about the beginning. After the beginning musical sequences, there is a story set in New York thousands of years ago at 3 PM in 1492 which appears to take place in Egypt. Many are confused by this, but you should know this not part of the greater plot. It is simply Master Shake telling a story. He is not a procurator of the Truth, nor is he intelligent, but he tries to make up for it in aggressiveness and stubbornness. Therefore, everything is made up on the go and loosely strung together. What follows is the opening theme of the movie, THEN the actual movie begins. In short, this movie is not stupid. In fact, this movie patronizes the irresponsibility, greediness and shortsightedness of the majority in today's world. Shake, Meatwad and most of the minor characters will rely on Frylock only to the extent they get what they want, then once again cast reason aside until the next \"high\". Shake even goes so far as to shoot Meatwad in the head while clowning around and not considering anything about the consequences of his actions. Once again, it is the Wise to the rescue in the form of the Professor (Mr. Peart). Never once do Shake, Meatwad or Oglethorp give credence to other's ability but instead try to take credit for the work of others. Inane? Yes. Absurd? Definitely. But stupid? I don't think so."
+      ],
+      "genres": [
+         "Animation",
+         "Action",
+         "Adventure",
+         "Comedy",
+         "Fantasy",
+         "Sci-Fi"
+      ],
+      "productionCompanies": [
+         "Adult Swim",
+         "Cartoon Network",
+         "MTV Films"
+      ],
+      "summaries": [
+         "The story begins in Egypt, where Master Shake, Frylock and Meatwad are being attacked by an oversize poodle, who kills Frylock before being destroyed by Shake. Shake and Meatwad drive off with Frylock's corpse, and meet Time Lincoln, who plans to revive Frylock; however, when the CIA break into his house, the Aqua Teens flee in his wooden rocket ship, and Time Lincoln is shot. This, however, is all revealed to be an elaborate story concocted by Shake to explain the ATHF's origin to Meatwad. Shake then explains to Meatwad that women are only attracted to great bodies, then heads off to work out on his new exercise machine, the Insane-O-Flex. Together, they go in search of a missing piece of an exercise machine that happens to be more than an exercise machine, placing them on a collision course with the likes of Oglethorpe and Emory, a pair of jagged, ridiculous creatures from the future who travel with a robot companion claiming to be the Ghost of Christmas Past. They also encounter Dr. Weird, a mad and evil scientist given to disguises and who seeks revenge against the Hunger Force; McPee Pants, a rapping spider who wears a shower cap and diaper; and the hilarious Ignignokt and Err, two-dimensional villains from the ancient days of Pokey, Atari video games.",
+         "An action epic that explores the origins of the Aqua Teen Hunger Force (better known as Master Shake, Frylock, and Meatwad,) who somehow become pitted in a battle over an immortal piece of exercise equipment."
+      ],
+      "budget": 750000
+   },
+   "movielensId": 52462,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2007-04-13",
+      "dvdReleaseDate": "2007-08-14",
+      "directors": [
+         "Matt Maiellaro",
+         "Dave Willis"
+      ],
+      "runtime": 86,
+      "movieId": 52462,
+      "title": "Aqua Teen Hunger Force Colon Movie Film for Theaters",
+      "mpaa": "R",
+      "actors": [
+         "Dana Snyder",
+         "Carey Means",
+         "Dave Willis",
+         "Andy Merrill",
+         "Bruce Campbell",
+         "Fred Armisen",
+         "Chris Kattan"
+      ],
+      "imdbMovieId": "0455326",
+      "originalTitle": "Aqua Teen Hunger Force Colon Movie Film for Theaters",
+      "genres": [
+         "Animation",
+         "Comedy"
+      ],
+      "youtubeTrailerIds": [
+         "0IOXw6NHCVA",
+         "Ld9mVm6LxC8"
+      ],
+      "plotSummary": "An action epic that explores the origins of the Aqua Teen Hunger Force (better known as Master Shake, Frylock, and Meatwad,) who somehow become pitted in a battle over an immortal piece of exercise equipment.",
+      "tmdbMovieId": 13158,
+      "avgRating": 3.26886,
+      "releaseYear": "2007",
+      "numRatings": 411,
+      "posterPath": "/2n9wHyZy8L6itGMEwXeIHaSo2Ql.jpg"
+   }
+}

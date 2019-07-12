@@ -1,0 +1,743 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "toy",
+            "id": 4290
+         },
+         {
+            "name": "transformation",
+            "id": 4375
+         },
+         {
+            "name": "based on toy",
+            "id": 10542
+         },
+         {
+            "name": "transformers",
+            "id": 10607
+         },
+         {
+            "name": "robot",
+            "id": 14544
+         },
+         {
+            "name": "intergalactic war",
+            "id": 238465
+         }
+      ],
+      "imdb_id": "tt0092106",
+      "video": false,
+      "title": "The Transformers: The Movie",
+      "recommendations": [
+         25133,
+         10705,
+         33518,
+         16437,
+         10169,
+         9033,
+         15785,
+         8989,
+         3604,
+         11980,
+         2665,
+         28445,
+         12518,
+         38126,
+         19323,
+         31385,
+         38034,
+         14919,
+         11064,
+         11006
+      ],
+      "backdrop_path": "/1eYXN4MH8WZFFSgg70g6cdUpSeO.jpg",
+      "revenue": 5849647,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 10,
+               "character": "Hot Rod/Rodimus Prime (voice)",
+               "gender": 2,
+               "credit_id": "52fe431bc3a36847f803ab3d",
+               "name": "Judd Nelson",
+               "profile_path": "/9H1TSnBEDYl59tFC1EQHccrINsp.jpg",
+               "id": 21624,
+               "order": 0
+            },
+            {
+               "cast_id": 12,
+               "character": "Optimus Prime (voice)",
+               "gender": 2,
+               "credit_id": "52fe431bc3a36847f803ab45",
+               "name": "Peter Cullen",
+               "profile_path": "/bEOlxkKjGKRHIwUDfPN3JlFffpx.jpg",
+               "id": 19540,
+               "order": 1
+            },
+            {
+               "cast_id": 13,
+               "character": "Megatron/Soundwave/Rumble (voice)",
+               "gender": 2,
+               "credit_id": "52fe431bc3a36847f803ab49",
+               "name": "Frank Welker",
+               "profile_path": "/b3gImArbw13mMKJIe9leFc9YYb7.jpg",
+               "id": 15831,
+               "order": 2
+            },
+            {
+               "cast_id": 9,
+               "character": "Galvatron (voice)",
+               "gender": 2,
+               "credit_id": "52fe431bc3a36847f803ab39",
+               "name": "Leonard Nimoy",
+               "profile_path": "/rTQulQ5WMehA3SSBnGTmayTsF0m.jpg",
+               "id": 1749,
+               "order": 3
+            },
+            {
+               "cast_id": 11,
+               "character": "Unicron (voice)",
+               "gender": 2,
+               "credit_id": "52fe431bc3a36847f803ab41",
+               "name": "Orson Welles",
+               "profile_path": "/k7a0gp3HKWT5uBmfirM74vackiV.jpg",
+               "id": 40,
+               "order": 4
+            },
+            {
+               "cast_id": 17,
+               "character": "Wreck-Gar (voice)",
+               "gender": 2,
+               "credit_id": "53ac92d3c3a3682ed8000444",
+               "name": "Eric Idle",
+               "profile_path": "/8bIEjD3ZNRdveo6avslTX6PB22U.jpg",
+               "id": 10713,
+               "order": 5
+            },
+            {
+               "cast_id": 18,
+               "character": "Ultra Magnus",
+               "gender": 2,
+               "credit_id": "53ac9328c3a3682ee2000463",
+               "name": "Robert Stack",
+               "profile_path": "/f1MchlCMVc4LDWEALsodZHPkbIu.jpg",
+               "id": 2493,
+               "order": 6
+            },
+            {
+               "cast_id": 4,
+               "character": "Kranix/Arblus (voice)",
+               "gender": 2,
+               "credit_id": "52fe431bc3a36847f803ab25",
+               "name": "Norman Alden",
+               "profile_path": "/vdzvCDT4UtVctmo17OSpU8HVUxe.jpg",
+               "id": 7139,
+               "order": 7
+            },
+            {
+               "cast_id": 5,
+               "character": "Astrotrain (voice)",
+               "gender": 2,
+               "credit_id": "52fe431bc3a36847f803ab29",
+               "name": "Jack Angel",
+               "profile_path": "/qYvR57QBtXpdvj1jm2a8hjh7E4L.jpg",
+               "id": 19545,
+               "order": 8
+            },
+            {
+               "cast_id": 6,
+               "character": "Prowl/Scrapper/Swoop/Junkion (voice)",
+               "gender": 2,
+               "credit_id": "52fe431bc3a36847f803ab2d",
+               "name": "Michael Bell",
+               "profile_path": "/izjtUFQ3zJsInc0TSIhrVmUpSd7.jpg",
+               "id": 19546,
+               "order": 9
+            },
+            {
+               "cast_id": 7,
+               "character": "Grimlock (voice)",
+               "gender": 2,
+               "credit_id": "52fe431bc3a36847f803ab31",
+               "name": "Gregg Berger",
+               "profile_path": "/fIb7F9PiTY8kcWfmRlgZ2G7FMOh.jpg",
+               "id": 19547,
+               "order": 10
+            },
+            {
+               "cast_id": 8,
+               "character": "Arcee (voice)",
+               "gender": 1,
+               "credit_id": "52fe431bc3a36847f803ab35",
+               "name": "Susan Blu",
+               "profile_path": "/gxED4fq2nOzHCvMUBoxEmj9Ylg6.jpg",
+               "id": 19548,
+               "order": 11
+            },
+            {
+               "cast_id": 19,
+               "character": "Kup (voice)",
+               "gender": 2,
+               "credit_id": "5986eb289251415244005af8",
+               "name": "Lionel Stander",
+               "profile_path": "/gDbj1eKxhXraVY36m1q4ypAdegJ.jpg",
+               "id": 4969,
+               "order": 12
+            },
+            {
+               "cast_id": 20,
+               "character": "Blurr (voice)",
+               "gender": 0,
+               "credit_id": "5986eb6cc3a368375f00b28b",
+               "name": "John Moschitta, Jr.",
+               "profile_path": null,
+               "id": 1224519,
+               "order": 13
+            },
+            {
+               "cast_id": 21,
+               "character": "Blaster (voice)",
+               "gender": 0,
+               "credit_id": "5986eb829251415244005b62",
+               "name": "Buster Jones",
+               "profile_path": null,
+               "id": 1216857,
+               "order": 14
+            },
+            {
+               "cast_id": 22,
+               "character": "Perceptor (voice)",
+               "gender": 2,
+               "credit_id": "5986eb9dc3a3681df0004f72",
+               "name": "Paul Eiding",
+               "profile_path": "/73yCY9QBAKqFilmVLXATsrIzL2Q.jpg",
+               "id": 86006,
+               "order": 15
+            },
+            {
+               "cast_id": 23,
+               "character": "Bonecrusher / Hook / Springer / Slag (voice)",
+               "gender": 0,
+               "credit_id": "5986ebc792514153c80053ac",
+               "name": "Neil Ross",
+               "profile_path": "/dgcStU8y6YccpzuLeG0U0bC5xvC.jpg",
+               "id": 64951,
+               "order": 16
+            },
+            {
+               "cast_id": 24,
+               "character": "Jazz (voice)",
+               "gender": 2,
+               "credit_id": "5986ebe79251415244005be8",
+               "name": "Scatman Crothers",
+               "profile_path": "/nzSlIgwX4vMSJhDPdUSkV9MAAai.jpg",
+               "id": 7077,
+               "order": 17
+            },
+            {
+               "cast_id": 25,
+               "character": "Cliffjumper (voice)",
+               "gender": 2,
+               "credit_id": "5986ec09c3a3680d5100e191",
+               "name": "Casey Kasem",
+               "profile_path": "/ioQiaAGO3s6oNaxiIuT21a2RWKj.jpg",
+               "id": 16418,
+               "order": 18
+            },
+            {
+               "cast_id": 26,
+               "character": "Bumblebee (voice)",
+               "gender": 2,
+               "credit_id": "5986ec209251415244005c30",
+               "name": "Dan Gilvezan",
+               "profile_path": "/tgJVkPQm2ZqeOGocsN4ikeJbycG.jpg",
+               "id": 81847,
+               "order": 19
+            },
+            {
+               "cast_id": 27,
+               "character": "Brawn (voice)",
+               "gender": 2,
+               "credit_id": "5986ec46c3a368371900a8b0",
+               "name": "Corey Burton",
+               "profile_path": "/2YzqhrgSpWqm8lxZoyIR4F0nusM.jpg",
+               "id": 35219,
+               "order": 20
+            },
+            {
+               "cast_id": 28,
+               "character": "Cyclonus (voice)",
+               "gender": 2,
+               "credit_id": "5986ec5fc3a3681c65005b06",
+               "name": "Roger C. Carmel",
+               "profile_path": "/phM3uZcBVeaS3KzN8D2GcTJeyBJ.jpg",
+               "id": 122004,
+               "order": 21
+            },
+            {
+               "cast_id": 29,
+               "character": "Scourge (voice)",
+               "gender": 0,
+               "credit_id": "5986ecc2c3a3680d5100e284",
+               "name": "Stanley Jones",
+               "profile_path": null,
+               "id": 2791,
+               "order": 22
+            },
+            {
+               "cast_id": 30,
+               "character": "Starscream (voice)",
+               "gender": 2,
+               "credit_id": "5986ecd5c3a368375f00b43a",
+               "name": "Chris Latta",
+               "profile_path": null,
+               "id": 993009,
+               "order": 23
+            },
+            {
+               "cast_id": 31,
+               "character": "Devastator (voice)",
+               "gender": 2,
+               "credit_id": "5986ecea925141059d00bdf5",
+               "name": "Arthur Burghardt",
+               "profile_path": null,
+               "id": 66713,
+               "order": 24
+            },
+            {
+               "cast_id": 32,
+               "character": "Cyclonus / Quintesson Leader (voice)",
+               "gender": 2,
+               "credit_id": "5986ed17c3a368371900a98f",
+               "name": "Roger C. Carmel",
+               "profile_path": "/phM3uZcBVeaS3KzN8D2GcTJeyBJ.jpg",
+               "id": 122004,
+               "order": 25
+            },
+            {
+               "cast_id": 33,
+               "character": "Scavenger (voice)",
+               "gender": 2,
+               "credit_id": "5986ed2e92514153c8005583",
+               "name": "Don Messick",
+               "profile_path": "/2JfSTw3cqnsbpcW4ShaNTa4cWH9.jpg",
+               "id": 16422,
+               "order": 26
+            },
+            {
+               "cast_id": 34,
+               "character": "Brawn / Shockwave / Spike Witwicky (voice)",
+               "gender": 2,
+               "credit_id": "5986ed709251415244005dd2",
+               "name": "Corey Burton",
+               "profile_path": "/2YzqhrgSpWqm8lxZoyIR4F0nusM.jpg",
+               "id": 35219,
+               "order": 27
+            },
+            {
+               "cast_id": 35,
+               "character": "Blitzwing (voice)",
+               "gender": 2,
+               "credit_id": "5986ed9ac3a3683287015830",
+               "name": "Ed Gilbert",
+               "profile_path": "/43ePekrTBudc90uDDMoRAqvNxGM.jpg",
+               "id": 35243,
+               "order": 28
+            },
+            {
+               "cast_id": 36,
+               "character": "Kickback (voice)",
+               "gender": 2,
+               "credit_id": "5986edb19251415284005db9",
+               "name": "Clive Revill",
+               "profile_path": "/5o1d59FBQ9i8xtd1aWZClDdzZ3E.jpg",
+               "id": 20128,
+               "order": 29
+            },
+            {
+               "cast_id": 37,
+               "character": "Shrapnel (voice)",
+               "gender": 2,
+               "credit_id": "5986edc99251415284005ddc",
+               "name": "Hal Rayle",
+               "profile_path": null,
+               "id": 1213975,
+               "order": 30
+            },
+            {
+               "cast_id": 38,
+               "character": "Daniel Witwicky (voice)",
+               "gender": 2,
+               "credit_id": "5986edf2c3a3681c65005d29",
+               "name": "David Mendenhall",
+               "profile_path": "/nuL0mMNqsx9PMnBJVzTwx4jyuUF.jpg",
+               "id": 33012,
+               "order": 31
+            },
+            {
+               "cast_id": 39,
+               "character": "Narrator (voice)",
+               "gender": 0,
+               "credit_id": "5986ee1892514153c8005698",
+               "name": "Victor Caroli",
+               "profile_path": null,
+               "id": 1236186,
+               "order": 32
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe431bc3a36847f803ab1b",
+               "name": "Nelson Shin",
+               "profile_path": null,
+               "id": 19542,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe431bc3a36847f803ab21",
+               "name": "Joe Bacal",
+               "profile_path": null,
+               "id": 19543,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe431bc3a36847f803ab4f",
+               "name": "Ron Friedman",
+               "profile_path": null,
+               "id": 19544,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5986ee5d92514153c80056ec",
+               "name": "Vince DiCola",
+               "profile_path": null,
+               "id": 16637,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5986f1e4c3a3680d5100e9bb",
+               "name": "Lee Gunther",
+               "profile_path": null,
+               "id": 1218318,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5986f1f59251413d180171d9",
+               "name": "Nelson Shin",
+               "profile_path": null,
+               "id": 19542,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5986f2079251413d42017332",
+               "name": "Margaret Loesch",
+               "profile_path": null,
+               "id": 1218741,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5986f2379251413cfc016d5d",
+               "name": "Jay Bacal",
+               "profile_path": null,
+               "id": 1864523,
+               "department": "Production",
+               "job": "Supervising Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5986f33b9251413cfc016ec6",
+               "name": "Tom Griffin",
+               "profile_path": null,
+               "id": 1864525,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5986f3fbc3a3680d5100ecdb",
+               "name": "Masatoshi Fukui",
+               "profile_path": null,
+               "id": 1307417,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5986f432925141059d00c740",
+               "name": "David Hankins",
+               "profile_path": null,
+               "id": 1378757,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5986f5039251413d420176ed",
+               "name": "Tomoo Fukumoto",
+               "profile_path": null,
+               "id": 1405386,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5986f52892514152440067f7",
+               "name": "Masaharu Etou",
+               "profile_path": null,
+               "id": 1633127,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5986f585c3a3680d5100eee9",
+               "name": "Carol L. Dudley",
+               "profile_path": null,
+               "id": 1127854,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5986f5bec3a368323401931e",
+               "name": "Jim Graziano",
+               "profile_path": null,
+               "id": 1315433,
+               "department": "Production",
+               "job": "Executive In Charge Of Production"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5986f6b3c3a3683234019497",
+               "name": "Koh Meguro",
+               "profile_path": null,
+               "id": 1579809,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5986f6ea92514153c80061be",
+               "name": "Takuya Igarashi",
+               "profile_path": null,
+               "id": 1221889,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5986f75ec3a3680d5100f165",
+               "name": "Satoru Nakamura",
+               "profile_path": null,
+               "id": 114301,
+               "department": "Production",
+               "job": "Production Manager"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Animation",
+         "id": 16
+      }],
+      "popularity": 10.605631,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 1857,
+      "vote_count": 161,
+      "budget": 6000000,
+      "overview": "The Autobots must stop a colossal planet-consuming robot who goes after the Autobot Matrix of Leadership. At the same time, they must defend themselves against an all-out attack from the Decepticons.",
+      "similar": [
+         198184,
+         2048,
+         87101,
+         39254,
+         157336,
+         262543,
+         644,
+         605,
+         9323,
+         2277,
+         17431,
+         91314,
+         44826,
+         19,
+         19959,
+         152601,
+         274855,
+         126889,
+         218,
+         534
+      ],
+      "original_title": "The Transformers: The Movie",
+      "runtime": 84,
+      "poster_path": "/a6v1mtEnhwBLI9q9ACbAGmHy6bb.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "日本語",
+            "iso_639_1": "ja"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": "/i42C5gRq7XqlG4S9vkchuJZfrBn.png",
+            "name": "Hasbro",
+            "id": 2598,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "De Laurentiis Entertainment Group (DEG)",
+            "id": 484,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Marvel Productions",
+            "id": 2301,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Sunbow Productions",
+            "id": 3313,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1986-08-08",
+      "vote_average": 7,
+      "belongs_to_collection": null,
+      "tagline": "Beyond good. Beyond evil. Beyond your wildest imagination.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Nelson Shin"],
+      "runtime": 84,
+      "synopsis": "Unicron, a mechanical planet that devours other worlds, approaches the planet Lithone. The mechanoid inhabitants on the planet watch helplessly in horror as their planet is destroyed and ingested by Unicron. Only one ship, with a sole passenger, Kranix, escapes the death of his world. Unicron, newly fueled thanks to the resources from Lithone, turns and heads towards its next prey: Cybertron. It is the Earth Year 2005. The Autobots have removed the Decepticons completely from the Earth, but have lost on Cybertron. The Autobots plan their assault on Cybertron from 2 of its moons. Thanks to recon data from Laserbeak, the Decepticons intercept an Autobot Shuttle on a Fuel Transport Trip from Cybertron's Moons to Earth and kill all of the Autobots aboard. They sneak past the early warning systems that protect Earth and lead an attack on Autobot City. Many Autobots are killed during this battle. The Autobots inside Autobots City send a distress signal to the Autobot Moon Bases, hoping that reinforcements will arrive in time. Reinforcements arrive, led by Optimus Prime, who sends the Dinobots in first to stop the Constructicon giant, Devastator, while Optimus prepares to stop Megatron. Optimus Prime and Megatron square off against each other. Megatron is critically wounded in the fight. Optimus Prime dies, but not before passing the Matrix to City Commander, Ultra Magnus. The Decepticons flee Autobot City after Megatron and several other critical Decepticon Warriors are injured or killed. As they travel back to Cybertron, Starscream takes this opportunity to throw Megatron and the wounded Decepticons into deep space to die. He then proceeds to take command of the Decepticons. As Megatron and his fallen minions drift through space helplessly, Unicron pulls them toward him. Unicron fears the Autobot Matrix of Leadership. He makes a deal with Megatron. If Megatron will destroy the Matrix, Unicron would rebuild Megatron and his troops. After haggling with Unicron, Megatron accepts. Unicron places a pain inducing circuit in Megatron's brain, where it could not be removed to keep him under control. Megatron was reborn as Galvatron. Skywarp, Thundercracker, and many Insecticon clones were formed into Cyclonus, Scourge, and the Sweeps. Galvatron arrives on Cybertron just in time to see Starscream being crowned Leader of the Decepticons. Galvatron quickly dispatches the usurper to his throne and gains the servitude of all Decepticons present. Soon afterward, Unicron arrives to Cybertron and devours two of its moons and everyone inhabiting them. Galvatron leads another attack on Autobot City. This forces Ultra Magnus and several other Autobots, namely Arcee, Springer, Blurr, Perceptor, Hot Rod, Kup and the Dinobots to lead the Decepticons away in two shuttles. Hot Rod, Kup and the Dinobots are shot down and crash on Quintessa. Ultra Magnus fools Galvatron into thinking that he had destroyed the Matrix, but Unicron knows better. Magnus and his crew crash-land on the Planet of Junk. Unicron informs Galvatron of Magnus and the Matrix's whereabouts, and Galvatron quickly pursues him. Meanwhile on Quintessa, Hot Rod and Kup, separated from the Dinobots, are captured and taken to be put on trial before a Quintesson Imperial Magistrate in a mock trial and REAL execution for the Quintesson's amusement. They watched as Kranix, the last survivor of Lithone is fed to the Quintesson's executioners, the Sharkticons. The castaway Autobot Wheelie witnesses Hot Rod's & Kup's capture and seeks out the Dinobots to rescue the imprisoned Autobots. Hot Rod and Kup fight valiantly against the hordes of voracious Sharkticons, but the sheer numbers soon overwhelm them. Just as they were being buried beneath the mob of Sharkticons, the Dinobots kick down the door and trample Quintesson and Sharkticon alike. Grimlock then turns the Sharkticons, who fear and revere his strength, against the Quintessons. Wheelie shows the Autobots where a Quintesson Spacecraft can be found. Back on the Planet of Junk, Galvatron destroys the Autobot Shuttle. The Sweeps blow up Ultra Magnus, and Galvatron takes the Matrix. He plans on using the Matrix to control Unicron. As the Decepticons leave, the remaining Autobots are attacked by the Mechanoids indigenous to the planet of Junk, the Junkions. As the Junkions, who perceive the Autobots as thieves and trespassers, are closing in for the kill, the Quintesson ship with Hot Rod, Kup, Wheelie and the Dinobots arrives. Hot Rod greets the Junkions properly and they soon form an alliance. The Junkions rebuild Ultra Magnus, and inform them that Galvatron left for Unicron with the Matrix. The two groups, Autobot and Junkion both leave to battle Galvatron and his master Unicron and to regain the Matrix. Upon reaching Unicron, Galvatron confronts and threatens Unicron with the Matrix. Unfortunately for Galvatron, he cannot open the Matrix to use against Unicron. Unicron is furious with Galvatron for this treachery. Unicron transforms into a gigantic robot mode. Unicron attacks Cybertron to punish Galvatron. The Decepticons counter attack futily. Unicron swallows Galvatron, after Galvatron fires upon him. The Autobots and Junkions arrive and join the battle. Hot Rod flies the Quintesson ship through one of Unicron's eyes. The Autobots bail out of the crashing ship. Hot Rod is separated from the group and stumbles upon Galvatron and the Matrix. Galvatron proposes a truce in ordered to fight Unicron, their common foe, but Unicron uses his torture implant to force Galvatron to destroy Hot Rod. As they fight, Galvatron prepares to crush the life out of Hot Rod. Hot Rod grasps the Matrix and light breaks forth. Optimus Prime's voice speaks from the Matrix \"Arise, Rodimus Prime\" and Hot Rod is transformed into the new leader of the Autobots, with increased size, wisdom and strength. Rodimus Prime easily defeats Galvatron and throws him through the walls of Unicron, sending the Decepticon tumbling through space. Rodimus then unleashes the power of the Matrix inside of Unicron. Rodimus evacuates the Autobots trapped within Unicron by bursting through Unicron's remaining eye, as the Matrix's power shreds the monster planet from the inside out. As his body explodes, Unicron's head is ejected into orbit around Cybertron, replacing the moons he devoured with an eyeless gaze and a shocked expression upon his face. The Decepticons fled Cybertron as their attacks on Unicron proved ineffective, leaving the empty planet for the Autobots to retake with virtually no resistance. The new leader of the Autobots declares an end to the Great War and a new age of peace.",
+      "writers": ["Ron Friedman"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0092106/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTM2MzQ1NDA3OV5BMl5BanBnXkFtZTcwNjM2OTczMQ@@._V1_SY317_CR3,0,214,317_AL_.jpg",
+      "actors": ["Stars: Orson Welles, Robert Stack, Leonard Nimoy | See full cast and crew »"],
+      "reviews": [
+         "I'm biased. There's no two ways about it. They could have gotten two six years olds to draw the cels, a troop of monkeys to write the dialogue and then printed the film upside down and full of static and I'd still have loved it (if anybody out there says 'Didn't they do that anyway?', I'll thump them.) I am one of a dying but suprisingly populous breed: the Tranformers fan, and to me this film is like the Holy grail. If you think I'm going to get all gooey and teary-eyed then go into nostalgia overload then forget it because I'm not. I say this with a straight face and a critic's eyes: this is a good film. It may be a two hour toy commercial. It may have made zip at the box offce. It may get bad press from idiotic fossils that just aren't prepared to make the effort to tap into the universe the film is set in. But the fact remains that to anybody that's grown up with Transformers, this film is marvelous. Why? Because it does it right! The characters act right. The style is right. It's all done so perfectly that no right minded Transfan could possibly complain. How many Batman fans (and I mean real Batman fans) can honestly say the same thing about their film franchise. It's easy to get preachy about the violence in a film aimed at kids. It gives the moral majority something to do other than examine each Disney film for subliminal messages. I found it refreshing to actually see this kind of film refuse to pull its punches. It's an action film without tapping into the over-sentimental gushy stuff that usually turns kids off anyway. This is a war. Death and violence are part of it. Will it effect the children that watch it. Maybe, but I don't know which way. I saw first saw the film when I was 7. I saw all of my favourites get blown apart. I saw my absolute, total, complete and utter hero, the person that personified all that was good and noble to me (you know who I mean) get killed saving his friends in an ultimate display of bravery and courage. I cried. My mum cried. I still do. I think that one moment made me more afraid and ashamed of death and destruction than a dozen Private Ryans. The animation is top notch, there's an amazing soundtrack and the voice talent is good too. Not perfect, but Nimoy's portrayal of Galvatron is incredible. Espicially when you consider that it was probably done as a 'For the money not the art' job. The script isn't bad either. It has a host of sharp, quotable one-liners that would put Bruce Willis to shame (\"I've got better things to do tonight than die.\") The story is a rip off of Star Wars but what isn't and who cares? It's cool. The animation is superb. I said that earlier but I really do believe that it's better than Disney at some points. Certainly better than the average output at the time. It doesn't compare with today's graphics but it hasn't aged badly at all. The sountrack can sound a little too cheesy at times but the energy and verve of the film is there and it backs up the visuals with ease. In the end it won't matter. This film won't mean a thing to anybody that doesn't know who Jazz, Bumblebee and Soundwave were to begin with. They won't watch it. They won't like it. And you know what? We don't care. Those of us that can name all five mebers of the Stunticons know better. They gave us what we wanted. And we remain eternally grateful.",
+         "Transformers the movie is a retro 80's cult classic that not only took the original series forward in the animation department but also took the story forward in to the future with the next generation of Transformers. The plot is a recreation of the King Arthur legend of a young man trying to find his way with out knowing that he is destine to rule his tribe one day. All the fan favorites are here with new ones to be cherishing, and the soundtrack to this movie is probably one of the best sounding albums to come out of the 80's. This movie still holds up as one of the best TV to Movie translations of all time, and it still kicks major league butt as well. The only drawback that it has that they did not make a sequel to this classic in animation. a must own for all animation fans.",
+         "Well, I agree that the appeal of this movie is mostly to fans, but I was never a big fan of the series, and I loved it. It's definitely not mainstream, but for anyone who can appreciate robots voiced by some big names (even Orson Welles!) thrashing each other with a very cool, hugely 80s soundtrack, this is where it's at. The main plot, although not exactly inspired, is at least compelling. Any of the scenes with Unicron (Welles) or Galvatron (Leonard Nimoy) easily make the movie worth watching, and there are a few scenes that actually have heart. If you don't like 80s cartoon action, stay away. But if you'll always be a Megaman-playing, Ninja-Turtle-watching kid at heart, check it out.",
+         "The Transformers, the animated cartoon from the 1980's, was a typical cartoon: cheesy and childish, things we would not recognize until we were grown. But when Transformers: The Movie was released in 1986, when I was 11, the movie scared the hell out of me. But so did Superman and Star Wars, which was exactly its intention. As when Batman came to the big screen in 1989, the filmmakers took something old and made it new again. In the case of the Transformers, the movie was dark, loud, and very adult considering the fact that it springs from what was another silly fad the children of the 80's latched onto. I don't know how people older and younger than I will perceive it, but the film is Shakespearean in its beauty. The 1980's soundtrack works surprisingly well, even now, unlike other 80's attempts, like, say Heavy Metal. The movie picks up in 2005, or about 20 years after the cartoon supposedly took place. Young Spike is now older and has a child of his own, and all the Autobots and Decepticons are back, with some new faces. In the opening moments, Unicron (Orson Welles), destroyer of worlds, eats a planet of peace-loving people (supposdely robots, but still eerily reminiscent of our Earth populi), killing millions. Decepticons don't just plot against the Autobots-- they murder them in cold blood (er, oil?) This is the equivalent of the X-Files movie getting made, and Cigarette Smoking Man getting to use dirty words. It is a true expansion to the big screen, an intelligent version of the TV show, made not to pander to their audience, but to elevate it. This movie is impossible to find in the States, but if you ever watched the TV show, it will bring you to a new level. If you've never heard of the TV show... it's still a great Anime-yarn, and a helluva lot better than that X-Files flick.",
+         "In 2005, years after series 2, the Decepticons rule Cybertron. The Autobots are limited to bases on Cybertron's moons and Autobot City on Earth. Optimus Prime is planning a massive assault on Cybertron, but Megatron has similar ideas, and launches an attack on Autobot City, nearly decimating the entire Autbot force before retreating. Of course, this being a movie, things get complicated: Unicron, the devourer of worlds turns up, and is heading for Cybertron. Now the Autobots have to reclaim a relic from the Decepticons while defending Cybertron from a giant transforming planet that eats other planets. Simple, no? Couldn't follow that? Stop reading now, this movie is only for fans. Essentially, this a feature-length toy commercial. The story is cool. After all, its about giant robots that transform into cars. Awesome. The movie just follows these robots along as they spend most of the 84-minutes fighting. All the new characters are introduced by having an established character say to the new character \"Hey! (new guy) Blow up that thing!\" or, \"Hey! (new guy), attack those bad guys!\". Awesome. I love movies where fights aren't disrupted by petty things such as plot details or character introductions, it makes things much more fun. The animation is generally better than it was in the TV series. Add to that an 80s soundtrack, consisting of only 80s pop and hair-metal. Awesome. Of course, not everyone is going to like the soundtrack. In fact, I'm willing the bet that a majority of people would loathe the soundtrack, but that is not important, because the soundtrack is awesome. Plus there are some really cool quotes. Yay. 9/10 - Only for fans (of either Transformers or 80s music)",
+         "Dig: I have just seen this movie for the first time tonight, at the age of 23. Yessum, I'm an old man....too old to watch this kind of smeg. I'll tell y'all, this blew my hair back. I don't know why I loved this so, but the six pack of Mickey's certainly didn't hurt. I picked up the DVD version, unedited, as a comparison to Bride of Frankenstein in a paper I'm writing. I was expected some sort of cheesy mid-eighties esoteric nostalgia circle jerk. I actually found this to be a great time. Fun conceit, entertaining pop music, brilliant catchphrases, and even wonderful animation. Now I'm not into sci-fi, the thought of robots battling each other does not really warm me over. But, my God, every second of this movie made me happy. I'll be damned if that isn't all that matters. If you care I gave it a 10/10.",
+         "Transformers the movie is a brilliant animation with an epic storyline, great cast and great characters. War is shown as it is with death, despair and hope. Some memorable quotes and decent soundtrack. Transformers is indeed a great film, but under rated unfairly by many due to it's toy connections. Those that watch the cartoon series will appreciate it more as characters are well developed in the series, although the film is of much better quality. The fact it is still on sale today, shows clearly, that class will eventually come through in the end, as it's box office record was surprisingly poor. Well worth a watch.",
+         "I thought it was perfect for its time. I recently acquired a VHS and enjoyed the movie all over again. The over rocked song, extra dramatic statements, the whole bit sent chills up my spine when I first saw it in 1986 and again in 2004. The animation wasn't the best, even for then, but that was not important. At the time I was a teenager and I enjoyed every bit of it. Transformers was my favorite cartoon, right after Voltron (the lion one). I liked the new characters, it didn't matter. It was a perfect 80's over sentimental, over rock tracked, bravado of a male ego movie aimed at little boys, even down to the vehicles, Semis, race cars, dump trucks, construction vehicles. Nowadays it wouldn't wash, with the violence and destruction (Unicron) but those were the 80's. Now everything is sanitized. They should, however do a 2004 or 05 version revisiting OptPrime and MegaT - Imagine Pixar or whoever doing this movie it would look serious. Dinobots forever, (I dislike with a passion that stupid animal transformer series where Optimus Primal has to twist his whole body to transform. He looks rather stupid.",
+         "First of all, anyone who has left a negative comment on this movie has something wrong with them, seriously. I have no idea when I first saw this movie but I was about 6-ish. I'm now 22 and this is still a bloody awesome film. I have always been a big Transformers fan and I know I might seem a bit bias, but I own the movie on DVD and have shown it to a number of transformer illiterates, male and female, young and old and still the only people I know who have ever got a bit sick of it are my parents, as they have seen it about as many times as myself. Everything about this movie is excellent, from the new characters, to the fact that the autobots seem to suck at shooting anything ( as opposed to the usual 'bad guys can't shoot for doit'.) even down to what would be, if not for the movie it's in, one of the crappiest songs ever 'the touch', by the Loins I think. THE Battle, Primes death, the creation of Galvatron, the Junkbots, Sharkticons, Unicron, IT IS ALL GOLD!!!! Anyone who liked 80's cartoons should love this movie, and so should all your Kids, if not, I think it's time to go and get checked out by your G.P.",
+         "If you love techno-anime, certainly you need to see Transformers the movie, this classic is a epic tale of death, the eternal battle of good and evil, an many things more tell in a bombastic way. If you are a fan of the character-construction of Superheroes (Marvel-Dc) you need to see Transformers. The mix of American storytellers and Japanese animators in the original 80's Transformers series turned out to be one of the most successful and remembered cartoons of that era. And the colossal movie that worked as introduction to a whole new cast of characters is a magic piece of cinema. Many will ask if these words are true, after all we are talking about a piece of animation. Yes, this is a cartoon conceived for kids, but it has all the drama and solid storytelling that is vital to all good movies. The movie starts with a roll-down resume of the entire story (a la Star Wars) and seconds later, the well-known tunes the title song of this robots pounds the air. But this time is different, this is a heavy-metal version that song. It is not only fitting the mix of Heavy Metal and Transformers, these songs are used adequately as a composer uses his variations to call the attentions on certain moments. The unfairly forgotten composer is the responsible for the rest of the soundtrack he used all kind of synthesizers to create a futuristic and emotional score. Every sequence is a masterpiece by itself. There are no weak points, even comic relief moments like the introduction of the junk-ions is something big and great. If there were not enough reasons to give T: The Movie a chance, think about the famous actors that are part of this mega-event using their voices to give life to some of the new robots (besides the cast of voices of the original series)."
+      ],
+      "genres": [
+         "Animation",
+         "Action",
+         "Adventure",
+         "Family",
+         "Sci-Fi"
+      ],
+      "productionCompanies": [
+         "Sunbow Productions",
+         "Marvel Productions",
+         "Hasbro"
+      ],
+      "summaries": [
+         "It is the year 2005. And the battle between the heroic Autobots led by Optimus Prime and the evil Decepticons led by Megatron. Two warring factions of transforming robots from the planet Cybertron. The Autobots must save their homeworld from an evil entity known as Unicron, who's ready to consume anything that stands in its way. At the same time, they must defend themselves against an all-out attack from the Decepticons. Along the way, lives are lost, battles are fought, and a new Autobot leader is born as another dies.",
+         "Essentially a movie involving the battle between the heroic Autobots and the evil Decepticons, two warring factions of transforming robots from the planet Cybertron, the plot also involves the colossal planet named Unicron, who's ready to consume anything that stands in its way. The only thing that can stop Unicron is the Autobot Matrix of Leadership, which is possessed by the Autobots and which the Decepticons, through Unicron's orders, plan to take away from them.",
+         "This theatrical movie based on the television series (which was based, in turn, on a popular multiform robot toyline) didn't go over very well at the box office. The movie is set in 2005, twenty years after the television series, and chronicles the efforts of the heroic Autobots to defend their homeworld Cybertron from the evil Decepticons. Both factions are seething with anger, and that hatred has blinded them to a hideous menace headed their way. That menace is Unicron, a huge robotic creature so powerful, he devours planets such as Cybertron.",
+         "It is the year 2005. The battle between the Autobots and the Decepticons has escalated all the way to Cybertron, which the Decepticons have conquered. The Autobots, without Optimus Prime after a conflict on Earth takes his life, must now face a destiny they know nothing about. Megatron and a group of forsaken Decepticons have been reformed by the ultimate transformer, a planet consuming demon known as Unicron into even deadlier warriors. Now Galvatron, Scourge and Cyclonus must destroy the Autobot Matrix of Leadership for Unicron's glory or suffer the horrific destruction of Cybertron. However, Optimus Prime has decreed that an Autobot will rise from his rank and use the power of the Matrix to light the darkest hour of the Autobots. With Hot Rod facing responsibility for Prime's death, he feels he may be able to use the power of the Matrix to turn the tide of the Cybertronian Wars and stop Unicron. Until all are one, the future of the Autobots and the Decepticons is uncertain.",
+         "The Autobots must stop a colossal planet consuming robot who goes after the Autobot Matrix of Leadership. At the same time, they must defend themselves against an all-out attack from the Decepticons."
+      ],
+      "budget": 0
+   },
+   "movielensId": 4006,
+   "movielens": {
+      "languages": [
+         "English",
+         "日本語"
+      ],
+      "releaseDate": "1986-08-08",
+      "dvdReleaseDate": "2000-11-07",
+      "directors": ["Nelson Shin"],
+      "runtime": 84,
+      "movieId": 4006,
+      "title": "The Transformers: The Movie",
+      "mpaa": "PG",
+      "actors": [
+         "Judd Nelson",
+         "Peter Cullen",
+         "Frank Welker",
+         "Leonard Nimoy",
+         "Orson Welles",
+         "Eric Idle",
+         "Robert Stack",
+         "Norman Alden",
+         "Jack Angel",
+         "Michael Bell",
+         "Gregg Berger",
+         "Susan Blu",
+         "Lionel Stander",
+         "John Moschitta",
+         " Jr.",
+         "Buster Jones",
+         "Paul Eiding",
+         "Neil Ross",
+         "Scatman Crothers",
+         "Casey Kasem",
+         "Dan Gilvezan",
+         "Corey Burton",
+         "Roger C. Carmel",
+         "Stanley Jones",
+         "Chris Latta",
+         "Arthur Burghardt",
+         "Roger C. Carmel",
+         "Don Messick",
+         "Corey Burton",
+         "Ed Gilbert",
+         "Clive Revill",
+         "Hal Rayle",
+         "David Mendenhall",
+         "Victor Caroli"
+      ],
+      "imdbMovieId": "0092106",
+      "originalTitle": "The Transformers: The Movie",
+      "genres": ["Animation"],
+      "youtubeTrailerIds": ["FoejCXEEANs"],
+      "plotSummary": "The Autobots must stop a colossal planet-consuming robot who goes after the Autobot Matrix of Leadership. At the same time, they must defend themselves against an all-out attack from the Decepticons.",
+      "tmdbMovieId": 1857,
+      "avgRating": 3.24804,
+      "releaseYear": "1986",
+      "numRatings": 3312,
+      "posterPath": "/a6v1mtEnhwBLI9q9ACbAGmHy6bb.jpg"
+   }
+}

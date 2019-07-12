@@ -1,0 +1,639 @@
+{
+   "tmdb": {
+      "original_language": "es",
+      "keywords": [],
+      "imdb_id": "tt0101025",
+      "video": false,
+      "title": "Ay, Carmela!",
+      "recommendations": [
+         226343,
+         184915,
+         118898,
+         429866,
+         163422,
+         98997,
+         117897,
+         194246,
+         368432,
+         300488,
+         116314,
+         313563,
+         130457,
+         423179,
+         112193,
+         116696,
+         103130,
+         115360,
+         259146,
+         143529
+      ],
+      "backdrop_path": "/q2JAJEvFvY0vKCkgrUAQqWhIWj3.jpg",
+      "revenue": 2000000,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Carmela",
+               "gender": 1,
+               "credit_id": "52fe45dec3a36847f80df183",
+               "name": "Carmen Maura",
+               "profile_path": "/6YU3CAWmlSy13aRUG2QWRZlJab5.jpg",
+               "id": 2744,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Paulino",
+               "gender": 2,
+               "credit_id": "52fe45dec3a36847f80df187",
+               "name": "Andrés Pajares",
+               "profile_path": "/nFd8mCMwpqyZwmH6ipKPD5JFnWu.jpg",
+               "id": 99811,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "Gustavete",
+               "gender": 2,
+               "credit_id": "52fe45dec3a36847f80df18b",
+               "name": "Gabino Diego",
+               "profile_path": "/qqAWyPU31uk6juPPP6YLHI6jr3a.jpg",
+               "id": 23215,
+               "order": 2
+            },
+            {
+               "cast_id": 5,
+               "character": "Capitán",
+               "gender": 2,
+               "credit_id": "52fe45dec3a36847f80df18f",
+               "name": "José Sancho",
+               "profile_path": "/6M18MaEHaOyT4QcAKz9RRIGJm8T.jpg",
+               "id": 3811,
+               "order": 3
+            },
+            {
+               "cast_id": 11,
+               "character": "Teniente Ripamonte",
+               "gender": 0,
+               "credit_id": "53a14b600e0a2665340024cb",
+               "name": "Armando De Razza",
+               "profile_path": "/7AAvy6mYp1ykc2yvXo1XyBGReah.jpg",
+               "id": 66815,
+               "order": 4
+            },
+            {
+               "cast_id": 13,
+               "character": "Bruno CTV 1º",
+               "gender": 0,
+               "credit_id": "53a14b980e0a26653d00267c",
+               "name": "Mario De Candia",
+               "profile_path": "/mkgLRMZHgQQ4PM8KbidOACnorSc.jpg",
+               "id": 1331602,
+               "order": 6
+            },
+            {
+               "cast_id": 14,
+               "character": "Teniente interrogador",
+               "gender": 2,
+               "credit_id": "53a14bad0e0a26654100248e",
+               "name": "Miguel Rellán",
+               "profile_path": "/cj9EN7nOTATfYYMJW1lBQTM1wYp.jpg",
+               "id": 81848,
+               "order": 7
+            },
+            {
+               "cast_id": 15,
+               "character": "Soldado polaco",
+               "gender": 2,
+               "credit_id": "53a14bd90e0a26654e00266f",
+               "name": "Edward Zentara",
+               "profile_path": "/efkCZc4VoASPNXgKRvxMnzUd8q.jpg",
+               "id": 1002103,
+               "order": 8
+            },
+            {
+               "cast_id": 16,
+               "character": "Centinela",
+               "gender": 0,
+               "credit_id": "53a14c01c3a3687bab001ed5",
+               "name": "Rafael Díaz",
+               "profile_path": null,
+               "id": 1053975,
+               "order": 9
+            },
+            {
+               "cast_id": 17,
+               "character": "Alcalde",
+               "gender": 0,
+               "credit_id": "53a14c1ac3a3687bb0001f1c",
+               "name": "Chema Mazo",
+               "profile_path": null,
+               "id": 1062025,
+               "order": 10
+            },
+            {
+               "cast_id": 18,
+               "character": "Alférez artillero",
+               "gender": 0,
+               "credit_id": "53a14c2dc3a3687b9b001e5c",
+               "name": "Antonio Fuentes",
+               "profile_path": null,
+               "id": 1331603,
+               "order": 11
+            },
+            {
+               "cast_id": 19,
+               "character": "Cacique",
+               "gender": 0,
+               "credit_id": "53a14c45c3a3687bab001ef5",
+               "name": "Mario Martín",
+               "profile_path": null,
+               "id": 24926,
+               "order": 12
+            },
+            {
+               "cast_id": 20,
+               "character": "Cabo Cardoso",
+               "gender": 0,
+               "credit_id": "53a14c59c3a3687ba6001e53",
+               "name": "Emilio del Valle",
+               "profile_path": null,
+               "id": 1331605,
+               "order": 13
+            },
+            {
+               "cast_id": 21,
+               "character": "Mujer presa",
+               "gender": 0,
+               "credit_id": "53a14c70c3a3687bb0001f45",
+               "name": "Silvia Casanova",
+               "profile_path": null,
+               "id": 132998,
+               "order": 14
+            },
+            {
+               "cast_id": 22,
+               "character": "Campesino",
+               "gender": 0,
+               "credit_id": "53a14cb7c3a3685b2c000709",
+               "name": "Alfonso Guirao",
+               "profile_path": null,
+               "id": 1331606,
+               "order": 15
+            },
+            {
+               "cast_id": 23,
+               "character": "Médico",
+               "gender": 0,
+               "credit_id": "53a14ccbc3a3685b2c000713",
+               "name": "Felipe Vélez",
+               "profile_path": null,
+               "id": 125229,
+               "order": 16
+            },
+            {
+               "cast_id": 24,
+               "character": "Soldado CTV 2º",
+               "gender": 0,
+               "credit_id": "53a14cdec3a3687b9b001ea2",
+               "name": "Félix Pardo",
+               "profile_path": null,
+               "id": 1331607,
+               "order": 17
+            },
+            {
+               "cast_id": 25,
+               "character": "Cabo",
+               "gender": 0,
+               "credit_id": "53a14cf3c3a3687b9e001f70",
+               "name": "Manuel Millán",
+               "profile_path": null,
+               "id": 1331608,
+               "order": 18
+            },
+            {
+               "cast_id": 26,
+               "character": "Oficial",
+               "gender": 0,
+               "credit_id": "53a14d0dc3a3687ba6001e98",
+               "name": "Víctor Manuel Mendoza",
+               "profile_path": "/yGgx21htzsjfgTXIucoJtOR1sUx.jpg",
+               "id": 50763,
+               "order": 19
+            },
+            {
+               "cast_id": 27,
+               "character": "Oficial",
+               "gender": 0,
+               "credit_id": "53a14d56c3a3687bb0001f9d",
+               "name": "Francisco Ferrer",
+               "profile_path": null,
+               "id": 1331609,
+               "order": 20
+            },
+            {
+               "cast_id": 28,
+               "character": "Oficial",
+               "gender": 0,
+               "credit_id": "53a14da00e0a26653d0026c0",
+               "name": "Gabriel Moreno",
+               "profile_path": null,
+               "id": 1331611,
+               "order": 21
+            },
+            {
+               "cast_id": 29,
+               "character": "Músico 1º",
+               "gender": 0,
+               "credit_id": "53a14db40e0a26653a002547",
+               "name": "José Hernán Rincón",
+               "profile_path": null,
+               "id": 1331613,
+               "order": 22
+            },
+            {
+               "cast_id": 30,
+               "character": "Músico 1º",
+               "gender": 0,
+               "credit_id": "53a14dc80e0a26653d0026c8",
+               "name": "Ecuador Rubio",
+               "profile_path": null,
+               "id": 1331615,
+               "order": 23
+            },
+            {
+               "cast_id": 31,
+               "character": "Músico 1º",
+               "gender": 0,
+               "credit_id": "53a14ddc0e0a26654b0024da",
+               "name": "Jesús Pinto",
+               "profile_path": null,
+               "id": 1331616,
+               "order": 24
+            },
+            {
+               "cast_id": 32,
+               "character": "Músico 2º",
+               "gender": 0,
+               "credit_id": "53a14dec0e0a26653a002556",
+               "name": "Benjamín Torrijo",
+               "profile_path": null,
+               "id": 1331617,
+               "order": 25
+            },
+            {
+               "cast_id": 33,
+               "character": "Músico 2º",
+               "gender": 0,
+               "credit_id": "53a14dfd0e0a26654e0026a9",
+               "name": "Teodoro Vinagre",
+               "profile_path": null,
+               "id": 1331618,
+               "order": 26
+            },
+            {
+               "cast_id": 34,
+               "character": "Músico 2º",
+               "gender": 0,
+               "credit_id": "53a14e0f0e0a26653d0026dc",
+               "name": "Luis Barco",
+               "profile_path": null,
+               "id": 1331619,
+               "order": 27
+            },
+            {
+               "cast_id": 35,
+               "character": "Músico 2º",
+               "gender": 0,
+               "credit_id": "53a14e220e0a26653400250d",
+               "name": "César Burgos",
+               "profile_path": null,
+               "id": 1331620,
+               "order": 28
+            },
+            {
+               "cast_id": 36,
+               "character": "Músico 2º",
+               "gender": 0,
+               "credit_id": "53a14e3a0e0a26654e0026c0",
+               "name": "Joaquín Sánchez",
+               "profile_path": null,
+               "id": 1331622,
+               "order": 29
+            },
+            {
+               "cast_id": 37,
+               "character": "Músico 2º",
+               "gender": 0,
+               "credit_id": "53a14e4c0e0a26653d0026e6",
+               "name": "Rafael Checa",
+               "profile_path": null,
+               "id": 1331623,
+               "order": 30
+            },
+            {
+               "cast_id": 38,
+               "character": "Músico 2º",
+               "gender": 0,
+               "credit_id": "53a14e5d0e0a26653400251d",
+               "name": "José Susi",
+               "profile_path": null,
+               "id": 1331624,
+               "order": 31
+            },
+            {
+               "cast_id": 39,
+               "character": "Músico 2º",
+               "gender": 0,
+               "credit_id": "53a14e6f0e0a2665410024db",
+               "name": "Pascual Villaescusa",
+               "profile_path": null,
+               "id": 1331625,
+               "order": 32
+            },
+            {
+               "cast_id": 40,
+               "character": "(uncredited)",
+               "gender": 0,
+               "credit_id": "53a14e820e0a26654b0024f6",
+               "name": "Josu Ormaetxe",
+               "profile_path": null,
+               "id": 125231,
+               "order": 33
+            },
+            {
+               "cast_id": 41,
+               "character": "(uncredited)",
+               "gender": 0,
+               "credit_id": "53a14e950e0a26653d0026ef",
+               "name": "Rafael Palmero Jr.",
+               "profile_path": null,
+               "id": 1331626,
+               "order": 34
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe45dec3a36847f80df17f",
+               "name": "Carlos Saura",
+               "profile_path": "/xzDUMRTBkL3lmmTmYMgmKatYqNs.jpg",
+               "id": 96369,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "53a148600e0a266534002420",
+               "name": "Rafael Azcona",
+               "profile_path": "/gYOUk2TKJxe48oaoToiLiN24x9V.jpg",
+               "id": 37590,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "53a148ea0e0a26653d0025ee",
+               "name": "Carlos Saura",
+               "profile_path": "/xzDUMRTBkL3lmmTmYMgmKatYqNs.jpg",
+               "id": 96369,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53a1493d0e0a26653d0025f8",
+               "name": "José Sanchis Sinisterra",
+               "profile_path": null,
+               "id": 1331600,
+               "department": "Writing",
+               "job": "Theatre Play"
+            },
+            {
+               "gender": 2,
+               "credit_id": "53a151460e0a2665470025b2",
+               "name": "Andrés Vicente Gómez",
+               "profile_path": null,
+               "id": 13159,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53a1515f0e0a26654e002731",
+               "name": "Alejandro Massó",
+               "profile_path": null,
+               "id": 1143464,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53a1519f0e0a266534002583",
+               "name": "Pablo G. del Amo",
+               "profile_path": null,
+               "id": 32212,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53a15241c3a3687bbc001e82",
+               "name": "Rafael Palmero",
+               "profile_path": null,
+               "id": 1143476,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "53a152c2c3a3687bab002011",
+               "name": "José Luis Alcaine",
+               "profile_path": null,
+               "id": 4376,
+               "department": "Camera",
+               "job": "Director of Photography"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "War",
+            "id": 10752
+         }
+      ],
+      "popularity": 1.331692,
+      "production_countries": [
+         {
+            "iso_3166_1": "IT",
+            "name": "Italy"
+         },
+         {
+            "iso_3166_1": "ES",
+            "name": "Spain"
+         }
+      ],
+      "id": 41806,
+      "vote_count": 14,
+      "budget": 0,
+      "overview": "Paulino and Carmela are husband and wife, troubadours touring the countryside during the Spanish Civil War. They are Republicans, and with their mute assistant, Gustavete, they journey into rebel territory by mistake. They are arrested, fear a firing squad, and receive a reprieve from an Italian Fascist commander who loves the theatre. He arranges a performance for his troops, bargaining with Paulino to stage a burlesque of the republic in exchange for the actors' freedom. Will the fiery and patriotic Carmela consent?",
+      "similar": [],
+      "original_title": "¡Ay, Carmela!",
+      "runtime": 102,
+      "poster_path": "/mGtRZXjerQfK6IOQjJENK4uhtmR.jpg",
+      "spoken_languages": [
+         {
+            "name": "Italiano",
+            "iso_639_1": "it"
+         },
+         {
+            "name": "Polski",
+            "iso_639_1": "pl"
+         },
+         {
+            "name": "Español",
+            "iso_639_1": "es"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Ellepi Films",
+            "id": 750,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Iberoamericana Films Internacional",
+            "id": 22533,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Televisión Española (TVE)",
+            "id": 6639,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1990-03-16",
+      "vote_average": 6.7,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Spain",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Carlos Saura"],
+      "runtime": 102,
+      "synopsis": null,
+      "writers": [
+         "Rafael Azcona",
+         "José Sanchis Sinisterra"
+      ],
+      "originalLanguage": "Spanish",
+      "imdbLink": "http://www.imdb.com/title/tt0101025/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTU0NjAyNjg5NF5BMl5BanBnXkFtZTcwNDYxOTI0MQ@@._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "actors": ["Stars: Carmen Maura, Andrés Pajares, Gabino Diego | See full cast and crew »"],
+      "reviews": [
+         "(spoilers) One of the things that I really like about this film is that its message can be delivered whether you know the situation in Spain at the time or not. The nationalists win violently at the end of the film, and you know the meaning of this without even having to know many historical details about the oppression of the Franco regime at the time that the movie takes place, which is important in making this movie internationally comprehensible. Carmela is a maternal figure both for her husband Paulino as well as for the young mute boy that they have taken into their care. They are entertainers seeking to escape the violence of the war, which is coming closer and closer to their home, but ultimately end up trying to entertain the Nationalist army and thereby win their freedom. There is a great scene at the beginning of the movie where Carmela and Paulino and Gustavete are performing for the rugged, less organized Republican army (sort of the roughnecks who have to defend themselves against the offenses of the Nationalists). This is a delightful performance that hugely entertains the audience, but it stops in its tracks as the sound of planes is heard overhead, and everyone in the room goes completely silent, waiting to hear the sound of bombs dropping. In this early scene, we see exactly what is going on in the film without having to have it delivered flatly through dialogue. We see the winners AND the losers in this film. The movie opens up with the performance for the Republicans, where everyone is having a good time including the performers, but by the end of the film, Carmela and Paulino and Gustavete have been captured and are nervously performing for the stolid Nationalist army, all the while terrified that they may say something wrong and offend the diminutive Franco in the front row (who reminds me of Lord Farquaad from Shrek) and be thrown back into prison or killed. The difference between the two armies is striking. The Republicans are clearly less organized, less trained, have less equipment, weapons, training, financial backing, etc, and most importantly, are very clearly there to defend themselves rather than wage war against the Nationalists. These are the peaceful people who are forced into a war situation by a regime that is about to attack them. The Nationalists, however, are a much more organized and well trained and funded group. They are, in fact, so organized, that the suits in the audience at the end of the film are literally color coded. The majority of the symbolism in the film is centered around Paulino, Carmela, and Gustavete. Carmela represents Spain, obviously, and her death at the end of the film represents the expiration of freedom and possibly the death of Spain itself. She tries to save everyone, worrying about the suffering of all people and therefore putting herself in danger in an effort to help them, while Paulino is much more realistic, concerned mostly with their own problems and saving themselves. He is not portrayed as selfish or as a coward, but as a realist. He knows that trying to fight against the Nationalists is simply not realistic and is a stupid way to get himself killed. Carmela died at the end of the film because she stood up against people that she had absolutely no power over. When Carmela is shot, Gustavete finally managed to get some sound out of his throat, representing a hope for the future. Carmela was killed, but Gustavete represents a new youth, and he has been given a voice by the display of violence put on by the Nationalist army, embodied in the one man who pulled the trigger. There is, however the fact that the Nationalists erupt into total confusion when things get rough at the end of the film, as well as the stunned look on the soldier's face when he realizes that he has killed Carmela, which shows that the movie is not about bad people, but about a bad ideology. The Nationalists are not portrayed as evil people, just people who made bad choices and got involved with a bad cause that did not turn out to be what they thought it was. This movie reminds me in a way of Life Is Beautiful (as does José Luis Cuerda's Butterfly), except that both the tragedy as well as the comedy are each reduced in each film. This is not a film about the power of stupid people in large groups, but rather the effect that a large idea can have on impressionable people. It warns against the dangers of being weak willed and simply going with the flow, the extremes that this kind of conformity can lead to. Clearly, this is a worst case scenario, but the film had a message that crosses time, culture, and international boundaries.",
+         "I only wanted to say that it was not until the second time that I watched it that I began to really appreciate the complexity of the story, is web of ironies, and the extent of the moral dilemmas with which the different characters really had to confront and deal with...and how in the end, it was really the lack of the husband's moral backbone that nearly bankrupted Carmela's (i.e, Spain's) morality and dignity...a dignity that was redeemed in the very end of the movie, but only through Carmela's very own blood - a very clear Christ-figure reference; one consistent with western literature, and also very consistent with much of the film's Communist/Republican/Atheist vs. Franco-Fascist/Vatican-Backed/Fervent Catholic sub plot. Carmen Maura was brilliant in the complex role of Carmela, as were the two male supporting actors in their respective roles. I only wish that the subtitles would have done the rich Spanish dialogue more justice. So many nuances had to be left out, but those I suppose are the limitations inherent in subtitles, no matter how competently they may be done.",
+         "This is a film about human beings and how they cope with the nightmare of civil war. We are shown that people's reactions to this kind of ordeal are various. It is an extreme situation and this is conveyed very well by Carlos Saura - we watch people trying to forget where they are and enjoy themselves watching the antics of our variety troupe, only to be reminded of reality, as the sound of aircraft drowns out the performance. This theme of constantly being dragged back to the reality of war continues through the film. The acting is outstanding, Carmen Maura's in particular, and regardless of with whom our personal empathy may lie, Saura does not condemn individuals. Above all, the pain and sadness of a country at war with itself is expressed through the tortuous mental and emotional processes Carmela goes through. This film brought tears to my eyes on more than one occasion. It says much about the value of human life,and the bewildering horror and absurdity of civil war.",
+         "This dramatic film with comical elements deals about lives of a group of artists and comics that travel around the country in hard times the Spanish Civil War (1936-1939). Carmela (Carmen Maura), his husband Paulino (Andres Pajares) and their mute helper Gustavete (Gabino Diego) are street performers who entertain the Republican troops after the battle in Aragon , 1938 . The trio of troubadours touring scenarios decides to seek a less dangerous destination . However, the Republican trio by mistake go to the national zone and immediately are arrested by a captain (Jose Sancho) . Suspecting that all of them collaborate with the Republican rebels opposite to the Francoist Regime they are imprisoned by a Lieutenant (Miguel Rellan) and they fear a firing squad , but receive a reprieve from an Italian Fascist commander who loves the theatre . As an Italian Lieutenant named Ripamonte (Maurizio De Razza) arranges a performance for his troops , playing burlesque , bargaining with Paulino to stage a burlesque show in exchange for the actors' freedom. This is an interesting story about human beings , three sympathetic troubadours touring the countryside during the Spanish Civil War and how they cope with this unsettling nightmare ; including their pain , poverty but also some mirth and joy . Drama with historical and hilarious elements ; including enjoyable performances and adequate set design by Rafael Palmero. ¨¡Ay Carmela¡¨ results to be other of the innumerable stories to deal with dramatic deeds regarding the Civil War background . A familiar theme about the global horrors of a fratricide war , impossible to forget to our cinema . An agreeable as well as dramatical story plenty of enjoyable moments , moving feelings , wonderful songs , attractive musical score by Alejandro Masso and tragic finale . Above all , the acting is first rate , as Carmen Maura gives a terrific acting as the fiery and patriotic Carmela, along with Andres Pajares who won several national as international prizes . The story describes the penury and sadness of a nation at recent war which itself is expressed through the tortuous mental , emotional processes and final nervous breakdown Carmen Maura goes through . Director Carlos Saura , also writes the interesting script along with prestigious screenwriter Rafael Azcona , Luis Garcia Berlanga's usual writer . Carlos Saura conveys us the escalating tension before the show in important measure of difficult along with an ironic humor backstage . Filmed in his usual formal and stylistic scholarship , but plenty of marvelously ancient songs , musical numbers and without leaving a trace the thought-provoking issues , in terms of dramatic and narrative excitement . The flick can be defined as a realistic tragedy-drama , a romantic history , a historic/comical fresco and a socio-political fable . This theme about a troupe constantly being dragged back to the reality of war and in an extreme situation continues through the picture . The flick bears remarkable resemblance to subsequently directed by Emilio Aragon titled \"Paper Birds\" by Emilio Aragon with Imanol Arias , Luis Homar , but the latter failed as box office with indifferent reception by public as critical . Good support cast with prestigious Spanish secondaries as Luis Rellan , Jose Sancho , Maurizio De Razza , and Chema Mazo , among others . Including a spotless pictorial cinematography by Jose Luis Alcaine and a willingness , almost perfect of the elements of each shot , every sequence, every space . The motion picture was stunningly written and directed by Carlos Saura He is one of the best Spanish movies director . He began working in cinema in 1959 when he filmed ¨Los Golfos ¨(1962) dealing with juvenile delinquency from a sociological point of view . He subsequently made LLanto por Un Bandido (1964) starred by an European all-star-cast . Saura is a well recognized filmmaker both nationally and internationally, and in proof of it he won many prizes among which there are the following ones: Silver Bear in Festival of Berlin for Peppermint Frappé (1967) and the successful La Caza (1966) that also won numerous prizes in International Festivals and in which four characters facing each other and terminating into a jarring burst of violence . Saura achieved Special Jury Awards in Cannes for La Prima Angélica (1974), in 1973, and for Cría Cuervos (1976), in 1975. Also, the film Mamá Cumple Cien Años (1979) got an Oscar nomination in 1979 as the best foreign film, and it also won the Special Jury Award at the San Sebastian Festival. He subsequently made ¨Deprisa , Deprisa¨ based on facts about juvenile delinquency in Spain since the 80s , as he tried to take a position in favour of outcast people and he got to make a both lyric and documentary-style cinema . In 1990, he won two Goya , The Spanish Oscar , as best adapted screenplay writer and best director . Saura became an expert on Iberian musical adaptations as ¨Carmen , Amor Brujo , Bodas De Sangre , Sevillanas , Iberia , Salome , Fado, Flamenco ¨ and even recently Opera as ¨Io , Don Giovanni",
+         "OK, first of all, whoever said that \"The Pianist\" was a precursor to this movie must not have noticed that \"Ay Carmela\" was released 8 or so years before it. Also, you probably need to come into this one understanding some of the complicated precepts involved in the Spanish Civil War and how it was more complicated than just one enemy, and that the Republican army was not unified either. This film does a decent job of communicating that complexity and speaking to the ambivalence that the Spanish nation felt (and still feels) about this terrible period in their history. Lastly, as the protagonists are artists, it is important to remember that under Franco many of Spain's leading artistic figures were forced into exile and or shot (as in the case of Garcia Lorca). Expecting to get a history lesson from a movie seems like the wrong motivation altogether for me, I mean these are characters placed into a historical context. So therefore if you know absolutely nothing about this period it may be smart to learn a little first and then appreciate the film through the lens of that knowledge.",
+         "A simple story, beautifully enacted. A trio of enthusiastic, if not over-talented performers tries to make a living in the midst of the Spanish Civil War, which is increasingly being won by Franco's Nationalists. After a rousing success entertaining a group of Loyalist fighters, the weary actors take a wrong turn on a foggy road and end up in Nationalist controlled territory, where they do their best to convince the Italian and Spanish officers that they are simply performers without politics. Impresario Paulino, husband of star Carmela, befriends an Italian officer with theatrical ambitions, and the actors are told to put on a show for the Nationalist troops. Carmela hates the idea, but loves her husband and the mute young man they have adopted, Gustavete, so she agrees to give it her best effort. Things don't work out quite as planned, however. Some background on the Spanish Civil War would help many viewers get more out of the movie, though explanatory titles are provided. Visually, the film is crammed with authentic details, such as home-made armored cars used by the Republican militias, recruiting posters, Anarchist and Republican flags, Moorish troops aiding the Spanish Nationalists, and even Generalisimo Franco himself attending the performance. The actors who play the trio of performers are admirably cast, especially Carmen Maura as Carmela. Her energy and zest during passionate, romantic songs and dances are wonderful to see. Her deep compassion for others is frequently on display, as in the maternal attitude she takes toward the unofficial son she and Paulino have taken under their wing, and her grief over the certain fate of the Polish prisoners from the International Brigades. Her humor and strong will in the face of terrifyingly unpredictable situations help keep the other two going. Andres Pajares plays the quick-witted Paulino, a former seminarian who has taken up musical comedy instead of the priesthood. His ability to size up a situation and get on the good side of dangerous people helps the little troupe to survive , but at some cost to his dignity. Paulino is a survivor who will do what it takes to get through a war, and his main survival technique is the attitude of being a performer, whether you like any particular audience or not. Ay, Carmela is a very engaging film that is at times quite amusing, but ultimately heart-breaking. This film deserves to be released on a Region 1 DVD that could be made available for a wider audience to appreciate its moving and memorable story.",
+         "Saura's superb display of a well-chosen fit between music and the story that is going on \"behind the curtains\". He is a master on that. Kind of idealistic view of the Spanish Civil War, as a result of the political moment of \"institutional silent\" when democracy is possible in Spain again. (90')He took the amazing and just genial play by Sinisterra and make it a new piece of art. Makes you laugh and cry..although the vision of Carmela as the representation of \"la republic\" inserts women in a stereotyped context of the \"abstraction\" that does not let her be part of the struggle for democracy, hand by hand with human kind..men in this case.. highly recommended, but also should be followed by the reading of the theater play.",
+         "During the Spanish Civil War a spirited vaudeville team on a morale boosting tour of the republican front lines is captured by fascist troops and made an offer they can't refuse: face imprisonment and possible execution or perform a degrading propaganda skit for the amusement of local officers. The stakes are clear: collaborate and live, or refuse and die, and from that simple dilemma director Carlos Saura conveys the escalating tension before the show with a healthy measure of wartime drama and ironic backstage humor. Saura understands that genuine tragedy requires at least a touch of comedy, provided here by an energetic cast led by the reliable Carmen Maura, who even does her own singing and dancing. So it's too bad that after building such momentum the film has to end on a lurid climax better suited to an Oliver Stone potboiler, complete with strobe light effects and mass audience hysteria. But it's a small price to pay for an otherwise elegant and entertaining reminder of how, even in a war where the issues are obvious, some decisions can be mortally dangerous to make.",
+         "This film by director Carlos Saura, written by him and Rafael Azcona . Adapts to film the play \"Ay, Carmela\" (1986), by José Sanchis Sinisterra. Shooting outside of Madrid (Boadilla del Monte, Madrid and Talamanca Del Jarama) and Guadalajara (Cubillo De Uceda). Nominated for 15 Goya, gets 13 (film , director, actress , actor, script... ). Produced by Andrés Vicente Gómez. Brilliant film includes comedy and drama effectively. Stresses that the correct interpretation of Pajares, Maura and Diego, parts of comedy (well done) and the end, totally unexpected, as critic. Moreover, the pace of the film is flexible , which should be no problem for the viewer, and you can enjoy a good movie , not wanting it to end. 13 winning film Goya Awards in 1991, including Best Picture, Best Director, Best Actor and Best Actress. This booklet reveals that we are talking about a great movie, and for me, it is. Not much more to say , since the film flies by, and his story is very simple and does not result in seconds interpretations , but recommend this film shows that the film brings jewelry Spanish film world. The action takes place in the years of the Civil War , on both sides of the front. \"Carmela\" (Carmen Maura) and \"Paulino \" (Andrés Pajares) are business actors in a modest street theater company and varieties. Survive entertaining Republican troops at the front. Addressing Valencia in search of better luck , a mistake leaving them in the domestic area. The short film genres drama, war and tragedy comedy combination of humor and tragedy. \"Carmela\", 39 years, married for the Court to \"Paulino\", a Republican of conviction , has a big heart and her greatest desire is to get married in white and in the Church. \"Paulino\" adapts to any environment, guided by his instinct for survival. \"Gustavete\" (Gabino Diego), mute after a bombing, helps them in auxiliary tasks . The work proposes reminisce of the two warring sides at war (1936-39 ) with the serenity that provide the intervening years, humor and tolerance. The vision of the two sides, the Italian contingent , tics shared by Republicans and Spanish nationals ( hobby collective noise, the bustle, red wine...) explain that coexistence is necessary and possible. Condemns war, capital punishment, summary executions, detentions without guarantees and arbitrariness of non-controlled power, retaliation for ideological reasons, fanaticism on both sides. Military leaders (Lister and Franco ) and is committed to the supremacy of the civil power and the latter subject to military administration and disadvantages are considered inappropriate . The work invites peace and the exercise of democracy. Use of voice in \"off\" is done. Music, Alejandro Masso, includes an original score of 13 cuts, passionate , holidays and descriptive. Popular songs are added as \"Suspiros De España\", \"Mi Jaca\", \"Al Uruguay\", \"Si Supieran\". The cut \"Ay, Carmela\" introduces the film and the main theme of it is removed. Photography by Jose Luis Alcaine, recreates the murky spaces versatility successful school - prison, the joyful atmosphere of the Republican theater, oppressive atmosphere of the Polish stage and discipline of the stalls of national soldiers. The script combines verbal and visual humor. The interpretation of Carmen Maura , away from their usual roles, demonstrating solvency, naturalness and delivery.",
+         "This acclaimed latter-day Saura effort touches on, or rather weaves together, a number of his lifelong concerns \u0096 the performing arts are here placed within the context of the Spanish Civil War. In that respect, it inevitably elicits memories of Ernst Lubitsch's WWII masterpiece TO BE OR NOT TO BE (1942) \u0096 but that film's blackly comic tones (deemed tasteless at the time) are here largely supplanted by genuinely less salubrious elements, notably grotesquerie and (unsurprisingly) eroticism! Incidentally, while the script (co-written by Saura and Rafael Azcona in what would prove to be their sixth and final collaboration) does clearly take the side of the \"Loyalists\" (epitomized by the recurring title song) against the winning \"Nationalist\" forces in the ongoing conflict, it wisely opts to stress a general anti-war feeling \u0096 since, by then, the alternative Communist doctrine was seen to have also reaped an oppressive system (the Berlin Wall had just been torn down when the film was made)! That said, it paints a clichéd picture of Italians (who naturally supported the soon-to-be-established Fascist dictatorship) as lovers of pasta and Neapolitan songs! The protagonists comprise a small-time variety act, but which is seen to go a long way on the woman's sensuality (she too is named Carmela and sings one of her numbers draped in the Republican flag!), her partner's penchant for rhythmic flatulence(!) and the sheer innocence of its third member, a mute boy (who, at one point, attempts to sell to the Italians the troupe's allegiance to their cause by inscribing \"Viva Mulosini\" {sic} on a tablet he carries around with him and, in another comic sequence, dutifully informs his boss that the delicious meat he is gorging himself on may well be that of a cat as opposed to rabbit!)."
+      ],
+      "genres": [
+         "Drama",
+         "War"
+      ],
+      "productionCompanies": [
+         "Iberoamericana Films Internacional",
+         "Televisión Española (TVE)",
+         "Ellepi Films"
+      ],
+      "summaries": ["Paulino and Carmela are husband and wife, troubadours touring the countryside during the Spanish Civil War. They are Republicans, and with their mute assistant, Gustavete, they journey into rebel territory by mistake. They are arrested, fear a firing squad, and receive a reprieve from an Italian Fascist commander who loves the theatre. He arranges a performance for his troops, bargaining with Paulino to stage a burlesque of the republic in exchange for the actors' freedom. Will the fiery and patriotic Carmela consent?"],
+      "budget": 0
+   },
+   "movielensId": 6673,
+   "movielens": {
+      "languages": [
+         "Italiano",
+         "Polski",
+         "Español"
+      ],
+      "releaseDate": "1990-03-16",
+      "dvdReleaseDate": null,
+      "directors": ["Carlos Saura"],
+      "runtime": 102,
+      "movieId": 6673,
+      "title": "Ay, Carmela!",
+      "mpaa": null,
+      "actors": [
+         "Carmen Maura",
+         "Andrés Pajares",
+         "Gabino Diego",
+         "José Sancho",
+         "Armando De Razza",
+         "Mario De Candia",
+         "Miguel Rellán",
+         "Edward Zentara",
+         "Rafael Díaz",
+         "Chema Mazo",
+         "Antonio Fuentes",
+         "Mario Martín",
+         "Emilio del Valle",
+         "Silvia Casanova",
+         "Alfonso Guirao",
+         "Felipe Vélez",
+         "Félix Pardo",
+         "Manuel Millán",
+         "Víctor Manuel Mendoza",
+         "Francisco Ferrer",
+         "Gabriel Moreno",
+         "José Hernán Rincón",
+         "Ecuador Rubio",
+         "Jesús Pinto",
+         "Benjamín Torrijo",
+         "Teodoro Vinagre",
+         "Luis Barco",
+         "César Burgos",
+         "Joaquín Sánchez",
+         "Rafael Checa",
+         "José Susi",
+         "Pascual Villaescusa",
+         "Josu Ormaetxe",
+         "Rafael Palmero Jr."
+      ],
+      "imdbMovieId": "0101025",
+      "originalTitle": "¡Ay, Carmela!",
+      "genres": [
+         "Drama",
+         "Comedy",
+         "War"
+      ],
+      "youtubeTrailerIds": ["6L_i0CLP0Co"],
+      "plotSummary": "Paulino and Carmela are husband and wife, troubadours touring the countryside during the Spanish Civil War. They are Republicans, and with their mute assistant, Gustavete, they journey into rebel territory by mistake. They are arrested, fear a firing squad, and receive a reprieve from an Italian Fascist commander who loves the theatre. He arranges a performance for his troops, bargaining with Paulino to stage a burlesque of the republic in exchange for the actors' freedom. Will the fiery and patriotic Carmela consent?",
+      "tmdbMovieId": 41806,
+      "avgRating": 3.15116,
+      "releaseYear": "1990",
+      "numRatings": 43,
+      "posterPath": "/mGtRZXjerQfK6IOQjJENK4uhtmR.jpg"
+   }
+}

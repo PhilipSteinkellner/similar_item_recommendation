@@ -1,0 +1,556 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "london england",
+            "id": 212
+         },
+         {
+            "name": "transformation",
+            "id": 4375
+         },
+         {
+            "name": "alien",
+            "id": 9951
+         },
+         {
+            "name": "teacher",
+            "id": 10508
+         },
+         {
+            "name": "talking animal",
+            "id": 11477
+         },
+         {
+            "name": "super power",
+            "id": 33637
+         },
+         {
+            "name": "godlike power",
+            "id": 229741
+         }
+      ],
+      "imdb_id": "tt1727770",
+      "video": false,
+      "title": "Absolutely Anything",
+      "recommendations": [
+         237756,
+         218784,
+         227300,
+         261392,
+         332340,
+         254375,
+         179826,
+         243938,
+         267193,
+         333385,
+         273477,
+         13092,
+         228066,
+         301728,
+         238215,
+         238615,
+         101519,
+         74461,
+         257445,
+         257091
+      ],
+      "backdrop_path": "/qv46zZYjlXRR2uGATw9mDIBuORt.jpg",
+      "revenue": 7200039,
+      "reviews": [{
+         "author": "Gimly",
+         "id": "5aa4985fc3a3687c13017304",
+         "content": "A better cast, worst scripted _Bruce Almighty_. The execution is severely lacking, and as much as I adore seeing Simon Pegg and Kate Beckinsale ham up the screen, it seems obvious how much better this could (and should) have gone. What we are left with in _Absolutely Anything_ is a movie that was engaging, yet glaringly bad, the sort of thing I didn't hate watching, but will never watch again.\r\n\r\n_Final rating:★★ - Had some things that appeal to me, but a poor finished product._",
+         "url": "https://www.themoviedb.org/review/5aa4985fc3a3687c13017304"
+      }],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 9,
+               "character": "Neil Clarke",
+               "gender": 2,
+               "credit_id": "530f6fc19251417390000f49",
+               "name": "Simon Pegg",
+               "profile_path": "/23e2uoNlpDvLumNic16fS2YjZjL.jpg",
+               "id": 11108,
+               "order": 0
+            },
+            {
+               "cast_id": 8,
+               "character": "Catherine",
+               "gender": 1,
+               "credit_id": "530f6fb99251417384000e8f",
+               "name": "Kate Beckinsale",
+               "profile_path": "/jlleQafwnW1j0mvxJLiqnNL2mYh.jpg",
+               "id": 3967,
+               "order": 1
+            },
+            {
+               "cast_id": 15,
+               "character": "Grant",
+               "gender": 2,
+               "credit_id": "532b0ac09251410836001783",
+               "name": "Rob Riggle",
+               "profile_path": "/tWh7aVLl82jxX6U0f7tRTN7Sw3S.jpg",
+               "id": 71403,
+               "order": 2
+            },
+            {
+               "cast_id": 11,
+               "character": "Ray",
+               "gender": 2,
+               "credit_id": "530f6fda925141739b000eeb",
+               "name": "Sanjeev Bhaskar",
+               "profile_path": "/3cEenHNguFskMlsuhyyQj4UIDOK.jpg",
+               "id": 145997,
+               "order": 3
+            },
+            {
+               "cast_id": 23,
+               "character": "Fenella",
+               "gender": 1,
+               "credit_id": "54748dfa9251413aab001d49",
+               "name": "Joanna Lumley",
+               "profile_path": "/2RFXqaFpeN9WmhfAyNaumz0rZUV.jpg",
+               "id": 34901,
+               "order": 4
+            },
+            {
+               "cast_id": 35,
+               "character": "Rosie",
+               "gender": 0,
+               "credit_id": "57f184ccc3a3683f2000d0fd",
+               "name": "Marianne Oldham",
+               "profile_path": "/mA8TPyjmL8xRWFKsVgCZAorxCJO.jpg",
+               "id": 1483728,
+               "order": 5
+            },
+            {
+               "cast_id": 24,
+               "character": "Headmaster",
+               "gender": 2,
+               "credit_id": "54748e11c3a3686bf3000201",
+               "name": "Eddie Izzard",
+               "profile_path": "/j5hzBqmcyWG2GC754uACCoNgAvS.jpg",
+               "id": 1926,
+               "order": 6
+            },
+            {
+               "cast_id": 26,
+               "character": "James Cleverill",
+               "gender": 2,
+               "credit_id": "54748e45c3a3683e3f00103f",
+               "name": "Robert Bathurst",
+               "profile_path": "/fpqcAcnhorBLzmbDYnPDNrdY9a9.jpg",
+               "id": 42663,
+               "order": 7
+            },
+            {
+               "cast_id": 27,
+               "character": "Canteen Lady",
+               "gender": 0,
+               "credit_id": "54748e519251413981001cfe",
+               "name": "Judy Loe",
+               "profile_path": "/vIkPdsxBGLS6qf7FOp7x52ylDIW.jpg",
+               "id": 37892,
+               "order": 8
+            },
+            {
+               "cast_id": 29,
+               "character": "Himself",
+               "gender": 2,
+               "credit_id": "55d0101292514131980069a4",
+               "name": "Brian Cox",
+               "profile_path": "/8DHhyofBFzdTdYUThNX3dlFYAiv.jpg",
+               "id": 224290,
+               "order": 9
+            },
+            {
+               "cast_id": 30,
+               "character": "Fiona",
+               "gender": 1,
+               "credit_id": "57da87d6c3a36830e3002647",
+               "name": "Meera Syal",
+               "profile_path": "/1B8uEf17DUJwbvVvSQNI0nExNuh.jpg",
+               "id": 6975,
+               "order": 10
+            },
+            {
+               "cast_id": 32,
+               "character": "Miss Pringle",
+               "gender": 1,
+               "credit_id": "57ed41679251416dfa0002ed",
+               "name": "Emma Pierson",
+               "profile_path": "/AkBWrUUK6Ys3xdRrBV3hfGhGvQH.jpg",
+               "id": 28475,
+               "order": 11
+            },
+            {
+               "cast_id": 31,
+               "character": "Newsreader",
+               "gender": 2,
+               "credit_id": "57da8821c3a36830ed002c37",
+               "name": "David Annen",
+               "profile_path": "/dz6tQaYzz7pK3LI4VGHq5m1LUoz.jpg",
+               "id": 1344082,
+               "order": 12
+            },
+            {
+               "cast_id": 34,
+               "character": "Newsreader",
+               "gender": 2,
+               "credit_id": "57f18268c3a3683f2700fd1d",
+               "name": "Gavin Scott",
+               "profile_path": "/giBDvBzc08v1DT6zr4sVVfLVCm.jpg",
+               "id": 58034,
+               "order": 13
+            },
+            {
+               "cast_id": 12,
+               "character": "Dennis the Dog (voice)",
+               "gender": 2,
+               "credit_id": "530f6fe89251417390000f50",
+               "name": "Robin Williams",
+               "profile_path": "/5KebSMXT8uj2D0gkaMFJ8VEp53.jpg",
+               "id": 2157,
+               "order": 14
+            },
+            {
+               "cast_id": 10,
+               "character": "Chief Alien (voice)",
+               "gender": 0,
+               "credit_id": "530f6fcd9251417378000f05",
+               "name": "John Cleese",
+               "profile_path": "/kg63gNYQtGPi2fSNIvCnVAclCbi.jpg",
+               "id": 8930,
+               "order": 15
+            },
+            {
+               "cast_id": 3,
+               "character": "Nasty Alien (voice)",
+               "gender": 2,
+               "credit_id": "52fe49a39251416c910b3b3b",
+               "name": "Terry Gilliam",
+               "profile_path": "/cFno5isSPvfPEkSdVoEzOs0pJCh.jpg",
+               "id": 280,
+               "order": 16
+            },
+            {
+               "cast_id": 25,
+               "character": "Salubrious Gat (voice)",
+               "gender": 2,
+               "credit_id": "54748e2a9251416e580021f5",
+               "name": "Eric Idle",
+               "profile_path": "/8bIEjD3ZNRdveo6avslTX6PB22U.jpg",
+               "id": 10713,
+               "order": 17
+            },
+            {
+               "cast_id": 13,
+               "character": "Scientist Alien (voice) / Van Driver",
+               "gender": 2,
+               "credit_id": "530f6fef9251417355000e83",
+               "name": "Terry Jones",
+               "profile_path": "/7YaQ0k5BmUU3MmFvDL72tXl2G0B.jpg",
+               "id": 10707,
+               "order": 18
+            },
+            {
+               "cast_id": 5,
+               "character": "Kindly Alien (voice)",
+               "gender": 2,
+               "credit_id": "52fe49a39251416c910b3b43",
+               "name": "Michael Palin",
+               "profile_path": "/4x3JaNi3hEh4tdlXbg4dw55X10f.jpg",
+               "id": 383,
+               "order": 19
+            },
+            {
+               "cast_id": 33,
+               "character": "Sandwich Girl",
+               "gender": 1,
+               "credit_id": "57f181b0c3a36868910026f4",
+               "name": "Alexa Davies",
+               "profile_path": "/vc0JC6cqv3rgzyqPJdHp7mSgdvE.jpg",
+               "id": 1437582,
+               "order": 20
+            },
+            {
+               "cast_id": 36,
+               "character": "Author",
+               "gender": 2,
+               "credit_id": "57f186e0c3a3683f2000d1eb",
+               "name": "Neville Phillips",
+               "profile_path": "/pnmiYSbaERGhGRP7M4KdHdoNk8M.jpg",
+               "id": 49968,
+               "order": 21
+            },
+            {
+               "cast_id": 37,
+               "character": "Security Man",
+               "gender": 2,
+               "credit_id": "57f18795c3a3686909002750",
+               "name": "Ronan Summers",
+               "profile_path": "/oqUPzj0rY7cI3QvLSVf7a6ldtOs.jpg",
+               "id": 1132153,
+               "order": 22
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe49a39251416c910b3b31",
+               "name": "Terry Jones",
+               "profile_path": "/7YaQ0k5BmUU3MmFvDL72tXl2G0B.jpg",
+               "id": 10707,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54748d49c3a3681db6001c0f",
+               "name": "Terry Jones",
+               "profile_path": "/7YaQ0k5BmUU3MmFvDL72tXl2G0B.jpg",
+               "id": 10707,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54748d38c3a3681db6001c0c",
+               "name": "Gavin Scott",
+               "profile_path": "/giBDvBzc08v1DT6zr4sVVfLVCm.jpg",
+               "id": 58034,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54748d63c3a3686bf30001dd",
+               "name": "George Fenton",
+               "profile_path": "/23V03rGdkvNgeiBwLodJzNKdhJC.jpg",
+               "id": 1528,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54748d6f9251414f41001897",
+               "name": "Peter Hannan",
+               "profile_path": null,
+               "id": 57699,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "54748d7c9251413aab001d2f",
+               "name": "Julian Rodd",
+               "profile_path": null,
+               "id": 1389212,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "54748d86c3a36875de001a88",
+               "name": "Irene Lamb",
+               "profile_path": null,
+               "id": 390,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "54748da2c3a3681db6001c23",
+               "name": "James Acheson",
+               "profile_path": null,
+               "id": 11386,
+               "department": "Art",
+               "job": "Production Design"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         }
+      ],
+      "popularity": 9.067622,
+      "production_countries": [{
+         "iso_3166_1": "GB",
+         "name": "United Kingdom"
+      }],
+      "id": 86828,
+      "vote_count": 516,
+      "budget": 0,
+      "overview": "Eccentric aliens give a man the power to do anything he wants to determine if Earth is worth saving.",
+      "similar": [
+         44912,
+         1452,
+         1924,
+         8536,
+         11411,
+         9531,
+         13640,
+         9738,
+         141052,
+         415,
+         49521,
+         1927,
+         287947,
+         14011,
+         65291,
+         414,
+         364,
+         155,
+         268,
+         1979
+      ],
+      "original_title": "Absolutely Anything",
+      "runtime": 85,
+      "poster_path": "/yZSdJNUfbK5y7mT80PwWGgvXkXn.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Phoenix Pictures",
+            "id": 11317,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Bill and Ben Productions",
+            "id": 39420,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2015-06-26",
+      "vote_average": 5.7,
+      "belongs_to_collection": null,
+      "tagline": "Great power. Total irresponsibility.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Terry Jones"],
+      "runtime": 85,
+      "synopsis": null,
+      "writers": [
+         "Terry Jones",
+         "Gavin Scott"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt1727770/",
+      "coverLink": "https://ia.media-imdb.com/images/M/MV5BMjMxNTQ1NDgyOF5BMl5BanBnXkFtZTgwMjMxNjU0NjE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "actors": [
+         "Simon Pegg",
+         "Kate Beckinsale",
+         "Sanjeev Bhaskar"
+      ],
+      "reviews": [
+         "A group of aliens decide to put the fate of the world in the hands of one random guy by giving him the power to make anything happen as a test towards predicting the values of humanity. British writer/director Terry Jones, known for his work with the hilarious Monty Python comedy group, returns with his first feature film in 19 years for Absolutely Anything, and it's absolutely perfect absurdity. From a hilarious talking dog to a series of unpredictable gags ranging from walking turds to the accidental annihilation of an entire classroom of kids, the film's unpredictable humor is completely nuts. But like a fine mix of chocolate-covered nuts, Jones makes sure none of the jokes ever become mean-spirited, ensuring the film maintains some refined substance through its mostly lighthearted antics. Just don't expect the same style of humor seen in his '70s comedic masterpiece Monty Python and the Holy Grail. Now I won't try and bring your hopes up with empty promises, considering this flick is far from being award-worthy. Any forms of deep character development or profound script elements are instead replaced with an extra dose of silly gags, but at least they're funny enough to justify their existence. Full of unexpected wit that cleverly mixes its comedic styles, Absolutely Anything had me laughing from start to finish. Obviously Simon Pegg deserves some recognition for this, considering he's the one that allowed the far-fetched situations come to life with impeccable comedic timing. The best parts are, of course, the trial and error associated with Pegg trying to figure out how to properly use his powers without having them hilariously backfire in his face. What will surprise audiences the most, however, is the fantastic voice work brought to Pegg's lovably annoying pet dog by none other than the late legend himself, Robin Williams. It's a little bittersweet considering it's his final roll, but it certainly comes with great pleasure to say it's a memorable one. Thankfully I never bothered checking out the film's Rotten Tomatoes rating before watching it, because it's exceptionally low 8% critic approval might have persuaded me not to give it a chance. How the undeniably pointless Stan-Helsing or Kevin Smith's unfunny detective comedy Cop Out managed to get higher critic approval scores is beyond me. Maybe it's time people adjust the tracking on their VCRs and take the time to actually watch things clearly. Wait\u0085 People don't watch VHS tapes anymore? Oh\u0085 Well I guess we can't really blame the picture quality now can we? Hum\u0085 Perhaps my taste in movies has just relinquished in quality over the years? Or maybe my sense of humor just belongs in a Saturday morning cartoon? Either way, I'd like to think I'm not the crazy one.",
+         "Absolutely Anything is a funny enough light comedy that seems better thanks to its notorious cast but unfortunately is a bit subdued to 'wow'. Simon Pegg plays Neil Clarke, an unassuming teacher who has a crush on his neighbor and hates his job and boss. Little does he know that aliens are circling the planet, ready to put it to the test. One lucky human gets the power to do absolutely anything, and if they use the power for good then great, if they use it for bad, well then the aliens blow up the planet. Seems fair enough. For those Jim Carrey fans out there, the idea behind Absolutely Anything is strikingly similar to 2003's Bruce Almighty. But unlike the Americans, the Brits are far more restrained in their use of absolute power and complete command of the universe. Neil just wants the simple things, to mess with his friends and maybe improve his work and body sitch. In fact, the ways in which Neil uses his complete power is almost too restrained and basically ends up making the film feel like a missed opportunity. There are several decisions the producers made that really optimized the film, like getting the Monty Python gang to voice the aliens and Robin Williams to voice Neil's pet dog Dennis. Between their comedy chops and Simon Pegg, it seems impossible for this film to be bland, but it is. It seems as though the film strictly follows the script, leaving very little improvisational wiggle room which is where all the aforementioned talents shine. The comedy of Absolutely Anything is fine, entertaining and delightful, but not memorable or laugh- out- loud funny either. Ultimately, Absolutely Anything suffers from a lack of creativity and originality in its comedy. It is amusing but average, and in the sea of films released annually, you won't even give it a second thought. Please check out our website for reviews of all the recent releases.",
+         "To me, Absolutely Anything is a very unique comedy. This didn't seem like a film I would normally like, I figured aliens in a comedy would be pretty stupid. The 6.0 rating was also kind of off putting but I decided to give it a go as I generally like Simon Pegg films. Simon Pegg plays schoolteacher Neil who lives home alone with his dog Dennis (voiced superbly by Robin Williams). Neil is chosen by a group of aliens as part of an experiment and is given the power to do absolutely anything. Chaos ensues as Neil begins to use his power. There are a lot of very funny moments in the film such as walking turds, the dead rising and Neil changing his body while looking in the mirror. However most of the laughs come a little later on in the film when he gives his dog the power to speak. Robin Williams had me in stitches at various points with the way he described certain characters and kept talking about biscuits and sh*#*#* Kate Beckinsale plays Neil's neighbour with a lot of charm but thankfully the film doesn't focus too much on making the two of them a major love story. I came solely for laughs and that's what I got. Overall it's a very funny & enjoyable film with a unique story. I feel it could have been explored further as there was plenty more that could've been done with the power. Could've easily been 30 minutes longer and I'd still find it funny, perhaps even a mini series could work but for now the film is very good as it is. Highly recommended for those in need of a laugh, as long as you don't take it too seriously and look for negative points. Just simply enjoy it for what it is. 8/10.",
+         "This film features a comedian cast list that could bankroll a small country. But even together they could not make a film I want to ever watch again. I imagine their pay-cheques were so high, they could not afford to venture out of his apartment, as thats where 75% of the film is set. They have a few scenes in a school cafeteria and one in a studio for a TV show, but alas neither of them has Simon's character in them. The talent they had available was exceptional and if Simon was given a scene on the talk show about the book he was apparently writing - it would have led to many great one- liners. But the scene never happened. If he had used his powers on the naughty students in his class, there is comedy gold to be had. But instead he just does nothing. Its as though there were tons of set-ups but sadly no pay-offs. Since most the film is set in his flat, I have to believe its due to budget constraints after paying all the artists and animators. Even the world changing issue we only ever see through his TV set as a news report, and never actually see any of it. Then we have Kate, who is a 10 in anybodies rating, and Simon who is not even in her Universe. She felt so out of place in this film. You could tell she had three hours of makeup before every scene and her pedestal lifted her well beyond the reach of Simons character. Nothing against Simon, but I just didn't feel any connection between them whatsoever - there was no romance, other than what we were being told. Then we have the fact that she had three guys making moves on her - she becomes nothing but a sex object. She had no purpose, plot, story and even her job which had ties to Simon was ignored. Its just who will be the first to rape her, and eventually it becomes the one person it shouldn't have been. Speaking off the rape scene - it appears the editor realised their mistake and quickly edited in a cartoon excuse to try and soften the blow a little. But it was too little, too late. She even calls him out on it later, and then forgives him for it. Why? God Almighty, this film is not. Limitless showed better use of his powers than this. Even Lucy had a better explanation for how they are received. It just felt like a rush production in all areas and they used up too much money on the cast, which could have been put to much better use travelling the world with the powers he had. His search for happiness continues.",
+         "This film follows a man named Neil Clarke (Simon Pegg) and his story after being granted the ability to get whatever he wishes for by a group of aliens as an experiment. This film had some great advertisements that interested me to watch this film. Its plot line alone, the ability to grant any wish you have to come true, had me intrigued. The film does a good job at keeping the 'wonder' feel going throughout the film. The missing two stars are because i just feel so much more could of been done in this film and there were many opportunities to branch out and do different stuff, but most of the time they kept it simple. A few of his wishes were clever and mad me really wonder 'what would i wish for?' but some were far too simple. I won't spoil it because this is spoiler free, but the ending to this film isn't as good as the first half of the film. That was probably the weakest part. You won't walk out of this movie thinking 'Oh my gosh Simon Pegg just delivered the best performance in his entire career' but, that does not mean it was bad. the acting was good, the editing was fine as well and overall, i recommend this film on a rainy day as entertainment to pass the time. I doubt it will be the best film you have ever seen but you will have a fun time with it. 8/10",
+         "8.25 of 10. Amusing, alien-based soft-science fiction. Not as intricate as Douglas Adams' classic Hitchhiker's Guide to the Galaxy or its 2005 adaptation, but delivers in almost every other way. It's too bad it wasn't developed a little more and made into a longer film. Besides Simon Pegg being the ideal pick for the lead character, Robin Williams doing another post-death cameo as the voice of a dog character - speaking, thinking animals being another favorite of Adams - adds a lot of fun and post-film credits enjoyment to a story about humans getting in the way of our alien overlords. More than just comedy or sci-fi-light, there's some excellent satire, subtexts, and recursive comprehension built into the film, making it one of the rare alien, animal-speaking films that are almost believable.",
+         "The absolute power of wish fulfillment has been connected to many beings, genie and god among others, but now even aliens can make one's wish come true. Absolutely Anything is a simple film blessed with nifty premise and charming charismatic lead in Simon Pegg. It's a light casual watch that surprisingly heartwarming and incredibly witty beyond the occasional quirky display, even though the premise doesn't have much depth. Neil (Simon Pegg) is an ordinary teacher who has been given ultimate power by a group of aliens for the purpose of judging the entire earth. The plot and cast are rather familiar, including the love interest by Kate Beckinsale along with the usual best friend and silly talking dog. It's pretty hard to fail on delivering a talking dog, especially voiced by Robin Williams. First and foremost, the humor is fun and fairly amusing. The script offers some ridiculous situations, often presenting these scenes for Simon Pegg to shine, and that he does. His character is utterly identifiable, wishing assortments of petty stuffs and ending up with stupid mistakes by simple poor choice of words. Some of these might feel overdone and the movie just goes for the boundary of safe route. Pegg also seems like able to crate chemistry with the cast, and everyone is quite likable, aside from a few over-the-top moments for a couple of them. The movie doesn't venture into deep thought about absolute power or the logic of bending reality, it merely a mild enjoyment with nice characters, most of whom work in platonic relationship. One extra credit for the presentation is how the visual looks sophisticated, it uses the scenery of England and the special effects fairly well. Absolutely Anything is a much humbler film than the title suggests, it provides ample of light entertainment with a commendable performance by Simon Pegg even if the premise feels outdated towards the end. Plus, having Robin Williams again, even in doggy form is a nice treat.",
+         "What should I start with ? Oh, yes, I don't really get the mediocre score and reviews for this movie. Yeah, it's not another Holymollywood show (thank heavens!), it's not amazing in any way, but it does great at being a simple, enjoyable and funny movie to watch with your family. Both Simon Pegg and Kate are lovely to watch here. You can just sit, relax and have a fun time. It clearly doesn't try to be smart or serious, people should understand this. There's also a tiny but nice message in it, that once understood, makes a better image of it all. If you enjoyed \"Hector and the search for happiness\", you should give this one a try. We need more movies like this!",
+         "This is a great film, except, for some reason, they have put 6 F-words in it. I'm only 10, so I was surprised to see such bad language in a 12A. However, it is a very funny film. I especially like the part where he is watching TV and seeing all the stuff he has done wrong. This is on of my favourite films, so I was very surprised when I looked at the rating in the morning (8.6) and then the rating after I went to see it (6.1). I highly recommend this film, though not for kids. Look at the IMDb Parents Guide (I tried to get it on Common Sense Media, but it wouldn't work).",
+         "Maybe I'm easily pleased ( compared to some reviews ) but, I found this film hugely entertaining! Corollaries with this and 'Bruce Almighty' are, in my opinion, misplaced. It's much funnier. I confess, I am a major Simon Pegg fan and he doesn't disappoint! The anthropomorphism of the dog, 'Dennis' is a superb 'observation' by the writer. Biscuits, sex and someone at the door, are priceless. It's fast moving and never dull! The aliens, voiced by some of the Monty Python team, are really good, especially the choice of names when they start speaking in English. I was slightly disappointed that 'Neil' never recognised that 'Catherine' liked him for who he was, there were plenty of clues! I laughed a lot and will definitely see it again.",
+         "This is a movie in the fashion of Bruce Almighty starring the overestimated Simon Pegg. (The main character even has a dog who wishes to be potty-trained, like in the Jim Carrey movie). What would you do if you were able to do \"Absolutely Anything\"? Well, you can easily do a couple of ...turds to go flush themselves into the toilet, or make your dog able to speak, or spy on your cute neighbor. Most of the jokes aren't funny at all and are based on the literal meaning of Pegg's wishes like I want to be on the bus means on its roof etc. The lack of imagination of the main character is derived from the poor imagination and talents of its writers and creators. Obviously in such a movie you need good visuals to produce the \"mind-blowing\" and extravagant possibilities, but the movie fails miserably in that department too. This is the absolute worst thing Monty Python has ever done. Naive, Idiotic and a missed opportunity... Avoid it...",
+         "When I first looked at the cast to this movie, it was a guarantee for me to see this movie. The premise maybe a rehash of Bruce Almighty but considering the Monty Python team, Robin Williams and Simon Pegg among others... Yeah, I was going to see this and the trailers unlike every other comedy that's come out in the past few years looked pretty promising. The plot, aliens find a satellite of Earth from 1972 giving them a run-down of humanity. So they decide the best thing to do would be to order a destruction on Earth considering they think humanity is stupid and has no idea about anything in comparison. However, according to intergalactic law the only way to fully determine this is to give any random person the ability to pretty much do anything, ANYTHING they want. However, he slowly learns that it frequently has monkey-paw twists depending on his wording. My biggest problem with the movie is while this is frequently funny, you do have to wait about 25 minutes before this gets good and being that it's 80 minutes, it doesn't leave a lot of room to make this funny considering the part near the end when some of the things that's done comes back to bite him on the ass and destroys his social life. With all things considered, it's within reason. With that said, now to bring on the Bruce Almighty comparisons, the dramatic part is better and a lot less forced, which is much better but I'd also say Bruce Almighty said he can't mess with free will and here they do this all the time. To me this makes the movie a little... creepy. I hate romances like in Bewitched (2005) and I don't know what else where the romance blooms from mind-control and to me, that creates a huge disconnect. But I will say unlike other comedies the character of the love interest isn't just a blank slate but I think it would also be a much stronger ending if he instead learns to live with the mistakes he made with all this and grows more-so as a person then he did. Onto what I did like. There were some funny parts, I would argue after he accidentally resurrects everyone on the planet as zombies, every joke seems to hit with me... for the most part. The stuff at the beginning while I admit was slow it does get a few chuckles. I'd even say if you don't think about the messing with free will thing, it is pretty harmless as a comedy. I'd say, this isn't really as funny as I would have liked considering the cast and if you're a fan of some of them like I am or have seen them in roles you think are hilarious then I'd recommend lowering the expectations. I'd say it is worth it and be patient with it at the beginning.",
+         "This film tells the story of a teacher who suddenly finds himself having the power of making absolutely anything come true. He uses his power to make his life better, but it turns out that great powers come with great burden and responsibilities as well. Simon Pegg's character unfortunately does not quite know how to use his new almighty power, and bumps into a lot of mistakes. The plot could have been entertaining, but I think the potential for a good comedy is not fully capitalised. The American soldier is quite funny, Kate Beckinsale as the love interest is engaging, but the alien subplot is quite ridiculous. I would rather the aliens have nothing to do with this plot! Otherwise, \"Absolutely Anything\" is a plain film with some laughs, but nothing very memorable.",
+         "While I don't think it's \"One of the worst movies ever made\", or \"appalling\", as some critics have said. But I must say that I was really disappointed with Absolutely Anything, because I had such high hopes for this movie to be great just by the cast behind the movie and the director, but it didn't reach my expectations has I wanted. What's more sad is that this is the very last Robin Williams performance (He voices the dog in the movie). Not once did I laugh or even smile. It was very predictable and not that original when it comes to the story. Simon Pegg dose make a likable main character and Robin Williams dose a great job voicing the dog named \"Dennis\". But what's more crushing is that The Monty Python crew were involved in making this movie, because they wrote it, stared in it and one of them directed it. Overall Absolutely Anything isn't awful, but nowhere near great or good.",
+         "I was pulled into this movie for its all-star cast and its premise. Absolutely anything could happen. With Simon Pegg, Eddie Izzard, the final cast role of Robin Williams, the Monty Python crew and Terry Jones at the helm, what could go wrong? The answer: absolutely everything. To begin, the casting of male/female actors makes the viewer feel as though they are living in a world of attractive females and mediocre looking men. I guess that's fine. It worked for Monty Python. Not to suggest there is a better way to cast, however, it all felt pretty glaringly unrealistic to me. About the comedic elements, although there were some unique laughs brought on by the originality of the screenplay, the whole movie was hard to watch. The lengths at which the CGI animation and set design went to accommodate the silliness of the story was entertaining, but it could hardly satiate the philosophical implications that the narrative proposes. As a viewer, you feel as though you are watching a writer getting away with settling on well-polished, sub-par ideas. Arguably, the bar is set high with a movie featuring a protagonist that can do anything, but still, blehhhhh..... This film calls to a thinking audience. Yet, any intelligent person will soon find themselves bored with this movie for one reason or another. Although it is very unique, like any over-budgeted action movie, I was left wondering who gave them the money to make this crap happen? The movie does brush on ethics, morality, the limitations of the human condition and the ramifications of having power over others, but so does Spiderman.... so watch that instead.",
+         "I had waited a long time for this movie. I loved Peg in several movies from Hot Fuzz to Shaun of the dead. This had the Monty Python cast and Peg so it had to be great right? Nope WRONG. From poking at all the politically correct things being white to American you would have thought that Kyan West wrote the script. Couple this with the fact that its just not funny nor entertaining I found myself fast forwarding through parts to get to the end. It was a classic we have great talent so it just has to be good no matter what we do. Its like saying the best chef in the world can make a dog crap pie and it will be great. NOPE its not. If you have time to kill and I mean to absolutely waste and you get a free copy of the DVD from a friend then go ahead but don't waste a dime on it, Wait even then don't waste your time. If your a die hard peg fan that could watch him eat monkey brains and think its good cinema then this may be OK for you. But if you expect the minimum of good writing then this is a skip at all costs.",
+         "Simon Pegg plays the same character in all of his films; it was funny in Shaun of the Dead but it grew tired quickly and bizarrely he still does it. Needless to say Simon Pegg's \"everyman\" character is every bit as annoying as it was the last dozen or so times he played it. I found myself transfixed more on his hair transplant than his lines. The talking dog played by Robin Williams could have been done so much better. The lines the dog was given were like a cross between Dr Dolittle and What Women Want: \"what if a dog could talk?! Oh I bet it would say how much it likes biscuits and wants to hump your leg!\" Predictable bilge. The \"chemistry\" between Kate Beckinsale and Simon Pegg was strained and unbelievable. There is no way that she would like or even consider Pegg's charisma-less neighbour. We also never find out why Rob Riggle's character liked her so much or the details of how they met. Speaking of Rob Riggle, I expected more from him really. Eddie Izzard was completely bland in this. He can't act, he's not funny and he should stick to walking around in lipstick and his pink beret preaching the virtues of a \"fair and equal society\" while enjoying his millions like the rest of his celebrity peers. The aliens were completely unnecessary and the \"Monty Python\" \"team\" playing them were humourless too. \"Monty Python\" was and never will contain an ounce of humour: just tired jokes and idiotic quirkiness. The only saving grace of the film is the exploration of questions like what would happen if everyone had enough food that they wanted and a home they wanted. However, despite knowing the film was a \"comedy\", I found myself nitpicking for plot holes. I lost count of the number of times Pegg's dull character could've wished to improve things. On one occasion, his friend begged him to stop some woman literally worshipping him, which he could've done in a second but of course he was too busy so we were treated to more of this stretched out, unimaginative \"joke\". The ending was also nonsensical. Why would the aliens give anyone enough power to destroy them? Very disappointing.",
+         "When I first heard about Absolutely Anything, I was pretty excited. I didn't see any trailers, but I thought that any film with Simon Pegg, Monty Python and Robin Williams could not be bad. Yet I was disappointed. Playing like a British Bruce Almighty, teacher Neil Clarke (Simon Pegg of the supremely funny Cornetto Trilogy) is bestowed with the power to do anything by aliens voiced by the surviving members of Monty Python (John Cleese, Terry Gilliam, Eric Idle, Michael Palin and Terry Jones, also director.) With these new powers, he tries to impress neighbour Kate Beckinsale, of the Underworld franchise, and gives his dog Dennis the ability to talk, with the voice of the (sadly late) Robin Williams in his final film role. Any comedy with this level of talent should get some good laughs from the audience. However, apart from a few chuckle instances (mainly during a sequence with a skeleton) that came most of the time the scene-stealing Robin Williams spoke, Absolutely Anything is largely devoid. With a frustrating amount of lazy punchlines and an abundance of stupid humour, many plot lines are not developed (including a promising sub-plot with Joanna Lumley which is nonetheless quickly abandoned.) Instead too much time is given to the mostly unfunny Pegg, who fails to be his usual hugely likable self that we've seen countless times before, and the scatter-shot plot which barely progresses due to the main character's inability to use his powers in any way that seems obvious or practical, and instead seems like the sort of thing we've seen all too many times before. The Python- aliens' CGI is pointlessly and distractingly bad, and they do not manage to evoke enough laughs as they should. The editing is diabolical, with confusing transitions, yet Pegg, Beckinsale and Rob Riggle do the best they can with a mostly poor script and direction. Absolutely Anything isn't that bad. There are a fair few decent chuckles, mainly at the expense of dogs and Williams' perfect capture of canine behaviour, notably when Dennis is bestowed with speech and rational thought, yet continually interrupts conversation to bark at the doorbell. The Python team, usually Cleese, have a few good lines among the majority of their weird, unfunny scenes yet it can't raise this film above mediocre. A decent enough time, and if you've spent a reduced fee on seeing it in the cinema you may not feel totally ripped off, but Absolutely Anything is not really worth seeing again at all. 51/100.",
+         "Aliens who travel from planet to planet to see what kind of species inhabit them, come to Earth. And if the inhabitants are decent, they are welcomed to be their friend. If not, the planet is destroyed.............. To find, out they choose one person and give them the power to do whatever they want. They choose Neil, a teacher who is constantly being belittled by the headmaster and is attracted to his neighbour, but doesn't have the courage to approach her. But all that should now change......... Aside from the debacle that was Burke and Hare, Pegg never really puts a foot wrong when it comes to choosing his roles, and even though this is just a throwaway piece of fluff, the British Bruce Almighty if you would, there is enough going on in such a short amount of time to forgive the films main shortcoming.......Rob Riggle. His character is from a totally different film and has no business being here. He has nothing in common with any of the other characters, and appears to try to upstage everyone on screen by being just too over the top. He ruins the film with every scene with which he's involved, and nearly ruins the flow of the film. Other than him, it's pretty pleasant stuff. Pegg can do the Everyman with his eyes shut, and he's such a vibrant, happy presence on screen, you never fear for his character or his shortcomings, because the man is just too endearing. But because the film has so many characters, a lot of people are sidelined in way of being a punchline. Izzard is the biggest victim here, his motivation here is from being totally abhorrent toward Neil, to being his best friend. He's in the film for literally three scenes, and he's probably only doing it because He's such good friends with the Pythons. And speaking of the Pythons, they just appear to be going through the motions, doing a favour for Jones, and appearing in voice only. For nostalgia though, it's essential for the Python completest. Williams rounds up the legends here as the voice of Dennis, and unfortunately it's not his finest hour. Again, just lend in his voice to the proceedings. But again, the man puts so much energy and life into his work, it's still brings that Williams touch to such a short role. It would have worked better as a thirty minute sitcom starring someone like Simon Bird, but it would have gone the way of My Hero and ended up as stale as last months bread. But it's a high concept British movie, and these are very rare, and although it wasn't the most well received film this year, one thinks it will become a cult film in years to come, standing proud with the limes of Morons From Outer Space, and I Bought A Vampire Motorcycle. Which is a compliment, honestly. Worth watching.",
+         "When I looked at the reviews on here, I became a bit worried about going to see this film. I thought it was going to be mediocre at best and slightly disappointing - but I needn't have worried! It was a thoroughly enjoyable film and I found that I could escape the real world whilst watching it (which is really the main reason I watch films). I wouldn't say it was wasted potential, which some people have said, nor would I say it was a poor film; however, I would say that it was not as good as The World's End or Paul, but then Simon Pegg is always better with Nick Frost. Overall, I would recommend this film to anyone, it was a very good film.",
+         "I am actually watching the ending of this drivel as I am writing this review. I was expecting at least some 'comedy' moments as Simon Pegg was in it - but how wrong I was! Everything about it was feeble - I can't recall anything that was in anyway funny. Most of the 'I can do anything' moments were cringeworthy and predictable - with the talent of the writers on offer, I would have hoped for a lot better. The American stalker - an absolute crap idea, crappily acted - didn't make any sense at all. The Alien conclave - typical Monty Python - but not funny! The 'lets all worship Ray' montage - embarrassing from start to finish. And finally the talking dog - a sad end to the late Robin Williams legacy. The only redeeming part is that He will not remembered for this as it will soon be forgotten about when it is in the 50pence bin in charity shops. Don't waste your time with it - I can only assume that the 6 out of ten voters were stoned or under the influence of some heavy drugs.",
+         "17 August 2015 Film of Choice at The Plaza Dorchester Tonight - Absolutely Anything. A group of Aliens, voiced by the Monty Python team, bestow special powers upon Neil (Simon Pegg) a very ordinary human, who leads a very ordinary life. Unknowingly given ten days to prove he has what it takes to save earth Neil first discovers, then learns how to use his powers. This should have been a lot funnier that it was, having said that the audience was laughing throughout, just not all at the same jokes. Torn between saving the girl he loves and saving the dog who loves him more, Neil blunders through to the conclusion of the film. Simon Pegg, who I think brings a special kind of flair to the films he stars in, was floundering a little in this, and many of the jokes, whilst raising a few laughs were not really that funny. Not one for my DVD collection I'm afraid....but I did find the new seats in Screen 2 most comfortable.",
+         "In this day and age with what seems like endless Hollywood blockbusters coming out a lot of movie goers seem to expect Oscar worth films with every purchase but not every film can have timeless performances or a flawless scripts! This film is what I call a perfect lazy film, it's simple, funny, charming and really makes you relax. It's effortless to watch and thoroughly enjoyable. The plot is obviously not going to be feasible but it doesn't have to be.... Sometimes imaginations stretch far from the norm, that's the beauty of cinema. I felt this film, however far fetched still felt real, a lot of the things he used the powers on were believable and true to what many regular people would do! Robin Williams from beyond the grave stole the show as Dexter, another reminder of what a great and versatile actor he was, he was perfect and that angle was great!! However the rest of the relationships seemed a bit offish, in the opening exchanges Ray and Neil didn't seem to particularly like each other so the jump to them as best mates felt false. Sadly there seemed to be no chemistry between pegg and beckinsdale, the idea of the love blossoming without power would have been beautiful had the actual spark been visible and not a case of him lusting after a slightly stuck up neighbour who happens to be fit! That was the only downfall but Williams coupled with monty Python were great! Pegg was his usual self, he seems to play the same sort of hapless goofy loser in every film, this worked, much like the worlds end its dependant on you liking pegg as an actor, if you don't you may dislike it but the unusual nature and overall quirkiness of the film make it enjoyable for the whole family bar 2-3 pg moments and bits of bad language. Easy to watch and will leave you smiling",
+         "Actually enjoyed this movie for what it was, a fairly decent British comedy, granted not a classic, but better than most recent American comedies that I have had to endure. It has a very Monty Python feel to it, maybe that's related to the voices of the aliens and the director I don't know, but it was a refreshing change. There were some good laugh out loud moments, but a couple of times it felt a bit flat. For me the scene stealer has to be dog voiced by the late great and very much missed Robin Williams. Simon Pegg was his usual self, just Simon Pegg with super powers! Hoping to get off with the ever gorgeous Kate Beckinsdale, let's be honest if I guy like him gets a girl like her then he needs all the powers he can to help! Not sure I will rush back to see it, but made a nice change to watch a comedy that wasn't full of the usual American vulgarity ie The Hangover etc.",
+         "If you want a silly movie to watch. Forget yourself for a moment and just giggle, or spend time watching something goofy. This movie is a solid 8/10. However, if you are a cynical film critic that takes everything in the universe including your own mother way to seriously. This movie is not for you. Go watch interstellar or something indie and obscure. If you like silly fun on occasion, the this movie is on the recommended list."
+      ],
+      "genres": [
+         "Comedy",
+         "Sci-Fi"
+      ],
+      "productionCompanies": [
+         "Bill and Ben Productions",
+         "GFM films",
+         "Premiere Picture"
+      ],
+      "summaries": [
+         "Some aliens, who travel from planet to planet to see what kind of species inhabit them, come to Earth. And if humans are, according to their standards, decent, they are welcomed to be their friend. And if not the planet is destroyed. To find out, they choose one inhabitant and give that person the power to do whatever he/she wants. And they choose Neil Clarke, a teacher who teaches the special kids. He is constantly being berated by the headmaster and is attracted to his neighbor, Catherine, but doesn't have the guts to approach her. But now he can do anything he wants but has to be careful.",
+         "Neil Clarke, a teacher who has a very bad life and lives in a flat with his dog, Dennis, gets special powers to do absolutely anything which was given to him by a group of aliens. When he has these powers, he has to be very careful with them because otherwise it could lead to misery.",
+         "A group of eccentric aliens confer a human being with the power to do absolutely anything, as an experiment."
+      ],
+      "budget": 0
+   },
+   "movielensId": 135885,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2015-06-26",
+      "dvdReleaseDate": null,
+      "directors": ["Terry Jones"],
+      "runtime": 85,
+      "movieId": 135885,
+      "title": "Absolutely Anything",
+      "mpaa": "",
+      "actors": [
+         "Simon Pegg",
+         "Kate Beckinsale",
+         "Rob Riggle",
+         "Sanjeev Bhaskar",
+         "Joanna Lumley",
+         "Marianne Oldham",
+         "Eddie Izzard",
+         "Robert Bathurst",
+         "Judy Loe",
+         "Brian Cox",
+         "Meera Syal",
+         "Emma Pierson",
+         "David Annen",
+         "Gavin Scott",
+         "Robin Williams",
+         "John Cleese",
+         "Terry Gilliam",
+         "Eric Idle",
+         "Terry Jones",
+         "Michael Palin",
+         "Alexa Davies",
+         "Neville Phillips",
+         "Ronan Summers"
+      ],
+      "imdbMovieId": "1727770",
+      "originalTitle": "Absolutely Anything",
+      "genres": [
+         "Comedy",
+         "Science Fiction"
+      ],
+      "youtubeTrailerIds": ["0CYVGN98ZLA"],
+      "plotSummary": "Eccentric aliens give a man the power to do anything he wants to determine if Earth is worth saving.",
+      "tmdbMovieId": 86828,
+      "avgRating": 3.04722,
+      "releaseYear": "2015",
+      "numRatings": 180,
+      "posterPath": "/yZSdJNUfbK5y7mT80PwWGgvXkXn.jpg"
+   }
+}

@@ -1,0 +1,922 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "world war ii",
+            "id": 1956
+         },
+         {
+            "name": "nazi",
+            "id": 2652
+         },
+         {
+            "name": "british spy",
+            "id": 14618
+         }
+      ],
+      "imdb_id": "tt0034027",
+      "video": false,
+      "title": "Pimpernel Smith",
+      "recommendations": [
+         43037,
+         79730,
+         25381,
+         93427,
+         225958,
+         44631,
+         53205,
+         32116,
+         146660,
+         22734,
+         109936,
+         140090,
+         33841,
+         249348,
+         11387,
+         71768,
+         32032,
+         66035,
+         24152,
+         119819
+      ],
+      "backdrop_path": "/b8Cq27Wf2ullc6CMeqocJb2fjh.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Professor Horatio Smith",
+               "gender": 2,
+               "credit_id": "52fe465ec3a36847f80fb45d",
+               "name": "Leslie Howard",
+               "profile_path": "/upiLsG5efD8CrGO0gT6HyiZZEYh.jpg",
+               "id": 11493,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "General von Graum",
+               "gender": 2,
+               "credit_id": "52fe465ec3a36847f80fb461",
+               "name": "Francis L. Sullivan",
+               "profile_path": "/wCennvHk017VnuDgHSmB0NgRy6z.jpg",
+               "id": 93900,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Ludmilla Koslowski",
+               "gender": 1,
+               "credit_id": "52fe465ec3a36847f80fb465",
+               "name": "Mary Morris",
+               "profile_path": "/87cXLNXDvzNBiYVVdted9giFp4k.jpg",
+               "id": 568361,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "David Maxwell",
+               "gender": 0,
+               "credit_id": "52fe465ec3a36847f80fb469",
+               "name": "Hugh McDermott",
+               "profile_path": "/15k664Kfjhg4qS1IXSGHo5iV7SV.jpg",
+               "id": 91361,
+               "order": 3
+            },
+            {
+               "cast_id": 30,
+               "character": "Marx",
+               "gender": 2,
+               "credit_id": "58d5d91792514103d201ee31",
+               "name": "Raymond Huntley",
+               "profile_path": "/txL0IXHSd70qIAGsGytEjcSL9g2.jpg",
+               "id": 87071,
+               "order": 4
+            },
+            {
+               "cast_id": 21,
+               "character": "Bertie Gregson",
+               "gender": 0,
+               "credit_id": "58d5d6c1c3a36812890353a7",
+               "name": "Manning Whiley",
+               "profile_path": null,
+               "id": 938199,
+               "order": 5
+            },
+            {
+               "cast_id": 14,
+               "character": "Sidimir Koslowski",
+               "gender": 2,
+               "credit_id": "58be37e492514132a20090b8",
+               "name": "Peter Gawthorne",
+               "profile_path": null,
+               "id": 97217,
+               "order": 6
+            },
+            {
+               "cast_id": 13,
+               "character": "Dr Benckendorf",
+               "gender": 2,
+               "credit_id": "58be37c5925141606b058116",
+               "name": "Allan Jeayes",
+               "profile_path": "/qkQs32Rxaan0iM7hBLC9cU3qFfe.jpg",
+               "id": 95027,
+               "order": 7
+            },
+            {
+               "cast_id": 31,
+               "character": "Hoffman",
+               "gender": 0,
+               "credit_id": "58d5d94cc3a3681234033acd",
+               "name": "Dennis Arundell",
+               "profile_path": "/eCjLhI1zxn1A9uJFRmBafqaRVdT.jpg",
+               "id": 587795,
+               "order": 8
+            },
+            {
+               "cast_id": 16,
+               "character": "School-Teacher",
+               "gender": 1,
+               "credit_id": "58be38319251416077057299",
+               "name": "Joan Kemp-Welch",
+               "profile_path": null,
+               "id": 159150,
+               "order": 9
+            },
+            {
+               "cast_id": 22,
+               "character": "Spencer",
+               "gender": 2,
+               "credit_id": "58d5d6efc3a3681267030397",
+               "name": "Philip Friend",
+               "profile_path": "/YrMcvmM5lKj7DgtJNCahyQKgwr.jpg",
+               "id": 120150,
+               "order": 10
+            },
+            {
+               "cast_id": 24,
+               "character": "Clarence Elstead",
+               "gender": 2,
+               "credit_id": "58d5d76ec3a3681234033913",
+               "name": "Laurence Kitchin",
+               "profile_path": null,
+               "id": 1462097,
+               "order": 11
+            },
+            {
+               "cast_id": 11,
+               "character": "Steve",
+               "gender": 2,
+               "credit_id": "537ce621c3a36854f4001764",
+               "name": "David Tomlinson",
+               "profile_path": "/1QJLJtcJ4x8DQFflrbd2144ZzLg.jpg",
+               "id": 5825,
+               "order": 12
+            },
+            {
+               "cast_id": 23,
+               "character": "Jock MacIntyre",
+               "gender": 0,
+               "credit_id": "58d5d7369251411f810356ea",
+               "name": "Basil Appleby",
+               "profile_path": null,
+               "id": 143566,
+               "order": 13
+            },
+            {
+               "cast_id": 40,
+               "character": "Dvorak",
+               "gender": 2,
+               "credit_id": "58d5db91c3a3681234033cf4",
+               "name": "Percy Walsh",
+               "profile_path": null,
+               "id": 983468,
+               "order": 14
+            },
+            {
+               "cast_id": 18,
+               "character": "Salesgirl",
+               "gender": 0,
+               "credit_id": "58be3887c3a36866a5051f1b",
+               "name": "Suzanne Clair",
+               "profile_path": null,
+               "id": 119361,
+               "order": 15
+            },
+            {
+               "cast_id": 37,
+               "character": "Embassy Official - Sir George Smith",
+               "gender": 2,
+               "credit_id": "58d5db07c3a36812890357a5",
+               "name": "Roland Pertwee",
+               "profile_path": null,
+               "id": 929205,
+               "order": 16
+            },
+            {
+               "cast_id": 41,
+               "character": "Steinhof",
+               "gender": 2,
+               "credit_id": "58d5dbbdc3a3681289035860",
+               "name": "Charles Paton",
+               "profile_path": null,
+               "id": 7382,
+               "order": 17
+            },
+            {
+               "cast_id": 17,
+               "character": "Dean",
+               "gender": 2,
+               "credit_id": "58be3845925141606b05814f",
+               "name": "Aubrey Mallalieu",
+               "profile_path": null,
+               "id": 97219,
+               "order": 18
+            },
+            {
+               "cast_id": 29,
+               "character": "Schmidt",
+               "gender": 0,
+               "credit_id": "58d5d8f1c3a3681234033a7a",
+               "name": "George Street",
+               "profile_path": null,
+               "id": 137883,
+               "order": 19
+            },
+            {
+               "cast_id": 38,
+               "character": "Lady Willoughby",
+               "gender": 0,
+               "credit_id": "58d5db399251411f81035a72",
+               "name": "Oriel Ross",
+               "profile_path": null,
+               "id": 1783249,
+               "order": 20
+            },
+            {
+               "cast_id": 59,
+               "character": "Jaromir",
+               "gender": 0,
+               "credit_id": "58d5e1699251411faa034f62",
+               "name": "Bryan Herbert",
+               "profile_path": null,
+               "id": 1290419,
+               "order": 22
+            },
+            {
+               "cast_id": 20,
+               "character": "Jordan",
+               "gender": 0,
+               "credit_id": "58d5d673c3a3681267030322",
+               "name": "Arthur Hambling",
+               "profile_path": null,
+               "id": 109863,
+               "order": 23
+            },
+            {
+               "cast_id": 19,
+               "character": "Graubitz",
+               "gender": 2,
+               "credit_id": "58d5d64dc3a368121b0315b2",
+               "name": "Ben Williams",
+               "profile_path": null,
+               "id": 93578,
+               "order": 24
+            },
+            {
+               "cast_id": 15,
+               "character": "Weber",
+               "gender": 2,
+               "credit_id": "58be37f192514134070091be",
+               "name": "Ernest Butcher",
+               "profile_path": "/xbAz2kZ9yfCEosuZEFIqGitomJO.jpg",
+               "id": 936929,
+               "order": 25
+            },
+            {
+               "cast_id": 25,
+               "character": "Girl Student",
+               "gender": 0,
+               "credit_id": "58d5d7c0c3a368126703044f",
+               "name": "Mary Brown",
+               "profile_path": null,
+               "id": 553739,
+               "order": 26
+            },
+            {
+               "cast_id": 26,
+               "character": "Innkeeper",
+               "gender": 0,
+               "credit_id": "58d5d8319251411f89035b76",
+               "name": "W. Phillip",
+               "profile_path": null,
+               "id": 1783244,
+               "order": 27
+            },
+            {
+               "cast_id": 27,
+               "character": "Gretchen",
+               "gender": 0,
+               "credit_id": "58d5d84cc3a3681289035546",
+               "name": "Ilse Bard",
+               "profile_path": null,
+               "id": 1783245,
+               "order": 28
+            },
+            {
+               "cast_id": 28,
+               "character": "German Officer",
+               "gender": 0,
+               "credit_id": "58d5d8a2c3a3681289035598",
+               "name": "Ernest Verne",
+               "profile_path": null,
+               "id": 1783247,
+               "order": 29
+            },
+            {
+               "cast_id": 32,
+               "character": "Karl Meyer",
+               "gender": 0,
+               "credit_id": "58d5d9ab9251411f8103593e",
+               "name": "Hector Abbas",
+               "profile_path": null,
+               "id": 1420123,
+               "order": 30
+            },
+            {
+               "cast_id": 33,
+               "character": "Second Prisoner",
+               "gender": 0,
+               "credit_id": "58d5da15c3a368121b03192a",
+               "name": "Neal Arden",
+               "profile_path": null,
+               "id": 1462102,
+               "order": 31
+            },
+            {
+               "cast_id": 34,
+               "character": "Prison Guard",
+               "gender": 0,
+               "credit_id": "58d5da5ec3a368127c03388b",
+               "name": "Richard George",
+               "profile_path": null,
+               "id": 1003178,
+               "order": 32
+            },
+            {
+               "cast_id": 35,
+               "character": "Zigor",
+               "gender": 0,
+               "credit_id": "58d5da869251411f90035d8b",
+               "name": "Roddy Hughes",
+               "profile_path": null,
+               "id": 114835,
+               "order": 33
+            },
+            {
+               "cast_id": 36,
+               "character": "Wagner",
+               "gender": 2,
+               "credit_id": "58d5daba9251411fc50352dd",
+               "name": "Hugh Pryse",
+               "profile_path": null,
+               "id": 133245,
+               "order": 34
+            },
+            {
+               "cast_id": 61,
+               "character": "Camp Guard with Lantern",
+               "gender": 2,
+               "credit_id": "58f770fac3a368419000b949",
+               "name": "Michael Brennan",
+               "profile_path": null,
+               "id": 119667,
+               "order": 35
+            },
+            {
+               "cast_id": 62,
+               "character": "Bit Part",
+               "gender": 2,
+               "credit_id": "58f77123c3a368419000b965",
+               "name": "Elwyn Brook-Jones",
+               "profile_path": null,
+               "id": 115605,
+               "order": 36
+            },
+            {
+               "cast_id": 63,
+               "character": "Bit Role",
+               "gender": 2,
+               "credit_id": "58f77135c3a368417d00baf3",
+               "name": "Sebastian Cabot",
+               "profile_path": "/x4xosGUCYnuUQntxgbcZryWaKH6.jpg",
+               "id": 21877,
+               "order": 37
+            },
+            {
+               "cast_id": 64,
+               "character": "Man",
+               "gender": 0,
+               "credit_id": "58f7715b9251415e1d00c5c3",
+               "name": "Peter Cozens",
+               "profile_path": null,
+               "id": 1463004,
+               "order": 38
+            },
+            {
+               "cast_id": 65,
+               "character": "Gestapo Man Following Smith",
+               "gender": 0,
+               "credit_id": "58f7716ac3a368417d00bb10",
+               "name": "Arthur Denton",
+               "profile_path": null,
+               "id": 1366490,
+               "order": 39
+            },
+            {
+               "cast_id": 66,
+               "character": "Bit Part",
+               "gender": 1,
+               "credit_id": "58f77182c3a368415e00b776",
+               "name": "Irene Handl",
+               "profile_path": "/ydgfpIXL3Abx8wf0qpJue9QztG1.jpg",
+               "id": 79641,
+               "order": 40
+            },
+            {
+               "cast_id": 67,
+               "character": "Doctor at Diggings",
+               "gender": 2,
+               "credit_id": "58f771a7c3a368413b00c35b",
+               "name": "Vincent Holman",
+               "profile_path": null,
+               "id": 1107072,
+               "order": 41
+            },
+            {
+               "cast_id": 68,
+               "character": "Minor Role",
+               "gender": 2,
+               "credit_id": "58f771b79251415dec00c7e7",
+               "name": "Ronald Howard",
+               "profile_path": "/bSxPw5a6IkztOfCuT2nOn5fr2vL.jpg",
+               "id": 11134,
+               "order": 42
+            },
+            {
+               "cast_id": 69,
+               "character": "Telephone Operator",
+               "gender": 0,
+               "credit_id": "58f771c69251415e0200c584",
+               "name": "Stuart Latham",
+               "profile_path": null,
+               "id": 1066907,
+               "order": 43
+            },
+            {
+               "cast_id": 70,
+               "character": "Prison Camp Officer",
+               "gender": 0,
+               "credit_id": "58f771d5c3a368416d00c0dd",
+               "name": "Michael Rennie",
+               "profile_path": "/ebIHXyh1wx0HJqSpNEnGhYdmTvd.jpg",
+               "id": 12282,
+               "order": 44
+            },
+            {
+               "cast_id": 71,
+               "character": "German Officer at Customs",
+               "gender": 0,
+               "credit_id": "58f771e99251415dec00c807",
+               "name": "Charles Rolfe",
+               "profile_path": null,
+               "id": 1196677,
+               "order": 45
+            },
+            {
+               "cast_id": 72,
+               "character": "Reporter",
+               "gender": 2,
+               "credit_id": "58f771fac3a36841b000b9b9",
+               "name": "John Slater",
+               "profile_path": "/zRprk1DT6hMU87ddEafmdRWIvfk.jpg",
+               "id": 107434,
+               "order": 46
+            },
+            {
+               "cast_id": 73,
+               "character": "Camp Guard",
+               "gender": 2,
+               "credit_id": "58f7720ac3a368416d00c0f6",
+               "name": "Harry Terry",
+               "profile_path": null,
+               "id": 553228,
+               "order": 47
+            },
+            {
+               "cast_id": 74,
+               "character": "Earl of Meadowbrook",
+               "gender": 2,
+               "credit_id": "5a01bbccc3a36807c501bffc",
+               "name": "A.E. Matthews",
+               "profile_path": "/duJLfKhTOMmQIEUQRSMkhOTeLSa.jpg",
+               "id": 1473409,
+               "order": 48
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe465ec3a36847f80fb46f",
+               "name": "Leslie Howard",
+               "profile_path": "/upiLsG5efD8CrGO0gT6HyiZZEYh.jpg",
+               "id": 11493,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe465ec3a36847f80fb481",
+               "name": "Baroness Orczy",
+               "profile_path": null,
+               "id": 568362,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe465fc3a36847f80fb487",
+               "name": "Anatole de Grunwald",
+               "profile_path": null,
+               "id": 119322,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58d5dda992514103d201f284",
+               "name": "Mutz Greenbaum",
+               "profile_path": null,
+               "id": 37865,
+               "department": "Crew",
+               "job": "Technical Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58d5dcb29251411f81035bf1",
+               "name": "A. G. MacDonell",
+               "profile_path": null,
+               "id": 1783252,
+               "department": "Writing",
+               "job": "Original Story"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58d5dcd292514103d201f1be",
+               "name": "Wolfgang Wilhelm",
+               "profile_path": null,
+               "id": 49289,
+               "department": "Writing",
+               "job": "Original Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58d5dd08c3a368124f034606",
+               "name": "Anatole de Grunwald",
+               "profile_path": null,
+               "id": 119322,
+               "department": "Writing",
+               "job": "Scenario Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58d5dd26c3a368121b031bec",
+               "name": "Roland Pertwee",
+               "profile_path": null,
+               "id": 929205,
+               "department": "Writing",
+               "job": "Scenario Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58d5dd6e9251411fc5035583",
+               "name": "Harold Huth",
+               "profile_path": "/hufeOyOYV5gIZwV2U31HjLErpPV.jpg",
+               "id": 941781,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58d5ddba9251411f81035d10",
+               "name": "Mutz Greenbaum",
+               "profile_path": null,
+               "id": 37865,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58d5de399251411f9003613b",
+               "name": "Sidney Cole",
+               "profile_path": null,
+               "id": 119325,
+               "department": "Editing",
+               "job": "Editorial Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58d5de5bc3a368121b031cfd",
+               "name": "Duncan Sutherland",
+               "profile_path": null,
+               "id": 1018371,
+               "department": "Art",
+               "job": "Settings"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58d5de969251411fdc036f45",
+               "name": "George Pollock",
+               "profile_path": "/7Qcv476SOifAEhK02G1q9zZYqmQ.jpg",
+               "id": 11118,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58d5debfc3a3681267030a9d",
+               "name": "Douglas Myers",
+               "profile_path": null,
+               "id": 119326,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58d5dedec3a368125f0340a7",
+               "name": "Jack Hildyard",
+               "profile_path": null,
+               "id": 12242,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58d5df069251411fd5035aeb",
+               "name": "Phil C. Samuel",
+               "profile_path": null,
+               "id": 119329,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58d5df569251411fd5035b2c",
+               "name": "John Greenwood",
+               "profile_path": null,
+               "id": 47675,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58d5df819251411fc5035791",
+               "name": "Muir Mathieson",
+               "profile_path": null,
+               "id": 39055,
+               "department": "Sound",
+               "job": "Music Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "58d5dfc39251411f900362e1",
+               "name": "John Dennis",
+               "profile_path": null,
+               "id": 1627173,
+               "department": "Sound",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58d5dffec3a368127c033e0d",
+               "name": "A.W. Watkins",
+               "profile_path": null,
+               "id": 960844,
+               "department": "Sound",
+               "job": "Recording Supervision"
+            },
+            {
+               "gender": 2,
+               "credit_id": "58d5e1e39251411f81036193",
+               "name": "Leslie Howard",
+               "profile_path": "/upiLsG5efD8CrGO0gT6HyiZZEYh.jpg",
+               "id": 11493,
+               "department": "Production",
+               "job": "Producer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Adventure",
+            "id": 12
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 1.409878,
+      "production_countries": [{
+         "iso_3166_1": "GB",
+         "name": "United Kingdom"
+      }],
+      "id": 43788,
+      "vote_count": 12,
+      "budget": 0,
+      "overview": "Eccentric Cambridge archaeologist Horatio Smith (Howard) takes a group of British and American archaeology students to pre-war Nazi Germany to help in his excavations. His research is supported by the Nazis, since he professes to be looking for evidence of the Aryan origins of German civilisation. However, he has a secret agenda: to free inmates of the concentration camps.",
+      "similar": [
+         369885,
+         423,
+         2253,
+         5925,
+         1771,
+         424,
+         14574,
+         637,
+         21876,
+         228150,
+         289,
+         289222,
+         16869,
+         339259,
+         351339,
+         853,
+         857,
+         409,
+         203833,
+         826
+      ],
+      "original_title": "Pimpernel Smith",
+      "runtime": 120,
+      "poster_path": "/2MeWLt3pwvb1PMv8IT2HyFkbswI.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Italiano",
+            "iso_639_1": "it"
+         }
+      ],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "British National Films",
+         "id": 14197,
+         "origin_country": "GB"
+      }],
+      "release_date": "1941-07-26",
+      "vote_average": 7.1,
+      "belongs_to_collection": null,
+      "tagline": "The man the Gestapo hates!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Black and White",
+      "budgetCurrency": null,
+      "directors": ["Leslie Howard"],
+      "runtime": 120,
+      "synopsis": null,
+      "writers": [
+         "Anatole de Grunwald",
+         "A.G. Macdonell"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0034027/",
+      "coverLink": null,
+      "actors": [
+         "Leslie Howard",
+         "Francis L. Sullivan",
+         "Allan Jeayes"
+      ],
+      "reviews": [
+         "In 1935 Leslie Howard made one of his finest films in the historic romance, THE SCARLET PIMPERNEL. He played the hero, Sir Percy Blakeney, who was a society leader but also a society twit, who spent time staring through an eyeglass criticizing the way a man's cravat was tied, or a sleeve was cut, or how Romney was painting his wife. But when alone with his intimates he was \"The Scarlet Pimpernel\" who planned the rescue of French aristocrats from the guillotine. He and his gang are fighting a war to the death against Citizen Chauvin (Raymond Massey), the Jacobin agent/minister to Britain, who is seeking to end the rescues. In between is his beloved, but seemingly tarnished wife (Merle Oberon) who is trying to save her captured brother, and unknowingly reveals her husband's secret to Chauvin. The conclusion of this adventure film was very exciting and surprising. But there was and is a problem with THE SCARLET PIMPERNEL. Despite Baroness Orczy's marvelous writing ability (try her detective tales of THE OLD MAN IN THE CORNER as a good follow-up), she was deeply impressed with the old order of aristocracy. Only once, in the film, did a sense of balance come through - and oddly enough out of the mouth of the villain. Merle Oberon had testified for the French Revolutionary Court against some aristocrats, dooming them (by her testimony) to death. She has never forgiven herself (and it has blackened her reputation). In bemoaning this Massey gets disgusted and spits out, \"Why is it that everyone is always condemning what happened to the poor aristocrats and never think of what they did to us?!\" It's a good point, but because we dislike Massey and his boss (Robespierre, of course) we never stop to consider it for long. Howard was able to repeat and improve on the original film in 1942 with PIMPERNEL SMITH, where as Professor Horatio Smith he uses his archaeological digs in Germany (for proof of an Aryan civilization before Greece or Rome) to rescue intellectuals and victims of the Nazi Reich. Here his opponent is General Von Graum (Francis L. Sullivan) who is like Chauvin in his sharpness and pomposity. He is an obvious knock at Hermann Goering (who was obese like Sullivan) and has Goering's sham bonhomie and his total vicious streak. The writer of the screenplay must have had some discussion with German refugees in the know (notice the bits about Von Graum throwing a tantrum and then turning about and offering German chocolate to someone who has come through for him). The film also uses Howard to brilliant advantage in one sequence, disguised as a bureaucrat, who he himself states was the most disagreeable person he ever thought up. The ultimately efficient German bureaucrat is totally inhuman - a talking machine of bossy efficiency. Percy Blakeney was disguised several times, as an old crone and a soldier, but never someone so disagreeable. And that is the difference. THE SCARLET PIMPERNEL deals with the 1790s and the Reign of Terror. It was a century and a half in the past, and really could not annoy the French too much (though one wonders what it's box office was like in France). Britain and Germany were at war in 1942, and the film couldn't present even one moment where Von Graum could make a comment like Chauvin's outburst. As a matter of historic record, Chauvin had some point about the sins of the Ancien Regime as opposed to the Revolutionaries. Knowing what we know now about Von Graum's buddies, he would not have been able to say much. The closing of the movie was a memorable speech by Howard, about how Germany's entrance into war was not the start of it's road to glory but to it's destruction. True enough in 1945 - 1950 or so. And when he manages to take advantage of Von Graum's brief distraction to vanish into the night, the Nazi fires his gun into the empty space. \"I'll be back,\" we hear Howard repeat twice. It is haunting, because of his real fate of being shot down in the war by a Nazi plane. Howard physically did not return, but spiritually he did with the men at D-Day all the way to V.E.Day.",
+         "Concerning this film, I can't decide if my soft spot is for the always superb Leslie Howard, or for one of the old heroes of literature, resurrected to fight the nazi menace. This is a clever update of the Scarlet Pimpernel story. I found this re-incarnation of the classic much more enjoyable than the original. It was even more fun than another personal favorite, Basil Rathbone as Sherlock Holmes, who came back in the 1940's to do his bit for king and country against the Third Reich. Albeit, very light fair, films like this were more to entertain and keep spirits high in not so certain times. The horrors of war can be looked back upon, but to push onward, the propaganda of the day was to show the enemy as almost comical foes, outwitted by the ever sensible Englishman. Leslie Howard plays this role beautifully and it remains one of my favorite performances by him...",
+         "World War II brought Leslie Howard the opportunity to bring up to modern times one of his most beloved parts, that of The Scarlet Pimpernel. This time he's Horatio 'Pimpernel' Smith, archaeologists by day and rescuer of some of the finest intellectual minds in Germany who are marked for death by Adolph Hitler. In The Scarlet Pimpernel Howard is a Georgian fop as his cover for the dashing, unknown, and elusive pimpernel. Substitute fop for tweedy as he's now an Oxford archeology professor and his cover is a beaut. One of the Nazi Aryan racial vanities was that way back in the day there was an Aryan civilization. Being the archaeologist he is, Howard's cover is that he's in Germany on a dig, looking for evidence of that selfsame civilization. He even brings along several students as part of the cover. In one scene Howard is wounded when he's disguised as a scarecrow and a Nazi guard shoots at it to make a point. That does lead to him being found out by his students, one of them being David Tomlinson, later the father in Mary Poppins. To a man, they all decide to stay and help him with his work. Howard's a bachelor here so he doesn't have wife Merle Oberon and her family dirty laundry to compromise him as he did in The Scarlet Pimpernel. Here he's dealing with Mary Morris who is collaborating with the Nazis to keep her musician father, Peter Gawthorne alive. Taking the place of Howard's relentless foe Chauvelin as played by Raymond Massey is Francis L. Sullivan as General Von Graum of the Gestapo. Sullivan is a favorite character actor of mine and a joy to watch in any film he does whether a good guy or the baddest of bad guys as he is here. Leslie Howard directed this film himself and it's interesting to speculate had he survived World War II whether he would have done more work behind rather than in front of the camera. In directing Pimpernel Smith, he certainly had the advantage of knowing his character well. And you shouldn't pass up an opportunity to get to know him too.",
+         "This is a relatively obscure film that occasionally appeared on A&E, and the print was in abysmally awful condition. We ordered a video and discovered the print quality on that was still pretty poor. Nevertheless, we still watch it. And we love it. Pimpernel Smith is a wonderful film, the brainchild of the great English actor Leslie Howard who was, ironically, the son of Hungarian immigrants. In film, he became the quintessential Englishman, and in real life, he loved his country as passionately as a man could love anything. His untimely death over the Bay of Biscayne while on a flyby mission for England bore that out. Pimpernel Smith was written, produced and directed by Howard, who also starred in it and no doubt hand-picked its cast. It retells the older story of The Scarlet Pimpernel, but is in some ways a stronger movie than its more lavishly produced predecessor. The setting is more modern and accessible to most viewers; it has a film noir flavor that is appealing; and the enemy is not the mindless tyranny of the French Revolution but the carefully planned and mechanized tyranny of the Third Reich. Its obvious propaganda message is compelling and moving when one recalls the plight of England at the time. Howard made this film to bolster his countrymen and offer hope, which it must have done, and yet Pimpernel Smith retains a sense of timelessness in its message that tyranny must always be resisted, no matter what the cost. As the movie opens, the viewer is thrust into a Europe shadowed by Nazi threat, where people are routinely rounded up if the state deems them a danger. A medical researcher is arrested, but then whisked out from under his captors' noses by a mysterious rescuer who slips the doctor to safety. The Nazis are livid, for this unknown savior is their bane, and they want him caught as soon as possible. From the European mainland, the scene shifts to an English college campus, where works Horatio Smith, an archeology professor who fusses over his prized statue of Aphrodite, is absent-minded and late for everything, and eschews social engagements. The only woman in his life is the aforementioned statue. His students think he's a few bricks shy of a full load, he keeps his superior in a state of confusion, and Horace exasperates his well-meaning brother. Smith is tolerated as a harmless eccentric and resident laughingstock; though brilliant, he's also borderline dysfunctional. It is, naturally, an act, one carefully cultivated to disarm people so Smith can go about his real business of rescuing those endangered by the Nazis. As an archaeologist, he's free to travel Europe, and he comes up with a plan to take his students with him on a hunt for traces of a lost Aryan civilization. The young men sniff and sneer, but a trip to the continent is irresistible and off they go. The Nazis, meanwhile, have a secret weapon of their own: a seductive and beautiful young woman named Ludmilla Koslowski who spies for them. She does this because her beloved father is a Nazi prisoner and she hopes to secure his release. Ludmilla meets Smith and finds him oddly compelling, though he for his part does his best to keep his distance from her. She concludes that he must be the elusive rescuer. The Nazi general for whom she works laughs at her suggestion, for Smith has already ingratiated himself to the general as an annoying little English pest. Ludmilla, however, knows she's right and comes to Smith's room to plead with him to help her father. Apparently unmoved by her plight, the professor falls in love with her and later communicates to her that he will rescue her imprisoned father. How he does so is ingenious, employing his students as erstwhile journalists and parlaying the Nazis into unwitting assistants. The rest of the film concerns a trap laid for Smith, using poor Ludmilla as bait. Pimpernel Smith was Leslie Howard's last film and somehow that seems in keeping with the way he died. The final scene, in which he says from the shadows that he will always be back, is haunting, for he wouldn't be able to return in the flesh. It is Mr. Howard's spirit that returns, time and again, when this deeply personal movie of his is played. This film remains an important reminder that tyranny under any guise must be constantly fought, no matter what it takes.",
+         "Leslie Howard plays absent minded professor in updated version of the scarlet pimpernel spiriting away enemies of Nazi Germany.Set almost at the outbreak of world war II the film is clearly anti Nazi propaganda with classic quips such as \"that is to stop the oppressed Swiss from escaping into free Germany\".The Germans are typically portrayed as bungling half wits afraid of their masters with the exception of Francis Sullivan's character Graum who is portrayed as a parody of Herman Goering. I love this film despite its limitations and deficiencies it reminds me of a happier bygone England, it is full of humour,a hint of romance and plenty of adventure. Great.",
+         "Returning to England before the war, Leslie Howard was a towering figure in the British government's anti-Nazi propaganda policy, making patriotic radio broadcasts and movies that lifted the spirits of the British people in the dark days of the war. One such film was Pimpernel Smith in which Howard plays Archeology Professor Horatio Smith who doubles as a British spy, undertaking to help refugees escape from the Gestapo. Based on the novel The Scarlet Pimpernel by Baroness Emmuska Orczy and modeled after the 1934 film of the same name, Pimpernel Smith is said to have influenced Raoul Wallenberg, known for his heroism in rescuing Hungarian Jews from the Holocaust. In the film, Professor Smith takes six students with him on an archaeological dig in Germany, presumably to find out whether or not there was an early Aryan civilization in Germany. Smith tries to convince Gestapo leader General Von Graum (Francis L. Sullivan) that he is just a learned professor, reading from The Jabberwocky by Lewis Carroll and telling him his theory that William Shakespeare was really the Earl of Oxford. Imagine that! The Professor's wit and wisdom are no match for the humorless Nazis and they seem to fall for each of the professor's tricks. Unfortunately, the Nazis are depicted not as mass murderers but only as bumbling clowns who speak English as well as Winston Churchill. When Smith is wounded, the students catch on to what he is up to and agree to help him in his attempts to secure the release of pianist Sidimir Koslowski (Peter Gawthorne). In his clandestine cat and mouse game, he meets Koslowski's daughter Ludmilla (Mary Morris) who is working for the Nazis in order to save her father and the two form a bond. Howard's role as Professor Smith is one of his most acclaimed in a career that included roles as Ashley Wilkes in Gone With the Wind and Sir Percy Blakeney in The Scarlet Pimpernel. He had a great sense of style and screen presence and his death in 1943 on what was most likely an intelligence gathering mission for the British left the film industry bereft of one of its brightest stars.",
+         "Pimpernel Smith is \u0096 together with Chaplin's The Great Dictator \u0096 one of the most effective anti-Nazi films ever made. OK, the concentration camp seems rather idyllic compared to what we now know about those places, but the unique mix of comedy and suspense is masterful (it reminds me somewhat of the now forgotten thrillers by Manning Coles, light-years from the nitty-gritty tone of today's blockbusters. Just to set the record straight: Howard's last lines, spoken from the mist at the frontier railway station are first \"I'll be back.\" Sullivan fires a couple of shots into the dark before the voice comes back: \"We'll ALL be back.\" Spoken in 1941, at the height of the Battle of Britain and years before the invasion, those word are nicely prophetic...",
+         "Leslie Howard starred during his younger years in the original 1934 version of The Scarlet Pimpernel, the story of an Englishman named Sir Percival Blakeney, who rescues aristocrats during the French Revolution. However, I actually preferred this World War II version, Pimpernel Smith, to both the original Scarlet Pimpernel and its 1982 remake, starring Anthony Andrews and Jane Seymour. This movie, set in pre war 1939, tells the story of the unassuming British Professor Horatio Smith, who takes a group of his students on an archaeological dig in Nazi Germany. These students, much to their amazement, discover that this dig is merely a front for their professor's true purpose, which is to rescue intellectuals, artists, & other enemies of the Third Reich and arrange for their safe passage out of Germany. Howard is perfect as the absent minded, socially inept, and rather eccentric professor. Also, while in Germany, the group encounters a beautiful woman, Ludmilla, who is being forced to act as a Gestapo agent, hoping to obtain the release of her father whom the Nazis are holding as prisoner. This enhances Professor Smith's character development and adds romance & some tender moments to the tale. Hitherto the only woman in the professor's life has been a statue of Aphrodite in his college campus back in England! The Nazis in this movie are portrayed essentially as idiots, totally lacking any sense of humour. Professor Smith, on the other hand, is constantly witty. The very purpose of his archaeological dig, to determine whether or not an Ayran civilization actually existed in Germany, of course totally mocks the entire Master Race nonsense of the Third Reich, though the Nazis here are far too dumb to perceive the ridicule. In fact, the apparently bumbling (but actually very clever) Smith is able to snatch his intellectuals right out from under these Nazis' noses! By the way, you'll always think of this movie whenever you chance to hear the tune 'Tavern in the Town'. The movie has less swashbuckling derring do than The Scarlet Pimpernel, but does boast an engrossing and suspenseful plot, a cat & mouse game with some tense moments. However, the film's main asset, in my opinion, is its message that quiet, unassuming people can make unlikely heroes, not just the obvious tough guy superheroes, and can accomplish great if unheralded deeds. Also, people may sometimes be other than what they appear! It's always interesting to watch these old war movies. The original British audience back in 1941 would have been in the darkest wartime months and of course not have realized the eventual outcome of World War II. This hopeful & uplifting tale must have cheered them up. I was also interested to note that Howard himself was killed when his plane was shot down by Germans, during a flight returning home from what may have been a spy mission to Lisbon.",
+         "\"Pimpernel Smith\" is one of the most classic movies you will ever find in the World War II era. It will ever serve as a reminder that in 1941, the world did indeed know of the existence of Concentration Camps. It will further be a testament to the murders committed there with the statement by Dr. Benkendorf (Allen Jeayes, excepting Leslie Howard, the only man to play in both Pimpernel movies) \"My business is to cure, not to kill!\" What makes this movie is not the plot, but the little subplots that surround the movie. You cannot watch this movie just once; it takes several times before you catch all the subtilties. Leslie Howard is just full of them in this movie. But even more interesting is the character development. We watch Professor Smith go from a hardened academic to a gentile, but compassionate man. We watch the students go from being boys to men, and we learn from Ludmilla Koz about what kind of courage a lady can have. By all means, watch this movie and watch it a lot. It will teach you in many ways.",
+         "On the face of it, I don't ask much of a film: only - only! - that it should make me laugh and cry and catch my breath, and stir my blood in equal measure. Strange, then, how rare this seems to be... and how few films earn the final accolade by almost forcing me to review them! I had not the slightest intention, this morning, of writing about \"Pimpernel Smith\". But now that I sit down afterwards and try to work, I find my attention wandering back to it again and again. Clearly, I must set down this review, or I shall never get anything done... and there can be few stronger tributes to the power of a film. Leslie Howard, of course, makes or breaks the whole. As producer, director and starring actor, his name is scrawled - literally - on the film from its opening titles; indeed it gives us a chance to recognise the penmanship on the mysterious hand-written notes that recur! Unsurprisingly, in some ways this is very much a one-man vehicle. If Leslie Howard's charms escape you, the whole production is probably a dead loss - but for any fan of his earlier films, it is little short of unalloyed delight. \"Pimpernel Smith\" takes much of its resonance from the subtle parallels with Baroness Orczy's story of the Scarlet Pimpernel. The latter is openly referred to only in the title, but acknowledged in a dozen ways, from the leading character who cloaks an incisive mind beneath a foolish mask to the young acolytes who aid and yet rashly put him at risk, the woman who is set to spy out the identity of a beloved one's potential saviour, and of course the closed frontiers and despotic arm of a new-fledged state - not Revolutionary France, but a Nazi Germany not yet at open war. Above all, the echoes lie in the ingenious guises and plans for escape, always one twist ahead of both the enemy and the viewers themselves. By the end of the film, I was suspecting the most innocent characters of being the nondescript Professor Smith in disguise... and I'm still not certain about the indignant lady on the Cook's Tour! The references, however, are never obtrusive and always remain subtle; and of course perhaps the chief of these is the casting of Leslie Howard himself. Along with a humane and intelligent script, it was his outstanding depiction of the title role that raised the 1934 film of \"The Scarlet Pimpernel\" above the average. Even today, the association is immediate. Less than ten years after the original, the dual performance of their star must have been inescapable. From vacuous fop to absent-minded professor... and yet it is to Howard's credit that his Professor Smith is not a carbon copy of Sir Percy Blakeney, but a distinct and undoubtedly charming character in his own right. For a moment, rapt in admiration of an Aphrodite, he is startlingly handsome. But for the most part, peering owlishly over a newspaper or buried beneath a deplorable hat, he is more the living spit of bespectacled Charles Hawtrey in some post-war \"Carry On\". He has developed the baggy amble to a fine art, and the knack of deprecation and inoffensive insolence almost without effort; and the role of gentle academic is not a pose, but the guiding principle behind all his unlikely impersonations, even that of the part of hero. The Professor, above all, is a man who hates destruction and waste. Passionate screen kisses rarely move me; oddly enough, a handful of restrained moments of tenderness in this film did. It may be a carefully-scripted star vehicle, but few enough of those choose to celebrate the clever and the unassuming. I like Professor Smith very much indeed. But even the quietest hero needs a villain as foil, and Francis L. Sullivan is also outstanding here as the elephantine von Graum, a Nazi general who turns out to be far less stupid than one might assume. It's hard not to suspect the character of being a lampoon on Goering, and from the start we are invited to laugh at him; but for all his girth and his struggles with \"the English sense of humour\", von Graum is brighter by far than most of his staff, and sometimes even one step ahead of the viewer, which makes it hard to be complacent on our heroes' behalf. He may rant and foam for lack of proof, but the net is tightening... and without the advantage of Orczy's predetermined plot, the unexpected twist at the end of this film could all too easily go either way. Unfortunately, heroism is not necessarily defined by survival... In fact, in retrospect, I feel that the ending (which I won't reveal here) was perhaps the one weak point. Unlike the Basil Rathbone wartime pictures (there are echoes of \"Pimpernel Smith\" in the subsequent, not at all bad, \"Sherlock Holmes and the Secret Weapon\"), the anti-Nazi sentiments of the hero's set-piece speech are not dated or tendentious to modern ears. Indeed, Leslie Howard's shadowed intensity remains one of the most effective shots in the film. The only trouble is that it's so good that it becomes a hard scene to top, and the actual finale comes off as somewhat trite by comparison. But that's with hindsight. At the time, the only thing of which I was fully conscious was that, already pre-disposed in that direction by \"The Scarlet Pimpernel\" and \"Pygmalion\", I had just become a raving Leslie Howard fan! Every time I catch myself whistling 'Tavern in the Town' without thinking, over the next few days, I shall know why... and smile.",
+         "This film was created to drum up morale among the British people and to portray their cause as just to the Americans (who were not yet in the war). And, in this endeavor, it does a wonderful job. The Nazis are really bad and the British people plucky and decent--exactly the message they were trying to get across. This story is a reworking of THE SCARLET PIMPERNELL--being updated to the the then present time instead of during the French Reign of Terror. Leslie Howard does a fine job playing the lead and the film is a better record of his acting talents than most of his movies. The direction and writing, as well, were excellent. No complaints at all about this film. Give it a try--it's a great time passer.",
+         "I'm so pleased that this film has inspired so many people to write so effusively of it. I first saw it in my teens (a long time ago now, alas!) and was totally captivated. If you haven't seen it yet, I'd suggest you just get hold of a copy and enjoy it before you browse the other comments. If you do look at other comments, a few points: This film is *funny* too! It was not Leslie Howard's last film - 49th Parallel was made later the same year, and First of the Few in 1942, then he subsequently directed 'The Gentle Sex' and 'The Lamp still Burns' in 1943. Howard was certainly on the Nazi's blacklist, but his death may have been an accident. He was returning from a 'lecture tour' (which was certainly propaganda and may well have had intelligence connotations) via Portugal, and the civilian plane he was on was shot down over the bay of Biscay. It's still not clear if this was an accident or a deliberate target, but if the latter, it's as likely that Howard's accountant, who bore a strong resemblance to Churchill, may have been the target. Also, look out Violette Cunningham, the assistant in the cosmetic shop. She was Howard's last love - despite still being married to Ruth, he fell for Violette (who also appears in the German dinner scene in 'The First of the Few'). It broke his heart when she died, of cerebral meningitis, in 1942.",
+         "Leslie Howard was an actor's actor, the highest form of praise, a man whose skill at his craft would allow him to blend into almost any character, any role. While he left behind for fans of the future many fine performances, it is generally thought that one of his best was the original Scarlet Pimpernel in which he had to play what was arguably one of the screen's first \"superheros\" complete with a secret identity. In the iconic original he manages to effectively portray the mild-mannered fop (more interested in clothing than fighting); the warrior and man of action known as the Pimpernel; and even the romantic counter-part to his wife (who, in a brilliant sub-plot, was also not what she seemed, but for entirely different reasons). It was an astonishing portrayal. Hollywood being what it is (was?) Howard was given a second chance to play the same character in a modern setting, as an underground agent working against the Nazis on their own soil. The script, direction, and acting are all superb. The only negative is that this film TAKEN ON ITS OWN might seem contrived and over-written. Unless - THIS IS THE KEY -- you see the original first. Remember that this was the era before 500 cable channels and streaming video. It is a 'given' that the audience for this film was familiar with the first. So if you you follow their footsteps and see the films in proper order, the sheer bravado and outrage within this script will pop, and you will enjoy a tremendously entertaining film by a master at the top of his craft. In particular, the exchanges between Howard and his nemesis, played by Francis L. Sullivan, and are the stuff of legend. And the scene where Howard, playing a die-hard bachelor, shows a photo of his lifelong love (the statue Aphrodite) to the character played by Mary Morris and then tears it up in front of her ... remains one of the most romantic scenes ever films. A declaration of love with no words spoken. The pity is that being B&W this film will have a smaller and smaller audience in years to come. Pity.",
+         "Unlike some films made during WWII, Pimpernel Smith has not dated. It is still an entertaining film, with an excellent performance by Leslie Howard and the supporting cast. My favourite part of the film is the well delivered script, and the professional camera work during the film's finale.",
+         "Professor Horatio Smith (Leslie Howard) has his students accompany him to the continent for an archaeological dig. Ultimately they realize that he is secretly helping to transport enemies of the Nazis out of Germany, and they want to help. But is someone in the group collaborating with the Nazis? Howard was the Scarlet Pimpernel saving people from the guillotine; now he's a modern Pimpernel saving people from the Nazis, using the archaeological dig as a cover and wearing several disguises in the film. It's a very good film, with a great speech by the Professor at the end, saying that Germany's entrance in the war would lead to its destruction and not its glory - very prescient. His enemy here is von Graum (Francis L. Sullivan), probably modeled on Herman Goering. He gets away when Von Graum is distracted, but we hear Howard say, \"I'll be back.\" In real life, of course, Howard was defeated by the Nazis when a plane he was in was shot down. It's a rousing WW II film and reminds us of the dashing Howard's legacy outside of Gone with the Wind.",
+         "In England we hold a special place in our hearts for the great Leslie Howard. He was a learned man and gave to all his roles on either side of the Atlantic, a suave sophistication that appealed both here and in the states. But what we loved about him most was his unswerving patriotism. His love of this country, more evident during the war years, was something he lived by and eventually was something he gave his life for and we all herald him a hero in our midst. A truly great Englishman and one we can all be proud of. To us he was the sort of Englishman we all wanted to be and to Americans he was the Englishmen on whom all others would be judged from that day forward. In Pimpernel Smith he all but reprises his roll as The Scarlett Pimpernel from the 1934 film of the same name. This time the action takes place in 1939 and our modern day Sir Percy is an architect on an expedition in Germany where our hero has the chance to rescue innocent political prisoners incarcerated by the Nazis. There is very little gun play or physical violence at all, but we get plenty of entertainment by the casual and almost comedic performance by Howard as the foppish Smith, who whilst convincing the Germans he is a scatter brained professor, constantly out-smarts and out-wits them as he steals the 'enemies of the Reich' from under their very noses. Ultra patriotic and echoing Howard's own anti-Nazi views, Pimpernel Smith is an espionage great with a powerful message to deliver. I love the speech he makes at the end about how the Germans will never find a horizon and as how one day they will be lost and they will be doomed. Also the line, \"I'll be back, we'll all be back\" gives an almost spine chilling prediction of D-day. Three years before D-day and four years before the final victory, it is amazing just how accurate Howard's words were, words made more powerful with our knowledge that Howard himself would not live to see either event. One of the best British propaganda films of the war years ,it has enough elements here to have your British hearts souring with pride re: the Rupert Brooke quote and enough to keep you on the edge of whatever you may be sitting on at the time. Look out also for a young David 'Bedknobs and Broomsticks' Tomlinson as one of Smith's students.",
+         "Like many, I very much liked this version of the Scarlet Pimpernel, brought to modern day times. Most importantly, it exposes the lack of freedom in Germany and the Concentration Camps when everyone else said they did not know about them. Equally pleasing was Francis Sullivan's role as General Von Graum. You could hate him in a second, especially when he ran Wagner, the poor clerk out of his office as an introduction. This movie should be seen more than it has been seen.",
+         "Great film, highly recommended, a great mixture of comedy, wit , drama and tension rolled into one, not to mention some action as well. A classic that should be seen by everyone. Leslie Howard is fantastic, it keeps you on the edge of your seat, as well as making you chuckle. It's uplifting and has it's turns as well. If you do watch one film this month, make it this one. The acting is superb and the casting first class. Story line may confuse you at first, but after 20 minutes or so, your questions are answered, but this does not ruin the movie at all, in fact is keeps it going, keeping it a mystery,",
+         "Good wartime propaganda film, with Leslie Howard updating his Scarlet Pimpernel role to Germany just pre-war, and playing it just about perfectly - less foppish than Sir Percy and the better for it; why did the Pimpernel have to behave as quite such a pratt in normal society? The Nazis are not treated as a bunch of baby-spearing psychopaths here, partly because they're played by a group of gentle English character actors, and partly because Francis L. Sullivan as General von Graum is too rounded and too amusing a personality. Before the elusive Pimpernel starts to obsess him, he spends most of his time reading PG Wodehouse, Lewis Carroll et el to get British Humour, which he vainly dismisses a myth \u0096 and indeed will forbid its mention when he takes charge of London. Only at the end does he play more to type, delivering a paean to the glory of violence, which I don't think was an explicit part of the Nazi's ideology, but I don't think they'll sue. I thought the Professor / Pimpernel's group of archaeology students too tally-ho, too old, too boring, but Mary Morris as a novice, but intuitive, Gestapo agent was beautiful in a very Ingrid Bergman way; the passing of the Professor's love for a statue of Aphrodite was believable under her watery gaze. **POSSIBLE SPOILERS** Look out for the old `they've gone out by the fire escape' trick, when in fact they've stayed in the room. The script-writer shame-facedly apologises for this ancient ruse by having Howard saying `It's an old trick, but it often seems to work'. And the 3 metre escape at the end, in a puff of smoke, is hilarious. Forget Bond villains \u0096 General von Graum's `Why don't you stand there by that two-foot high gate, yes, it is the Swiss border, and have a cigarette' takes the all-time biscuit.",
+         "I do love this film but it is occasionally really hard work trying to work out who on earth is German and who is British in this. The German officers have the most amazingly plumb British Public School accents imaginable and when a German camp officer says such things as \"He'll be in Switzerland by now, there'll be the devil to pay for this!\" it really doesn't help matters much. Luckily, most of the actors are wearing the appropriate uniforms so it is a little easier and really, it just adds to the fun of the whole thing. Enjoy!",
+         "A modern update of 'The Scarlet Pimpernel', featuring the same lead actor, this pokes fun at the regime of the Third Reich while making some patriotic statements about England (note the Rupert Brooke quote) - as a morale booster in the context of the 1940s it must have been effective. Certainly it did anger the Nazis who objected to their portrayal as buffoons who proclaimed that the world could only be ruled by violence, while the English cleverly circumvented this with references to their superiority (the Shakespeare/Earl of Oxford debate, those saved - doctors, intellectuals, scientists - the archeological proof against German doctrine on Aryan culture). Of the players, Howard of course was excellent (better than his 30s portrayal of the French Revolution Pimpernel, in fact), there is a meaty and satisfying role for the lesbian actress Mary Morris (otherwise spotted as the multi-armed doll in 'The Thief of Bagdad', the German chauffeur in 'The Spy in Black', etc.), a marvellous German general from Francis L Sullivan (the lawyer in 'Great Expectations' and the beadle in 'Oliver Twist'), and good support from numerous character actors as the refugees and the pupils - plus Suzanne Claire's amusing French shop assistant. A hugely enjoyable film, and taken in context of when it was released, a very brave attempt to lampoon the Nazis and give the English audience courage in getting through the war.",
+         "Leslie Howard (Professor Horatio Smith), Francis L. Sullivan (General von Graum), Mary Morris (Ludmilla Koslowski), Hugh McDermott (David Maxwell), Raymond Huntley (Marx), Manning Whiley (Bertie Gregson), Peter Gawthorne (Sidimir Koslowski), Allan Jeayes (Dr Beckendorf), Dennis Arundell (Hoffman), Joan Kemp-Welch (teacher), Philip Friend (Spencer), Lawrence Kitchen (Clarence Elstead), David Tomlinson (Steve), Basil Appleby (Jock McIntyre), Percy Walsh (Dvorak), Roland Pertwee (Sir George Smith), A.E. Matthews (Earl of Meadowbrook), Aubrey Mallalieu (dean), Ernest Butcher (Weber), Ben Williams (Graubitz), Hector Abbas, Oriel Ross, George Street, Arthur Hambling, Harris Arundel, Suzanne Clare, Charles Paton, Ronald Howard, Roddy Hughes. Director: LESLIE HOWARD. Screenplay: Anatole de Grunwald. Adapted by Roland Pertwee, Ian Dalrymple and Anatole de Grunwald from an original story by A.G. MacDonell and Wolfgang Wilhelm. Photography: Mutz Greenbaum, Jack Hildyard. Film editor: Douglas Myers. Music composed by John Greenwood, directed by Muir Mathieson. Associate producer: Harold Huth. Producer: Leslie Howard. Executive producer: Edward Small. (The Suevia DVD rates 10/10). Copyright 15 December 1941 by United Artists Corp. A British National Picture. U.S. release through United Artists. New York opening at the Rivoli: 12 February 1942. U.K. release through Anglo- American: 26 July 1941. Australian release through British Empire Films: 12 March 1942. 11,003 feet. 122 minutes. U.S. release title: Mister V. SYNOPSIS: Nazi Germany before the War: a Cambridge professor and a group of students, are digging for evidence of early Aryan Civilisations. But the Professor quickly becomes the ingenious foe of the Nazi Regime. COMMENT: \"Pimpernel Smith\" appeared about a year after Dunkirk, and was intended to make the Nazi regime appear ridiculous. The plot of the film, as the title implies, is a variation on Baroness Orczy's novel, \"The Scarlet Pimpernel\". To translate the 18th century fop Sir Percy Blakeney into 20th century terms and the cunning but shabby Chauvelin into his equivalent as a Nazi agent could have been done with comparative ease. Instead, Howard has made his Pimpernel all tweeds and tobacco and forgetfulness. \"Pimpernel Smith\" came in third at the British box office in 1941. (\"49th Parallel\" was first, Chaplin's \"The Great Dictator\" second). The movie was equally successful in Australia \u2014 in fact was so popular it was still being commercially screened in the 1960s, one of a mere handful of wartime British product still available from Australian 35mm exchanges. You'd think that such an exceptionally popular film would regularly turn up on Australian television, wouldn't you? Hell, no! We all know what utter contempt TV program managers have for the likes and dislikes of their viewers. No \"Pimpernel Smith\", thank you. Despite the wartime propaganda it's still a vastly entertaining movie which oddly has dated far less than the original \"Scarlet Pimpernel\" which had the advantage of being set in period. Howard and Sullivan make such wonderful adversaries, and Howard has directed with such flair, making full use of some really impressive sets! Photography and other credits are equally polished. And incidentally the scene I can never forget has Howard escaping across a field, the Nazis in hot pursuit, firing wildly. Howard seems to disappear. Then the camera tracks across to a ragged scarecrow and pans slowly down its arm. Blood!",
+         "'PIMPERNEL' SMITH is a delightful wartime adventure flick starring Leslie Howard as an updated version of the Scarlet Pimpernel. This time around, he's an archaeology professor who goes to Nazi Germany with a handful of students in order to do some studies. Secretly, he's helping enemies of the Nazis to escape from their oppressors. Howard is excellent in the mild-mannered lead role, delivering a surprisingly humorous performance with lots of character work and one liners. The Nazis are obviously depicted as bumbling idiots, which makes for plenty of funny situations, and the narrative works well with a mix of genre elements.",
+         "Others have given plenty of praise. I was disappointed about a few small details, and will mention three instances from that classroom scene and moments after it. First, I found it hard to believe that some of the students (such as David Maxwell) were much less than middle-aged, and indeed Hugh McDermott was 33 (and 3 months) in July 1941. After World War I there were a lot of older men in universities as they had been called up from school; but I don't think this was true in 1939 before the second lot of trouble with Germany started. Second, did young Americans in 1939 really say things like \"a rough house is just my meat\" when they meant they enjoyed a bit of a fight? I doubt it. It sounded very antiquated, stilted, out of tone with the rest of the dialogue there. (By the way, McDermott was of course British, and his supposedly American accent here is a bit odd at times too.) Third, I recognize that Leslie Howard had an awful lot to do on this movie; but his attention to detail lapsed in the moment when the professor walks through a college cloister and recites a snatch from the first stanza of Jabberwocky: \"Twas brillig, and the slithy toves did gyre and gimble ...\". In \"gyre and gimble\" he makes both Gs hard but this is correct only in \"gimble\". A fastidious learned professor would -- and actor of Howard's stature surely should -- know that \"gyre\" is a perfectly good English word going back centuries, and that, like \"gyrate\" and \"gyroscope\", it begins with a soft G (that is, it sounds like \"jyre\"). There is no plot reason for Prof. Smith to pretend to get it wrong: as I see it, the point of him reciting the lines is that he is a dreamer, rather other-worldly, and fond of such things as this rhyme from a fantasy for children written by an eccentric mathematics don; not that he is not sufficiently erudite to pronounce such a word as this correctly. Indeed, if he were really chiefly a working secret agent, only pretending to be a Cambridge scholar, he would be more likely to make such a mistake; if it were a deliberate error by the professor, it would be counterproductive. Therefore it is an error by the actor-director, not an error (deliberate or otherwise) by the character.",
+         "Leslie Howard is convincing both as a professor of archaeology and as a British spy in this film which positions British wit against compulsive Nazi blundering. The movie time begins before World War Two and ends on the eve of the invasion of Poland by German forces on September 1, 1939. Howard's function in this film (as Professor Horatio Smith) is to liberate as many scientists, intellectuals, writers and other opponents of the Third Reich. The portrayals of national characters do seem somewhat extreme, the British were not that brilliant nor were the Germans that blundering, yet the images projected are within a range of how many citizens of Allied nations perceived the menace of World War Two. Indeed, many writers and intellectuals did escape from from Nazism, as did many artists, before the war began. As in so many other films of this period, the mention of slave labor camps and of concentration camps only make post-war denial all the more nonsensical, both by the Axis and by the Allies. Of course, in a British film of conflict between the Brits and the Huns, the British triumph--a fair conclusion for American audiences. How good a film is this? As a spy movie it is very good; however, at times the action dwindles in the midst of British propaganda about German propaganda. Somewhat curious is that fact that Howard is not listed in the writing credits, especially since the dialogue seems to have his style attached to it. Propaganda aside, this is an entertaining film, full of wit if lacking in wisdom."
+      ],
+      "genres": [
+         "Adventure",
+         "Drama",
+         "Thriller",
+         "War"
+      ],
+      "productionCompanies": ["British National Films"],
+      "summaries": [
+         "It is mid-1939 and both Germany and England are preparing for an inevitable conflict. Professor Horatio Smith, an effete academic, asks his students to come with him to the continent to engage in an archaeological dig. When his students discover that the professor is the man responsible for smuggling a number of enemies of the Nazi state out of Germany, they enthusiastically join him in his fight. But things are complicated when one of his students brings a mysterious woman into their circle, a woman who is secretly working for the Gestapo.",
+         "Professor Horatio Smith, while seeming very unassuming, rescues victims of Nazi persecution during World War II."
+      ],
+      "budget": 0
+   },
+   "movielensId": 149562,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1941-07-26",
+      "dvdReleaseDate": null,
+      "directors": ["Leslie Howard"],
+      "runtime": 120,
+      "movieId": 149562,
+      "title": "Pimpernel Smith",
+      "mpaa": "",
+      "actors": [
+         "Leslie Howard",
+         "Francis L. Sullivan",
+         "Mary Morris",
+         "Hugh McDermott",
+         "Raymond Huntley",
+         "Manning Whiley",
+         "Peter Gawthorne",
+         "Allan Jeayes",
+         "Dennis Arundell",
+         "Joan Kemp-Welch",
+         "Philip Friend",
+         "Laurence Kitchin",
+         "David Tomlinson",
+         "Basil Appleby",
+         "Percy Walsh",
+         "Suzanne Clair",
+         "Roland Pertwee",
+         "Charles Paton",
+         "Aubrey Mallalieu",
+         "George Street",
+         "Oriel Ross",
+         "Bryan Herbert",
+         "Arthur Hambling",
+         "Ben Williams",
+         "Ernest Butcher",
+         "Mary Brown",
+         "W. Phillip",
+         "Ilse Bard",
+         "Ernest Verne",
+         "Hector Abbas",
+         "Neal Arden",
+         "Richard George",
+         "Roddy Hughes",
+         "Hugh Pryse",
+         "Michael Brennan",
+         "Elwyn Brook-Jones",
+         "Sebastian Cabot",
+         "Peter Cozens",
+         "Arthur Denton",
+         "Irene Handl",
+         "Vincent Holman",
+         "Ronald Howard",
+         "Stuart Latham",
+         "Michael Rennie",
+         "Charles Rolfe",
+         "John Slater",
+         "Harry Terry",
+         "A.E. Matthews"
+      ],
+      "imdbMovieId": "0034027",
+      "originalTitle": "Pimpernel Smith",
+      "genres": [
+         "Adventure",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": [],
+      "plotSummary": "Eccentric Cambridge archaeologist Horatio Smith (Howard) takes a group of British and American archaeology students to pre-war Nazi Germany to help in his excavations. His research is supported by the Nazis, since he professes to be looking for evidence of the Aryan origins of German civilisation. However, he has a secret agenda: to free inmates of the concentration camps.",
+      "tmdbMovieId": 43788,
+      "avgRating": 3,
+      "releaseYear": "1941",
+      "numRatings": 1,
+      "posterPath": "/2MeWLt3pwvb1PMv8IT2HyFkbswI.jpg"
+   }
+}

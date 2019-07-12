@@ -1,0 +1,519 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [],
+      "imdb_id": "tt3780208",
+      "video": false,
+      "title": "Dark Signal",
+      "recommendations": [
+         32229,
+         206,
+         10109,
+         32150,
+         37850,
+         32162,
+         74718,
+         336271,
+         267457,
+         210966,
+         82469,
+         73897,
+         257568,
+         77504,
+         25655,
+         15286,
+         32241,
+         128842,
+         32157,
+         29977
+      ],
+      "backdrop_path": "/mo2kmwb62TnfKGnmm7ehKA84lam.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 25,
+               "character": "Laurie",
+               "gender": 0,
+               "credit_id": "573b2a3a9251415f6e000105",
+               "name": "Siwan Morris",
+               "profile_path": "/q6qYy0y82KYi3QbnFgx19o3YAkh.jpg",
+               "id": 1221038,
+               "order": 0
+            },
+            {
+               "cast_id": 0,
+               "character": "Ben",
+               "gender": 2,
+               "credit_id": "54886cba9251415205001749",
+               "name": "Gareth David-Lloyd",
+               "profile_path": "/gK9oBZQFoNZn17oCK2D6nKciH6N.jpg",
+               "id": 110875,
+               "order": 1
+            },
+            {
+               "cast_id": 29,
+               "character": "Alan",
+               "gender": 2,
+               "credit_id": "573b2aa6c3a3680bd50000fd",
+               "name": "James Cosmo",
+               "profile_path": "/523gSqAG9eSSNmKexFFZYh38SxL.jpg",
+               "id": 2467,
+               "order": 2
+            },
+            {
+               "cast_id": 26,
+               "character": "Kate",
+               "gender": 0,
+               "credit_id": "573b2a58c3a3680bdc000106",
+               "name": "Joanna Ignaczewska",
+               "profile_path": "/fISLe84W6PshXyig9ho8A8JCB1g.jpg",
+               "id": 1465065,
+               "order": 3
+            },
+            {
+               "cast_id": 27,
+               "character": "Nick",
+               "gender": 0,
+               "credit_id": "573b2a799251415f640000f5",
+               "name": "Duncan Pow",
+               "profile_path": "/vJOzoMzxszyZGnySfql3KY9zR78.jpg",
+               "id": 1264237,
+               "order": 4
+            },
+            {
+               "cast_id": 28,
+               "character": "Sarah",
+               "gender": 1,
+               "credit_id": "573b2a8f9251415f6e00010b",
+               "name": "Eleanor Gecks",
+               "profile_path": "/qBLF5CITi2A8ZKx6fdrQn7PFqNL.jpg",
+               "id": 119413,
+               "order": 5
+            },
+            {
+               "cast_id": 33,
+               "character": "Carla",
+               "gender": 1,
+               "credit_id": "5746b3cec3a36861ab00032d",
+               "name": "Cinzia Monreale",
+               "profile_path": "/lto3lWYaAvolLyDrHEX0x1nFY6D.jpg",
+               "id": 31780,
+               "order": 6
+            },
+            {
+               "cast_id": 31,
+               "character": "Reporter",
+               "gender": 0,
+               "credit_id": "5746b34e9251415e65001b51",
+               "name": "Jennifer Moylan-Taylor",
+               "profile_path": "/jlR4x7L5yN57ttzTNJCgIinqQrW.jpg",
+               "id": 1405554,
+               "order": 7
+            },
+            {
+               "cast_id": 30,
+               "character": "Anka",
+               "gender": 0,
+               "credit_id": "573b2ac2c3a3680be3000123",
+               "name": "Amelie Leroy",
+               "profile_path": "/i9jfJvD9v6n5BnMlhvrRwAb9sF7.jpg",
+               "id": 1621486,
+               "order": 8
+            },
+            {
+               "cast_id": 32,
+               "character": "Officer Freeman",
+               "gender": 0,
+               "credit_id": "5746b399c3a3685077000515",
+               "name": "Malcolm Raeburn",
+               "profile_path": null,
+               "id": 1246343,
+               "order": 9
+            },
+            {
+               "cast_id": 34,
+               "character": "Marek",
+               "gender": 0,
+               "credit_id": "5746b422c3a368502b000545",
+               "name": "Kai Coleman",
+               "profile_path": null,
+               "id": 1626187,
+               "order": 10
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "573b25119251415f64000052",
+               "name": "Edward Evers-Swindell",
+               "profile_path": null,
+               "id": 1621466,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "573b2522c3a3680bf0000053",
+               "name": "Antony Jones",
+               "profile_path": null,
+               "id": 1621467,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "573b25329251415f67000049",
+               "name": "Edward Evers-Swindell",
+               "profile_path": null,
+               "id": 1621466,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "573b2547c3a3680be800005b",
+               "name": "Jonas Babics",
+               "profile_path": null,
+               "id": 1621468,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "573b25f69251415f6e00006b",
+               "name": "William Evers-Swindell",
+               "profile_path": null,
+               "id": 1621471,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "573b2617c3a3680bdc00006d",
+               "name": "Adrian Brown",
+               "profile_path": null,
+               "id": 40118,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "573b2628c3a3680bcb000078",
+               "name": "Edward Evers-Swindell",
+               "profile_path": null,
+               "id": 1621466,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "573b26399251415f6e00007a",
+               "name": "Ismini Xekalaki",
+               "profile_path": null,
+               "id": 1570520,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "573b264d9251415f7400008f",
+               "name": "Ayse Kaya",
+               "profile_path": null,
+               "id": 1621472,
+               "department": "Art",
+               "job": "Assistant Art Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "573b265fc3a3680bf0000080",
+               "name": "Tabitha Quitman",
+               "profile_path": null,
+               "id": 1170536,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "573b26729251415f6e000082",
+               "name": "Kim Tizard-Lee",
+               "profile_path": null,
+               "id": 1280381,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "573b268cc3a3680bce000098",
+               "name": "Kelly Maracin Krieg",
+               "profile_path": null,
+               "id": 1621473,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "573b26a99251415f740000a5",
+               "name": "Connie Farr",
+               "profile_path": null,
+               "id": 1556420,
+               "department": "Sound",
+               "job": "Music Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "573b26bcc3a3680bdc000085",
+               "name": "Charmaine Parram",
+               "profile_path": null,
+               "id": 1621475,
+               "department": "Costume & Make-Up",
+               "job": "Costume Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "573b26dd9251415f7700008e",
+               "name": "Haridas Stewart",
+               "profile_path": null,
+               "id": 1621476,
+               "department": "Crew",
+               "job": "Second Unit Cinematographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "573b26ef9251415f620000b1",
+               "name": "Matt Deeley",
+               "profile_path": null,
+               "id": 1621477,
+               "department": "Camera",
+               "job": "First Assistant Camera"
+            },
+            {
+               "gender": 0,
+               "credit_id": "573b2726c3a3680be300009e",
+               "name": "Mark Jackson",
+               "profile_path": null,
+               "id": 1621478,
+               "department": "Visual Effects",
+               "job": "Visual Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "573b27ce9251415f620000cd",
+               "name": "Darren Jones",
+               "profile_path": null,
+               "id": 1621479,
+               "department": "Editing",
+               "job": "Dialogue Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "573b27ea9251415f6e0000b7",
+               "name": "Max Hughes",
+               "profile_path": null,
+               "id": 1621480,
+               "department": "Sound",
+               "job": "Sound Effects Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "573b28d4c3a3680bce0000f8",
+               "name": "Joe Harris",
+               "profile_path": null,
+               "id": 1621483,
+               "department": "Crew",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "573b2947c3a3680be80000f6",
+               "name": "Simon Jones",
+               "profile_path": null,
+               "id": 1621484,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "573b29acc3a3680bf00000f7",
+               "name": "Rebecca Hall",
+               "profile_path": null,
+               "id": 1365397,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "573b29d69251415f6e0000f0",
+               "name": "Nicola Pope",
+               "profile_path": null,
+               "id": 1417173,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "573b2a179251415f670000f4",
+               "name": "Gemma Roberts",
+               "profile_path": null,
+               "id": 1621485,
+               "department": "Visual Effects",
+               "job": "Animation"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5747792ec3a368566f00008d",
+               "name": "Dave Hutton",
+               "profile_path": null,
+               "id": 1626500,
+               "department": "Lighting",
+               "job": "Gaffer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Mystery",
+            "id": 9648
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         },
+         {
+            "name": "Horror",
+            "id": 27
+         }
+      ],
+      "popularity": 2.279331,
+      "production_countries": [{
+         "iso_3166_1": "GB",
+         "name": "United Kingdom"
+      }],
+      "id": 309879,
+      "vote_count": 22,
+      "budget": 0,
+      "overview": "The spirit of a murdered girl returns with a message. Now a stranded woman must team up with the staff of a local station to solve the mystery of her death.",
+      "similar": [],
+      "original_title": "Dark Signal",
+      "runtime": 98,
+      "poster_path": "/oOQQ0ljylKuI1Oti0PMJ06oR8xj.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Wunderkammer Entertainment",
+            "id": 77381,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Yona Films",
+            "id": 76952,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Racing Snake Films",
+            "id": 76953,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2016-05-30",
+      "vote_average": 3.9,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Edward Evers-Swindell"],
+      "runtime": 98,
+      "synopsis": null,
+      "writers": [
+         "Antony Jones",
+         "Edward Evers-Swindell"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt3780208/",
+      "coverLink": "https://ia.media-imdb.com/images/M/MV5BZGU2MzgzZGItMzI0Yi00MzNkLWEzMjMtNTgzYzk0NGI3YjNiXkEyXkFqcGdeQXVyMzY5MzAxMDc@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "actors": [
+         "Siwan Morris",
+         "Gareth David-Lloyd",
+         "Joanna Ignaczewska"
+      ],
+      "reviews": [
+         "I was looking forward to watching this new horror film set in beautiful Snowdonia, but my anticipation soon turned to amazement as the opening scene came to a conclusion. It wasn't amazement at the wonder of the acting and production - more amazement about how this got distribution and didn't end up going straight to DVD or whatever happens to low quality films nowadays. Apart from a couple of exceptions the acting is awful, right from the supporting actors leaving messages on a telephone answering machine through to one of the main female characters played by Joanna Ignaczewska. Whoever cast her must have forgotten to do a screen test with the script, because she is not suited to this film whatsoever - even though she seems to have quite a long list of film parts behind her. The only two worthwhile performances are given by James Cosmo and Gareth David-Lloyd. Without either this production would fall further into the abyss of 'films that could have been good'. There are numerous mistakes and continuity errors in the film for which there is no excuse, and I get the feeling the film was cobbled together to a formula rather than being a developing artistic endeavour. The film is disjointed and it is hard to get a feeling of substance. It is set in Snowdoina, with the rest of the characters having no real connection to the location whatsoever. Polish female lead, Scottish farmer role, and an Italian actress, and various others who must have been handily hanging around on casting day. If you are thinking of paying money to see this either at the cinema, online, or on DVD you would be better off waiting until it ends up in the bargain bin - which it is bound to do sooner than later.",
+         "A spirit contacts a radio station as people start to get killed. I'm not a fan of supernatural horror and for the first half of the film I cursed myself for putting it on. However after a decidedly lacklustre first half the film suddenly springs into life and actually becomes pretty decent. It is fairly low budget and the acting isn't great apart from a good turn by Joanna Ignaczewska. After the dull start there are some pretty creepy scenes and the film cleverly keeps you guessing as to what will happen next. There is a fair of gore here too but not overly excessive. The ending was well done and took me a bit by surprise. For a low budget horror this is a pretty good effort and well worth checking out.",
+         "At the heart of this cleverly written story is a resentful social under-achiever who becomes a masked killer. And yet the way the story is delivered, with so many intricate embellishments, makes it far more than that. Polish Joanna Ignaczewska is terrific as Kate Komisarczyk, mother of a disabled son, who reluctantly agrees to accompany possible boyfriend Nick (Duncan Pow) to a remote house in order rob allegedly wealthy Alan Keller (the monumental James Cosmo) who it seems might just be the notorious figure nick-named 'the wedlock killer', who has killed and then removed the victim's wedding ring finger. Elsewhere, local radio station JAB Radio is about to record its last ever show featuring Laurie Wolf (Siwan Morris). To ensure the show reaches a memorable conclusion, a Medium is brought in. Carla Zaza (Cinzia Monreale) manages to arouse the spirit of Keller's dead daughter, and through her, the radio station somehow picks up snippets of Kate's plight. These two strands are seemingly unconnected but for Kate's internet friendship with JAB technician Ben (Gareth David-Lloyd). As the story continues, a series of carefully placed revelations are unleashed that bring the two plots together in a very satisfying manner. When the killer's identity is revealed, his motives are sketchy \u2013 other than he seems unable to win the affections of women, and that he removes, and makes trophies of, various fingers, tongues etc. On the internet, he believes, he can be anything, and this is how he lures his victims. The heroine's actions are occasionally questionable, as if often the case with horror films. Hearing Nick has been attacked in Keller's house, she then makes her way to that very location, armed with glow-sticks to advertise her presence. Other than that, she shows admirable courage and resolve. 'Dark Signal' seems to have received some negative reviews online and I am at a loss to work out why. Featuring Polish, Italian, Scottish, Welsh and English actors in one production seems to have rankled a few, but why? The UK is a multi-cultural society. Although I usually steer clear of commenting on other reviews, I should also mention that some have lambasted a lack of originality, and that 'Dark Signal' can't decide whether to be a slasher film or a ghost story. To me, surely the melding of the two approaches \u2013 something very rarely attempted \u2013 demonstrates exactly a very original approach. Director and Writer Edward Evers-Swindell has created an intricately plotted film that is very enjoyable, exciting and pretty frightening in places. The plot also makes perfect sense, which is rare, but you have to pay attention.",
+         "This British horror keeps it simple with its gripping paranormal subject in a ghostly but beautiful backdrop of Snowdonia. The remote location of this radio station had me feeling shivers from the start. The performances were all compelling and the witty dialogue between the two DJ's lent nicely to the suspense in the car scene. I did think things moved a little slow there but I was on the edge of my seat regardless. I enjoyed the classic filmmaking style especially in this scene featuring the paranormal which had me jumping out of my seat. Overall I really enjoyed this independent paranormal horror and with its twists and clever writing, think it stands highly amongst the mainstream of its genre.",
+         "***LOT OF SPOILERS HERE*** I noticed not reviews for this movie, and it actually deserve it. I just loved the originality in this movie. The film starts with a girl being stalked first and then murdered by a very 'un-famous' serial killer: The Wedlock Killer (he keeps as a trophy the wedding ring of his victims, like a very twisted wed, as if they were marrying him just for being his victims) We have two story lines interconnected, running back to to back at the same time... at the same time? Well... not, and that is so genius. The directing is great, and very well shooted, the images are gorgeous, even in the dark places, making the atmosphere what it must be. It goes from dark night and introducing the killer, to bright light and introducing the rest of the characters with a little background (that will evolve at the movie progresses for the most important one) and finally back to a very dark night and all just move in a very 'haunted' way. In short: was very effective. At least to me as a viewer, and witness. Siwan Morris was awesome and always stealing the camera with her \"Lauren Wolf\", she was stunning, not only sexy and carefree, but after in the plot you will know she is deeply hurt and hide it deep in her nonchalant image that almost anyone have of her, but only one does know the truth: The Wedlock Killer, who is a little obsessed with her. And There we have Gareth David Lloyd making his \"Ben\", the character is there as a connection. In the radio studio everything was escalating when \"Carla Zaza\" comes for the show. Cinzia Monreale is awesome!(I was a child in the 80's but very fan of horror movies! and of Stephen King) and she always deliver all perfect. We also see Duncan Pow. Here is an actor I don't even heard of, so I have no idea of others works and never saw him acting. I must say: his part was good acted, but his character \"Nick\" was not strong and his lies are discovered. How? you may ask: he say to \"Kate\" that he have not fault for being successful, and at the same time he convinces her to make a robbery of some dude who owe him money. He is lying about his success, that is so obvious. The good part of the character is when he finally confesses the \"real\" truth, and you will understand all of it. It was a secondary character that at first you might thing is a lead. It was not well used, and his acting could be better shown if the script would make more of him. Unfortunately, that didn't happen in the mind of the screenwriter. So, we have 3 secondary roles: the child (very creepy at some point), the nanny, and the father of the murdered girl at the beginning (she was mostly only a voice, and that is creepy: a deep voice in the night when you are alone. And when she is seen, is kind of a yürei ghost from Japanese folklore, and that is damn scary). But everything is just destroyed by Joanna Ignaczewska. The first time the character appear was awful, and I thought that it was a character to die soon, I told myself: \"She is so bad acting that surely will be the first to die and her death will lead to the first girl at the beginning\" But no. None of that happened and I have to stand to see her the whole time. Awful, simply awful. She was BAD. Her almost none acting skills and nonexistent ability to delivering a line, are even worst by the fact of the lines her character have. \"Kate\" is a very bad character, not likable in any way. The only thing I could think about her was: \"What the hell is she doing with her mouth? What is trying to express? Please shut up, your voice is killing me\" there is only one thing I can assume, that wasn't her voice and she was trying to make a 'sweet mother, with sweet voice' which she didn't reach. The lines scripted for \"Kate\" was completely stupid and with no sense of anything. I really really disliked her. Summarizing: we have a great original idea, a few good acting, a few good images and setting, but everything fall apart for the leading actress they choose, and the lines for her character (and that is screenwriter fault) that were completely empty. I wish and will ask to the director and the crew to do a remake, and I suggest change \"Kate\" character and a better actress, please. And change the end. The End was so weak and blatant, and predictable. I didn't liked at all. For the remake, please make a better and unpredictable end. 7/10 for me, and is because Ignaczewska, should have 6/10 because of her, but, Siwan Morris and Cinzia Monreale were so stunning that I give it a point up.",
+         "wow hard to fathom how people trash this actress! i found her believable and enchanting! from scene one she conveys her disturbed mental- emotional state. she follows through maintaining a mental disturbance that's subtle and quite genuine! being an actor and director myself i think i know what I'm commenting on. she plays crazed very well and shes beautiful. perhaps the critics here are JEALOUS? The film is shot with great lighting and stark minimalism. I love the isolation! the music is magnetic and it all drew me in to keep watching! ( Netflix is enticing to switch films non stop if boring) so i stuck with this having to see the outcome. its also SEXY dare i say! i dug it!!!",
+         "This is a great scary horror, The girl in car the dj make this film , in fact the whole cast is great, Story is believable fun and a fast pace .Not many films host good acting at a terror level, James Cosmo a veteran actor is great I don't review many films but this is a wow .. Get the nibbles and settle down to a great horror set in Wales !! An eye for an eye ... great twists make this a 10/10, and a fantastic true romance style fight ... I recommend this film it's pretty cool kick ass fun. What I can't understand is who promoting this film ? It's fab ... Few films build and get better and better ..this is one ... Well done all involved.. We had a great night watching this and 'Crush the Skull' .. No Spoilers trust me ...",
+         "They were probably going for a straight horror flick here, but it failed in so many places so magnificently it was actually funny and amusing to watch. Not quite the type of spectacular failure of something like \"The Room\", but there were moments I was bursting out laughing. the very first jump scare moment with the lighter in the car was so poorly executed I not only burst out laughing, but I didn't even jump or get in any way shocked by it. The acting by certain people was, being generous, questionable, with certain dramatic moments coming off as goofy or otherwise unbelievable. The film starts off already unclearly, with two separate events unfolding at once with no clear connection until several minutes in, and no clear explanation as to what one of the stories even is until later on. The disparity in accents also makes it unclear exactly where this is taking place until about 20-30 minutes in. Ultimately this doesn't end up making much a difference in the story but it adds to the overall disorientation that the first 15 minutes of this movie suffers, to the degree that I had started and stopped and kept re-watching the movie several times because I couldn't fully get into it. Once it finally does delve into its central plot, it becomes largely a waiting game as to when the \"Ghost Story\" aspect starts paying off. A radio DJ is broadcasting her last show ever, when a ghost suddenly makes contact with them via EVP while recording a segment with a psychic. After that, they're somehow able to communicate in real time with the ghost with absolutely no explanation as to how. The ghost appears to be narrating the events unfolding with the second protagonist, a woman named Kate who is waiting for her boyfriend Nick to finish robbing a farmhouse to pay off her debts and start a new life with her disabled son Marek. She gets a call from Nick where he's attacked and she sneaks into the farmhouse, getting ambushed by the house owner who had confronted her earlier in her car about trespassing. He apparently thinks she killed his daughter, only for the real killer to kill him and then threaten to kill Kate, saying he'll kill her son in front of her before killing her. She says he better kill her now because she'll be the one to kill him. From there, a surprising amount of nothing happens, until the killer heads to the radio station and we get a big reveal as to his identity, which finally connects us with the seemingly unrelated cold open of the \"Wedlock Killer\" as it's revealed Ben, the radio operator guy, was the killer, and the events unfolding in the radio station happened the previous day, and he had to kill the radio DJ because she found his inexplicable container full of unpreserved severed fingers. From there we respawn in the daytime somewhere where we get a hilariously awesome fight sequence between Ben and Kate, one involving actual choreography and an action movie type vibe, complete with the ghost appearing to help Kate, and Kate delivering a one-liner before killing Ben. What ever they were trying to go for here either failed miserably or succeeded miserably, and while that doesn't make this anything resembling a good movie, it definitely made itself very memorable",
+         "Dark Signal, what a film!!! amazing plot with a brilliant twist. Ed Evers Swindell's horror is a refreshing movie, a fantastic British film. The only thing i would change is Kate would have gotten plenty more positive reviews if she wasn't in it. You can clearly see Swindell's passion for horror, and I can't wait to see what he comes out with in the future.",
+         "This is a fairly forgettable film. It has some interesting ideas, but mostly fails. Some of the camera-work is good, and the lead actresses are good, but the director seems to think that sticking in a jump shock every few minutes constitutes good horror filmmaking. To make matters worth, each of these shocks is punctuated by a loud musical screech. In the hands of a talented director, these types of shocks can be very effective, but here they are just annoying and actually interfere with the flow of the story.",
+         "First of all, the script is what really makes this movie. But it is also the one thing that, for me, stops it from getting a maximum rating. It has got some script flaws, such as: why did Sarah's ghost attack and make contact with everyone but her killer? Why did she wait so long and let so many people get killed before finally taking her revenge on the killer? Why did Ben decide to not kill Kate's son in front of her, as promised? Although the kid was locked in that small room, Ben had the time to easily burst the door and get him! Aside from these plot holes, the other two things that bothered me were: the entire thing with Kate's leg and her managing to walk, drive, run and fight; and her fearless reaction after being attacked by Sarah's ghost, plus still being willing to venture into the dark house alone, after hearing through the phone that Nick had been attacked. Do not let the cover scare you away; it is not a trashy flick full of terrible special effects and jump scares, as pretty much every thriller released in 2016. It has got some really decent effects and - surprise - it does not rely entirely on them, as the story mixes supernatural with the murders of a serial killer. The thing is: not everything goes as you would expect, for the rhythm is slow - it falls far from its subgenre tree, being completely different from similar themed movies. People will dislike it for not being what it \"could have been\". All things considered, it still is a very good thriller, that will probably be criticized for being so unique. But that is exactly why I enjoyed it so much. The atmosphere remained the same, even when we shifted from the dark road in the woods to the light radio station, or from Karen's son's darkened room to the farmhouse. The quiet and obscure tone is impeccable, thus making \"Dark Signal\" a very distinctive thriller. Besides, you will not want to miss catching the performances from Katy Perry's sister and Anna Farris's sister!",
+         "If you watch the movie, you'll know who I'm talking about. The one actress sounds like she's laughing when she's crying. Her broken English doesn't add anything to the movie either. A British actress would have been much better for the role. The story is a bit confusing. It feels as though the twist wasn't that thought out. The movie was quite charming at times. However, the is a major plot hole. Without spoiling the movie, records are kept of who someone talks to over the phone or via the internet. Knowing this, the movie's events would be impossible. It was genuinely scary at times. There are cheap jump scares, but there's also subtle scares if you're paying attention.",
+         "The special effects, the acting, the writing and the directing were nothing to write home about. On those levels this was probably on a par with some of the (worst) English lunch-time and early evening soap operas in the eighties. Though this is a lot more frightening and gruesome than they were. Anyway, there are three leading characters, here; a cynical female DJ at a radio station that's on it's last show before being taken off air; her male colleague who is like a production manager at the station, and then there's a single mum who is desperately struggling to keep her head above water with the bills and rent, etc. On the same night that the radio station is airing its last show the single mum goes on a trip with her boyfriend, who is going to rob a football player's house in the countryside (not far from the radio station) because the player owes him £40,000. Meanwhile, at the radio station, they have a special guest for the last night; a top female psychic who comes in to do an interview, but they end up receiving a message over the airwaves from one of the victims of the Wedlock killer; a serial killer on the loose who's been killing newly wed women and cutting off one of their fingers for a trophy. There you have the basics. I'm not saying anymore about what happens, but, although it's all done on a very low budget, the makers of this arranged the story and put it together very well. A rare and hard thing to do it seems, these days, in movies. I came away from it thinking that if this was made back in the eighties it may have become a cult classic; just for the sound effects, alone. I'm giving this 5.5/10 because I like how it ended...and it wasn't predictable.",
+         "This is my second review ever. I have to warn other viewers. This could be a good and scary movie with other actors, the story is interesting, but again, the actors!! The lead actress is by far the worst. How could they choose Julia Ignaczewska!?! Awful. Bad acting, not believable at all. The other ones? forgettable. Just watch another movie.",
+         "The film starts out as a disjointed drama with some irritating whispers in the beginning. We are introduced to a rash of characters with Laurie Wolf (Siwan Morris) being the only one with decent lines and character. About an hour into the film, it decides to become a disjointed horror movie, but now with real clues. A radio station is attempting to decipher the ghost in the machine while a couple gets surprised robbing a home. The girl in the robbery is on-line friends with the engineer at the radio station. The film includes a wicked twist which didn't seem possible. A film you might get some pleasure out of, but will shortly forget. Guide: F-word. No sex or nudity."
+      ],
+      "genres": [
+         "Horror",
+         "Mystery",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Yona Films",
+         "Racing Snake Films"
+      ],
+      "summaries": ["The spirit of a murdered girl returns with a message for the staff of a local radio station."],
+      "budget": 0
+   },
+   "movielensId": 159799,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2016-05-30",
+      "dvdReleaseDate": null,
+      "directors": ["Edward Evers-Swindell"],
+      "runtime": 98,
+      "movieId": 159799,
+      "title": "Dark Signal",
+      "mpaa": null,
+      "actors": [
+         "Siwan Morris",
+         "Gareth David-Lloyd",
+         "James Cosmo",
+         "Joanna Ignaczewska",
+         "Duncan Pow",
+         "Eleanor Gecks",
+         "Cinzia Monreale",
+         "Jennifer Moylan-Taylor",
+         "Amelie Leroy",
+         "Malcolm Raeburn",
+         "Kai Coleman"
+      ],
+      "imdbMovieId": "3780208",
+      "originalTitle": "Dark Signal",
+      "genres": [
+         "Mystery",
+         "Thriller",
+         "Horror"
+      ],
+      "youtubeTrailerIds": ["8MsIb5xEXdg"],
+      "plotSummary": "The spirit of a murdered girl returns with a message. Now a stranded woman must team up with the staff of a local station to solve the mystery of her death.",
+      "tmdbMovieId": 309879,
+      "avgRating": 2.28125,
+      "releaseYear": "2016",
+      "numRatings": 16,
+      "posterPath": "/oOQQ0ljylKuI1Oti0PMJ06oR8xj.jpg"
+   }
+}

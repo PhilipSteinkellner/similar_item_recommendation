@@ -1,0 +1,954 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "usa president",
+            "id": 840
+         },
+         {
+            "name": "1970s",
+            "id": 1228
+         },
+         {
+            "name": "camera",
+            "id": 1925
+         },
+         {
+            "name": "television",
+            "id": 2136
+         },
+         {
+            "name": "lie",
+            "id": 2251
+         },
+         {
+            "name": "scandal",
+            "id": 3692
+         },
+         {
+            "name": "watergate scandal",
+            "id": 4240
+         },
+         {
+            "name": "richard nixon",
+            "id": 9376
+         },
+         {
+            "name": "reporter",
+            "id": 12193
+         },
+         {
+            "name": "writer",
+            "id": 13028
+         }
+      ],
+      "imdb_id": "tt0870111",
+      "video": false,
+      "title": "Frost/Nixon",
+      "recommendations": [
+         3291,
+         4566,
+         6538,
+         11450,
+         612,
+         592,
+         398,
+         1985,
+         9675,
+         891,
+         10139,
+         1523,
+         9008,
+         9388,
+         1630,
+         11323,
+         820,
+         231,
+         7972,
+         1900
+      ],
+      "backdrop_path": "/n7VX5nsHUiQargJKVCJ5dcsa39o.jpg",
+      "revenue": 18593156,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 6,
+               "character": "David Frost",
+               "gender": 2,
+               "credit_id": "52fe444c9251416c7502fc61",
+               "name": "Michael Sheen",
+               "profile_path": "/rbDgZ38bn22MUC2mMpkrG0L6nhB.jpg",
+               "id": 3968,
+               "order": 0
+            },
+            {
+               "cast_id": 5,
+               "character": "Richard Nixon",
+               "gender": 2,
+               "credit_id": "52fe444c9251416c7502fc5d",
+               "name": "Frank Langella",
+               "profile_path": "/wMlcjLBQouQjE0iceseNTxUF3BF.jpg",
+               "id": 8924,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Jack Brennan",
+               "gender": 2,
+               "credit_id": "52fe444c9251416c7502fc55",
+               "name": "Kevin Bacon",
+               "profile_path": "/rjX2Oz3tCZMfSwOoIAyEhdtXnTE.jpg",
+               "id": 4724,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "James Reston Jr.",
+               "gender": 2,
+               "credit_id": "52fe444c9251416c7502fc59",
+               "name": "Sam Rockwell",
+               "profile_path": "/mEH7nCaG75XNkoFbp3MIwCbIZb6.jpg",
+               "id": 6807,
+               "order": 3
+            },
+            {
+               "cast_id": 8,
+               "character": "John Birt",
+               "gender": 2,
+               "credit_id": "52fe444c9251416c7502fc6b",
+               "name": "Matthew Macfadyen",
+               "profile_path": "/2FF3Yjxd7DYR4EIJL6s2GpKDMkJ.jpg",
+               "id": 15576,
+               "order": 4
+            },
+            {
+               "cast_id": 9,
+               "character": "Bob Zelnick",
+               "gender": 2,
+               "credit_id": "52fe444c9251416c7502fc6f",
+               "name": "Oliver Platt",
+               "profile_path": "/an9n3aUKFAN50GDsbqwIkvWlcus.jpg",
+               "id": 17485,
+               "order": 5
+            },
+            {
+               "cast_id": 10,
+               "character": "Caroline Cushing",
+               "gender": 1,
+               "credit_id": "52fe444c9251416c7502fc73",
+               "name": "Rebecca Hall",
+               "profile_path": "/euDiI3wFKC6rreEU1Kz6EhSBYP4.jpg",
+               "id": 15556,
+               "order": 6
+            },
+            {
+               "cast_id": 11,
+               "character": "Swifty Lazar",
+               "gender": 2,
+               "credit_id": "52fe444c9251416c7502fc77",
+               "name": "Toby Jones",
+               "profile_path": "/eOZe7EZ0Ojq8PaIn1HLVex5dZwc.jpg",
+               "id": 13014,
+               "order": 7
+            },
+            {
+               "cast_id": 12,
+               "character": "Frank Gannon",
+               "gender": 2,
+               "credit_id": "52fe444c9251416c7502fc7b",
+               "name": "Andy Milder",
+               "profile_path": "/pUxbi636gXl6CaeGvKrPr3j22Ea.jpg",
+               "id": 1043304,
+               "order": 8
+            },
+            {
+               "cast_id": 13,
+               "character": "Diane Sawyer",
+               "gender": 1,
+               "credit_id": "52fe444c9251416c7502fc7f",
+               "name": "Kate Jennings Grant",
+               "profile_path": "/nY1cGJhhp7UvTjJl6F4OBI0MIJo.jpg",
+               "id": 59697,
+               "order": 9
+            },
+            {
+               "cast_id": 14,
+               "character": "Ken Khachigian",
+               "gender": 0,
+               "credit_id": "52fe444c9251416c7502fc83",
+               "name": "Gabriel Jarret",
+               "profile_path": "/19LMwcgNFfQnmcIkWeb4SVjKNyR.jpg",
+               "id": 92808,
+               "order": 10
+            },
+            {
+               "cast_id": 15,
+               "character": "Ray Price",
+               "gender": 2,
+               "credit_id": "52fe444c9251416c7502fc87",
+               "name": "Jim Meskimen",
+               "profile_path": "/fZ1Eu6Pb98LUn0wwTU7D32a6WGR.jpg",
+               "id": 30697,
+               "order": 11
+            },
+            {
+               "cast_id": 16,
+               "character": "Pat Nixon",
+               "gender": 1,
+               "credit_id": "52fe444c9251416c7502fc8b",
+               "name": "Patty McCormack",
+               "profile_path": "/gwXt1ypL7l2iL6A82q9K0ihCQW1.jpg",
+               "id": 125026,
+               "order": 12
+            },
+            {
+               "cast_id": 17,
+               "character": "Interview Director",
+               "gender": 2,
+               "credit_id": "52fe444c9251416c7502fc8f",
+               "name": "Geoffrey Blake",
+               "profile_path": "/8DTss5Bkio4k81k6SM1AXaNfKOA.jpg",
+               "id": 148122,
+               "order": 13
+            },
+            {
+               "cast_id": 18,
+               "character": "Lloyd Davis",
+               "gender": 2,
+               "credit_id": "52fe444c9251416c7502fc93",
+               "name": "Clint Howard",
+               "profile_path": "/d9QW5feIgNwDRdkKK1j7gmmOQXT.jpg",
+               "id": 15661,
+               "order": 14
+            },
+            {
+               "cast_id": 28,
+               "character": "Ollie",
+               "gender": 2,
+               "credit_id": "53832dc00e0a2624bd00c5ed",
+               "name": "Rance Howard",
+               "profile_path": "/i7tkpb7GLJXjwUNyrpOy63FiStt.jpg",
+               "id": 22250,
+               "order": 15
+            },
+            {
+               "cast_id": 20,
+               "character": "White House Director",
+               "gender": 2,
+               "credit_id": "52fe444c9251416c7502fc9b",
+               "name": "Gavin Grazer",
+               "profile_path": "/qe5J2NMzcN2NVgVS1D04tuDUyke.jpg",
+               "id": 38572,
+               "order": 16
+            },
+            {
+               "cast_id": 21,
+               "character": "Frost Show Director",
+               "gender": 0,
+               "credit_id": "52fe444c9251416c7502fc9f",
+               "name": "Simon James",
+               "profile_path": "/79MjjphxSCFdQthld0v7RBBePeD.jpg",
+               "id": 152306,
+               "order": 17
+            },
+            {
+               "cast_id": 22,
+               "character": "Manolo Sanchez",
+               "gender": 2,
+               "credit_id": "52fe444c9251416c7502fca3",
+               "name": "Eloy Casados",
+               "profile_path": "/myddrZZnKBZWLXS5TeisQjIBfdT.jpg",
+               "id": 64351,
+               "order": 18
+            },
+            {
+               "cast_id": 23,
+               "character": "Neil Diamond",
+               "gender": 0,
+               "credit_id": "52fe444c9251416c7502fca7",
+               "name": "Jay White",
+               "profile_path": null,
+               "id": 1089547,
+               "order": 19
+            },
+            {
+               "cast_id": 24,
+               "character": "Sammy Cahn",
+               "gender": 2,
+               "credit_id": "52fe444c9251416c7502fcab",
+               "name": "Wil Albert",
+               "profile_path": null,
+               "id": 157452,
+               "order": 20
+            },
+            {
+               "cast_id": 25,
+               "character": "Marv Minoff",
+               "gender": 0,
+               "credit_id": "52fe444c9251416c7502fcaf",
+               "name": "Keith MacKechnie",
+               "profile_path": "/uD279akNrdbZWAhbkXffwo6NsQy.jpg",
+               "id": 239021,
+               "order": 21
+            },
+            {
+               "cast_id": 26,
+               "character": "Lady with Dachshund",
+               "gender": 0,
+               "credit_id": "52fe444c9251416c7502fcb3",
+               "name": "Penny L. Moore",
+               "profile_path": null,
+               "id": 1089549,
+               "order": 22
+            },
+            {
+               "cast_id": 1,
+               "character": "Hugh Hefner",
+               "gender": 2,
+               "credit_id": "52fe444c9251416c7502fc4b",
+               "name": "Mark Simich",
+               "profile_path": "/vpuMqT1t73jKKLqo80yI3rNTcRX.jpg",
+               "id": 66660,
+               "order": 23
+            },
+            {
+               "cast_id": 27,
+               "character": "Frost's Female Assistant",
+               "gender": 0,
+               "credit_id": "52fe444c9251416c7502fcb7",
+               "name": "Janneke Arent",
+               "profile_path": null,
+               "id": 1089550,
+               "order": 24
+            },
+            {
+               "cast_id": 75,
+               "character": "Tricia Nixon",
+               "gender": 0,
+               "credit_id": "5a5e630b9251412a17004b7a",
+               "name": "Jenn Gotzon",
+               "profile_path": "/mdXrxCV9HykAGjXgu1Vukaoq6dV.jpg",
+               "id": 147879,
+               "order": 25
+            },
+            {
+               "cast_id": 74,
+               "character": "Smith Crew (uncredited)",
+               "gender": 2,
+               "credit_id": "5a5e62a8c3a3685c66004d94",
+               "name": "Eddie Napolillo",
+               "profile_path": "/jMKwIZQygAbt4deS7KSuyMYsa0f.jpg",
+               "id": 1941225,
+               "order": 26
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe444c9251416c7502fc51",
+               "name": "Ron Howard",
+               "profile_path": "/qdtdnNLSsaXZmpwOqXuQB3xU2uL.jpg",
+               "id": 6159,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe444c9251416c7502fc67",
+               "name": "Peter Morgan",
+               "profile_path": "/gxmjM2MQ2HmGPKHrbkqBrl1ZXaH.jpg",
+               "id": 15730,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56430a0dc3a36870e0001396",
+               "name": "Hans Zimmer",
+               "profile_path": "/7IjJpvGtCfY0DsritmfCh2iX9I4.jpg",
+               "id": 947,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56430aed9251410a4700139a",
+               "name": "Daniel P. Hanley",
+               "profile_path": null,
+               "id": 6189,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56430b16c3a36870e8001300",
+               "name": "Mike Hill",
+               "profile_path": null,
+               "id": 6190,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56430b2e9251410a4900133a",
+               "name": "Salvatore Totino",
+               "profile_path": "/9bnDUZKPQhXXKl7BEsrQNqbHb5t.jpg",
+               "id": 8408,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56430c209251410a41001496",
+               "name": "Daniel Orlandi",
+               "profile_path": null,
+               "id": 8411,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56430c349251410a470013d4",
+               "name": "Jane Jenkins",
+               "profile_path": "/aVOlC6UkKaxZpzvpdRxCjkMtJHI.jpg",
+               "id": 3275,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56430c42c3a36870dd0015cb",
+               "name": "Janet Hirshenson",
+               "profile_path": null,
+               "id": 2874,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56430c519251410a53001459",
+               "name": "Michael Corenblith",
+               "profile_path": null,
+               "id": 7855,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56430c5fc3a36870d60013f4",
+               "name": "Susan Benjamin",
+               "profile_path": null,
+               "id": 948223,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56430d339251410a44001463",
+               "name": "Sherry Gallarneau",
+               "profile_path": null,
+               "id": 1390538,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56430d53c3a36870dd0015f7",
+               "name": "Ralph Nelson",
+               "profile_path": null,
+               "id": 1378173,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56430e109251410a530014b6",
+               "name": "Andrew Rowlands",
+               "profile_path": null,
+               "id": 1400081,
+               "department": "Camera",
+               "job": "Steadicam Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56430e339251410a490013a0",
+               "name": "Daniel R. Purinton",
+               "profile_path": null,
+               "id": 1534377,
+               "department": "Lighting",
+               "job": "Rigging Gaffer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56430e52c3a36870d600143c",
+               "name": "Rick Avery",
+               "profile_path": "/rXar2OrwkorJyQ9dRGf18zUEByW.jpg",
+               "id": 81687,
+               "department": "Crew",
+               "job": "Stunt Coordinator"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56430eb8c3a36870d600144c",
+               "name": "Kathy Nelson",
+               "profile_path": null,
+               "id": 1530166,
+               "department": "Sound",
+               "job": "Music Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56430ece9251410a4c001377",
+               "name": "Daniel Pinder",
+               "profile_path": null,
+               "id": 1400088,
+               "department": "Sound",
+               "job": "Music Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56430f14c3a36870e000145e",
+               "name": "Eric Fellner",
+               "profile_path": "/DiDxNhIfVPn9bRdOumhK0LgCYT.jpg",
+               "id": 2238,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56430f48c3a36870e0001463",
+               "name": "Brian Grazer",
+               "profile_path": "/yqiKX3auDuorea0BOtuB6Ifhyp6.jpg",
+               "id": 339,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56430f579251410a3f001417",
+               "name": "Ron Howard",
+               "profile_path": "/qdtdnNLSsaXZmpwOqXuQB3xU2uL.jpg",
+               "id": 6159,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56430f679251410a4100151c",
+               "name": "Tim Bevan",
+               "profile_path": "/f7o93O1KocuLwIrSa7KqyL1sWaT.jpg",
+               "id": 2236,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56430f80c3a36870ec0013c0",
+               "name": "William M. Connor",
+               "profile_path": null,
+               "id": 8419,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56430f8dc3a36870dd001654",
+               "name": "Louisa Velis",
+               "profile_path": null,
+               "id": 6188,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56430f98c3a36870ec0013c3",
+               "name": "Kathleen McGill",
+               "profile_path": null,
+               "id": 6186,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56430fb59251410a4c001398",
+               "name": "Liza Chasin",
+               "profile_path": "/iJkKX90zt0VD96ZASdxcaMNrcOi.jpg",
+               "id": 9151,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56430fcbc3a36870e0001478",
+               "name": "Matthew Byam-Shaw",
+               "profile_path": null,
+               "id": 1534378,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56430fdd9251410a530014f9",
+               "name": "Karen Kehela Sherwood",
+               "profile_path": null,
+               "id": 5283,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56430fec9251410a41001529",
+               "name": "Debra Hayward",
+               "profile_path": "/5WmDBvSRv3iFtBUD5PIXnDo9phr.jpg",
+               "id": 9150,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56431003c3a36870d600147b",
+               "name": "Peter Morgan",
+               "profile_path": "/gxmjM2MQ2HmGPKHrbkqBrl1ZXaH.jpg",
+               "id": 15730,
+               "department": "Writing",
+               "job": "Theatre Play"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5643102c9251410a490013ed",
+               "name": "Peter Morgan",
+               "profile_path": "/gxmjM2MQ2HmGPKHrbkqBrl1ZXaH.jpg",
+               "id": 15730,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56431046c3a36870dd001671",
+               "name": "David Bernardi",
+               "profile_path": null,
+               "id": 61299,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56431056c3a36870e30015f7",
+               "name": "Todd Hallowell",
+               "profile_path": null,
+               "id": 6184,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "564310789251410a490013fe",
+               "name": "Michelle Brattson",
+               "profile_path": null,
+               "id": 1400007,
+               "department": "Production",
+               "job": "Production Supervisor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "56431089c3a36870ec0013dd",
+               "name": "Kathleen McGill",
+               "profile_path": null,
+               "id": 6186,
+               "department": "Production",
+               "job": "Unit Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56431099c3a36870e0001493",
+               "name": "Kim Santantonio",
+               "profile_path": null,
+               "id": 1404306,
+               "department": "Costume & Make-Up",
+               "job": "Hair Department Head"
+            },
+            {
+               "gender": 0,
+               "credit_id": "564310bb9251410a3f001449",
+               "name": "Edouard F. Henriques",
+               "profile_path": null,
+               "id": 1323090,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Department Head"
+            },
+            {
+               "gender": 0,
+               "credit_id": "564310e1c3a36870e3001610",
+               "name": "Natasha Allegro",
+               "profile_path": null,
+               "id": 1534379,
+               "department": "Costume & Make-Up",
+               "job": "Key Hair Stylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "564316c792514133ab000c4e",
+               "name": "Merribelle Anderson",
+               "profile_path": null,
+               "id": 1411503,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "564316d6c3a36870e80014b5",
+               "name": "Colleen Callaghan",
+               "profile_path": null,
+               "id": 91051,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 1,
+               "credit_id": "564316e49251410a4100160e",
+               "name": "Karyn Huston",
+               "profile_path": null,
+               "id": 1435576,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "564316f49251410a3f00153f",
+               "name": "Linda Leiter Sharp",
+               "profile_path": null,
+               "id": 1534384,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5643170bc3a36870e0001571",
+               "name": "Robin Beauchesne",
+               "profile_path": null,
+               "id": 14381,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5643172f9251410a440015af",
+               "name": "Elizabeth Hoel-Chang",
+               "profile_path": null,
+               "id": 1534386,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5643173dc3a36870e3001730",
+               "name": "Sabine Roller",
+               "profile_path": null,
+               "id": 1534387,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "564317589251410a4700158b",
+               "name": "Greg Funk",
+               "profile_path": null,
+               "id": 555329,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5692ae31c3a3685c54000455",
+               "name": "Brian Avery",
+               "profile_path": "/w1IlD3q192i2JmCW8TLNMP5nDB3.jpg",
+               "id": 1552521,
+               "department": "Crew",
+               "job": "Stunts"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "History",
+            "id": 36
+         }
+      ],
+      "popularity": 8.543269,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 11499,
+      "vote_count": 446,
+      "budget": 25000000,
+      "overview": "For three years after being forced from office, Nixon remained silent. But in summer 1977, the steely, cunning former commander-in-chief agreed to sit for one all-inclusive interview to confront the questions of his time in office and the Watergate scandal that ended his presidency. Nixon surprised everyone in selecting Frost as his televised confessor, intending to easily outfox the breezy British showman and secure a place in the hearts and minds of Americans. Likewise, Frost's team harboured doubts about their boss's ability to hold his own. But as the cameras rolled, a charged battle of wits resulted.",
+      "similar": [
+         390061,
+         7461,
+         1949,
+         301348,
+         10774,
+         842,
+         9440,
+         17813,
+         10858,
+         9302,
+         11958,
+         15850,
+         54569,
+         8071,
+         18889,
+         348859,
+         285597,
+         190441,
+         263034,
+         261511
+      ],
+      "original_title": "Frost/Nixon",
+      "runtime": 122,
+      "poster_path": "/qCs0Vc3QhyqRSDLCDinOai5CVT5.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Español",
+            "iso_639_1": "es"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "id": 33,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": "/4PR5ZyqlDrMqx1h5PyOL4VRL70z.png",
+            "name": "Imagine Entertainment",
+            "id": 23,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": "/cifwIG2aVR1dRis6yoiilq4qeIh.png",
+            "name": "Working Title Films",
+            "id": 10163,
+            "origin_country": "GB"
+         }
+      ],
+      "release_date": "2008-10-15",
+      "vote_average": 7.2,
+      "belongs_to_collection": null,
+      "tagline": "400 million people were waiting for the truth.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Ron Howard"],
+      "runtime": 122,
+      "synopsis": "For a quick background, the movie is based on a series of 1977 interviews between television personality David Frost (played by Michael Sheen) and former President Richard Nixon (played by Frank Langella). Frosts interview was the first granted by Nixon after he resigned the presidency. 45 million people watched, and it still holds the record today for the most-watched political program of all time. The movie opens with a series of real-life news reports from the 1970s, reviewing Nixons role in bugging the Democratic National Committees headquarters at the Watergate Complex in Washington, D.C., in order to keep tabs on what the Democrats were doing leading up to the 1972 elections. Except, of course, the men hired to do the bugging were busted during the break-in, Nixon and his men conspired to cover up the break-in and then, whoops, did not erase the tapes recording their conversations. When the tapes were discovered in 1974, Nixon resigned. Frost finishes taping an episode of his talk show, Frost Across Australia. He and his producers then watch the live broadcast of Nixon waving goodbye (as in, his legendary double-peace-sign wave) from the steps of his helicopter. Frost asks his producer what the worldwide TV ratings would be for that moment, and is told bigger than we will ever see. A few weeks later, Frost is back in his native England, at the London Weekend Television office, the company that employs him. He brings up the possibility of interviewing Nixon, and everyone thinks hes crazy. It is important to note that Frost is sort of known as a fluff interviewer, as in he does not ask very hard-hitting questions. He also drinks. And parties. And sleeps with lots of pretty ladies. So his producers have a legitimate right to laugh because Richard Nixon would never agree to be interviewed by someone like himor would he? Cut to Nixon at his vacation home in California. His advisor, Swifty Lazar, mentions that Frost has made an offer to interview him, and is willing to pay him $600,000 for his time. Lazar says that CBS is only offering $350,000. Oh, and by the way, Lazar says, youll nail him to the wall. Hes a lightweight. And we get brief scenes of Lazar bullying Frost into offering the $600,000 his original offer was $500,000. So Nixon is sold. And now Frost has to pony up this massive amount of money from his own pocket, because initially, no U.S. television station is willing to carry the interviews being that they were outbid by a Brit and are mad about it. Frost sells all his shares in London Weekend Television and calls in favors from wealthy celebrities he had previously interviewed. He raises all the money, pays Nixon, hires two investigators named Zelnick and Reston to help him come up with questions, and the interviews begin. They are finally sold to a British TV station as four 90-minute specials covering four different topics Foreign policy, Domestic policy, Nixons personal life and Watergate. Nixon arrives with his former chief-of-staff, Jack Brennan (Kevin Bacon), who warns Frost that any questions deemed not to his liking will be immediately cut off. The seconds tick down to when the cameras will first start rolling, and as the sound technician begins the count from 5 to 1, Nixon asks Frost if he had an enjoyable evening. Frost says he did. And right as the count reaches 1, Nixon asks, Did you do any fornicating? The cameras flip on and Frost is speechless. Nixon smiles, satisfied. And so goes the first three series of interviews Nixon using huge chunks of time to make long, winding, boring speeches about random things and Frost struggling to interrupt, to ask actual questions of him. It is obvious Nixon is in his element, and Frost is not. Zelnick and Reston who are American, it should be noted, and are angry with Nixon like all Americans were get angry with Frost for the fact that Nixon is using this time to pretty much exonerate himself of any wrongdoing. Frost decides that the crew should break for Easter, as they have spent weeks together doing these interviews. He will use this time to regroup. Four days before they are to begin the final interview on Watergate, Frost wakes up to a phone call in the middle of the night. He answers by saying, cheeseburgers, thinking it is the hotels room service, asking him if he wants anything to eat. Instead, it is Nixon a very drunk Nixon. Frost quickly wakes up and listens to Nixon moan about his life how he is just like Frost, how he began his political career as a man from the wrong side of the tracks and now everyone who is still on the wrong side of the tracks hates him for hitting it big. He also tells Frost that he knows the final interview will make ones career and break the others. He hangs up. Frost has an epiphany its not just about the viewers and the money. He has to get Nixon to confess to his involvement in Watergate. If he doesnt, not only will the interviews not be watched and he will go bankrupt, but the American people who were hoping for some closure to the scandal will lose faith in him and their government. He calls Zelnick and Reston and they get to work. When the group meets for the final interview, Frost mentions the phone call to Nixon. Like most drunk-dialers, however, Nixon asks, What phone call? Brennan overhears and warns Frost that he will break him if anything goes wrong during this final interview. The cameras flip on, and both Frost and Nixon are silent, Nixon waiting for a question and Frost weighing his options. Finally, Frost looks up and asks, Why didnt you just erase the tapes? The room pretty much explodes, as Nixon looks at him, stunned that he asked him an actual question, Brennan comes blasting in and breaks up the interview and the technicians, Zelnick and Reston get very excited at what is happening. Brennan tries to break it up, but Frost isnt having it. Nixon stutters something about not being involved, and then about the bugging being necessary, and Frost gets very angry and asks, So youre saying, just because youre the President, you can do something illegal? And Nixon finally yells back, No when the President does it, it is NOT illegal. The room goes silent. Frost sits back and says, Im sorry? He cant believe it. And the cameramen got it all on tape. Brennan pulls Nixon out into the hall and tells him he can call it off, right now. But Nixon has realized something. He is tired of lying, he says, and he let the American people down. He thanks Brennan for his help, but he did this on his own, and he needs to make up for it on his own. The interviews begin again, with Nixon admitting to the Watergate cover-up, and apologizing to the American people on camera for letting them down. When they are finally edited and shown on TV, the interviews are a massive success, and Frost earns 10% of the advertising profits from the broadcasts. This makes him a millionaire, and a hero in the eyes of many who were waiting for the apology Nixon just gave. The film ends with Frost visiting Nixon at his California home after the interviews air. Frost thanks him for his time. Just as he turns to go, Nixon asks him if they really had a conversation on the phone and, if they did, what they talked about. Frost pauses, and then says, Cheeseburgers, before walking away.",
+      "writers": [
+         "Peter Morgan",
+         "Peter Morgan"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0870111/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTYxOTI1OTg5MV5BMl5BanBnXkFtZTgwODgwNTcxMTE@._V1_SY317_CR0,0,214,317_AL_.jpg",
+      "actors": ["Stars: Frank Langella, Michael Sheen, Kevin Bacon | See full cast and crew »"],
+      "reviews": [
+         "A remarkable performance by Frank Langella as Richard Nixon transforms this unexpected Ron Howard film into a gripping and unforgettable experience. The behind the scenes of the famous David Frost, Richard Nixon interviews pale in comparison to the compelling sight of Nixon/Langella thinking. It was difficult to forget that Michael Sheen was not Tony Blair but David Frost. Sheen's Frost is an entertaining foil to Langella's somber,sad, desolate portrait of the former president. Ron Howard finds a winning pace giving the true tale a fictional slant. Unfortunately I never saw the stage production and the film never betrays its theatrical origins. In a bizarre sort of way this is Ron Howard's most cinematic film. I highly recommend it.",
+         "The Frost/Nixon interviews are fascinating. Not every second of them, especially not when Nixon rambles on and on, avoiding questions by offering anecdotes in place of answers. Yet, they are an invaluable historical document, which allow us the rare privilege of seeing a major politician as a human being and nothing else. As interesting as the interviews themselves is the lead-up to them, the circumstances surrounding them, and the characters involved, particularly Frost and Nixon, of course. One could say that you only need to watch the actual footage, but there's ample room for a great dramatization, but it needed an even-handed approach, and certainly needed no political preaching. I have a personal dislike for Ron Howard as a director, a result of my sensibilities mainly, I suspect. Howard strikes me as a particularly heavy-handed, didactic director who has wasted many great concepts on mediocre films (out of 18 films I've seen by him, I only genuinely liked \"Apollo 13\". I was expecting the worst with \"Frost/Nixon\", but instead was met with one of the most entertaining films in a while, and a remarkably well-acted, even-handed, quality character study. I suppose I should have been prepared for a quality screenplay given the success of this Peter Morgan play in New York and London, but I was hardly expecting something this good. It's glib, funny, well-paced, expertly-structured, clever, observant, and intelligent. It creates a fascinating Nixon, played brilliantly by the great Frank Langella, though this is not quite up there with the likes of Oliver Stone's sadly under-appreciated \"Nixon\" or Robert Altman's endlessly fascinating \"Secret Honor\". The film is almost surprisingly well-directed, although there is a bit of the old TV trick of shaking the camera a bit, panning too often, to give the illusion of motion and energy when there's really just people in a room talking. The conversation's interesting enough, there's no need for that. Oh well, I suppose I am nitpicking. As far as Nixon movies go this is lightweight entertainment with plenty of comic moments largely leading up to two or three scenes of real human vulnerability. Aside from these scenes (which are truly, truly excellent), Peter Morgan conceives the meeting as something of a chess match with the unpredictability of a boxing match. To use J. Hoberman's words 'a prize fight between two comeback-hungry veterans, only one of whom could win'. On paper this could have been very heavy on amateur psychoanalysis and low on entertainment value but Morgan and I suppose Howard as well are clever enough to have some fun with the idea. This is not a criticism at all, the film has moments of surprisingly real depth and intellectualism, but overall the nature of the script works in its favor, makes those scenes more interesting, more ultimately rewarding. \"Frost/Nixon\" is an entertaining, exciting film, around as populist as I expected but in a very different way. This is the sort of writing we don't see enough of, particularly not in today's films. It's vaguely reminiscent of a particularly good BBC television drama. The cast is certainly good enough for that. Langella and Michael Sheen are outstanding, both manage to accurately portray the real-life men they are portraying while still adding some characterization and mannerisms of their own. Langella's Tony-award winning performance might be up for Oscar consideration soon, but Sheen's Frost almost upstages him at times. No heavy-handedness, no political 'messages', just a fun, clever script and a great cast in a well-made film.",
+         "It didn't seem so in the run-up to the event, but British talk show host/interviewer David Frost's 1977 series of four on screen encounters with the disgraced ex-President Richard Nixon was great, historic television. This movie directed by Ron Howard successfully transfers the Peter Morgan play about the event to the big screen. Arguably, the story belonged here all along. The paraphernalia of a Hollywood production enables Howard to gussy up this claustrophobic event with such acoutrements as the luxury suite of a 747, Nixon's \"smart\" seaside villa La Casa Pacifica at San Clemente, and the impressive, downright menacing sight of a presidential motorcade. As the train of glittering, dark limos approach the Nixon friend's house where the interviews were shot it feels like a battalion of tanks; and Caroline Cushing (Rebecca Hall), the British socialite Frost chats up on the plane and makes his consort for the duration of the exploit seems the more slinky and glamorous for emerging from a posh airplane rather than a bare stage. Lighting tricks and artful camera angles help make Frank Langella morph more successfully into Nixon than his physicality would otherwise permit. Michael Sheen as Frost already seems to look and sound like his character, and the \"monkey suit\" blue blazer outfits add the final touch. His task is easier; we don't know so well or care so much what Frost was like. In the film version, both performances take on more nuance. Langella's performance on camera brims of with dyspeptic melancholy, aggression, and self-pity; Michael Sheen's as frost glitters with a muted, hysterical cheer mixing infantilism and fear. The extra visuals of a film also help to show Nixon's comfort and loneliness and Frost's sleazy playboy side. It's important that the fakery should work well, because the movie must provide lots of closeups that those in the balcony didn't see. So long as it works, the feeling of TV interviews is better achieved in the film, and the actors don't have to yell. The camera, sometimes annoyingly jerky, but in the best moments simply direct and relentless, does their yelling for them. So I'm saying this is a winner. Peter Morgan after all did the screenplay, and he's no stranger to such efforts--notable examples of his film writing are in The Last King of Scotland and The Queen; a rather less notable one is The Other Boleyn Girl. The flaws are simply in the events. For three of the interview parts, till it gets to Watergate in the fourth, Nixon seems to be winning. Despite a dramatic intervention by Nixon support staffer Col Jack Brennan (Kevin Bacon) to prevent an abject breakdown, Nixon does buckle under in part four. But his admissions still remain in the realm of generality, and there is the question: does anything said on TV really matter? The audience for a West End or Broadway play is a bit different from the popcorn crowd and how appealing this film will be to the mainstream is uncertain. Needless to say it's all talk and minimal action. For students of contemporary American history nonetheless the topic is thrilling. Frost used his own money for down payments. In need of cash and highly mercenary, Nixon used the celebrity agent Swiftie Lazar (Toby Jones) to get $600,000 for the interviews. Frost lost sponsors and the US networks refused to come aboard. He made down payments from his own funds and borrowed. He hired two journalists, Bob Zelnick (Oliver Platt) and James Reston (Sam Rockwell), to do support research. Reston was a firebrand opponent of Nixon. He refused to participate unless there was a commitment to shame Nixon and get him to admit he did wrong in Watergate and betrayed the country's trust. The issue was whether Frost had the depth to tackle a job like this. He wanted a Watergate confession too, but he let Nicon play him with small talk (despite the man's claim that he was no good at it) and temporize with lengthy self-serving reminiscences that blunted most of Frost's pointed questions. This is where Zelick and especially Reston come in to give a sense of urgency. Again the film excels where the play couldn't in showing Nixon's walk out to his car after each encounter, jubilant at first, pathetic at the end. Ultimately both in the play and the film, Frost's victory seems a hollow one, of little significance to morality or history. This is above all a story about television. In that arena, this was a coup. and there is great drama in how close Frost's project came to failing. As the encounters got under way, he was losing every sponsor, and later he lost his Australian show, having some time earlier lost his American one. The film tells us they all came back, and then some. Frost never really seems to have reentered the world of American television, but he has had many projects in England and is said now to be \"worth £20 million,\" with a live weekly current affairs program on Al Jazeera English. Nixon is dead, and though he may have won three rounds out of four in the Frost interviews, his legacy is tainted. The show belongs to Sheen and Langella, but Bacon is excellent as the stiff, loyal Col. Brennan, and Sam Rockwell strong in an unusually serious role for him. As Nixon's somewhat lost wife Pat, the child star of The Bad Seed Patty McCormack is touching. There are lots of other actors, far more than in the stage production, and the best thing is they don't get in the way. San Clemente also plays a significant role. The brightness and beauty of Nixon's ocean-side estate helps dramatize his depression by contrast. There were doubts about putting Howard in charge of the screen version, but they were groundless.",
+         "I had the pleasure of watching this gripping movie at the opening night of the British Film festival. Ron Howard's direction and story telling ability are in top form with this effort. From the very first scene a carefully crafted and very credible 70s's atmosphere sets a solid stage for the superbly cast film and quickly transports the viewer into the political jungle that was \"Tricky Dickey's\" playground. The acting duo of Frank Langella & Micheal Sheen (Nixon & Frost) are set on a collision course that finds two deeply passionate personalities at the mercy of their insatiable desires. Both actor's portrayals are a study of affectation and body language, pleasurably accurate and yet not simply an impersonation. Indeed, the film never strays from the distinct Howard format that breathes so much life (read intimacy) into this familiar and yet mysterious relationship that exists for so many people who lived through the exceptional event. Make no mistake, this is by no means a two man show, quite the contrary. In fact, the wealth of supporting roles is perhaps the finest feature of this production. Bacon's devoted and stalwart marine practically glints of gun metal and polished shoe leather. The trio of Gould, Platt and Rockwell portray effortlessly the roles of the men who, brick by brick, constructed the platform from which Frost so successfully and serendipitously elicited one of the greatest unspoken confessions of all time. Rebecca Hall is delicious and demure, constantly filling scenes with her elegant presence. Perhaps the richest praise should be reserved for Peter Morgan, who has, without question, penned a truly captivating and insightful story that delivers not only a satisfying comprehension of a complex time in US history, but captures a generation's struggle to come to terms with the frailty of leadership that still echoes today. Not to be missed, this film can be enjoyed on multiple levels and will undoubtedly be regarded as seminal for it's engrossing insight and expert depiction.",
+         "It is a testament to Peter Morgan's humility and skill as a writer and Ron Howard's ability to take a based on real events story to which the outcome is widely known and create a compelling \"what will happen\" drama (as he did with Apollo 13) that Frost/Nixon succeeds as a film. This is a film based on a play that neither felt trapped in staginess nor weakly expanded with just the stage dialogue delivered exactly but in a variety of outdoor locales. I have to give Peter Morgan a lot of credit here. I saw the play in London and wondered throughout production of the film how they would escape its theatricality. Many recent films from plays like Proof, Closer, The Producers, have failed to throw off the shackles of stage feel. Not that all bad films, many served as a good way to see the play if you hadn't had the chance, but they weren't necessarily compelling films in their own right. What is so impressive about Morgan's work here is that in adapting his own play he has not been precious, he has not tried to enforce his already successful stage-play onto a film director \u0096 he has wholly reworked it from beginning to end and yet retained all the gravity and drama that the play elicited. If you saw the play everything key is here and yet you can feel the difference \u0096 the pacing is changed, the power achieved in different ways. For this Howard also deserves credit. To have filmed the play as it was would have been disastrous on film \u0096 one long two-hander scene after another, duelling narrators. And given the reverence the play has enjoyed a less experienced director could have fallen into this trap or that of simply changing the settings, but Howard knows when we need quick cuts, when a long drawn out piece that worked on stage needs to be reduced to a couple of lines and a post-scene reaction, and when he needs to hold with a scene and let it play between the two leads. This happens in several impressive moments in the latter half of the film. For some this might constitute the films biggest flaw however. Morgan and Howard can't escape the fact that in the final stages of the film it is the head-to-head scenes of Frost and Nixon that are key and they must stay with them more. This is necessary, but it sadly means that the supporting players, so well established and broadened out to expand the scope in the first half, fall be the wayside. A superb Toby Jones as Irving 'Swifty' Lazar, Matthew Macfadyen as John Birt and always reliable Oliver Platt as Bob Zelnick all but disappear and only Kevin Bacon and Sam Rockwell play any significant role beyond the two leads in the final stages. This is a shame. It may best serve the story creating the sense of claustrophobia necessary to keep you gripped but it does feel like a film of two halves because of it and it noticeable. Frank Langella and Michael Sheen are superb, as they were on stage, and Langella will take a lot of beating for the Oscar this year. There are many moments here when I was so involved I forgot I wasn't watching the real Nixon. It's not that he looks that like Nixon but he is so real you believe it completely and have to remind yourself you're watching an actor. Platt is reliably Platt. Bacon is also his typically understated solid presence doing a lot with little. Toby Jones is fantastic in a small role \u0096 instantly memorable; and Rebecca Hall builds on a series of strong performances. But in the supporting cast it is Rockwell that stands out. Sure, he has the most to do but he is completely in this role, he manages to sink into the role which is something he rarely does. He matches the skill he showed in Lawn Dogs and Confessions Of A Dangerous Mind here and it is great to see him back at his best. I thoroughly recommend this film.",
+         "Ron Howard's competent film adaptation of Peter Morgan's play (who also scripted and co-produced here) dramatizes the famous Frost/Nixon interviews from 1977. At one point in the film, Kevin Bacon's character explains to Frank Langella's Nixon that a portion of the interview will focus on \"Nixon the man\". To which Nixon retorted, \"As opposed to what? Nixon the horse?\" Of course what was on everyone's mind at the time was Watergate and how American was never able to give Nixon the trial they so desperately wanted. Through the unlikely Frost interviews, the American people finally heard the truth behind the scandal--straight from the horse's mouth. Morgan's source material translates smoothly onto film. Much as he did with \"The Queen\", he mixes a behind the scenes look at the immediate time period leading up to the historical event and closes with an almost word-for-word dramatization of said event. Also, like \"The Queen\", we have the excellent Michael Sheen on board, who after playing Tony Blair now takes on the mannerisms of the legendary British talk-show host and man-about-town David Frost. Director Ron Howard nicely interweaves archival news footage, faux-post interviews with the secondary players, and the dramatic reenactments of the actual Frost/Nixon interviews. Howard's studied but pedestrian style of direction lends itself well to this type of docudrama as he allows the actual events to speak for themselves and the fine performances to shine on their own. Though it takes quite awhile to get where it's going, the final interview where Frost takes Nixon head-on about the Watergate cover-up is a payoff well worth the wait. Of course the most fascinating aspect of the film is Frank Langella's portrayal of a shamed and swollen Richard Nixon. He plays him as a fallen man desperate for an act of contrition but still in too deep with his old trickery and slick ways. His performance, and the way it connects with the audience, is wonderfully layered. On one level, we have an aged actor thought to be well past his prime firing back on all cylinders in a renaissance role that will likely lead to a showering of award nominations. The way the film reduces his performance to that one lingering close-up after being steamrolled by Frost on the last day of the interview leaves a lasting impression. But it also works on another level as it is meant to represent the reduction of Nixon's political life to that one lingering close-up on the television monitor when he realized it's all over for him. The audience members who remember watching the interviews and can picture the actual close-up they saw on their TV screens are now allowed to share a communion with the audience members who weren't even born yet and now only have a memory of Langella's face on the silver screen. In that sense, Langella truly became Nixon, and his performance will not soon be forgotten.",
+         "I almost skipped \"Frost/Nixon,\" and I am glad I didn't. It's eminently worthwhile, one of the year's few films that deserves to be seen. My reluctance had to do with the expectation that it will offer nothing new to somebody who lived through the Watergate years and saw the Frost interviews (although remembering surprisingly little of them). Ron Howard's film is anything but ho-hum - if anything it's a bit too gussied up to be exciting. There is an element of discernible manipulation of the audience, but mostly it works, and you don't long resist it. The (relatively) unsung hero of the film besides Howard, Frank Langella's tremendous Nixon, and Michael Sheen's excellent Frost is the screenwriter: once again Peter Morgan (of \"The Last King of Scotland\" and \"The Queen\") engages mind and heart, and doesn't let go. Sam Rockwell's James Reston, Jr. and Oliver Platt's Bob Zelnick (Frost's two collaborators) are outstanding, and Kevin Bacon's Nixon-worshipping Jack Brennan is the actor's best work in a long time. Morgan and Howard manage to make the viewer think constantly of another criminal President without saying or showing anything overt - they just let history, past and present, speak. I had a strange, uncomfortable thought watching \"Frost/Nixon\": even if some future film \"humanizes\" (not excuses) Bush the way Nixon comes through this one, W. would still remain a malevolent midget against Nixon's accomplishments and actual *brain*. How far we have fallen.",
+         "Frost/Nixon is one of the best film of the year, and certainly a strong contender for best picture. Langella's marvelous performance as the bedazzled Richard Nixon and Michael Sheen's terrific portrayal of the rigorous David Frost combined with Ron Howard's magnificent direction make the movie a memorable one. Not only that but the supporting cast- including Sam Rockwell, Kevin Bacon, Matthew MacFayden and Olvier Platt- was also phenomenal. Frost/Nixon is an epic, an epic that involves not guns and human sacrifices but words and tense emotions. It's also a historically significant film, for all who crave to know what really happened and whether or not Nixon didn't \"obstruct any laws.\" In short Frost/Nixon is an amazing film filled with sharp dialogues, amazing performances and tense and provocative sentiments as well as an explosive yet subtle ending. 10/10 Go see it!",
+         "Frank Langella's performance as Nixon is truly moving in this remarkable film by Ron Howard, which gripped me for its entirety. As someone who grew up during the Watergate hearings, and who reviled Nixon as the embodiment not just of corruption but of the worst kind of interventionist, even genocidal, American politics, this film gives substance to a man who, in later years (especially the GW Bush years, which make Nixon look like a political and intellectual colossus), achieved something of a place in history beyond the scandal of Watergate. But what Frost/Nixon - and in particular Langella - does is give humanity to the man. We see his arrogance, his love of power, his need to win (hinted at wonderfully in a moment when he is jogging in his San Clemente home to rousing music), but we also see his inner conflicts, his regrets, the fact that perhaps more than simply his crimes regarding Watergate haunted him - that the impact of his decisions on South East Asia were not entirely remote from him, either. And in a sequence that I will not reveal, to avoid spoiling the plot, we also see a hint of his madness, for it is that, I think, rather than senility. (You have to see it to understand this.) Ron Howard and playwright/screenwriter Peter Morgan have achieved a remarkable feat in adapting the stage play, which sadly I did not see. Not for a moment does this feel stage bound; instead it is a compelling human portrait of two men - for Frost is fascinating, too, and Michael Sheen captures both his much criticized (at the time) surface gloss and also his deeper fears - but above all of the impact that each of our decisions, large and small, and not least if you are leader of the \"Free World,\" have on us all.",
+         "Frost/Nixon was indeed a good movie but the question is \"will it stand the test of time?\". I seriously doubt it. The performances are admirable and the writing is very good but I was not overly impressed compared to other movies I have seen. The acting was good throughout the cast. Frank Langella was good but not spectacular as Richard Nixon. In my mind I will have Anthony Hopkins as Nixon not Langella. In Nixon strange emotions were brought up towards the man himself, in here Nixon seems to be quite a very good man. This I had a problem with, I liked the approach of him not being shown as an evil man but I did not like the fact he appeared to better than he was. I felt that Michael Sheen stole the show from Langella and in fact played better than him. His performance was more diverse and versatile and of course the movie is about him interviewing Nixon not Nixon interviewing Frost. The directing was solid as usual of Ron Howard. Yet with the character of Nixon he seemed to be pushing the idea of sympathy upon us for Richard Nixon. When it comes to feeling emotions such as sympathy, it should not be pushed upon you. Many scenes though were quite intense but this movie was carried by the writing of Peter Morgan. The nice quick dialog between the characters is what really set the tone of the film above all. I liked Frost/Nixon but it is not a powerful movie. It sets a good tone at the beginning and stays with it throughout. Like other Ron Howard movies it doesn't take a giant leap of greatness. It does have moments of greatness and a few memorable scenes but not enough to really stand the test of time. I do not believe it deserves its best picture, best director or best actor nominations as other men and movies have had more powerful and affecting influence this year."
+      ],
+      "genres": [
+         "Drama",
+         "History"
+      ],
+      "productionCompanies": [
+         "Universal Pictures",
+         "Imagine Entertainment",
+         "Working Title Films"
+      ],
+      "summaries": [
+         "Writer Peter Morgan's legendary battle between Richard Nixon, the disgraced president with a legacy to save, and David Frost, a jet-setting television personality with a name to make, in the story of the historic encounter that changed both their lives. For three years after being forced from office, Nixon remained silent. But in summer 1977, the steely, cunning former commander-in-chief agreed to sit for one all-inclusive interview to confront the questions of his time in office and the Watergate scandal that ended his presidency. Nixon surprised everyone in selecting Frost as his televised confessor, intending to easily outfox the breezy British showman and secure a place in the hearts and minds of Americans (as well as a $600,000 fee). Likewise, Frost's team harbored doubts about their boss' ability to hold his own. But as cameras rolled, a charged battle of wits resulted.",
+         "Following the resignation of US President Richard Nixon, television talk show host David Frost wants to arrange a series of interviews with him to air on television. Part of the reason Frost thinks the interviews would be compelling to both the public and the television networks is that Nixon never admitted any guilt of or offered any apology for the Watergate scandal which led to his resignation. Nixon, with a few interview offers on the table, ultimately agrees to Frost's proposal partly because of the high $600,000 guaranteed appearance fee, and partly because he wants to take command of such an interview to show the world that he is still presidential so that he can resurrect his political career. Nixon believes he can railroad Frost, who is better known as a pop cultural entertainment styled interviewer than an investigative political interviewer. However, Frost has every intention on these interviews being hard hitting and pointed; in addition to his producer John Birt, Frost hires two investigative reporters known for their previous exposés on Nixon: Bob Zelnick and James Reston Jr. Nixon's chief adviser for the interviews is his current chief of staff, Jack Brennan. Prior to the interviews, ground rules are negotiated, most importantly surrounding Watergate: the total percentage of time Watergate can be discussed and the definition of what constitutes Watergate. As the four interviews progress, each side tries to manipulate the interviews to his best advantage. Behind the scenes, Frost is having difficulty with the rest of his professional life: his regular talk shows are being canceled and he has not reached anywhere near the total $2 million financing for this project. Ultimately, Frost has to finance the project with much money out of his own pocket. It isn't until a chance telephone call that the tides turn on the interviews.",
+         "A dramatic retelling of the post-Watergate television interviews between British talk-show host David Frost and former president Richard Nixon."
+      ],
+      "budget": 35000000
+   },
+   "movielensId": 64620,
+   "movielens": {
+      "languages": [
+         "English",
+         "Español"
+      ],
+      "releaseDate": "2008-10-15",
+      "dvdReleaseDate": "2009-04-21",
+      "directors": ["Ron Howard"],
+      "runtime": 122,
+      "movieId": 64620,
+      "title": "Frost/Nixon",
+      "mpaa": "R",
+      "actors": [
+         "Michael Sheen",
+         "Frank Langella",
+         "Kevin Bacon",
+         "Sam Rockwell",
+         "Matthew Macfadyen",
+         "Oliver Platt",
+         "Rebecca Hall",
+         "Toby Jones",
+         "Andy Milder",
+         "Kate Jennings Grant",
+         "Gabriel Jarret",
+         "Jim Meskimen",
+         "Patty McCormack",
+         "Geoffrey Blake",
+         "Clint Howard",
+         "Rance Howard",
+         "Gavin Grazer",
+         "Simon James",
+         "Eloy Casados",
+         "Jay White",
+         "Wil Albert",
+         "Keith MacKechnie",
+         "Penny L. Moore",
+         "Mark Simich",
+         "Janneke Arent",
+         "Jenn Gotzon",
+         "Eddie Napolillo"
+      ],
+      "imdbMovieId": "0870111",
+      "originalTitle": "Frost/Nixon",
+      "genres": [
+         "Drama",
+         "History"
+      ],
+      "youtubeTrailerIds": ["7Axo80kr9DM"],
+      "plotSummary": "For three years after being forced from office, Nixon remained silent. But in summer 1977, the steely, cunning former commander-in-chief agreed to sit for one all-inclusive interview to confront the questions of his time in office and the Watergate scandal that ended his presidency. Nixon surprised everyone in selecting Frost as his televised confessor, intending to easily outfox the breezy British showman and secure a place in the hearts and minds of Americans. Likewise, Frost's team harboured doubts about their boss's ability to hold his own. But as the cameras rolled, a charged battle of wits resulted.",
+      "tmdbMovieId": 11499,
+      "avgRating": 3.77628,
+      "releaseYear": "2008",
+      "numRatings": 2921,
+      "posterPath": "/qCs0Vc3QhyqRSDLCDinOai5CVT5.jpg"
+   }
+}

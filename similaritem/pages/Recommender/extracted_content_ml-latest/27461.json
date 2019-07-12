@@ -1,0 +1,517 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "camera",
+            "id": 1925
+         },
+         {
+            "name": "video surveillance",
+            "id": 5824
+         },
+         {
+            "name": "murder",
+            "id": 9826
+         },
+         {
+            "name": "observation",
+            "id": 198343
+         }
+      ],
+      "imdb_id": "tt0280969",
+      "video": false,
+      "title": "My Little Eye",
+      "recommendations": [
+         12619,
+         12212,
+         10845,
+         34583,
+         16028,
+         11427,
+         13803,
+         16342,
+         79550,
+         381935,
+         10929,
+         126757,
+         50497,
+         24913,
+         21910,
+         21398,
+         48787,
+         10092,
+         10085,
+         16205
+      ],
+      "backdrop_path": "/bBwt8NN6vkzDGXCt4shc8h8JmH9.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 24,
+               "character": "Matt",
+               "gender": 2,
+               "credit_id": "52fe469f9251416c7507e1bb",
+               "name": "Sean Cw Johnson",
+               "profile_path": "/f8vkRxg3Sp7eEHRkhitEq2X0VFN.jpg",
+               "id": 79187,
+               "order": 0
+            },
+            {
+               "cast_id": 25,
+               "character": "Rex",
+               "gender": 2,
+               "credit_id": "52fe469f9251416c7507e1bf",
+               "name": "Kris Lemche",
+               "profile_path": "/tugdbJ5M7wTNb6v52jqhEkWNDtu.jpg",
+               "id": 20176,
+               "order": 1
+            },
+            {
+               "cast_id": 26,
+               "character": "Danny",
+               "gender": 2,
+               "credit_id": "52fe469f9251416c7507e1c3",
+               "name": "Stephen O'Reilly",
+               "profile_path": null,
+               "id": 79188,
+               "order": 2
+            },
+            {
+               "cast_id": 27,
+               "character": "Emma",
+               "gender": 1,
+               "credit_id": "52fe469f9251416c7507e1c7",
+               "name": "Laura Regan",
+               "profile_path": "/v6rn1OlsveWTOOjWyycxmQYQeVt.jpg",
+               "id": 73836,
+               "order": 3
+            },
+            {
+               "cast_id": 28,
+               "character": "Charlie",
+               "gender": 1,
+               "credit_id": "52fe469f9251416c7507e1cb",
+               "name": "Jennifer Sky",
+               "profile_path": "/isVLY1ulONUtiEPcfGPSnWnXVhb.jpg",
+               "id": 20981,
+               "order": 4
+            },
+            {
+               "cast_id": 30,
+               "character": "The Cop",
+               "gender": 2,
+               "credit_id": "52fe469f9251416c7507e1d3",
+               "name": "Nick Mennell",
+               "profile_path": "/5EOALTNvekSuJUWCF1SrRAMKHTE.jpg",
+               "id": 79189,
+               "order": 6
+            },
+            {
+               "cast_id": 38,
+               "character": "",
+               "gender": 2,
+               "credit_id": "59e392fe9251410b67000425",
+               "name": "Bradley Cooper",
+               "profile_path": "/z5LUl9bljJnah3S5rtN7rScrmI8.jpg",
+               "id": 51329,
+               "order": 7
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe469f9251416c7507e139",
+               "name": "Marc Evans",
+               "profile_path": "/h7CkE0A3ZLI3InPJRx0J5uPF8Wj.jpg",
+               "id": 4575,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe469f9251416c7507e13f",
+               "name": "David Hilton",
+               "profile_path": null,
+               "id": 79176,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe469f9251416c7507e145",
+               "name": "Tim Bevan",
+               "profile_path": "/f7o93O1KocuLwIrSa7KqyL1sWaT.jpg",
+               "id": 2236,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe469f9251416c7507e14b",
+               "name": "Eric Fellner",
+               "profile_path": "/DiDxNhIfVPn9bRdOumhK0LgCYT.jpg",
+               "id": 2238,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe469f9251416c7507e151",
+               "name": "Alan Greenspan",
+               "profile_path": null,
+               "id": 57464,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe469f9251416c7507e157",
+               "name": "David Hilton",
+               "profile_path": null,
+               "id": 79176,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe469f9251416c7507e15d",
+               "name": "Jane Villiers",
+               "profile_path": null,
+               "id": 79179,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe469f9251416c7507e17b",
+               "name": "Mags Arnold",
+               "profile_path": null,
+               "id": 4579,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe469f9251416c7507e181",
+               "name": "Kerry Barden",
+               "profile_path": "/zb3khdNgVHerkFz4esvjSZHnbDW.jpg",
+               "id": 5328,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe469f9251416c7507e187",
+               "name": "Mark Bennett",
+               "profile_path": "/wolcm9xYyv76A6tQy7KLQj0PdUF.jpg",
+               "id": 62778,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe469f9251416c7507e18d",
+               "name": "Billy Hopkins",
+               "profile_path": "/vTGamEl7a1D93TCh165v8IyZZMG.jpg",
+               "id": 3192,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe469f9251416c7507e193",
+               "name": "Suzanne Smith",
+               "profile_path": "/fASNhfD4Tmw6KPW0LoPUycIFxEL.jpg",
+               "id": 4023,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe469f9251416c7507e199",
+               "name": "Crispian Sallis",
+               "profile_path": null,
+               "id": 945,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe469f9251416c7507e19f",
+               "name": "Laura MacNutt",
+               "profile_path": null,
+               "id": 79182,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe469f9251416c7507e1a5",
+               "name": "Kate Rose",
+               "profile_path": null,
+               "id": 79183,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe469f9251416c7507e1ab",
+               "name": "Barbi Jollota",
+               "profile_path": null,
+               "id": 79184,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe469f9251416c7507e1b1",
+               "name": "Adrien Morot",
+               "profile_path": null,
+               "id": 79185,
+               "department": "Crew",
+               "job": "Makeup Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe469f9251416c7507e1b7",
+               "name": "Cathleen O'Connell",
+               "profile_path": null,
+               "id": 79186,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe469f9251416c7507e1d9",
+               "name": "Jonathan Finn",
+               "profile_path": null,
+               "id": 463,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5947cddc9251413fdd03ef3a",
+               "name": "Natascha Wharton",
+               "profile_path": null,
+               "id": 467,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5947ce0dc3a368111502bd4e",
+               "name": "David Hilton",
+               "profile_path": null,
+               "id": 79176,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5947ce3b9251413fb603f163",
+               "name": "James Watkins",
+               "profile_path": "/vlH2xPfhAYPfVbgOSIDopeo8pik.jpg",
+               "id": 63306,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5947cda7c3a368170f041727",
+               "name": "Hubert Taczanowski",
+               "profile_path": null,
+               "id": 59871,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5947cdc3c3a368265f01f391",
+               "name": "Christopher Zimmer",
+               "profile_path": null,
+               "id": 79180,
+               "department": "Production",
+               "job": "Co-Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5947cdfac3a36816f604112b",
+               "name": "Bias",
+               "profile_path": null,
+               "id": 79181,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Horror",
+         "id": 27
+      }],
+      "popularity": 5.460355,
+      "production_countries": [
+         {
+            "iso_3166_1": "CA",
+            "name": "Canada"
+         },
+         {
+            "iso_3166_1": "FR",
+            "name": "France"
+         },
+         {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+         },
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         }
+      ],
+      "id": 16077,
+      "vote_count": 75,
+      "budget": 3000000,
+      "overview": "Five young people apply to live in an isolated house together for six months whilst their every move is filmed by numerous cameras.",
+      "similar": [
+         357096,
+         15069,
+         948,
+         21484,
+         10781,
+         123109,
+         984,
+         15762,
+         10900,
+         369300,
+         10285,
+         238636,
+         588,
+         3597,
+         12619,
+         3600,
+         10692,
+         11423,
+         4771,
+         96
+      ],
+      "original_title": "My Little Eye",
+      "runtime": 95,
+      "poster_path": "/3NYZyaXq9Z8uomEfatmsY6NjMFt.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": "/8T8OOQe3Xei2mW0DQepwQG1IMT0.png",
+            "name": "StudioCanal",
+            "id": 694,
+            "origin_country": "FR"
+         },
+         {
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "id": 33,
+            "origin_country": "US"
+         },
+         {
+            "logo_path": null,
+            "name": "WT2 Productions",
+            "id": 10462,
+            "origin_country": ""
+         },
+         {
+            "logo_path": "/cifwIG2aVR1dRis6yoiilq4qeIh.png",
+            "name": "Working Title Films",
+            "id": 10163,
+            "origin_country": "GB"
+         },
+         {
+            "logo_path": null,
+            "name": "imX Communications",
+            "id": 22150,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2002-10-04",
+      "vote_average": 5.7,
+      "belongs_to_collection": null,
+      "tagline": "Fear is not knowing. Terror is finding out.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Color",
+      "budgetCurrency": "£",
+      "directors": ["Marc Evans"],
+      "runtime": 95,
+      "synopsis": null,
+      "writers": [
+         "David Hilton",
+         "David Hilton"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0280969/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjA1NjQ2OTk4N15BMl5BanBnXkFtZTcwMDE0MzUyMQ@@._V1_SY317_CR4,0,214,317_AL_.jpg",
+      "actors": ["Stars: Sean Cw Johnson, Kris Lemche, Stephen O'Reilly | See full cast and crew »"],
+      "reviews": [
+         "Why all the bad comments? I don't understand it. True, most low budget thrillers are terrible. Serial killer knock offs without big name movie stars usually depend on gore effects, not characters, to keep us interested in what's going to happen next. This movie, though, is a tightly wound little scare piece that takes its time developing the characters and building suspense. The actors are terrific, the camera work unique and unsettling, and the direction always seems on target. The movie's main gimmick reads like it's going to be glib and possibly stupid, but the actors, and the director's ability to maintain a mood of foreboding, quickly dismisses any possible derision. I bought it and recommend it to anyone looking for a good, creepy thriller.",
+         "One house. Five people. Six months. One million dollars. A reality show webcast offers five young people the opportunity to make money by staying in a house for six months with the only catch being that if any of them leave then none of them win anything. After some time in the house with loads of boredom, one of them gets a letter saying his grandfather has died. He wants to leave but nobody wants to make it that easy for him to blow all their money. When bricks get delivered instead of supplies and a stranger who happens by the house says he has never seen or even heard of their reality show, alarm bells start to ring. When this came out I just assumed it was a slasher movie that decided to try and ride the wave of reality show popularity all the way to the box office. Even if that was the case, it didn't really work and this film didn't do a great deal of business in the UK � although respectable returns considering it was low budget anyway. The film takes a very \"Blair Witch\" approach to things by being pretty unnerving rather than out and out scary or gory. The director cleverly uses the angles and grainy appearance of Big Brother (night vision included) to invoke the feeling of the series but also to raise the tension. It is a bit of a gimmick but it does work because, despite it showing its budget, the cuts and the angels do raise tension. The problem is that the plot is never as good as it should have been. It goes where you expect it to do and there isn't much more to it than that. The film could easily have been making a point about the exploitative nature of such reality shows, the type of people that go on them and the sort of things that we turn in to watch (lets be honest � the fights and the sex). It does these if you think about it but the delivery lacks the intelligence that the concept potentially had. It is a shame because this would have been better if it had had this commentary because it would have covered up for the lack of substance, plot and development of the film. The cast are fairly average which suits the reality TV feel of the film. Overall then this is a film all about atmosphere and tension � well handled by director Evans. The concept offers commentary but the film delivers none or very little; what remains is a simple thriller in the low budget mould of Blair Witch. As such it works for the majority of the running time on atmosphere alone but the descent in the final 20 minutes didn't really work for me. An interesting film for this aspect but sadly lacking in things like commentary, substance, development and total worth.",
+         "Funnily enough, before the film they showed a trailer for the new HALLOWEEN flick (out in the UK in time for, well, you know ...); I heard a few people muttering that this seemed to have exactly the same plot as the film we were about to see (we'll gloss over KOLOBOS and BIG BROTHER.COM - THE MOVIE, shall we?). MY LITTLE EYE has had some blistering reviews, and, unlike most genre efforts, has had a TV ad blitz, which is probably why the Sunday night screening I saw was way over 3/4 full. As often seems to happen with these things I had invited a few friends who don't mind a few horror-lite morsels but would rather not step into the darkside. They thought they were in for fluff; as the movie progressed, and became darker and darker in tone, I realised I had made something of a mistake inviting them. \"Whoops!\", I thought, trying to avoid their ashen faces in the flickering light. I don't want to give anything away, really, lest to say that the two movies that this reminded me of most were THE BLAIR WITCH PROJECT and SESSION 9: they were all shot on video, and they all had an unrelenting bleakness and an innate power to unnerve which distinguished them from the popcorn horrors of, say, SCREAM and the modern crop of audience pleasers (which I having nothing against, by the way). The makers of MY LITTLE EYE use a dizzying array of discordant camera angles and white noise (and loud jarring sonic shards to unnerve its audience); it's the most inventive low budget genre film making I've seen since THE EVIL DEAD, and it doesn't seem overly contrived, or forced; the subject matter and set-up (the Big Brother'esque all seeing cameras constantly whirring, slipping in and out of focus) lend itself to it perfectly. As the majority of reviews point out, this *is* scary stuff. It's unnerving; getting under your skin like THE TEXAS CHAINSAW MASSACRE did. There is no comic relief what-so-ever. The film's all-pervading nihlism spreads - relentlessly - like an ever increasing black ink blot. To say it won't end well is not spoiling anything, really; it's clear from the opening scenes that we're on a one way journey downwards. Essentially, stripped of all it's visual trickery and clever manipulation, it's a teen horror flick at core (a teen slasher movie at that), but it's a million miles away from genre films like URBAN LEGEND, and it's ilk. MY LITTLE EYE (a British film made in Canada with American actors) is a gruelling hour and a half; it's endurance test horror. It's the kind of 'entertainment' (and I don't mean the inverted commas in a derogatory way, I just find it hard to equate this powerfully morbid film with that notion) which I never thought I'd see in the cinema again in this country. Judging by the total silence in the cinema, as the harrowing final shots faded, I doubt anyone else did either. Real fans of the genre miss it at your peril!",
+         "It is reasonable to describe this movie as Big Brother done with the style of the Blair Witch Project, although it would be unfair to label this movie as a Blair Witch Project seeing as how it implies that every horror movie done in a `documentary/realism' style with unusual camera positions is an actual homage to that movie. Set-up here is pretty simple: 5 people in a house. Must stay in house for six months. Cannot ever leave the house at night. If any one person leaves they all lose and do not get the one million dollars awaiting them at the end. Grand. However, surprise ahoy, things start going weird towards the end and they must begin to wonder: Who is paying to view them? Why are they bothered? And will any of them survive? Problems with the movie abound. Firstly we've dull characters. Some are so dull they blend into one another and become hard to distinguish, which is rather unfortunate since we're meant to. Only one character - the paranoid cynic - had any `depth' to them and their role was way too obvious. Sorry you can't misdirect me like that, I've seen it before and done better. Secondly we've got the structure of the movie. The first two-thirds are a hit and miss affair with tension. The `jump' moments are too sparse, too unconnected. There's an atmosphere built up by them, which has dissipated too much before the next event. It doesn't create unease so much as a greater indifference towards the movie. The final third is too derivative of the `hack-and-slash' genre and adds nothing to it except for an ending, which I admittedly enjoyed. It's not all bad though. There is the way the movie is done. It's viewed primarily through web cams. Thus we're treated to some interesting point-of-views and techniques as the cameras focus on the participants. There's a nice night-vision element where everyone is in green with eerily lit eyes. There're also some nice sounds via a white noise effect. Some found this grating, but I found it more effective in creating a sense of things being off kilter than the traditional orchestral effect. There's an ending which made me smile and, despite their scarcity, one or two relatively decent `jump' moments. The sense of it being just that bit different helps lift it out of forgettable mediocrity but it cannot elevate it to a description of being good. I think a 5.8/10 is about fair.",
+         "I was quite pleasantly surprised by MY LITTLE EYE. I had never heard of it or anything about it when I saw it so I really didn't know what to expect, but I definitely didn't expect to like it as much as I did. The basic story: 5 kids in an isolated house in the snowy mountains in the middle-of-nowhere, have to stay there for 6 months to win $1 million for some internet \"reality\" program. All of their necessities are brought to them anonymously, and they have no idea where they are, and judging by the surroundings - wouldn't be able to go anywhere even if they did. The tension builds slowly as we meet up with the kids at the tail end of the 6 months. Weird things begin to come from their anonymous deliverers, and paranoia soon sets in among the cast-members. MY LITTLE EYE is a pretty unique thriller, all of the action is shot from the surveillance cameras that are meant to monitor the cast members, giving all the shots a strange feel. Some of the shots done in \"night-vision\" are really weird and creepy. Add to this a really good twist ending and you have a very solid film. Definitely one to check out - 8.5 out of 10",
+         "Five strangers are brought together to take part in a reality web cast, the rules are simple; they must stay in an isolated house together for 6 months to receive the prize of $1 Million, if anyone of them leaves early they all lose. When strange things begin to occur in the house, the group suspect that someone is trying to scare them out of the house; but perhaps there is more to it than meets the eye. Marc Evans Directs a cast of relative unknowns through this quite fresh feeling chiller, and he manages to create a dark and creepy atmosphere that helps to build and sustain the tension in preparation for a fine climax. OK, so its a fairly trashy and a little easy to predict at times; but My Little Eye still prevails as a pretty original piece of work, that provides a few shocks. 7/10",
+         "I was really looking forward to this, but Christ almighty, what a disappointment. The film promises a lot, but doesn't deliver a single scare. What it does deliver is patchy tension and a slasher climax. I kept hoping every step of the way, but the pace lagged just enough to let me dwell on the plot holes. The start is good, with the 5 house inmates cleverly introduced through clips of their audition interviews. And the almost 6 months spent in the house is conveyed through a quick clockwise 1/4 screen split of various scenes. But then we're introduced to the everyday interaction of characters who are already tired of each other. The solution is to introduce an outsider and see what mayhem he can cause. But the 6th character is used just as a plot device, and all that ensues is a seduction scene and suggestions of an off-screen death. The plot is resolved by revealing the least likely character as a psychopath traitor. So what? In the very end the last victim was left alive in a cell - why? For the sequel? The frequent loss of focus through the webcams is irritating, and the whirring camera-focus noises are done way too much. The night-vision effect, with glinting pupils, is overused; and Emma's gun-toting scene is a continuation of the Silence of the Lambs cellar sequence. Charlie was sexy - whoopee! Emma was a Mia Farrow look-alike. The male actors didn't register. Great concept. Just so irritating to have to carp and carp and ... hey, after 2 hours viewing I'm allowed to have a go. Maybe the Japanese will run with this concept and score with truly disturbing scenes.",
+         "What a great idea: shooting a film using only web cams. I usually like to watch movies that aren't mainstream, and the concept of My Little Eye sure stands out. The plot isn't that complicated; it focuses on five people trying to live in an old house in the middle of a forest. If they manage to stay there for six months without contacting the outside world, each of them wins 1.000.000$. If someone breaks the rules, everyone loses their million. The movie takes place in the final week of the competition, and suddenly, weird things start to happen. It seems that the contestants' pasts have come back haunting them. But as it usually is, some things aren't what they seem to be... The cast of My Little Eye is great, since all of the few actors/actresses are pretty much 'non-famous' (for me at least), helping to create an illusion of an Big Brother-type of game, where ordinary people do stuff for money. There is this certain tension throughout the movie, creating a disturbing feeling that 'something isn't right'. However, in my opinion this movie wasn't scary. I'd rather call this movie a thriller-, than a horror-movie. Don't get me wrong, but the movie disappointed me a little. Everything in this movie was a bit pale. I admit, that the night-vision scenes were cool, but at the end of the movie you've definitely had enough of web cams. Anyways... There are lots of much crappier movies than this, so if you consider yourself a voyeur or if you like Big Brother, you should give this movie a shot.",
+         "My Little Eye takes the premise of 'Big Brother' and warps it. Five 'contestants' are invited to stay in a house for six months but if any of them leave, they all lose the $1million on offer. Where this film really works is in its use of sound and sudden shocks - early on a raven in the dark provides some truly 'jump out of your skin' moments, the rear channels working over time to engulf the viewer in a feeling of dread. The film gets darker and darker in its tone as we begin to realise that what the contestants signed up for what very different to what they thought they had. Feelings of dread and hopelessness pervade the screen as we, along with the contestants begin to learn the truth behind the game and its very dark secrets. Many words have been used to describe this classic fright-fest and in the case it seems wholly appropriate to use both 'Harrowing' and 'Disturbing' in this context. I went in expecting a frightening and upsetting horror yarn and that's precisely what I got. Full marks to all involved - this is no easy ride and for all you horror fans out there bored of the glossy popcorn fodder of Scream and its ilk, this will be a welcome breath of fresh air. Watch it - just not alone!",
+         "Yes and No. I really like this whole concept of the reality show gone wrong � and a horror movie is always good in my book. But for all the bits I liked about the film, it didn't add up to a whole that I particularly liked. But yes there were some good bits. The idea of people in a house being films raises all interesting possibilities about how people react when they're isolated, and how they would cope if people started dieing, or they had to start killing each other� I thought \"house of 9\" was really good because the behaviour of the characters was very interesting, when they realised their host wanted them to kill each other. Here only one of the characters seems to have any idea that something dodgy is going on, and then when people start dieing its over so quickly, there isn't really time to watch the interactions of the people under stress and terror. Some of the build up is good though � like the whole child that killed his parent's thing coming back. However I just didn't believe the rest of the plot. When the guy goes on the web; if there was nothing on the internet about this, then what was the internet site at the beginning which they applied through � surely that would still be on the web, and there would have been at least some information about the show� that it had been canned� that it had disappeared. However the idea that they were being watched in secret by some group of rich clients with the intent on watching them all die was pretty scary. Anyway forget that, its ridiculous how this guy managed to wire a broken global satellite navigation system and get it to act as a modem to hook up to his computer. He also managed to try and hack into the website with some of the worlds most sophisticated hackers. I have a couple of questions here; why don't you send an email for help? Why don't you then email friends and family and find out if they know about the show? OR ASK THEM FOR HELP! And all this seemed to happen in a very short time span. I guess suspension of disbelief is required � but when its all about being a reality show gone wrong, which is meant to frighten with its reality type visuals� then when the plot is anything but, its just wrong. There's also this sequence about someone that visits, which just doesn't make any sense. The first murder that we know is a murder is very shocking. But once the secret is out I was really not scared any more. I knew that each person was going to die in turn, it was just waiting for it to happen, and thinking, man, just escape� leave the house! As I say I like the concept, and there are some good ideas, and some bits that were a little bit scary. But for me the plot didn't really hang together, they didn't keep us guessing long enough on who the killer was, and they didn't get the people scared enough when they realised people were dieing. And man if I'd had email access I would have sent some emails � and called in the army to get me outta there!!!!"
+      ],
+      "genres": [
+         "Horror",
+         "Mystery",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "StudioCanal",
+         "Universal Pictures",
+         "WT2 Productions"
+      ],
+      "summaries": ["Five young people apply to live in an isolated house together for six months whilst their every move is filmed by numerous cameras. Each has their reason for wanting to be there - fame, money, adventure. The prize - $1 million. The rules - if one person leaves, everyone loses. It becomes the ultimate morality test. When Danny's beloved grandfather dies, does his greed overcome his love? When the skittish Emma finds blood on her pillow why does she still stay behind? And what dark secret does the house harbour that leaves them feeling as though they're being watched by more than just a million pairs of eyes?"],
+      "budget": 2000000
+   },
+   "movielensId": 27461,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2002-10-04",
+      "dvdReleaseDate": "2004-04-27",
+      "directors": ["Marc Evans"],
+      "runtime": 95,
+      "movieId": 27461,
+      "title": "My Little Eye",
+      "mpaa": "R",
+      "actors": [
+         "Sean Cw Johnson",
+         "Kris Lemche",
+         "Stephen O'Reilly",
+         "Laura Regan",
+         "Jennifer Sky",
+         "Nick Mennell",
+         "Bradley Cooper"
+      ],
+      "imdbMovieId": "0280969",
+      "originalTitle": "My Little Eye",
+      "genres": ["Horror"],
+      "youtubeTrailerIds": [],
+      "plotSummary": "Five young people apply to live in an isolated house together for six months whilst their every move is filmed by numerous cameras.",
+      "tmdbMovieId": 16077,
+      "avgRating": 2.74026,
+      "releaseYear": "2002",
+      "numRatings": 77,
+      "posterPath": "/3NYZyaXq9Z8uomEfatmsY6NjMFt.jpg"
+   }
+}

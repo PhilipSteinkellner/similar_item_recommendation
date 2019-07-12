@@ -1,0 +1,805 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "biography",
+            "id": 5565
+         },
+         {
+            "name": "historical figure",
+            "id": 6165
+         }
+      ],
+      "imdb_id": "tt0031981",
+      "video": false,
+      "title": "The Story of Alexander Graham Bell",
+      "recommendations": [29464],
+      "backdrop_path": "/xxNEvUtm459FHuonojRHvEmT1zd.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Alexander Graham Bell",
+               "gender": 2,
+               "credit_id": "52fe4763c3a368484e0c43ad",
+               "name": "Don Ameche",
+               "profile_path": "/q4t9dds6jQuuqpMLvALbOqVJRFV.jpg",
+               "id": 18156,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Mrs. Mabel Hubbard Bell",
+               "gender": 1,
+               "credit_id": "52fe4763c3a368484e0c43b1",
+               "name": "Loretta Young",
+               "profile_path": "/g5IlFLATSLpINVlaoV8Ncce2RCA.jpg",
+               "id": 85848,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Thomas Watson",
+               "gender": 2,
+               "credit_id": "52fe4763c3a368484e0c43b5",
+               "name": "Henry Fonda",
+               "profile_path": "/jNLuMWW7SpSeGMUP5qxOAtg0Ryr.jpg",
+               "id": 4958,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Gardner Hubbard",
+               "gender": 2,
+               "credit_id": "52fe4763c3a368484e0c43b9",
+               "name": "Charles Coburn",
+               "profile_path": "/vuQEpr6ae3vcvpDxw2V9iKB1wUT.jpg",
+               "id": 11169,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Thomas Sanders",
+               "gender": 2,
+               "credit_id": "52fe4763c3a368484e0c43bd",
+               "name": "Gene Lockhart",
+               "profile_path": "/7IL5fx1mfhCiMAvYXSiY1Dj7yky.jpg",
+               "id": 30234,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Mrs. Hubbard",
+               "gender": 1,
+               "credit_id": "52fe4763c3a368484e0c43c1",
+               "name": "Spring Byington",
+               "profile_path": "/n2bZwVguxiNEdtSgZkvXPrHfatO.jpg",
+               "id": 20369,
+               "order": 5
+            },
+            {
+               "cast_id": 7,
+               "character": "Gertrude Hubbard",
+               "gender": 0,
+               "credit_id": "52fe4763c3a368484e0c43c5",
+               "name": "Sally Blane",
+               "profile_path": "/ejTsYLLzHaSJZLVALdAEZ1h4Ju9.jpg",
+               "id": 97283,
+               "order": 6
+            },
+            {
+               "cast_id": 8,
+               "character": "Grace Hubbard",
+               "gender": 1,
+               "credit_id": "52fe4763c3a368484e0c43c9",
+               "name": "Polly Ann Young",
+               "profile_path": "/oYrFQYWjHUEwvFxOWsCzdnAxziR.jpg",
+               "id": 89681,
+               "order": 7
+            },
+            {
+               "cast_id": 9,
+               "character": "Berta Hubbard",
+               "gender": 0,
+               "credit_id": "52fe4763c3a368484e0c43cd",
+               "name": "Georgiana Young",
+               "profile_path": "/4SxQCkSjK11dal83g8IZD76GZYn.jpg",
+               "id": 1039431,
+               "order": 8
+            },
+            {
+               "cast_id": 10,
+               "character": "George Sanders",
+               "gender": 2,
+               "credit_id": "52fe4763c3a368484e0c43d1",
+               "name": "Bobs Watson",
+               "profile_path": "/tVVXCJp1gPwKrUck5h89cWdBXUo.jpg",
+               "id": 199468,
+               "order": 9
+            },
+            {
+               "cast_id": 11,
+               "character": "Mr. Barrows",
+               "gender": 2,
+               "credit_id": "52fe4763c3a368484e0c43d5",
+               "name": "Russell Hicks",
+               "profile_path": "/hRRM5ni87mxjlDV2G9jr4GCxFew.jpg",
+               "id": 13969,
+               "order": 10
+            },
+            {
+               "cast_id": 12,
+               "character": "Chauncey Smith",
+               "gender": 2,
+               "credit_id": "52fe4763c3a368484e0c43d9",
+               "name": "Paul Stanton",
+               "profile_path": "/hx1q7CnPwVVoCeXb9f5XxF9ybEN.jpg",
+               "id": 120816,
+               "order": 11
+            },
+            {
+               "cast_id": 13,
+               "character": "President of Western Union",
+               "gender": 2,
+               "credit_id": "52fe4763c3a368484e0c43dd",
+               "name": "Jonathan Hale",
+               "profile_path": "/ajOXZDy3XsZkZ3OqsMBejg8BFXG.jpg",
+               "id": 12502,
+               "order": 12
+            },
+            {
+               "cast_id": 14,
+               "character": "Judge Rider",
+               "gender": 2,
+               "credit_id": "52fe4763c3a368484e0c43e1",
+               "name": "Harry Davenport",
+               "profile_path": "/r28I9wuqqhuMtZ0iBzoi1A74ljp.jpg",
+               "id": 11502,
+               "order": 13
+            },
+            {
+               "cast_id": 15,
+               "character": "Queen Victoria",
+               "gender": 1,
+               "credit_id": "52fe4763c3a368484e0c43e5",
+               "name": "Beryl Mercer",
+               "profile_path": "/kd22nF2wsJ3vW8ciG61jZxokxig.jpg",
+               "id": 2018,
+               "order": 14
+            },
+            {
+               "cast_id": 16,
+               "character": "Mrs. MacGregor",
+               "gender": 1,
+               "credit_id": "52fe4763c3a368484e0c43e9",
+               "name": "Elizabeth Patterson",
+               "profile_path": "/8seWJt9xJlcVhmtku25uCHuxc5t.jpg",
+               "id": 83237,
+               "order": 15
+            },
+            {
+               "cast_id": 17,
+               "character": "George Pollard",
+               "gender": 2,
+               "credit_id": "52fe4763c3a368484e0c43ed",
+               "name": "Charles Trowbridge",
+               "profile_path": "/70CRYTOSQWiIgGQsOqN8JKItssK.jpg",
+               "id": 96721,
+               "order": 16
+            },
+            {
+               "cast_id": 18,
+               "character": "Mrs. Winthrop",
+               "gender": 0,
+               "credit_id": "52fe4763c3a368484e0c43f1",
+               "name": "Jan Duggan",
+               "profile_path": "/ApgsfI5OCOL8LGMSrbYabs7n2L5.jpg",
+               "id": 544971,
+               "order": 17
+            },
+            {
+               "cast_id": 19,
+               "character": "Landlady",
+               "gender": 1,
+               "credit_id": "52fe4763c3a368484e0c43f5",
+               "name": "Claire Du Brey",
+               "profile_path": "/AmPRRNPgaBqJkvEcpFFLG2DmrbD.jpg",
+               "id": 68653,
+               "order": 18
+            },
+            {
+               "cast_id": 20,
+               "character": "Joe Eliot",
+               "gender": 0,
+               "credit_id": "52fe4763c3a368484e0c43f9",
+               "name": "Harry Tyler",
+               "profile_path": "/hShTqyhk5V9LHStQwI4BupCybxf.jpg",
+               "id": 105454,
+               "order": 19
+            },
+            {
+               "cast_id": 21,
+               "character": "D'Arcy - Singer",
+               "gender": 2,
+               "credit_id": "52fe4763c3a368484e0c43fd",
+               "name": "Ralph Remley",
+               "profile_path": null,
+               "id": 102075,
+               "order": 20
+            },
+            {
+               "cast_id": 22,
+               "character": "Mrs. Sanders",
+               "gender": 1,
+               "credit_id": "52fe4763c3a368484e0c4401",
+               "name": "Zeffie Tilbury",
+               "profile_path": "/hTFxYbEmhgn1W2RUD5uxTdXCnOz.jpg",
+               "id": 8522,
+               "order": 21
+            },
+            {
+               "cast_id": 23,
+               "character": "Banker's Son (uncredited)",
+               "gender": 2,
+               "credit_id": "52fe4763c3a368484e0c4405",
+               "name": "Jack Kelly",
+               "profile_path": "/qdXr1rTYuHJ2Gcds762Hyqq3A4O.jpg",
+               "id": 12311,
+               "order": 22
+            },
+            {
+               "cast_id": 35,
+               "character": "Telephone Operator",
+               "gender": 0,
+               "credit_id": "5556baccc3a368776a004235",
+               "name": "Esther Brodelet",
+               "profile_path": null,
+               "id": 1420884,
+               "order": 23
+            },
+            {
+               "cast_id": 36,
+               "character": "Mr. Calhoun",
+               "gender": 2,
+               "credit_id": "5556bae89251411e4d00469c",
+               "name": "Tyler Brooke",
+               "profile_path": null,
+               "id": 80649,
+               "order": 24
+            },
+            {
+               "cast_id": 37,
+               "character": "Miss Jenkins",
+               "gender": 0,
+               "credit_id": "5556baf4c3a368776a00423c",
+               "name": "Nora Cecil",
+               "profile_path": "/paPIPfBQwgspxEOMBHM8dPm1jE0.jpg",
+               "id": 981098,
+               "order": 25
+            },
+            {
+               "cast_id": 38,
+               "character": "Court Attendant at Door",
+               "gender": 2,
+               "credit_id": "5556bb009251411e540042d6",
+               "name": "Davison Clark",
+               "profile_path": "/lj3c9C80RZvFKTR3ToxnSDWv5M.jpg",
+               "id": 1075172,
+               "order": 26
+            },
+            {
+               "cast_id": 39,
+               "character": "Man Laughing at Demo",
+               "gender": 2,
+               "credit_id": "5556bb0b9251411e510046c1",
+               "name": "Dick Elliott",
+               "profile_path": "/pMzUTZ932haxyn2fVpSmxYgXHih.jpg",
+               "id": 30217,
+               "order": 27
+            },
+            {
+               "cast_id": 41,
+               "character": "Banker at Demo",
+               "gender": 2,
+               "credit_id": "5556bb299251411ff000113f",
+               "name": "Edmund Elton",
+               "profile_path": null,
+               "id": 950014,
+               "order": 29
+            },
+            {
+               "cast_id": 42,
+               "character": "Mac Gregor's Maid",
+               "gender": 1,
+               "credit_id": "5556bb35c3a368776c004176",
+               "name": "Fern Emmett",
+               "profile_path": "/3P5MeVW4rqoRn8TG7NlQuP2Zjnb.jpg",
+               "id": 88999,
+               "order": 30
+            },
+            {
+               "cast_id": 43,
+               "character": "Piano Player",
+               "gender": 0,
+               "credit_id": "5556bb409251411ff0001142",
+               "name": "Mary Field",
+               "profile_path": "/fUuUy1lk7aOlMuw9EvHG4UiUSRw.jpg",
+               "id": 115366,
+               "order": 31
+            },
+            {
+               "cast_id": 44,
+               "character": "Mr. Winthrop",
+               "gender": 0,
+               "credit_id": "5556bb499251412ff9002db3",
+               "name": "George Guhl",
+               "profile_path": "/uzXTrYPbMiK1kVIX5vJkD1ilBtC.jpg",
+               "id": 1016646,
+               "order": 32
+            },
+            {
+               "cast_id": 45,
+               "character": "Pawnbroker",
+               "gender": 0,
+               "credit_id": "5556bb539251412ff9002db6",
+               "name": "Otto Hoffman",
+               "profile_path": "/1C6VGYklEbMvKffXSNnGOhnv1VI.jpg",
+               "id": 103947,
+               "order": 33
+            },
+            {
+               "cast_id": 46,
+               "character": "Tom",
+               "gender": 2,
+               "credit_id": "5556bb5c9251411e510046d6",
+               "name": "Warren Jackson",
+               "profile_path": null,
+               "id": 951571,
+               "order": 34
+            },
+            {
+               "cast_id": 47,
+               "character": "Edward",
+               "gender": 0,
+               "credit_id": "5556bb689251412ff9002dbd",
+               "name": "Frank Jaquet",
+               "profile_path": "/aWWYC4iYh5F918go8tFfLilntZ5.jpg",
+               "id": 83993,
+               "order": 35
+            },
+            {
+               "cast_id": 48,
+               "character": "New England Telephone Company Executive",
+               "gender": 2,
+               "credit_id": "5556bb729251411ff0001150",
+               "name": "Sheldon Jett",
+               "profile_path": null,
+               "id": 1005347,
+               "order": 36
+            },
+            {
+               "cast_id": 49,
+               "character": "Banker at Demo",
+               "gender": 2,
+               "credit_id": "5556bb7b9251411e5b0044df",
+               "name": "Edward Keane",
+               "profile_path": "/dnEso5qtzGaw0lI2aUyKaR8ivWF.jpg",
+               "id": 120708,
+               "order": 37
+            },
+            {
+               "cast_id": 50,
+               "character": "General",
+               "gender": 2,
+               "credit_id": "5556bb84c3a3687772004916",
+               "name": "Crauford Kent",
+               "profile_path": null,
+               "id": 940628,
+               "order": 38
+            },
+            {
+               "cast_id": 51,
+               "character": "Banker at Demonstration",
+               "gender": 0,
+               "credit_id": "5556bb8e9251411e510046e2",
+               "name": "Edward LeSaint",
+               "profile_path": "/vaD3RR3C5stmGbBSstay4sCktit.jpg",
+               "id": 30202,
+               "order": 39
+            },
+            {
+               "cast_id": 52,
+               "character": "Infant",
+               "gender": 0,
+               "credit_id": "5556bb9c9251411e5b0044e9",
+               "name": "Jarold Clifford Lyons",
+               "profile_path": null,
+               "id": 1467459,
+               "order": 40
+            },
+            {
+               "cast_id": 53,
+               "character": "Telegrapher",
+               "gender": 0,
+               "credit_id": "5556bba59251411e4d0046c1",
+               "name": "Dave Morris",
+               "profile_path": null,
+               "id": 147525,
+               "order": 41
+            },
+            {
+               "cast_id": 54,
+               "character": "Nora",
+               "gender": 1,
+               "credit_id": "5556bbafc3a368777400462b",
+               "name": "Ottola Nesmith",
+               "profile_path": "/vGFs5Z2Skm9XVYRkOnc7rfnLavw.jpg",
+               "id": 111585,
+               "order": 42
+            },
+            {
+               "cast_id": 55,
+               "character": "Nurse",
+               "gender": 2,
+               "credit_id": "5556bbb99251411e4d0046c7",
+               "name": "Ruth Robinson",
+               "profile_path": null,
+               "id": 967133,
+               "order": 43
+            },
+            {
+               "cast_id": 56,
+               "character": "Sir John Cowell",
+               "gender": 0,
+               "credit_id": "5556bbc3c3a3687779004132",
+               "name": "John Graham Spacey",
+               "profile_path": null,
+               "id": 1193858,
+               "order": 44
+            },
+            {
+               "cast_id": 57,
+               "character": "Manager of New England Telephone Exchange",
+               "gender": 2,
+               "credit_id": "5556bbcdc3a368777e00446d",
+               "name": "Landers Stevens",
+               "profile_path": "/19qzQcXjaO06LDXOwqmeY2JqOvB.jpg",
+               "id": 120476,
+               "order": 45
+            },
+            {
+               "cast_id": 58,
+               "character": "Court Clerk",
+               "gender": 0,
+               "credit_id": "5556bbd79251411e4d0046cf",
+               "name": "Charles Tannen",
+               "profile_path": "/9KyhidWj4XjpYGqrvTQeSHjfpsN.jpg",
+               "id": 115772,
+               "order": 46
+            },
+            {
+               "cast_id": 59,
+               "character": "",
+               "gender": 0,
+               "credit_id": "5556bbdd9251411e540042fb",
+               "name": "William Wagner",
+               "profile_path": null,
+               "id": 555888,
+               "order": 47
+            },
+            {
+               "cast_id": 60,
+               "character": "Storekeeper",
+               "gender": 0,
+               "credit_id": "5556bbe89251411e4d0046d3",
+               "name": "Eddy Waller",
+               "profile_path": "/9QJn0nE81xdatF10nEAj5zOZIc4.jpg",
+               "id": 116494,
+               "order": 48
+            },
+            {
+               "cast_id": 61,
+               "character": "James J. Starrow",
+               "gender": 0,
+               "credit_id": "5556bbff9251411ff000116a",
+               "name": "Jack Walsh",
+               "profile_path": null,
+               "id": 1467460,
+               "order": 49
+            },
+            {
+               "cast_id": 62,
+               "character": "Sanders' Nurse",
+               "gender": 1,
+               "credit_id": "5556bc09c3a368776a004269",
+               "name": "Lillian West",
+               "profile_path": null,
+               "id": 85738,
+               "order": 50
+            },
+            {
+               "cast_id": 63,
+               "character": "Banker at Demo",
+               "gender": 0,
+               "credit_id": "572f5e3ec3a3687cc9000e28",
+               "name": "John Elliotte",
+               "profile_path": null,
+               "id": 1616896,
+               "order": 51
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4763c3a368484e0c440b",
+               "name": "Irving Cummings",
+               "profile_path": null,
+               "id": 129422,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4763c3a368484e0c4411",
+               "name": "Ray Harris",
+               "profile_path": null,
+               "id": 223101,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4763c3a368484e0c4417",
+               "name": "Lamar Trotti",
+               "profile_path": null,
+               "id": 14646,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5440e28f0e0a26291a00131d",
+               "name": "Darryl F. Zanuck",
+               "profile_path": "/pfl8oR2otTYihADFtjLkrtKoFrM.jpg",
+               "id": 8502,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5440e2b90e0a260262001f01",
+               "name": "Walter Thompson",
+               "profile_path": null,
+               "id": 19334,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5440e2c90e0a26293b00140f",
+               "name": "Richard Day",
+               "profile_path": "/vzJieFC4Dk7VnKUMIXguf0jNbbf.jpg",
+               "id": 8506,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5440e2d90e0a26293b001412",
+               "name": "Mark-Lee Kirk",
+               "profile_path": null,
+               "id": 8507,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5440e2eac3a36860e1001376",
+               "name": "Thomas Little",
+               "profile_path": null,
+               "id": 8508,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5440e2fd0e0a26290f0013a3",
+               "name": "Royer",
+               "profile_path": null,
+               "id": 1355547,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "551404fd925141045c0034a3",
+               "name": "Leon Shamroy",
+               "profile_path": null,
+               "id": 13270,
+               "department": "Camera",
+               "job": "Director of Photography"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "History",
+            "id": 36
+         }
+      ],
+      "popularity": 1.105583,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 67375,
+      "vote_count": 5,
+      "budget": 0,
+      "overview": "Alexander Graham Bell falls in love with deaf girl Mabel Hubbard while teaching the deaf and trying to invent means for telegraphing the human voice. She urges him to put off thoughts of marriage until his experiments are complete. He invents the telephone, marries and becomes rich and famous, though his happiness is threatened when a rival company sets out to ruin him.",
+      "similar": [
+         45317,
+         371638,
+         227306,
+         323677,
+         319888,
+         10637,
+         769,
+         1578,
+         5915,
+         462,
+         11202,
+         613,
+         640,
+         318846,
+         314095,
+         389015,
+         407445,
+         363676,
+         396371,
+         324786
+      ],
+      "original_title": "The Story of Alexander Graham Bell",
+      "runtime": 98,
+      "poster_path": "/9dJPFoWZ42rbXZdK7NF7RzjYZXl.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+         "name": "20th Century Fox",
+         "id": 25,
+         "origin_country": "US"
+      }],
+      "release_date": "1939-04-04",
+      "vote_average": 5.7,
+      "belongs_to_collection": null,
+      "tagline": "Darryl F. Zanuck's Entertainment gem will take its place in the Hall of Fame !",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Black and White",
+      "budgetCurrency": "$",
+      "directors": ["Irving Cummings"],
+      "runtime": 98,
+      "synopsis": null,
+      "writers": [
+         "Ray Harris",
+         "Lamar Trotti"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0031981/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjE4MTU2ODAxOF5BMl5BanBnXkFtZTgwMDAxOTMyMjE@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Don Ameche, Loretta Young, Henry Fonda | See full cast and crew »"],
+      "reviews": [
+         "This biopic about the invention of the telephone proved to be a surprise. Not having seen it, we took the chance and it proved to be a real charmer. Under the direction of Irving Cummings, we get to know a great deal, not only about the invention itself, but a little bit about the man. Alexander Graham Bell was an ambitious man who was interested in helping a young deaf-mute boy, as the picture opens. We see him toiling at a prototype for the telegraph, and stumbling into the transmission of sound through wires, thus creating something that revolutionized society, business and the world at large. In retrospect, one can only imagine how could anyone survived without it! Thanks to Mr. Bell, his invention is something that benefited all of us. Don Ameche makes an intense Alexander Graham Bell. He was a charming actor who never ceased to amaze us in all the movies he left behind. Loretta Young, makes a wonderful Mabel Hubbard, Mr. Bell's beloved wife who had to struggle with her own deafness. A young Henry Fonda is seen as Bell's loyal friend Thomas Watson. The cast assembled for the film shows the best Hollywood could offer. Charles Coburn and Spring Byinton play the kind Hubbards. Gene Lockhart is also quite good as Thomas Sanders. Two of Loretta Young sisters Polly Ann and Georgiana play two of the Hubbard girls, as well as Sally Blane who is the fourth daughter. This is a film that is instructive as well as fun to watch because of the subject matter and the cast that made the story come alive.",
+         "This film has a unique place in movie history. The Story of Alexander Graham Bell not only gave Don Ameche his signature role, but Ameche's very name entered the English slang. Still today, a telephone is sometimes referred to as an \"ameche.\" Bell was a Scottish immigrant who came by way of Canada to the Boston area. At the time the film opens, Don Ameche is a teacher of deaf children. He's also employed as a private tutor to one particular child, Bobs Watson who is Gene Lockhart's son. There scenes have a particular poignancy. Ameche also woos and wins Loretta Young, a deaf woman who is the son of prominent businessman, Charles Coburn, who later backs him in his scientific work and business ventures. As you can imagine living in a world with a whole lot of silent people and a natural scientific bent made him curious about sound. In inventing the telephone, Bell sought to break the sound barrier which was then limited by how loud the loudest person could shout. The famous scene with assistant Henry Fonda when Bell's own voice goes over a wire for the first time is there. And his later patent struggles are also well documented. But it is Don Ameche's sincere and straightforward interpretation of Alexander Graham Bell that makes this film memorable. And he's matched every step of the way by Loretta Young as his wife. Ms. Young by the way got to be in this film with all three of her sisters, playing her sisters, a rare treat. Given Bell's lifelong interest in the deaf, I'm sure that today with the invention of TTY lines to help deaf people communicate by phone, he'd be doubly proud of what he had accomplished. A good film and a great tribute to a great scientific and humanitarian individual.",
+         "Don Ameche has the title role in \"The Story of Alexander Graham Bell\" in this 1939 film starring Henry Fonda, Loretta Young, Charles Coburn, Gene Lockhart, and Spring Byington. This movie was a big hit - it must have been, because in 1941's \"Ball of Fire,\" Barbara Stanwyck teaches Gary Cooper slang and refers to the telephone as \"the Ameche,\" as others have mentioned here. As far as how accurate the story is - for Fox, not bad at all. The background of Bell's teaching experience and family history of working with speech and sound is correct, he did have a demonstration of his new device, he did have patent problems, he did take on the little boy and Mabel as deaf clients to teach, he did teach finger-spelling, he did have patent problems, he did marry Mabel, their first child was a girl, and Mabel's father was one of his investors. The Fonda character, Watson, was also real, though Bell had two other assistants, and the scene where Bell finds out the telephone works when he calls for Watson is accurate. Also, Bell mentions a great interest in aeronautics in the movie - he indeed did a lot of work in aeronautics later on. Don Ameche does a great job as Bell. Before Tyrone Power appeared at 20th Century Fox, Ameche was set for many more lead roles; Power's popularity pushed him into second leads. If Ameche seems melodramatic in the courtroom scenes, that was the style of the day. He gives a serious, intense, and sincere performance. It's probably the role for which he's best remembered. Henry Fonda is wonderful - he's funny and relaxed, positively excellent. In another year, he'd be starring in his own movies. Loretta Young as Mabel is believable as well as lovely, and her sisters in real life -- Sally Blane, Polly Young, and Georgiana Young - play her sisters here. Gene Lockhart as Sanders is another standout in a poignant performance as a man who wants his deaf son to be able to speak. Charles Coburn plays Mable's no-nonsense, gruff father very well. Considering that the movie \"Suez\" is fiction from beginning to end, 20th Century Fox is to be commended for bringing so much real history into this film and making it so entertaining.",
+         "If are looking for an accurate and detailed lesson about either the life of Alexander Graham Bell or the invention of the telephone, this film is far from perfect. Often it takes liberties and omissions--all in the aim of producing an entertaining film first and foremost. However, if you understand that it is NOT great history but purely there to entertain, it's pretty good. I would not put in on par with the Edison films at MGM or the wonderful Warner Brothers films on Pasteur and Erlich, but it is quite good. The movie only concerns the period just before the telephone was invented as well as the process of inventing and marketing the device. So, if you want information about his work as a deaf educator or about his interesting family background, this film is maddeningly silent. I would LOVE to see a film talk particularly talking about his hatred of sign language (as he felt the deaf MUST be forced to learn to talk and function like the hearing) or the disdain many deaf today have for him. Perhaps this sort of discussion would be best dealt with in a documentary, but it IS fascinating stuff. As far as this film goes, Ameche, Fonda and Young are all very good here, the direction very nice and the entire production is polished and pleasant from start to finish.",
+         "Alexander Graham Bell came from a family of elocutionists. His grandfather and father were both published on the subject. He trained also to become a teacher, but having a deaf mother, he came to desire more than just teaching. In his early stages of teaching, he begins by teaching a young mute boy (Bobs Watson) while being paid by the father of the boy (Gene Lockhart). The money he earns from this, he uses to work on first the telegraph, then the telephone. The mute boy's father is so pleased with the way his son can communicate using a special alphabet glove,that he introduces Bell to his friend (Charles Coburn) who has 4 daughters, including a daughter who became death after having scarlet fever when she was younger. The father kept speaking of his 'little girl'. Imagine Bells surprise when it turned out to be a grown woman (Loretta Young) who, along with her three sisters, play the roles of the business man's daughters. Mabel (Young) 'fell' for him at first sight as she accidentally runs into him when he is coming to their house, not realizing he is the man her father invited to help her. Thinking this business man is going to be able to help him finance the telegraph, he begins to tell him of his invention until the father says he wants Bell to help his daughter. They can talk of the invention another time. The two fall in love, with Young playing a woman who not only backs Alec's (Bell/Ameche) grand ideas and inventions, but encourages him not to give up hope and occasionally puts her foot down when it comes to him not giving up the idea of inventing the telephone and when Bell later is attacked by a firm who claim he stole their invention and sued Bell. Bell got this news right when it seemed things were going the best for him. Queen Victoria had agreed to wire the castle with the telephone and what the queen did was often imitated throughout the world! Plus Bell finds out he is to be a father. But he also gets a letter from his father in law that a company is suing him for copyright stealing. He determines to return to the States, fight the lawsuit with truth to defend not only his invention, but his father-in-law, his friend, the mute boy's father (both of whom backed him to the hilt on the telephone), his partner in experiments Watson(Henry Fonda) and for all inventors who are poor and have their ideas copyrighted, only to be stolen by those with less scruples and more money. When she hears how badly the trial is going due to lack of evidence, Bell's wife and mother come to the trial. It seems that for lack of available paper, Bell had written a love letter to his dear Mabel on the back of an important bit of evidence that could be the key to him winning the lawsuit and keep he and his partners from being robbed of his invention and going bankrupt. Interestingly, both Lockhart and Coburn also are important players in the story 'Edison, the Man' but with Coburn being the more sympathetic and Lockhart the heavy. In this one Lockhart is usually more sympathetic and Coburn usually more cynical. Both have added beards and mustaches that change the appearance to a degree. This film, I believe, was released first. Yes, it is likely that Hollywood may have embellished the biography a bit and why not? It is an inspiring film that shows that there is much hunger, pain and even delays in being married when someone follows their dream to invent. But it also is often well worth it if the inventor sticks with it. Of course it's no guarantee all stories will turn out as well as this one and, ironically, in \"Edison, the Man\", Edison also has to defend his invention of electricity in court. Not sure if anyone else caught it, but I think they did make one goof in the film. Towards the end, the mother of Bell's wife (Spring Byington) knocks on the door of the room Bell and his wife are in. I believe Bell may ask who it is, but when the mother says it's mom, Bell's wife (deaf) says 'come in Mom'. Either a clever guess on her part, or an error revealing that she can really hear. Nothing had been said (that I could see...)to show if he was somehow able to help her hear or to give her a clue as to who it was at the door. To the commenter that was deaf and asked about Young's character Mabel being born deaf or becoming it: the father says it was from scarlet fever as a young girl and she was sent to England (I believe) to study how to read lips. Considering that it was 1875-6 that the story was set in and that the film was release only about 10 years into 'talkies', I thought it was quite a good performance on Young's part. An enjoyable movie. Even one that older kids can watch and learn about how what is now so taken for granted (not only telephones that can call across countries and around the world, but mobile phones, phones that can send photos and video as well as voice, etc.), but something that would have been quite impossible without someone to invent it. I hope the incentive to invent things that are beneficial to humanity is never taken away and maybe films like this one will help encourage people to keep trying and to aim for something that will benefit many people as Alexander Graham Bell did.",
+         "Story of Alexander Graham Bell, The (1939) *** (out of 4) Delightful tale of Alexander Graham Bell (Don Ameche) who while attempting to create the telephone falls in love with a mute girl (Loretta Young). The film really doesn't go into much detail about how the phone was created but instead it focuses on the pain that Bell went through while trying to break through. Ameche is downright brilliant in every shape of the word and his strong performance makes you forget several of the flaws throughout the film. Loretta Young is also very good as his wife and Henry Fonda adds nice support as the assistant. The film has some nice humor to go along with the drama and while I'm sure there are some facts made up, the film is still worth watching if you're a fan of the cast.",
+         "I always thought of him being an under rated actor. He certainly was versatile. He could sing, play comedy and drama, and if for no other reason, the academy finally realized his talents and gave him an oscar. It was long overdue. As for this film, he was very good and keep in mind Henry Fonda was playing a supporting role. As for Loretta Young..she was very lovely during those years, but her role had me squirming. As a deaf person, she spoke very well and the audience knows she's deaf because she makes it obvious as to her glaring at the actors mouths. I don't recall anyone mentioning if she was born deaf, or acquired it in later life.All in all, a satisfying film..thanks to Don's performance.",
+         "Irving Cummings does an excellent job directing the cast of assembled actors in this film. The story itself is taken from the memories of the daughter of Alex Bell and follows through with all the trials and tribulations of Bell himself. Beginning with the decision he gave up teaching the deaf and dumb to speak and through the obscure and menial existence of an inventor, up through the difficult task fighting for his invention in court. Don Ameche plays Alexander Graham Bell, who does so with such spirit and vitality, audiences will later realize why this actor is so synonymous with the character. The same is true with Henry Fonda who plays Thomas Watson who also is easily identified with this movie. Loretta Young, Charles Coburn and Gene Lockhart are magnificent and help insure this black and white becomes a solid standard in any collection of what we now understand as Classic films. ****",
+         "Yes it's only a very vague and reminiscent memory from the Summer of 1979 but how I recall best this brief clip in which on Wall Street the display ribbon outside of the building got stuck then when Bell offered to fix it one man told him come back at Christmastime.Then when his boss said \"Let him try.\" He then managed to fix it and then was thanked and Bell said to that other man \"Merry Christmas.\" Then My Mom,My Big Sister and I were Laughing. Yes thus showing how Bell like Edison had many talents beyond the one he was most famous for of which is of course the Telephone. Truly, Stephen \"Steve\"G.Baer a.k.a.\"Ste\" of Framingham,Ma.",
+         "This is a very entertaining biopic of the inventor of the telephone starring the great Don Ameche as the title character, Loretta Young, a very young Henry Fonda and Ameche's \"Heaven Can Wait\" co-star Charles Coburn, all of whom give excellent performances. Don Ameche is one of my favourite actors. Watching him in a film, whether he's in his 30s or in his 80s, is the cinematic equivalent of wrapping myself in a warm blanket on a cold night. He is like Gregory Peck and Christopher Reeve in that respect. It's fictionalised in parts - for instance since Bell only went to Canada (and later the US) in his 20s, he should really have a Scottish accent - but I think that it's fairly accurate for the most part. Bell's two daughters Elsie - who is depicted in the film as a baby - and Marian were still alive when it was released. I wonder if they saw it and what they thought of it. The film was so popular that \"the Ameche\" was a widely used slang term for the telephone throughout the 1940s."
+      ],
+      "genres": [
+         "Biography",
+         "Drama",
+         "History"
+      ],
+      "productionCompanies": [
+         "Cosmopolitan Productions",
+         "Twentieth Century Fox Film Corporation"
+      ],
+      "summaries": ["Alexander Graham Bell falls in love with deaf girl Mabel Hubbard while teaching the deaf and trying to invent means for telegraphing the human voice. She urges him to put off thoughts of marriage until his experiments are complete. He invents the telephone, marries and becomes rich and famous, though his happiness is threatened when a rival company sets out to ruin him."],
+      "budget": 1500000
+   },
+   "movielensId": 125399,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1939-04-04",
+      "dvdReleaseDate": null,
+      "directors": ["Irving Cummings"],
+      "runtime": 98,
+      "movieId": 125399,
+      "title": "The Story of Alexander Graham Bell",
+      "mpaa": "",
+      "actors": [
+         "Don Ameche",
+         "Loretta Young",
+         "Henry Fonda",
+         "Charles Coburn",
+         "Gene Lockhart",
+         "Spring Byington",
+         "Sally Blane",
+         "Polly Ann Young",
+         "Georgiana Young",
+         "Bobs Watson",
+         "Russell Hicks",
+         "Paul Stanton",
+         "Jonathan Hale",
+         "Harry Davenport",
+         "Beryl Mercer",
+         "Elizabeth Patterson",
+         "Charles Trowbridge",
+         "Jan Duggan",
+         "Claire Du Brey",
+         "Harry Tyler",
+         "Ralph Remley",
+         "Zeffie Tilbury",
+         "Jack Kelly",
+         "Esther Brodelet",
+         "Tyler Brooke",
+         "Nora Cecil",
+         "Davison Clark",
+         "Dick Elliott",
+         "Edmund Elton",
+         "Fern Emmett",
+         "Mary Field",
+         "George Guhl",
+         "Otto Hoffman",
+         "Warren Jackson",
+         "Frank Jaquet",
+         "Sheldon Jett",
+         "Edward Keane",
+         "Crauford Kent",
+         "Edward LeSaint",
+         "Jarold Clifford Lyons",
+         "Dave Morris",
+         "Ottola Nesmith",
+         "Ruth Robinson",
+         "John Graham Spacey",
+         "Landers Stevens",
+         "Charles Tannen",
+         "William Wagner",
+         "Eddy Waller",
+         "Jack Walsh",
+         "Lillian West",
+         "John Elliotte"
+      ],
+      "imdbMovieId": "0031981",
+      "originalTitle": "The Story of Alexander Graham Bell",
+      "genres": [
+         "Drama",
+         "History"
+      ],
+      "youtubeTrailerIds": ["NDN5_Dvmgs4"],
+      "plotSummary": "Alexander Graham Bell falls in love with deaf girl Mabel Hubbard while teaching the deaf and trying to invent means for telegraphing the human voice. She urges him to put off thoughts of marriage until his experiments are complete. He invents the telephone, marries and becomes rich and famous, though his happiness is threatened when a rival company sets out to ruin him.",
+      "tmdbMovieId": 67375,
+      "avgRating": 3,
+      "releaseYear": "1939",
+      "numRatings": 1,
+      "posterPath": "/9dJPFoWZ42rbXZdK7NF7RzjYZXl.jpg"
+   }
+}

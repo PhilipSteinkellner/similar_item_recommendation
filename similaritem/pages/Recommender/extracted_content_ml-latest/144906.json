@@ -1,0 +1,439 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "gunslinger",
+            "id": 75
+         },
+         {
+            "name": "mexican",
+            "id": 163127
+         }
+      ],
+      "imdb_id": "tt0053461",
+      "video": false,
+      "title": "The Young Land",
+      "recommendations": [],
+      "backdrop_path": "/o0Nu2cX6OeNooZ8TS1k8RmuFywr.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Sheriff Jim Ellison",
+               "gender": 2,
+               "credit_id": "52fe477d9251416c7509b475",
+               "name": "Patrick Wayne",
+               "profile_path": "/plZJV39nkOfo9kGEzmkvZKz19rU.jpg",
+               "id": 30560,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Elena de la Madrid",
+               "gender": 1,
+               "credit_id": "52fe477d9251416c7509b479",
+               "name": "Yvonne Craig",
+               "profile_path": "/ydzFD9tJ2ovBsqHxWteeMt78dwg.jpg",
+               "id": 16102,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Hatfield Carnes",
+               "gender": 2,
+               "credit_id": "52fe477d9251416c7509b47d",
+               "name": "Dennis Hopper",
+               "profile_path": "/rq1n4dbFRXkaBspAbNzmNgyFMp.jpg",
+               "id": 2778,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Judge Millard Isham",
+               "gender": 2,
+               "credit_id": "52fe477d9251416c7509b481",
+               "name": "Dan O'Herlihy",
+               "profile_path": "/e84845dAoAbBYEggRd08vMrFipO.jpg",
+               "id": 6836,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Don Roberto de la Madrid",
+               "gender": 2,
+               "credit_id": "52fe477d9251416c7509b485",
+               "name": "Roberto De La Madrid",
+               "profile_path": null,
+               "id": 83148,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Ben Stroud",
+               "gender": 2,
+               "credit_id": "552993409251410346001a8c",
+               "name": "Cliff Ketchum",
+               "profile_path": null,
+               "id": 117395,
+               "order": 5
+            },
+            {
+               "cast_id": 7,
+               "character": "Santiago",
+               "gender": 0,
+               "credit_id": "55299352c3a36859a4001c57",
+               "name": "Pedro Gonzalez Gonzalez",
+               "profile_path": "/3TL3Kz9jzmtJ3Zz3ARC999hBgqt.jpg",
+               "id": 4305,
+               "order": 6
+            },
+            {
+               "cast_id": 8,
+               "character": "Lee Hearn",
+               "gender": 2,
+               "credit_id": "5529936ac3a3683e520011f5",
+               "name": "Ken Curtis",
+               "profile_path": "/kHEdY7rK6nNkWj278e65iqCrXjO.jpg",
+               "id": 30554,
+               "order": 7
+            },
+            {
+               "cast_id": 10,
+               "character": "Jury Foreman",
+               "gender": 0,
+               "credit_id": "552993ae92514111d6002b99",
+               "name": "Cliff Lyons",
+               "profile_path": null,
+               "id": 190775,
+               "order": 9
+            },
+            {
+               "cast_id": 24,
+               "character": "Quinoga",
+               "gender": 2,
+               "credit_id": "57587e569251415fd200006e",
+               "name": "Carlos Romero",
+               "profile_path": null,
+               "id": 1212967,
+               "order": 10
+            },
+            {
+               "cast_id": 25,
+               "character": "Drifter (as Edward Juaregui)",
+               "gender": 0,
+               "credit_id": "594fd047c3a36832ad04c7eb",
+               "name": "Eddie Juaregui",
+               "profile_path": null,
+               "id": 1290984,
+               "order": 11
+            },
+            {
+               "cast_id": 26,
+               "character": "Charlie Higgins, Court Clerk",
+               "gender": 0,
+               "credit_id": "594fd053c3a36832bd04c8ac",
+               "name": "Tom Tiner",
+               "profile_path": null,
+               "id": 1838852,
+               "order": 12
+            },
+            {
+               "cast_id": 27,
+               "character": "Miguel",
+               "gender": 0,
+               "credit_id": "594fd062c3a36832ad04c80d",
+               "name": "Miguel Camacho",
+               "profile_path": null,
+               "id": 108283,
+               "order": 13
+            },
+            {
+               "cast_id": 28,
+               "character": "Vaquero",
+               "gender": 0,
+               "credit_id": "594fd073c3a36832bd04c8d4",
+               "name": "John Quijada",
+               "profile_path": null,
+               "id": 1838853,
+               "order": 14
+            },
+            {
+               "cast_id": 29,
+               "character": "Sully / Kelly (as Edward Sweeny)",
+               "gender": 0,
+               "credit_id": "594fd083c3a36832ca04c824",
+               "name": "Ed Sweeny",
+               "profile_path": null,
+               "id": 1838854,
+               "order": 15
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "56509fe1c3a3680712007682",
+               "name": "Ted Tetzlaff",
+               "profile_path": "/1jLw7iUJ5ywMfN8sjyaRwJPpFKq.jpg",
+               "id": 4346,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56509febc3a368070a007516",
+               "name": "Norman S. Hall",
+               "profile_path": null,
+               "id": 32179,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5650a0019251414af9007304",
+               "name": "Dimitri Tiomkin",
+               "profile_path": null,
+               "id": 4082,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5650a01d9251414b0a0077b5",
+               "name": "Patrick Ford",
+               "profile_path": null,
+               "id": 30550,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5650a028c3a368070a007523",
+               "name": "C.V. Whitney",
+               "profile_path": null,
+               "id": 30549,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5650a032c3a3680716007d4c",
+               "name": "Lowell J. Farrell",
+               "profile_path": null,
+               "id": 17907,
+               "department": "Production",
+               "job": "Associate Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5650a03b9251414af5007967",
+               "name": "Winton C. Hoch",
+               "profile_path": null,
+               "id": 22085,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5650a06f925141645f00398b",
+               "name": "Henry Sharp",
+               "profile_path": null,
+               "id": 29983,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5650a0789251414b0700794c",
+               "name": "Jack Okey",
+               "profile_path": null,
+               "id": 17763,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5650a07f9251414af500797d",
+               "name": "Victor A. Gangelin",
+               "profile_path": null,
+               "id": 16893,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5650a08892514164c0003690",
+               "name": "Web Overlander",
+               "profile_path": null,
+               "id": 1539027,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5650a08f9251414b01007952",
+               "name": "Myrl Stoltz",
+               "profile_path": null,
+               "id": 81385,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5650a09892514164c0003697",
+               "name": "William Forsythe",
+               "profile_path": "/3oaz2y7hIm3r3OyDKvQ1i2D8cLR.jpg",
+               "id": 4520,
+               "department": "Directing",
+               "job": "Assistant Director"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Western",
+            "id": 37
+         }
+      ],
+      "popularity": 0.453281,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 18447,
+      "vote_count": 2,
+      "budget": 0,
+      "overview": "An American gunslinger kills a Mexican man in California immediately after the Mexican-American war. The killer is arrested and put on trial for murder with the Hispanic population waiting to learn of American justice.",
+      "similar": [
+         9394,
+         11829,
+         16662,
+         9028,
+         8068,
+         429,
+         391,
+         335,
+         938,
+         353491,
+         9474,
+         20533,
+         79683,
+         288,
+         336,
+         63260,
+         44697,
+         2539,
+         12106,
+         30489
+      ],
+      "original_title": "The Young Land",
+      "runtime": 89,
+      "poster_path": "/zWAZgAk8HvHXhHPfMoFfOZ0n1hs.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "C.V. Whitney Pictures",
+         "id": 1322,
+         "origin_country": ""
+      }],
+      "release_date": "1959-05-01",
+      "vote_average": 7,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Ted Tetzlaff"],
+      "runtime": 89,
+      "synopsis": null,
+      "writers": [
+         "Norman S. Hall",
+         "John Reese"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0053461/",
+      "coverLink": null,
+      "actors": [
+         "Patrick Wayne",
+         "Yvonne Craig",
+         "Dennis Hopper"
+      ],
+      "reviews": [
+         "I got The Young Land in a one of those 20 western packages and was not expecting much out of it, especially since the lead was a very young Patrick Wayne. Let's face it, no sane film maker would have given him a lead in any movie if he weren't the Duke's son. I expected him to be perfectly awful, but he didn't live up to my worst expectations. He was what used to be termed charitably as \"adequate\". Well, almost so. But the movie had such good production values and such a good supporting cast for young Wayne, it was thoroughly entertaining. The best surprise in the works was a Dimitri Tiomkin score. Also excellent were the sets, the cinematography, the costumes, and the props. The down to earth dialog, the characterization, the dress, and the props all combined the give it an authentic look and feel, even though it was not actually authentic in detail. For instance, all the revolvers were correctly cap and ball models, but not the ones that were available in 1848. Amusingly, Wayne was shown loading his rifle in the muzzle, which was appropriate to the time period, but the rifle was obviously a Sharps, which was a breach-loader! Never mind-- E for effort in that department. Wayne's supporting cast was the movie's best asset. Denis Hopper did his usual disgusting, whining psycho. He was a one-note actor, but he did that well. Yvonne Craig as Wyane's Spanish girl friend was merely decorative, but she was very good at that, I should say! Dan O'Herlihy as the no-nonsense judge dominated the proceedings in more ways than one. Ken Curtis showed that he had possessed quite a range as an actor back in the days before he turned into Festus Haggen. But the actor who really stole the show was Cliff Ketchum, as the quiet but deadly marshal, the judge's right hand man. He was truly authentic. He reminded me of one of those old time rural Texas lawmen I used to know when I was a kid -- scrawny, dried-up, past middle age guys. They didn't look like much but could be tougher than any punk who might come along. The Young Land had good production values, a great score, a good story, colorful characters, and just the right mix of action and drama. This enjoyable oat-burner was a bargain at the 25 cents I paid for it. Which is more than I can say for some of the lasagna-burners keeping it company in that 20- western pack.",
+         "This is a restored version of this interesting feature, actually completed in 1957 by Buena Vista (Disney) but canned for two years until Columbia rescued and released it, supposedly based upon an historic incident, and there is a good deal to appreciate here, in particular excellent camerawork under the aegis of director Ted Tetzlaff, known essentially as a cinematographer. The scenario places the action in the newborn state of California in 1848, relating of a homicide trial with the defendant, played by Dennis Hopper, accused of murdering a local Mexican/Californian during an observed gun duel, after which he is arrested by the local unofficially appointed and unarmed sheriff, portrayed by 18 year Patrick Wayne. One of the better of a blessedly rare genre, The Didactic Western, YOUNG LAND's primary motif becomes a question as to whether the United States system of justice will serve up fair verdicts for non-English speaking citizens, with the efforts of an imported State judge (Dan O'Herlihy) to organize a proper trial inside a sheep barn being particularly engrossing as the judge is not accustomed to such rude courtroom surroundings. Thanks to a rather large budget, art director Jack Okey creates a Mexican village including a plaza, cantina, jail, and other buildings, and Tetzlaff, favouring long shots shows the players in full along with the location settings, all used to good advantage in glorious Technicolor through strong performances by Hopper, O'Herlihy, Ben Stroud, and Ken Curtis as a fugitive converted into a deputy.",
+         "Patrick Wayne had his first starring role in this handsomely produced film - a B western with many A western trappings, including a remarkable sound track - and, though only about eighteen years old when he did the movie, comports himself well. What's most impressive is the willingness of everyone involved to tackle a then controversial theme, for this is one of those mid to late 1950s westerns that dealt with racial prejudice during an era that saw the birth of the modern civil rights movement. Of course, civil rights dates back in our history, and so the incident in the film serves as an effective metaphor for what was going on at the time when this movie was made. A wild-eyed Billy the Kid type (Dennis Hopper, doing his umpteenth version of James Dean by way of Nick Adams, the rebel without a cause as a whining weakling) shoots down a Mexican citizen in the newly formed state of California. It's up to a very young lawman (Wayne) to hold him for trial. The Mexicans in town want proof that they are equal to Anglos now that California is American, and so want to see the prisoner hung - legally. Anglos, on the other hand, want the killer to go free. Though he's dating a beautiful Spanish girl (Yvonne Craig, with delightfully revealing décolletage), he's fair-minded and refuses to take sides - holding the prisoner for the judge who will decide. That character is played by the great Dan O'Herlihy, who brings this eccentric (and ultimately pivotal) character to vivid life. The result is something exceptional, and it's a shame this film is not better known.",
+         "This is an undeservedly forgotten film, I found it by chance as a DVD with a very low price. I did not expect much, but to my surprise it is quite a good western, also very interesting from the historical point of view. The story takes place when California became part of the United States, and it shows a potential conflict between English and Spanish speaking people, when Dennis Hopper, a real bad guy kills a Mexican. Pat Wayne is excellent as the young sheriff who does not wear a gun, also Ken Curtis as a tough guy who has problems with the law, but is willing to help Pat. Ben Stroud is the marshal and Dan O'Herlihy the judge. Yvonne Craig is cute as the young Mexican girl who falls for Wayne. There are the cowboys and the vaqueros waiting for the trial, the cowboys ready to turn Hopper loose, and the vaqueros waiting for him to be hanged. The story is very similar to \"Star in the Dust\", a 1956 western.",
+         "Usually a film held up in release is a sign that nothing good will come of it eventually being inflicted on the movie-going public. But in the case of The Young Land this is not a bad little western about an incident from the early days of California after we acquired it from Mexico. As it was a forcible acquisition the native Mexican population was anxious to see how they would do under American law and jurisprudence. The issue comes to a head when a murderous young punk played by Dennis Hopper uses his fast draw to gun down a Mexican vaquero who works for Roberto DeLa Madrid. Sheriff Patrick Wayne whose job usually is to jail drunks disarms Hopper and arrests him. Now the job is to try him and for that Wayne sends for a federal judge played by Dan O'Herlihy who is a model of judicial decorum. O'Herlihy is not terribly impressed with Wayne as a sheriff, but gradually they develop a certain respect for each other. And Wayne also grows some in the estimation of Yvonne Lime, daughter of Robert DeLa Madrid. The Young Land is a simple straightforward tale told thusly for the audience. It's got some thoughtful and sincere performances by its cast. Hopper stands out in his role. And it even got an Oscar nomination for the song Strange Are The Ways Of Love which lost to the far better known High Hopes. The story has worn well and The Young Land is as fresh as it was when it was sadly held up in release.",
+         "Immediately following the \"Treaty of Guadalupe Hidalgo\" in 1848 the territory known as California passed from Mexico to the United States of America. Since almost all of the people living there had been citizens of Mexico there was some apprehension among them concerning how they would now be treated. So when an American gunslinger named \"Hatfield Carnes\" (Dennis Hopper) kills a Hispanic man the residents of a sleepy village are extremely anxious about whether justice is served. To complicate matters this village has a very rowdy group of American outlaws who feel threatened at the thought of one of their own being tried in a court of law. On the flip side there are also vaqueros riding in from various parts of California to make sure that Hatfield pays for his crime. As a result the unofficial sheriff \"Jim Ellison\" (Patrick Wayne) is thrown into the middle of something that is rapidly becoming very ugly. At any rate, rather than reveal the rest of the story and risk spoiling the movie for those who haven't seen it I will just say that this film turned out to be a pleasant surprise. The acting was pretty good and I especially liked the performances of Yvonne Craig (as \"Elena de la Madrid\") along with the aforementioned Patrick Wayne. All in all, this movie wasn't too bad and I rate it as slightly above average.",
+         "\"The Window\" director Ted Tetzlaff's low-key but suspenseful \"The Young Land\" isn't your ordinary B-movie western. First, it takes place at a seminal moment during the shift in California history in the aftermath of the Mexican/American war as white Americans take over the land from Mexicans. Nevertheless, the Mexican ranchers still retain some power over things since they outnumber the Americans. The film opens in the small, dusty town of San Bartolo, California, in 1848, with a well-done showdown between a Mexican,Francisco Quiroga (Carlos Romero of \"They Came to Cordura\") and Hatfield Carnes (Ken Curtis of \"Gunsmoke\"),a racist, trigger-happy American gunslinger who has been itching for the opportunity to carve another notch on his revolver. No sooner has the dust settled than Sheriff Jim Ellison (Patrick Wayne of \"The Alamo\") arrests Carnes and holds him until Judge Millard Isham (Dan O'Herlihy of \"RoboCop\") arrives in town, with Deputy U.S. Marshal Ben Stroud (Cliff Ketchum of \"Pork Chop Hill\") at his side. The Norman S. Hall screenplay is literate, intelligent, and concerns civil rights on the frontier. The bulk of the film concerns the trial that occurs after the shooting, with the Mexican population observing how impartial American justice can be. Unfortunately, the clash of characters between fade-in and fadeout slackens. Nobody gives a bad performance. Dan O'Herlihy, Dennis Hopper, Ken Curtis, and Cliff Ketchum stand out in a rugged cast. Altogether, \"The Young Land\" qualifies as an above-average oater that addresses civil rights issue. Patrick Wayne is appropriately heroic throughout this oater. Dennis Hopper makes a superb villain. Above all, Ken Curtis has the best role, and he changes over time while the others remain essentially the same.",
+         "An American gunslinger kills a Mexican man in California immediately after the Mexican-American war. The killer is arrested and put on trial for murder with the Hispanic population waiting to learn of American justice. Sounds like Miami today. Heavy handed directing. No so good acting, even though Dennis Hopper is the main character. I never thought he was such a great actor. He prove it here. If anything, this movie serves to prove even in 1959 the left was churning out propaganda."
+      ],
+      "genres": [
+         "Adventure",
+         "Western"
+      ],
+      "productionCompanies": ["C.V. Whitney Pictures"],
+      "summaries": ["An American gunslinger kills a Mexican man in California immediately after the Mexican-American war. The killer is arrested and put on trial for murder with the Hispanic population waiting to learn of American justice."],
+      "budget": 0
+   },
+   "movielensId": 144906,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1959-05-01",
+      "dvdReleaseDate": null,
+      "directors": ["Ted Tetzlaff"],
+      "runtime": 89,
+      "movieId": 144906,
+      "title": "The Young Land",
+      "mpaa": "",
+      "actors": [
+         "Patrick Wayne",
+         "Yvonne Craig",
+         "Dennis Hopper",
+         "Dan O'Herlihy",
+         "Roberto De La Madrid",
+         "Cliff Ketchum",
+         "Pedro Gonzalez Gonzalez",
+         "Ken Curtis",
+         "Cliff Lyons",
+         "Carlos Romero",
+         "Eddie Juaregui",
+         "Tom Tiner",
+         "Miguel Camacho",
+         "John Quijada",
+         "Ed Sweeny"
+      ],
+      "imdbMovieId": "0053461",
+      "originalTitle": "The Young Land",
+      "genres": [
+         "Action",
+         "Drama",
+         "Western"
+      ],
+      "youtubeTrailerIds": [],
+      "plotSummary": "An American gunslinger kills a Mexican man in California immediately after the Mexican-American war. The killer is arrested and put on trial for murder with the Hispanic population waiting to learn of American justice.",
+      "tmdbMovieId": 18447,
+      "avgRating": 0,
+      "releaseYear": "1959",
+      "numRatings": 0,
+      "posterPath": "/zWAZgAk8HvHXhHPfMoFfOZ0n1hs.jpg"
+   }
+}

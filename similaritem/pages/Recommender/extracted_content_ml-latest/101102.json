@@ -1,0 +1,411 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "murder",
+            "id": 9826
+         },
+         {
+            "name": "barber",
+            "id": 189368
+         }
+      ],
+      "imdb_id": "tt0147582",
+      "video": false,
+      "title": "The Tale of Sweeney Todd",
+      "recommendations": [
+         42243,
+         69579,
+         48136,
+         84419,
+         33736,
+         85498,
+         64528
+      ],
+      "backdrop_path": null,
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 12,
+               "character": "Sweeney Todd",
+               "gender": 2,
+               "credit_id": "52fe4c5ec3a368484e1b4b5b",
+               "name": "Ben Kingsley",
+               "profile_path": "/2Eu3j31JDJek70ZXLY6xfeUaJoR.jpg",
+               "id": 2282,
+               "order": 0
+            },
+            {
+               "cast_id": 13,
+               "character": "Ben Carlyle",
+               "gender": 2,
+               "credit_id": "52fe4c5ec3a368484e1b4b5f",
+               "name": "Campbell Scott",
+               "profile_path": "/LpYIN2jh58sHaUFM2r3G4G0iE6.jpg",
+               "id": 55152,
+               "order": 1
+            },
+            {
+               "cast_id": 14,
+               "character": "Mrs. Lovett",
+               "gender": 1,
+               "credit_id": "52fe4c5ec3a368484e1b4b63",
+               "name": "Joanna Lumley",
+               "profile_path": "/2RFXqaFpeN9WmhfAyNaumz0rZUV.jpg",
+               "id": 34901,
+               "order": 2
+            },
+            {
+               "cast_id": 15,
+               "character": "Alice",
+               "gender": 0,
+               "credit_id": "52fe4c5ec3a368484e1b4b67",
+               "name": "Selina Boyack",
+               "profile_path": null,
+               "id": 1110403,
+               "order": 3
+            },
+            {
+               "cast_id": 16,
+               "character": "Tom",
+               "gender": 0,
+               "credit_id": "52fe4c5ec3a368484e1b4b6b",
+               "name": "David Wilmot",
+               "profile_path": "/qc5ABw9XRIx6LP2rElYIJb9JTgj.jpg",
+               "id": 73287,
+               "order": 4
+            },
+            {
+               "cast_id": 17,
+               "character": "Charlie",
+               "gender": 0,
+               "credit_id": "52fe4c5ec3a368484e1b4b6f",
+               "name": "Sean Flanagan",
+               "profile_path": null,
+               "id": 1041777,
+               "order": 5
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4c5ec3a368484e1b4b1b",
+               "name": "John Schlesinger",
+               "profile_path": "/vFCJ4RxvHysxeiwcFsiSGg7Tgre.jpg",
+               "id": 19304,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4c5ec3a368484e1b4b21",
+               "name": "Peter Buckman",
+               "profile_path": null,
+               "id": 162589,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4c5ec3a368484e1b4b27",
+               "name": "Peter Shaw",
+               "profile_path": null,
+               "id": 2942,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4c5ec3a368484e1b4b2d",
+               "name": "Gary Dartnall",
+               "profile_path": null,
+               "id": 949506,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4c5ec3a368484e1b4b33",
+               "name": "Monica Foster",
+               "profile_path": null,
+               "id": 1110402,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4c5ec3a368484e1b4b39",
+               "name": "Robert Halmi Jr.",
+               "profile_path": null,
+               "id": 69986,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4c5ec3a368484e1b4b3f",
+               "name": "Paul Lowin",
+               "profile_path": null,
+               "id": 29063,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4c5ec3a368484e1b4b45",
+               "name": "Morgan O'Sullivan",
+               "profile_path": null,
+               "id": 953724,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4c5ec3a368484e1b4b4b",
+               "name": "Peter Shaw",
+               "profile_path": null,
+               "id": 2942,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4c5ec3a368484e1b4b51",
+               "name": "Ted Swanson",
+               "profile_path": "/6lBGKKwdNHqnwMB3SNLcZuS5ofm.jpg",
+               "id": 955581,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a862a330e0a26401103af27",
+               "name": "Martin Fuhrer",
+               "profile_path": null,
+               "id": 47613,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a862a429251410b01029e39",
+               "name": "Richard Rodney Bennett",
+               "profile_path": null,
+               "id": 10724,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a862a4d0e0a26401103af49",
+               "name": "Mark Day",
+               "profile_path": null,
+               "id": 11345,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a862a54c3a368620702c11f",
+               "name": "Malcolm Thornton",
+               "profile_path": null,
+               "id": 961251,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a862a5dc3a368620702c125",
+               "name": "Steve Simmonds",
+               "profile_path": null,
+               "id": 989007,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a862a63c3a368633902f855",
+               "name": "Josie MacAvin",
+               "profile_path": null,
+               "id": 10644,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a862a6a9251410b4d02aea1",
+               "name": "Joan Bergin",
+               "profile_path": null,
+               "id": 567973,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a862a73c3a36862e102d1e6",
+               "name": "Noel Davis",
+               "profile_path": null,
+               "id": 153203,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a862a7ac3a368620702c153",
+               "name": "Lynn Kressel",
+               "profile_path": null,
+               "id": 23905,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a862a81c3a36863e702c29c",
+               "name": "Nuala Moiselle",
+               "profile_path": null,
+               "id": 958799,
+               "department": "Production",
+               "job": "Casting"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Horror",
+            "id": 27
+         },
+         {
+            "name": "Mystery",
+            "id": 9648
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 0.48075,
+      "production_countries": [{
+         "iso_3166_1": "GB",
+         "name": "United Kingdom"
+      }],
+      "id": 139244,
+      "vote_count": 4,
+      "budget": 0,
+      "overview": "The fictional tale of the murderous 19th century barber (Ben Kinglsey) who sold his kills to a neighboring butcher (Joanna Lumley) for her renowned meat pies. A young innocent (Selina Boyack) and the dashing inspector (Campbell Scott) who tries to solve the murders are also thrown into the mix.",
+      "similar": [
+         357096,
+         15069,
+         11423,
+         8090,
+         4771,
+         75780,
+         281,
+         948,
+         979,
+         807,
+         395834,
+         281957,
+         445954,
+         25376,
+         21484,
+         3134,
+         123109,
+         984,
+         18587,
+         26390
+      ],
+      "original_title": "The Tale of Sweeney Todd",
+      "runtime": 92,
+      "poster_path": "/nfTNBULLi4DRY8sTCI70Rlz67mo.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [],
+      "release_date": "1998-04-19",
+      "vote_average": 5.5,
+      "belongs_to_collection": null,
+      "tagline": "The Original Serial Killer!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Ireland",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["John Schlesinger"],
+      "runtime": 92,
+      "synopsis": null,
+      "writers": [
+         "Peter Buckman",
+         "Peter Shaw"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0147582/",
+      "coverLink": null,
+      "actors": ["Stars: Ben Kingsley, Campbell Scott, Joanna Lumley | See full cast and crew »"],
+      "reviews": [
+         "This TV-movie ranks as one of the two best versions of the classic tale of Sweeney Todd, the other one being - of course - the 1936 black-&-white movie starring Tod Slaughter.Ben Kingsley and Joanna Lumley are terrific - and their approach of the famous characters is in the true spirit of horror melodrama: a perilous \"exercice de style\" between horror and comedy. All the other actors are excellent, the sets are wonderful in their creepiness, a touch of gore is added to good measure, and Schlesinger's direction is faultless. This TV-movie could be shown in movie theaters, as a \"legitimate\" picture - in fact, it's well above most of the current movies... Incidentally, this version is an Irish-British coproduction, certainly not \"an American production\" as wrongly mentioned in some posts.",
+         "By all accounts this was close to the mark, having read a few books on the subject - this adaptation seemed authentic, ben kingsley's performance was delightful - with joanna lumley as his foil - WOW,campbell scott providing the young deterrent on sweeney's tail, for a TV adaptation this was stellar work !! costumes and sets in which ye olde London were brought to life, making fleet street seem like it was someplace we all knew - i mean you could just imagine jack the ripper popping in for a special royal shave (ha ha )and gore - all top notch, not at all bad for a sky home premier. I'm just about to watch the BBC Ray winstone version, look forward to anybody's thoughts !!",
+         "I do not know if the story of Sweeney Todd is based upon fact, but it sure makes for an interesting blend of horror and comedy. One of the criticisms I have heard of the new Johnny Depp version is that you never really know why he becomes a mass murderer. Well, there is no mystery here and, if you take the time to find this film, you will know everything. John Schlesinger, who gave us Cold Comfort Farm, Sunday Bloody Sunday, Darling and Oscar winner Midnight Cowboy, does a great job of keeping us interested in the case of the missing businessman. Campbell Scott was riveting as the American come to London to find the property of his employers; property in the possession of said businessman when he disappeared. You will be fascinated in the streets of London, the costuming, the atmosphere, and you will see why someone could lose their heads for a few rings. Ben Kingsley is fabulous as the serial killer, and blends humor and horror into a role that has been described as one of the better versions of a half dozen that have been done. I think it will be hard to beat this one, but I am looking forward to examining the rest. Excellent support by Joanna Lumley (\"Absolutely Fabulous\") and Selina Boyack in her first film.",
+         "I started watching this one with no hopes that it'd be any good but, for my surprise, I enjoyed this classical story until the end. Acclaimed director John Schlesinger and Campbell Scott had worked together before in \"The Innocent\". Campbell Scott, by the way, defines his character in very positive way and he does look 'cool'. The costumes and art direction are excellent, especially since this is a TV movie (one of the best TV movies I've ever seen, because I don't usually watch them and, when I do, I usually hate it). Plus there's beautiful young English actress, Selina Boyack, she is one of the best things about this movie. I'd say she might turn out to be famous some time soon. And this movie is better than at least 70% or 80% of the movies we see around. If you get the chance, don't miss this one, I promise you that you'll like it.",
+         "This is an excellent film with a good range of actors and actresses. Overall an excellent film that i will buy when it comes out on DVD, whenever that is. I recommend that anybody that enjoyes Joanna Lumley to watch this film next time it is on television.",
+         "This is a mildly diverting take on the Sweeney Todd tale with good performances by Ben Kingsley in the title role, and Joanna Lumley as an enterprising Mrs. Lovett with rotten teeth. Those of you who have seen the recent Depp movie and/or the Broadway version will find that the back story has been changed completely. Not wanting to give anything away, I will only say that the Swiftian social satire element of the original Sondheim version has pretty much fallen by the wayside. Users here comment on the convincing 19th century atmosphere, but judging by the costumes and wigs, the setting is clearly late 18th century London and not 19th century Dublin although the movie was filmed there. There is even a small reference to the French Revolution so I would place it in about the 1790s. Having said that, costume, street scenes and general filth look very true to the late 1700s. Unfortunately, the anemic musical score is not a good one and it actually detracts from the horror and ghoulishness of the film. On the other hand, the film is a good deal less gory than the 2007 version which may make it more appealing to the squeamish.",
+         "Deranged wig-maker/barber/dentist/doctor (whew!) Sweeney Todd (Ben Kingsley) kills rich Londoners and keeps an abused, mute, pale orphan around as a slave. A hideous-looking, rotten-toothed Joanna Lumley (from the \"Absolutely Fabulous\" TV series) is his lover and partner in crime, who uses the dead bodies in her famous meat pies. A very bland Campbell Scott is the \"American gentleman\" trying to clear up a debt and instead stumbles onto the operation. It's all a grim, unpleasant, talky new version of the famous tale that could have used some more comedy, but just barely skims by on some good performances, gore and, especially, excellent costumes and sets that accurately capture rich 19th Century London atmosphere (although it was actually filmed in Dublin, Ireland). The original movie version (SWEENEY TODD, THE DEMON BARBER OF FLEET STREET, starring Tod Slaughter) of George Dibdin-Pitt's stage play came out in 1936 and was followed by the popular Stephen Sondheim musical and many inferior Z movie copies from the likes of Herschell Gordon Lewis and Andy Milligan. This one was backed by the Showtime cable network and there's nothing much to gain from watching it.",
+         "Another great rendition of Sweeney Todd. It's great to see stories that can be retold and remain interesting. This throws out the idea of Sweeney as a victim, or his looking for revenge. This is much more in keeping with the original tail. A man that murders for greed. The best part about this film is that is doesn't try to justify the actions or make us sympathise with Todd. He's a terrifying and grotesque creature. Cold, calculating and very deceptive. The investigation narrative is just as interesting as Todd's deeds. I'd still put it behind Winstone's Sweeney Todd, due to the sheer power of that production, but it stands above and shits upon Burton's misfire.",
+         "A series of mysterious disappearances leads an American inspector in England to a charismatic barber and his helper who bake his victims into pies for the locals and try to stop their deadly game before it's too late. A somewhat decent effort of the story, which manages some good stuff here and there to make it interesting at least. The fact that there's several interesting and fairly entertaining mysteries built up that cross pollinate each other gives this one a pretty quick pace, with the mysterious murders leading him down one path, while the fact that he needs information from a previous victim to carry out his task which intersects with the vanished helpers from their shops, and overall this whole segment is quite good. There's even a grand finale that includes the Gothic trope of burning-down-the-location as well, as several of the preparation of the victim scenes get quite bloody, but this one does have some flaws. With several romantic subplots present, it doesn't offer up a lot of time on horror-specific subplots so this one doesn't really get up there in dealing out a body count, and overall this one has more of a period/drama feel rather than an out-and-out horror film so it misses a lot of chances to deliver some gruesome shocks. These lower it enough, but it's still pretty enjoyable. Rated R: Language, Graphic Violence and Brief Nudity.",
+         "Musicals made for stage are notoriously difficult to adapt for the big screen. Of course this hasn't stopped studios from doing it, but many times it has been successful. 'Cabaret,' 'Chicago,' and 'The Rocky Horror Picture' have all enjoyed great success on the silver screen because they were made by the right people at the right time. But what if someone were to take a popular musical, take out the song and dance numbers, and turn the story into a regular feature film? Such is the case with this British/Irish production made for Showtime and based on one of the most beloved of stage musicals. You'd think a top notch cast, Academy Award Winning director, and a classic story combined could produce a hit. The good news is that for the most part it works. Pros: Spirited performances by a great cast. Excellent score. Production design that really captures a cold, dreary London neighborhood in the 19th Century. Moves at a good pace most of the time. Appropriately gruesome. Kudos to writers Peter Shaw and Peter Buckman for successfully turning the musical into a murder mystery without song. Late director John Schlesinger does a fine job of making this look like a feature film. Cons: Despite a few changes, there isn't much to really distinguish this from other versions. Some subplots and relationships that could have used more fleshing out. Pace is slow at times. Rushed, anticlimactic finale. Final thoughts: The 2007 Tim Burton version this ain't, but it's hardly one to forget. Sure in lesser hands this could have a bland and unmemorable effort, but with this team behind it the film is well above average. Hard to find these days, but if you're a fan of both the story and any of the cast then seek it out. My rating: 3.5/5"
+      ],
+      "genres": [
+         "Crime",
+         "Drama",
+         "Horror",
+         "Thriller"
+      ],
+      "productionCompanies": [],
+      "summaries": ["The fictional tale of the murderous 19th century barber (Ben Kinglsey) who sold his kills to a neighboring butcher (Joanna Lumley) for her renowned meat pies. A young innocent (Selina Boyack) and the dashing inspector (Campbell Scott) who tries to solve the murders are also thrown into the mix."],
+      "budget": 0
+   },
+   "movielensId": 101102,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1998-04-19",
+      "dvdReleaseDate": null,
+      "directors": ["John Schlesinger"],
+      "runtime": 92,
+      "movieId": 101102,
+      "title": "The Tale of Sweeney Todd",
+      "mpaa": "",
+      "actors": [
+         "Ben Kingsley",
+         "Campbell Scott",
+         "Joanna Lumley",
+         "Selina Boyack",
+         "David Wilmot",
+         "Sean Flanagan"
+      ],
+      "imdbMovieId": "0147582",
+      "originalTitle": "The Tale of Sweeney Todd",
+      "genres": [
+         "Drama",
+         "Horror",
+         "Mystery",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": [],
+      "plotSummary": "The fictional tale of the murderous 19th century barber (Ben Kinglsey) who sold his kills to a neighboring butcher (Joanna Lumley) for her renowned meat pies. A young innocent (Selina Boyack) and the dashing inspector (Campbell Scott) who tries to solve the murders are also thrown into the mix.",
+      "tmdbMovieId": 139244,
+      "avgRating": 3.75,
+      "releaseYear": "1998",
+      "numRatings": 2,
+      "posterPath": "/nfTNBULLi4DRY8sTCI70Rlz67mo.jpg"
+   }
+}

@@ -1,0 +1,555 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "based on novel",
+            "id": 818
+         },
+         {
+            "name": "wolf",
+            "id": 1994
+         },
+         {
+            "name": "transformation",
+            "id": 4375
+         },
+         {
+            "name": "investigation",
+            "id": 5340
+         },
+         {
+            "name": "new york city",
+            "id": 14512
+         },
+         {
+            "name": "murder investigation",
+            "id": 161982
+         }
+      ],
+      "imdb_id": "tt0083336",
+      "video": false,
+      "title": "Wolfen",
+      "recommendations": [
+         3076,
+         28498,
+         11298,
+         37936,
+         40095,
+         27726,
+         28763,
+         62761,
+         26680,
+         22167,
+         30315,
+         38939,
+         18196,
+         33521,
+         33518,
+         11503,
+         24124,
+         27390,
+         27381,
+         11940
+      ],
+      "backdrop_path": "/dtqOCl8HahfX4iL9qa1bXY4oL4b.jpg",
+      "revenue": 10626725,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Dewey Wilson",
+               "gender": 0,
+               "credit_id": "52fe43a99251416c750193ef",
+               "name": "Albert Finney",
+               "profile_path": "/2BTzSQUa3RXPqeeNjbJqnyIBePE.jpg",
+               "id": 3926,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Rebecca Neff",
+               "gender": 1,
+               "credit_id": "52fe43a99251416c750193f3",
+               "name": "Diane Venora",
+               "profile_path": "/3k7w5Y7gTAxN1JML7jhN8F8rVrS.jpg",
+               "id": 6200,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Eddie Holt",
+               "gender": 2,
+               "credit_id": "52fe43a99251416c750193f7",
+               "name": "Edward James Olmos",
+               "profile_path": "/i7zKqsFqL5L1HPmAMeSA1xZzlD5.jpg",
+               "id": 587,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Whittington",
+               "gender": 2,
+               "credit_id": "52fe43a99251416c750193fb",
+               "name": "Gregory Hines",
+               "profile_path": "/rvvQWFQGeGR14WFVNe0Qg1J7uVY.jpg",
+               "id": 66804,
+               "order": 3
+            },
+            {
+               "cast_id": 18,
+               "character": "Ferguson",
+               "gender": 2,
+               "credit_id": "52fe43aa9251416c75019447",
+               "name": "Tom Noonan",
+               "profile_path": "/cpINV4Q8IeVgSLyKz9ldzzAGr5n.jpg",
+               "id": 119232,
+               "order": 4
+            },
+            {
+               "cast_id": 19,
+               "character": "Warren",
+               "gender": 2,
+               "credit_id": "52fe43aa9251416c7501944b",
+               "name": "Dick O'Neill",
+               "profile_path": "/t4yEaFexDrQvLqrpNW1FaAuBtq3.jpg",
+               "id": 14835,
+               "order": 5
+            },
+            {
+               "cast_id": 20,
+               "character": "Old Indian",
+               "gender": 0,
+               "credit_id": "52fe43aa9251416c7501944f",
+               "name": "Dehl Berti",
+               "profile_path": "/suNpiN2qCHHnpwxYn3pZHBtclZt.jpg",
+               "id": 106769,
+               "order": 6
+            },
+            {
+               "cast_id": 21,
+               "character": "Ross",
+               "gender": 2,
+               "credit_id": "52fe43aa9251416c75019453",
+               "name": "Peter Michael Goetz",
+               "profile_path": "/a2hLcCidETgwlVyQnYy4kXVKUcn.jpg",
+               "id": 20906,
+               "order": 7
+            },
+            {
+               "cast_id": 35,
+               "character": "Mayor",
+               "gender": 0,
+               "credit_id": "59cf48b29251412ef3015621",
+               "name": "Sam Gray",
+               "profile_path": null,
+               "id": 170903,
+               "order": 8
+            },
+            {
+               "cast_id": 28,
+               "character": "Morgue attendant",
+               "gender": 2,
+               "credit_id": "59b074b5c3a368244301e6a4",
+               "name": "Reginald VelJohnson",
+               "profile_path": "/dZtIIOI0PpD3dmTVfUOWiQzOY28.jpg",
+               "id": 7672,
+               "order": 9
+            },
+            {
+               "cast_id": 29,
+               "character": "Baldy",
+               "gender": 2,
+               "credit_id": "59b074c692514107af0765e3",
+               "name": "James Tolkan",
+               "profile_path": "/mB9vHaDMzy5Z5pPWOliA6MJ3gTq.jpg",
+               "id": 1072,
+               "order": 10
+            },
+            {
+               "cast_id": 36,
+               "character": "Lawyer",
+               "gender": 2,
+               "credit_id": "59cf48c89251412ef3015663",
+               "name": "Donald Symington",
+               "profile_path": null,
+               "id": 10560,
+               "order": 11
+            },
+            {
+               "cast_id": 34,
+               "character": "Scola",
+               "gender": 2,
+               "credit_id": "59cf48a79251412f25014fe2",
+               "name": "Frank Adonis",
+               "profile_path": "/gvFFIid37pDICRPlEFYOQdH9mWc.jpg",
+               "id": 4692,
+               "order": 12
+            },
+            {
+               "cast_id": 33,
+               "character": "Detective",
+               "gender": 2,
+               "credit_id": "59cf489f9251412ef30155f8",
+               "name": "Raymond Serra",
+               "profile_path": "/s8tJW3NIa7LeKyQi3JYo7KX8Fcs.jpg",
+               "id": 191557,
+               "order": 13
+            },
+            {
+               "cast_id": 32,
+               "character": "Fat Jogger in Park",
+               "gender": 2,
+               "credit_id": "59cf48969251412f37015209",
+               "name": "Roy Brocksmith",
+               "profile_path": "/2mLWMlroPa18WsH1QZtiSBJbhYo.jpg",
+               "id": 12888,
+               "order": 14
+            },
+            {
+               "cast_id": 30,
+               "character": "ESS Operator",
+               "gender": 1,
+               "credit_id": "59cf486fc3a3681e17014a6b",
+               "name": "Caitlin O'Heaney",
+               "profile_path": "/itSgFWH4QJ8I5P53A70tNjSkQVn.jpg",
+               "id": 165934,
+               "order": 15
+            },
+            {
+               "cast_id": 31,
+               "character": "ESS (voice)",
+               "gender": 2,
+               "credit_id": "59cf487ac3a3681eb1014851",
+               "name": "Mel Welles",
+               "profile_path": "/eM5XBu8Ce24dU51vvONXaRa5Ayd.jpg",
+               "id": 30647,
+               "order": 16
+            },
+            {
+               "cast_id": 37,
+               "character": "Drunken bar owner",
+               "gender": 2,
+               "credit_id": "5a329332c3a368148f016985",
+               "name": "Tom Waits",
+               "profile_path": "/3XXe20xrdgUaOchQt5YOQqqSH6u.jpg",
+               "id": 2887,
+               "order": 17
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe43a99251416c75019401",
+               "name": "Michael Wadleigh",
+               "profile_path": "/ihLtYHAHS5197jTNEo4OqBzYtdg.jpg",
+               "id": 57885,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43a99251416c75019407",
+               "name": "David Eyre",
+               "profile_path": null,
+               "id": 66805,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43a99251416c7501940d",
+               "name": "Whitley Strieber",
+               "profile_path": null,
+               "id": 66806,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43a99251416c75019413",
+               "name": "Michael Wadleigh",
+               "profile_path": "/ihLtYHAHS5197jTNEo4OqBzYtdg.jpg",
+               "id": 57885,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43a99251416c7501941f",
+               "name": "Alan King",
+               "profile_path": "/gYtn6UNocRfxISIAKmUfRxl7zOr.jpg",
+               "id": 7169,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43aa9251416c75019425",
+               "name": "James Horner",
+               "profile_path": "/oLOtXxXsYk8X4qq0ud4xVypXudi.jpg",
+               "id": 1729,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43aa9251416c7501942b",
+               "name": "Marshall M. Borden",
+               "profile_path": null,
+               "id": 66808,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43aa9251416c75019431",
+               "name": "Martin J. Bram",
+               "profile_path": null,
+               "id": 66809,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43aa9251416c75019437",
+               "name": "Dennis Dolan",
+               "profile_path": null,
+               "id": 66810,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43aa9251416c7501943d",
+               "name": "Chris Lebenzon",
+               "profile_path": "/eA6NqE5wdIM0LT3g1ihanv5vUM7.jpg",
+               "id": 541,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43aa9251416c75019443",
+               "name": "Gerry Fisher",
+               "profile_path": null,
+               "id": 40052,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "569f64b592514137d6001ba8",
+               "name": "Rupert Hitzig",
+               "profile_path": null,
+               "id": 66807,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569f64c892514137d6001bad",
+               "name": "Paul Sylbert",
+               "profile_path": null,
+               "id": 19045,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "569f64d89251415e67009574",
+               "name": "John Boxer",
+               "profile_path": null,
+               "id": 541714,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 1,
+               "credit_id": "569f64ed9251410958005a28",
+               "name": "Cis Corman",
+               "profile_path": null,
+               "id": 3662,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569f6504c3a36858c80090a7",
+               "name": "Sidney Gecker",
+               "profile_path": null,
+               "id": 1458056,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "569f65189251415e67009581",
+               "name": "Dennis Maitland",
+               "profile_path": null,
+               "id": 109246,
+               "department": "Sound",
+               "job": "Sound mixer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Horror",
+            "id": 27
+         }
+      ],
+      "popularity": 4.890241,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 10725,
+      "vote_count": 69,
+      "budget": 17000000,
+      "overview": "A New York cop investigates a series of brutal deaths that resemble animal attacks.",
+      "similar": [
+         75780,
+         4771,
+         357096,
+         6973,
+         11423,
+         2275,
+         7007,
+         769,
+         169917,
+         395990,
+         392044,
+         10559,
+         1572,
+         193893,
+         1939,
+         30159,
+         445954,
+         2142,
+         1923,
+         25376
+      ],
+      "original_title": "Wolfen",
+      "runtime": 115,
+      "poster_path": "/ffFW3eXfWsBpVkFddSSnU6XX2Gw.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Orion Pictures Corporation",
+            "id": 14150,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "King-Hitzig Productions",
+            "id": 19048,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1981-07-24",
+      "vote_average": 6,
+      "belongs_to_collection": null,
+      "tagline": "They can hear a cloud pass overhead, the rhythm of your blood. They can track you by yesterday's shadow. They can tear the scream from your throat.",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Michael Wadleigh"],
+      "runtime": 115,
+      "synopsis": "In the opening scenes, a high-profiler magnate named Christopher Van der Veer (Max Brown) partakes in a ground-breaking cerimony for a new building to be built in the South Bronx. That evening, Van der Veer, his cocaine-snorting wife, and bodyguard/limo driver drive through Manhattan to the Battery Park waterfront. While the three of them take strolls around the deserted park, they are stalked by a number of mysterious creatures (unseen except for point-of-view shots set a few feet off the ground and in a strange thermal-image color pattern). They are all killed one by one in rapid sucession by the unseen creatures. The next morning, NYPD Captain Dewey Wilson (Albert Finney) is assigned to solve the bizarre, violent murders. Executive Security, Van der Veer's client, prefers to blame the murders on terrorists, but knowing that the victim's bodyguard was a 300 pound Haitian with voodoo ties makes Wilson skeptical. At the crime scene, Wilson meets with Warren, his superior. With pressure to solve the case coming down from both the commissioner and mayor, Warren partners Wilson with criminal psychologist Rebecca Neff (Diane Venora). Meanwhile a homeless man goes exploring an abandoned church in Charlotte Street, South Bronx, which was going to be demolished by Van der Veer along with the rest of the ruined buildings in the area, in order to build new apartment complexes, and is suddenly attacked and torn to pieces by another unseen monstrous being. Soon after that and while investigating the abandoned church, sounds of suffering lure Neff upstairs. Wilson follows her but doesn't hear the suffering, but once Neff is separated from him, he hears a wolf's howl. He goes up after Neff and drags her forcibly to safety. Soon after, a bridge worker is murdered by another unseen attacker. NY coroner Whittington (Gregory Hines) discovers non-human hairs on several mutilation victims and consults zoologist Ferguson (Tom Noonan). Ferguson immediately identifies the hairs as belonging to Canis lupus, also explaining that there are 40 existing subspecies and these particular hairs don't belong to any of them. Ferguson foreshadows his own death when he asks incredulously \"What are you two trying to pin on the big bad (wolf)?\". He compares wolves to Indians, giving Wilson his first real inspiration. Wilson finds Eddie Holt (Edward James Olmos), a militant Native activist he arrested some years ago for killing a conservative Indian or \"apple\" (a Native who is \"red\" -a true Native- on the outside but white on the inside). He claims he's a shapeshifter, which implicates him as the killer, and even goes so far as to threaten Wilson with carefully constructed dialogue. Feeling that the conversation is circumstantial and potentially dangerous, Wilson opts to let well alone and tail Eddie later that night on his own terms. While following animal clues Ferguson goes to Central Park, where the actual killer ambushes and kills him under a tunnel. Oblivious, Wilson spends the remainder of his night with Neff. In the following morning, a man in a jogging suit rides Ferguson's motorcycle right past Wilson as he leaves Rebecca's apartment. The man crashes, illustrating that he stole the motorcycle. Back at the police station, Whittington is the second person to foreshadow his own death when he says \"If violence comes, I'm ready. I'm a dead shot, and a karate expert\". He and Wilson stakeout the Bronx church armed with sniper rifles and sound equipment and after he almost blows his ears out by opening a beer can near the sound mic, an animal who appears to be a wolf ambushes and kills him. Meanwhile, Executive Security apprehends a \"Götterdämmerung\" terrorist cell in connection with the Van der Veer slaying. A traumatized Wilson escapes the church and finds himself at the Wigwam Bar, where Eddie Holt and his friends are drinking. The group of Natives reveal the true nature of the killer as Wolfen, the wolf spirit. They explain to Wilson that the Wolfen have extraordinary abilities and that they \"might be gods\". Eddie explains to Wilson that he can't fight the Wolfen, stating: \"You don't have the eyes of the hunter, you have the eyes of the dead\". The leader of the group, Old Indian, informs Wilson that Wolfen kills to protect its hunting ground. Wilson resolves to end his involvement in the Van der Veer case. In an alleyway, Neff, Wilson, and Warren are cornered by the wolfen superwolf pack. Warren tries to flee but is killed when a pack member severs his hand and then decapitates him in his car. Wilson and Neff flee and blow up Warren's car with a pack member in it. When he and Neff are cornered in Van der Veer's penthouse by the Wolfen pack led by its white alpha, Wilson smashes the model of the construction project that threatened their hunting ground, to communicate to them that the threat no longer exists and he and Neff are not enemies. The Wolfen consent, and just as the police barge in, vanish. Wilson claims the attack was made by terrorists. The story ends on the assumption that Götterdämmerung takes the fall for the serial murders. Wilson's voice is heard, explaining that the Wolfen will continue to prey on weak and isolated members of the human herd, as humans do to each other on social and economic scale. The Wolfen will continue to be invisible to humanity because of their nature; not that of spirits, but superior predators, who are higher on The Food Chain than men.",
+      "writers": [
+         "Whitley Strieber",
+         "David Eyre"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0083336/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTkwNDc4NDQ3Nl5BMl5BanBnXkFtZTYwNTM0MjI5._V1_SY317_CR4,0,214,317_AL_.jpg",
+      "actors": ["Stars: Albert Finney, Diane Venora, Edward James Olmos | See full cast and crew »"],
+      "reviews": [
+         "An almost forgotten gem. I really liked the eery atmosphere in this one; great actors, great music - and really outstanding cinematography. I've never seen New York portrayed as grim and terrifying - and yet as beautiful - as in this film. I wouldn't call this a werewolf movie and it's certainly not your usual horror film either; although it does have many characteristics of a genre movie (even some pre-Predator style distorted camera effects), it is very much its own beast. There are no fancy transformations, no groundbreaking visual effects from the likes of Rick Baker, Rob Bottin or Stan Winston - but there are superb visuals of another kind. And there's tension, suspense and a fascinating story that gripped me right from the start. There are also some very graphic, gory moments, but they are few and far between. Director Michael Wadleigh has an interesting background: he was the dude who made history in 1969 by making Woodstock happen. He took Strieber's werewolf novel and brought something personal to it. Call it a mythical eco-horror thriller if you will, it's certainly something special. 7 out of 10 from me. Favorite films: http://www.IMDb.com/list/mkjOKvqlSBs/ Lesser-known Masterpieces: http://www.imdb.com/list/ls070242495/ Fun B-flicks/low budget films: http://www.imdb.com/list/YV1Lxq7WLkU/ Favorite TV-Shows reviewed: http://www.imdb.com/list/ls075552387/",
+         "\"They can hear a cloud pass overhead, the rhythm of your blood. They can track you by yesterday's shadow. And they can tear the scream from your throat. There is no defense.\" I love it when you can tell a movie is gonna be great just from it's tagline. Wolfen is one of the most thoroughly underrated films of the 80's if not film history. From moment one with it's dreamy, monochromatic, animalistic tracking shots Wolfen sets itself up as a different kind of werewolf film. With Wolfen you get three movies in one a Dirty Harry-esquire cop investigation movie with Albert Finney and Gregory Harrison turning in fine performances as the ones investigating. A graphically intense horror film, with a menacingly sadistic, creepily cool performance from Edward James Olmos and of course the barely there \"Wolfen\" creatures. Lastly you get a statement on environmental issues and the hierarchy of society. Tom Noonan in his pre-Manhunter existence gives the movie a touch of class as an animal lover who wants to study the \"Wolfen.\" If you're expecting a comedic werewolf movie such as \"The Howling\" or \"An American Werewolf in London\" this film isn't for you. But if you want a great suspense mystery, with dazzling visuals and one of the greatest endings in history check Wolfen out.",
+         "Wolfen is something different to the many monster films floating around. If you watch this film expecting to see the usual mix of no brain slash and gore then you will perhaps be disappointed or as was in my case pleasantly surprised. Reading from other comments on this film it is easy to see that it has been widely misunderstood. Wolfen is not a Werewolf/Horror film although at times it does attempt to be so, which is where the confusion arises for the viewer. On one side we have the Wolfen portrayed as highly evolved beings merely protecting their environment yet on the other side they shown to be remorseless killers as and where the plot dictates. However do not let this paradox put you off a film that is both scary and genuinely thought provoking. The scenes set in and around areas of urban decay, particularly that of the church, are chilling and suspenseful. Whilst the Wolfen POV camera work is groundbreaking and still effective by today's standards. Wolfen on the whole is a well made film, excellent use of music (or lack of it)to generate suspense and quality actors and acting help bring you into the story behind the Wolfen. For those that wish to critisise the beach scene when Edward James Olmos dances naked across the sand as demeaning to Indians, well I think they're rather missing the point. Surely the film is trying to show the prejudices of Albert Finney's character rather than belittle any Indian custom. In summary a film with a message that chooses to show intelligence and reason in its horrors.",
+         "I watched Wolfen the other night and was reminded of when i saw it in the theater. It ,at that point, had been the most terrifying film I had seen. This is not a werewolf movie nor a monster movie and barely a horror film. It is a good detective story with slight fantasy elements. I thought Albert Finney was good and Gregory Hines was great. I am not into werewolf films at all so this ended up working for me. But the scenes in the bad areas of NY were quite scary and in the church truly frightening. Just look for the eyes!!!!",
+         "I won't spend time arguing about the merits of whether \"Wolfen\" is going to be an \"effective\" or \"gee-whiz\" entertainment for you and the kids next Saturday night. What I will argue is how the craftsmanship that went into this film far exceeds the multitudes of celluloid treats that have been shot in the last decade. Director Michael Wadleigh truly understood how to embrace the two sensory communicators that movies deliver to an audience, that of sight and sound, and wove a tapestry of motifs that help elevate a mere \"super-wolves-preying-on-humans-in-NY\" tale into something that \"feels\" like it's so much more. So many contemporary directors of popular features, notably those who churn out horror flicks, frame scenes and trim shots down to movements and moments that simply, and I mean, VERY simply, propel the plot points. Period. Sure, there's quirky camera angles out windows, across streets, and up drain pipes, as well as amped up door slams and sudden weird little-girl yowls, to give it a \"cool,\" slick MTV style feature film look. But it's all to service the plot point at that very moment in the narrative. If it's a piece of business that will be used again in the film, it will be hamhandedly shoved in our faces at first so we definitely WON'T forget it a half hour later. Very little thought is put into motifs -- things that aren't overt, but instead are picked up by the subconscious. So, what were some of the things Wadleigh did? Take a look at the opening 10 minutes of this film. Sure, Christopher and Pauline Van De Veer get snuffed in Battery Park by mysterious wolfen. Dewey Wilson copters in from Staten Island, back on a case after a long absence. And at the morgue, no residual traces of a weapon are found on the bodies. All routine, yet key plot points. Now look and hear what Wadleigh spent time doing with his film-making craft to give the movie subtextual resonance. Pauline Van De Veer cradles her pearl necklace in her mouth while riding in her limo. Dewey arrives at Battery Park munching on donuts. He stands at the morgue, eating a cookie, whole. A few moments later, Dewey is at his desk, smoking a big cigar. Why did Wadleigh choose to have these very specific scenes of business in the movie? To layer his film with motifs of \"the mouth.\" The wolfen survive and attack with their mouths, and the humans subtly and continuously remind us of this, whether it's the sloppy sounds of Finney and Venora's passionate kissing or Hine's potato chip crescendo-crunches while surveilling the wolfen. This film is packed with linking symbolism and subtext like this that aren't overt, but give it that extra weight, which makes it more than just an average horror flick. The wind chimes in Battery Park jingle exactly like the mirrored vertical shades in the Van De Veer penthouse, and with both of Dewey's visits to that domicile, we're cued audibly by those shimmering curtains, perhaps subconsciously, back to those precursor windchimes in Battery Park as a harbinger of the first attack. The visual cues of a Native American on horseback on the Battery Park windmill, a shadowy figure of ancient evil cast across the windmill's sails, the Haitian voodoo ring on the bodyguard's finger, a shaman necklace a derelict trades for some hallucinoginic pills, and the decrepit centerpiece, that of a crumbling, abandoned Christian church, are all somewhat subtle subtext images that enforce underlying belief systems and mystical notions that coincide with the fanciful existence of the centuries-old wolfen in our midst. What about the wolfen's keen visual senses? Wadleigh shrewdly counterpoints that \"dated effect\" of the wolfen (as some of you dismissively characterize it) by focusing a spotlight on our limited human visual senses throughout this picture. And again, it's not huge plot points. It's simply subtextual to lend the film more weight. Whether it's Dewey not quite able to see the wolfen at the top of the church stairs, to his not quite seeing them beyond his car hood in the rain, to the derelict's altered point of view stumbling around the Bronx under the influence of drugs, to the need of humans to enhance their visual capabilities with computers (as in the case of the heat color-coded detection device used by Van De Veer's security chief), to finally, the absolute breakdown in human visual acuity...the mystical \"vanishing\" of the wolfen from everyone's sight in the penthouse at the film's finale. There are literally a dozen more motifs running in this film. I only have a 1,000 words I can print. But this movie is truly a prime example of what lacks in film-making today. Craft, pure and simple. Care and thought put into each scene, each shot. Other layers of meaning beneath the simple plot line. Give \"Wolfen\" another look. I guarantee you will see and hear things that weren't apparent to you before. Will it be a better horror flick to you? Probably not. But you will appreciate a time when directors knew what to do with a camera, what to do with images, and how to make audio cues signal subtle, and subconscious, recognition bursts that, when woven together, all gave a film more gravity and impact. Oh, how I wish Wadleigh had directed more movies.",
+         "I can understand why horror fans would be disappointed in this film? But who cares? There are enough stupid horror movies around to satisfy those who need gore and screams. Wolfen tackles some very heavy concepts all within the context of a police procedural, and I never really felt the movie was stereotyping Indians. There is just a lot of material to cover and I thought the scenes with the Indians were amazingly focused and powerful. The acting is absolutely phenomenal--I wish Finney and Hines worked together in other movies...the atmosphere in this film really conveys the desolation of the burned out slums, and there is a feeling of like, \"Wow, what the hell ARE we doing with the earth.\" But it never got preachy and I think Finney portrayed the more subtle realizations brought forth by this great film. Scott in Boca Raton, FL",
+         "I have seen plenty of horror films, some good, many bad, and I think Wolfen is a keeper. I thought it was interesting, suspenseful, thought-provoking, and way more intelligent than most I've seen. I know some found it preachy or pretentious, and I can understand why some would react that way. Still, I thought it was far and away better than most of the so-called horror films released during the same period. As for the original book is concerned, my best friend and I were both disappointed in Streiber's novel, which we thought was grossly inferior to the movie and filled with errors in logic you just couldn't ignore or explain away. Not only that, the book wasn't even that suspenseful, though I believe a better writer could have done wonders with the basic premise. I noticed the same thing with The Hunger; the movie was pretty good, albeit paper-thin in plot, while the book was merely disappointing slow and, again, filled with logical errors, but little in the way of thrills or excitement.",
+         "This movie really wants to let out the wolf in me. Superwolves, werewolves, Indian spirits, being on forbidden grounds. That's why I enjoyed this movie. These creatures make the scum of New York look like decent citizens. Edward James Olmos playing a Indian, who does the nude dance at night, and seeing all the visions through the eyes of the wolf! The cast composed of Albert Finney and Gregory Hines really made the movie good. Especially when it's set in my home state, New York. If you like \"Wolfen\" you'll love \"Wolf\" with Jack Nicholson. Wolfen 10! Wolf 10!",
+         "Now, the premise of this story is pretty far fetched, but it's horror story after all. Expecting some wolf-man story, you are surprised at what the predator really is. And, the fact that they are providing some societal benefit by clearing the street of the homeless is really getting out there. They would have gone unnoticed had they not killed some high mucky muck and his wife. Albert Finney brilliantly plays Dewey, a detective dragged out of a semi-retirement to solve these hot murders. He is teamed with a delightful Diane Venora (The Jackal, True Crime) to do what no one else can. Gregory Hines ably assists in the hunt with his lab expertise and consummate acting skills. It is a mystery that makes no sense until Edward James Olmos, as a Native American, gives the supernatural explanation. Forget all that and concentrate on the great performances, especially Finney's.",
+         "This is a rather surprisingly good atmospheric piece of work from the early '80's. It's an horror that mostly lays its emphasis on its atmosphere. Even though the movie is from the early '80's but is still that feels and moves like an '70's movie, which is a positive thing to note because of the great style and way of film-making that flourished in the '70's. It's a sort of movie that takes its time to set and build up things and features some slow moving sequences. This of course also adds to the atmosphere of the movie. It shows a lot of scenes from the 'wolves' point-of-view, kind of \"Predator\" like style. This is a great move and surely adds to the tension and also mystery of the whole movie. It's very different from just the usual genre work, from the same time period. It's a pretty refreshing '80's horror movie. It's refreshing since it doesn't merely tries to be a typical monster horror movie but one that is well written instead. It has a sort of more 'realistic' approach so to speak. But yes, it's also definitely true that in this case this style of film-making also takes away some of the horror of the movie. The movie also doesn't alway makes the best choices with its story. And because the movie is rather 'slow', not an awful lot is ever really happening all the time in this movie in terms of horror or action. (Of course this changes more and more when the movie heads toward the ending and its conclusion.) The only real horror and tension is now basically only in its atmosphere, which also suffice enough in this case by the way, since its all done so great. It sort of all makes you wonder why Michael Wadleigh never directed any more movies. This was his only featured movie he so far ever directed and he further more only makes music documentaries. The movie features some absolutely great and dynamic cinematography. And they by the way must have really loved the steadicam. I mean, which other movie ever billed the steadicam photographer before its director of photography? And it's not like this movie is one of the first featuring a steadicam, since it's an invention from the early '70's actually. The musical score by James Horner is also quite effective but James oh, James, why did you basically used this very same score later again for the movie \"Aliens\". Oh well, Horner just never has been really known for his originality and he copies his own work more than often, which doesn't take away that his scores are often highly effective for his movies. The movie with Albert Finney, Edward James Olmos and Gregory Hines, among others, features quite some big popular names in it. The casting doesn't seem always likely but all fit their parts well and did a more than good job. A refreshing and good original piece of work that is surely a recommendable one! 7/10 http://bobafett1138.blogspot.com/"
+      ],
+      "genres": [
+         "Horror",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Orion Pictures",
+         "King-Hitzig Productions"
+      ],
+      "summaries": [
+         "A city cop is assigned to solve a bizarre set of violent murders where it appears that the victoms were killed by animals. In his pursuit he learns of an Indian legend about wolf spirits.",
+         "A New York cop investigates a series of brutal deaths that resemble animal attacks."
+      ],
+      "budget": 0
+   },
+   "movielensId": 5555,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1981-07-24",
+      "dvdReleaseDate": "2002-08-13",
+      "directors": ["Michael Wadleigh"],
+      "runtime": 115,
+      "movieId": 5555,
+      "title": "Wolfen",
+      "mpaa": "R",
+      "actors": [
+         "Albert Finney",
+         "Diane Venora",
+         "Edward James Olmos",
+         "Gregory Hines",
+         "Tom Noonan",
+         "Dick O'Neill",
+         "Dehl Berti",
+         "Peter Michael Goetz",
+         "Sam Gray",
+         "Reginald VelJohnson",
+         "James Tolkan",
+         "Donald Symington",
+         "Frank Adonis",
+         "Raymond Serra",
+         "Roy Brocksmith",
+         "Caitlin O'Heaney",
+         "Mel Welles",
+         "Tom Waits"
+      ],
+      "imdbMovieId": "0083336",
+      "originalTitle": "Wolfen",
+      "genres": [
+         "Drama",
+         "Horror"
+      ],
+      "youtubeTrailerIds": [
+         "HDv35dDlaag",
+         "oT3lD_Uoirk"
+      ],
+      "plotSummary": "A New York cop investigates a series of brutal deaths that resemble animal attacks.",
+      "tmdbMovieId": 10725,
+      "avgRating": 3.06046,
+      "releaseYear": "1981",
+      "numRatings": 306,
+      "posterPath": "/ffFW3eXfWsBpVkFddSSnU6XX2Gw.jpg"
+   }
+}

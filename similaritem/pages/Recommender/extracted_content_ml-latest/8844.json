@@ -1,0 +1,542 @@
+{
+   "tmdb": {
+      "original_language": "pl",
+      "keywords": [
+         {
+            "name": "poland",
+            "id": 21747
+         },
+         {
+            "name": "movie camera",
+            "id": 164542
+         }
+      ],
+      "imdb_id": "tt0078763",
+      "video": false,
+      "title": "Camera Buff",
+      "recommendations": [
+         36072,
+         60153,
+         105773,
+         128014,
+         118509,
+         49112,
+         91512,
+         120275,
+         118895,
+         49100,
+         125154,
+         37060,
+         148514,
+         153119,
+         128368,
+         162551,
+         50769,
+         44357,
+         144651,
+         147931
+      ],
+      "backdrop_path": "/ybvYaj81yxMGXvW7k0bs2c1DtNM.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Filip Mosz",
+               "gender": 0,
+               "credit_id": "52fe45f1c3a36847f80e35af",
+               "name": "Jerzy Stuhr",
+               "profile_path": "/2SqqKdL835Hg5aLCPKVOyZyggCN.jpg",
+               "id": 1148,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Irka Mosz",
+               "gender": 0,
+               "credit_id": "52fe45f1c3a36847f80e35b3",
+               "name": "Malgorzata Zabkowska",
+               "profile_path": "/wCs7m6vUdcfInqT9oBhIMkM5cbw.jpg",
+               "id": 145254,
+               "order": 1
+            },
+            {
+               "cast_id": 6,
+               "character": "Anna Wlodarczyk",
+               "gender": 0,
+               "credit_id": "52fe45f1c3a36847f80e35c9",
+               "name": "Ewa Pokas",
+               "profile_path": "/9yRCIMRUmFDnK9cKtokpYGNzR9E.jpg",
+               "id": 544036,
+               "order": 2
+            },
+            {
+               "cast_id": 7,
+               "character": "Director",
+               "gender": 0,
+               "credit_id": "52fe45f1c3a36847f80e35cd",
+               "name": "Stefan Czyzewski",
+               "profile_path": "/53XaSbOTmVziiUGcGCmOw4HE9SB.jpg",
+               "id": 544037,
+               "order": 3
+            },
+            {
+               "cast_id": 8,
+               "character": "Stanislaw Osuch",
+               "gender": 2,
+               "credit_id": "52fe45f1c3a36847f80e35d1",
+               "name": "Jerzy Nowak",
+               "profile_path": "/b1td2cfJhlxEG7QEijf3c6e2mCi.jpg",
+               "id": 7119,
+               "order": 4
+            },
+            {
+               "cast_id": 9,
+               "character": "Witek Jachowicz",
+               "gender": 2,
+               "credit_id": "52fe45f1c3a36847f80e35d5",
+               "name": "Tadeusz Bradecki",
+               "profile_path": "/4sIHcB8JF41xokk0QD03DQkF9Fa.jpg",
+               "id": 544038,
+               "order": 5
+            },
+            {
+               "cast_id": 10,
+               "character": "Piotrek Krawczyk",
+               "gender": 0,
+               "credit_id": "52fe45f1c3a36847f80e35d9",
+               "name": "Marek Litewka",
+               "profile_path": null,
+               "id": 544039,
+               "order": 6
+            },
+            {
+               "cast_id": 11,
+               "character": "Kedzierski",
+               "gender": 0,
+               "credit_id": "52fe45f1c3a36847f80e35dd",
+               "name": "Boguslaw Sobczuk",
+               "profile_path": null,
+               "id": 544040,
+               "order": 7
+            },
+            {
+               "cast_id": 31,
+               "character": "Himself",
+               "gender": 2,
+               "credit_id": "5856469bc3a36806a703d17c",
+               "name": "Krzysztof Zanussi",
+               "profile_path": "/tXfEiNyvaAFYt0mVkfT5DNZjoaX.jpg",
+               "id": 591273,
+               "order": 8
+            },
+            {
+               "cast_id": 32,
+               "character": "Himself",
+               "gender": 0,
+               "credit_id": "5a004f6192514146bd062aa5",
+               "name": "Andrzej Jurga",
+               "profile_path": null,
+               "id": 1918515,
+               "order": 9
+            },
+            {
+               "cast_id": 33,
+               "character": "Jaska",
+               "gender": 0,
+               "credit_id": "5a004f6cc3a368686805bc39",
+               "name": "Alicja Bienicewicz",
+               "profile_path": "/5KVfYpJlkJZfcTPFHms4sQwOD8O.jpg",
+               "id": 1177168,
+               "order": 10
+            },
+            {
+               "cast_id": 34,
+               "character": "Wawrzyniec",
+               "gender": 0,
+               "credit_id": "5a004f78c3a36867f60664e0",
+               "name": "Tadeusz Repka",
+               "profile_path": null,
+               "id": 1918516,
+               "order": 11
+            },
+            {
+               "cast_id": 35,
+               "character": "Hania, secretary",
+               "gender": 0,
+               "credit_id": "5a004f83c3a3686853062a41",
+               "name": "Aleksandra Kisielewska",
+               "profile_path": null,
+               "id": 1736841,
+               "order": 12
+            },
+            {
+               "cast_id": 36,
+               "character": "Stelmaszczyk",
+               "gender": 0,
+               "credit_id": "5a004f9192514146d4062bcd",
+               "name": "Wlodzimierz Maciudzinski",
+               "profile_path": null,
+               "id": 1918518,
+               "order": 13
+            },
+            {
+               "cast_id": 37,
+               "character": "Czeslaw",
+               "gender": 0,
+               "credit_id": "5a004f9bc3a36868a7055e9b",
+               "name": "Roman Stankiewicz",
+               "profile_path": null,
+               "id": 1918519,
+               "order": 14
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe45f1c3a36847f80e35b9",
+               "name": "Krzysztof Kieślowski",
+               "profile_path": "/aNvobc9gzJWIiHLNHx08tpmb5n1.jpg",
+               "id": 1126,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe45f1c3a36847f80e35bf",
+               "name": "Krzysztof Kieślowski",
+               "profile_path": "/aNvobc9gzJWIiHLNHx08tpmb5n1.jpg",
+               "id": 1126,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe45f1c3a36847f80e35c5",
+               "name": "Jerzy Stuhr",
+               "profile_path": "/2SqqKdL835Hg5aLCPKVOyZyggCN.jpg",
+               "id": 1148,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5662dc439251412ad500395a",
+               "name": "Wielislawa Piotrowska",
+               "profile_path": null,
+               "id": 1545064,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5662dc4cc3a3682bd8003e95",
+               "name": "Krzysztof Knittel",
+               "profile_path": null,
+               "id": 1511732,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5662dc549251412ac40039e3",
+               "name": "Jacek Petrycki",
+               "profile_path": null,
+               "id": 1378,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5662dc5c9251412ac60038fb",
+               "name": "Andrzej Archacki",
+               "profile_path": null,
+               "id": 1545065,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5662dc66c3a3682bd8003e9e",
+               "name": "Krzysztof Buchowicz",
+               "profile_path": null,
+               "id": 1545066,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5662dc6dc3a3682bde0036fc",
+               "name": "Krzysztof Jachowicz",
+               "profile_path": null,
+               "id": 1545067,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5662dc749251412aca003b81",
+               "name": "Stanislaw Szablowski",
+               "profile_path": null,
+               "id": 1545068,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5662dc7cc3a3682bd8003ea5",
+               "name": "Teresa Miziolek",
+               "profile_path": null,
+               "id": 1545069,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5662dc839251412aca003b87",
+               "name": "Halina Nawrocka",
+               "profile_path": null,
+               "id": 1545070,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5662dc8e9251412ac6003906",
+               "name": "Andrzej Rafal Waltenberger",
+               "profile_path": null,
+               "id": 1399,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5662dc979251412ad9003bd9",
+               "name": "Borzyslawa Chmielewska",
+               "profile_path": null,
+               "id": 1544933,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5662dc9ec3a3682bd2003b12",
+               "name": "Barbara Kociuba",
+               "profile_path": null,
+               "id": 1545071,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5662dca69251412ad500396b",
+               "name": "Gabriela Star-Tyszkiewicz",
+               "profile_path": null,
+               "id": 1545072,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5662dcad9251412ad30039a2",
+               "name": "Janina Wierzbicka",
+               "profile_path": null,
+               "id": 1545073,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5662dcb5c3a3682bef00412d",
+               "name": "Zdzislawa Namyslaw",
+               "profile_path": null,
+               "id": 1545074,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5662dcc0c3a3682bd0003754",
+               "name": "Michal Maryniarczyk",
+               "profile_path": null,
+               "id": 1545075,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5662dcc8c3a3682bd2003b18",
+               "name": "Krzysztof Wierzbicki",
+               "profile_path": null,
+               "id": 1544866,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5662dcd29251412ad9003bec",
+               "name": "Michal Zarnecki",
+               "profile_path": null,
+               "id": 1544868,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5662dcda9251412ac40039fa",
+               "name": "Michal Zarnecki",
+               "profile_path": null,
+               "id": 1544868,
+               "department": "Sound",
+               "job": "Sound"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         }
+      ],
+      "popularity": 1.475531,
+      "production_countries": [{
+         "iso_3166_1": "PL",
+         "name": "Poland"
+      }],
+      "id": 42164,
+      "vote_count": 26,
+      "budget": 0,
+      "overview": "Filip buys an 8mm movie camera when his first child is born. Because it's the first camera in town, he's named official photographer by the local Party boss. His horizons widen when he is sent to regional film festivals with his first works but his focus on movie making also leads to domestic strife and philosophical dilemmas.",
+      "similar": [
+         424,
+         423,
+         289222,
+         15764,
+         22509,
+         1646,
+         1600,
+         9045,
+         109,
+         152599,
+         402298,
+         2576,
+         15192,
+         12900,
+         209274,
+         25318,
+         121873,
+         8056,
+         143800,
+         17771
+      ],
+      "original_title": "Amator",
+      "runtime": 117,
+      "poster_path": "/dhwVOQacKcCECv53aJpJ6vS2g2G.jpg",
+      "spoken_languages": [{
+         "name": "Polski",
+         "iso_639_1": "pl"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Zespól Filmowy \"Tor\"",
+            "id": 7984,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Film Polski",
+            "id": 12838,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1979-11-16",
+      "vote_average": 7.5,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Poland",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Krzysztof Kieslowski"],
+      "runtime": 117,
+      "synopsis": null,
+      "writers": [
+         "Krzysztof Kieslowski",
+         "Krzysztof Kieslowski"
+      ],
+      "originalLanguage": "Polish",
+      "imdbLink": "http://www.imdb.com/title/tt0078763/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjE5MTQxNDAxNl5BMl5BanBnXkFtZTcwMDA1NTYyMQ@@._V1_SY317_CR7,0,214,317_AL_.jpg",
+      "actors": ["Stars: Jerzy Stuhr, Malgorzata Zabkowska, Ewa Pokas | See full cast and crew »"],
+      "reviews": [
+         "Ah for the love of film\u0085In 2006, I was one internet flight ticket transaction click away from moving to the area of Poland for the duration, but didn't. The \"good\" reason being is that I suffered some seriously grave trepidation over the fact that I would need to have two months salary in the bank before I'd EVER raise enough capital to buy an 8 mm motion picture camera. And this was in 2006. Sadly, these hypertensive concerns about finances low, all sleepless nights over equipment I don't have, and from where in the heck is the next camera going to come turned out to be relative in the scope of things \u0096in a sick and cyclical sense- and after interfacing with the characters of Kyrstof Kieslowski's incredibly moving Humanist Dark-Dramity, Camera Buff, for an hour and half, I'm just now harboring more than a few serious regrets about not actually abandoning the competitive, spiraling nightmare that is Western Life when I had the chance. Camera Buff is a wonderful story about a factory worker Filip (Jerzy Stuhr); a man who, in his thirties, begins to see life anew through the view finder of a small gauge movie camera. Originally purchased for \"two months salary,\" which \"pissed his wife off\" to document his newborn daughter's first few steps, the 8 mm camera is quickly realized as something more useful than just a device for making home-movies. The narrative's tension is organized specifically around the reaction to the films of the institutional power structures and forces around Filip that essentially commissioned, financed, and instigated the films themselves along with Filip's newly discovered and unyielding passion for creating them as he sees fit. If you view the Kino Video DVD release of this film, perhaps even more profoundly affecting than the feature as an augury of hope for the human race is the sixteen minute black and white documentary entitled Talking Heads in which Kielowski conducts helter-skleter a multitude of fifteen second interviews about \"who you are\" and \"what you want\" with Polish citizens, age zero to one-hundred, across all walks of life starting at the year 1979 with a little gurgling baby. In all, it's wonderful material and has me seeking out more Kieslowski.",
+         "Filip Mosz is a typical polish man. His wife is pregnant, he has a modest job, and all he expects from life is tranquility. That is until he buys a camera to record his newborn daughter, month-by-month evolution. He has the first camera in town, his boss hears about that and asks him to document a business meeting they will be having. This is the beginning for Filip, from this on he begins to get more and more hooked up by films. Mosz is a character that was born to the camera, his naive and curious look give his film an award at the business film festival, and after that he go for his filmmaker side at full throttle. His films begins to get more sophisticated, and he starts knowing people from the business and getting good reviews. Near the end his boss take him for a walk, and they talk about the repercussions of Filips films on the town. At first Filip is mad at his boss, for it was not the first time the he would try to impose him censure for one of his movies. The thing is that for his new movie people Filip cares about will have a bad time. He finds out that what he does as a film-maker has consequences for many people, some good, some bad. And the thing is he can't control the interests, there will always be people who be affected negatively. So this film, has under the first look a discovery and later a dilemma, tat the main character has to attend. HE founds out that you can't be reckless when making movies, you have to be aware of what you may cause. There are things you want everybody to know, but sometimes it is best that this not happen. You can't be impartial, you ca~'t have a neutral camera, for a camera will always be the point of view of someone, not reality itself. So he has this dilemma : if he keep doing this, his acts will have consequences, consequences which he can not tell what will be. The end of the movie is great too, very much like kieslowski. in the end, when he has decided to end with film-making. He turns the camera to himself, no longer being an spectator, but taking part of the action. SHe has been an expectator all along, as we can see with his wife. He goes away and he does nothing really about it. Things happen around him but he don't get very affected, until he switch positions.",
+         "An innocent enough decision. Filip (Jerzy Stuhr) buys a camera to film his new daughter. It costs two months salary and it makes him a celebrity of sorts as he is the only one in town that has one. Now, his boss wants him to film the 25th anniversary celebration of the company. He really gets into filming and soon runs headlong into \"rules.\" Of course, you have rules in a communist country. His wife is not too excited about his new hobby, but he soon gets his film entered into a film festival. Soon, like all who truly love film, Filip is attending screenings, talking to directors, and reading film magazines to improve his craft. But, more and more his wife is displeased, and his boss is cooling to the idea as he moves from filming the company to social statements. His desire for tranquility gives way to a desire for fame and art at the cost of his wife and family. He also discovers the unintended consequences of reporting the truth. In the end he turns the camera on himself as he realizes he had everything in the beginning and lost it all. A fascinating look at real cinema and finding what you want.",
+         "I found this film enthralling and revealing about a man gradually discovering his purpose in life and the effect it has on those around him as well as the obstacles he now has to face. He must now face the political as he takes a stance on social issues in his life and his town. His naiveté is warming and it demonstrates what a great actor Stuhr is that the film chips away at this slowly as he awakens to the new realities of his life. From a man who had everything at the beginning he has now shattered his domestic life but gained something some would say far richer and more permanent for his soul, a purpose. One that helps him to 'understand what this shitty life is about'. The final shot brings the film full circle as we see a man in the grip of his obsession.",
+         "There are times in our lives that a minor event becomes a biggest event, something that change your life for good or bad, but it's something that makes what you are and defines your whole journey through life. To me this thing was movies. Since I was kid I watched movies but I didn't have a greater perception of what movies were and their meaning, all I know is that I liked for some reason. When I grow older I noticed that is something very important to me and it was something that I couldn't live without, to remember good cinematic moments and to see a different look through our reality, to have different and pleasant experiences. Since I'm talking about movies and turning points in someone's life, Krzysztof Kieslowski's \"Amator\" is a brilliant and deep look into the life of a man who accidentally became a filmmaker. Here, Filip Mosz (Jerzy Stuhr) is a happy man that awaits the birth of his first child and he buys a camera to film the event. After that he realizes that he created a magical world through what he filmed, he notices that everything is different, beautiful behind the lens of a camera and starts to make simple documentaries, filming his friends, his neighborhood and everything he finds interesting to film. But one day someone told to his boss that he has a camera and he needs the camera because the Comunist Party wants to film a celebration of a great event in the town. Since Filip is a State civil servant (working in a factory) he's almost forced to film the event (he's the only person in the whole city to have a 8mm camera). What is interesting here is that Filip enjoyed filming the celebration, doing a great job that caught the attention of his bosses and his friends and that led his film to be registered into a film festival for amateur filmmakers. Filip sudden success makes him moving forward in the making of all sorts of documentaries, one of this documentaries features an midget hard working colleague of Filip in the leading role, something that his bosses doesn't want to be filmed, after all Filip's films are sponsored by the Comunist Party and they don't want to get involved with supposed controversial subjects. Here starts Filip's problems, because now he has a conscience about the power of movies, the influence that his documentaries has in people's lives, in the government, and what it's images may cause to his family and his friends. Is it possible that people can respect and accept what you do even if what you do it's something that pushes away from all the people you love and care? Is Filip a responsible filmmaker or he's just pretending to be someone he's not to get attention? What is best: to be truthful to yourself and lie to others to have good relations or be truthful to everyone and be hated for it? Many questions to be answered by the viewers in this exciting and wonderful film. Kieslowski knows exactly what's he doing here. This story hands perfectly well to him not only because he's a great artist that deal with many obstacles to make his movies. No, he started filming documentaries,pretty much in what Filip does, filming for the Comunist Party in Poland. In one of the documentaries he accidentally filmed an killing, then his bosses were told and started to control all of his films since then. His first films were censored during the 1970's and beginning of 1980's so in \"Amator\" we know what he's saying about the control of what filmmakers can do or not. If you are familiar with his first films you can notice that in almost all of it he criticizes the government in one way or another, his attacks are very sharp, very subtle in films like \"Bez Konca\". With the Trilogy of Colors, \"A Short Film About Love\" and the \"Dekalog\" you'll see that he's a more artistic creator. But as in all of his films he's got the partnership of the writer Krzysztof Piesiwicz, a great collaborator. The acting here is great: Jerzy Sthur in the leading role is awesome. His quietness and strange manners put him in the same type of a Carlitos the Chaplin character, sometimes he's funny, other times he's very impulsive. Malgorzata Zabkowska plays Filip's conflicted wife, a woman that wants the attention of his husband that seems to care more about his movies than to health of his child. In the role of Witek, Filip's best friend and supporter, Tadeusz Bradecki gives a very good performance, showing the limits of what a man can do to a friend and what he won't do. When the movie becomes too slow and sometimes depressive Witek appears to show a little bit of humor. Another great and reflective work from the fantastic director Kryzsztof Kieslowski, a must see film for those who admires his films, and for those who love movies as I do. 10/10",
+         "Krzyszof Kieslowksi begun his career as a documentary film-maker. From the start, he seemed to know two things: that in the shabby, feudal bureaucracy that was communist Poland, everything was political; and that the camera is never truly neutral. It was the second concern that saw him shift into telling fictional, constructed stories; while the first, and his own struggles as a young director, inspired the subject of 'Camera Buff', his first feature. As well as its immediate subject, the film is also a fascinating portrayal of an unfashionable subject, namely the class system, alive and well in the supposed socialist utopia (Kieslowski was a great admirer of Ken Loach, so perhaps we should not be too surprised). The film starts as a black comedy in the manner of the tenth part of his later 'Dekalog', and is both very funny and immediately true to life; as it progresses, it becomes more serious but there isn't quite the emotional intensity that marks his greatest works. The score is also less remarkable than those in the films he made with Zbigniew Priesner, his permanent collaborator from the mid 1980s. But his skill at composing images that are simultaneously profoundly ordinary and starkly arresting is very much in evidence, as is the characteristic sense of an all-pervasive greyness in the lives of his characters, punctured only by shafts of colour when his hapless hero comes into contact with the affluent metropolitan elite. In Dennis Potter's 'The Singing Detective', a central theme is the way that the artist will stop at nothing in using their own life as material, and this is also a theme here, growing in importance as the movie progresses. It's an unusual subject for a debut, and can perhaps be seen as Kieslowski laying his cards on the table before he begun the game. Greatness lay just around the corner.",
+         "After having bought a 8-millimeter video camera to start filming his newly born daughter's growth, Filip quickly becomes passionate about it, and is asked by his boss at work to film a celebration held by their company. This encourages Filip to continue with his new hobby, creating however considerable tension between himself and his wife, and facing stricter and stricter limitations by his boss, who at this point symbolizes Poland's ruthless censorship of that time. The magic of Krzysztof Kieslowski's debut film resides in being able to whisper its various meanings with great subtly, without taking away the enjoyment of the story: a film that demands an artist's right to express his own art freely, criticizing the Communist censorship methods that were being imposed at the time the film was made. But there is also a sincere and wonderful hymn to cinema, to its unquestionable power and ability to manipulate the ideas and feelings of any given person. A little too bleak at times in terms of atmosphere: it occasionally buries some of the actor's performances, despite Jerzy Stuhr excellent work as the protagonist.",
+         "I think there are only two truly great films about film making. One is Fellini's \"eight and a half\" and the other is this. We witness the transformation of a man from factory worker into artist. All achieved through the use of his camera and more specifically, the things he sees through the camera's lens. Kieslowski is clearly telling a story close to his heart here and shows the audience both the joy and freedom art can bring but also more tellingly, the obsession that can overtake ones life. The performances are great and the film, in my opinion, is given further impact due to the political undertones that are unavoidable. Kieslowski even seems to be condoning censorship by pointing out that when it occurs, it forces film makers to find ways around it and produce superior work as a consequence. Not a perfect film by far but a film that points the way to a career that would continue to rise",
+         "To an ordinary viewer \"Amator\" is a film about film-making.However I feel that this is only partially true as this film is much more than a film within a film.Amator is a wonderful film about the role cinema plays in human life along with basic emotions like joy, sorrow, suffering, humiliation, friendship, death etc. Much of the film's brilliance comes in the form of incredible acting performance by Jerzy Stuhr.He has given a masterful twist to his character named Filip Mosz. In \"Amator\",he knows fully well that he is suffering enormously due to the lack of creative freedom but despite this knowledge he resolutely decides to confront all his emotional crisis. There is no artistic freedom for him as his party officials do not allow him to make the films which he truly wants to make. His wife is against his film-making activities too. This takes toll on their domestic bliss too. In a broad perspective \"Amator\" talks of the difficulties most of the filmmakers Eastern Europe had to face when they were living under communist times.In \" Amator\", Kieslowski has shown how subtle films like this one can be made which are mildly critical of party. It would be of great interest to viewers conscious of the honest cinema movement called \"cinema of the moral concern\". For others it would be a good introduction to one of the outstanding films of East European cinema.",
+         "I really liked this film because it dared to be different and it was an excellent study of psychology. This movie was about a Polish man who scraped together his money in order to by an 8mm camera to film his new baby. However, shortly after getting the camera and beginning filming his wife and child, he gets really hooked on making his little films--and seems to film almost everything around him. At first, it's fun, but then it becomes an obsession. In the process, instead of LIVING and EXPERIENCING life with his little family, he is filming them in a very detached way. However, he is so into the filming that he hardly recognizes his wife's growing anger over that ^&@#*^@! camera! Then, when his boss sees him filming and asks him to make a film for the company, his problem grows by leaps and bounds. He seems to see himself as the next great documentary maker and begins to enter competitions and send his films to the television network. To his wife's chagrin, he receives positive reviews and by this point she's lost him--they have no real life together. Where the film goes from there I will leave for you to watch. It is a fascinating psychological study of a man and his obsession--as well as the impact this ultimately has on others around him. An excellent film."
+      ],
+      "genres": ["Drama"],
+      "productionCompanies": [
+         "Film Polski",
+         "Zespol Filmowy \"Tor\""
+      ],
+      "summaries": ["Filip buys an eight-millimetre movie camera when his first child is born. Because it's the first camera in town, he's named official photographer by the local Party boss. His horizons widen when he is sent to regional film festivals with his first works but his focus on movie-making also leads to domestic strife and philosophical dilemmas."],
+      "budget": 0
+   },
+   "movielensId": 8844,
+   "movielens": {
+      "languages": ["Polski"],
+      "releaseDate": "1979-11-16",
+      "dvdReleaseDate": "2004-08-17",
+      "directors": ["Krzysztof Kieślowski"],
+      "runtime": 117,
+      "movieId": 8844,
+      "title": "Camera Buff",
+      "mpaa": "",
+      "actors": [
+         "Jerzy Stuhr",
+         "Malgorzata Zabkowska",
+         "Ewa Pokas",
+         "Stefan Czyzewski",
+         "Jerzy Nowak",
+         "Tadeusz Bradecki",
+         "Marek Litewka",
+         "Boguslaw Sobczuk",
+         "Krzysztof Zanussi",
+         "Andrzej Jurga",
+         "Alicja Bienicewicz",
+         "Tadeusz Repka",
+         "Aleksandra Kisielewska",
+         "Wlodzimierz Maciudzinski",
+         "Roman Stankiewicz"
+      ],
+      "imdbMovieId": "0078763",
+      "originalTitle": "Amator",
+      "genres": [
+         "Comedy",
+         "Drama"
+      ],
+      "youtubeTrailerIds": [],
+      "plotSummary": "Filip buys an 8mm movie camera when his first child is born. Because it's the first camera in town, he's named official photographer by the local Party boss. His horizons widen when he is sent to regional film festivals with his first works but his focus on movie making also leads to domestic strife and philosophical dilemmas.",
+      "tmdbMovieId": 42164,
+      "avgRating": 3.76172,
+      "releaseYear": "1979",
+      "numRatings": 128,
+      "posterPath": "/dhwVOQacKcCECv53aJpJ6vS2g2G.jpg"
+   }
+}

@@ -1,0 +1,548 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "army",
+            "id": 6092
+         },
+         {
+            "name": "slaughter",
+            "id": 10089
+         },
+         {
+            "name": "drugs",
+            "id": 14964
+         }
+      ],
+      "imdb_id": "tt0493424",
+      "video": false,
+      "title": "Attack Force",
+      "recommendations": [
+         17314,
+         24351,
+         36272,
+         31002,
+         8382,
+         18070,
+         24546,
+         14180,
+         9914,
+         13722,
+         12542,
+         17317,
+         19167,
+         64161,
+         15039,
+         44020,
+         14452,
+         28465,
+         26583,
+         30806
+      ],
+      "backdrop_path": "/i89pdC0kZmhnHgOLfST6tD9JqfO.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 16,
+               "character": "Cmdr. Marshall Lawson",
+               "gender": 2,
+               "credit_id": "52fe43139251416c750028a3",
+               "name": "Steven Seagal",
+               "profile_path": "/f8OFR4h3ngyFesiudCygrNFdsCE.jpg",
+               "id": 23880,
+               "order": 0
+            },
+            {
+               "cast_id": 17,
+               "character": "Werner",
+               "gender": 2,
+               "credit_id": "52fe43139251416c750028a7",
+               "name": "Danny Webb",
+               "profile_path": "/zpau9CohMkopFeRodbURyKHdlae.jpg",
+               "id": 53917,
+               "order": 1
+            },
+            {
+               "cast_id": 18,
+               "character": "Robinson",
+               "gender": 2,
+               "credit_id": "52fe43139251416c750028ab",
+               "name": "Andrew Bicknell",
+               "profile_path": "/4lkCkXl4IhbuO7DTmwdTt6WTSXJ.jpg",
+               "id": 47525,
+               "order": 2
+            },
+            {
+               "cast_id": 19,
+               "character": "Phil",
+               "gender": 2,
+               "credit_id": "52fe43139251416c750028af",
+               "name": "Mark Dymond",
+               "profile_path": "/3aTsmFJuNExGUExIg7CLARJQWLV.jpg",
+               "id": 57143,
+               "order": 3
+            },
+            {
+               "cast_id": 21,
+               "character": "Dwayne Dixon",
+               "gender": 2,
+               "credit_id": "52fe43139251416c750028b9",
+               "name": "David Kennedy",
+               "profile_path": "/refiQ4V3hLc9xzBwCbemVrXXpNB.jpg",
+               "id": 62498,
+               "order": 4
+            },
+            {
+               "cast_id": 23,
+               "character": "Seth",
+               "gender": 2,
+               "credit_id": "52fe43139251416c750028c1",
+               "name": "Matthew Chambers",
+               "profile_path": "/ypClzxVHV3rx3NfMFQziNCUZCFe.jpg",
+               "id": 62499,
+               "order": 5
+            },
+            {
+               "cast_id": 22,
+               "character": "Admiral's Aide",
+               "gender": 0,
+               "credit_id": "52fe43139251416c750028bd",
+               "name": "Cheryl Ko",
+               "profile_path": null,
+               "id": 62502,
+               "order": 6
+            },
+            {
+               "cast_id": 24,
+               "character": "Tia",
+               "gender": 1,
+               "credit_id": "52fe43139251416c750028c5",
+               "name": "Lisa Lovbrand",
+               "profile_path": "/7HQuxwE2c7Z1i52SQhz4oxhNDEK.jpg",
+               "id": 62497,
+               "order": 7
+            },
+            {
+               "cast_id": 25,
+               "character": "Carl",
+               "gender": 2,
+               "credit_id": "52fe43139251416c750028c9",
+               "name": "Del Synnott",
+               "profile_path": "/cDCWRJuNZbPrzbsEgJaZXCRIEpm.jpg",
+               "id": 62501,
+               "order": 8
+            },
+            {
+               "cast_id": 26,
+               "character": "Aroon",
+               "gender": 2,
+               "credit_id": "52fe43139251416c750028cd",
+               "name": "Adam Croasdell",
+               "profile_path": "/cYtO8eTwdHFUi2vksdixcX1zjV7.jpg",
+               "id": 62500,
+               "order": 9
+            },
+            {
+               "cast_id": 27,
+               "character": "Ambassador",
+               "gender": 2,
+               "credit_id": "52fe43139251416c750028d1",
+               "name": "Tomi Cristin",
+               "profile_path": "/1ca7HflMEoFmeXlE6cDN4Y4sjGq.jpg",
+               "id": 58764,
+               "order": 10
+            },
+            {
+               "cast_id": 28,
+               "character": "Detective Lambert",
+               "gender": 2,
+               "credit_id": "52fe43139251416c750028d5",
+               "name": "Emanuel Parvu",
+               "profile_path": null,
+               "id": 60418,
+               "order": 11
+            },
+            {
+               "cast_id": 29,
+               "character": "Soldier #1",
+               "gender": 2,
+               "credit_id": "52fe43139251416c750028d9",
+               "name": "Ioan Ionescu",
+               "profile_path": "/ohIqRemOOF6LVRYDcrUVOoZJuFi.jpg",
+               "id": 62503,
+               "order": 12
+            },
+            {
+               "cast_id": 30,
+               "character": "Tourist #1",
+               "gender": 0,
+               "credit_id": "52fe43139251416c750028dd",
+               "name": "Florian Ghimpu",
+               "profile_path": "/1SXhgIgukZ0df3CrStK5Iw7jAdt.jpg",
+               "id": 62504,
+               "order": 13
+            },
+            {
+               "cast_id": 31,
+               "character": "Doctor",
+               "gender": 2,
+               "credit_id": "52fe43139251416c750028e1",
+               "name": "Serban Celea",
+               "profile_path": "/1jK48TpJk6QeF4zxPVg4X6yRUdZ.jpg",
+               "id": 62506,
+               "order": 14
+            },
+            {
+               "cast_id": 32,
+               "character": "Reina",
+               "gender": 0,
+               "credit_id": "52fe43139251416c750028e5",
+               "name": "Evelyne Armela O'Bami",
+               "profile_path": null,
+               "id": 62505,
+               "order": 15
+            },
+            {
+               "cast_id": 33,
+               "character": "Sedan Driver",
+               "gender": 0,
+               "credit_id": "52fe43139251416c750028e9",
+               "name": "Bogdan Uritescu",
+               "profile_path": "/xqUHaxh1FPP6pxeiDWRpRhZSgR4.jpg",
+               "id": 62508,
+               "order": 16
+            },
+            {
+               "cast_id": 34,
+               "character": "Jake",
+               "gender": 0,
+               "credit_id": "52fe43139251416c750028ed",
+               "name": "Mihai Stanescu",
+               "profile_path": "/fhr3MyYhaDyExXqauD1CLGCHuo8.jpg",
+               "id": 62507,
+               "order": 17
+            },
+            {
+               "cast_id": 35,
+               "character": "Queen",
+               "gender": 0,
+               "credit_id": "52fe43139251416c750028f1",
+               "name": "Ileana Lazariuc",
+               "profile_path": null,
+               "id": 62509,
+               "order": 18
+            },
+            {
+               "cast_id": 36,
+               "character": "Old Woman #2",
+               "gender": 0,
+               "credit_id": "52fe43139251416c750028f5",
+               "name": "Coca Bloos",
+               "profile_path": null,
+               "id": 62510,
+               "order": 19
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe43139251416c7500284b",
+               "name": "Michael Keusch",
+               "profile_path": null,
+               "id": 55161,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43139251416c75002851",
+               "name": "Steven Seagal",
+               "profile_path": "/f8OFR4h3ngyFesiudCygrNFdsCE.jpg",
+               "id": 23880,
+               "department": "Writing",
+               "job": "Author"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43139251416c75002857",
+               "name": "Joe Halpin",
+               "profile_path": null,
+               "id": 60400,
+               "department": "Writing",
+               "job": "Author"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43139251416c75002863",
+               "name": "Joe Halpin",
+               "profile_path": null,
+               "id": 60400,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43139251416c75002869",
+               "name": "Phillip B. Goldfine",
+               "profile_path": "/r7WQhf3lsNw2fzOU2so5lKfjyfj.jpg",
+               "id": 60401,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43139251416c7500286f",
+               "name": "Steven Seagal",
+               "profile_path": "/f8OFR4h3ngyFesiudCygrNFdsCE.jpg",
+               "id": 23880,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43139251416c7500287b",
+               "name": "Richard Turner",
+               "profile_path": null,
+               "id": 60406,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43139251416c75002881",
+               "name": "Sonja Rom",
+               "profile_path": null,
+               "id": 17136,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe43139251416c75002887",
+               "name": "Adrian Curelea",
+               "profile_path": null,
+               "id": 60408,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43139251416c7500288d",
+               "name": "Binh Dang",
+               "profile_path": null,
+               "id": 60399,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe43139251416c75002893",
+               "name": "Gina Calin",
+               "profile_path": null,
+               "id": 60410,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43139251416c75002899",
+               "name": "Barry Taylor",
+               "profile_path": null,
+               "id": 60405,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43139251416c7500289f",
+               "name": "Cristian Corvin",
+               "profile_path": null,
+               "id": 60409,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe43139251416c750028b5",
+               "name": "Jonathan Brayley",
+               "profile_path": null,
+               "id": 62496,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5763ec6092514133c50000dc",
+               "name": "Vlad Paunescu",
+               "profile_path": null,
+               "id": 1059147,
+               "department": "Production",
+               "job": "Producer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 4.095539,
+      "production_countries": [
+         {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+         },
+         {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+         },
+         {
+            "iso_3166_1": "RO",
+            "name": "Romania"
+         }
+      ],
+      "id": 10049,
+      "vote_count": 29,
+      "budget": 0,
+      "overview": "Marshall Lawson is the commander of an elite military unit. Marshall Lawson loses his strike-team in a cold-blooded and seemingly random attack, and he takes it upon himself to investigate the attack, with the help of his girlfriend Tia and his friend Dwayne.",
+      "similar": [
+         979,
+         627,
+         429733,
+         796,
+         9352,
+         180863,
+         6075,
+         319,
+         1894,
+         8961,
+         948,
+         340837,
+         339692,
+         263472,
+         9946,
+         4771,
+         39939,
+         205,
+         8363,
+         4247
+      ],
+      "original_title": "Attack Force",
+      "runtime": 94,
+      "poster_path": "/tVRnjtea9diIsscFXeqEjPDWVoR.jpg",
+      "spoken_languages": [
+         {
+            "name": "Český",
+            "iso_639_1": "cs"
+         },
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         }
+      ],
+      "production_companies": [],
+      "release_date": "2006-12-05",
+      "vote_average": 4.1,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Romania",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Michael Keusch"],
+      "runtime": 95,
+      "synopsis": null,
+      "writers": [
+         "Steven Seagal",
+         "Joe Halpin"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0493424/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjE5NTYxMjgzMF5BMl5BanBnXkFtZTcwNDMwODgzMQ@@._V1_SY317_CR3,0,214,317_AL_.jpg",
+      "actors": ["Stars: Steven Seagal, Lisa Lovbrand, David Kennedy | See full cast and crew »"],
+      "reviews": [
+         "Attack Force has a horrendous title, and can almost certainly be judged by it's awful cover, because the film is horrible! A mish-mash of plot lines, a choppy mess, and a horribly stagnated pace, make the film hard to watch start to finish. I managed this and I'm proud. As a fan of Seagal's work (mostly of his old days), it's painful to see him star in such tripe. True Seagal's last half dozen movies or so, have sucked a lot, but some of them at least had some redeeming features. Attack Force is a mess. From conception to delivery this film has undergone many changes, from an alien plot line, to the current one about a highly addictive super drug, about to be unleashed on the Romanian (the film has several settings, none of which are Romanian, but all look like Romania because they are in Romania!) populace. The film is tacked together with little regard for whatever state the original shooting script was. Plot-holes and loose ends are abound in the film that's for sure. That's been a problem in Seagal's last few films as well, but never has the result been so boring. There's a whole plot line about the water supply being poisoned with CTX (that's the drugs cool name) that is never resolved! Of course in recent years the plot's haven't been the main draw in the Seagal canon so there was a big onus on the other departments, especially the action. Before I regard the action though, all the other departments are poor. The direction is poor, or perhaps better put, made to look poor. Who knows how director Michael Keusch originally intended this film? Between him finishing his job, the re-shoots by stunt man Tom Delmar, and the editing, a coherent auteur vision is completely lost. The best way to describe the film is that it's just all over the shop! The cinematography is dull, nearly inducing sleep, while the droning score (sounding like it was produced on the cheapest of cheap synthesizers) does nothing to excite matters. The cast too are poor, unable to salvage anything here. Seagal looks bored beyond recognition, and is dubbed through much of the picture, clearly when plot-points are being changed. He looks tired and overweight, and lethargic, unlike he's looked in previous pictures too (remarkable as the aforementioned have been key complaints in Seagal's recent pictures). The only redeemable cast member is Adam Croasdell as one of the villains, doing a slimy Brit routine. He seems to be a throwback to the alien plot line, because he's playing it inhuman. He seems like a cross between a body snatcher and a vampire (ditto to the lead villain played by some hot chick who appears on occasion, seemingly waiting for her husband� Dracula). Finally the action. Well it's poor. Poorly conceived, poorly shot. There's not much either, and there's even less featuring Seagal. Stevo doesn't really bring out the stunt double here, because there's so little to do. There's even a lengthy (repetitive and boring) action scene on the hour mark that inter-cuts occasionally with little flashes of Seagal's stand in because clearly Seagal wasn't there while the scene was being shot, and they wanted to have him feature in the action scene. Seagal eventually appears in person to shoot two guys in the head. Seagal has a producers credit here and a script credit, but from what I understand the film has been altered behind his back to the current state it's in. Seagal will apparently not be working with these people again, or with Castel Studio's who continue to deliver horrifically sub-Nu-Image (that's saying something), material. Overall this is one to avoid if you are not a Seagal fan. Seagal fans can also be safe in the knowledge that the big man probably won't want to do anything this bad again. Unfortunately his next film which has already been shot, with the same people, promises to be even worse than this. *",
+         "I'm a huge Steven Seagal fan. Hell, I probably weigh as much as he does although I don't have the street cred to sport the frizzy-mullet-ponytail. Having stated my own bias and affection for America's favorite corpulent stage and screen hero, it is with a heavy heart that I must declare this to be his worst movie ever. I'm not sure he could make a movie any worse than this. In his defense the major problems with this film seem to occur in post-production. It's painfully obvious that this movie was supposed to have a different storyline. That results in woeful voiceovers in which Steve's voice doesn't nearly sync up with that of the dubbed voice. The editing is pisspoor and overall this starts bad, gets even worse, and by the end you'll wish you had rewatched The Da Vinci Code instead. Yes, it's that bad. After this I don't know what to expect from Steve. My friends still laugh at me for listening to his CDs. Is it time I start checking out some of the Van Damme direct to DVD nutty logs? If you are tempted to watch this movie, rip your eyeballs out and flush them down the toilet. A lifetime of darkness is better than 89 minutes of this.",
+         "I look around in the video store still in shock how Steven Seagal with his track record of Bad action movies can still have 3 movies hit the shelves in less than a Year.Attack force being the 3rd no less promised the first-time entrance into the Sci Fi Genre for our ever widening Seagal.Visions of bad movie entertainment flashed before my gullible eyes.Sadly this is not the case one bit with no entertainment and a movie as bad as they come. Seagal rebounded a tiny bit with the Trashy-but enjoyable Shadow Man last time we saw him.However Attack force has to be his absolute worst movie ever!Don't argue for out for a Kill,Ticker,or even Black Dawn folks.This is the bottom of the Septic tank here. Anyone who says this is Steven Seagal's return to form should be forced to write a 100 page essay on the word Taste. Seagal is yet another agent/I'm a supreme bad-ass yet again named Lawson wants revenge for the killing of his Team that leads him to a nefarious plot to distribute a really bad drug to the unsuspecting public.Not to mention the dealers are not from around here. The whole Production from Directing to the acting is poor.Was this movie shot in the Dark?Its gotta be the most poorly lighted movie since Howling 2.The action is terrible and very badly done. The Producers have also unwisely decided to do what the fans hate the most:throw in stunt double after stunt double and horribly dubbed Steven Seagal.Who seems to show little enthusiasm here.Can ya blame him? While it has been said that Attack Force was not the movie Stevie signed on for(originally Harvester)and surely has to be better than Attack force.The post-production tampering has not made it more coherent and made Seagal look worse.I feel bad for Directer Michael Keusch and writer Joe Halpin as they are gonna be judged forever for the ill-advised production re-shoots. So Now This leaves Seagal in the impossible position to come up with something to atone for this mess.But after seeing how bad Attack Force has turned out do we really want him to make another movie?",
+         "Okay like most Steven Seagal fans I know I not going expect a masterpiece every time he makes a film but I do expect the film to at least have some sorter budget. The main problem with the copy I watched was the terrible over dubbing I know that in some films this has to be done and I accept that but when they overdub with a totally different actors voice and keep doing this thru out the film it does take the magic of overdubbing away. Also the sets seem to be built with no care as in one scene the sliding glass top in a top secret lab has a massive crack going thru it. I was truly disappointed with this film and only hope Stevens next project will be more finished off before sending the film out for buying/renting. The story of this film had me wondering if I was watching a sci-fi film or not some parts seemed alien like but they never fully explained what was going on I found it very confusing.",
+         "The DVD was a joke, the audio for the first few minutes was terrible with sound out of sync and Segals voice not even his!!!! Pathetic! When the audio sync was better in about 5 minutes the poor plot, lines and actors should get another job because the movie business is not where any of them should be. While Segal had some good movies in the early days the latest ones are a joke and should be a an embarrassment to him and the company that made it. If Segal was the one that handled this he better return to having another party run the show, because he has no talent what so ever in this. This film is a complete embarrassment to all involved in its production and a disgrace to all who viewed it. I turned it off in about 20 minutes. I will be asking for my money back at Block Buster! Mark from Ontario, Canada",
+         "How do you spell washed up fat Italian who can barely pull off a martial arts move without needing some heart medication? In this movie we see Steven Seagal at his lowest level of accomplishment- since his career started it has been a steady decline into pathetic over indulgent behavior that has scuttled his career. In this movie it looks like most of his training consisted of ordering the fetuccini alfredo at his restaurant every day. He is fat, slow and very old looking in this movie, hardly a martial arts action hero, more like a laughing stock clown. It's time for Steven Seagal to retire- this movie is about 2 hours of reasons why. Plot: fat Italian guy with a big reputation on the force gets wind that a crime group may be playing around with a drug designed by the military to create the ultimate warrior response. This pretense, although pathetic and laughable, gives opportunity for some over the top fight scenes that include blasting through walls like a comic book. Did I mention this movie totally sucks and Steven Seagal is a complete joke? yeah. I did.",
+         "I buy or at least watch every Seagall movie. He came out with a handful of good movies then descending into poor stories, bad camera work and a walk-thru persona, he nearly lost me. A few movies ago he remembered how to make a decent movie. Now he's forgotten again. This film is seriously dark (on any level you care to name). There is a lot of slash & gash going on here with no discernible purpose unless it's meant as a warning against the military. Seagall may have had a stand-in for many of his scenes as it was often too dark to tell and someone else's voice was used most of the time. Sadly the only interesting character was the bad guy who killed his guard to escape custody & then proceeded to raise havoc all over the place. Okay since when do we place an armed guard in the holding room with a prisoner? Anyway this bad guy was at least colorful, and very focused. There's lots of gore if you like that king of thing. It looked to me like the bad guys tore the same gash every time. I'm just glad they didn't suck the blood from their hapless victims. I harken you back to my summary. Basically it is a horror movie disguised as an action film.Dec 6,2006",
+         "drss1942 really took the words right out of my mouth. I loved Segal's early films and feel like the only one who is still faithful to him. I just saw this movie (ok, fell asleep about 90% through, so I didn't see the end). When I woke up and saw I was at the DVD menu, I was thankful I didn't subject myself to any more of that movie and didn't dare find out what happened at the end. There was something strange about the voice of Segal and others. Kinda reminded me of the original Mad Max where the voice were dubbed, but in the same language (Australlian is English, right? :) Anyway, if I had 10 thumbs, they'd all point down right now for this Segal injustice.",
+         "I tried restarting the movie twice. I put it in three machines to see what was wrong. Did Steven Seagal's voice change? Did he die during filming and the studio have to dub the sound with someone who doesn't even resemble him? Or was the sound on the DVD destroyed? After about 10 minutes, you finally hear the actor's real voice. Though throughout most of the film, it sounds like the audio was recorded in a bathroom. I would be ashamed to donate a copy of this movie to Goodwill, if I owned a copy. I rented it, but I will never do that again. I will check this database before renting any more of his movies, all of which were (more or less) good movies. You usually knew what you were getting when you watched a Steven Seagal movie. I guess that is no more.",
+         "The movie is boring, the characters and scenarios are unrealistic, unbelievable, the action is hilarious. This movie is a big mess. It almost seems like when the action music kicks in, the most impressive stunt is running. Either voice is dubbed over with Mr. McGregor or steven sang too much and it changed his voice. There is way too much dialog in this movie, and extremely bad acting on everyones behalf. The movie is great sleep therapy. The fighting is laughable. The eye shape shift effect on the evil designer drug addict females was decent. The main villain was a joke and his character was poorly developed. The main villain was used to explain the story through interrogation, he would just throw random plots in such as (spoiler) \"CTX (his designer drug)is going to be in the water supply\" which is never addressed in the conclusion or even mentioned again in the movie. This movie is highly recommended to pass."
+      ],
+      "genres": [
+         "Action",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Sony Pictures Home Entertainment",
+         "Steamroller Productions",
+         "Focal Point Releasing"
+      ],
+      "summaries": ["Marshall Lawson loses his strike-team in a cold-blooded and seemingly random attack. After this he takes it upon himself to investigate the suspicious circumstances of the brutal killings. Soon he uncovers CTX Majestic, a covert military operation so secret, that now the military wants Marshall eliminated. Resolute in his pursuit, Marshall engages in a merciless battle with a drug dealer operation that appears to be secretly funded by a rogue arm of the military."],
+      "budget": 12000000
+   },
+   "movielensId": 66900,
+   "movielens": {
+      "languages": [
+         "Český",
+         "English"
+      ],
+      "releaseDate": "2006-12-05",
+      "dvdReleaseDate": "2006-12-05",
+      "directors": ["Michael Keusch"],
+      "runtime": 94,
+      "movieId": 66900,
+      "title": "Attack Force",
+      "mpaa": "R",
+      "actors": [
+         "Steven Seagal",
+         "Danny Webb",
+         "Andrew Bicknell",
+         "Mark Dymond",
+         "David Kennedy",
+         "Matthew Chambers",
+         "Cheryl Ko",
+         "Lisa Lovbrand",
+         "Del Synnott",
+         "Adam Croasdell",
+         "Tomi Cristin",
+         "Emanuel Parvu",
+         "Ioan Ionescu",
+         "Florian Ghimpu",
+         "Serban Celea",
+         "Evelyne Armela O'Bami",
+         "Bogdan Uritescu",
+         "Mihai Stanescu",
+         "Ileana Lazariuc",
+         "Coca Bloos"
+      ],
+      "imdbMovieId": "0493424",
+      "originalTitle": "Attack Force",
+      "genres": [
+         "Action",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": ["mQw3gafUfks"],
+      "plotSummary": "Marshall Lawson is the commander of an elite military unit. Marshall Lawson loses his strike-team in a cold-blooded and seemingly random attack, and he takes it upon himself to investigate the attack, with the help of his girlfriend Tia and his friend Dwayne.",
+      "tmdbMovieId": 10049,
+      "avgRating": 1.66667,
+      "releaseYear": "2006",
+      "numRatings": 18,
+      "posterPath": "/tVRnjtea9diIsscFXeqEjPDWVoR.jpg"
+   }
+}

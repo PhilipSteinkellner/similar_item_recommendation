@@ -1,0 +1,435 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [],
+      "imdb_id": "tt0105127",
+      "video": false,
+      "title": "The Plague",
+      "recommendations": [
+         71125,
+         79043,
+         373481,
+         65874,
+         376515,
+         105067,
+         93313,
+         42086,
+         51141,
+         41348,
+         63893,
+         365447,
+         109383,
+         80047,
+         376523,
+         30574,
+         112630,
+         2861,
+         47142
+      ],
+      "backdrop_path": null,
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Doctor Bernard Rieux",
+               "gender": 2,
+               "credit_id": "52fe46179251416c91048dbd",
+               "name": "William Hurt",
+               "profile_path": "/zp6UOht6c1iyHDbpYn1hkX103lG.jpg",
+               "id": 227,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Joseph Grand",
+               "gender": 2,
+               "credit_id": "52fe46179251416c91048dc1",
+               "name": "Robert Duvall",
+               "profile_path": "/1aBC7NxPy10ofng6HsJBecJ1vMZ.jpg",
+               "id": 3087,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Cottard",
+               "gender": 2,
+               "credit_id": "52fe46179251416c91048dc5",
+               "name": "Raúl Juliá",
+               "profile_path": "/nh6jWnEubiTKp61EpEYcB2lFQH0.jpg",
+               "id": 27888,
+               "order": 2
+            },
+            {
+               "cast_id": 6,
+               "character": "Martine Rambert",
+               "gender": 1,
+               "credit_id": "53fd25c8c3a3684c80000358",
+               "name": "Sandrine Bonnaire",
+               "profile_path": "/i8Os6hHPZKyDQerX4qtG6njCcDN.jpg",
+               "id": 19161,
+               "order": 3
+            },
+            {
+               "cast_id": 7,
+               "character": "Jean Tarrou",
+               "gender": 2,
+               "credit_id": "53fd27820e0a262ddc0004fe",
+               "name": "Jean-Marc Barr",
+               "profile_path": "/vlWlQUc3qxNd0fIbv2lqXOv8j7i.jpg",
+               "id": 1642,
+               "order": 4
+            },
+            {
+               "cast_id": 8,
+               "character": "Alicia Rieux",
+               "gender": 1,
+               "credit_id": "53fd27aa0e0a262de50004f1",
+               "name": "Victoria Tennant",
+               "profile_path": "/8l6jWaq4o2us3KtMD9hhocaMajR.jpg",
+               "id": 21618,
+               "order": 5
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe46179251416c91048dcb",
+               "name": "Luis Puenzo",
+               "profile_path": null,
+               "id": 69315,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe46179251416c91048dd1",
+               "name": "Albert Camus",
+               "profile_path": "/810FNyuzCMKdkD1hbAEtQG10Fwc.jpg",
+               "id": 1001851,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a9028720e0a26399e013457",
+               "name": "Luis Puenzo",
+               "profile_path": null,
+               "id": 69315,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a90288292514164660111ac",
+               "name": "Robert Katz",
+               "profile_path": null,
+               "id": 1403077,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a902891c3a3682dbc012365",
+               "name": "Christian Charret",
+               "profile_path": null,
+               "id": 1561193,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a9028a2c3a3682dbc012373",
+               "name": "Cyril de Rouvre",
+               "profile_path": null,
+               "id": 1983592,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a9028b2c3a3682da90127c1",
+               "name": "Óscar Kramer",
+               "profile_path": null,
+               "id": 55099,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a9028dec3a3682db301128b",
+               "name": "John Pepper",
+               "profile_path": null,
+               "id": 1086591,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a9028f7925141646f0114d5",
+               "name": "Jonathan Prince",
+               "profile_path": null,
+               "id": 1983593,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a902902c3a3682db0011f08",
+               "name": "Félix Monti",
+               "profile_path": null,
+               "id": 414697,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a9029129251416466011248",
+               "name": "Juan Carlos Macías",
+               "profile_path": null,
+               "id": 1070260,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a90291d0e0a2639a70122df",
+               "name": "Jorge Sarudiansky",
+               "profile_path": null,
+               "id": 1613678,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a902929925141646601125d",
+               "name": "Juan Carlos Diana",
+               "profile_path": null,
+               "id": 1983594,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a902936c3a3682dbc01241f",
+               "name": "Graciela Oderigo",
+               "profile_path": null,
+               "id": 1801301,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a902941c3a3682db30112f1",
+               "name": "Horacio Pigozzi",
+               "profile_path": null,
+               "id": 1983595,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a90294c0e0a2639b5011a19",
+               "name": "María Julia Bertotto",
+               "profile_path": null,
+               "id": 1317242,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a9029589251416469011253",
+               "name": "Joël Lavau",
+               "profile_path": null,
+               "id": 1553732,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a9029619251416472010327",
+               "name": "Pierre Vadé",
+               "profile_path": null,
+               "id": 1553733,
+               "department": "Costume & Make-Up",
+               "job": "Key Hair Stylist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a9029730e0a2639b5011a4a",
+               "name": "Dean Humphreys",
+               "profile_path": null,
+               "id": 1404840,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a9029a79251416472010379",
+               "name": "Sergio Iglesias",
+               "profile_path": null,
+               "id": 1983596,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a9029b5925141646f0115bd",
+               "name": "Claire Pinheiro",
+               "profile_path": null,
+               "id": 1983597,
+               "department": "Sound",
+               "job": "Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a9029c6c3a3682db0011fcf",
+               "name": "Jean-Pierre Ruh",
+               "profile_path": null,
+               "id": 19344,
+               "department": "Sound",
+               "job": "Sound Engineer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a9029d00e0a263998011fd3",
+               "name": "Williams Schmit",
+               "profile_path": null,
+               "id": 1921036,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a9029dac3a3682da9012965",
+               "name": "Eric Tisserand",
+               "profile_path": null,
+               "id": 1830818,
+               "department": "Sound",
+               "job": "Sound Re-Recording Mixer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         }
+      ],
+      "popularity": 1.119979,
+      "production_countries": [
+         {
+            "iso_3166_1": "FR",
+            "name": "France"
+         },
+         {
+            "iso_3166_1": "AR",
+            "name": "Argentina"
+         },
+         {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+         }
+      ],
+      "id": 36907,
+      "vote_count": 8,
+      "budget": 0,
+      "overview": "In a city in South America an outbreak of bubonic plague occurs. While people try to flee and the military close the city an idealistic doctor decides to stay and help the sick. In the ever changing circumstances he puts up a brave fight, being helped by others but also involving them without being able to control the situation.",
+      "similar": [],
+      "original_title": "La Peste",
+      "runtime": 115,
+      "poster_path": "/jlwEg4pqGnlp3H35ebsfoFlMuGS.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [],
+      "release_date": "1992-01-01",
+      "vote_average": 5,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "France",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Luis Puenzo"],
+      "runtime": 148,
+      "synopsis": null,
+      "writers": [
+         "Albert Camus",
+         "Luis Puenzo"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0105127/",
+      "coverLink": null,
+      "actors": [
+         "William Hurt",
+         "Sandrine Bonnaire",
+         "Jean-Marc Barr"
+      ],
+      "reviews": [
+         "Don't even think of watching this without first reading the book. And if you have read the book don't put yourself through this mockery of one of the most outstanding novels ever. This movie takes from one of the greatest works ever crafted by man and somehow screws it all up. It takes way too many liberties with the story and replaces almost all of the themes and metaphors with simplistic and uninspired doppelgangers. Although the book was exemplary this movie only takes from it slightly. The screen writers probably didn't even read the book. The themes are inane. The dialogue is downright horrible(except when taken from Camus exactly). The Actors while well meaning do not hit the mark with their characters. And serious flaws in the story line are plentiful like weeds. Also plentiful is female nudity, but it's not erotic or even meaningful it's just obnoxious and quite frankly sickening. Unless you want to see a version of the Plague that puts Oran in South America in 199..., changes the Rambert character to a woman who fingers herself in a cafe while checking for Buboes, changes Tarrou and Grand into giggling novelties, and replaces the enlightening separation theme from the second part of the novel and changes it so that the characters and merely horny, than this is for you. This \"Plague\" is an insult and owners of the rights to Camus' works should be shot for letting this mockery manifest itself. Don't bother with this awful movie. Bullets are cheaper and provide the same feeling when put into heart. If you are at all interested in renting or buying this awful movie, don't! Read the book! It is one of the best you will ever read I guarantee. Plus it turns this movie into a comedy as you laugh at the possible thoughts of the producer, screenwriter, actors, director, grips, cinematographer, etc... It's apparently impossible to give no stars with a review. So now the makers of this film owe me one. However bad the movie was the book made up for it in spades. If you enjoyed the movie (shame on you) read the book and be amazed at how good it could have been.",
+         "Well, well, well... After having read so many different views about this film, I just had to add my own. Lots of people are disturbed that it's so far from the book. Usually I hate that myself, but in this instance I am somehow easily able to compartmentalize, and see the film as something separate. I think it can be viewed on it's own as a great film, and I find it something that I will watch again, and again. I've also read that many people find the erotic elements gratuitous, but I've always found that 'sex and death' is a close 'idea relationship', in the human psyche.Sex and or intimacy are affirmations of life, in the face of it's opposite. People do lots of strange things when faced with death and the possibility of death, especially when it is expected, and in such a familiar form... what reasonably educated person doesn't know what this type of disease involves? I find that I can live with the changes of story and time setting in this film, and feel that it is just a fascinating movie which it is easy to view as an entirely 'stand alone' piece in it's examination of different personalities in crisis.",
+         "It seems a lot of people can only view this film through the lens of the book, and with the title, how can you not? This film probably would have been better received if it used a different title and suffered accusations of 'ripping off' Camus. Today, I think we may be a little more used to films being 'inspired' by particular books but not even attempting to reproduce the book faithfully. I echo of few of the reviews I've read here on IMDb - that this film, when viewed apart from the book, is a great film in its own right. The actors are great, the story is of course solid, and the style is perfect. Some of my favorite scenes that I would point to - Opening of the film - the monologue of Hurt's character - \"This is what happened\". Still, dispassionate, reflective, tired, guiltily transcendent. Scene in the office of Duvall's character near the opening - \"Hats off!\" Joyful in its innocence, the hope and admiration exhibited by the other two characters in the room is palpable. Any confrontation scene between the female reporter and the doctor, whether on the tram or in the office. Towards the end when the cameraman gets shot - \"I'm dying\". This film is still and quiet - Hurt conveys his exhaustion so well, Duvall his hope and frustration so well. I really, really hope we see this in Blu-Ray (BD). With so many good actors it's a wonder it never went to DVD. Hopefully time will give this film the credit it deserves.",
+         "imperfect only because mr. hurt takes his traum-welt sleepwalking characterization too far, and mr. puenzo drops the emotional anvil one time too many, this is nevertheless the most artistic political commentary i have seen. i compare it to CLOSETLAND. camus set the novel in his home of algiers, and mr. puenzo reprises with the buenos aires location that is his home. like post-war camus, mr. puenzo has much to say about his country's recently fallen dictatorship. camus would certainly have approved. the timing, in the face of the literal plague of aids, adds to the momentousness of this film. sandrine bonnaire, robert duvall, and jean-marc barr are essential to the movie, and the sheer pulchritude of buenos aires shows, even though the city is cast as hapless, plague-stricken oran. it is the tragedy of argentina that makes it a perfect oran. and it is the beauty of its capital federal that makes it a perfect setting for camus' triumph of humanity over inhumanity. the movie is complex, with explicit visual reference to the holocaust, and even a fair treatment of the complicity of the medical doctor (whose responsibility? remember, camus was above all an existentialist author). but the movie is not about a public health disaster, or oran, or the insanity and subsequent tragedy of civil resignation in germany's 1930's. oran could be anywhere at any time, and mr. puenzo has understood camus well on this point.",
+         "\"La Peste\" (The Plague), the film adaptation of the 1947 novel by French existentialist Albert Camus, received poor reviews and was a box office bomb and rightfully so-- except for the presence of French actress (speaking in English) Sandrine Bonnaire, as TV journalist Martine Rambert (in the novel, the character is a male newspaper journalist) Her conversation with Wm.Hurt (as Dr. Riseux), in the doctor's office, must go down as one of the most superb scenes in film history: \"Do you have memories? None of us has memories. or hopes. And love needs both, doesn't it?\" Sandrine Bonnaire (Vagabond, Monsieuer Hire, Joan the Maiden, La Ceremonie) answers Camus' (and everyone confronted with despair) philosophical questions from a Female point of view. Yet, as in Sandrine Bonnaire's best works,she is a woman alone in a hostile male environment. La Peste is an \"etalage\" or showcase for the depth, range and beauty of one of film's greatest actresses: Sandrine Bonnaire.",
+         "People seem awfully hard on this movie, and I don't quite understand why. It must suffer in comparison with the book. Granted no filmmaker could possibly match Camus brilliance, but this is a pretty solid movie. One thing that disappointed me was the descision to remove the story from the time period. The time setting is integral to the allegory. All in all, though, a good reconstruction.",
+         "Wow, right from the start this movie is a real downer, not exactly an uplifting film! This is really depressing. William Hurt, Robert Duvall, Raul Julia, Sandrine Bonnaire and Jean-Marc Barr star in a film dealing with a plague that is infecting a South American city. It sounds interesting, which is why I rented it, along with the great cast. However, I found this very disappointing, not only because it was so depressing but it's too talky, the photography disappointed me and I think it tries to be a lot \"smarter\" than it comes across. I can't see a lot of people enjoying this film. Half the cast members don't seem to be into this story, either, especially Duvall who usually gives great performances. A friend of mine suggested I read the book and forget the movie. I should have taken her advice. At least the author was famous.",
+         "Too talkative. Crappy acting. Pathetic writing. I could go on for a while... It is a shame that such good material was wasted. The film is clueless, since the makers had no vision. The film even manages to become boring. It also tries too hard to be meaningful and deep, but it just isn't intelligent enough. The photography is OK, though. But that's about the only good thing in this movie. As far as I know the film is only out on DVD in Asia. The DVD can often be found on eBay. Not that I would advise you to buy it, though. The DVD is 4:3. Some of the actors deliver performances that are far below their usual standard. This must mean that director Puenzo did a lousy job.",
+         "A fine example of the whole being less than the sum of its parts, this film might be more favorably received if we had been given more hints of its surreality. I certainly enjoyed it as a portrait of a city under stress; its residents not thinking clearly about what was really happening. Certainly I shared their struggle. And who knows, any of our cities may someday suffer as Oran did."
+      ],
+      "genres": ["Drama"],
+      "productionCompanies": [
+         "Compagnie Française Cinématographique (CFC)",
+         "The Pepper-Prince Ltd.",
+         "Oscar Kramer S.A."
+      ],
+      "summaries": [
+         "In the 1990s, a South American city is rocked by the imminent outbreak of a plague. While many attempt to flee the city, Dr. Bernard Rieux sends his sick wife away and does his best to care for the plague's victims. The plague means different things to different people: to the doctor, it's a disease to be cured. To a pair of French journalists, it's a breaking news story. To religious leaders, it's punishment for sins. As the sense of isolation and hopelessness grow, Dr. Rieux and his associates begin to question their previously-accepted feelings of justice, loneliness, and love.",
+         "In a city in South America an outbreak of bubonic plague occurs. While people try to flee and the military close the city an idealistic doctor decides to stay and help the sick. In the ever changing circumstances he puts up a brave fight, being helped by others but also involving them without being able to control the situation."
+      ],
+      "budget": 0
+   },
+   "movielensId": 128257,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1992-01-01",
+      "dvdReleaseDate": null,
+      "directors": ["Luis Puenzo"],
+      "runtime": 115,
+      "movieId": 128257,
+      "title": "The Plague",
+      "mpaa": "",
+      "actors": [
+         "William Hurt",
+         "Robert Duvall",
+         "Raúl Juliá",
+         "Sandrine Bonnaire",
+         "Jean-Marc Barr",
+         "Victoria Tennant"
+      ],
+      "imdbMovieId": "0105127",
+      "originalTitle": "La Peste",
+      "genres": [
+         "Action",
+         "Drama",
+         "Foreign"
+      ],
+      "youtubeTrailerIds": [],
+      "plotSummary": "In a city in South America an outbreak of bubonic plague occurs. While people try to flee and the military close the city an idealistic doctor decides to stay and help the sick. In the ever changing circumstances he puts up a brave fight, being helped by others but also involving them without being able to control the situation.",
+      "tmdbMovieId": 36907,
+      "avgRating": 2.5,
+      "releaseYear": "1992",
+      "numRatings": 1,
+      "posterPath": "/jlwEg4pqGnlp3H35ebsfoFlMuGS.jpg"
+   }
+}

@@ -1,0 +1,380 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "movie business",
+            "id": 886
+         },
+         {
+            "name": "hollywood",
+            "id": 12396
+         },
+         {
+            "name": "agent",
+            "id": 33705
+         }
+      ],
+      "imdb_id": "tt0037492",
+      "video": false,
+      "title": "Bud Abbott and Lou Costello in Hollywood",
+      "recommendations": [
+         33480,
+         33472,
+         33482,
+         52743,
+         33522,
+         36704,
+         190958,
+         181491,
+         63795,
+         38107,
+         107321,
+         293536,
+         30230,
+         156324,
+         33477,
+         184322,
+         53830,
+         45256,
+         58732,
+         40797
+      ],
+      "backdrop_path": "/rg0SybzXG6ToRaXOEE4VQZ88qmM.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Buzz Kurtis",
+               "gender": 2,
+               "credit_id": "52fe46e2c3a36847f8117c4d",
+               "name": "Bud Abbott",
+               "profile_path": "/d6QmegnndJIkZhrOgFRkW32ESbL.jpg",
+               "id": 30111,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Abercrombie",
+               "gender": 2,
+               "credit_id": "52fe46e2c3a36847f8117c51",
+               "name": "Lou Costello",
+               "profile_path": "/wo15DkhAi6jVkdnDGQ1IvdOf54v.jpg",
+               "id": 29642,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "Claire Warren",
+               "gender": 1,
+               "credit_id": "52fe46e2c3a36847f8117c55",
+               "name": "Frances Rafferty",
+               "profile_path": "/eAGNI21fFgXRwT79b535GIuvHqe.jpg",
+               "id": 108432,
+               "order": 2
+            },
+            {
+               "cast_id": 5,
+               "character": "Jeff Parker (as Robert Stanton)",
+               "gender": 0,
+               "credit_id": "52fe46e2c3a36847f8117c59",
+               "name": "Bob Haymes",
+               "profile_path": "/8KUnoJeRmHRnTd3hyfQ3KbnPdpU.jpg",
+               "id": 34414,
+               "order": 3
+            },
+            {
+               "cast_id": 6,
+               "character": "Ruthie",
+               "gender": 0,
+               "credit_id": "52fe46e2c3a36847f8117c5d",
+               "name": "Jean Porter",
+               "profile_path": "/8cv0Ku8xA9eq4rxaVDC8E6BOucu.jpg",
+               "id": 120549,
+               "order": 4
+            },
+            {
+               "cast_id": 7,
+               "character": "Norman Royce",
+               "gender": 2,
+               "credit_id": "52fe46e2c3a36847f8117c61",
+               "name": "Warner Anderson",
+               "profile_path": "/qGIbWqzL2cy9RXMIaWwrGi9re86.jpg",
+               "id": 89525,
+               "order": 5
+            },
+            {
+               "cast_id": 8,
+               "character": "Himself (as 'Rags' Ragland)",
+               "gender": 2,
+               "credit_id": "52fe46e2c3a36847f8117c65",
+               "name": "Rags Ragland",
+               "profile_path": "/WzDxP8my8E4e02hjfFTw20acsV.jpg",
+               "id": 129549,
+               "order": 6
+            },
+            {
+               "cast_id": 9,
+               "character": "Klondike Pete",
+               "gender": 2,
+               "credit_id": "52fe46e2c3a36847f8117c69",
+               "name": "Mike Mazurki",
+               "profile_path": "/s1alibwL5JiBhBNZQGiN91Hccc3.jpg",
+               "id": 84229,
+               "order": 7
+            },
+            {
+               "cast_id": 10,
+               "character": "Gregory LeMaise",
+               "gender": 2,
+               "credit_id": "52fe46e2c3a36847f8117c6d",
+               "name": "Carleton G. Young",
+               "profile_path": "/iMKRdHgCUzXDu432nRXscJJVKU8.jpg",
+               "id": 124090,
+               "order": 8
+            },
+            {
+               "cast_id": 13,
+               "character": "Dennis Kavanaugh",
+               "gender": 2,
+               "credit_id": "5492f938c3a3683d0d001adb",
+               "name": "Donald MacBride",
+               "profile_path": "/pu2s2wTTdyZtl3PjYtLjPthi3EG.jpg",
+               "id": 34234,
+               "order": 9
+            },
+            {
+               "cast_id": 14,
+               "character": "Barbershop Patron (uncredited)",
+               "gender": 2,
+               "credit_id": "5843da6d9251416ae80072cd",
+               "name": "King Baggot",
+               "profile_path": "/zELAQQXooE3mrQlJTHHHb6wziQE.jpg",
+               "id": 921738,
+               "order": 10
+            },
+            {
+               "cast_id": 15,
+               "character": "Lucille Ball (uncredited)",
+               "gender": 1,
+               "credit_id": "5843da82c3a36847f9007530",
+               "name": "Lucille Ball",
+               "profile_path": "/56f15aAkHkdVDrFgfly5cUa1bbD.jpg",
+               "id": 40174,
+               "order": 11
+            },
+            {
+               "cast_id": 16,
+               "character": "Royce's Secretary (uncredited)",
+               "gender": 1,
+               "credit_id": "5843da9592514166ba007228",
+               "name": "Marie Blake",
+               "profile_path": null,
+               "id": 1274103,
+               "order": 12
+            },
+            {
+               "cast_id": 17,
+               "character": "Mrs. Murdock (uncredited)",
+               "gender": 1,
+               "credit_id": "5843dab892514167640075f9",
+               "name": "Betty Blythe",
+               "profile_path": "/67skwPEbq60prZ1UVZAt8sH3lQ5.jpg",
+               "id": 120740,
+               "order": 13
+            },
+            {
+               "cast_id": 18,
+               "character": "Louise (uncredited)",
+               "gender": 1,
+               "credit_id": "5843dae2c3a36844df007bd2",
+               "name": "Karin Booth",
+               "profile_path": "/7oT55xwhTXupVKzHI9AozebR1QT.jpg",
+               "id": 238553,
+               "order": 14
+            },
+            {
+               "cast_id": 19,
+               "character": "Mr. Burvis (uncredited)",
+               "gender": 2,
+               "credit_id": "5843daf5925141676400761c",
+               "name": "Chester Clute",
+               "profile_path": "/9ZlAACiCnepfZS0dTAqqkdqWGse.jpg",
+               "id": 30280,
+               "order": 15
+            },
+            {
+               "cast_id": 20,
+               "character": "Dean (uncredited)",
+               "gender": 2,
+               "credit_id": "5843db139251416764007627",
+               "name": "Dean Stockwell",
+               "profile_path": "/gooE10UOH6t4geqsEbji9NiQalP.jpg",
+               "id": 923,
+               "order": 16
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe46e2c3a36847f8117c49",
+               "name": "S. Sylvan Simon",
+               "profile_path": null,
+               "id": 117773,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5492f917925141091e001974",
+               "name": "Nat Perrin",
+               "profile_path": null,
+               "id": 30011,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5492f922c3a3683d00001923",
+               "name": "Lou Breslow",
+               "profile_path": null,
+               "id": 34312,
+               "department": "Writing",
+               "job": "Screenplay"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Comedy",
+         "id": 35
+      }],
+      "popularity": 0.71829,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 46068,
+      "vote_count": 10,
+      "budget": 0,
+      "overview": "When two bumbling barbers act as agents for a talented but unknown singer, they stage a phony murder in order to get him a plum role.",
+      "similar": [
+         74643,
+         11353,
+         7446,
+         856,
+         509,
+         371638,
+         188222,
+         599,
+         254,
+         44826,
+         294016,
+         1826,
+         290,
+         1581,
+         59436,
+         146216,
+         522,
+         2294,
+         343668,
+         313369
+      ],
+      "original_title": "Bud Abbott and Lou Costello in Hollywood",
+      "runtime": 83,
+      "poster_path": "/pOBb727sxQECj1MhqBWM9NprBTf.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/zcxym93i5BTqqjhVvAhV5HPwYTR.png",
+         "name": "Metro-Goldwyn-Mayer",
+         "id": 21,
+         "origin_country": "US"
+      }],
+      "release_date": "1945-10-05",
+      "vote_average": 6.2,
+      "belongs_to_collection": null,
+      "tagline": "A double-barrelled fun birst!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Black and White",
+      "budgetCurrency": null,
+      "directors": ["S. Sylvan Simon"],
+      "runtime": 83,
+      "synopsis": null,
+      "writers": [
+         "Nat Perrin",
+         "Lou Breslow"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0037492/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTczOTM0NTUzMV5BMl5BanBnXkFtZTgwNDU0ODgwMzE@._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "actors": ["Stars: Bud Abbott, Lou Costello, Frances Rafferty | See full cast and crew »"],
+      "reviews": [
+         "Returning to the MGM lot in the Spring of 1945, Abbott and Costello make what would be their last, and funniest, film at the Tiffany of studios. Declining revenues during the war took its toll at MGM, and the loan-out deal with Universal was not renewed. Bud and Lou probably didn't mind, as there was a downturn in script quality at MGM -- not to mention a downturn in their salaries!!! \"In Hollywood\" isn't as poor as their first two MGM films, however. \"Rio Rita\" and \"Lost In A Harem\" suffered from poor pacing; here, the pacing is fine. And it's fun to see Lou get into trouble on the MGM lot(in the film, the studio is Mammoth.) Incidentally, MGM lifted the idea of Lou's cavorting on the set from Buster Keaton's 1930 MGM film \"Free and Easy.\" Another fun scene is on the midway set; it's ludicrous to believe that Costello is staying balanced on one wheel on the roller coaster, but, hey, that's what makes the scene funny and enjoyable to watch. The best scene in the film is the \"insomnia\" sketch, where Costello finds it impossible to sleep through the record that's supposed to put him to sleep (people raised only on CDs can't relate to this!) All in all, \"In Hollywood\" is a few notches above A&C's other MGM films. Video collectors take note: although \"The Noose Hangs High\" and \"Dance With Me, Henry\" were released on video by MGM/UA, they were actually independent productions. \"In Hollywood\" was their last MGM film, and a decent one at that. 7 out of 10.",
+         "Being yet still in the womb and pondering my next move when this was released in the UK, it was to be several years before I actually caught up with it - during an Abbott & Costello festival at my hometown theater. One's opinion these days depends whether you \"recall it\" as life WAS in the mid fifties or as an entity in its own right in 2003. Fact is, it was one funny movie and as well as being the last they actually made for MGM and remembering, that the war was not officially over during early filming, it actually had a sizeable budget allocated to it. Way better than LOST IN A HAREM, Lou was a hoot here as a Hollywood agent (with Bud) trying to get their client the lead role in a musical. Arguably the best routine on offer was that wherein Lou remains awake listening to a record designed to make him sleep. One of their more enduring films.",
+         "I grew up with Abbott & Costello's movies and show (and even their cartoon) back on WPIX in the 1970s. In my eyes, they were the best comedy team ever, easily besting Laurel & Hardy, Martin & Lewis and Hope & Crosby. Having recently begun re-watching A&C movies, I was reminded of just how funny they were. That is, until I got to \"A&C in Hollywood.\" I didn't remember having seen it before, likely because WPIX only played A&C's Universal classics. The problem here is that more than most other A&C movies, this was a bunch of gags loosely strung together with a weak story. Many of the gags weren't very funny and several of them just went on far too long, among them Costello hiding out as a stunt dummy on the set of a western and Costello having insomnia. The latter was especially tiresome. It went on for what seemed like 10-15 minutes and didn't advance the plot at all. How many times do we need to see A&C stuffing cotton in their ears, plucking it out, then repeating the process? Even more disturbing was their plan to eliminate their client's rival. Framing the man for a fake murder? That's definitely not A&C's style. They had always had harmless if sometimes negligent fun, but this crossed the line into outright crime. For a better take on the basic premise of this movie (two nobodies try to break into show business, with Costello being chased by an angry villain in the climax), try \"Who Done It?\" That film about two soda jerks trying to become radio mystery writers, made three years before this one, was a much better effort for both of them.",
+         "Can you imagine A Night at the Opera with only two Marx Brothers? That's essentially what you get in Abbott and Costello in Hollywood. As good as they were, the Marx Brothers never got their names into the title of any picture they did. That's because they weren't half the box office draw that Bud and Lou were. Like Chico and Harpo, Bud and Lou are barbers who get the idea to be agents. They decide to handle the career of Robert Stanton the same way Chico and Harpo sign up Allan Jones. And crooner Stanton does get into the picture in just about the same way Jones broke into Il Trovatore. Too bad though that Stanton never got to sing some songs as good as Cosi-Cosa or Alone. Might have a career for him. A&C got some good bits in. They had a good scene with MGM comedian Rags Ragland after Ragland comes in for a shave. And Costello being chased through the finale in a midway sequence is pretty funny. This was the last of three films that Universal loaned out the boys to MGM for the glossier productions than what they were used to at Universal. My favorite of the three MGM films has always been Lost in a Harem. That has more the zany quality of the Universal films than either Abbott and Costello in Hollywood or Rio Rita has. This one did only so-so box office as compared to the Universal product and Carl Laemmle, Jr. lent them out no more.",
+         "The film starts off in a Hollywood barber shop. After a brief opening scene where two hairdressers are seen bickering, the story starts where Bud and Lou are in a back room where Abbott is conning Costello out of more money. Apparently, Abbott went to barbering school but left Costello at home so he would have to pay Abbott to teach him the trade. So Abbott teaches Costello how to shave a balloon! Of course, Abbott is using the soft end of the razor and is making Lou use the razor end so Costello will continue to fail so therefore will end up having to pay Abbott more money. After getting wise to this scam, Costello 'shaves' the balloon successfully then puts it down on a heater (or something hot) whilst putting more lather on the balloon., of course after putting the razor near the balloon again, it pops. But wouldn't of Lou felt how hot it got before putting it near to the balloon? Anyway, it's a good start off scene and establishes both Bud and Lou's characters. Costello, after giving his last 5 dollars to Abbott has to then break a date with one of the girls. The dialogue here is very funny as he reminds her he asked her for a date and then she apparently said to him to see him next year 'and tonight the year is up!' She asks whether he is still falling for Abbott's scam and convinces him to shave the next customer. So Lou convinces Bud to shave the next customer while the boss is out. Rags Ragland walk in and Lou proceeds to shave him. Of course this is a Burlesque routine that has it's moments. Bud and Lou get called off to a job at a big-time agent's office. On the way to their car, they bump into their friend, Claire Warren, who used to work with them but is now a big star. Her and Costello's 'date' are roommates and best friends. Gregory Lemaise, the big crooner and big time star drives up and as he and Claire are to star in a new romance film, invites her to his beach house, presumably so he can seduce her. She turns him down (Indirectly by Lou - a good bit here) and he drives off. He is already established as the bad guy. Abbott and Costello make their way to the agent's office and get to work. Abbott is the barber and Lou is the shoe polisher. They are very impressed with how he operates his business, by producers phoning him and asking to use his clients therefore making him a lot of money without him apparently doing nothing. In walks new talent, who reminds the agent that him and his dad used to be best friends but the agent can't remember. Anyway, the kid persuades the agent to let him sing him a song and he is very successful. Lemaise walks in and threatens to pull out of the romance picture as Claire turned him down and the agent offers the kid the part. Even though Lemaise is supposed to be a big star, the kid doesn't recognise him till he sees a photo of him on the piano! As soon as The kid walks out the door, Lemaise persuades the agent to give him the part back so the agent's idea is to drop the kid. Bud and Lou then decide to become the Kid's agent and get him the part. This Abbott and Costello film has a good background story but their routines aren't up to scratch and a couple of them go on to long, thus disrupting the flow of the story. The result is an uneven film. Had they concentrated more on the story then it would have been a lot better. An unsual film for the boys. They show a bit of business acumen in an order to advance themselves. Though Lou is not as funny as he was a few years previously, he has the odd laugh here and there. The part where he runs amok in the studio lot goes on a bit to long and ends abruptly. The funniest bit is certainly the end with Lemaise chasing Lou on a roller coaster. Though the wheels don't match up to the tracks, it somehow makes it more hilarious This is for fans only and I find that the more I watch it the more I get from it. The end musical number is entertaining with Costello on the run from the big shot actor. When A studio Policeman asks a worker if he has seen Gregory Lemaise and the worker asks 'who?', it's like asking a worker at Warner Brothers if he has seen Sylvester Stallone. MGM was disappointed with the grosses for this film and subsequently dropped the option to produce more Abbott and Costello films. It's a shame as for better or for worse, the films done at MGM had a totally different atmosphere to the films made at Universal.",
+         "Abbott and Costello play bumbling barbers who become talent agents. Their first (and only) client is singer and actor Bob Haymes. They go to great lengths to make him a success. Fun but lesser outing from Bud and Lou; their last of three for MGM. The Hollywood backdrop provides for some funny gags like Lou pretending to be a stunt dummy. They don't get to meet any really big stars. Sure, there's Lucille Ball, but this is before TV. She was a B-level star at this time. In addition to her there's Preston Foster, Butch Jenkins, and Rags Ragland -- hardly the cream of MGM's crop. Rags' scene is pretty funny, though. Mike Mazurki, Warner Anderson, and Donald MacBride are all good in supporting parts. Frances Rafferty and Jean Porter provide the pretty. Haymes gets some singing numbers but nothing particularly noteworthy. Like I said, it's a fun Abbott & Costello movie but not one of their best. Certainly not something you'll regret watching. A nice way to pass the time.",
+         "I caught this as part of a DVD twin-bill along with another Abbott and Costello film for MGM - \"Lost in a Harem\". Between them, this one struck me as the funnier of the two, with a fair amount of gags to move the story along. Probably the best of them was Lou's Western dummy routine, but like a few of the others, it kind of just ended abruptly with a scene change when the bit was over. There was also that barber gimmick with Rags Ragland early in the picture. Ragland died before I was born and I can't say I've ever seen him in any other vehicle. He seemed to be heralded as one of the stars of this picture, but I didn't get a sense that he was all that big, even in his day. I always liked Mike Mazurki, that would be Iron Mike from his boxing and wrestling days. Probably the coolest surprise in the flick would be Lucille Ball showing up in a quick cameo. I swear she dressed down her looks for 'I Love Lucy' because in any film she appears prior to that TV run, she looks absolutely knockout. The gags and quick pacing almost overshadow the main story, which is probably a little more gruesome than the boys should have been subjected to. That's probably a good thing, as I don't like to think of Abbott and Costello attempting to frame a guy for murder. Seriously, who came up with that idea? Considering the title, I would like to have seen some more spot cameos of real Hollywood celebrities. Clark Gable was mentioned by name, as were one or two others who escape me now, but not a sign of any real star. Best to lower your expectations a bit going in, and laugh along with the boys as they settle into their routines.",
+         "I accept that this isn't the best A&C movie ever made but you cannot blame the stars. The script was poor and some of the co-stars either didn't want to be there or just weren't up to the skills of ability that A&C achieved. There are some classic one on one scenes between Abbott & Costello with the best being the barber scene that will have you in stitches if you like burlesque style of humor. I for one am a fan however if you are a first time viewer of the famous duo I would recommend a movie released in the same year \"The Naughty Nineties\" or my personal favourite of \"Abbott and Costello in the Foreign Legion\" This is still a must see for A&C fans however if you watch this without prior knowledge you will be disappointed and you may not appreciate just how hard A&C work to make this a half decent movie. Thanks for the memories boys.",
+         "This is one of the three pictures Abbott and Costello made for MGM-- who proved with Buster Keaton, the Marx Brothers films after \"A Day At the Races and Laurel and Hardy's late releases,\" that they really don't have much of a \"touch\" for this kind of comedy. Abbott and Costello fared much better at Universal with films such as \"Hold That Ghost,\" \"Buck Privates,\" \"Who Done It?\" \"Abbott and Costello Meet Frankenstein,\" \"The Time of Their Lives,\" etc. That's not to say that the film is terrible, it just suffers from sloppy pacing, almost no story, and somewhat weaker material for A&C (which was much sharper in the Universal films). It definitely has its funny points, but it doesn't hold together very well as a complete film. Best to stick to the Universal's--- especially if you are a first time viewer of Abbott and Costello.",
+         "Casting the boys as barbers in a Hollywood studio provides all sorts of comedic possibilities. However, in my book, only some skits work, while others go on past the point of maximum laugh effect. The roller-coaster whirlwind is a real grabber, but loses effect by overdoing. Still the first minute or so of onrushing cars almost had me under the seat. Also, the balloon shaving bit goes on long after its comedic point has been made. Nonetheless, other bits work well. Poor Costello�I don't know how many of the barroom stunts were his and not those of a double, but either way he should have gotten triple pay. It's not until you see athletic skits such as this that you realize how many physical skills the little fat guy has. It's fun glimpsing behind-the-scenes activities of movie-making. Shooting the musical scene, for example, with its exploding set looks like it requires all the skills of a military operation to make sure everything goes right. Then too, the rivalry between LeMaise (Stanton) and Parker (Bob Haymes, Dick's brother) over the lead in a movie also shows the business side of the industry, in humorous A&C fashion, of course. And get a load of long-legged Frances Rafferty (Claire) getting to show off her dancing and singing talents in a sprightly musical number. She certainly deserved a bigger career than she got. Anyway, the movie's one of the team's most interesting if not their funniest and still merits a look-see."
+      ],
+      "genres": ["Comedy"],
+      "productionCompanies": ["Metro-Goldwyn-Mayer (MGM)"],
+      "summaries": [
+         "Buzz and Abercrombie are agents trying to get Jeff Parker the lead in a movie musical. Routines include Lou's insomnia and his being unable to hear Bud due to his wearing an earplug. Lots of movie studio stuff.",
+         "When two bumbling barbers act as agents for a talented but unknown singer, they stage a phony murder in order to get him a plum role."
+      ],
+      "budget": 0
+   },
+   "movielensId": 71558,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1945-10-05",
+      "dvdReleaseDate": "2006-11-21",
+      "directors": ["S. Sylvan Simon"],
+      "runtime": 83,
+      "movieId": 71558,
+      "title": "Bud Abbott and Lou Costello in Hollywood",
+      "mpaa": "",
+      "actors": [
+         "Bud Abbott",
+         "Lou Costello",
+         "Frances Rafferty",
+         "Bob Haymes",
+         "Jean Porter",
+         "Warner Anderson",
+         "Rags Ragland",
+         "Mike Mazurki",
+         "Carleton G. Young",
+         "Donald MacBride",
+         "King Baggot",
+         "Lucille Ball",
+         "Marie Blake",
+         "Betty Blythe",
+         "Karin Booth",
+         "Chester Clute",
+         "Dean Stockwell"
+      ],
+      "imdbMovieId": "0037492",
+      "originalTitle": "Bud Abbott and Lou Costello in Hollywood",
+      "genres": ["Comedy"],
+      "youtubeTrailerIds": ["pXJ84LJfKzc"],
+      "plotSummary": "When two bumbling barbers act as agents for a talented but unknown singer, they stage a phony murder in order to get him a plum role.",
+      "tmdbMovieId": 46068,
+      "avgRating": 3.03571,
+      "releaseYear": "1945",
+      "numRatings": 14,
+      "posterPath": "/pOBb727sxQECj1MhqBWM9NprBTf.jpg"
+   }
+}

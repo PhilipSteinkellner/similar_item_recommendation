@@ -1,0 +1,776 @@
+{
+   "tmdb": {
+      "original_language": "fi",
+      "keywords": [],
+      "imdb_id": "tt0098437",
+      "video": false,
+      "title": "The Winter War",
+      "recommendations": [
+         41205,
+         36439,
+         49320,
+         38821,
+         25335,
+         29040,
+         63938,
+         38205,
+         45615,
+         62719,
+         103752,
+         68098,
+         37988,
+         58764,
+         62825,
+         29670,
+         36771,
+         45007,
+         223192,
+         36772
+      ],
+      "backdrop_path": "/5Spikk4HNlwtujd4GuWdQgxtiHa.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 6,
+               "character": "Private Martti Hakala",
+               "gender": 2,
+               "credit_id": "52fe45dbc3a368484e072e41",
+               "name": "Taneli Mäkelä",
+               "profile_path": "/keeFRmNaeY2pyUDCa2DhAIkvffC.jpg",
+               "id": 124262,
+               "order": 0
+            },
+            {
+               "cast_id": 16,
+               "character": "2nd Lieutenant Jussi Kantola",
+               "gender": 2,
+               "credit_id": "54a525f9c3a3680b270118fb",
+               "name": "Vesa Vierikko",
+               "profile_path": "/5Obcvueb6CtzPFVOTYSf555OLKw.jpg",
+               "id": 53509,
+               "order": 1
+            },
+            {
+               "cast_id": 8,
+               "character": "Private Pentti Saari",
+               "gender": 0,
+               "credit_id": "52fe45dbc3a368484e072e49",
+               "name": "Timo Torikka",
+               "profile_path": "/x8pOCIRMFu13nKLEGgU5CVHLUjv.jpg",
+               "id": 228650,
+               "order": 2
+            },
+            {
+               "cast_id": 17,
+               "character": "Private Vilho Erkkilä",
+               "gender": 0,
+               "credit_id": "59c818ea9251415b24062027",
+               "name": "Heikki Paavilainen",
+               "profile_path": null,
+               "id": 994246,
+               "order": 3
+            },
+            {
+               "cast_id": 18,
+               "character": "Corporal Erkki Somppi",
+               "gender": 0,
+               "credit_id": "59c818f6c3a36814030642c3",
+               "name": "Antti Raivio",
+               "profile_path": null,
+               "id": 124857,
+               "order": 4
+            },
+            {
+               "cast_id": 19,
+               "character": "Medical Corporal Juho Pernaa",
+               "gender": 0,
+               "credit_id": "59c81900925141453c00536b",
+               "name": "Esko Kovero",
+               "profile_path": null,
+               "id": 1245289,
+               "order": 5
+            },
+            {
+               "cast_id": 20,
+               "character": "Private Arvi Huhtala",
+               "gender": 2,
+               "credit_id": "59c8190dc3a36813a905d943",
+               "name": "Martti Suosalo",
+               "profile_path": "/15F757Yp3CNcBHsD8tJ4HG4l5O0.jpg",
+               "id": 89502,
+               "order": 6
+            },
+            {
+               "cast_id": 21,
+               "character": "Private Aatos Laitila",
+               "gender": 0,
+               "credit_id": "59c819189251415b770649b5",
+               "name": "Markku Huhtamo",
+               "profile_path": null,
+               "id": 936894,
+               "order": 7
+            },
+            {
+               "cast_id": 22,
+               "character": "Corporal Veikko Korpela",
+               "gender": 0,
+               "credit_id": "59c81926925141453c0053a1",
+               "name": "Matti Onnismaa",
+               "profile_path": "/94hCMWxqUrQwOIr7XBF0JB8s82x.jpg",
+               "id": 89503,
+               "order": 8
+            },
+            {
+               "cast_id": 23,
+               "character": "Private Paavo Hakala",
+               "gender": 0,
+               "credit_id": "59c819339251415b24062082",
+               "name": "Konsta Mäkelä",
+               "profile_path": null,
+               "id": 89514,
+               "order": 9
+            },
+            {
+               "cast_id": 24,
+               "character": "Private Matti Ylinen",
+               "gender": 0,
+               "credit_id": "59c81940c3a368144306394c",
+               "name": "Tomi Salmela",
+               "profile_path": null,
+               "id": 4829,
+               "order": 10
+            },
+            {
+               "cast_id": 25,
+               "character": "Private Mauri Haapasalo",
+               "gender": 2,
+               "credit_id": "59c8194f9251415b77064a0f",
+               "name": "Samuli Edelmann",
+               "profile_path": "/r89sCuJlxYOWGQh6JinCUYQXrDc.jpg",
+               "id": 92428,
+               "order": 11
+            },
+            {
+               "cast_id": 26,
+               "character": "Lieutenant Yrjö Haavisto",
+               "gender": 0,
+               "credit_id": "59c8195dc3a368774500536e",
+               "name": "Vesa Mäkelä",
+               "profile_path": null,
+               "id": 148293,
+               "order": 12
+            },
+            {
+               "cast_id": 27,
+               "character": "Captain Sihvo - battalion commander",
+               "gender": 0,
+               "credit_id": "59c8196d9251415b3205f65e",
+               "name": "Aarno Sulkanen",
+               "profile_path": null,
+               "id": 150978,
+               "order": 13
+            },
+            {
+               "cast_id": 28,
+               "character": "2nd Lieutenant Jaakko Rajala",
+               "gender": 2,
+               "credit_id": "59c81984c3a368140306439b",
+               "name": "Ville Virtanen",
+               "profile_path": "/8MdixCyOV8YRh9YySQwXPtGPwz5.jpg",
+               "id": 79757,
+               "order": 14
+            },
+            {
+               "cast_id": 29,
+               "character": "Private Yrjö 'Ylli' Alanen",
+               "gender": 2,
+               "credit_id": "59c819e8c3a36813a905da51",
+               "name": "Esko Nikkari",
+               "profile_path": "/mNiyD3BOzWba4CB0VTbIqA4EAVm.jpg",
+               "id": 53508,
+               "order": 15
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe45dbc3a368484e072e2b",
+               "name": "Pekka Parikka",
+               "profile_path": null,
+               "id": 222545,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe45dbc3a368484e072e31",
+               "name": "Pekka Parikka",
+               "profile_path": null,
+               "id": 222545,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe45dbc3a368484e072e37",
+               "name": "Antti Tuuri",
+               "profile_path": null,
+               "id": 141979,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe45dbc3a368484e072e3d",
+               "name": "Antti Tuuri",
+               "profile_path": null,
+               "id": 141979,
+               "department": "Writing",
+               "job": "Novel"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53899c130e0a261466000f4d",
+               "name": "Marko Röhr",
+               "profile_path": null,
+               "id": 238473,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53899c350e0a261469000f06",
+               "name": "Jukka Haavisto ",
+               "profile_path": null,
+               "id": 1326067,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53899ca8c3a3680aed000beb",
+               "name": "Juha Tikka ",
+               "profile_path": null,
+               "id": 1326069,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53899cfac3a3680aed000bf3",
+               "name": "Keijo Virtanen",
+               "profile_path": null,
+               "id": 1326073,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53899d34c3a3680afd000ca3",
+               "name": "Pertti Hilkamo",
+               "profile_path": null,
+               "id": 1084614,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "53899d47c3a3680aed000c03",
+               "name": "Tuula Hilkamo",
+               "profile_path": null,
+               "id": 54771,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a30522fc3a3680b9617bfea",
+               "name": "Kari Sohlberg",
+               "profile_path": null,
+               "id": 936898,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a30525d0e0a264cbe179a5b",
+               "name": "Annakaisa Sukura",
+               "profile_path": null,
+               "id": 1761207,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3052740e0a264cca17a264",
+               "name": "Martti Keskinen",
+               "profile_path": null,
+               "id": 1940223,
+               "department": "Crew",
+               "job": "Pilot"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3052850e0a264cd017f01c",
+               "name": "Mauri Koski",
+               "profile_path": null,
+               "id": 1940224,
+               "department": "Crew",
+               "job": "Pilot"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3052940e0a264cc4174e80",
+               "name": "Eero Lavola",
+               "profile_path": null,
+               "id": 1940225,
+               "department": "Crew",
+               "job": "Pilot"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3052aa0e0a264cd017f049",
+               "name": "Jukka Pikkusaari",
+               "profile_path": null,
+               "id": 1940226,
+               "department": "Crew",
+               "job": "Pilot"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3052c1c3a3680b8d17d206",
+               "name": "Esko Saarinen",
+               "profile_path": null,
+               "id": 1940227,
+               "department": "Crew",
+               "job": "Pilot"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3052db0e0a264cc4174ed2",
+               "name": "Ismo Teerioja",
+               "profile_path": null,
+               "id": 1940228,
+               "department": "Crew",
+               "job": "Pilot"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3052fa0e0a264cc4174f02",
+               "name": "Paul Autere",
+               "profile_path": null,
+               "id": 1940229,
+               "department": "Crew",
+               "job": "Pilot"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a30530b0e0a264cd017f0ac",
+               "name": "Pekka Engblom",
+               "profile_path": null,
+               "id": 1940230,
+               "department": "Crew",
+               "job": "Pilot"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a305333c3a3680b9d16c28e",
+               "name": "Marja-Liisa Virtanen",
+               "profile_path": null,
+               "id": 1940231,
+               "department": "Editing",
+               "job": "Assistant Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a305354c3a3680b9d16c2b3",
+               "name": "Pini Hellstedt",
+               "profile_path": null,
+               "id": 1674072,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3053690e0a264cbe179b64",
+               "name": "Jeppis K. Kankainen",
+               "profile_path": null,
+               "id": 1940232,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a30537d9251410324179f49",
+               "name": "Stefan Bremer",
+               "profile_path": null,
+               "id": 1940233,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a30538e925141032918485c",
+               "name": "Pekka Harju",
+               "profile_path": null,
+               "id": 1940234,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3053a00e0a264cca17a39a",
+               "name": "Ulla-Maija Parikka",
+               "profile_path": null,
+               "id": 1940235,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3053bc9251410326188937",
+               "name": "Pekka Uotila",
+               "profile_path": null,
+               "id": 1761199,
+               "department": "Camera",
+               "job": "Still Photographer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3053dd9251410333177c8f",
+               "name": "Juuso Hirvikangas",
+               "profile_path": null,
+               "id": 110756,
+               "department": "Lighting",
+               "job": "Lighting Technician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3053edc3a3680b9617c19d",
+               "name": "Esko Jantunen",
+               "profile_path": null,
+               "id": 1940237,
+               "department": "Lighting",
+               "job": "Lighting Technician"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a305402925141033917c80c",
+               "name": "Kari Kekkonen",
+               "profile_path": null,
+               "id": 1666636,
+               "department": "Lighting",
+               "job": "Lighting Technician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a305415c3a3680b9d16c366",
+               "name": "Heikki Ortamo",
+               "profile_path": null,
+               "id": 1540906,
+               "department": "Lighting",
+               "job": "Lighting Technician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a305443c3a3680b8f17cc78",
+               "name": "Erkki Hiltunen",
+               "profile_path": null,
+               "id": 1940238,
+               "department": "Crew",
+               "job": "Pyrotechnician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a30545592514103261889d1",
+               "name": "Veikko Kanninen",
+               "profile_path": null,
+               "id": 1940239,
+               "department": "Crew",
+               "job": "Pyrotechnician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3054699251410329184945",
+               "name": "Terho Partanen",
+               "profile_path": null,
+               "id": 1940240,
+               "department": "Crew",
+               "job": "Pyrotechnician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a30547bc3a3680b8a17860c",
+               "name": "Lasse Sorsa",
+               "profile_path": null,
+               "id": 1940241,
+               "department": "Crew",
+               "job": "Pyrotechnician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a30548e92514103261889ff",
+               "name": "Mauri Tikkanen",
+               "profile_path": null,
+               "id": 1940242,
+               "department": "Crew",
+               "job": "Pyrotechnician"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3054a8925141033617fb9c",
+               "name": "Mauri Laaksonen",
+               "profile_path": null,
+               "id": 1940243,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a3054bbc3a3680b93180c92",
+               "name": "Esa Parkatti",
+               "profile_path": null,
+               "id": 1666633,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3054e00e0a264cca17a4c9",
+               "name": "Hans-Walter Kramski",
+               "profile_path": null,
+               "id": 1339070,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3054f2c3a3680b8d17d411",
+               "name": "Bernd Schmidl",
+               "profile_path": null,
+               "id": 1580419,
+               "department": "Sound",
+               "job": "Foley"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a305510925141033617fc24",
+               "name": "Paul Jyrälä",
+               "profile_path": null,
+               "id": 1666631,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a30552b0e0a264cc11792b4",
+               "name": "Matti Kuortti",
+               "profile_path": null,
+               "id": 1210338,
+               "department": "Sound",
+               "job": "Sound Recordist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a30554a0e0a264ccd181d9d",
+               "name": "David Lewis Yewdall",
+               "profile_path": null,
+               "id": 1376514,
+               "department": "Sound",
+               "job": "Supervising Sound Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a30556a925141033917c94b",
+               "name": "Kari Koivumäki",
+               "profile_path": null,
+               "id": 1940246,
+               "department": "Art",
+               "job": "Assistant Property Master"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3055adc3a3680b8f17cda5",
+               "name": "Arto Koskinen",
+               "profile_path": null,
+               "id": 1940247,
+               "department": "Art",
+               "job": "Assistant Property Master"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3055e3c3a3680b8f17cdd4",
+               "name": "Erkki Lume",
+               "profile_path": null,
+               "id": 1940249,
+               "department": "Art",
+               "job": "Property Master"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3056009251410333177e72",
+               "name": "Seija Haanpää",
+               "profile_path": null,
+               "id": 1940251,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3056119251410326188b52",
+               "name": "Mila Niemi",
+               "profile_path": null,
+               "id": 1940252,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a3056290e0a264cc4175214",
+               "name": "Juhani Jotuni",
+               "profile_path": null,
+               "id": 1940253,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a30564dc3a3680b881829c6",
+               "name": "Terhi Tammila",
+               "profile_path": null,
+               "id": 1538675,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a305662925141033917ca43",
+               "name": "Veikko Aaltonen",
+               "profile_path": null,
+               "id": 109893,
+               "department": "Directing",
+               "job": "First Assistant Director"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "War",
+            "id": 10752
+         }
+      ],
+      "popularity": 2.83346,
+      "production_countries": [{
+         "iso_3166_1": "FI",
+         "name": "Finland"
+      }],
+      "id": 29383,
+      "vote_count": 23,
+      "budget": 4414000,
+      "overview": "Russia attacked Finland in late November 1939. This film tells the story of a Finnish platoon of reservists from the municipality of Kauhava in the province of Pohjanmaa/Ostrobothnia who leave their homes and go to war. The film focuses on the farmer brothers Martti and Paavo Hakala.",
+      "similar": [],
+      "original_title": "Talvisota",
+      "runtime": 189,
+      "poster_path": "/hoXzrghg8RMtw9ErlWZ6lfixOR9.jpg",
+      "spoken_languages": [{
+         "name": "suomi",
+         "iso_639_1": "fi"
+      }],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "National Filmi Oy",
+         "id": 7510,
+         "origin_country": ""
+      }],
+      "release_date": "1989-12-30",
+      "vote_average": 7.3,
+      "belongs_to_collection": null,
+      "tagline": "They held back the Russian Juggernaut in a frozen Hell!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Finland",
+      "color": "Color",
+      "budgetCurrency": "FIM ",
+      "directors": ["Pekka Parikka"],
+      "runtime": 195,
+      "synopsis": null,
+      "writers": [
+         "Pekka Parikka",
+         "Antti Tuuri"
+      ],
+      "originalLanguage": "Finnish",
+      "imdbLink": "http://www.imdb.com/title/tt0098437/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTkzNzExMTQ3Ml5BMl5BanBnXkFtZTcwNTU0MDgxMQ@@._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "actors": ["Stars: Taneli Mäkelä, Vesa Vierikko, Timo Torikka | See full cast and crew »"],
+      "reviews": [
+         "TALVISOTA (Winter War) deals with the 1939-40 Russo-Finnish War, a largely forgotten conflict that was one of the most savage wars of the 20th century. The Soviet Union invaded Finland in November of 1939 when the Finns refused Stalin's demands to relinquish some of their territory in Karelia. The Finns were outnumbered 50-1 but fought with incredible courage and tenacity and inflicted a half million casualties on the Soviets before they were forced to capitulate in March of 1940. The Russians were equally brave but not as smart; they stormed well defended positions en mass and were mowed down by the hundreds. TALVISOTA brilliantly captures the horror and carnage of that war and all wars. Disturbing and depressing but also a gripping and deeply moving experience. Makes SAVING PRIVATE RYAN look like a walk in the park.",
+         "Why are the Europeans so much better at producing hard hitting, gritty war films than those in Hollywood? I wish I knew. Talvisota is an excellent example of this and is infinitely better than what has been produced in the U.S. If you have seen \"Saving Private Ryan\" or \"Enemy at the Gates\" and think you have seen the best...you're sadly mistaken. Talvisota and other such films as the German film \"Stalingrad\" or the French film \"Capitaine Conan\" are much better at presenting the absolute horror of war and the desperation felt by those men forced to face combat. I am looking forward to the release of \"Pearl Harbor\" but am afraid it too will only reinforce what I have stated here. Rent Talvisota and hopefully you will agree that it is one of the better war films in terms of accuracy and unvarnished drama.",
+         "The subject is the little-known war between Finland and Russia in WWII. It is hard to imagine such a small country standing up against mighty Russia, but it happened. You get a vivid sense of the despair and carnage of fighting against overwhelming odds. The random nature of combat also strikes hard. The visuals are graphic and stunning without being over dramatized. The craziness of war is brought home by a Finnish soldier who laughingly lights up a cigarette after having his uniform set aflame by a Russian tank. Quiet moments off the battlefield intersperse the intense battle scenes. If you are a war movie fan then this is a must-see movie! Reviewed was the English sub-titled version. For anyone primarily fluent in English it is quite interesting to hear dialogue in Finnish, a language far removed from English.",
+         "How about one of the greatest war movies from any country? Might have even influenced some of the recent US warmovies to look more realistic with violence and the gritty and dirty look. Always seemed strange how clean the soldiers looked in old warmovies over here. Should be watched by almost everyone to learn some history. Not sure how few Americans know about the Finns kicking Soviet ass much less even where Finland is. Many thanks to you guys for this great movie. Heard there is a Swedish copy with extra scenes I hope to see also. Only complaint is I don't speak Finnish and sometimes had to rewind to see what they said as I got caught up with the combat action.",
+         "This movie explores the mostly unknown, and extremely bloody part of Second World War, the Soviet invasion of Finland in 1939-40. For 105 days the Finns fought a numerically superior enemy before the war ended with 25,000 Finns and over 200,000 Russians dead. Forget Saving Private Ryan and The Thin Red Line, this movie shows what desperate war against overwhelming odds is about; desperation, lack of ammunition, constant bombardment, and nothing but your wits and your rifle to help you survive. Rightfully, the horrors of war are shown having effect on both sides; Finns are pinned down to the point of hardly living at all in dirt and constant fear of death, while Russians are mowed down in hundreds and mercilessly shot in the back. Excellent performances, good effects and marvelous photography makes this masterpiece not only one of the finest Finnish movies ever, but also a reminder that war is brutal, bloody, futile, and that it's the men on the front, Finnish or Russian, who have to die and bear the price for mankind's ultimate stupidity. Word of warning: violence is very graphic at times, especially in the close combat scenes.",
+         "Not many know of our wars. I really would love to see a movie made that not only describes the conditions and events that led to these wars, but also describes how our parents and their parents experienced the events both in the front and behind. I liked \"Saving Private Ryan\". I loved \"Band of Brothers\". But still, it's \"Talvisota\" and \"Tuntematon Sotilas\" that really make me feel the weight of war, the effect it has on human mind. \"Talvisota\" also brings forth the families who saw their fathers, sons, even daughters go to war, with pitiful equipment, maybe even carrying personal rifle as the army could not support them with much else than the blue&white coquards (or what it is called) for their hats. And it shows the pain those families felt when their menfolk came back in wooden caskets or crippled for life. It's also a fine story of personal courage of the ordinary guy, of friendship and loyalty. And of pain and fear. See it. And seeing some Russian war-films could also make you see the world a bit brighter. They have filmed some fantastic stories.",
+         "Though I'm not a great fan of war-movies I must say this one made quite the impression. I can't really tell what it was but the story struck me. Not only did this movie give you a story about the war itself, but also on the impact it had on the families afflicted by it. Excellent acting and a chillingly choice of filming made this movie one to remember. Forget about \"saving private ryan\" this movie shows a war in all it's roughness without the fancy actors doing their best to be the \"brave soldier\" (no offense to some, but lots to others). After Full Metal Jacket (to me a totally different genre but still for many a war-movie) one of the favourite movies in the \"war-theme\"",
+         "If you taught that \"saving private Ryan\" was a sad war film you haven`t seen anything yet. Movie opens as a group of Finnish soldiers are transported to eastern border of Finland to fight somewhat 50 times bigger and much better armored enemy Russia. Enemy is shot to dead like fly`s, but the movie contains only a bit of patriotism. Finland`s soldiers are not in a happy situation, there`s very little ammunition and own soldiers are getting low too. Sounds & special effects are excellent and acting is good too. I can`t describe this film better with my English, so watch it and say your opinion.",
+         "I have watched Talvisota for two times and it was even better than in the first time. It's a very realistic movie about the 105 day Winter War, which was fought between Finland and Russia in 1939-1940. The movie follows an infantry regiment from Lapua, and particulary private Martti Hakala. The movie starts when the men are called to an extra training session, but soon they are transported near the border and, soon after that, to the frontline, where they are trying to stop all the russian attacks. The combat scenes look good and realistic. They usually consist of Finns trying to stop the Russian human wave from getting in to the Finnish trenches, but every battle is still different, when the number of Finnish soldiers is decreasing and decreasing and the battles are getting more desperate. And of course, sometimes it's the Finns attacking. Technically the movie is also very good. The sounds really make you feel as if you where there, in the middle of combat, thanks to the sound designer Paul Jyrälä. I have always liked scenes with added slow motion, especially in war movies. This movie features some, and they are in really great places (for example, in one scene a soldier is running to the HQ during a bombardment, trying not to get hit by a grenade. And all is shown in a cool slow motion!) The explosions also are very well done, with pieces of ground, ice and trees flying in the air. I can't say anything bad about this movie. Sometimes it reminds me of Band of Brothers or Saving Private Ryan (I also like both of them) but unlike them, Talvisota tells about a war not so famous. I guess that almost everyone of you has heard about the invasion of Normandy and Operation Market Garden, but how many has heard about Taipale? How many has heard about the Winter War?",
+         "What's wrong with the movie world. \"winter war\" easily competes with everything i've seen from hollywood. i think saving private ryan or Thin Red Line are great, but \"winter war\" is equally great, and i mean it on every level. special effects and action was nice (lots of trees get \"cut\" in this movie), although i felt that in some scenes it was lit badly or the filmm stock was cheap so it didn't achieve an \"expensive\" top quality look like big hollywood productions. the director and producers did a great job, it's really hard to make a good war movie with actual war in it with a limited \"european\" budget. amazing that SVP gets 5 oscars(not undeserved) and \"Winter War\" only 3 \"Jussis\"...i already knew that oscar means s**t but my point is that \"Winter War\" deserves much more recognition because it's one of the greatest war movies on the planet. Watch it, \"Winter War\" is a (anti-)war movie at it's best."
+      ],
+      "genres": [
+         "Drama",
+         "War"
+      ],
+      "productionCompanies": ["National Filmi Oy"],
+      "summaries": ["Set during World War 2. After Nazi Germany invaded Poland in September 1939, Russia attacked Finland in November 1939. Finnish reservists leave their homes and go to war. The film focuses on two farmers from the municipality of Kauhava in the province of Pohjanmaa/Ostrobothnia, brothers Martti and Paavo Hakala, serving in a Finnish platoon."],
+      "budget": 23500000
+   },
+   "movielensId": 8589,
+   "movielens": {
+      "languages": ["suomi"],
+      "releaseDate": "1989-12-30",
+      "dvdReleaseDate": "2001-07-19",
+      "directors": ["Pekka Parikka"],
+      "runtime": 189,
+      "movieId": 8589,
+      "title": "The Winter War",
+      "mpaa": "",
+      "actors": [
+         "Taneli Mäkelä",
+         "Vesa Vierikko",
+         "Timo Torikka",
+         "Heikki Paavilainen",
+         "Antti Raivio",
+         "Esko Kovero",
+         "Martti Suosalo",
+         "Markku Huhtamo",
+         "Matti Onnismaa",
+         "Konsta Mäkelä",
+         "Tomi Salmela",
+         "Samuli Edelmann",
+         "Vesa Mäkelä",
+         "Aarno Sulkanen",
+         "Ville Virtanen",
+         "Esko Nikkari"
+      ],
+      "imdbMovieId": "0098437",
+      "originalTitle": "Talvisota",
+      "genres": [
+         "Drama",
+         "War"
+      ],
+      "youtubeTrailerIds": ["7ELfMprEbrI"],
+      "plotSummary": "Russia attacked Finland in late November 1939. This film tells the story of a Finnish platoon of reservists from the municipality of Kauhava in the province of Pohjanmaa/Ostrobothnia who leave their homes and go to war. The film focuses on the farmer brothers Martti and Paavo Hakala.",
+      "tmdbMovieId": 29383,
+      "avgRating": 3.72013,
+      "releaseYear": "1989",
+      "numRatings": 611,
+      "posterPath": "/hoXzrghg8RMtw9ErlWZ6lfixOR9.jpg"
+   }
+}

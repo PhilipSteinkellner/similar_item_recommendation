@@ -1,0 +1,395 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "possession",
+            "id": 9712
+         },
+         {
+            "name": "fake documentary",
+            "id": 160517
+         }
+      ],
+      "imdb_id": "tt1535617",
+      "video": false,
+      "title": "The Possession of David O'Reilly",
+      "recommendations": [
+         131887,
+         201022,
+         50636,
+         35197,
+         85198,
+         57313,
+         79906,
+         38499,
+         101730,
+         79544,
+         55660,
+         159211,
+         45778,
+         229839,
+         73085,
+         283749,
+         44548,
+         70009
+      ],
+      "backdrop_path": "/3auFBgCvdG9T4H0hBL8AN3VfqYh.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "David O'Reilly",
+               "gender": 0,
+               "credit_id": "52fe47abc3a36847f8141d29",
+               "name": "Giles Alderson",
+               "profile_path": "/l9O8o27CSQWdzDwHJCtNmdkJJ4h.jpg",
+               "id": 142947,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Anna",
+               "gender": 1,
+               "credit_id": "52fe47abc3a36847f8141d2d",
+               "name": "Francesca Fowler",
+               "profile_path": null,
+               "id": 142948,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Kate",
+               "gender": 1,
+               "credit_id": "52fe47abc3a36847f8141d31",
+               "name": "Zoe Richards",
+               "profile_path": null,
+               "id": 142949,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Alex",
+               "gender": 2,
+               "credit_id": "52fe47abc3a36847f8141d35",
+               "name": "Nicholas Shaw",
+               "profile_path": null,
+               "id": 142950,
+               "order": 3
+            },
+            {
+               "cast_id": 8,
+               "character": "Monster",
+               "gender": 0,
+               "credit_id": "52fe47abc3a36847f8141d4b",
+               "name": "Paul McGuinness",
+               "profile_path": null,
+               "id": 1187587,
+               "order": 4
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe47abc3a36847f8141d3b",
+               "name": "Andrew Cull",
+               "profile_path": null,
+               "id": 142951,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47abc3a36847f8141d41",
+               "name": "Steve Isles",
+               "profile_path": null,
+               "id": 142952,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47abc3a36847f8141d47",
+               "name": "Andrew Cull",
+               "profile_path": null,
+               "id": 142951,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47abc3a36847f8141d51",
+               "name": "Shaked Berenson",
+               "profile_path": null,
+               "id": 557855,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47abc3a36847f8141d57",
+               "name": "Patrick Ewald",
+               "profile_path": null,
+               "id": 62345,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47abc3a36847f8141d5d",
+               "name": "Steve Isles",
+               "profile_path": null,
+               "id": 142952,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47abc3a36847f8141d63",
+               "name": "Steve Isles",
+               "profile_path": null,
+               "id": 142952,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47abc3a36847f8141d6f",
+               "name": "Kant Pan",
+               "profile_path": null,
+               "id": 16675,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47abc3a36847f8141d75",
+               "name": "Erika Ökvist",
+               "profile_path": null,
+               "id": 1187589,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe47abc3a36847f8141d7b",
+               "name": "Alison Hanken",
+               "profile_path": null,
+               "id": 1187590,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a77121492514105a304505d",
+               "name": "Vanesa Lorena Tate",
+               "profile_path": null,
+               "id": 1403735,
+               "department": "Sound",
+               "job": "Sound Designer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5a77122f0e0a26642d04c4c6",
+               "name": "Johnny White",
+               "profile_path": null,
+               "id": 1477602,
+               "department": "Sound",
+               "job": "Boom Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a77124bc3a36859cc049add",
+               "name": "Paul McGuinness",
+               "profile_path": null,
+               "id": 1187587,
+               "department": "Visual Effects",
+               "job": "Special Effects Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a771273c3a36859fc04c0e3",
+               "name": "Natalie Sloan",
+               "profile_path": null,
+               "id": 1405803,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a7712c1925141059a045ec6",
+               "name": "Sharon Smith",
+               "profile_path": null,
+               "id": 1972616,
+               "department": "Visual Effects",
+               "job": "Creature Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a7712d9c3a36859cf0437cb",
+               "name": "Dolores McGinley",
+               "profile_path": null,
+               "id": 1972617,
+               "department": "Art",
+               "job": "Title Designer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a77130f0e0a26643c04a9e3",
+               "name": "Nic Lawson",
+               "profile_path": null,
+               "id": 1972618,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a77133a0e0a26643c04aa0f",
+               "name": "Erin Stevens",
+               "profile_path": null,
+               "id": 1972619,
+               "department": "Camera",
+               "job": "First Assistant Camera"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5a77136e9251410597044c67",
+               "name": "Alexis Haggar",
+               "profile_path": null,
+               "id": 1466254,
+               "department": "Visual Effects",
+               "job": "Visual Effects"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Horror",
+            "id": 27
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 1.290293,
+      "production_countries": [{
+         "iso_3166_1": "GB",
+         "name": "United Kingdom"
+      }],
+      "id": 49847,
+      "vote_count": 11,
+      "budget": 0,
+      "overview": "A supernatural shockumentary about a demonic presence in a young couple's home in London.",
+      "similar": [
+         9552,
+         293670,
+         33801,
+         91586,
+         396422,
+         259693,
+         289416,
+         250546,
+         16235,
+         335796,
+         561,
+         138843,
+         242512,
+         11586,
+         241258,
+         334536,
+         620,
+         4011,
+         109414,
+         134366
+      ],
+      "original_title": "The Possession of David O'Reilly",
+      "runtime": 87,
+      "poster_path": "/onYxHzhZv81hr21JDmnnCzwXs4j.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "Authentic Films",
+         "id": 11605,
+         "origin_country": ""
+      }],
+      "release_date": "2010-01-01",
+      "vote_average": 4.5,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "UK",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": [
+         "Andrew Cull",
+         "Steve Isles"
+      ],
+      "runtime": 87,
+      "synopsis": null,
+      "writers": ["Andrew Cull"],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt1535617/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjEzMTY2NzY1MV5BMl5BanBnXkFtZTcwMzMyNDMyNA@@._V1_SY317_CR0,0,214,317_AL_.jpg",
+      "actors": ["Stars: Giles Alderson, Francesca Fowler, Paul McGuinness | See full cast and crew »"],
+      "reviews": [
+         "Just after midnight, a young London couple receive a visit from their friend David who appears distraught, telling them that his girlfriend has been unfaithful and needs a place to stay for the night. Sometime after three in the morning, David is left downstairs whilst the others depart. It's only whilst looking in a mirror that David sees something out of the corner of his eye and, as he investigates, he comes face to face with something utterly nightmarish. But this isn't his first encounter with the horrors that lurk in the dark. He's met them before... and now he's brought them with him to his friends' apartment. This low budget British movie from Andrew Cull and Steve Isles has drawn a lot of comparisons to \"Paranormal Activity\" which is unfair. Whilst there are certain similarities (characters stalked within a building by an unknown horror over a series of nights and the use of POV shots), those similarities are quite superficial. \"The Possession Of David O'Reilly\" was conceived and shot before \"Paranormal Activity\", and seems to draw more influence from the works of Clive Barker and George Romero than Oren Peli's 2007 horror movie. This is a movie steeped in a foreboding atmosphere with long silent scenes taking place in virtual darkness, events illuminated only by a single light source � such as a cell phone or the moon through curtains. That's not to say that the movie doesn't have some significant problems. Despite not using the 'lost footage' style of \"Paranormal Activity\", the directors frequently film scenes from the point of view of one of the three characters. Whilst this does add tension in certain places, it's ultimately overused diluting the intended effect as the movie continues. As with most horror movies, the main characters are also prone to making bad decisions which make their situation worse and this only serves to undermine the story in places. In addition, we are given very little back story about any of the characters and there are some definite pacing issues. What's most frustrating about \"The Possession Of David O'Reilly\" is that it has the potential to be a lot better than the end product suggests. The make-up effects for the horrific creatures are generally pretty good, and often accompanied with terrific eerie sound effects that heighten the scares. In the main role, Giles Alderson is fantastic; perfectly demonstrating his character's loosening grasp on reality as events unfold. Finally, the story itself succeeds as many times as it fails, and some scenes will definitely make you jump if you're watching the movie in a dark room with no distractions. However, I was left feeling largely ambivalent at the conclusion of \"The Possession Of David O'Reilly\". Whilst there were glimpses of a great horror movie at times, the absence of information regarding several key story points, and paper-thin characterisation ultimately makes it difficult to recommend. Fans of small, independent horror productions such as \"The Blair Witch Project\", \"Bug\" and (in my opinion) the inferior \"Paranormal Activity\" will most likely enjoy this movie, despite its flaws, and owe it to themselves to take a look in order to make up their own minds. All others should probably tread carefully here, as the decidedly average script and the previously mentioned pacing issues may not compensate for the occasional jump scare in a darkened room when something with half a face appears in a sliver of light.",
+         "David O'Reilly isn't Paranormal Activity. Don't go into it thinking it is. They share a few traits but they are very different films. David O'Reilly is by no means a perfect film but there is potential here. The film's plot is interesting, the characters strong and the performances are far and above better than in most low budget movies. Unfortunately the effects let the film down. Personally I could have done without much of them. I think the film would have been better without them. In all David O'Reilly's not going to set the world on fire but I certainly would be interested to see what Andrew Cull might do in the future.",
+         "I was so frustrated whilst watching this. The potential for a fantastic film was all there but it was all let down by the lack of info and the obscure plot. At first I was lead to believe that this was going to be a new improved British version of Paranormal Activity... I was wrong. I was dieing for this film to break forward and become its own film. But instead I was just left wondering WHY!? Why? Why did this happen? Why does that happen? At one point I though a few questions were going to be answered as to why this demon is doing this haunting and this was hinted at but still not made clear. With abstract shots of small dark rooms we're led on a cryptic path where nothing is really explained as to why or how it's happening.",
+         "This is one of those films that keeps you guessing and maybe even a little lost to what's going on but without sabotaging itself. Is it about a demonic haunting or could it be about a man who's lost his mind? Eventually the question is answered and the trip getting there is very entertaining. There isn't a lot of gore or creature effects but what we do see is done incredibly well. That brings me to my single criticism is that the creatures should have been given more screen time however, it was essentially to merely give us glimpses because of the premise of the film. Great independent thriller/suspense/horror with very high rewatch value.",
+         "I give this movie a 4.5 because at the very least it kept me watching long enough to reassure my \"guess\" about who the monster(s) really was. I believe David killed his girlfriend Sarah and the demons chasing him were his own guilt manifesting itself.His best-friend fell into his hallucinations only as a best friend could.In the last ten minutes of the movie his best friend's girl begins to realize just how insane David's behavior is when she starts resisting to give into the mass hysteria slowly trying to take over the lot of them by refusing to turn out the light.It was a little annoying for obvious reasons(after reading David's journal neither his best friend or his girlfriend's reaction was believable.....at this point you really have to questions David's sanity just a little more as he is hanging around their house looking like strung out drug addict).Also the best friend and David are running around in most of the movie with knives in the dark so I expected someone to at least get a nick a little earlier on.In closing they show David's best-friend's girlfriend laying on the hallway floor(you can tell by the distinctive tile where she is),with a bloody gut wound. Quite obvious to me it was inflicted by David as she wrestled him to escape.In panic mode I don't believe she knew how mortally wounded she was and kept going until she made it to the hallway and then passed away.I enjoyed this movie because it took very little effort to figure out but still had some \"jumpy\" parts. I do feel the whole movie/story could have been done as a short and would have been much more effective.",
+         "I just finished watching this movie and it scared the h-e-double hockey sticks out of me! I am however, confused. First of all, after reading reviews, I noticed that a tonne of people are comparing it to \"Paranormal Activity\". Sure, maybe if Paranormal is the horribly crappy version of it. Movies in the same genres are going to have similarities, but for people to call this a spin off of Paranormal obviously need to watch these two movies again. First of all, this movie doesn't SUCK. \"The Possession of David O'Reilly\" moved at a good pace, I didn't find myself getting bored. The question of whether or not he was slowly going insane, or if these supernatural occurrences were actually reality really kept me engaged the entire time. I kept going back and forth between those two questions. The only thing that I didn't totally dig, was the end. I was left feeling super confused. The camera panned over the girlfriend's body, showing that she was dead. It made me wonder, were the demons real and they killed her when she opened the door, and David was right in warning her not to? If so, then why didn't the couple see the same things that David was seeing when it all started happening more? WHAT HAPPENED?! I need to know! It's really bugging me and I don't want to watch it again...too scary. But good. ^_^",
+         "THE TORMENT is another familiar low budget supernatural horror film, this time with a British slant. The style of the movie is clearly influenced by the likes of THE BLAIR WITCH PROJECT and PARANORMAL ACTIVITY, but the decision to shoot 90% of the scenes in a dark house and the excessive use of shaky cam means that viewers are unable to see or even make out much of what transpires. Before long you won't even care, given that the characters are so unengaging. The narrative is a cheap three-hander in which your boringly average couple are visited in their home by one of the husband's friends. Unfortunately for them he's brought a demon with him, so lots of screaming and running around ensue. If I had found any of this in the least bit frightening I might have enjoyed it more, but as it stands it's all rather dull. The ending is boring in its expected ambiguity, and the acting is rather wobbly, particularly from Francesca Fowler.",
+         "Visiting a group of friends following a nasty break-up, a man finds their house under assault by shadowy, grotesque beings that are utterly remorseless in trying to get at them, forcing them into a long, blood-soaked night to fend them off. This is yet another in a long, long list of utterly terrible British horror efforts. Of the biggest factors hurting this one is it featuring all the hallmarks of their later films all brought together in a singular whole, starting with pace that features no energy, momentum or excitement. The first half is mainly built around the discovery of her behavior and then meeting up with her friends at their house for several nights complaining about the situation or meeting the neighbors, all of which are a large number of scenes that offer up hardly anything in terms of scares that leave large portions of the film utterly boring. Another big problem here is a series of seemingly scary scenes ruined by the irritating camera that won't stop moving to give you a clear idea of what's going on, either being so dark and devoid of light that it's too shadowy and tough to make it out, or the scenes are filmed similar to a first-person perspective where everything is just out of eye-sight so it's a quick edit away or just so scatter-shot to tell definitely what's happening. The last big flaw here is a decided lack of explanations as to what's happening, so even though there's a few newspapers and the drawings nothing is really definitively given here beyond an utterly lame attempt using a glass like an Ouija Board so it's almost impossible to find anything worthwhile in here. There's at least some halfway decent scenes here, mainly the first home attack scene in here where the darkened house comes from the lack of light around the area leading to plenty of screaming around looking for answers, a vicious escape attempt with the creatures in the room prompting some pretty intense action with the creatures at the end. It's only other decent scene is the freak-out at the end to keep this one with at least a little action throughout here as the scenes of them trying to keep him calm as he frantically tries looking around for the creatures allows a little bit of suspense here, but overall it's still not nearly enough to really make sense of the situation as what could be seen in the situation doesn't make it clear what's going on. Overall, this one isn't really worth it. Rated R: Graphic Language and Violence.",
+         "This was probably one of the most ridiculous \"horrors\" / \"haunting\" movies I have seen. Most of the time I was laughing - I laughed a lot at that dude running around screaming; I found something hilarious in how he sounded. So I guess in other words: his screams are ill suited for horror movies, and would be better suited for comedy; though I suppose when the guy wasn't screaming... the acting was okay all round, really Apart from that: the lighting, \"cinematography,\" and story were all below-par, and really: not scary at all, and at times it felt very forced and disjointed, as if they were struggling to make it all go anywhere. Overall: A very \"meh\" movie experience.",
+         "***Spoilers..i guess*** I gave this movie a 5, midway because I HAVE seen some painfully bad horror movies with equally bad acting, bad story, and bad cinematography. But this one had some potential. Throughout watching the film, I DID say, hey, there's a possibility that the guy's f***kin nuts?! So for me, it prompted a discussion the effects of a psychotic break. In an addition to that, I do like the set up for his issues/paranoid state because you could see that he wasn't sleeping and looked withdrawn. (I, personally, being a person that suffers from bouts of insomnia related to my narcolepsy, I can agree that sleep deprivation CAN and will make you more prone to hallucinations, paranoid thinking and panic attacks/anxiety.) If anything, this movie could've been considered an interesting POV of a man's decent into madness. And with that in mind, the crazy lighting, bad views of the monsters, and confusing sense of story sorta works... ..now as much as I walked away from this movie believing that he was just crazy...there could be a play for a \"Silent Hill 2-Video Game story plot\" Where its a case of this man's guilt creating a hell that only he sees and experiences. In a sense, the monsters are real, but only in his head. And the mind, being a powerful device is manifesting these things enough to cause such damage (mentally and spiritually)..."
+      ],
+      "genres": ["Horror"],
+      "productionCompanies": ["Authentic Films"],
+      "summaries": ["A supernatural shockumentary about a demonic presence in a young couple's home in London."],
+      "budget": 0
+   },
+   "movielensId": 88456,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2010-01-01",
+      "dvdReleaseDate": null,
+      "directors": [
+         "Andrew Cull",
+         "Steve Isles"
+      ],
+      "runtime": 87,
+      "movieId": 88456,
+      "title": "The Possession of David O'Reilly",
+      "mpaa": "",
+      "actors": [
+         "Giles Alderson",
+         "Francesca Fowler",
+         "Zoe Richards",
+         "Nicholas Shaw",
+         "Paul McGuinness"
+      ],
+      "imdbMovieId": "1535617",
+      "originalTitle": "The Possession of David O'Reilly",
+      "genres": [
+         "Horror",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": ["zF3XrzI9ROA"],
+      "plotSummary": "A supernatural shockumentary about a demonic presence in a young couple's home in London.",
+      "tmdbMovieId": 49847,
+      "avgRating": 2.89286,
+      "releaseYear": "2010",
+      "numRatings": 14,
+      "posterPath": "/onYxHzhZv81hr21JDmnnCzwXs4j.jpg"
+   }
+}

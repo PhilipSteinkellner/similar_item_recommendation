@@ -1,0 +1,889 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [{
+         "name": "rooster teeth",
+         "id": 227626
+      }],
+      "imdb_id": "tt3864024",
+      "video": false,
+      "title": "Lazer Team",
+      "recommendations": [
+         375082,
+         174344,
+         89634,
+         204779,
+         116475,
+         178687,
+         187010,
+         122796,
+         324245,
+         96631,
+         273651,
+         201066,
+         135670,
+         69485,
+         307168,
+         406582,
+         84293,
+         249169,
+         88863,
+         326434
+      ],
+      "backdrop_path": "/g9jWkDMl6EdwSyjQRTRgg3O1XLW.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Adam",
+               "gender": 2,
+               "credit_id": "543d5e06c3a368251f0000eb",
+               "name": "Alan Ritchson",
+               "profile_path": "/aCyp11i8yTFqa8vOAksarDkRfR7.jpg",
+               "id": 64295,
+               "order": 1
+            },
+            {
+               "cast_id": 2,
+               "character": "Woody",
+               "gender": 2,
+               "credit_id": "543d5e16c3a368251a000102",
+               "name": "Gavin Free",
+               "profile_path": "/2WzAnoDrhSgj3X8P72DsEyxMm57.jpg",
+               "id": 1262848,
+               "order": 2
+            },
+            {
+               "cast_id": 3,
+               "character": "Zach",
+               "gender": 2,
+               "credit_id": "543d5e29c3a36825000000d0",
+               "name": "Michael Jones",
+               "profile_path": "/bbNWXQbnIicwBUV5Gtse0kMmlWX.jpg",
+               "id": 1262854,
+               "order": 3
+            },
+            {
+               "cast_id": 4,
+               "character": "Hagan",
+               "gender": 2,
+               "credit_id": "543d5e39c3a36825000000d5",
+               "name": "Burnie Burns",
+               "profile_path": "/fLQMVxnLcM9SPqeuJj5oEmJqGO5.jpg",
+               "id": 133359,
+               "order": 4
+            },
+            {
+               "cast_id": 5,
+               "character": "Herman",
+               "gender": 2,
+               "credit_id": "543d5e4cc3a36825000000da",
+               "name": "Colton Dunn",
+               "profile_path": "/j9zeaLimRV4caYfA3dfYD1hTVCz.jpg",
+               "id": 1243142,
+               "order": 5
+            },
+            {
+               "cast_id": 6,
+               "character": "Mindy",
+               "gender": 1,
+               "credit_id": "543d5e700e0a266f840000fa",
+               "name": "Alexandria DeBerry",
+               "profile_path": "/toiGKotclcjvSPA6biSh1KnEG8y.jpg",
+               "id": 1059598,
+               "order": 6
+            },
+            {
+               "cast_id": 12,
+               "character": "",
+               "gender": 2,
+               "credit_id": "544e2ab9c3a36872b400460e",
+               "name": "Blaine Gibson",
+               "profile_path": "/iALSVJWM4qta26jaQ7iWNcjkbzx.jpg",
+               "id": 1378238,
+               "order": 7
+            },
+            {
+               "cast_id": 13,
+               "character": "",
+               "gender": 0,
+               "credit_id": "544e2b45c3a36872d800486d",
+               "name": "J.J. Castillo",
+               "profile_path": null,
+               "id": 1378243,
+               "order": 8
+            },
+            {
+               "cast_id": 14,
+               "character": "Female Scientest",
+               "gender": 0,
+               "credit_id": "5453ae01c3a3681480001707",
+               "name": "Irina Voronina",
+               "profile_path": "/mCQ6fVaPGCN84GLBnuxHuYcc4bT.jpg",
+               "id": 138970,
+               "order": 9
+            },
+            {
+               "cast_id": 15,
+               "character": "Military Brass",
+               "gender": 0,
+               "credit_id": "5453ae29c3a3681488001883",
+               "name": "Don Daro",
+               "profile_path": null,
+               "id": 1380095,
+               "order": 10
+            },
+            {
+               "cast_id": 16,
+               "character": "Jasper Beth",
+               "gender": 0,
+               "credit_id": "5453ae3e0e0a2648c200174a",
+               "name": "John Chriss",
+               "profile_path": "/2OlvXhEULJzjnQepWL60zGZQhEu.jpg",
+               "id": 1206599,
+               "order": 11
+            },
+            {
+               "cast_id": 17,
+               "character": "Military Brass",
+               "gender": 0,
+               "credit_id": "5453ae63c3a368148d0016f9",
+               "name": "Clint McCreery",
+               "profile_path": null,
+               "id": 1380096,
+               "order": 12
+            },
+            {
+               "cast_id": 18,
+               "character": "Bean",
+               "gender": 0,
+               "credit_id": "5453ae72c3a368148800188c",
+               "name": "Jeremy St. James",
+               "profile_path": null,
+               "id": 1163437,
+               "order": 13
+            },
+            {
+               "cast_id": 19,
+               "character": "Department of Defense Official",
+               "gender": 0,
+               "credit_id": "5453ae9dc3a3681484001708",
+               "name": "J. Alan Nelson",
+               "profile_path": null,
+               "id": 1380098,
+               "order": 14
+            },
+            {
+               "cast_id": 20,
+               "character": "Air Core",
+               "gender": 0,
+               "credit_id": "5453aeb00e0a2648d9001743",
+               "name": "Travis Barrera",
+               "profile_path": null,
+               "id": 1380101,
+               "order": 15
+            },
+            {
+               "cast_id": 21,
+               "character": "Soldier",
+               "gender": 0,
+               "credit_id": "5453aec50e0a2648d2001776",
+               "name": "Anthony Taylor Lopez",
+               "profile_path": null,
+               "id": 1380103,
+               "order": 16
+            },
+            {
+               "cast_id": 22,
+               "character": "Lt. Col. Love",
+               "gender": 0,
+               "credit_id": "5453aede0e0a2648d200177d",
+               "name": "Doug Shuffield",
+               "profile_path": null,
+               "id": 1380105,
+               "order": 17
+            },
+            {
+               "cast_id": 23,
+               "character": "Military Police",
+               "gender": 0,
+               "credit_id": "5453aef8c3a368146f0015cd",
+               "name": "Robert T. McDorman",
+               "profile_path": null,
+               "id": 1380106,
+               "order": 18
+            },
+            {
+               "cast_id": 24,
+               "character": "Jules",
+               "gender": 0,
+               "credit_id": "5453af0cc3a36814730016bb",
+               "name": "Michael J. Burton",
+               "profile_path": null,
+               "id": 1380107,
+               "order": 19
+            },
+            {
+               "cast_id": 25,
+               "character": "",
+               "gender": 2,
+               "credit_id": "546a048b22136e284f0012be",
+               "name": "Miles Luna",
+               "profile_path": "/c2fk2aHyFxhugJxhWTj8m2FFQYC.jpg",
+               "id": 1293392,
+               "order": 20
+            },
+            {
+               "cast_id": 26,
+               "character": "Murdoch",
+               "gender": 0,
+               "credit_id": "546a050ceaeb816b4f0033c3",
+               "name": "Johnny Walter",
+               "profile_path": "/aBKcBup4D1IJMoft4j2OybERf4m.jpg",
+               "id": 1163308,
+               "order": 21
+            },
+            {
+               "cast_id": 27,
+               "character": "Spectator",
+               "gender": 0,
+               "credit_id": "546a054022136e68cc003593",
+               "name": "Rebecca Chulew",
+               "profile_path": null,
+               "id": 1386301,
+               "order": 22
+            },
+            {
+               "cast_id": 28,
+               "character": "News 5 Reporter",
+               "gender": 0,
+               "credit_id": "546a056aeaeb8145400007fe",
+               "name": "Ashley Turner",
+               "profile_path": null,
+               "id": 1359988,
+               "order": 23
+            },
+            {
+               "cast_id": 29,
+               "character": "Spectator",
+               "gender": 0,
+               "credit_id": "546a058522136e68cf00354e",
+               "name": "Gary Teague",
+               "profile_path": "/AhX2E9R1l4I8xgCwS1z3i6KoPX9.jpg",
+               "id": 131427,
+               "order": 24
+            },
+            {
+               "cast_id": 30,
+               "character": "Spectator",
+               "gender": 1,
+               "credit_id": "546a05b422136e68c90039b5",
+               "name": "Deborah Abbott",
+               "profile_path": null,
+               "id": 1386304,
+               "order": 25
+            },
+            {
+               "cast_id": 31,
+               "character": "Spectator",
+               "gender": 0,
+               "credit_id": "546a05da22136e45510002ca",
+               "name": "Holly Jee",
+               "profile_path": null,
+               "id": 1386305,
+               "order": 26
+            },
+            {
+               "cast_id": 32,
+               "character": "Spectator",
+               "gender": 0,
+               "credit_id": "546a079feaeb816b4f003406",
+               "name": "Carolee Crawford",
+               "profile_path": null,
+               "id": 1386306,
+               "order": 27
+            },
+            {
+               "cast_id": 33,
+               "character": "Spectator",
+               "gender": 1,
+               "credit_id": "546a07bf22136e68d80031ae",
+               "name": "Heather Materne",
+               "profile_path": "/7EtytXUByayd5W2Ppv9qm8xcUkz.jpg",
+               "id": 1386307,
+               "order": 28
+            },
+            {
+               "cast_id": 34,
+               "character": "Spectator",
+               "gender": 1,
+               "credit_id": "546a07d1eaeb816b4b0034b6",
+               "name": "Diane Selken",
+               "profile_path": "/dgFxvpUS7qhwZkiOQIL7eCDYruM.jpg",
+               "id": 1386308,
+               "order": 29
+            },
+            {
+               "cast_id": 35,
+               "character": "Spectator",
+               "gender": 0,
+               "credit_id": "546a07ed22136e68cc0035de",
+               "name": "Lise Ross",
+               "profile_path": null,
+               "id": 1386309,
+               "order": 30
+            },
+            {
+               "cast_id": 36,
+               "character": "UFO Spectator",
+               "gender": 0,
+               "credit_id": "546a0807eaeb81210d000555",
+               "name": "Kyle Hoover",
+               "profile_path": null,
+               "id": 1386310,
+               "order": 31
+            },
+            {
+               "cast_id": 37,
+               "character": "News 4 Cameraman",
+               "gender": 0,
+               "credit_id": "546a0834eaeb816b550036e4",
+               "name": "Mike Carreon",
+               "profile_path": null,
+               "id": 1386311,
+               "order": 32
+            },
+            {
+               "cast_id": 60,
+               "character": "?",
+               "gender": 1,
+               "credit_id": "54bd074992514148b0007dd5",
+               "name": "Barbara Dunkelman",
+               "profile_path": "/ibySHLVQAmNvW1QnoRTJHb3pKtQ.jpg",
+               "id": 1293391,
+               "order": 33
+            },
+            {
+               "cast_id": 61,
+               "character": "",
+               "gender": 2,
+               "credit_id": "54eb2521c3a36810020011a8",
+               "name": "Joel Heyman",
+               "profile_path": "/kdXW8kNVLz5EV7vvymf2iFt9W3o.jpg",
+               "id": 133357,
+               "order": 34
+            },
+            {
+               "cast_id": 62,
+               "character": "",
+               "gender": 0,
+               "credit_id": "54eb28e0925141117c006056",
+               "name": "Caiti Ward",
+               "profile_path": null,
+               "id": 1386334,
+               "order": 35
+            },
+            {
+               "cast_id": 63,
+               "character": "",
+               "gender": 1,
+               "credit_id": "54eb28f49251412eb8006701",
+               "name": "Arryn Zech",
+               "profile_path": "/6k68J5wBTDcgaApPZ180rpHm0I1.jpg",
+               "id": 1293394,
+               "order": 36
+            },
+            {
+               "cast_id": 64,
+               "character": "",
+               "gender": 1,
+               "credit_id": "54eb2aed9251412eae00698a",
+               "name": "Kdin Jenzen",
+               "profile_path": "/3jggtFIW8UM91PqAkDtufu3om9f.jpg",
+               "id": 1387024,
+               "order": 37
+            },
+            {
+               "cast_id": 65,
+               "character": "",
+               "gender": 2,
+               "credit_id": "54eb2b0e9251412ebd0068fc",
+               "name": "Gus Sorola",
+               "profile_path": "/fRVA9veLJho1SF5ONDF71PihxT8.jpg",
+               "id": 938435,
+               "order": 38
+            },
+            {
+               "cast_id": 66,
+               "character": "",
+               "gender": 2,
+               "credit_id": "54eb2b379251416824003c0c",
+               "name": "Caleb Denecour",
+               "profile_path": "/fSbWi3PwHk7g9zk89QHpI2z1qdH.jpg",
+               "id": 1430587,
+               "order": 39
+            },
+            {
+               "cast_id": 67,
+               "character": "Web Bomb! Host",
+               "gender": 2,
+               "credit_id": "5953f739c3a368138803f239",
+               "name": "Korey Coleman",
+               "profile_path": null,
+               "id": 1840816,
+               "order": 40
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "53befbdf0e0a26157c004a94",
+               "name": "Matt Hullum",
+               "profile_path": "/fBWqTphUMEqoAGDHtXgfhXdTI7z.jpg",
+               "id": 133368,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "543d5e8f0e0a266f810000d4",
+               "name": "Matt Hullum",
+               "profile_path": "/fBWqTphUMEqoAGDHtXgfhXdTI7z.jpg",
+               "id": 133368,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "543d5e9bc3a368251300013c",
+               "name": "Burnie Burns",
+               "profile_path": "/fLQMVxnLcM9SPqeuJj5oEmJqGO5.jpg",
+               "id": 133359,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "543d5ea80e0a266f7a0000ce",
+               "name": "Burnie Burns",
+               "profile_path": "/fLQMVxnLcM9SPqeuJj5oEmJqGO5.jpg",
+               "id": 133359,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 0,
+               "credit_id": "543d5eb40e0a266f8800009d",
+               "name": "Chris Demarais",
+               "profile_path": "/zQvZZBy8mY6WYJu3aDd5qaSv7zG.jpg",
+               "id": 1262833,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "543d5ecd0e0a266f7d0000e4",
+               "name": "Josh Flanagan",
+               "profile_path": "/90a6XKfYv67zeAkLfOFPvUu2NaG.jpg",
+               "id": 1373961,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "546a0910eaeb816b5800340f",
+               "name": "Burnie Burns",
+               "profile_path": "/fLQMVxnLcM9SPqeuJj5oEmJqGO5.jpg",
+               "id": 133359,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "546a0927eaeb816b4b0034db",
+               "name": "Joel Heyman",
+               "profile_path": "/kdXW8kNVLz5EV7vvymf2iFt9W3o.jpg",
+               "id": 133357,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "546a0933eaeb816b4f003425",
+               "name": "Matt Hullum",
+               "profile_path": "/fBWqTphUMEqoAGDHtXgfhXdTI7z.jpg",
+               "id": 133368,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "546a0942eaeb814540000876",
+               "name": "Geoff Ramsey",
+               "profile_path": "/qjvFcVZStsAdheMpWrdN1mhzuG6.jpg",
+               "id": 133365,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "546a095eeaeb81210d00056c",
+               "name": "Gus Sorola",
+               "profile_path": "/fRVA9veLJho1SF5ONDF71PihxT8.jpg",
+               "id": 938435,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "546a098422136e68d80031e1",
+               "name": "Marcus LaPorte",
+               "profile_path": "/8gxUcM3HEmO1VbpMkkZtOamu760.jpg",
+               "id": 1386314,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "546a09a622136e68da003111",
+               "name": "Meg Beatty",
+               "profile_path": null,
+               "id": 1386315,
+               "department": "Crew",
+               "job": "Second Unit"
+            },
+            {
+               "gender": 0,
+               "credit_id": "546a09c322136e68cf0035d4",
+               "name": "Derek Franzese",
+               "profile_path": null,
+               "id": 1386316,
+               "department": "Crew",
+               "job": "Second Unit"
+            },
+            {
+               "gender": 0,
+               "credit_id": "546a09df22136e68da00311b",
+               "name": "Bob Trevino",
+               "profile_path": null,
+               "id": 1194629,
+               "department": "Crew",
+               "job": "Special Effects"
+            },
+            {
+               "gender": 0,
+               "credit_id": "546a0a0922136e68c9003a24",
+               "name": "Clayton J. Barber",
+               "profile_path": null,
+               "id": 1386317,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "546a0a38eaeb813676000426",
+               "name": "Gianni Biasetti Jr.",
+               "profile_path": null,
+               "id": 1386320,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 2,
+               "credit_id": "546a0a4b22136e68d50033ff",
+               "name": "Troy Faruk",
+               "profile_path": "/5R21okoRhf3sjlHoN9EdCAltIdA.jpg",
+               "id": 1386322,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "546a0a8422136e68cc003626",
+               "name": "Justin Hall",
+               "profile_path": null,
+               "id": 1386323,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "546a0a96eaeb816b4b00350a",
+               "name": "Freddie Poole",
+               "profile_path": "/9lDHgPa2Ae5Zk8ZCNoWOOyQmolt.jpg",
+               "id": 1386325,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "546a0aae22136e68cf0035ef",
+               "name": "Immanuel Salas",
+               "profile_path": null,
+               "id": 1386326,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "546a0aeceaeb816b4b003510",
+               "name": "Erika Schultz",
+               "profile_path": null,
+               "id": 1035349,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "546a0b09eaeb816b460034e4",
+               "name": "Carmichael Simon",
+               "profile_path": null,
+               "id": 1386327,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "546a0b2122136e68d5003416",
+               "name": "Sam Situmorang",
+               "profile_path": null,
+               "id": 1386328,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "546a0b63eaeb8145400008a7",
+               "name": "Brett Hamann",
+               "profile_path": null,
+               "id": 1386329,
+               "department": "Directing",
+               "job": "Script Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "546a0b9422136e68c9003a47",
+               "name": "Stephen Latham",
+               "profile_path": null,
+               "id": 1386330,
+               "department": "Crew",
+               "job": "Stand In"
+            },
+            {
+               "gender": 0,
+               "credit_id": "546a0bf422136e68cc003651",
+               "name": "Carl Thomas",
+               "profile_path": null,
+               "id": 1386331,
+               "department": "Crew",
+               "job": "Stand In"
+            },
+            {
+               "gender": 0,
+               "credit_id": "546a0c1022136e68cc003657",
+               "name": "Jenni Wieland",
+               "profile_path": null,
+               "id": 1386332,
+               "department": "Production",
+               "job": "Production Accountant"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Action",
+            "id": 28
+         },
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Science Fiction",
+            "id": 878
+         }
+      ],
+      "popularity": 6.400647,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 279096,
+      "vote_count": 119,
+      "budget": 2480421,
+      "overview": "In the late 1970's, the SETI project received a one time signal from outer space. It looked exactly as theorists thought a communication from an alien civilization would -- unfortunately it has never been decoded. Or so we were told. Unbeknownst to the general public the signal was translated and told us two things:  1) We are not alone.  2) The galaxy is a dangerous place.",
+      "similar": [
+         447015,
+         360501,
+         404020,
+         451134,
+         430440,
+         463137,
+         402914,
+         515699,
+         497794,
+         481611,
+         481632,
+         481629
+      ],
+      "original_title": "Lazer Team",
+      "runtime": 102,
+      "poster_path": "/bqTVXHVdR9FrSWAn58WOC73uLmx.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "YouTube Red",
+            "id": 73091,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Rooster Teeth Productions",
+            "id": 34911,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "2016-01-27",
+      "vote_average": 5.6,
+      "belongs_to_collection": null,
+      "tagline": "Mankind's darkest hour needs our brightest team.",
+      "adult": false,
+      "homepage": "https://www.lazerteamthemovie.com/",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": "$",
+      "directors": ["Matt Hullum"],
+      "runtime": 102,
+      "synopsis": null,
+      "writers": [
+         "Burnie Burns",
+         "Burnie Burns"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt3864024/",
+      "coverLink": "https://ia.media-imdb.com/images/M/MV5BODU0MDM0ODMyN15BMl5BanBnXkFtZTgwMzk1MTk3NzE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "actors": [
+         "Burnie Burns",
+         "Gavin Free",
+         "Michael Jones"
+      ],
+      "reviews": [
+         "'LAZER TEAM': Three Stars (Out of Five) A sci-fi action-comedy flick; directed, co-written and co-produced by Matt Hullum. Burnie Burns also co-wrote, co-produced and stars in the movie; which also costars Gavin Free, Michael Jones, Colton Dunn, Alexandria DeBerry and Alan Ritchson. It's the first feature film from Rooster Teeth Productions (which specializes in machinima); and they raised most of the budget for the movie, from a successful Indiegogo campaign. The story revolves around four incompetent losers, who are trained to save the world; when they accidentally stumble across a special alien power armor suit. I liked the special effects, and some of the humor, but ultimately I found it disappointing. We learn, as the film opens, that Earth received a message, from peaceful aliens, decades earlier. After decoding it, we learned that we are going to be attacked, by evil aliens, and need to train someone to fight them. So a man, named Adam (Ritchson), is raised since birth, to be the 'Champion of Earth'. He will be sent a special 'power armor suit', by the peaceful aliens, to wear in battle. The ship containing the suit, is accidentally shot down, by four losers though. They then each become genetically attached, to different parts of the armor. So Earth's new plan, becomes to train these losers, to be 'Earth's champions'. The movie kind of reminds me of the cult classic comedy flick 'SUPER TROOPERS'; except more geared towards kids. The film especially seems aimed at 'video game loving teenagers'. For that reason, I think a lot of the jokes are too silly, and somewhat forced. A lot of the performances are pretty weak as well (with a few exceptions). There is some witty commentary, about social media obsession though; and how it effects everyone's lives. The film also has some pretty cool looking special effects (as I said before), especially for such a low budget movie. It's not a complete waste of time, but it's nothing special either. Watch our movie review show 'MOVIE TALK' at: https://youtu.be/3D- Xa6uhK5U",
+         "When I first saw the poster and the IMDb rating of 7 - I was impressed and couldn't wait to watch the movie. However, I'm really disappointed that the hype couldn't deliver. Some people argue that the story of \"lazer team\" could have been written by a child. But this doesn't have to be a bad thing. I found the plot to be interesting. Only the execution was poorly done. Why? First of all - the characters are boring and annoying. I understand that comedies kind of live from stereotypical over exaggerated persona. But this was too much. Do you knows this feeling when you're watching a bad horror movie and you think to yourself:\"No, don't go there. You'll be killed. No, dude - don't go there.Oh, he's dead...\" \"Lazer Team\" is similar to that. Very predictable, flat jokes, boring character development. If this were made by a Youtube channel and only aired on Youtube - I wouldn't complain. But as a real movie - \"Lazer Team\" is just not good enough.",
+         "I was very excited to watch Lazer Team, they've been talking about it on the podcast forever and it kept Michael Jones and Gavin Free from a few Achievement Hunter Let's Play's which I gladly dealt with in hopes that something funny was on the horizon for Rooster Teeth and it would all be worth it. I was a paying sponsor for their website for a few years because I've received so many hours of entertainment from all of the content they produce and it felt like they deserved compensation for all the laughs delivered to millions worldwide. I viewed the movie on January 28th at a Tugg fan event and the enthusiasm of the crowd was palpable. Many of the die hard fans (which I want to think I am)laughed at very juvenile jokes, or just when anybody they knew appeared on screen. All and well, I nor anybody else can dictate terms of laughter, but I knew I wasn't laughing. They had a few good lines in there that were truly funny, but creating a film, labeled as a comedy needs a bit more than sporadic enjoyment. Most of the acting came off as wooden, which surprised me, these guys usually do very well on camera. Colten Dunn was his usual self (he's very funny in Superstore) and came across as the only character I believed. Fans have seen this writing team do better and any outsiders will instantly recognize this as a poor effort. Rooster Teeth is usually very creative and funny and this film won't change my opinion of their online content but I will definitely be more wary in the future when buying a ticket or subscribing to any services offering their newer content. Don't let any of this stop you from watching the movie, preferably in a theater, yes it's out on the torrents after it hit Youtube Red, judge for yourself. It simply isn't funny and no matter how many dollars you donated to the crowd-sourced fundraiser, or episodes of Red vs Blue, or Let's Play's, or RWBY, or Rage Quit's, or podcasts you've absorbed from RT, they didn't bring any of that to this film. I've read a lot of the reviews for this movie, many of the professional ones are nice and cite the \"enthusiasm of the actors\" for making this movie worth watching. It didn't translate to the movie I watched and I wish I had seen whatever they did, otherwise they're liars.",
+         "Any film professors reading, here is a tip. You can do a final exam by making your class deconstruct Lazer Team frame by frame and identify the really good ideas and the zippy lines of dialog. It is quite a challenge. The film runs almost two hours and there is no more than 10 minutes of quality material. My fave: one of the \"dumb and dumber\" team removes an alien mind-control implant from the only female star and explains, \"I was just removing the implant that made my girlfriend act like my ex-girlfriends.\" Actually the actor mumbles the line so you have to rewind to catch it. But that dialog is one of the keepers. A Youtube production? In a way that is a good thing but virtually every other network, delivery system, channel, cable provider and postal worker who is now producing independently has done better work. So step it up Youtube.",
+         "Full disclosure. I am a great fan of rooster teeth and its employees. This film was rooster teeth to the very end. No its not a big Hollywood block buster and nor would I class it an indie. It is a mindless action comedy which had me actually laughing at points. I get frustrated with most movies but this one I found I could let go and just let the silliness wash over me. The story was better then PIXLES by a mile and the team looked like they had fun. The editing was OK as was the acting but nothing more. For a first film by RT I have to admit it was what I expected. Think with a bit more care and money they can make something very good indeed. People saying this is mindless dumb stuff are correct; that is kind of the point. Its not some serious movie and people should expect it to be. 8/10 as I actually had a good time!",
+         "I had high hopes for this film. Rooster Teeth is one of the best online content producers hands down. Lazer Team was not up to the storytelling brilliance RT (Rooster Teeth) is known for. The story falls very flat on its face. It was trying to be cleaver but came off as so generic, it was impossible to care about what happened next. The main characters (Lazer Team) are very forgettable. At no point in the film did I care about what would happen to them. The acting in the film is hit and miss. The Lazer Team characters are surprisingly well acted, besides a few scenes with Bernie's character. The side characters were pretty bad. With the exception of Alan Richson's character, all the acting felt like it was from an Asylum Syfy flick. The special and visual effects went from bad to mediocre. The alien designs were pretty ugly and uncreative. There were also several points during the film were I noticed obvious green screen shots as well as chroma key errors. There are a few positives I have with the movie. The jokes are hysterical. Rooster Teeth excels at making clever jokes that hit their mark. I do want to note that I did have an issue with \"crotch shot\" jokes that happened over and over and over again. The first 3 or 4 were funny, but when it got to 7 or 8 \"crotch shot\" jokes, I stopped finding them funny. One other positive I had with the film was the picture quality. For a film not being shot with Hollywood cameras, the Red 4K cameras look beautiful. Overall, I went into Lazer Team to see a great film and laugh throughout the movie. I unfortunately didn't like the film and don't even think that as a movie it is that great. However, I did laugh at most of the joke and I did love the references to many of the Rooster Teeth characters.",
+         "I wanted to like this movie, but i could just not sit through this movie. It's barely over an hour and a half, but it feels twice as long as that. Whether you like Roosterteeth or not, there's no denying that this movie has extremely unlikeable characters, isn't funny, and everything about this movie is super cliché and boring. The acting ranges from decent to really bad, and this goes for the effects as well, but it is on a limited budget, so that doesn't bother me. What does bother me, is that the only likable character is the champion, but he's represented as the antagonistic ass hole who just wants the suit for himself, even though he's the only character you can sympathize with, and the other characters are complete douchy idiots. To be fair, this movie had a few, kind of funny parts, but that doesn't compare to all the super lame jokes. (Yes, I said 'super lame' in a review, who do you want? Roger Ebert?) This movie was annoying, dumb, unfunny, and it was just not enjoyable at all.",
+         "I want to start out by saying I am a 45 year old man. This is just my way of saying I don't get my music off You tube nor do I subscribe to twitch for my entertainment. So I should be one of the last people that this films comedy reaches. However here is the rub: this film was funnier than most comedies of the past Decade. I laughed more during the silly humor of this than at the entire combination of the Anchorman sequel/Dumb Dumber 2/or anything that Rogan has made in the past 5 years. This film was just fun. I assume that this is in part because I wasn't expecting much. But the plot worked way better than a similar plot that was poised to be a Summer 2015 Blockbuster (PIXELS). This team seemed to genuinely have fun, unlike Sandler and his grumpy little nemesis. As a result I had fun right along with them. So I guess my hats off to a Team that has a community behind it; and a bright future in front of it.",
+         "Sorry Rooster Teeth ...but this movie is very hard to watch. Acting is atrocious, ...plot was made from a 6 yr old with action figures while complaining about it's happy meal, spfx..OK..., but not at all what I expected for a comedy. (I think that is what this is?) I would like to give all the reasons, but the reasons are very simple tbh. I do not need to dissect as to why this is bad. I can however say, that for those looking for reviews and want just a little bit of information. I would be willing to say is that-it's just plain old stupid-bad(annoying kind). The 7.5 rating must be from some 11 year old is all I can think. As Gordon Ramsay says \"shut it down!\"",
+         ". . . but I can't recall them. After reading all the positive reviews of this 'movie' I'm bound to ask were all those who gave such glowing reviews recompensed in some way? I can think of no other reason as to why or how anyone could possibly say anything positive about this incredibly bad movie. It would have been acceptable material for a children's comic (with the characters words and the ZAP/BANG,WALLOPs prominently displayed inside balloons) but as material for a movie? Not in a million years. If Lazer Team is in any way representative of the way Indie 'humor' movies are heading then I'll have to re-classify the movie Idiocracy into a documentary!!! The acting? More like annoying kids having a 'who can act the most stupidly' party. The story(line)? Dummies save earth from baddie who looked like he (or it?) had borrowed it's makeup costume from a whole collection of 1950's B horror movies. I could go on about the other components of this piece all of which are very sub-par but see no point in doing so: everything about this movie was simply bad. If you have an IQ greater than that which would be required for you to decide to step out of the way of a moving train do yourself a favor and avoid this movie, or, to paraphrase a Star Trek phrase from The Voyage Home ... the movie business is under attack, avoid this movie at all costs, save yourself!!! Additional summary: an overtly patronizing insult to your intelligence.",
+         "Space, including all its paraphernalia, is one arena which has acted as substrate for film of all genres. You name it, space gave it! Even art-house and horror films have been made out of celestial subjects. For example, think of Melancholia (2011), Sunshine (2007) or Under the Skin (2013). To be honest, I'm waiting for a Quentin Tarantino film on space - bloodshed having a field day in space! No matter whatever you'll make having space or aliens, people will see it. In fact 'Plan 9 from Outer Space' (1959) was so badly made that it became memorable! So among its beginning ventures, YouTube Red chose the path of least resistance - space. In 'Lazer Team' a group of four misfits find themselves responsible for the fate of the planet upon discovering an alien crash site containing a battle suit. I must admit that the idea is novel and exciting. The script is decently knit too. (This is the main reason why I reviewed this title.) A somewhat similar concept was tried last year (2015) in 'Absolutely Anything' starring Simon Pegg but that fizzled out too. With a little more effort 'Lazer Team' could have been transformed into a great sci-fi comedy. The subject matter is age-neutral - people of all age groups could've enjoyed it. But the film-makers instead settled for clichéd acts. For example, the character of Mindy (played by Allie DeBerry) was too bawdy. It was like some American Pie or Scary Movie character. Similarly the humour could have been more situational rather than explicit. More experienced actors could have been casted et cetra, et cetra. But, the damage has been done. 'Lazer Team' is another hit-and-run comedy which fails to leave its mark.",
+         "It's very rare when a movie like 'Lazer Team' comes out. It's over-the-top, ridiculous, raunchy, and very silly. However, it works on every level and I found myself having an excellent time in the theater from start to finish, laughing so hard, it hurt. Matt Hullum and Burnie Burns, the duo that is responsible for the iconic 'Red vs. Blue' series wrote and directed this hilarious feature film. 'Lazer Team' happened because the fans made it happen with a strong crowd funding campaign that ended up earning three times more than what they asked for, and it's evident in the movie. The film looks crazy good with big aerial shots and some fairly good visual effects for a low budget comedy sci-fi movie. 'Lazer Team' centers around a few idiots and misfits in a small town who clumsily stumble upon a spaceship that contains a super suit to battle evil forces. These four misfits consisting of a local cop named Hagens (Burnie Burns), the former football hero turned drunk Herman (Colton Dunn), the jerk star high school quarterback Zach (Michael Jones), and the town idiot Woody (Gavin Free), who all have a certain piece of this super suit attached to themselves that makes them run super fast, shoot a big laser, create a shield/force field, and a helmet that allows the four guys to telepathically communicate and cloak parts of themselves in invisibility. The problem is, these four guys are not smart enough or strong enough to operate this alien technology. Meanwhile, the government was aware that there was an impending attack on Earth by a vicious alien race and have been training a super soldier since birth to save the planet and wear this suit. This super solider is Adam (Alan Ritchson), who is the poster boy for a good looking 'Captain America' type hero. Now these four idiots must come together, led by Ritchson to save humankind and Earth in a battle to the death. What could go wrong? Burns and Hullum have conjured up a hilarious cast and a super funny script, full of movie references and raunchy dialogue that hits all of the right notes, even though some of the jokes are a bit out of style. Things move at a highly entertaining and fun pace, never taking itself seriously. Most movies that do this, miss the mark, but with 'Lazer Team', every cue and comedic punch are executed very well. This is the just- as-funny cousin of the Broken Lizard crew with an equal amount of laughs and thrills. I can't wait for a sequel. I now want to join the 'Lazer Team'. Highly Recommended!",
+         "Cmmpared to latest comedies; LAZERTEAM is really an achievement in fun. Four very common guys get tied with an alien weapon suit (they cannot get rid of) and must fight a champion from another world in order to save Earth. The problem is they have only four days to learn has to use the different parts of the suit and the military makes things even more complicated. Add to the mess another group of aliens trying to kill them and the fact that these guys are far from heroic and very bad fighters. The important thing is that the movie only wants you to make you laugh; it has good production values; some violent moments; some good FX and some cheesy ones. The pace is so fast that never gets boring. There was a lot of room for improvement; but considering it is this group first feature; it is really very good and lets hope the next one is even better.",
+         "I was completely thrown off by the IMDb rating of 7+ on this one. That is just criminal. I just checked, a few days after I watched, and it's down to 6.8. I'm sure it will go lower. It's just a shame that the rating was obviously pumped up by \"friends\" of the show because it was a complete waste of time watching this one. The story is actually not that bad and this could have actually been an okay movie if it was done by professionals. The acting is really atrocious in this one, really awful. Now that I think of it, I don't even think well-known actors could have saved this one. I'm thinking of Pixels and how that was a somewhat decent movie idea but even with a well-known cast it was awful. Of course, Adam Sandler was the main reason why that one was so bad. When is Hollywood gonna get a clue on Sandler? Anyway, back to this movie. They hinted at a sequel towards the end. Let's hope that never happens. There seems to be some kind of cult following and/or history behind this movie. I don't know about that. I just know that it was terrible.",
+         "This is a comedy sci-fi romp, where the 'wrong guys' inadvertently get saddled with technology required to save humanity. A lot of the humour is based around American stereotypes and the flaws of the main characters who are just short of a Wizard of Oz line up. There is a coward, an idiot, a cynic and a jock. With this line-up you can expect a very silly, moronic film. Well it is, but the writing and direction takes it to a place a lot more fun than normal. Yes people do get thumped in the testicles and wedgied - but there is also a fair amount of thought and talent in this. I especially like the idea of the \"super trooper\" who basically wastes his entire life training to use the armour. The CGI is a little bit lacking but I forgive that for the budget. I don't think this was ever intended to be a piece of movie making history, but it is entreating, the plot does kind of work and the characters are unforgivingly true to themselves. Maybe not a Friday night film but this is definitely good for a chuckle.",
+         "I wouldn't call myself a big Roosterteeth fan, but I do enjoy their Podcast and early RvB. But I feel this movie relies to much on RT's general fandom, as much of the film's fun factor is recognizing the personalities present from their other productions. But for anyone outside of that fandom the uninteresting plot, stereotypical characters and, downright terrible cgi make this movie incredibly boring and bad. For me however the biggest disappointment is the humor present or I suppose absence of, in the film. A series of immature jokes of people getting hit in the crotch or banging a daughter that a 15 year-old would question the humor of, fall utterly flat through out.",
+         "It was outrageous and indeed a fun, enjoyable film. An impressively put together combination of Sci-Fi, comedy and action. The poster advertised that this was from the makers of Red vs. Blue. Not familiar at all with this, but I look at the trailer and it looks like something I would watch on You Tube, which is why I was surprised that it was playing at a theater. I thought it was a really cool story and I actually love the costume design as well as the visual effects. There was plenty of laughs and what was cool was everyone got me chuckling. My fav character was Herman, everyone else was a little too by the numbers with their stereotypes, but still very funny. The action scenes were well put together, I thought the visual effects really went with the story that was being told. The movie never runs stale and it keeps the momentum going. It's a monument to what can be done with some good crowd funding, as it looks like half the end credits were just to thank those who gave. Seriously, really impress by what these guys did with what little they had to work with, and it's totally worth the money I spent not to just stream it on YouTube.",
+         "I'm going to try my best to review this movie from a non-biased standpoint. But first, there's a few things to remember while watching Lazer Team: It's a low budget movie. The majority of the cast are not professional 'movie' actors. While it is still a good movie for non-RoosterTeeth fans, there are a fair few bits that are made even funnier if you are a fan. Anyway, on with the review. The plot was better than I originally expected, and the cast all fit their roles well. The acting wasn't great in a traditional sense, but for the most part this added to the overall comedic taste of the movie. Some of the visual effects were not great. The smaller effects such as blood, gunfire, lasers etc were all good, but the low budget was very evident in larger effects. Lazer Team is a wild mix of Ghostbusters, Independence Day, and Galaxy Quest... And it works! Despite its not-so-great acting or visual effect quality, at the end of the day this movie has a decent plot and some great gags. And if you're a fan of Rooster Teeth, then it's even funnier noticing all the extra cameos and nods to the company throughout the film.",
+         "Plot- This movie is filled with tons of cliché's with lazy writing. The characters are so annoying and forgettable.The only pros I give this movie is the humour, they're not great but good. Acting- Burnie Burns performance was good, while the other side character performances are weak Music- Nothing Memorable, it's the same type of music you hear in a teenage Sci-Fi movie Cinematography- Camera work was OK, but there are few shaky cams that are so annoying. The special effects looks mediocre and you can easily detect it in certain scenes Overall, this movie is still fun to watch even there is a lot of clichés. So I'm giving this movie a 4/10",
+         "This movie was extremely disappointing and the rating of 6.3 is atrocious! I ended up having to apologize to the people I was watching the movie with because I made them sit through it and it ended up being so stupid and horrible I couldn't believe what I was saying! It made me laugh two or three times and that's only because I have a very easy sense of humor! Horrible movie! I highly recommend you don't waste your time watching this movie! The characters were horrible and very bad actors! The only redeeming feature from this movie was possibly the graphics and that was only because I had to find one thing that was at least slightly good about this movie!The humor was something from a 5 year old's idea of funny! The only possible way that you might even enjoy this movie a little bit is if you just smoked several blunts and got as high as possible because that is the only way that you are even going to a little bit enjoy this film!",
+         "Throughout the entire movie, I recommend fans of RoosterTeeth and their content to keep an eye out for references on other titles RoosterTeeth has produced. The movie rewards us fans by giving us the gratitude of knowing the smaller or lesser known inside jokes that other people might not understand. This movie definitely pays homage to the fans who have made this movie possible and don't take for granted the amount of money they raised. RoosterTeeth stays humble to their roots and very cleverly incorporates small easter eggs and inside jokes. From the action, the writing and the acting, Lazer Team is the perfect movie for a fan of RoosterTeeth who enjoy their content and find humour where others wouldn't. Well done RoosterTeeth, Matt, Burnie, Gavin, Colton and Michael for delivering what was promised to the masses of loyal fans who have gathered throughout the years. You ever wonder why we're here? Its one of life's great mysteries isn't it? Why are we here?",
+         "It's difficult to know what to expect from a feature film by Rooster Teeth since they are a Youtube sensation with shows created using video games, most notably Red vs Blue. Upon viewing Lazer Team it is clear they should stick to what they were doing before and not attempt live-action movies ever again. The one good thing about this film is that it is funny on occasion, sometimes because there are decent jokes, but most of the time because it is just plain bad. A lot of the jokes in the film fall flat, and some of them are so terrible it makes you wonder what you're watching in the first place. The acting and casting decisions are far from good (though it's clear the people from Rooster Teeth wanted to cast who they are familiar with). Each character is more like a caricature than a character you want to relate to. The main character's daughter is both a terrible character and terribly cast - she is literally the stereotypical dumb blonde teenager who adds pretty much nothing to the film. It is also disappointing to see Alan Ritchson in a role where he literally just coaches the team in a monotonous voice and stands there to look like the warrior he was bred to be. Finally, the CGI in this film is beyond terrible. Holograms are made to look more like cartoons than believable representations of aliens. This is astounding coming from a team who specializes in making shows from video games, although that doesn't necessarily mean they know how to create good digital effects. Do yourself the favor and avoid this movie. 1.0/4.0",
+         "The best laid plans are bound to go wrong. Here in 'Lazer Team' our four man team of misfits, just out to have fun, unknowingly disrupt a decades long secret government operation. And once this is discovered by them the team must work together to live or else die alone. So they find themselves battling two two enemies - 1. An alien from out-of-space and 2. the federal government! And in getting that team spirit cooking between them is a story of hair-brained situations that are just stupid enough to get you laughing and enjoying the nonsense in this sci-fi comedy. You'll cheer them on because they may be dummies in life but together they are awesome! An easy lite comedy with fast action and good graphics. I loved it!",
+         "OK. This is not a blockbuster with lots of money and nice special effects. It's not an intelligent movie that is well written and through provoking. It is silly and dumb and makes you laugh. There is some crude humor for sure, but it wasn't over the top. I guess I had low expectations. It says it's a YouTube movie? I was about ready to stop right there but went on to watch and laughed the entire time. I am not sure why all the hate in these reviews. Maybe they came into with high expectations. I expected a really bad B movie, so I was happy was surprised. Maybe I dropped a few IQ points watching this but it was good fun. Watching this is more like watching Ted, Hot Tub Time Machine or Grown-ups. I don't think you should go into thinking it's going to be a great plot or have superb acting. If I laugh the entire time and walked away happy instead of annoyed, it's all good.",
+         "Lazer Team (2016) is nothing more than mindless entertainment. While I can't call myself a current fan of Rooster Teeth, I did quite enjoy them when I was younger. I'm sure people who are actively following them and have grown to appreciate their sense of humor will find this film enjoyable. Still, the major problems lay within the script. Everything is played out and predictable, the attempts at one-liners are flat, and the story isn't even compelling. The special-effects are shoddy, some are fine while some are horrendous. This is a low-budget sci-fi flick, so that's to be expected, but the film relies on those effects too heavily. The acting is fine and everybody at least seems to be making an effort. The action is also pretty solid, but it suffers from being too foreseeable. Clichés are also something to be found throughout to point to where it just blatantly copies from other source materials. 'Lazer Team' is kinda fun but is also kinda annoyingly unoriginal."
+      ],
+      "genres": [
+         "Action",
+         "Comedy",
+         "Sci-Fi"
+      ],
+      "productionCompanies": ["Rooster Teeth Productions"],
+      "summaries": [
+         "After thousands of years of thinking we are alone in the universe we decode a message (in the 60s) telling us we are not alone, and that the universe is a dangerous place and that we are going to be attacked. Luckily, the coded message came from a friendly alien race that fathered and protected us over the years. And now they are giving us the tools to fight back (in the form of power armor). But the delivery service takes a long time, and during those loooong decades waiting for that cargo ship to arrive with their one power suit, they choose a champion of earth to train to wear the suit and defend the earth! Then the ship finally arrives... Only to get shot down by 4 morons who play with the suit and ultimately get one piece each stuck to them. Now they need to work with the government to train these 4 morons with individual pieces attached to them. Will they save the day or will they stand around contemplating life?",
+         "When four small-town losers stumble across an alien crash site containing an incredible battle suit, they soon find themselves responsible for the fate of the entire planet. With this new alien equipment genetically bound to them, and the government hot on their heels, the foursome have no choice but to work together as one to save humanity. All they have to do is learn to use a strange alien device meant for only one-person, train for a battle against an omnipotent enemy, and not kill each other in the process. They may not be strong, smart, or talented... but they're Lazer Team. Based on a true event, Lazer Team is directed by Matt Hullum and stars Burnie Burns, Gavin Free, Michael Jones, Allie DeBerry, Colton Dunn and features Alan Ritchson.",
+         "Four losers are thrust into the position of saving the world when they stumble upon a UFO crash site and become genetically equipped to the battle suit on board."
+      ],
+      "budget": 2480421
+   },
+   "movielensId": 151675,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "2016-01-27",
+      "dvdReleaseDate": null,
+      "directors": ["Matt Hullum"],
+      "runtime": 102,
+      "movieId": 151675,
+      "title": "Lazer Team",
+      "mpaa": "",
+      "actors": [
+         "Alan Ritchson",
+         "Gavin Free",
+         "Michael Jones",
+         "Burnie Burns",
+         "Colton Dunn",
+         "Alexandria DeBerry",
+         "Blaine Gibson",
+         "J.J. Castillo",
+         "Irina Voronina",
+         "Don Daro",
+         "John Chriss",
+         "Clint McCreery",
+         "Jeremy St. James",
+         "J. Alan Nelson",
+         "Travis Barrera",
+         "Anthony Taylor Lopez",
+         "Doug Shuffield",
+         "Robert T. McDorman",
+         "Michael J. Burton",
+         "Miles Luna",
+         "Johnny Walter",
+         "Rebecca Chulew",
+         "Ashley Turner",
+         "Gary Teague",
+         "Deborah Abbott",
+         "Holly Jee",
+         "Carolee Crawford",
+         "Heather Materne",
+         "Diane Selken",
+         "Lise Ross",
+         "Kyle Hoover",
+         "Mike Carreon",
+         "Barbara Dunkelman",
+         "Joel Heyman",
+         "Caiti Ward",
+         "Arryn Zech",
+         "Kdin Jenzen",
+         "Gus Sorola",
+         "Caleb Denecour",
+         "Korey Coleman"
+      ],
+      "imdbMovieId": "3864024",
+      "originalTitle": "Lazer Team",
+      "genres": [
+         "Action",
+         "Comedy",
+         "Science Fiction"
+      ],
+      "youtubeTrailerIds": [
+         "TI455Z37o30",
+         "KI6DD6SulPQ"
+      ],
+      "plotSummary": "In the late 1970's, the SETI project received a one time signal from outer space. It looked exactly as theorists thought a communication from an alien civilization would -- unfortunately it has never been decoded. Or so we were told. Unbeknownst to the general public the signal was translated and told us two things:  1) We are not alone.  2) The galaxy is a dangerous place.",
+      "tmdbMovieId": 279096,
+      "avgRating": 2.59524,
+      "releaseYear": "2016",
+      "numRatings": 63,
+      "posterPath": "/bqTVXHVdR9FrSWAn58WOC73uLmx.jpg"
+   }
+}

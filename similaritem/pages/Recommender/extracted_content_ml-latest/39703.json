@@ -1,0 +1,654 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "bank",
+            "id": 974
+         },
+         {
+            "name": "junkie",
+            "id": 2375
+         },
+         {
+            "name": "heroin",
+            "id": 2671
+         },
+         {
+            "name": "sydney",
+            "id": 5656
+         },
+         {
+            "name": "drug dealing",
+            "id": 11733
+         },
+         {
+            "name": "drugs",
+            "id": 14964
+         }
+      ],
+      "imdb_id": "tt0382810",
+      "video": false,
+      "title": "Little Fish",
+      "recommendations": [
+         91781,
+         38244,
+         55372,
+         9925,
+         14630,
+         34681,
+         171780,
+         25576,
+         223476,
+         95536,
+         59232,
+         89461,
+         18856,
+         51321,
+         253775,
+         20328,
+         115332,
+         63607,
+         85556,
+         25795
+      ],
+      "backdrop_path": "/xDCyn99HxWsO28SuDNpcavz479v.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 16,
+               "character": "Tracy",
+               "gender": 1,
+               "credit_id": "52fe455ac3a36847f80c9509",
+               "name": "Cate Blanchett",
+               "profile_path": "/5HikVWKfkkUa8aLdCMHtREBECIn.jpg",
+               "id": 112,
+               "order": 0
+            },
+            {
+               "cast_id": 17,
+               "character": "The Jockey",
+               "gender": 2,
+               "credit_id": "52fe455ac3a36847f80c950d",
+               "name": "Sam Neill",
+               "profile_path": "/1ZHExb2rz6210NutoUhQcqQpwnl.jpg",
+               "id": 4783,
+               "order": 1
+            },
+            {
+               "cast_id": 18,
+               "character": "Lionel",
+               "gender": 2,
+               "credit_id": "52fe455ac3a36847f80c9511",
+               "name": "Hugo Weaving",
+               "profile_path": "/fZ3wXniGrqbHk4eRt9gE2pSz4Jy.jpg",
+               "id": 1331,
+               "order": 2
+            },
+            {
+               "cast_id": 19,
+               "character": "Ray",
+               "gender": 2,
+               "credit_id": "52fe455ac3a36847f80c9515",
+               "name": "Martin Henderson",
+               "profile_path": "/8D2Megso0mqXnHKFyIsn2exhVgt.jpg",
+               "id": 26291,
+               "order": 3
+            },
+            {
+               "cast_id": 21,
+               "character": "Janelle",
+               "gender": 1,
+               "credit_id": "52fe455ac3a36847f80c951f",
+               "name": "Noni Hazlehurst",
+               "profile_path": "/gkXFQ2TcpWgflwKIpMYaOTlJ2b0.jpg",
+               "id": 37287,
+               "order": 4
+            },
+            {
+               "cast_id": 22,
+               "character": "Moss",
+               "gender": 2,
+               "credit_id": "52fe455ac3a36847f80c9523",
+               "name": "Joel Tobeck",
+               "profile_path": "/14Oobz8bwcd3jiqnoCFTQnPBJdB.jpg",
+               "id": 41785,
+               "order": 5
+            },
+            {
+               "cast_id": 24,
+               "character": "Jenny",
+               "gender": 1,
+               "credit_id": "52fe455ac3a36847f80c952d",
+               "name": "Susie Porter",
+               "profile_path": "/yGBEkCewo9itoskguyCjo0hD97Z.jpg",
+               "id": 51671,
+               "order": 6
+            },
+            {
+               "cast_id": 25,
+               "character": "Jonny",
+               "gender": 2,
+               "credit_id": "52fe455ac3a36847f80c9531",
+               "name": "Dustin Nguyen",
+               "profile_path": "/5smJtyCBYoHV6nbIf0Hv2APHqK0.jpg",
+               "id": 61632,
+               "order": 7
+            },
+            {
+               "cast_id": 26,
+               "character": "Laura",
+               "gender": 1,
+               "credit_id": "52fe455ac3a36847f80c9535",
+               "name": "Lisa McCune",
+               "profile_path": "/fzLK1RDMFuVz5vLmzsAGfxwLhlV.jpg",
+               "id": 61633,
+               "order": 8
+            },
+            {
+               "cast_id": 27,
+               "character": "Mai",
+               "gender": 1,
+               "credit_id": "52fe455ac3a36847f80c9539",
+               "name": "Nina Liu",
+               "profile_path": "/lUMzDXkjtCnvb6kJAs1Mc1EnSJC.jpg",
+               "id": 61634,
+               "order": 9
+            },
+            {
+               "cast_id": 29,
+               "character": "Donna",
+               "gender": 0,
+               "credit_id": "52fe455ac3a36847f80c9541",
+               "name": "Daniela Farinacci",
+               "profile_path": "/bG5GCmWZdw7gna22t0fBj3y8JyR.jpg",
+               "id": 61636,
+               "order": 10
+            },
+            {
+               "cast_id": 28,
+               "character": "Denise",
+               "gender": 1,
+               "credit_id": "52fe455ac3a36847f80c953d",
+               "name": "Linda Cropper",
+               "profile_path": "/qbOd1Zj13iARIRISpAejNvXuLcc.jpg",
+               "id": 61635,
+               "order": 11
+            },
+            {
+               "cast_id": 30,
+               "character": "Khiem",
+               "gender": 0,
+               "credit_id": "52fe455ac3a36847f80c9545",
+               "name": "Ferdinand Hoang",
+               "profile_path": "/nO21yrArjKxJi1OjVFl1CnxkqT0.jpg",
+               "id": 61637,
+               "order": 12
+            },
+            {
+               "cast_id": 31,
+               "character": "Tran",
+               "gender": 2,
+               "credit_id": "52fe455ac3a36847f80c9549",
+               "name": "Anh Do",
+               "profile_path": "/8lLSYUml7ZeaQw6P0TKPPGGhhkS.jpg",
+               "id": 61638,
+               "order": 13
+            },
+            {
+               "cast_id": 35,
+               "character": "Mingh",
+               "gender": 0,
+               "credit_id": "52fe455ac3a36847f80c9555",
+               "name": "Jason Chong",
+               "profile_path": "/b69KUQ7QqeDQ2ZPthULWJ2YfubN.jpg",
+               "id": 61639,
+               "order": 14
+            },
+            {
+               "cast_id": 33,
+               "character": "Tania",
+               "gender": 0,
+               "credit_id": "52fe455ac3a36847f80c954d",
+               "name": "Natasha Beaumont",
+               "profile_path": "/svKLagcLLHidlpGpjEnSaYOZxeP.jpg",
+               "id": 61642,
+               "order": 15
+            },
+            {
+               "cast_id": 34,
+               "character": "Night Club Singer",
+               "gender": 0,
+               "credit_id": "52fe455ac3a36847f80c9551",
+               "name": "Bic Runga",
+               "profile_path": null,
+               "id": 61641,
+               "order": 16
+            },
+            {
+               "cast_id": 36,
+               "character": "Suzy",
+               "gender": 0,
+               "credit_id": "52fe455ac3a36847f80c9559",
+               "name": "Lisa Bailey",
+               "profile_path": "/uubQSqGtgd6PS4ZcB2Pwzw5FgWF.jpg",
+               "id": 61643,
+               "order": 17
+            },
+            {
+               "cast_id": 37,
+               "character": "June",
+               "gender": 0,
+               "credit_id": "52fe455ac3a36847f80c955d",
+               "name": "Lan Tran",
+               "profile_path": null,
+               "id": 61644,
+               "order": 18
+            },
+            {
+               "cast_id": 39,
+               "character": "Mr. Chan",
+               "gender": 0,
+               "credit_id": "52fe455ac3a36847f80c9567",
+               "name": "Anthony Brandon Wong",
+               "profile_path": "/qCXdSClvG2EaXFO3xAyAZdNjXYD.jpg",
+               "id": 930817,
+               "order": 19
+            },
+            {
+               "cast_id": 41,
+               "character": "Michael",
+               "gender": 2,
+               "credit_id": "59af2c7cc3a3682443004cb2",
+               "name": "Anthony Phelan",
+               "profile_path": "/81fH305g9TTVvRj6xYO73bdS8X1.jpg",
+               "id": 75742,
+               "order": 20
+            },
+            {
+               "cast_id": 42,
+               "character": "John",
+               "gender": 2,
+               "credit_id": "59af2c8f925141076505dcfd",
+               "name": "Harli Ames",
+               "profile_path": "/gNT5ghKlvVQkjp82d3GMMyhRcBj.jpg",
+               "id": 1530759,
+               "order": 21
+            },
+            {
+               "cast_id": 43,
+               "character": "Marty",
+               "gender": 0,
+               "credit_id": "59af2e46c3a3682443004e7e",
+               "name": "Ian Roberts",
+               "profile_path": "/9tVVEmYyTNHC6p3Ten8j95Zklu5.jpg",
+               "id": 1224391,
+               "order": 22
+            },
+            {
+               "cast_id": 44,
+               "character": "Busker",
+               "gender": 0,
+               "credit_id": "59af2ebd92514107af05b7da",
+               "name": "Terry Serio",
+               "profile_path": "/o6lf5YvXubPRyU8ehbmhn4Kogae.jpg",
+               "id": 75270,
+               "order": 23
+            },
+            {
+               "cast_id": 45,
+               "character": "Nick",
+               "gender": 0,
+               "credit_id": "59af302ec3a3682c48055395",
+               "name": "Steve Vella",
+               "profile_path": "/dPyKdkdk5QKbxsrx8wDSDGFjQLJ.jpg",
+               "id": 125323,
+               "order": 24
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4559c3a36847f80c94b7",
+               "name": "Kirk D'Amico",
+               "profile_path": null,
+               "id": 61075,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe455ac3a36847f80c94bd",
+               "name": "Rowan Woods",
+               "profile_path": null,
+               "id": 61346,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe455ac3a36847f80c94c3",
+               "name": "Marion Pilowsky",
+               "profile_path": null,
+               "id": 41374,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe455ac3a36847f80c94c9",
+               "name": "Jacquelin Perske",
+               "profile_path": null,
+               "id": 61617,
+               "department": "Writing",
+               "job": "Author"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe455ac3a36847f80c94cf",
+               "name": "Barrie M. Osborne",
+               "profile_path": "/xWtXYk6M5NFroddcQDviLlxOnkU.jpg",
+               "id": 123,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe455ac3a36847f80c94d5",
+               "name": "Vincent Sheehan",
+               "profile_path": null,
+               "id": 61619,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe455ac3a36847f80c94db",
+               "name": "Robert Mullis",
+               "profile_path": null,
+               "id": 61620,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe455ac3a36847f80c94e1",
+               "name": "Nathan Larson",
+               "profile_path": null,
+               "id": 2863,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe455ac3a36847f80c94e7",
+               "name": "Ann Robinson",
+               "profile_path": null,
+               "id": 61624,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe455ac3a36847f80c94ed",
+               "name": "Liz Watts",
+               "profile_path": null,
+               "id": 61625,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe455ac3a36847f80c94f3",
+               "name": "Beth Garswood",
+               "profile_path": null,
+               "id": 61626,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe455ac3a36847f80c94f9",
+               "name": "Melinda Doring",
+               "profile_path": null,
+               "id": 61627,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe455ac3a36847f80c94ff",
+               "name": "Danny Ruhlmann",
+               "profile_path": null,
+               "id": 61628,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe455ac3a36847f80c9505",
+               "name": "Richard Keddie",
+               "profile_path": null,
+               "id": 61629,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe455ac3a36847f80c951b",
+               "name": "Alexandre de Franceschi",
+               "profile_path": null,
+               "id": 61630,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe455ac3a36847f80c9529",
+               "name": "Luigi Pittorino",
+               "profile_path": null,
+               "id": 61631,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe455ac3a36847f80c9563",
+               "name": "John Scott",
+               "profile_path": null,
+               "id": 30461,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "59a4747f925141398b002f1c",
+               "name": "Jacquelin Perske",
+               "profile_path": null,
+               "id": 61617,
+               "department": "Writing",
+               "job": "Writer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Drama",
+            "id": 18
+         },
+         {
+            "name": "Crime",
+            "id": 80
+         }
+      ],
+      "popularity": 3.905396,
+      "production_countries": [{
+         "iso_3166_1": "AU",
+         "name": "Australia"
+      }],
+      "id": 9993,
+      "vote_count": 31,
+      "budget": 0,
+      "overview": "Set in the Little Saigon district outside of Sydney, a woman trying to escape her past becomes embroiled in a drug deal.",
+      "similar": [
+         627,
+         180863,
+         507,
+         20289,
+         319,
+         39939,
+         106646,
+         10474,
+         100,
+         9352,
+         8363,
+         641,
+         796,
+         9589,
+         396940,
+         20786,
+         429733,
+         179144,
+         23949,
+         9490
+      ],
+      "original_title": "Little Fish",
+      "runtime": 114,
+      "poster_path": "/zJhyMfoZBA6UUHTEYcoSAdNi2Gx.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Tiếng Việt",
+            "iso_639_1": "vi"
+         }
+      ],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Mullis Capital Independent",
+            "id": 94304,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Porchlight Films",
+            "id": 6237,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Australian Film Finance Corporation",
+            "id": 1380,
+            "origin_country": "AU"
+         }
+      ],
+      "release_date": "2005-07-19",
+      "vote_average": 5.8,
+      "belongs_to_collection": null,
+      "tagline": "The past is right here",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Australia",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Rowan Woods"],
+      "runtime": 114,
+      "synopsis": null,
+      "writers": ["Jacquelin Perske"],
+      "originalLanguage": "Vietnamese",
+      "imdbLink": "http://www.imdb.com/title/tt0382810/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BNTgyNzA5MDQ3NV5BMl5BanBnXkFtZTcwNTYxNzIzMQ@@._V1_SY317_CR5,0,214,317_AL_.jpg",
+      "actors": ["Stars: Cate Blanchett, Sam Neill, Hugo Weaving | See full cast and crew »"],
+      "reviews": [
+         "An interesting portrayal of how heroin addiction impacts a cross section of people in suburban Sydney. The \"little fish\" in the multi-million dollar heroin trade swim around in circles, trying to escape the lives they are stuck with \u0096 some with more success than others. Tracy (Cate Blanchett) lives with the legacy of her former addiction, faced with temptation to fall back to her old ways, and constantly hitting a brick wall in her attempts to start her own business and escape her stagnant existence. Blanchett is, of course, strong in her portrayal, which was apparently inspired by her real-life interviews with addicts. The moment when she is tempted to return to her old ways is genuinely disturbing. Noni Hazelhurst is particularly excellent as tormented mum Janelle, desperate to keep her family from sinking, once again, into the mire. Hugo Weaving is convincing in his role has a drug-addled former football hero. His strong performance is boosted by his startling physical transformation. Watch out for Dustin Nguyen, who you might remember from '80s teen cop show 21 Jump Street. His accent is a little confused, which we can probably write off as the result of his character's multi-national background. Although the pic meanders a bit to begin with, taking some time to build up pace, it's a generally satisfying exploration of the underside of life in Sydney suburbia. Some sub-plots work much better than others, but the film is well worth a look, especially if you are a fan of the talented cast who generally shine here.",
+         "Rowan Woods' previous film, \"The Boys\" (1997) had a certain detachment as he examined the psychology of the perpetrators of a particularly nasty crime - watching it was like looking at bugs through a microscope, though it did feature a truly brilliant performance by David Wenham. In this film from a script by Jacqueline Perske he takes a warmer and certainly a lighter look at some rather unprepossessing people living in the south-western suburbs of Sydney - specifically Cabramatta. Tracey is a former heroin addict, clean for the last four years but with a less than perfect credit record, who is trying to buy a share in the video shop she is working in so she can expand into the internet gaming business (hey, isn't that illegal in Australia?). Her friend Lionel, a former football star and ex-boyfriend of her mother's is still an addict. As she tries unsuccessfully to raise money from some almost comically reluctant financiers she become involved in looking after Lionel, who seems to have a rather close relationship with Jockey, a local hoodlum and drug dealer and his sidekick Steve. Her Vietnamese-Australian ex-boyfriend Johnny suddenly arrives on the scene after four years away and is soon involved in a drug deal with her one-legged (and rather stupid) brother Ray. The \"Little Fish\" of the title turn out to be those little plastic fish than come with soy sauce inside them in East Asian restaurants, recycled to contain amphetamines, but it could equally describe most of the characters. It's all very complicated and to be honest the plot is a bit of a monkey puzzle \u0096 I have the feeling there might be a few holes in it - but the film is really about the struggle to climb out of the mire. Some make it, others don't; often those who succeed owe their success to chance, others who fail do so despite every effort. Cate Blanchett as Tracey is as good as she has ever been. You may think she is a little genteel for the role, but blot out your memories of \"Elizabeth\" and she is just fine. Hugo Weaving as Lionel gives a pretty well definitive portrait of a burnt-out heroin addict. Sam Neil as the ruthless Jockey is a little less suave than usual, though his clothes are tailor made and his car a Jaguar. Noni Hazelhurst is all heart as mother (Heart is her surname) and Dustin Nguyen as Johnny, despite the dodgy accent, gets away with playing a person about 10 years younger than he actually is. Martin Henderson is a wonderful dumb Ray. Perhaps the most impressive feature of the film is the up-close and personal photography (just about every scene looks like it was done with a hand-held camera) combined with some very imaginative fade-in and fade-out. The result is so atmospheric I almost felt the rain and smelled Hugo's lack of aftershave. More to the point, I felt the characters' moods. It was almost like being inside the movie. I very much liked the other recent Oz movie \"Look Both Ways\" which I saw two weeks ago. It also featured some innovative techniques, but this is a far more sophisticated piece of work.",
+         "Director Rowan Woods and his collaborators have crafted a totally absorbing urban drama about complex homosapiens whose lives have been compromised by drugs and various addictions. Cate Blanchett is Tracy, the film's lynch-pin, a Western suburbs girl whose ambitions to get ahead are thwarted by financial and personal skeletons from her past. Scribe Jacqueline Perske manipulates a tangled web of characters ranging from Sam Neil's retiring drug baron Brad to Hugo Weaving's failed yuppie junkie Lionel. Noni Hazlehurst, in a riveting performance, plays family matriarch Janelle, a woman so crippled by regret and betrayal, she can hardly stand upright. The tone is a few degrees lighter than Woods' brilliant \"The Boys\" and the Cabramatta milieu is broader, but this is still a beautifully balanced character piece with top notch performances and a restrained third act that avoids the usual clichés. Supporting turns by Susie Porter (as Jenny) and Joel Tobeck (as Moss) are exceptional. Though some climactic clarity might have been helpful, this is, nevertheless, emotionally graphic and pictorially intense cinema.",
+         "Tracy is an ex-heroin junkie how has cleaned up and wants to start a new life in her new store' but she cant finance her new endeavor. Her brother Ray is a speed dealer looking for his big deal, his friend Jonny is an ex-deal who is now a stock-broker. Lionel is looking to go straight, giving up heroin. Tracy's mother Janelle was friends with Lionel but broke off when he gave Tracy Herion. Lionel is also infatuated with Brad, his dealer. This is a very strong drama, and its been awhile since Australia has made a good drama. The story is a great look at family, friendship, the pain of change and rejection. Jacqueline Perske script is very deep and multi-layered. There are many sub-plots that keep you constantly thinking. Rowan Wood's direction is a step up from his last feature 'The Boys', being more experimental and more unconventional. The cinematography is wonderful, the use of many washes raise the mood and tension to higher levels, tightening the atmosphere of depression. This has a stellar cast; Cate Blanchett, Hugo Weaving, Noni Hazlehurst, Sam Neill, Lisa McCune, Martin Henderson and Dustin Nguyen all give strong performances, not a single flaw in the acting. Blanchett and Weaving give great career performances, Weaving is just brilliant. Hazlehurst brings a performance so shockingly different, this is not the Nomi you know from 'Play School'. The only thing i felt was wrong with Little Fish is its just abit to long. If it was cut down by ten minutes or so, it would have the pacing more faster and get to the point a lot quicker. This is a spring board of better things to come out of Australia.",
+         "This is an interesting movie, well worth seeing, even though it has substantial failings. Evenness of pace is probably its most debilitating aspect: the slow, steady plod to the climax prevents that climax from being quite as climactic as it should be. Also, the director and his DOP are too in love with the hand-held camera for their own good: too much of it really is irritating, and there is much too much of it in this film. Having said that, there are some wonderful shots and juxtaposition of shots, moving us from warm reds to cool blues and back again. As far as the plot is concerned, the characters are all too neatly slotted into it, emphasising the story's artificiality, which plays against naturalism of the acting, just as the snappy editing plays against the hand-held camera-work. .Compare and contrast THE USUAL SUSPECTS, which is so wonderfully artificial throughout that its story's twists, turns and games, and the theatrical turns from most of its cast add up to something very entertaining. LITTLE FISH, in the end, perhaps takes itself a little too seriously. That's the carping out of the way. The good news is that the acting is terrific. Blanchett is a rare leading actress, capable of convincing us she's an ordinary working girl - one simply can't imagine, for example, Kidman taking this role on and making it so real and touching. Sam Neill, cast against type, is wonderfully loathsome. Martin Henderson, Dustin Nguyen, Joel Tobeck - all give top-class support. But the revelation is Hugo Weaving, who is magnificent as the drug-addicted former star-sportsman. Can this be the same actor who has been marking his time in THE MATRIX and LORD OF THE RINGS? Amazingly, it is. A totally convincing transformation. All in all, an only just better-than-average thriller, greatly enhanced by its actors.",
+         "It's a disturbingly honest film portraying a hauntingly familiar life and how it is affected by the seamy drug/underworld of Sydney's Asian community. That's not to say that only the Asian community has drug and underworld problems, but it makes for an interesting and colourful backdrop for a complicated but compelling story. In fact, even now two hours after we left the cinema, I'm still mildly troubled by the seeming hopelessness of the confused lives portrayed. It was so real, so close to the bone. The characters could easily be you, or me. As another reviewer stated: \"There's no light-the tunnel goes on forever.\" A pretty accurate assessment. I've heard it said that for Blanchett and Weaving their performances rank as personal bests, but I'm not all that sure I'd go that far with Weavings. He was good, very, very good as the broken-down drug-ridden ex-football star but Blanchett's performance as the reformed addict desperately trying to get her life together, to set up her own business and actually resurrect something from the pathetic life she has, was absolutely amazing. Her character is both complex and simplistic all at once. You can detest and love her, feel sympathy and disdain and find by movie's end you're aware that she could so easily be you. Included in the cast as perennials the likes of Noni Hazlehurst, Lisa McCune and Sam Neill all played sound parts but not a patch on the leads. The balance of the cast are movie journeymen/women who have many and varied backgrounds. None were overly outstanding, although I found the character of Jonny, Blanchett's former boyfriend played by Dustin Nguyen to be quite well done. He disgusted me for what he was and what he wanted to be and that's the actors art. Go and see this flick. It's an outstanding example of the Australian film industry's capabilities. I rate it 8 out of 10.",
+         "Writer Jacqueline Perske and Director Rowan Woods chalk up another successful Australian film in LITTLE FISH, an intense, very personal drama about how illegal drugs affect communities, families and individuals. The story begs patience from the viewer as it is gratefully one that does not spell everything out for the viewer, but instead introduces the characters slowly and with hints of backgrounds that bring them to the moments of crisis the time-frame of the film uses. Taking place in the Little Saigon area of Sydney, Tracy Heart (Cate Blanchett) is a recovered junkie who lives with her mother Janelle (Noni Hazlehurst) and partial amputee brother Ray (Martin Henderson), each trying to make ends meet in a life previously destroyed by drug addiction. Tracy has been clean for four years, works in a video store but has dreams of owning her own business, dreams that are thwarted by banks refusing to give her business loans solely on the basis of her previous addiction. Ray, his amputated leg the result of a car accident somehow connected with drugs, still sells heroin in 'little fish' containers, occasionally calling upon Tracy to make pickups and deliveries. The now absent stepfather Lionel (Hugo Weaving) fights his own addiction both to drugs and to his dealer Brad (Sam Neill) with whom he has been in a gay relationship since his divorce from Janelle. Tracy tries to support Lionel's attempts to kick his habit, but the attempts are failures. Everything comes to a head when 1) Tracy is desperate without her needed bank loan, 2) Tracy's Vietnamese ex-lover Jonny (Dustin Nguyen) returns from Vancouver where his family sent him to avoid the persecution of rehab in Sydney, 3) Brad retires leaving Lionel without a source of drugs or love and Lionel is replaced by a quasi-normal Steven (Joel Tobeck) who kicks the last part of the film into a spin. There are no solutions to anyone's problems: things just happen and the characters respond in the best way they can with the ominous cloud of drug addiction shading their lives and futures. The script is terse and smart and the direction is relentlessly realistic and well paced. Cate Blanchett gives a sterling portrayal of the very complex Tracy, and Hugo Weaving, Noni Hazelhurst, Sam Neill, Dustin Nguyen, and Martin Henderson are superb. This is a tough little film that does not fear to examine the truth about the effect of drugs on people's lives and spirits. It is a very fine film. Recommended. Grady Harp",
+         "About time we had a good script with strong characters for some of the Antipodes' best stars. A film that will appeal on different levels, depending on your background and knowledge of Sydney, its \"little Saigon\" and its drug subculture. The \"little fish\" are both the junkies (current and ex) treading water or drowning not waving in the cruel sea of a modern society, and the fish-shaped sauce containers that the latest crop of drugs come in. Hugo Weaving and Sam Neill are brilliant in roles that have borrowed much from Oz sporting and media characters, Noni Hazelhurst is convincing as a suburban mum weighed down by lack of love and betrayal. Martin Henderson completes the family as the disabled, junkie boofhead brother. Cate Blanchett is more than passable as the recovering junkie, still living in the middle of the milieu she is trying to escape. Cabramatta and its Vietnamese community also star, with Dustin Nguyen and his family reflecting the Oz/Viet cultural mix. A film that will appeal strongly to Oz moviegoers, but strong enough also to be appreciated by an international audience.",
+         "As Cate Blanchett said herself, 'Little Fish' is about the people between the middle class and lower class, those who are struggling with their daily lives and are largely ignored. Perske's screenplay is good but it could have been a little tighter as the film does drag at some portions. Woods is good and he brings a certain realness (with the help of the actors) in portraying the complex relationships between the characters. All the main characters, most of them 'recovered' addicts and some returning addicts, try to seek a better life but there is just 'one last trade' that would 'get them to their goals'. Dustin Nguyen (in spite of an uneven accent), Martin Hendersen, Sam Neill and Hugo Weaving are all adequate in their parts and Noni Hazelhurst is wonderful. However, 'Little Fish' belongs to Cate Blanchett. One can see a Blanchett that's completely different from her Hollywood films (then again she's always different in each of her movies). A difficult part required an immensely talented actress and she just makes the task look easy. There's a frightening scene where Cate's Tracy is tempted to 'return' but then a magical scene follows where she walks into a choir rehearsal of a group of singing Vietnamese children and she is confused, conflicted and eventually comforted. This one profound scene was so brilliantly executed with the long shot camera, the innocent voices of the children as they sing the powerful words, and Cate asking repeatedly where the bathroom is while being confused, that the strength of it stays in mind long after the end credits have rolled.",
+         "The subject didn't sound very appealing to me but Cate Blanchett's in it and a whole cast of Aussie/NZ celebrities. Worth a peek, I thought, but sadly, it's disappointing. Cate Blanchett is Tracy, a former heroin addict trying to set up her own business and stay (emotionally) clear from a bunch of ne'er-do wells surrounding her. It's all misery in this film. For me it only works if the story is connected to a certain time and place. There's contemporary Sydney, but it merely serves as background music, it could have been anywhere anytime. It just doesn't come off as very authentic. Cate Blanchett, Hugo Weaving, Dustin Nguyen, Sam Neill, everyone acts their head off, but to no avail. There's little in the way of a story or direction to guide them. Blanchett is probably the most respected actress of her generation, and again she is very good. It's all her show. As a moodpiece it succeeds in a way, as drama is less rewarding. Director Rowan Woods tries hard to make this engaging but the characters, including Blanchett's, are mildly interesting at first, simply off-putting later. There's just too little to keep things afloat till the end, literally. It's all downhill and we have to slide with them. Camera Obscura --- 5/10"
+      ],
+      "genres": [
+         "Crime",
+         "Drama",
+         "Romance",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "Porchlight Films",
+         "Australian Film Finance Corporation (AFFC)",
+         "Mullis Capital Independent"
+      ],
+      "summaries": [
+         "In Sydney, Tracey Heart is a thirty-two years old manager of a video shop ex-addicted in heroin and clean for four years. She is trying to raise forty thousand dollars to buy a shop for computer games on the next door of the rental and become partner of her boss, but based on her negative records, the banks deny the loan. Tracey takes care of her junkie stepfather Lionel Dawson, unsuccessfully trying to make him quit his heroin habit. When her former boy-friend Jonny returns from Vancouver, Tracey's mother Janelle fears a fall of Tracey, while she blames Jonny for the car accident where her son Ray lost one leg. When Ray and Jonny associate to Moss, the assistant of the retired criminal boss Bradley 'The Jockey' Thompson, in drug dealing, Tracey is convinced by Jonny to join them and raise the necessary money for her business along the weekend.",
+         "Tracey Heart's past won't let her go. Aged 32, she's spent the past four years recovering from her heroin habit and redeeming herself in the eyes of her mother. Beset by the complex relationships within her family, her world is thrown into further turmoil by the unexpected return of her ex-boyfriend, Jonny.The criminal aspirations of her brother, Ray, and coping with the attempts of ex-footy star and junkie, Lionel Dawson to withdraw from his habit, almost prove too much. The complexity of deceit within Tracy's own life is mirrored by that within Sydney's drug underworld as Tracey becomes tangled with criminal boss Bradley 'The Jockey' Thompson. Tracey has to confront her own fears before she learns to love again.",
+         "Set in the Little Saigon district outside of Sydney, a woman (Blanchett) trying to escape her past becomes embroiled in a drug deal."
+      ],
+      "budget": 0
+   },
+   "movielensId": 39703,
+   "movielens": {
+      "languages": [
+         "English",
+         "Tiếng Việt"
+      ],
+      "releaseDate": "2005-07-19",
+      "dvdReleaseDate": "2006-04-11",
+      "directors": ["Rowan Woods"],
+      "runtime": 114,
+      "movieId": 39703,
+      "title": "Little Fish",
+      "mpaa": "R",
+      "actors": [
+         "Cate Blanchett",
+         "Sam Neill",
+         "Hugo Weaving",
+         "Martin Henderson",
+         "Noni Hazlehurst",
+         "Joel Tobeck",
+         "Susie Porter",
+         "Dustin Nguyen",
+         "Lisa McCune",
+         "Nina Liu",
+         "Daniela Farinacci",
+         "Linda Cropper",
+         "Ferdinand Hoang",
+         "Anh Do",
+         "Jason Chong",
+         "Natasha Beaumont",
+         "Bic Runga",
+         "Lisa Bailey",
+         "Lan Tran",
+         "Anthony Brandon Wong",
+         "Anthony Phelan",
+         "Harli Ames",
+         "Ian Roberts",
+         "Terry Serio",
+         "Steve Vella"
+      ],
+      "imdbMovieId": "0382810",
+      "originalTitle": "Little Fish",
+      "genres": [
+         "Drama",
+         "Crime"
+      ],
+      "youtubeTrailerIds": ["wxenulh_JIU"],
+      "plotSummary": "Set in the Little Saigon district outside of Sydney, a woman trying to escape her past becomes embroiled in a drug deal.",
+      "tmdbMovieId": 9993,
+      "avgRating": 3.46341,
+      "releaseYear": "2005",
+      "numRatings": 82,
+      "posterPath": "/zJhyMfoZBA6UUHTEYcoSAdNi2Gx.jpg"
+   }
+}

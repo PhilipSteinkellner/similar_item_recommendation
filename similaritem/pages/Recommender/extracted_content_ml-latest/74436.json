@@ -1,0 +1,724 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "baseball",
+            "id": 1480
+         },
+         {
+            "name": "made for cable tv",
+            "id": 8629
+         },
+         {
+            "name": "anthology",
+            "id": 9706
+         },
+         {
+            "name": "mechanic",
+            "id": 10260
+         },
+         {
+            "name": "hair loss",
+            "id": 167560
+         },
+         {
+            "name": "horror anthology",
+            "id": 214544
+         }
+      ],
+      "imdb_id": "tt0106449",
+      "video": false,
+      "title": "Body Bags",
+      "recommendations": [
+         26680,
+         40037,
+         30062,
+         32998,
+         28260,
+         28762,
+         70024,
+         27726,
+         38939,
+         20481,
+         19287,
+         26677,
+         16191,
+         23730,
+         24124,
+         26554,
+         87704,
+         27346,
+         27916,
+         36291
+      ],
+      "backdrop_path": "/dNaZhBeV76hQ80KF3D1EjBTylTd.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 10,
+               "character": "The Coroner",
+               "gender": 2,
+               "credit_id": "52fe44899251416c9101431b",
+               "name": "John Carpenter",
+               "profile_path": "/jGprVNNSmlJzLNhm2tcdmjquLyL.jpg",
+               "id": 11770,
+               "order": 0
+            },
+            {
+               "cast_id": 13,
+               "character": "Bill",
+               "gender": 2,
+               "credit_id": "52fe44899251416c91014327",
+               "name": "Robert Carradine",
+               "profile_path": "/bHC0DdCEJ3frEWADFnTnftSmdgF.jpg",
+               "id": 62036,
+               "order": 1
+            },
+            {
+               "cast_id": 14,
+               "character": "Anne",
+               "gender": 1,
+               "credit_id": "52fe44899251416c9101432b",
+               "name": "Alex Datcher",
+               "profile_path": "/xg4kEX3uxf0wYAJMWwYyUX7YtFR.jpg",
+               "id": 46924,
+               "order": 2
+            },
+            {
+               "cast_id": 19,
+               "character": "Pete",
+               "gender": 2,
+               "credit_id": "52fe44899251416c9101433f",
+               "name": "David Naughton",
+               "profile_path": "/ehDE47qkUux5a18Mi7zqReBj79b.jpg",
+               "id": 14463,
+               "order": 3
+            },
+            {
+               "cast_id": 23,
+               "character": "Richard Coberts",
+               "gender": 2,
+               "credit_id": "52fe44899251416c9101434f",
+               "name": "Stacy Keach",
+               "profile_path": "/9G0urAVBBP9FRX1wrxkdZCj3VCW.jpg",
+               "id": 825,
+               "order": 4
+            },
+            {
+               "cast_id": 24,
+               "character": "Dr. Lock",
+               "gender": 2,
+               "credit_id": "52fe44899251416c91014353",
+               "name": "David Warner",
+               "profile_path": "/wgp2AlWKveLBOcs8YNuLeZiLsGL.jpg",
+               "id": 2076,
+               "order": 5
+            },
+            {
+               "cast_id": 25,
+               "character": "Megan",
+               "gender": 1,
+               "credit_id": "52fe44899251416c91014357",
+               "name": "Sheena Easton",
+               "profile_path": "/gEhSGKAvIqhMYPjc5AI7f7HnRGs.jpg",
+               "id": 109988,
+               "order": 6
+            },
+            {
+               "cast_id": 31,
+               "character": "Brent Matthews",
+               "gender": 2,
+               "credit_id": "52fe44899251416c9101436f",
+               "name": "Mark Hamill",
+               "profile_path": "/fk8OfdReNltKZqOk2TZgkofCUFq.jpg",
+               "id": 2,
+               "order": 7
+            },
+            {
+               "cast_id": 32,
+               "character": "Cathy Matthews",
+               "gender": 1,
+               "credit_id": "52fe44899251416c91014373",
+               "name": "Twiggy",
+               "profile_path": "/9OO3hY5xjk6qOzKtYIEGxmPludq.jpg",
+               "id": 40092,
+               "order": 8
+            },
+            {
+               "cast_id": 33,
+               "character": "Dr. Lang",
+               "gender": 2,
+               "credit_id": "52fe44899251416c91014377",
+               "name": "John Agar",
+               "profile_path": "/9fKJvICRu2KS6Q70R7plPUkCkTY.jpg",
+               "id": 103071,
+               "order": 9
+            },
+            {
+               "cast_id": 11,
+               "character": "Morgue Worker #1",
+               "gender": 2,
+               "credit_id": "52fe44899251416c9101431f",
+               "name": "Tom Arnold",
+               "profile_path": "/udJkmZPrQs4D8NPV8u4BEv3rNLX.jpg",
+               "id": 74036,
+               "order": 10
+            },
+            {
+               "cast_id": 12,
+               "character": "Morgue Worker #2",
+               "gender": 2,
+               "credit_id": "52fe44899251416c91014323",
+               "name": "Tobe Hooper",
+               "profile_path": "/rE5TqnAvgaKjWwWZ9AsoU9KcUGU.jpg",
+               "id": 10051,
+               "order": 11
+            },
+            {
+               "cast_id": 15,
+               "character": "Gent",
+               "gender": 2,
+               "credit_id": "52fe44899251416c9101432f",
+               "name": "Peter Jason",
+               "profile_path": "/2VqCiv4R0kZW1Nwi60fIzmHKxpc.jpg",
+               "id": 6916,
+               "order": 12
+            },
+            {
+               "cast_id": 16,
+               "character": "Divorcee",
+               "gender": 1,
+               "credit_id": "52fe44899251416c91014333",
+               "name": "Molly Cheek",
+               "profile_path": "/47iPOiKc0otACk0vIDm6VnlQBO6.jpg",
+               "id": 54586,
+               "order": 13
+            },
+            {
+               "cast_id": 17,
+               "character": "Pasty Faced Man",
+               "gender": 2,
+               "credit_id": "52fe44899251416c91014337",
+               "name": "Wes Craven",
+               "profile_path": "/vffssPtgNn2ZwoMfLCCDJAxlXGI.jpg",
+               "id": 5140,
+               "order": 14
+            },
+            {
+               "cast_id": 18,
+               "character": "Dead Bill",
+               "gender": 2,
+               "credit_id": "52fe44899251416c9101433b",
+               "name": "Sam Raimi",
+               "profile_path": "/uEAaCUJzyMI8N5mOVyLtaOPKoEf.jpg",
+               "id": 7623,
+               "order": 15
+            },
+            {
+               "cast_id": 53,
+               "character": "Stranger",
+               "gender": 2,
+               "credit_id": "5860214dc3a3681a6f0219cc",
+               "name": "George Buck Flower",
+               "profile_path": "/xHzW4GszCLTZLNxvTcKL9ICuLIc.jpg",
+               "id": 54564,
+               "order": 16
+            },
+            {
+               "cast_id": 21,
+               "character": "Peggy",
+               "gender": 1,
+               "credit_id": "52fe44899251416c91014347",
+               "name": "Lucy Boryer",
+               "profile_path": null,
+               "id": 109986,
+               "order": 17
+            },
+            {
+               "cast_id": 22,
+               "character": "TV Anchorman",
+               "gender": 0,
+               "credit_id": "52fe44899251416c9101434b",
+               "name": "Roger Rooks",
+               "profile_path": null,
+               "id": 109987,
+               "order": 18
+            },
+            {
+               "cast_id": 26,
+               "character": "Dennis",
+               "gender": 2,
+               "credit_id": "52fe44899251416c9101435b",
+               "name": "Dan Blom",
+               "profile_path": null,
+               "id": 109989,
+               "order": 19
+            },
+            {
+               "cast_id": 27,
+               "character": "Man with Beautiful Hair",
+               "gender": 0,
+               "credit_id": "52fe44899251416c9101435f",
+               "name": "Attila",
+               "profile_path": null,
+               "id": 109990,
+               "order": 20
+            },
+            {
+               "cast_id": 28,
+               "character": "Woman with Beautiful Hair",
+               "gender": 1,
+               "credit_id": "52fe44899251416c91014363",
+               "name": "Kim Alexis",
+               "profile_path": null,
+               "id": 109991,
+               "order": 21
+            },
+            {
+               "cast_id": 29,
+               "character": "Man with Dog",
+               "gender": 2,
+               "credit_id": "52fe44899251416c91014367",
+               "name": "Gregory Nicotero",
+               "profile_path": "/tbSRk7j0hYlBWWX7QrjdOXeiMpW.jpg",
+               "id": 59287,
+               "order": 22
+            },
+            {
+               "cast_id": 30,
+               "character": "The Nurse",
+               "gender": 1,
+               "credit_id": "52fe44899251416c9101436b",
+               "name": "Deborah Harry",
+               "profile_path": "/pASovJqjDaaHGs08jQs9FBOuWW6.jpg",
+               "id": 102,
+               "order": 23
+            },
+            {
+               "cast_id": 34,
+               "character": "Baseball Team Manager",
+               "gender": 2,
+               "credit_id": "52fe44899251416c9101437b",
+               "name": "Charles Napier",
+               "profile_path": "/90flwc0xLUDvS4pSUimZzyme2PD.jpg",
+               "id": 16119,
+               "order": 24
+            },
+            {
+               "cast_id": 35,
+               "character": "Baseball Player",
+               "gender": 2,
+               "credit_id": "52fe44899251416c9101437f",
+               "name": "Eddie Velez",
+               "profile_path": "/1CbsEzlt6fQmxIo5t3QsNrqsFlb.jpg",
+               "id": 88031,
+               "order": 25
+            },
+            {
+               "cast_id": 36,
+               "character": "Librarian",
+               "gender": 0,
+               "credit_id": "52fe44899251416c91014383",
+               "name": "Betty Muramoto",
+               "profile_path": null,
+               "id": 109992,
+               "order": 26
+            },
+            {
+               "cast_id": 37,
+               "character": "Nurse",
+               "gender": 1,
+               "credit_id": "52fe44899251416c91014387",
+               "name": "Bebe Drake",
+               "profile_path": null,
+               "id": 98902,
+               "order": 27
+            },
+            {
+               "cast_id": 38,
+               "character": "Minister",
+               "gender": 2,
+               "credit_id": "52fe44899251416c9101438b",
+               "name": "Sean McClory",
+               "profile_path": "/4eOjjwyxE73LoG4eaivI5AgT0Ed.jpg",
+               "id": 30501,
+               "order": 28
+            },
+            {
+               "cast_id": 39,
+               "character": "Man",
+               "gender": 0,
+               "credit_id": "52fe44899251416c9101438f",
+               "name": "Robert Lewis Bush",
+               "profile_path": null,
+               "id": 109993,
+               "order": 29
+            },
+            {
+               "cast_id": 40,
+               "character": "Technician",
+               "gender": 0,
+               "credit_id": "52fe44899251416c91014393",
+               "name": "Gregory Alpert",
+               "profile_path": null,
+               "id": 109994,
+               "order": 30
+            },
+            {
+               "cast_id": 41,
+               "character": "Zombie Cathy",
+               "gender": 0,
+               "credit_id": "52fe44899251416c91014397",
+               "name": "Martine LeBlanc",
+               "profile_path": null,
+               "id": 109995,
+               "order": 31
+            },
+            {
+               "cast_id": 42,
+               "character": "Dr. Bregman",
+               "gender": 2,
+               "credit_id": "52fe448a9251416c9101439b",
+               "name": "Roger Corman",
+               "profile_path": "/gCfEvxl7jTv2dBo8HvwWVMi3auz.jpg",
+               "id": 102429,
+               "order": 32
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe44899251416c910142f3",
+               "name": "John Carpenter",
+               "profile_path": "/jGprVNNSmlJzLNhm2tcdmjquLyL.jpg",
+               "id": 11770,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44899251416c910142f9",
+               "name": "Tobe Hooper",
+               "profile_path": "/rE5TqnAvgaKjWwWZ9AsoU9KcUGU.jpg",
+               "id": 10051,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44899251416c910142ff",
+               "name": "Larry Sulkis",
+               "profile_path": null,
+               "id": 62026,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44899251416c91014305",
+               "name": "Billy Brown",
+               "profile_path": null,
+               "id": 109984,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44899251416c9101430b",
+               "name": "Dan Angel",
+               "profile_path": null,
+               "id": 109985,
+               "department": "Writing",
+               "job": "Writer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44899251416c91014311",
+               "name": "Gary B. Kibbe",
+               "profile_path": null,
+               "id": 24956,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44899251416c91014317",
+               "name": "Edward A. Warschilka",
+               "profile_path": null,
+               "id": 27583,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe448a9251416c910143a1",
+               "name": "Sandy King",
+               "profile_path": null,
+               "id": 27581,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe448a9251416c910143a7",
+               "name": "Sandy King",
+               "profile_path": null,
+               "id": 27581,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe448a9251416c910143ad",
+               "name": "Dan Angel",
+               "profile_path": null,
+               "id": 109985,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe448a9251416c910143b3",
+               "name": "John Carpenter",
+               "profile_path": "/jGprVNNSmlJzLNhm2tcdmjquLyL.jpg",
+               "id": 11770,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe448a9251416c910143b9",
+               "name": "Daniel A. Lomino",
+               "profile_path": null,
+               "id": 12436,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe448a9251416c910143bf",
+               "name": "John Carpenter",
+               "profile_path": "/jGprVNNSmlJzLNhm2tcdmjquLyL.jpg",
+               "id": 11770,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe448a9251416c910143c5",
+               "name": "Jim Lang",
+               "profile_path": null,
+               "id": 27582,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe448a9251416c910143cb",
+               "name": "Howard Berger",
+               "profile_path": "/fz0Z8ia0Iaq4SS6NfVAcFIAeU2F.jpg",
+               "id": 107372,
+               "department": "Crew",
+               "job": "Makeup Effects"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe448a9251416c910143d1",
+               "name": "Robert Kurtzman",
+               "profile_path": "/9hN9noJUKvomz6lNAW24sHHRU0h.jpg",
+               "id": 11419,
+               "department": "Crew",
+               "job": "Makeup Effects"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe448a9251416c910143d7",
+               "name": "Gregory Nicotero",
+               "profile_path": "/tbSRk7j0hYlBWWX7QrjdOXeiMpW.jpg",
+               "id": 59287,
+               "department": "Crew",
+               "job": "Makeup Effects"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "TV Movie",
+            "id": 10770
+         },
+         {
+            "name": "Horror",
+            "id": 27
+         }
+      ],
+      "popularity": 4.332394,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 31578,
+      "vote_count": 73,
+      "budget": 0,
+      "overview": "Three tales are told, each one increasingly terrifying. The first tells the story of a woman being stalked by an axe-weilding maniac. The second is the story of a man who pays the ultimate price for a beautiful head of hair. The final tale shows what it is like to see life through the eyes of a killer.",
+      "similar": [
+         16288,
+         297160,
+         193726,
+         11064,
+         84348,
+         287,
+         29074,
+         20701,
+         354251,
+         61225,
+         29514,
+         436549,
+         19140,
+         369912,
+         49352,
+         390883,
+         260602,
+         17003,
+         399592,
+         138100
+      ],
+      "original_title": "Body Bags",
+      "runtime": 94,
+      "poster_path": "/5CNDkWS2u5nBWtxSIPOnNGssLxD.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Deutsch",
+            "iso_639_1": "de"
+         }
+      ],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "Showtime Networks",
+         "id": 4343,
+         "origin_country": ""
+      }],
+      "release_date": "1993-08-07",
+      "vote_average": 5.7,
+      "belongs_to_collection": null,
+      "tagline": "Zip yourself in tight!",
+      "adult": false,
+      "homepage": "http://www.theofficialjohncarpenter.com/body-bags/",
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": [
+         "John Carpenter",
+         "Tobe Hooper"
+      ],
+      "runtime": 91,
+      "synopsis": "'Prologue' A creepy-looking coroner (John Carpenter) introduces three different horror tales involving his current work which are cadavers in \"body bags\". 'The Gas Station' Anne (Alex Datcher) is a young college student who arrives for her first job at working the night shift at an all-night filling station. The attending worker, Bill (Robert Carradine), leaves and tells her that a serial killer has broken out of a mental hospital and cautions Anne to be careful and not leave the booth at the station which is to be kept locked at all times. After Bill leaves, Anne is alone as the tension mounts as she deals with various late-night customers seeking to buy gas for a quick fill-up, while Anne remains locked in her booth, unsure of who may be the escaped maniac. Eventually, when Anne suspects that the escaped killer is lurking around the gas station, she tries to call the police, only to find the phone line dead. Soon after, she finds a dead body in one of the lockers, which is a station attendant who has a nametag saying 'Bill'. Anne realizes that 'Bill', the attending worker whom she interacted with earlier, is in fact the escaped killer whom has killed the real Bill and has taken his name and uniform, and is killing numerous passersby. 'Bill' appears and attempts to kill Anne with an axe by breaking into the locked booth, and then chasing her around the deserted garage. Just when he is about to kill her, one customer returns after forgetting his credit card. Together, they stop the killer by throwing him under a car on a garage rack in which Anne pushes the lift button making the car come crashing down, cutting the deranged killer in two. 'Hair' Richard Coberts (Stacy Keach Jr.) is a middle-aged businessman who is very self conscious about losing his thinning hair. His obsession about going bald and his means to keep his pride and self esteem intact has caused a riff between him and his long-suffering girlfriend Megan (Sheena Easton). When Richard answers a television ad about a 'miracle' hair transplant operation, he pays a visit to the office and meets the shady Dr. Lock (David Warner) whom, for a very large fee, agrees to give Richard a scalp treatment to make him grow his back hair. The next day, Richard wakes up and removes the bandage around his head left after the surgical procedure and is overjoyed that he has a stallion-style full set of hair. But over the next few days, Richard becomes increasingly sick and fatigued, and soon he finds himself growing hair on parts of his body (the palms of his hands, etc.) that do not grow hair at all. After trying to cut some off, he finds that his hair 'bleeds', and after examining it under a magnifying glass, sees that they are alive. Richard goes back to Dr. Lock for an explanation, but finds himself a prisoner as Dr. Lock explains that he and his entire staff are aliens from another planet who seek out narcissist humans and plant their seeds of hair to grow and takeover their bodies for consumption as part of their plan to spread their alien essence to the planet. Richard was just their latest victim. 'Eye' Brent Matthews (Mark Hamill) is a Major League Baseball player who's life and career takes a turn for the worse when he gets into a serious car accident in which his left eye is gouged out. Unwilling to admit that his career is over, he jumps at the chance when a doctor tells him about a experimental surgical procedure to replace his eye with one from a recently deceased person which can restore his sight. After the surgery, Brent can see through his new eye and is overjoyed at this miracle. But soon after, Brent begins to see things out of his new eye that others cannot see, and it puts him and his wife, Cathy (Twiggy), in danger as Brent begins having nightmares of killing women and having sex with them. Brent seeks out the doctor who tells him that the donor of his new eye was a recently executed serial killer and necrophile who killed several young women, and then had sex with their dead bodies. Brent becomes convinced that the spirit of the dead killer is slowly taking over his body through his eye and enabling him to resume killing women. After Brent blacks out and wakes up near a crime scene where another young woman is killed, he flees back to his house where he tells the skeptic Cathy about what is going on with him. Just then the spirit of the killer emerges and attempts to kill Cathy as well. Cathy fights back, subduing him long enough for Brent to re-emerge. Realizing that it will only be a matter of time before the killer reemerges again, Brent cuts out his donated eye, severing his link with the killer, but he dies afterwords due to bleeding to death. 'Epilogue' The Coroner finishing telling his three tales to the viewers when he hears a noise outside the morgue and crawls back inside a body bag revealing that he himself is a living cadaver this entire time, as two other morgue workers begin to go to work on this 'John Doe' corpse that was just delivered to them.",
+      "writers": [
+         "Billy Brown",
+         "Dan Angel"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0106449/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjEyNTczMzEwNl5BMl5BanBnXkFtZTcwODg1NzAwMQ@@._V1_SY317_CR9,0,214,317_AL_.jpg",
+      "actors": ["Stars: John Carpenter, Tom Arnold, Tobe Hooper | See full cast and crew »"],
+      "reviews": [
+         "Three stories courtesy of John Carpenter and Tobe Hooper, sounds like it can't miss, right? The results are mixed, but pretty interesting all the same. The Gas Station is vintage Carpenter. Here he maximizes the effect from a truly simple premise and creates a genuinely scary story. It's simple, but the final minutes are riddled with tension and general uneasiness. The best of the bunch. Hair is a truly funny story with a terrific performance by Stacy Keach. It goes way over the top towards the end, but still, it's highly amusing for the most part. Eye, the weakest of the three, due to it's complete and utter predictability and complete failure of generating any real chills. It's fun to see Hamill and it's pretty gory but that's about it. One terrific story, one pretty good and one pretty bad, all in all, it's worth watching but it's nothing spectacular.",
+         "BODY BAGS is a lot of fun until the unrelentingly grim final segment directed by Tobe Hooper, which is the best thing Hooper has done since Texas CHAINSAW MASSACRE 2. The other two segments are directed by John Carpenter, who also appears as a Crypt-Keeper-like character, and demonstrates why he has spent most of his time behind the camera. Overall, I like the movie very much. The first segment is good, but also the weakest of the three. It also feels oddly out of place, as the next two stories both deal with medical horror, while it is simply a 50's style slasher-on-the-loose yarn. Despite the slight subject matter (and a poor performance by Alex Datcher in the lead role), it's a solid chiller with some good scares. David Naughton, Robert Carradine and Peter Jason are all good in supporting roles, while fellow horror directors Sam Raimi and Wes Craven have creepy cameos. The second segment is great, and, unlike the other two, is an out-out comedy. Stacey Keach turns in one of his very best performances as a middle-aged man who dreads the prospect of going bald, and decides to try out a new experimental technique developed by scientist David Warner. It leads up to a great finale that is as disturbing as it is funny. Singers Deborah Harry and Sheena Easton have supporting parts. The final segment is the polar opposite of the second. As stated earlier, it's directed by Tobe Hooper, and he shows a sense of the macabre here that he hasn't displayed since his CHAINSAW/FUNHOUSE days. A veteran baseball player is in a car accident which results in his eye being poked out. A surgeon suggests an experimental eye transplant. Unfortunately, the donor eye belonged to a homicidal maniac, and Hammill begins having nightmarish hallucinations and bouts of uncontrollable rage. The climax of the segment is unbelievably cruel and grim, recalling Hooper's early work. It's a genuinely unsettling and horrific little flick. Twiggy, Charles Napier, as well as horror icons John Agar and Roger Corman appear. Carpenter's antics as the narrator are uncomfortably flat, and things don't get any better when an irritating Tom Arnold and a clueless Hooper show up in cameo roles as well. Despite the weak wraparound, I recommend this anthology to horror fans, particularly fans of the two directors' work.",
+         "The first segment \"The Gas Station\" is the only frightening story in this trilogy. Set at night, apparently in the middle of nowhere, it has a plausibilty that the others lack (similarly to Hitchcock's \"Psycho\", it is scary because it's not completely beyond the realms of possibility). Plenty of atmosphere, a little gore and enough sudden shocks and suspense to make it worthwhile. The second segment is at times funny, but not at all scary. The third is an improvement on the second, but more fantastical than the first and therefore not as frightening. The scenes with the man in the morgue, between the segments, are pretty weird. Lots of jokes about corpses. Fine, if you like that sort of thing.",
+         "This movie really wan't all that horrible. The wraparound was pretty funny (I loved the implants joke), but not scary at all, mostly meant for comic relief (which we only needed for the first story, but was great anyway). The first story was freaky, believable, and I definitely saw signs of Halloween in there. I suspected who the killer was, but was still surprised that Carpenter had the balls to do it. The second story was like something out of MadTV. It was so funny seeing everyone having hair excep him. If John Carpenter meant to scare us with this story, it didn't work, if he wanted to make us laugh, he succeeded admirably. Finally the third story. It was extremely gory, but if you consider gore the same as scares, then it could be considered scary. OTher than that, there was a slightly creepy vibe, nothing else. Overall, not bad, but not wonderful: 6.5/10",
+         "Movie-buffs (and perhaps horror fanatics in particular) are strange and unpredictable beings, aren't they? Most of the time we're extremely skeptical and criticize ambitious new projects, yet sometimes we're easily pleased and highly enthusiast about something that is completely derivative, mundane and unoriginal. \"Body Bags\" is the perfect example to illustrate that: it's a horror omnibus existing of three incredibly prototypic segments and a repetitive type of wraparound story, yet I personally enjoyed it immensely. This is a good old-fashioned \"sit back, relax and switch off all brain functions\" type of anthology with a nice diversity in suspense, comedy, splatter and absurdity. Yet, the undeniable strongpoint of \"Body Bags\" is the all-star horror cast and crew, with legendary actors and even directors of the genre appearing in fun supportive roles and insignificant cameos. No less than John Carpenter directs two out of three stories and even stars as the host in the wraparound story. Clearly inspired by \"Tales from the Crypt\", Carpenter plays the witty and morbid morgue employee exactly like the infamous Crypt Keeper; though with still a little more flesh around the bones (though not too much). The first story was the most effective one! Regardless of how clichéd, repetitive and predictable \"The Gas Station\" is, it's a genuine horror entertainment. With the landmark \"Halloween\", Carpenter obviously proved he's the undeniable master of stalk-and-slash movies, and \"The Gas Station\" ideally fits the pattern. During her first night working in a remote gas station, Anne receives a visit from the maniacal killer who's been terrorizing the area since weeks. It's a highly segment with cool red herrings, dumb decisions, some good gore and a neatly uncanny atmosphere. The remaining two stories are slightly less overpowering, mainly because they revolve on sillier topics. \"Hair\" introduces an aging playboy who cannot accept his hairline becoming thinner. He desperately starts seeking for a hair-growing method that works and finds the incredibly treatment of the slightly odd Dr. Lock. Needless to say Richard's new hairdo begins to lead its own life with terrible consequences. \"Hair\" is obviously the most blackly comical chapter of the three. This story isn't gory or tense, but it's a very likable satire about vanity. Finally, \"Eye\" centers on a successful and happily married athlete who loses his eye in a tragic car accident. He spontaneously volunteers for a brand new and risky eye-transplant procedure and slowly begins to carry on with his life. Shortly after, he begins to suffer from horrific visions and learns the eye's previous owner was a sadistic serial killer. \"Eye\" starts off a little slow and dull, but gradually turns into an exciting and gruesome little shock-story. With a bit of imagination, you could even interpret this segment as some sort of predecessor for the more famous Asian ghost story \"The Eye\". Admittedly none of the stories are extraordinary brilliant or innovating, but they're definitely traditional and enthusiastically made. And, as said already, if you don't care about the actual stories, you can always yourself entertain by playing \"spot-the-horror-star\". \"Body Bags\" boosts an amazing cast including John Carpenter (\"Halloween\"), Tobe Hooper (\"The Texas Chainsaw Massacre\"), Sam Raimi (\"The Evil Dead\"), Roger Corman (\"Pit and the Pendulum\"), Wes Craven (\"Nightmare on Elm Street\"), Robert Carradine (\"Orca\"), David Naughton (\"American Werewolf in London\"), George Buck Flower (\"The Fog\"), Stacy Keach (\"Mountain of the Cannibal God\"), David Warner (\"The Omen\"), Mark Hamill (\"Star Wars\"), Twiggy (\"The Doctor and the Devils\"), Deborah Harry (\"Videodrome\") and Charles Napier (\"Supervixens\").",
+         "John Carpenter presents Body Bags was originally made for television. It's the typical horror anthology movie with three stories, all bridged by Carpenter himself in a morgue setting no less. Carpenter wisely takes the humorous route. The first story is about a gas station attendant's first night on the job, which would be anyone's last night for sure. The story is more dumb and predictable, with the protagonist doing things we would all scream at her not to do in a theater, than scary. The flip ending is reminiscent of an episode of Rod Serling's \"Night Gallery.\" The second story is about a vain man with thinning hair; Stacy Keach was absolutely hilarious. This is obviously the best segment. It's inventiveness, humor, and tongue-in-cheek attitude is sorely missing from the other two stories. The final story is better than the first one, but we've seen this before in \"Twilight Zone\" episodes more than once. The bridging story turns out to be quite humorous, with Carpenter being joined by two special guests at the end. Perhaps the best thing about Body Bags is the unusual cast members that were assembled. From regular film and television actors like Stacy Keach, David Warner, and Robert Carradine to the off-beat selections of Sheena Easton, Deborah Harry, and Twiggy, Body Bags has it all. Look closely for several genre directors: Wes Craven, Sam Raimi, Roger Corman, and Tobe Hooper. It was also great fun to see old veteran John Agar as the eye surgeon near the end of his career. This was at least as enjoyable as most of Carpenter's other films, which have been uneven over the years. **1/2 of 4 stars.",
+         "In a morgue, a weird coroner (John Carpenter) presents the cases related to three corpses in body bags, with the participation of Tobe Hooper and Tom Arnold in the last scenes: 1) The Gas Station: On the graveyard shift of the new hire Annie (Alex Datcher), the maniac Bill (Robert Carradine) attacks the gas station where she is working. This tale, directed by John Carpenter, is the most frightening of the three segments, very supported by the atmosphere created by the tense music of John Carpenter. Wes Craven and Sam Raimi have minor participations, being another attraction. 2) Hair: When Richard (Stacy Keach) starts loosing his hair, he becomes obsessed trying to find a cosmetic to stop the balding process. He goes to the clinic of Dr. Lock (David Warner) for a revolutionary transplantation treatment, ignoring the tragic side effects. This is the funniest and silliest tale, also directed by John Carpenter, and with the singer Sheena Easton in the role of Richard's girlfriend Megan. 3) Eye: The baseball player Brent (Mark \"Luke Skywalker\" Hamill) has a car accident while driving home in a stormy night. His doctor proposes a new eye transplantation technique, and Brent and his wife Cathy (Twiggy) accept the risky terms. However, the unexpected side effect jeopardizes the safety of Cathy. This segment, directed by Tobe Hooper, is the most macabre of the three, having the participation of Roger Corman in the role of Dr. Bregman. I recently watched a very scare movie (\"Jain Gui\", of the Pang Brothers - http://www.imdb.com/title/tt0325655/usercomments-167), and I believe that its storyline was probably based on this segment. My vote is seven. Title (Brazil): \"Trilogia do Terror\" (\"Trilogy of Terror\")",
+         "In this early-90s, Tales From The Crypt-style, made-for-TV anthology from masters of horror John Carpenter and Tobe Hooper, creepy morgue attendee The Coroner (played by Carpenter, whose acting is nowhere near as good as his directing) unzips three tales of the macabre� Tale number one, The Gas Station, is directed by Carpenter, and stars Alex Datcher as Anne, whose first night as a gas station attendant doesn't go quite as planned when she is targeted by a serial killer. Operating well within his comfort zone, Carpenter returns to the same bag of tricks he used years earlier for his seminal blockbuster Halloween, delivering a tense, atmospheric piece that, while not exactly groundbreaking thematically or visually (one shot, in particular, is lifted directly from Halloween), still proves to be a lot of fun. Datcher makes for a likable scream queen, there's quite a bit of enjoyment to be had from guessing which of the station's patrons might be the killer, and we get a few welcome cameos from some well-known horror luminaries. Hair, Carpenter's second offering, also sees the director visiting familiar territory: a They Live-style story of aliens operating undercover on Earth, it sees desperate, balding, middle-aged man Richard Coberts (Stacy Keach) visiting an experimental hair clinic that guarantees overnight results. Unfortunately for Richard, his new lustrous locks are actually minute parasitic extraterrestrials that intend to feed on his brain!!! With such a patently silly concept, Carpenter has no option but to play this one for laughs, and amazingly, it works, with the balding Keach proving that he has quite the sense of humour. Hair also features decent turns from David Warner as sinister Dr. Lock, Debbie Harry as his kooky nurse, and Sheena Easton as Cobert's sexy girlfriend Megan. In contrast to the light-hearted nature of Hair, the third and final segment, Eye, is a much darker affair. Directed by Tobe Hooper, it tells of up and coming baseball player Brent Matthews (Mark Hamill), whose career looks to be over when he crashes his car, losing his right eye as a result (a shard of glass piercing the organ). However, thanks to a revolutionary eye-transplant procedure, he regains full vision, but at a cost: his new eyeball causes him to have horrific visions and gradually alters his personality. Yet another scary story to borrow heavily from horror classic The Hands of Orlac, this is extremely derivative stuff, but thanks to solid direction from Hooper, some cool gore, a surprisingly strong central performance from Hamill, and a neat downbeat ending, Eye proves to be a delightfully twisted and thoroughly enjoyable way to wrap up this fun little flick.",
+         "John Carpenter presents \"Body Bags\", in which it reads true as he plays very-well looking coroner (well he might not be as what he seems) late at night fooling around in a morgue, while spitting out macabre jokes (visual and verbal) and then introducing us to three buoyant little stories. They range from horrific, humorous and simply bizarre with a \"Tales from the Crypt\" spin to them. In this low-budget TV production Carpenter would direct the first two; \"The Gas Station\" and \"Hair\", but the third story \"The Eye\" would be fronted by director Tobe Hopper. Carpenter and Hooper wouldn't be the only recognizable names, as the cast line-up is rather mouth-watering. You got Stacy Keach, David Warner, Mark Hamill, David Naughton, Robert Carradine, Deborah Harry, Twiggy, George Buck Flower, Charles Napier, John Agar, Roger Corman and a minor cameo from Tom Arnold. Also some horror participants have tiny parts; Sam Ramini, Wes Craven, Tobe Hooper and make-up/special effects maestro Gregory Nicotero. The first story; \"The Gas Station\" starring Alex Datcher, Robert Carrdine and David Naughton is probably my favourite of the lot. It's the most straight-forward, but effectively atmospheric (very well photographed with its encroaching angles) and suspenseful, which sees a lady on her first day of the job looking over an isolated gas station late one-night night, where she becomes a target of a satanic serial killer. Quite high-tempo with its grounded cat-and-mouse layout. You really do feel the growing unease displayed by Datcher's character and the tension that unfolds from its eerily forlorn backdrop, but this exercise into familiarity just works. Some fruity characters also helps, and it's not without its parodying humour either to balance it out. \"Hair\" the second story, starts off with a natural fear before becoming quite an offbeat and quirky entry which sees Stacy Keach being plagued by the fear of losing his hair. After trying everything to combat it, he seeks treatment from a specialist doctor. It works --- lovely long hair, but at what cost. Keach is a blast in the lead and he shares terrific on-screen chemistry with the likes of Sheena Easton, David Warner and a colourful Debbie Harry. Witty dialogues and a nice sense of wicked cruelty in a revelation that's just plain crazy. Finally we end off with Hooper's \"The Eye\". A brooding supernatural tale that has Mark Hamill an up-and coming baseball player in a terrible car accident, where he loses his right eye. However a doctor offers him the chance to get that sight back in an eye transplant but there's no guarantee it will work. However it does, but soon he's plagued by headaches and visions --- dark and disturbing ones. This one takes on a more serious approach compared with the previous outings with an excellently confident Mark Hamill with good support by Twiggy. The story might be predictable, but it's well-paced where the inflicted transformation of our edgy central character is suitably pitched. Some ghastly shocks moments show up too. Joining it up is the enjoyably warped wrap-around segment with Carpenter (where Rick Baker did the make-up for) and this sees the cameo turns of Hooper and Arnold at the end. The dialogues might be what you most remember, but some of the decors on show in this segment are amusingly executed. As a whole it's a complete package with the stories perfectly complementing each other. They might not be spectacular, but I liked the three. Good, fun comic horror anthology opus by Carpenter and co.",
+         "Director John Carpenter narrates three stories as a walking corpse that must have been a real bad stand-up comic in life. The humour is generally very sophomoric(one scene depicts a rather bosomy lady corpse having troubles being slid in and out of the dead body drawer), but Carpenter actually handles the material very well. Carpenter also directs two of the stories, and Tobe Hooper(The Texas Chainsaw Massacre) directs the third(as well as has a small role as a mortician). The stories each are very different in style, mood, and tone, and each has something to offer in terms of entertainment. The first is probably the most derivative in terms of plot, but also for me was the most frightening. Sexy(very sexy) Alex Datcher plays a woman taking a new job at a 24hr open gas station in a town where many women/people have been killed in serial fashion. Carpenter holds no punches as he tries to make us jump from our seats. Although this story is predictable, it has a lot of suspense. The second story was a funny tale about a balding man that goes to a weird place for hair implants only to discover that he is being used in some horrifying way. Pure laughs with this one as Stacy Keach plays the hair-obsessed man with comic aplomb. David Warner also does a great job playing the Hair Doctor. Sexy Sheena Easton and Debbie Harry also help(they are quite good at teasing hair I'm sure!. The third story is the best-written and directed one as it tells the story of Mark Hamil, a baseball player that loses his eye in an auto accident and has it replaced with the eye of a serial killer. Naturally the eye takes over the rest of the body(shades of The Hands of Orlac here). A very eerie, taught piece of storytelling. All three stories are populated with the greats of the horror genre like John Agar, Roger Corman, Wes Craven, Sam Raimi, and a host of other recognizable faces. Great to see Twiggy again! Body Bags is just plain fun fare. There is no statement trying to be made, no overall theme, just some honest laughs mixed with some honest scares amidst the backdrop of a little sex and lots of guts."
+      ],
+      "genres": [
+         "Sci-Fi",
+         "Horror",
+         "Comedy",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "187 Corp.",
+         "Showtime Networks"
+      ],
+      "summaries": ["Three short stories in the horror genre. The first about a serial killer. The second about a hair transplant gone wrong. The third about a baseball player."],
+      "budget": 0
+   },
+   "movielensId": 74436,
+   "movielens": {
+      "languages": [
+         "English",
+         "Deutsch"
+      ],
+      "releaseDate": "1993-08-07",
+      "dvdReleaseDate": "2000-07-25",
+      "directors": [
+         "John Carpenter",
+         "Tobe Hooper",
+         "Larry Sulkis"
+      ],
+      "runtime": 94,
+      "movieId": 74436,
+      "title": "Body Bags",
+      "mpaa": "R",
+      "actors": [
+         "John Carpenter",
+         "Robert Carradine",
+         "Alex Datcher",
+         "David Naughton",
+         "Stacy Keach",
+         "David Warner",
+         "Sheena Easton",
+         "Mark Hamill",
+         "Twiggy",
+         "John Agar",
+         "Tom Arnold",
+         "Tobe Hooper",
+         "Peter Jason",
+         "Molly Cheek",
+         "Wes Craven",
+         "Sam Raimi",
+         "George Buck Flower",
+         "Lucy Boryer",
+         "Roger Rooks",
+         "Dan Blom",
+         "Attila",
+         "Kim Alexis",
+         "Gregory Nicotero",
+         "Deborah Harry",
+         "Charles Napier",
+         "Eddie Velez",
+         "Betty Muramoto",
+         "Bebe Drake",
+         "Sean McClory",
+         "Robert Lewis Bush",
+         "Gregory Alpert",
+         "Martine LeBlanc",
+         "Roger Corman"
+      ],
+      "imdbMovieId": "0106449",
+      "originalTitle": "Body Bags",
+      "genres": [
+         "TV Movie",
+         "Horror"
+      ],
+      "youtubeTrailerIds": ["Fs4KzXf-gYY"],
+      "plotSummary": "Three tales are told, each one increasingly terrifying. The first tells the story of a woman being stalked by an axe-weilding maniac. The second is the story of a man who pays the ultimate price for a beautiful head of hair. The final tale shows what it is like to see life through the eyes of a killer.",
+      "tmdbMovieId": 31578,
+      "avgRating": 3.0082,
+      "releaseYear": "1993",
+      "numRatings": 61,
+      "posterPath": "/5CNDkWS2u5nBWtxSIPOnNGssLxD.jpg"
+   }
+}

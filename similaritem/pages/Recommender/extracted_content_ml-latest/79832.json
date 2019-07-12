@@ -1,0 +1,558 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "hotel",
+            "id": 612
+         },
+         {
+            "name": "wealth",
+            "id": 10329
+         },
+         {
+            "name": "new york city",
+            "id": 14512
+         },
+         {
+            "name": "fur coat",
+            "id": 14814
+         },
+         {
+            "name": "millionaire",
+            "id": 33626
+         },
+         {
+            "name": "sable",
+            "id": 169028
+         },
+         {
+            "name": "luxury hotel",
+            "id": 182100
+         },
+         {
+            "name": "financier",
+            "id": 189389
+         }
+      ],
+      "imdb_id": "tt0028816",
+      "video": false,
+      "title": "Easy Living",
+      "recommendations": [
+         50031,
+         116712,
+         52270,
+         18281,
+         42214,
+         47675,
+         65698,
+         79684,
+         61440,
+         38023,
+         53769,
+         28668,
+         46196,
+         85926,
+         35917,
+         42669,
+         43705,
+         111732,
+         151431,
+         43533
+      ],
+      "backdrop_path": "/9kB9qwtGkTN1VaaDUNld6GTsbVg.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Mary Smith",
+               "gender": 1,
+               "credit_id": "52fe47bb9251416c91073efd",
+               "name": "Jean Arthur",
+               "profile_path": "/jJVOSx8ekF9D9c1JO2sPbewNB0.jpg",
+               "id": 30210,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "J.B. Ball",
+               "gender": 2,
+               "credit_id": "52fe47bb9251416c91073f01",
+               "name": "Edward Arnold",
+               "profile_path": "/oYJfe7rvtubC8CNNa8gqY36iNP8.jpg",
+               "id": 30211,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "John Ball Jr.",
+               "gender": 2,
+               "credit_id": "52fe47bb9251416c91073f05",
+               "name": "Ray Milland",
+               "profile_path": "/zB7jGIBc6dc3fMqCpXlCDZxQrll.jpg",
+               "id": 7124,
+               "order": 2
+            },
+            {
+               "cast_id": 5,
+               "character": "Jenny Ball",
+               "gender": 1,
+               "credit_id": "52fe47bb9251416c91073f09",
+               "name": "Mary Nash",
+               "profile_path": null,
+               "id": 14686,
+               "order": 3
+            },
+            {
+               "cast_id": 6,
+               "character": "Van Buren",
+               "gender": 2,
+               "credit_id": "52fe47bb9251416c91073f0d",
+               "name": "Franklin Pangborn",
+               "profile_path": "/lVePP6Rv9qxqayS22DrtzUF1fP8.jpg",
+               "id": 13966,
+               "order": 4
+            },
+            {
+               "cast_id": 8,
+               "character": "Louis Louis",
+               "gender": 2,
+               "credit_id": "52fe47bb9251416c91073f17",
+               "name": "Luis Alberni",
+               "profile_path": "/reMnlbERut9m3VWis9if3i9lCJw.jpg",
+               "id": 30264,
+               "order": 5
+            },
+            {
+               "cast_id": 11,
+               "character": "Mr. Gurney",
+               "gender": 0,
+               "credit_id": "54534e880e0a2648cb000d4b",
+               "name": "Barlowe Borland",
+               "profile_path": "/t5WvLfiYjGqIgljS91NwPZnR7BD.jpg",
+               "id": 1072780,
+               "order": 6
+            },
+            {
+               "cast_id": 12,
+               "character": "Wallace Whistling",
+               "gender": 2,
+               "credit_id": "54534e9a0e0a2648cb000d4f",
+               "name": "William Demarest",
+               "profile_path": "/bQcQWPfKr7RLeDifSBdx4zlZGdV.jpg",
+               "id": 21510,
+               "order": 7
+            },
+            {
+               "cast_id": 13,
+               "character": "E.J. Hulgar",
+               "gender": 2,
+               "credit_id": "54534eb4c3a368146f000ca3",
+               "name": "Andrew Tombes",
+               "profile_path": "/kD3h8tfzKaoEJpNfbBsnyymyLPl.jpg",
+               "id": 34317,
+               "order": 8
+            },
+            {
+               "cast_id": 14,
+               "character": "Lillian",
+               "gender": 1,
+               "credit_id": "54534ec80e0a2648cb000d59",
+               "name": "Esther Dale",
+               "profile_path": "/dnnaoECyLuK5havb4YHKunJu7ZT.jpg",
+               "id": 34268,
+               "order": 9
+            },
+            {
+               "cast_id": 15,
+               "character": "Office Manager",
+               "gender": 2,
+               "credit_id": "54534edac3a3681488000df8",
+               "name": "Harlan Briggs",
+               "profile_path": null,
+               "id": 34238,
+               "order": 10
+            },
+            {
+               "cast_id": 16,
+               "character": "Mr. Hyde",
+               "gender": 2,
+               "credit_id": "54534eed0e0a2648d2000d70",
+               "name": "William B. Davidson",
+               "profile_path": "/6MmhkoDiuyoW7HxlJ6F42kPkm6J.jpg",
+               "id": 95729,
+               "order": 11
+            },
+            {
+               "cast_id": 17,
+               "character": "Miss Swerf",
+               "gender": 0,
+               "credit_id": "54534efe0e0a2648c5000d08",
+               "name": "Nora Cecil",
+               "profile_path": "/paPIPfBQwgspxEOMBHM8dPm1jE0.jpg",
+               "id": 981098,
+               "order": 12
+            },
+            {
+               "cast_id": 18,
+               "character": "Butler",
+               "gender": 2,
+               "credit_id": "54534f10c3a3681478000cb0",
+               "name": "Robert Greig",
+               "profile_path": "/ze6PfVLC0AaaoKkwtrJtOLuZkWa.jpg",
+               "id": 30262,
+               "order": 13
+            },
+            {
+               "cast_id": 19,
+               "character": "Motorcycle Policeman (uncredited)",
+               "gender": 2,
+               "credit_id": "54534f270e0a2648cb000d62",
+               "name": "Lee Bowman",
+               "profile_path": "/a5BCvSyRBCbWsBRsyVbeu2ik2AG.jpg",
+               "id": 105505,
+               "order": 14
+            },
+            {
+               "cast_id": 20,
+               "character": "First Partner (uncredited)",
+               "gender": 2,
+               "credit_id": "54534f3f0e0a2648c8000d08",
+               "name": "Vernon Dent",
+               "profile_path": "/7LTY4iqaRADrSGMeVSGLryXvoyF.jpg",
+               "id": 122979,
+               "order": 15
+            },
+            {
+               "cast_id": 21,
+               "character": "Girl Getting Coat Dropped on Her at Finale (uncredited)",
+               "gender": 1,
+               "credit_id": "54534f560e0a2648cb000d66",
+               "name": "Marsha Hunt",
+               "profile_path": "/fKYyWL0MI0UrZp1UT6CaWOJqzEH.jpg",
+               "id": 1215925,
+               "order": 16
+            },
+            {
+               "cast_id": 22,
+               "character": "Office Manager (uncredited)",
+               "gender": 2,
+               "credit_id": "54534f72c3a3681478000cb6",
+               "name": "Dennis O'Keefe",
+               "profile_path": "/uTu2E94CyTJuXnr8UWcVRzNkMqo.jpg",
+               "id": 88462,
+               "order": 17
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe47bb9251416c91073f13",
+               "name": "Mitchell Leisen",
+               "profile_path": "/bxCNSNQe140zi82gozX5d0CkQnz.jpg",
+               "id": 108914,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47bb9251416c91073f1d",
+               "name": "Preston Sturges",
+               "profile_path": "/zCpTn3GcPD6T1gYyYOyIUEEMnjP.jpg",
+               "id": 30249,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe47bb9251416c91073f23",
+               "name": "Vera Caspary",
+               "profile_path": "/4IDukN98IC8pTgdlwGub2Nbe3wN.jpg",
+               "id": 20122,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56d74251c3a3681e3c01d51c",
+               "name": "Arthur Hornblow Jr.",
+               "profile_path": null,
+               "id": 138407,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56d7425ac3a3681e500193bd",
+               "name": "William LeBaron",
+               "profile_path": null,
+               "id": 120449,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56d74262c3a36870ac007928",
+               "name": "Friedrich Hollaender",
+               "profile_path": null,
+               "id": 2916,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56d74269925141188400653e",
+               "name": "Gordon Jenkins",
+               "profile_path": null,
+               "id": 1238709,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56d74271c3a3682cef0099ec",
+               "name": "Gregory Stone",
+               "profile_path": null,
+               "id": 34231,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56d7427ac3a36870ac00792c",
+               "name": "Victor Young",
+               "profile_path": null,
+               "id": 26026,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56d74282925141340201729b",
+               "name": "Ted Tetzlaff",
+               "profile_path": "/1jLw7iUJ5ywMfN8sjyaRwJPpFKq.jpg",
+               "id": 4346,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56d7428ec3a3682cef0099f1",
+               "name": "Doane Harrison",
+               "profile_path": null,
+               "id": 3159,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56d742949251411884006542",
+               "name": "Hans Dreier",
+               "profile_path": "/pyVz3McZwtOFOVjx3jSqawd45Zj.jpg",
+               "id": 8622,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56d7429bc3a3682cef0099f4",
+               "name": "Ernst Fegté",
+               "profile_path": null,
+               "id": 127200,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56d742a4c3a3681e3901a8f2",
+               "name": "Travis Banton",
+               "profile_path": null,
+               "id": 7652,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56d742abc3a3682cef0099f9",
+               "name": "Wally Westmore",
+               "profile_path": null,
+               "id": 7689,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56d742b3c3a3681e4a01a227",
+               "name": "Edgar Anderson",
+               "profile_path": null,
+               "id": 1535456,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56d742bd92514142910024d4",
+               "name": "Earl S. Hayman",
+               "profile_path": null,
+               "id": 1532448,
+               "department": "Sound",
+               "job": "Sound"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56d742c592514142910024dc",
+               "name": "William Thayer",
+               "profile_path": null,
+               "id": 1585499,
+               "department": "Sound",
+               "job": "Sound"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Comedy",
+            "id": 35
+         },
+         {
+            "name": "Romance",
+            "id": 10749
+         }
+      ],
+      "popularity": 2.020388,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 80364,
+      "vote_count": 16,
+      "budget": 0,
+      "overview": "J.B. Ball, a rich financier, gets fed up with his free-spending family. He takes his wife's just-bought (very expensive) sable coat and throws it out the window, it lands on poor hard-working girl Mary Smith. But it isn't so easy to just give away something so valuable, as he soon learns.",
+      "similar": [
+         968,
+         18487,
+         9079,
+         1619,
+         10707,
+         11474,
+         11517,
+         10362,
+         10673,
+         11034,
+         8333,
+         373473,
+         30177,
+         15788,
+         52229,
+         16825,
+         77553,
+         42659,
+         11505,
+         188781
+      ],
+      "original_title": "Easy Living",
+      "runtime": 88,
+      "poster_path": "/6m0cymeuU5BWViKIbdIjsQgUp41.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/fycMZt242LVjagMByZOLUGbCvv3.png",
+         "name": "Paramount",
+         "id": 4,
+         "origin_country": "US"
+      }],
+      "release_date": "1937-07-16",
+      "vote_average": 6,
+      "belongs_to_collection": null,
+      "tagline": "It's dizzy - it's daffy, It's cockeyed - it's laughy!",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Black and White",
+      "budgetCurrency": null,
+      "directors": ["Mitchell Leisen"],
+      "runtime": 88,
+      "synopsis": null,
+      "writers": [
+         "Preston Sturges",
+         "Vera Caspary"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0028816/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMTgwNTYyNTkzNl5BMl5BanBnXkFtZTcwMDU4NTMyMQ@@._V1_SX214_AL_.jpg",
+      "actors": ["Stars: Jean Arthur, Edward Arnold, Ray Milland | See full cast and crew »"],
+      "reviews": [
+         "This is a classic, with one of the great slapstick scenes of all time (in an automat) and wonderful innuendo and great timing throughout the film. Jean Arthur is a splendid comedienne, just lighting up the screen with a wry innocence, and Ray Milland is perfectly cast as someone a little debonair, a little too bourgeois, but ultimately quite charming. Finally, Edward Arnold is a lot of fun to watch as he chews up the scenery. As a long time fan of Preston Sturges who was quite happy to see \"Miracle at Morgan Creek\" finally released on DVD, I have to say, it is A CRIME that this little gem isn't available on DVD, just ridiculous.",
+         "The pleasures of a Preston Sturges film are many, and even his poorest are miles above the competition. I know, you're saying that Mitchell Leisen directed this and that it was based on a play but after hearing that incredible dialogue and seeing those broadly drawn characters, imbued with a warmth not found in most comedies, you can't tell me that this isn't a Preston Sturges film. Sure, there is evidence of Leisen's restraining hand that you can't find in, say, Miracle of Morgan's Creek, but it's Sturges, all right. But for me, the real joy is seeing my favorite actress from this period, Jean Arthur, work with material, from my favorite writer from this period, Sturges. She fits this material so well that it is a shame they never worked together again. Another real strength is the work of the character roles, always so good in Sturges films and we see a few of the actors who will later become part of the 'Sturges stock company'. So, if you want hilarious situations, laugh-out-loud dialogue and strong comedic characters, I heartily recommend this great film.",
+         "Although it has become part of a legendary case of sour grapes, EASY LIVING is one of the best \"screwball\" comedies of the 1930s. The plot is very easy - Jean Arthur is a working woman - the youngest editor at a boy's magazine - who is walking along Wall Street when she is hit by a falling object - a mink coat. It has been thrown off the balcony of a large office building, which is the headquarters of one J. B. Ball, \"the bull of Wall Street\". This is Edward Arnold, here doing a great spoof of all his tycoon parts. Arnold's wife (Mary Nash) bought the expensive coat without getting his permission (he's rich, but he does not want his family to get soft, and considers the mink a needless luxury). Arnold does not realize what happened when he threw out the mink. Besides angering Nash (who packs up and goes away threatening to divorce him), his blundering to try to get back the coat (to return it, of course) publicizes his connection to Arthur, so that soon people think Arnold gave the coat to Arthur (i.e., she's his mistress). Arnold's son (Ray Milland) is actually trying to prove himself without any aid from Dad (he doesn't want to be a junior partner in the bank yet). So he is going through all sorts of jobs, with less than middling success. Arnold is not impressed - he can't figure out why his son is such a mediocre worker. Milland meets Arthur accidentally, when he is working in the auto-mat (which will lead to the best known sequence in the film). In the meantime, Arthur is approached by two men, Mr. Louis Louis (Luis Alberni) who is the owner of the Hotel Louis - the most glamorous hotel in the world - and Mr. E.F. Hulgar (Andrew Tombes) who is a leading stock investment adviser. Both men believe that Arthur is Arnold's mistress. Alberni wants Arthur to live in the Hotel for a pittance: he feels her presence may cause other socialites to use the hotel, which is facing bankruptcy. Tombes is willing to pay Arthur a fee if she hears anything (pertaining to rumors concerning Arnold's latest efforts to corner the steel market). I won't go into the plot more, except that Sturges script has real fun about the unreality of Wall Street. Arnold's brilliant investment banker may plot a steel corner (which nearly backfires), but he has difficulty doing simple mathematics regarding fractions and percentages (the hopelessness in his face counting a percentage differential with his fingers is priceless!). Alberni, who was a hotel chef with grandiose ideas, can't see that building the world's greatest luxury hotel was not a good idea in the Depression (Sturges, by the way, based this idiocy on the building of the second, current, Waldorf Astoria Hotel in the early 1930s - it was a flop initially). That brilliant investment adviser, Mr. Hulgar (whose name is an obvious swipe at E.F.Hutton) pays for tips which are basically gossip, and passes these onto his customers. Sturges (like Billy Wilder) would later make nasty comments about Leisin, both future directors claiming Leisin ruined their satire and spoofery in the films he directed from their scripts. As I mentioned elsewhere, Leisin was not as cynical as they were, but he certainly had a good sense of humor, and he had a sense of art composition (he had assisted Cecil B. De Mille as an art director in the early 1930s) that far outshone Sturges or Wilder. One looks at the suites of Hotel Louis and they are quite stunning. One can't imagine Sturges or Wilder doing as well with decor (although Sturges might have added some comic defect in it). In EASY LIVING, the best known sequence was added by Leisin - a piece of classic slapstick. In the middle of an argument with his bosses at the auto-mat, Milland causes the doors of all the windows containing food to open at one time without money being used to open them. Suddenly every bum and hobo in New York City runs in to grab free food, and food is being thrown around by fighting hobos covering everyone in sight. Not a bad moment of comic cinema - and Preston Sturges was not responsible for it at all. Mitchell Leisin should be better known today for his best films. He was not as great as Wilder or Sturges but he was not a hack.",
+         "Although EASY LIVING makes no claim to realism it does somehow capture the flavor of New York in the thirties. Directed by Mitchell Leisen from a screenplay by Preston Sturges it has all the hallmarks of Leisen's style, the gleaming, high style sets, the magnificent cathedral ceilinged apartments and also, unfortunately the tendency to allow scenes to run on just a little too long. The slapstick scene in the automat is a prime example, just a few pratfalls too many. If Sturges directed as well as written the film might not have been as sumptuous looking bit I think it would have been tighter. Minor details however, the film is a delight, especially Jean Arthur and a very capable supporting cast giving it their professional all. Highly recommended.",
+         "One of the best film moments of the 1930s occurs just after the beginning of the film when wealthy J. B. Ball, exasperated by his spoiled family's spending habits, tosses the wife's new sable coat from a window high in their 5th Avenue mansion. As if with a mind set on its own destiny, the falling coat spreads out on the air and lands like an enchanted parachute on the head of the Mary Smith, the working girl who will be our main character (Jean Arthur), and who is riding on the upper deck of a double-decker bus. What is a double-decker doing in New York City? No one asks; the coat just does its magic and the enchanted plot is underway. Best of all, screenwriter Sturges balances the magic and sentimentality with his usual crisp, witty, no-nonsense approach to dialogue and character. This \"yin / yang\" harmony is similar to what he achieved in directing \"Sullivan's Travels.\"",
+         "Easy Living ranks among the funniest screwball comedies of all time. It is Preston Sturges at his best with manic energies and surprising twists galore. This delightfully original comedy of misunderstandings pays homage to Oliver Goldsmith and Richard Sheridan with a touch of P.G. Wodehouse thrown in for good measure. All of the characters, even the peripheral ones, are richly rendered with motivations we can instantly understand and empathize with. The principals -- Jean Arthur, Edward Arnold, and Ray Milland -- are perfectly cast and have a field day with their roles. Arthur in particular is adorable as, bewildered but good hearted, she deals with an inexplicable turn of events that throws her life upside down. Just as exquisitely acted are the supporting roles of legendary character actors like Luis Alberni and Franklin Pangborn. The net result is an uproarious film that makes you laugh all over again when you think of it after the fact.",
+         "According to a recent biography of Jean Arthur, Easy Living only got a so-so reception from the movie-going public of 1937. Today it is rightly regarded as a screwball comedy classic from the era that invented and defined that genre. The miracle was that it got made at all. Jean Arthur was obligated to Columbia Pictures and the dictatorial Harry Cohn and she was allowed to make outside films. But Cohn determined when and where. So Easy Living may have been a great fit for her, but it didn't fit into his plans. Jean had to go to court before the film was made and a settlement was reached. Easy Living also gave an outlet for some unknown comic talents of Edward Arnold who usually played some serious villains in films. Arnold is a Wall Street investment tycoon whose every bit of noise be it wisdom or flatulence is recorded for posterity. One day in fit of pique against his spendthrift wife Mary Nash and wastrel son Ray Milland, Arnold throws a most expensive mink coat from out the townhouse window and on to a passing working woman in Jean Arthur. He tells her to keep the thing and count her good fortune. But folks are in the habit of recording Arnold's every move, including one bestowing an expensive gift on a mystery woman. That starts about 90 minutes of non-stop hilarity in which the very foundations of our financial institutions are rocked due ultimately everyone misconstruing a relationship between Arnold and Arthur. One does get going however with Arthur and Milland when she finds him working at an automat because Arnold's dared him to get a job. That ends in an incredible burst of hilarity, you think Animal House had a great food fight, check the one in Easy Living out. Directed by Mitchell Leisen and written by Preston Sturges, Easy Living has all the earmarks of a Preston Sturges directed movie, in fact Sturges's stock company was somewhat assembled here if you look down the supporting players. My favorite is Luis Alberni whose white elephant of a hotel finally gets going due to some accidental rumors. We're the richer for Easy Living being made even if Jean Arthur had to take Harry Cohn to court to do it.",
+         "When an expensive sable coat, thrown from a penthouse balcony by Wall Street tycoon J. B. Ball (Edward Arnold), lands on the head of office clerk Mary Smith (Jean Arthur) while she's riding to work on the top deck of a city bus, we're off on a fine screwball comedy that nails class assumptions to the wall. (The wall being a fabulous suite of the Hotel Louis.) Ball, known as the Bull of Broad Street, threw the coat to spite his extravagant wife. Although it was a mistake, as soon as word gets around that Mary Smith has a coat from J. B. Ball, it's not long before people begin to assume that Mary must be the Bull's mistress. And although she loses her job, almost instantly all those who want a piece of the Bull are falling over themselves to make Mary happy. She winds up in the Hotel Louis in a suite that could only have been dreamed up by Hollywood designers. Clothes and jewels are delivered; a car and chauffeur show up. Mary is mystified by all this, but happily accepts. When she meets a young man who works at the automat, well...we know, of course, that the young man is Johnnie Ball (Ray Milland), son of J. B. Ball, and that he earlier had stormed out of the family mansion determined to prove he could be his own man. It all gets sorted out, but only after a new Depression may get started fueled by more loony assumptions. Preston Sturges, who wrote the script, brings all the social satire and clever dialogue to Easy Living that he brought to the films he directed and wrote later. Mitchell Leisen, the director, gives the movie a sweet speed. The slapstick moments are like the whipped cream on top of the ice cream sundae. There is a food fight in the automat that is so witty and filled with pratfalls that it makes Animal House look like the work of...hmmm...juveniles. Jean Arthur and Edward Arnold take above-the-title billing, and they make a compelling set of screwball actors. That Arnold's J. B. Ball is irascible is putting it gently. Yet Arnold makes the tycoon funny and human, and there's no doubt that he really cares for that wife of his. Jean Arthur, of course, makes the movie work. What a one-of-a-kind actress she was, with that air of surprised innocence and that vaguely husky voice with the hint of a squeak now and then. It's worth remembering that Jean Arthur, who was born in 1900, paid her dues in more than 50 silent films, movies with titles like Biff Bang Buddy, Bigger and Better Blondes, and Twisted Triggers. She was 35 when she hit major stardom and stayed at the top through her last movie, Shane, in 1953. That innocent sexiness, acting skill, instant likability and that voice allowed her to consistently play 10 to 20 years younger than her age. For me, Jean Arthur at 53 and playing Marian Starrett, a woman probably 20 years younger, is the real center of Shane. She gives a deep reality to what all those homesteaders stand for. And she, without saying a word, is what motivates Ladd as Shane to do what he must do. In my opinion, Arthur gives the best performance in the movie. That's something you can say about almost every movie Jean Arthur was in. And let's not forget some fine character actors who help make Easy Living as funny as it is. Among them is Mary Nash as the Bull's wife, who really does love J. B. (as he does her). By the end of the movie we like them both a lot; Luis Alberni as Mr. Louis Louis of the Hotel Louis, who is energetically ethnic; Franklin Pangborn as Van Buren, the prissy (of course) proprietor of an exclusive hat shop; William Demarest as Wallace Whistling, gossip reporter; Esther Dale as the Bull's unimpressed and decidedly matronly secretary; and Robert Greig as Graves, the portly, imperturbable butler in the Ball household. They all have a chance to shine, and shine they do.",
+         "This is an amusing, entertaining Hollywood antique featuring a number of actors who became Hollywood icons such as Jean Arthur, Ray Milland, and Edward Arnold. Before Ed Asner there was Edward Arnold. Mr. Arnold was one of the greatest actors in Hollywood history. His performances were consistently great and through him a weak script became good and good script great. He was one of those actors who dominated the screen and could play a wide range of roles opposite some of the most famous Hollywood players. As for Jean Arthur, she specialized in a style of acting that established a precedent for Lucille Ball, except that Ms. Arthur did not have to act goofy. Movies from the 1930s were made in a certain style that was unique to that period. Black-and-white, simple, engaging, upbeat stories, lots of action, and optimistic about life - all this during the Great Depression. This is another Preston Sturges gem and definitely is worth watching.",
+         "Just saw this one recently and loved it. Any film with Jean Arthur in it and you can't go wrong. Though there aren't alot of her films available. This Preston Sturges film is one of her/his best. From the beginning we are entangled in a Cinderella like story that starts when working girl Mary(Arthur) gets hit in the puss by a flying Sable coat. Then she gets swept away by good fortune, OR so it seems. Billionaire(Edward Arnold) gets fed up with his family spending. When his wife(Mary Nash) gets another fur coat, that is the final straw! Off the balcony goes the coat and down several flights to our Mary on a bus. Getting mixed up in the proceedings is a young Ray Milland as the Billionaire's son. Full of crazy supporting characters and a zany script, this is a very funny film for those who like screwball comedies. Give it a try and I'm sure that you'll love it."
+      ],
+      "genres": [
+         "Comedy",
+         "Romance"
+      ],
+      "productionCompanies": ["Paramount Pictures"],
+      "summaries": [
+         "J.B. Ball, a rich financier, gets fed up with his free-spending family. He takes his wife's just-bought (very expensive) sable coat and throws it out the window, it lands on poor hard-working girl Mary Smith. But it isn't so easy to just give away something so valuable, as he soon learns.",
+         "J.B. Ball is one of the wealthiest and most influential investment bankers in the country. J.B. is having problems at home with both his adult son, John Jr., and his wife, Jenny. John Jr. is rebelling against the family name, as he wants to make it on his own without his father's help. J.B.'s bigger problem is with Jenny and what he sees as her exorbitant overspending. The latest example of that overspending is her purchase of a $58,000 sable coat, while she already has a closet-full of other fur coats. Refusing to let Jenny keep the coat while she insists the coat cannot be returned, J.B. instead throws it away. The coat literally lands in the lap of poor working girl, Mary Smith. J.B. is able to track down Mary as the person who got the coat. Without knowing who he is or even what his name is, Mary eventually accepts the gift of the coat, which she believes is a cheap knock-off, and the further gift of a matching hat as her own hat was damaged in the process. These gifts set off a series of misunderstandings as through the active grapevine of the wealthy and their associates, Mary gets to be known as J.B.'s mistress, without anyone wanting to expose what they believe is J.B.'s secret. This misunderstanding leads to a further series of actions toward Mary, both positive and negative, about which Mary does not know the reason. In the process, she meets an automat busboy named Johnny, the two who end up falling for each other. Mary does not know Johnny is John Ball Jr., the well-to-do son of the man who gave her the coat and hat, and Johnny does not know Mary's loose connection to his wealthy father. Johnny is fired from his automat job, but he may really need to get another means of income as a further misunderstanding leads to J.B.'s possible bankruptcy and the break-up of his marriage, that is unless all the previous misunderstandings can be cleared."
+      ],
+      "budget": 0
+   },
+   "movielensId": 79832,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1937-07-16",
+      "dvdReleaseDate": "2008-04-22",
+      "directors": ["Mitchell Leisen"],
+      "runtime": 88,
+      "movieId": 79832,
+      "title": "Easy Living",
+      "mpaa": "",
+      "actors": [
+         "Jean Arthur",
+         "Edward Arnold",
+         "Ray Milland",
+         "Mary Nash",
+         "Franklin Pangborn",
+         "Luis Alberni",
+         "Barlowe Borland",
+         "William Demarest",
+         "Andrew Tombes",
+         "Esther Dale",
+         "Harlan Briggs",
+         "William B. Davidson",
+         "Nora Cecil",
+         "Robert Greig",
+         "Lee Bowman",
+         "Vernon Dent",
+         "Marsha Hunt",
+         "Dennis O'Keefe"
+      ],
+      "imdbMovieId": "0028816",
+      "originalTitle": "Easy Living",
+      "genres": [
+         "Comedy",
+         "Romance"
+      ],
+      "youtubeTrailerIds": [],
+      "plotSummary": "J.B. Ball, a rich financier, gets fed up with his free-spending family. He takes his wife's just-bought (very expensive) sable coat and throws it out the window, it lands on poor hard-working girl Mary Smith. But it isn't so easy to just give away something so valuable, as he soon learns.",
+      "tmdbMovieId": 80364,
+      "avgRating": 3.64286,
+      "releaseYear": "1937",
+      "numRatings": 35,
+      "posterPath": "/6m0cymeuU5BWViKIbdIjsQgUp41.jpg"
+   }
+}

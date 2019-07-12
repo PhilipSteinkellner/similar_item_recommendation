@@ -1,0 +1,585 @@
+{
+   "tmdb": {
+      "original_language": "de",
+      "keywords": [
+         {
+            "name": "neurotische katze",
+            "id": 8413
+         },
+         {
+            "name": "tierpsychater",
+            "id": 8415
+         },
+         {
+            "name": "east friesland",
+            "id": 8581
+         },
+         {
+            "name": "gate keeper",
+            "id": 11096
+         }
+      ],
+      "imdb_id": "tt0095799",
+      "video": false,
+      "title": "Otto - The New Movie",
+      "recommendations": [
+         9379,
+         9897,
+         9657,
+         9883,
+         4695,
+         8821,
+         46454,
+         74040,
+         2169,
+         12098,
+         6547,
+         2265,
+         4645,
+         11840,
+         11181,
+         4813,
+         9497,
+         9527,
+         19199,
+         1915
+      ],
+      "backdrop_path": "/pN5ruByqoetiwPAO0tS7UOYJo6b.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Otto",
+               "gender": 2,
+               "credit_id": "52fe44ddc3a36847f80ae7ab",
+               "name": "Otto Waalkes",
+               "profile_path": "/iJzGpHUibhvZLQSjFln4Rdn6god.jpg",
+               "id": 46029,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "Anna",
+               "gender": 0,
+               "credit_id": "52fe44ddc3a36847f80ae7af",
+               "name": "Anja Jaenicke",
+               "profile_path": "/zPF4F3ItzFaWKy0CQ1ft5ODmGRW.jpg",
+               "id": 57000,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Gabi Drösel",
+               "gender": 1,
+               "credit_id": "52fe44ddc3a36847f80ae7b3",
+               "name": "Ute Sander",
+               "profile_path": "/u7EOIZzcCIdJZ4r6aBbAGT9siMK.jpg",
+               "id": 57001,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Professor Edelsen",
+               "gender": 2,
+               "credit_id": "52fe44ddc3a36847f80ae7b7",
+               "name": "Friedrich Schoenfelder",
+               "profile_path": null,
+               "id": 37798,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Hausmeister Rettich",
+               "gender": 0,
+               "credit_id": "52fe44ddc3a36847f80ae7bb",
+               "name": "Dirk Dautzenberg",
+               "profile_path": null,
+               "id": 36576,
+               "order": 4
+            },
+            {
+               "cast_id": 20,
+               "character": "Schmieriak",
+               "gender": 2,
+               "credit_id": "56f6523dc3a3686a5c002806",
+               "name": "Joachim Kemmer",
+               "profile_path": null,
+               "id": 558819,
+               "order": 5
+            },
+            {
+               "cast_id": 21,
+               "character": "Amboss",
+               "gender": 0,
+               "credit_id": "56f6524ec3a3686a670028a2",
+               "name": "Georg Blumensaat",
+               "profile_path": null,
+               "id": 1596412,
+               "order": 6
+            },
+            {
+               "cast_id": 22,
+               "character": "Policeman",
+               "gender": 2,
+               "credit_id": "56f6526192514155fe00282f",
+               "name": "Ronald Nitschke",
+               "profile_path": "/n1OqcOX3Ls8CtvSA2X83kuqAbOH.jpg",
+               "id": 26563,
+               "order": 7
+            },
+            {
+               "cast_id": 23,
+               "character": "1. Mover",
+               "gender": 0,
+               "credit_id": "56f652cd92514155fe002842",
+               "name": "Karl Schulz",
+               "profile_path": null,
+               "id": 1315978,
+               "order": 8
+            },
+            {
+               "cast_id": 24,
+               "character": "2. Mover",
+               "gender": 2,
+               "credit_id": "56f652ea92514155fe002847",
+               "name": "Hans Martin Stier",
+               "profile_path": "/dt5DPEmk9VF23BSWxE3ZZmpcsGf.jpg",
+               "id": 2315,
+               "order": 9
+            },
+            {
+               "cast_id": 25,
+               "character": "Edelsen's Companion",
+               "gender": 2,
+               "credit_id": "56f6531e92514155fb002686",
+               "name": "H.H. Müller",
+               "profile_path": null,
+               "id": 36686,
+               "order": 10
+            },
+            {
+               "cast_id": 26,
+               "character": "1. Soccer Fan",
+               "gender": 2,
+               "credit_id": "56f65330c3a3686a6b002803",
+               "name": "Dieter Landuris",
+               "profile_path": "/i3bbKVLhAQ6uxR4HlAJiKfStHSC.jpg",
+               "id": 17544,
+               "order": 11
+            },
+            {
+               "cast_id": 27,
+               "character": "2. Soccer Fan",
+               "gender": 0,
+               "credit_id": "56f65342c3a3686a670028cd",
+               "name": "Thomas Ahrens",
+               "profile_path": null,
+               "id": 1295373,
+               "order": 12
+            },
+            {
+               "cast_id": 28,
+               "character": "3. Soccer Fan",
+               "gender": 0,
+               "credit_id": "56f6535592514155fb002691",
+               "name": "Claus-Peter Damitz",
+               "profile_path": null,
+               "id": 1295374,
+               "order": 13
+            },
+            {
+               "cast_id": 29,
+               "character": "1. Pretty Boy",
+               "gender": 0,
+               "credit_id": "56f6537692514125d6001cd9",
+               "name": "Urs Remond",
+               "profile_path": "/cWaNJzThGhSzCtEQXYzweWzz6b4.jpg",
+               "id": 175322,
+               "order": 14
+            },
+            {
+               "cast_id": 30,
+               "character": "2. Pretty Boy",
+               "gender": 0,
+               "credit_id": "56f65388c3a3686a5e002c18",
+               "name": "Johannes Baasner",
+               "profile_path": null,
+               "id": 1596415,
+               "order": 15
+            },
+            {
+               "cast_id": 31,
+               "character": "TV Announcer",
+               "gender": 0,
+               "credit_id": "56f6541b92514155fb0026bb",
+               "name": "Beate Menner",
+               "profile_path": null,
+               "id": 1596419,
+               "order": 16
+            },
+            {
+               "cast_id": 32,
+               "character": "Stationmaster",
+               "gender": 0,
+               "credit_id": "56f6543692514125d6001cfd",
+               "name": "Dieter Dost",
+               "profile_path": null,
+               "id": 39864,
+               "order": 17
+            },
+            {
+               "cast_id": 33,
+               "character": "Hunter",
+               "gender": 0,
+               "credit_id": "56f6544ec3a3686a610027b2",
+               "name": "Horst Tomayer",
+               "profile_path": null,
+               "id": 1308444,
+               "order": 18
+            },
+            {
+               "cast_id": 34,
+               "character": "Opera Singer",
+               "gender": 0,
+               "credit_id": "56f6546292514155fe002887",
+               "name": "Wilken F. Dincklage",
+               "profile_path": null,
+               "id": 1596404,
+               "order": 19
+            },
+            {
+               "cast_id": 35,
+               "character": "Newspaper Vendor",
+               "gender": 0,
+               "credit_id": "56f65483925141560a00248f",
+               "name": "Pablo Kamolz",
+               "profile_path": null,
+               "id": 1596424,
+               "order": 20
+            },
+            {
+               "cast_id": 36,
+               "character": "Thick Woman",
+               "gender": 0,
+               "credit_id": "56f654a0c3a3686a6700290d",
+               "name": "Regina Paul",
+               "profile_path": null,
+               "id": 1596427,
+               "order": 21
+            },
+            {
+               "cast_id": 37,
+               "character": "Helper",
+               "gender": 0,
+               "credit_id": "56f654d392514169e2000332",
+               "name": "Jürgen Hartmann",
+               "profile_path": "/5I0ljCFQbHC0CwSSaVrIh6C0xZh.jpg",
+               "id": 1322958,
+               "order": 22
+            },
+            {
+               "cast_id": 38,
+               "character": "Policeman",
+               "gender": 0,
+               "credit_id": "56f654f7c3a36816e8002444",
+               "name": "Rainer Peets",
+               "profile_path": "/eGUtz0aMc4KXqGeukGUY3lLA7VV.jpg",
+               "id": 558739,
+               "order": 23
+            },
+            {
+               "cast_id": 39,
+               "character": "Giggling Girl",
+               "gender": 0,
+               "credit_id": "56f65518925141560a0024b2",
+               "name": "Alexa Sommer",
+               "profile_path": null,
+               "id": 1364889,
+               "order": 24
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe44ddc3a36847f80ae7c1",
+               "name": "Xaver Schwarzenberger",
+               "profile_path": null,
+               "id": 3768,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44ddc3a36847f80ae7c7",
+               "name": "Otto Waalkes",
+               "profile_path": "/iJzGpHUibhvZLQSjFln4Rdn6god.jpg",
+               "id": 46029,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44ddc3a36847f80ae7cd",
+               "name": "Bernd Eilert",
+               "profile_path": null,
+               "id": 57003,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44ddc3a36847f80ae7d3",
+               "name": "Otto Waalkes",
+               "profile_path": "/iJzGpHUibhvZLQSjFln4Rdn6god.jpg",
+               "id": 46029,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44ddc3a36847f80ae7d9",
+               "name": "Robert Gernhardt",
+               "profile_path": null,
+               "id": 57005,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44ddc3a36847f80ae7df",
+               "name": "Peter Knorr",
+               "profile_path": null,
+               "id": 57006,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44ddc3a36847f80ae7e5",
+               "name": "Horst Wendlandt",
+               "profile_path": null,
+               "id": 18504,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44ddc3a36847f80ae7eb",
+               "name": "Hans-Otto Mertens",
+               "profile_path": null,
+               "id": 57007,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44ddc3a36847f80ae7f1",
+               "name": "Otto Waalkes",
+               "profile_path": "/iJzGpHUibhvZLQSjFln4Rdn6god.jpg",
+               "id": 46029,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44ddc3a36847f80ae7f7",
+               "name": "Christoph Leis-Bendorff",
+               "profile_path": null,
+               "id": 57008,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44ddc3a36847f80ae7fd",
+               "name": "Thomas Kukuck",
+               "profile_path": null,
+               "id": 57009,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44ddc3a36847f80ae803",
+               "name": "Jutta Hering",
+               "profile_path": null,
+               "id": 18554,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe44ddc3a36847f80ae809",
+               "name": "Michael Stöger",
+               "profile_path": null,
+               "id": 57010,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe44ddc3a36847f80ae80f",
+               "name": "Xaver Schwarzenberger",
+               "profile_path": null,
+               "id": 3768,
+               "department": "Camera",
+               "job": "Director of Photography"
+            }
+         ]
+      },
+      "genres": [{
+         "name": "Comedy",
+         "id": 35
+      }],
+      "popularity": 1.192071,
+      "production_countries": [{
+         "iso_3166_1": "DE",
+         "name": "Germany"
+      }],
+      "id": 9252,
+      "vote_count": 18,
+      "budget": 0,
+      "overview": "No overview found.",
+      "similar": [
+         620,
+         11852,
+         9883,
+         9379,
+         9657,
+         3865,
+         9673,
+         10532,
+         10114,
+         12474
+      ],
+      "original_title": "Otto - Der Neue Film",
+      "runtime": 82,
+      "poster_path": "/c2QjXh4ASs1rUztVt4jFpAo1sP2.jpg",
+      "spoken_languages": [{
+         "name": "Deutsch",
+         "iso_639_1": "de"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Zweites Deutsches Fernsehen (ZDF)",
+            "id": 4606,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Rialto Film",
+            "id": 29165,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "Rüssel Video & Audio",
+            "id": 74683,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1987-07-16",
+      "vote_average": 4.9,
+      "belongs_to_collection": {
+         "backdrop_path": "/8GAStxwRvRbCYPH8ktcQCwQtkc6.jpg",
+         "name": "Otto Collection",
+         "id": 232403,
+         "poster_path": "/vq0ucQmSDPKBlZdJdUFl0IsYNMm.jpg"
+      },
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "West Germany",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": [
+         "Xaver Schwarzenberger",
+         "Otto Waalkes"
+      ],
+      "runtime": 82,
+      "synopsis": null,
+      "writers": [
+         "Bernd Eilert",
+         "Robert Gernhardt"
+      ],
+      "originalLanguage": "German",
+      "imdbLink": "http://www.imdb.com/title/tt0095799/",
+      "coverLink": null,
+      "actors": [
+         "Otto Waalkes",
+         "Anja Jaenicke",
+         "Ute Sander"
+      ],
+      "reviews": [
+         "After the gigantic success of the first \"otto\" movie, fans had to wait for nearly years, before the next of the series was ready. It was not as fresh as the first feature, but the concept was the same, even if the script department had obviously several problems to remain on the high joke level. The concept was the same: Otto, the chaotic young man from east frisia owes a lot of rent, so he has to work for the owner of his apparment house. He loses his heart to a young girl on the fourth floor, not realising, that the owners daughter is seriously in love to hin. But the girl of his dreams only loves \"Amboss\", a dumb \"Arnie\"-Clone. So Otto has to do a lot of dirty work, tries to win Gabi Droesels heart, must keep the depressive cat of a professor alive and defeats the qualities of Amboss... Once more, the plot is only thin, but around there are many jokes, chaotic scenes, musical interlude, advertising parodies and more. Best bits are surely the song Otto sings in front of the elevator doors, an ice-skating number, the magnificent-seven-misspell-scene. Waalkes pokes fun on a gruesome German pop group (Modern Talking), parodies several Schwarzenegger-like movies (Amboss the controlator), some Levis-Jeans-Spots and a famous ice-cream-commercial. There is further the \"When a stranger calls\"- gag in new color and the wordplay is sometimes very good. Unfortunately, the film suffers from too much product placement and Otto himself begins to act silly and infantile too often in the movie. But overall and concerning the following three films, this one is funny enough for most of his length.",
+         "Otto Waalkes has his funny moments, but 80 minutes of him is a very big overdose. There are several parodies to enjoy, but the one on the Terminator seems to go on and on. Not extremely funny but very well done are the parodies on the jeans commercials; and this is may be the first film with Hell's Angels talking about Mozart's Requiem and the conducting style of Herbert von Karajan. Why the \"Hitchcock music\" by Bernard Herrmann had to be pirated for this comedy will probably never be cleared. In short: only occasionally amusing.",
+         "Well, with the biggest local box-office hit ever under his belt, you'd guess that German cult-comedian would try to top (or at least repeat) that success as soon as possible. You'd guess right. Two years after the glory-tour of \"Otto \u2013 The Film\", Otto Waalkes released the follow-up \"Otto \u2013 The New Film\". And he didn't budge one iota from the original formula. This makes the sequel both enjoyable and at the same time set a downward-spiral into motion that has lasted to this day. Once again countryside-bumpkin Otto is in the big city (this time not Hamburg but Berlin), once again things aren't in his favor and once again he wishes that he was home in his Frisian island-hamlet. And once again he is in debt, this time owning his landlord (Dirk Dautzenberg) \u2013 a proto-fascist, who seems to come straight from the 1940's \u2013 a considerable amount of rent-money. Unless this is paid off, there is no going home for Otto. His only friend is the landlord's daughter (Anja Jaenicke), an ugly duckling who has taken a shine to our hero, naturally without him noticing it. First he is forced into a form of slave-labor by his landlord, having to do a number of bone-breaking chores, until fortune seems to smile upon him for once. A neighbor, a renowned animal psychologist, asks him to housesit for his cat, which is a rare breed, albeit highly suicidal. In the meantime, the blonde model Gabi (Ute Sander) moves into Otto's former apartment and our hapless hero falls head over heels in love, despite Gabi being an example of arrogance and pretentiousness, constantly working on a plan to meet Arnold-Schwarzenegger-like action-movie-hero \u2013 muscles to the neck and bone to everything else that lies above \u2013 Amboss. So Otto forges a masterplan, poses as the influential animal psychologist and attempts to wow Gabi's cold heart thus. As said, the formula is identical to the first movie. A thin story, connected by fast talking Otto and his routines of stand-up-skids, musical interludes and spoofs of various media-phenomena's (in this case, the Schwarzenegger-hype of the 80's, bands like Modern Talking and spoof of various franchises, including two Levy jeans commercials, which garnered the criticism of product-placement). Sure, fans of the Otto-material will find a few laughs but considering that many of the jokes in the first part weren't particularly 'fresh', they often seem way more aged here. Also, what's missing are the competent co-stars and cameos of part one. Not that all actors are particular bad, but none of them are particular funny either. And by \"particular bad\" we might well have a look at Ute Sanders, who not only plays the part as obnoxious as possible, but seemed to have played the part autobiographical: this film and a one-time appearance in Playboy magazine remained her only time in the limelight, yet she kept haunting the German boulevard press with various sorrow- and sob-stories for years, until moving to Texas, where she works as a volunteer nurse. Not too long ago she released her \"celebrity autobiography\", which cannot possibly surpass the volume of a haiku. As said: a couple of okay, even though dated and harmless jokes, that's pretty much all that speaks for the second Otto-film. In the end, it's really pretty much what \"Police Academy II\" was to the original film: not nearly as good, funny or gritty, but in the light of things to come, still far superior to the garbage that Otto would produce in future years. A mediocre 5/10 is all I can offer.",
+         "Even if this is called \"Otto - The New Movie\", it is still not only a pretty old film, but actually the second out of five installments in the Otto movie series. It came out two years after the mega-successful film and is once again directed by Xaver Schwarzenberger and Waalkes himself. Aso the same team of writers is back again. It starts not too big with an ottifant (Waalkes' trademark) who vomits, but the quality gets better quickly. Otto falls in love with a woman, who unfortunately is only interested in the muscular movie hero Amboss (the Stallone/Schwarzenegger/Rambo/Terminator of the Otto universe). And if that was not enough struggles already for our hero, his landlord uses him as a slave because he cannot come up with the last rent payments. The love story is okay, but kind of expected although at one point I thought, maybe the picky girl really wants him in the end, but he chooses the other. Well.. I was wrong, at least partially. I thought his true love looked a bit like Marion Cotillard here. The comedy worked nicely for most of the time. only a few jokes were a bit on the bad side. One of the funniest scene was when he enters a room with a crying baby, to shut it up, we hear fighting noises and Otto comes out beaten by the baby. Apart from that, there are as many word-plays as in the other Otto films, which will make this film difficult to understand/appreciate in a dubbed version I guess. There is also some politically incorrect humor included in here again. I also liked the music and how quickly Otto switches costumes. For a large part of the film, he acts as a doctor here, but in fact he just needs to take care of the real doctor's cat, which just won't die and strangely enough becomes mother of a couple \"kittens\" at the end. The dad is a dog. As his land lord says: Otto can't do anything, doesn't know anything and won't do anything, but still wants more money. This description sure does not fit this sequel. It's a solid effort and those who enjoyed the first film, will also enjoy this one. Also Otto 2 was again a success at the box office, as it won the Golden Screen just like the first film. My personal favorite, however, is still the fifth and probably final installment."
+      ],
+      "genres": ["Comedy"],
+      "productionCompanies": [
+         "Rialto Film",
+         "Ruessel Video & Audio",
+         "Zweites Deutsches Fernsehen (ZDF)"
+      ],
+      "summaries": ["Otto loses his flat, because he could not pay the rent. To work off his rent arrears he is doing dirty work for the caretaker. Just now Gaby moves into the house and Otto falls in love, but Gaby has eyes only for Amboss the bodybuilder."],
+      "budget": 0
+   },
+   "movielensId": 157156,
+   "movielens": {
+      "languages": ["Deutsch"],
+      "releaseDate": "1987-07-16",
+      "dvdReleaseDate": null,
+      "directors": [
+         "Xaver Schwarzenberger",
+         "Otto Waalkes"
+      ],
+      "runtime": 82,
+      "movieId": 157156,
+      "title": "Otto - The New Movie",
+      "mpaa": null,
+      "actors": [
+         "Otto Waalkes",
+         "Anja Jaenicke",
+         "Ute Sander",
+         "Friedrich Schoenfelder",
+         "Dirk Dautzenberg",
+         "Joachim Kemmer",
+         "Georg Blumensaat",
+         "Ronald Nitschke",
+         "Karl Schulz",
+         "Hans Martin Stier",
+         "H.H. Müller",
+         "Dieter Landuris",
+         "Thomas Ahrens",
+         "Claus-Peter Damitz",
+         "Urs Remond",
+         "Johannes Baasner",
+         "Beate Menner",
+         "Dieter Dost",
+         "Horst Tomayer",
+         "Wilken F. Dincklage",
+         "Pablo Kamolz",
+         "Regina Paul",
+         "Jürgen Hartmann",
+         "Rainer Peets",
+         "Alexa Sommer"
+      ],
+      "imdbMovieId": "0095799",
+      "originalTitle": "Otto - Der Neue Film",
+      "genres": ["Comedy"],
+      "youtubeTrailerIds": [],
+      "plotSummary": "No overview found.",
+      "tmdbMovieId": 9252,
+      "avgRating": 3.33333,
+      "releaseYear": "1987",
+      "numRatings": 3,
+      "posterPath": "/c2QjXh4ASs1rUztVt4jFpAo1sP2.jpg"
+   }
+}

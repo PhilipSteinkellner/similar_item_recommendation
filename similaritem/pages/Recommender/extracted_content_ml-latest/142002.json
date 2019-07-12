@@ -1,0 +1,696 @@
+{
+   "tmdb": {
+      "original_language": "it",
+      "keywords": [
+         {
+            "name": "sex",
+            "id": 572
+         },
+         {
+            "name": "sexual abuse",
+            "id": 739
+         },
+         {
+            "name": "sadism",
+            "id": 4426
+         },
+         {
+            "name": "murder",
+            "id": 9826
+         },
+         {
+            "name": "robery",
+            "id": 230868
+         }
+      ],
+      "imdb_id": "tt0074792",
+      "video": false,
+      "title": "Young, Violent, Dangerous",
+      "recommendations": [106139],
+      "backdrop_path": null,
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Commissario",
+               "gender": 2,
+               "credit_id": "55527f9fc3a3687f6300ab0f",
+               "name": "Tomás Milián",
+               "profile_path": "/5ZUu4Zy9kWtYuVES74pbrXqd0FB.jpg",
+               "id": 21708,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Lea",
+               "gender": 0,
+               "credit_id": "55527fb59251411487000c6a",
+               "name": "Eleonora Giorgi",
+               "profile_path": "/gG0etolLG8LiD5wZoU2FoMlR2pa.jpg",
+               "id": 24612,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Mario Farra",
+               "gender": 0,
+               "credit_id": "55527fd09251415a8c0007e4",
+               "name": "Stefano Patrizi",
+               "profile_path": "/dlYdYWxHeS2u2NWAKhJPtJy8BCn.jpg",
+               "id": 544575,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Giovanni Etrusco",
+               "gender": 2,
+               "credit_id": "55527ff7c3a3683032005b40",
+               "name": "Benjamin Lev",
+               "profile_path": null,
+               "id": 934931,
+               "order": 4
+            },
+            {
+               "cast_id": 6,
+               "character": "Luigi Morandi",
+               "gender": 0,
+               "credit_id": "555280139251417175002b49",
+               "name": "Max Delys",
+               "profile_path": null,
+               "id": 584561,
+               "order": 5
+            },
+            {
+               "cast_id": 7,
+               "character": "Lucio",
+               "gender": 2,
+               "credit_id": "55528046c3a3684191004280",
+               "name": "Diego Abatantuono",
+               "profile_path": "/kKihAlP104AJ0zshWfET2gGt4fA.jpg",
+               "id": 55912,
+               "order": 6
+            },
+            {
+               "cast_id": 33,
+               "character": "Sign. Morandi",
+               "gender": 2,
+               "credit_id": "583eaac6c3a368668a0089f2",
+               "name": "Venantino Venantini",
+               "profile_path": "/fYiEWMZDd3YQ5DunErkXaPZ9Qsd.jpg",
+               "id": 22312,
+               "order": 7
+            },
+            {
+               "cast_id": 34,
+               "character": "Forger",
+               "gender": 2,
+               "credit_id": "583eaad2c3a3686691007a0f",
+               "name": "Salvatore Billa",
+               "profile_path": "/1xMFylUtSyFZG86t2HP0l7QXDs9.jpg",
+               "id": 240914,
+               "order": 8
+            },
+            {
+               "cast_id": 35,
+               "character": "",
+               "gender": 0,
+               "credit_id": "583eaadbc3a368668c007430",
+               "name": "Antonio Guidi",
+               "profile_path": "/rCw1KKNHLWWVnW2zGDMkZqCdBBp.jpg",
+               "id": 1057899,
+               "order": 9
+            },
+            {
+               "cast_id": 36,
+               "character": "Commissario Assistant",
+               "gender": 0,
+               "credit_id": "583eaaecc3a368667d0092b2",
+               "name": "Luciano Baraghini",
+               "profile_path": null,
+               "id": 1716288,
+               "order": 10
+            },
+            {
+               "cast_id": 37,
+               "character": "Supermarket Robber",
+               "gender": 0,
+               "credit_id": "583eab02925141152a008bb7",
+               "name": "Ruggero Diella",
+               "profile_path": null,
+               "id": 1091541,
+               "order": 11
+            },
+            {
+               "cast_id": 38,
+               "character": "Friend of Lucio",
+               "gender": 0,
+               "credit_id": "583eab10c3a368668c007469",
+               "name": "Giorgio Locuratolo",
+               "profile_path": null,
+               "id": 1356776,
+               "order": 12
+            },
+            {
+               "cast_id": 39,
+               "character": "",
+               "gender": 0,
+               "credit_id": "583eab1892514115210085ee",
+               "name": "Valeria Gagliardi",
+               "profile_path": null,
+               "id": 1716289,
+               "order": 13
+            },
+            {
+               "cast_id": 40,
+               "character": "Friend of Lucio",
+               "gender": 0,
+               "credit_id": "583eab25c3a3686687008771",
+               "name": "Gloria Piedimonte",
+               "profile_path": null,
+               "id": 1140003,
+               "order": 14
+            },
+            {
+               "cast_id": 41,
+               "character": "Prof. Farra",
+               "gender": 2,
+               "credit_id": "583eab32c3a368668700877b",
+               "name": "Tom Felleghy",
+               "profile_path": "/7Q1KOJeCp2ZODPiSVQXqrmXr5QE.jpg",
+               "id": 39432,
+               "order": 15
+            },
+            {
+               "cast_id": 42,
+               "character": "Friend of Lucio",
+               "gender": 1,
+               "credit_id": "583eab3f9251411533008d69",
+               "name": "Maria Rosaria Riuzzi",
+               "profile_path": "/dKGIN0ImhlTUo29Ta10x4YG3iRI.jpg",
+               "id": 1271570,
+               "order": 16
+            },
+            {
+               "cast_id": 43,
+               "character": "Forger",
+               "gender": 0,
+               "credit_id": "583eab4d925141153000871e",
+               "name": "Carmelo Reale",
+               "profile_path": null,
+               "id": 1091543,
+               "order": 17
+            },
+            {
+               "cast_id": 44,
+               "character": "Oberwald",
+               "gender": 2,
+               "credit_id": "583eab5b925141152100862b",
+               "name": "Peter Berling",
+               "profile_path": "/x2v2EtuTGTJ5IqDmcz6lWSyrCC3.jpg",
+               "id": 18405,
+               "order": 18
+            },
+            {
+               "cast_id": 45,
+               "character": "Morandi Cleaning Woman",
+               "gender": 0,
+               "credit_id": "583eab67925141152d00870e",
+               "name": "Flora Carosello",
+               "profile_path": null,
+               "id": 1203321,
+               "order": 19
+            },
+            {
+               "cast_id": 46,
+               "character": "Police Agent",
+               "gender": 2,
+               "credit_id": "583eab749251411521008641",
+               "name": "Cesare Di Vito",
+               "profile_path": null,
+               "id": 585914,
+               "order": 20
+            },
+            {
+               "cast_id": 47,
+               "character": "Barn Owner (voice) (uncredited)",
+               "gender": 0,
+               "credit_id": "583eab849251411533008d9e",
+               "name": "Nick Alexander",
+               "profile_path": null,
+               "id": 1556889,
+               "order": 21
+            },
+            {
+               "cast_id": 48,
+               "character": "Police Agent (uncredited)",
+               "gender": 2,
+               "credit_id": "583eab909251411530008754",
+               "name": "Omero Capanna",
+               "profile_path": "/kM9AC6ZSU1q2RIdgDJWKFvuAAbd.jpg",
+               "id": 119370,
+               "order": 22
+            },
+            {
+               "cast_id": 49,
+               "character": "Bank Robbery Victim (uncredited)",
+               "gender": 0,
+               "credit_id": "583eaba09251411527008523",
+               "name": "Franz Colangeli",
+               "profile_path": null,
+               "id": 1716291,
+               "order": 23
+            },
+            {
+               "cast_id": 50,
+               "character": "Bank employee (uncredited)",
+               "gender": 0,
+               "credit_id": "583eabafc3a3686680009012",
+               "name": "Raniero Dorascenzi",
+               "profile_path": null,
+               "id": 1716292,
+               "order": 24
+            },
+            {
+               "cast_id": 51,
+               "character": "Clerk (voice) (uncredited)",
+               "gender": 0,
+               "credit_id": "583eabbd9251411527008537",
+               "name": "Marvin Drake",
+               "profile_path": null,
+               "id": 1716293,
+               "order": 25
+            },
+            {
+               "cast_id": 53,
+               "character": "Bank Robbery Victim (uncredited)",
+               "gender": 0,
+               "credit_id": "583eabdec3a368667d00935d",
+               "name": "Attilio Pelegatti",
+               "profile_path": null,
+               "id": 1648431,
+               "order": 27
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe49819251416c750ca347",
+               "name": "Romolo Guerrieri",
+               "profile_path": null,
+               "id": 239473,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56af7e5c92514101f200001b",
+               "name": "Gianfranco Plenizio",
+               "profile_path": null,
+               "id": 44418,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56af7e6592514101e7000017",
+               "name": "Enrico Pieranunzi",
+               "profile_path": null,
+               "id": 1360606,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "583ea9bcc3a3686680008e53",
+               "name": "Erico Menczer",
+               "profile_path": null,
+               "id": 240922,
+               "department": "Crew",
+               "job": "Cinematography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "583ea9569251411535008937",
+               "name": "Fernando Di Leo",
+               "profile_path": "/frrl8Sd6WvQk1obCClj7bqMFX1P.jpg",
+               "id": 49892,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 0,
+               "credit_id": "583ea9609251411533008bbf",
+               "name": "Fernando Di Leo",
+               "profile_path": "/frrl8Sd6WvQk1obCClj7bqMFX1P.jpg",
+               "id": 49892,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "583ea970c3a368667d009145",
+               "name": "Giorgio Scerbanenco",
+               "profile_path": null,
+               "id": 1178534,
+               "department": "Writing",
+               "job": "Short Story"
+            },
+            {
+               "gender": 0,
+               "credit_id": "583ea97bc3a3686680008e20",
+               "name": "Nico Ducci",
+               "profile_path": null,
+               "id": 50740,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "583ea98d925141152d008585",
+               "name": "Ermanno Curti",
+               "profile_path": null,
+               "id": 1495137,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "583ea9a0c3a368668700862b",
+               "name": "Armando Novelli",
+               "profile_path": null,
+               "id": 100416,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "583ea9afc3a368667d00917f",
+               "name": "Marcello Partini",
+               "profile_path": null,
+               "id": 1716283,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "583ea9c7c3a3686695008dfb",
+               "name": "Antonio Siciliano",
+               "profile_path": null,
+               "id": 67974,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "583ea9d3c3a3686680008e65",
+               "name": "Francesco Cuppini",
+               "profile_path": null,
+               "id": 1024748,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "583ea9dfc3a3686683008bdd",
+               "name": "Giulia Mafai",
+               "profile_path": null,
+               "id": 33814,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "583ea9ee925141152a008ac0",
+               "name": "Iolanda Angelucci",
+               "profile_path": null,
+               "id": 1298934,
+               "department": "Costume & Make-Up",
+               "job": "Hairstylist"
+            },
+            {
+               "gender": 2,
+               "credit_id": "583ea9fb9251411533008c43",
+               "name": "Franco Di Girolamo",
+               "profile_path": null,
+               "id": 101561,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "583eaa06c3a3686691007950",
+               "name": "Lamberto Marini",
+               "profile_path": null,
+               "id": 1639049,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "583eaa13c3a368668a008949",
+               "name": "Michele Germano",
+               "profile_path": null,
+               "id": 1711405,
+               "department": "Production",
+               "job": "Production Manager"
+            },
+            {
+               "gender": 0,
+               "credit_id": "583eaa1e9251411524008334",
+               "name": "Francesco Vitulano",
+               "profile_path": null,
+               "id": 1630410,
+               "department": "Production",
+               "job": "Production Supervisor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "583eaa2f9251411521008530",
+               "name": "Renzo Spaziani",
+               "profile_path": null,
+               "id": 1716285,
+               "department": "Editing",
+               "job": "Assistant Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "583eaa49c3a368668c0073ba",
+               "name": "Franco Bassi",
+               "profile_path": null,
+               "id": 1625837,
+               "department": "Sound",
+               "job": "Sound Mixer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "583eaa56c3a368668a008986",
+               "name": "Luciano Colombo",
+               "profile_path": null,
+               "id": 1716286,
+               "department": "Sound",
+               "job": "Sound"
+            },
+            {
+               "gender": 0,
+               "credit_id": "583eaa63c3a3686680008eea",
+               "name": "Alberto Salvatori",
+               "profile_path": null,
+               "id": 1712168,
+               "department": "Sound",
+               "job": "Sound"
+            },
+            {
+               "gender": 2,
+               "credit_id": "583eaa70c3a36866910079ab",
+               "name": "Doru Dumitrescu",
+               "profile_path": null,
+               "id": 1447763,
+               "department": "Crew",
+               "job": "Stunts"
+            },
+            {
+               "gender": 0,
+               "credit_id": "583eaa7f925141152700843e",
+               "name": "Roberto Brega",
+               "profile_path": null,
+               "id": 1716287,
+               "department": "Camera",
+               "job": "Camera Operator"
+            },
+            {
+               "gender": 0,
+               "credit_id": "583eaa8dc3a368667d009258",
+               "name": "Giancarlo Morelli",
+               "profile_path": null,
+               "id": 1606296,
+               "department": "Editing",
+               "job": "Assistant Editor"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Thriller",
+            "id": 53
+         },
+         {
+            "name": "Crime",
+            "id": 80
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         }
+      ],
+      "popularity": 0.223142,
+      "production_countries": [{
+         "iso_3166_1": "IT",
+         "name": "Italy"
+      }],
+      "id": 95375,
+      "vote_count": 3,
+      "budget": 0,
+      "overview": "Paul, Joe and Louie are three young men from good families who decide to go on a bloodthirsty and pointless crime spree, much to the dismay of paul\u2019s girlfriend (Eleonora Giorgi) and the local police commissioner (Tomas Milian). the group starts by robbing a gas station where paul guns down three innocent bystanders. When they later decide to rob a bank and a grocery store, paul ends up killing more people. It isn\u2019t long before the entire police force is looking for the three criminals, who pick up the girl and hightail it to the Swiss border, killing everyone in their path.",
+      "similar": [
+         979,
+         357096,
+         73861,
+         8090,
+         12619,
+         39918,
+         74997,
+         4771,
+         281,
+         281957,
+         23587,
+         238726,
+         3134,
+         9093,
+         39924,
+         13538,
+         123109,
+         1696,
+         479,
+         36599
+      ],
+      "original_title": "Liberi armati pericolosi",
+      "runtime": 100,
+      "poster_path": "/isXGA4oM94oGOtbFebkWliccZUC.jpg",
+      "spoken_languages": [{
+         "name": "Italiano",
+         "iso_639_1": "it"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Stacofilm",
+            "id": 76236,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "C.P.C.",
+            "id": 83940,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1976-01-01",
+      "vote_average": 6.7,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Italy",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["Romolo Guerrieri"],
+      "runtime": 100,
+      "synopsis": null,
+      "writers": [
+         "Fernando Di Leo",
+         "Giorgio Scerbanenco"
+      ],
+      "originalLanguage": "Italian",
+      "imdbLink": "http://www.imdb.com/title/tt0074792/",
+      "coverLink": null,
+      "actors": [
+         "Eleonora Giorgi",
+         "Tomas Milian",
+         "Stefano Patrizi"
+      ],
+      "reviews": [
+         "This is an interesting movie. It is a tendency of Italian exploitation movies in general to eschew logical plotting and character development to focus on elaborate cinematic \"set pieces\". While this usually works with gialli (and some would say cannibal and zombie films)it is often problem in the Italian crime films where the set pieces usually involve shoot-outs and overlong car chases, two areas where the Italians had NO chance of outdoing bigger-budget Hollywood films (although they often did their damnedest). This film is interesting therefore because it DOES have a lot of character development especially among the villains, three privileged youths that become desperate criminals after their clean-cut but increasingly psychotic leader, \"Blondie\", starts a gun battle during a botched gas station robbery. One of the other youths is a more obviously deranged thrill seeker, while the third youth, the \"wheel-man\" is decidedly non-violent but loyal to a fault to his two friends. Rounding out the cast is the girlfriend of the wheel-man (Eleanora Giorgi) who ironically sets the whole thing in motion by reporting the robbery plans to the police (and mistakenly telling them that the trio only have toy guns). The head cop meanwhile is played by Tomas Milan, usually the psychotic heavy in these type of films. Milan lends an iconic presence and is an interesting character in that he is not unsympathetic but is also not the usual borderline-fascist \"rebel with a badge\" often seen in these movies. Mostly he just proves tragically incompetent at stopping the rampaging youths. The plot is mostly pretty believable except for a scene where they hook up with another group of youths and shoot-up and rob a grocery store, even killing their own accomplices for no good reason. There's some pretty gratuitous nudity including a pretty sorry excuse to get Giorgi topless (but who's gonna complain about that too much?). The ending is typically cynical, but that's one thing I admire about these films over the violence-glorifying Hollywood versions. See this if you like Italian crime thrillers--or even if you don't.",
+         "LIBERI ARMATI PERICOLOSI aka. YOUNG VIOLENT DANGEROUS of 1976 seemed promising to me for a variety of reasons. Being a hardcore fan of Italian cult-cinema I am always looking forward to watching gritty Poliziotteschi from the 70s, in particular when the script was written by master filmmaker Fernando Di Leo (MILANO CALIBRO 9, LA MALA ORDINA, IL BOSS,...) and the credited star is the great Tomas Milian, whose impressive career covers the leads in all sorts of Italian cult movies, and Poliziotteschi in particular (most notably Umberto Lenzi's films such as the brutal 1974 masterpiece MILANO ODIA: LA POLIZIA NON PUÒ SPARARE). While YOUNG, VIOLENT, DANGEROUS (which is a wrong translation as the original Italian title translates \"Free, Armed, Dangerous\") is an entertaining and worthwhile film, I cannot deny that I was slightly disappointed in director Romolo Guerriri's movie. My two main complaints are the fact that Tomas Milian had far too little screen time, and that the musical score was crap (by the high genre standards). The Italian Poliziottesco is a politically incorrect, brutal, gritty and testosterone-driven genre, and a large part of the greatness of its violent and sleazy masterpieces consisted in the greatness of its scores which accentuated the grit and action. The score to this movie is the constant repetition a boring and wussy-sounding hippie-song which seems terribly out of place. My second complaint about the movie is Tomas Milian's role. Milian is cool as always, but his role is far too small. Also, Poliziotteschi-cops are meant to be unorthodox ruffians who hate criminals and take the law in their own hands, as opposed to sensitive social workers who blame society for the evil-doings of criminals. The movie is about a bunch of spoiled kids from good families who start robbing and killing people just for the heck of it. Their trigger-happy leader is played by Stefano Patrici, who is best known for being offed by tough-cop Maurizio Merli in Umberto Lenzi's ROMA A MANO ARMATA (1976). The youths are violent all right, but they are also quite annoying, especially one idiot with a stupid grin who constantly cracks painful jokes. The 'good' female lead is played by the beautiful Elonora Giorgi, who is best known for her role in Dario Argento's INFERNO (1980). In 1974, Tomas Milian had played one of the all-time greatest villains as the diabolical Giulio Sacchi in Lenzi's masterpiece MILANO ODIA. Also a murderous psychopath on the loose, Giulio Sacchi was sadistic and purely evil, and believable in just that. The baby-faced killers in this film tend to annoy. Nonetheless, the film has its qualities. It is gritty and sometimes quite suspenseful, and it has several outbursts of sleaze and bloody violence. The cinematography is great, especially the car-chases are very well-filmed. Overall, LIBERI ARMATI PERICOLOSI is a decent-enough film that should entertain my fellow Eurocrime fans. However, the genre has brought forth many films that are far better; people who are not yet too familiar with Poliziotteschi are well-advised to check out anything by Umberto Lenzi, Fernando Di Leo or Enzo Castellari before this.",
+         "It took a while to grow on me, but by the time I had finished with Young, Violent, Dangerous, I realized how much I enjoyed the film. I found myself caring about the characters and what would become of them. Young, Violent, Dangerous is the story of three young punks out getting some kicks by knocking over a gas station. Their crimes soon escalate (bank robbery, murder, kidnapping, etc.) to the point where they get the attention of the entire Milan police force. The film is filled with some unexpected violence as the young thugs show just how tough they are and how little they care about human life. Throw in a few decent car chases and you've got a nice little Poliziotteschi. The ending is another unexpected moment with a nice twist. While Tomas Milian gets top billing, he really does very little other than smoke cigarettes, talk on a police radio, lecture people, and stay about three steps behind the young criminals. Eleonora Giorgi and Stefano Patrizi are the real stars as the kidnap victim and head of the gang respectively in a couple of very nice performances. The low point of the film is the character played by Benjamin Lev, Joe. He's supposed to be the clown of the group (Why do all gangs have one of these guys?) but he comes off as an utterly ridiculous, hyena-laughing moron who I grew to detest more and more as Young, Violent, Dangerous wore on.",
+         "The awesome title \"Young, Violent and Desprate\" promises to really deliver the lowdown trashy exploitation teens-running-horribly-amok juvenile delinquent goods and boy does this wonderfully wild Italian crime action thriller treat ever do the trick with a splendidly sleazy and straightforward unapologetic aplomb. The central premise seriously smokes in no uncertain terms: a trio of bitter, disaffected and amoral rich teen snotnose nihilist guys who feel neglected and unloved by their inattentive wealthy parents embark on an abrupt and senseless handy dandy combo crime and killing spree; they hold up a gas station (they blow away four cops who bungle an ambush), rob a bank (they blast the assistant manager into the next dimension), stick up a supermarket (they waste the four other youths who help them out on this particular gig after the dirty deed is done), and blithely bump off folks as they tear across the country eluding the cops at every turn. It's up to a hard-nosed Dirty Harryesque police detective (superbly played to the stern'n'steely nines by the redoubtable Tomas Milian) to nab these no-good sociopathic hooligans before things get too out of hand. Eleanor (tasty blonde looker Eleonora Giorgi), the girlfriend of one of the kids, helps the police out as best she can. Director Romolo Guarieri (who also gave us the brutal futuristic sci-fi \"The Most Dangerous Game\" variant \"The Final Executioner\") keeps the breakneck pace hurtling along at a breathless clip and stages the copious action sequences with rip-snorting brio and skill (a frantic extended car chase between the kids and the cops is especially exciting). Better yet, Guarieri even tosses in a penchant and provocative heavy duty message about how the kids are toxic products of poor parenting, slamming the point home in a simply stupendous scene where Milian ruthlessly rakes the various negligent dads and moms through the coals for not talking and listening to their kids enough and thus making them feel loved and wanted. Wow, now that's some truly profound food for thought to chew on and digest.",
+         "First and foremost, I love it when a movie fulfills the promise of its own title! Far too often this isn't the case, though. With a title like \"Young, Violent, Dangerous\" director Romolo Guerrieri and writer Fernando Di Leo generate quite high expectations, but they also definitely deliver them to the max! The anti-heroes in the film are young, they behave incredibly violent and they become gradually more and more dangerous! It's also quite remarkable how a relatively small subgenre of exploitation cinema, like euro-crime, brought forward so many different and versatile streams. Within euro-crime, you have the regular Poliziotteschi movies (tough coppers chasing robbers), mafia sagas, gang war movies and vigilante thrillers. There also exists another and much lesser known stream focusing on rich, spoiled and derailed teenagers that go on a murder rampage for no other apparent reason than kicks. \"Terror in Rome/Violence for Kicks\", starring Antonio Sabato, is an example of this and \"Young, Violent, Dangerous\" pretty much falls in the same category as well. The film starts with the beautiful Lea nervously sitting at the desk of grumpy police commissioner Tomas Milian. She comes to report that her boyfriend Lucio, together with his friends Blondie (Mario) and Joe, is about to rob a gas station with fake toy guns. The police prepare an ambush, but the the guns turn out to be very real and Blondie and Joe kill four policemen. Instead of showing remorse, they continue to terrorize the streets of Milan. Lucio is reluctant but he cowardly follows Blondie, who's the leader of the trio, and the completely nihilistic madman Joe. They rob banks, only to threw out the money back in the streets, and invade a crowded supermarket where they even massacre a \"befriended\" gang in cold blood. When Blondie discovers that Lucio's girlfriend Lea betrayed them to the police, they kidnap her and try to drive out of Milan. The DVD-cover proudly announces that contemporary big star Tomas Milian plays the lead role, but actually his role as the embittered commissioner is rather dullish and familiar. He smokes a lot, gives lectures to the fugitive teenagers' parents about how it's their fault and commands his squads to pull up road blocks, road blocks and more road blocks! The crooks stay well ahead of the police, but the intrigues come to the surface. Lea grows increasingly disgusted by her weak boyfriend Lucio, and Blondie takes advantage of this. Di Leo, the genius behind \"Milano Calibro 9\" and \"La Mala Ordina\" which are arguably the two greatest Poliziotteschi movies ever made, once more delivers a fast-paced and action-packed screenplay full of unexpected twists, uncompromising violence and deeply unpleasant characters. In other words, genuine and hard-boiled exploitation cinema like they could only make it in Italy during the seventies! Stefano Patrizi is excellent as the cool and stoic anti-hero. Benjamin Lev's character Joe (or Giovanni) is often quite irritating, especially because of his exaggeratedly moronic laughter, but I do like the idea of an utterly relentless lunatic. \"Young, Violent, Dangerous\" definitely contains a lot more character development than the average euro- crime thriller, but it's not at the expense of the action and excitement. There's a bit of gratuitous (yay!) nudity, principally provided by beautiful lead actress Eleonora Giorgi, and also \u2013 of course \u2013 a typically cynical and downbeat climax. Most certainly recommended if you like Italian cinema of the '70s; - and who honestly doesn't?",
+         "Silly '50s style juvenile delinquent flick with a '70s Eurotrashy touch. Three teenaged punks kidnap a rich girl and force her to accompany them as they terrorize the streets of Milan. Fun car chases in dumpy Euro-subcompacts and a surprise ending add to the fun."
+      ],
+      "genres": [
+         "Crime",
+         "Drama",
+         "Thriller"
+      ],
+      "productionCompanies": [],
+      "summaries": ["In this riveting Italian exploitation thriller, three young men embark upon a terrifying series of bloody crimes, engaging in robbery, gunplay, and murder. As the entire police force mobilizes to track down the malefactors, they make a fast pit stop to pick up a girlfriend and then speed towards Switzerland. More blood will be shed (and more skin bared) before their saga ends!"],
+      "budget": 0
+   },
+   "movielensId": 142002,
+   "movielens": {
+      "languages": ["Italiano"],
+      "releaseDate": "1976-01-01",
+      "dvdReleaseDate": null,
+      "directors": ["Romolo Guerrieri"],
+      "runtime": 100,
+      "movieId": 142002,
+      "title": "Young, Violent, Dangerous",
+      "mpaa": null,
+      "actors": [
+         "Tomás Milián",
+         "Eleonora Giorgi",
+         "Stefano Patrizi",
+         "Benjamin Lev",
+         "Max Delys",
+         "Diego Abatantuono",
+         "Venantino Venantini",
+         "Salvatore Billa",
+         "Antonio Guidi",
+         "Luciano Baraghini",
+         "Ruggero Diella",
+         "Giorgio Locuratolo",
+         "Valeria Gagliardi",
+         "Gloria Piedimonte",
+         "Tom Felleghy",
+         "Maria Rosaria Riuzzi",
+         "Carmelo Reale",
+         "Peter Berling",
+         "Flora Carosello",
+         "Cesare Di Vito",
+         "Nick Alexander",
+         "Omero Capanna",
+         "Franz Colangeli",
+         "Raniero Dorascenzi",
+         "Marvin Drake",
+         "Attilio Pelegatti"
+      ],
+      "imdbMovieId": "0074792",
+      "originalTitle": "Liberi armati pericolosi",
+      "genres": [
+         "Thriller",
+         "Crime",
+         "Drama"
+      ],
+      "youtubeTrailerIds": [],
+      "plotSummary": "Paul, Joe and Louie are three young men from good families who decide to go on a bloodthirsty and pointless crime spree, much to the dismay of paul\u2019s girlfriend (Eleonora Giorgi) and the local police commissioner (Tomas Milian). the group starts by robbing a gas station where paul guns down three innocent bystanders. When they later decide to rob a bank and a grocery store, paul ends up killing more people. It isn\u2019t long before the entire police force is looking for the three criminals, who pick up the girl and hightail it to the Swiss border, killing everyone in their path.",
+      "tmdbMovieId": 95375,
+      "avgRating": 2.5,
+      "releaseYear": "1976",
+      "numRatings": 1,
+      "posterPath": "/isXGA4oM94oGOtbFebkWliccZUC.jpg"
+   }
+}

@@ -1,0 +1,611 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "flashback",
+            "id": 187844
+         },
+         {
+            "name": "false arrest",
+            "id": 196269
+         },
+         {
+            "name": "murder trial",
+            "id": 207240
+         }
+      ],
+      "imdb_id": "tt0024334",
+      "video": false,
+      "title": "Midnight Mary",
+      "recommendations": [
+         85670,
+         101770,
+         52360,
+         156322,
+         76499
+      ],
+      "backdrop_path": "/vK8Cw3xf8wmIMWUFPmIMKdoQMij.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Mary Martin",
+               "gender": 1,
+               "credit_id": "52fe480ec3a368484e0e7251",
+               "name": "Loretta Young",
+               "profile_path": "/g5IlFLATSLpINVlaoV8Ncce2RCA.jpg",
+               "id": 85848,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Leo Darcy",
+               "gender": 2,
+               "credit_id": "52fe480ec3a368484e0e7255",
+               "name": "Ricardo Cortez",
+               "profile_path": "/ztYv4178LAnIEPWgaZALprMWTEj.jpg",
+               "id": 83476,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "Thomas 'Tom' Mannering Jr.",
+               "gender": 2,
+               "credit_id": "52fe480ec3a368484e0e7259",
+               "name": "Franchot Tone",
+               "profile_path": "/140grYtawkKzF3ruaFjHVnlaUes.jpg",
+               "id": 72059,
+               "order": 2
+            },
+            {
+               "cast_id": 5,
+               "character": "Samuel 'Sam' / 'Sammy' Travers",
+               "gender": 2,
+               "credit_id": "52fe480ec3a368484e0e725d",
+               "name": "Andy Devine",
+               "profile_path": "/w4tLltNhtOqQXJzju4TzUJRiesg.jpg",
+               "id": 14966,
+               "order": 3
+            },
+            {
+               "cast_id": 6,
+               "character": "Bunny 'Bun'",
+               "gender": 1,
+               "credit_id": "52fe480ec3a368484e0e7261",
+               "name": "Una Merkel",
+               "profile_path": "/hBDjQyU2xJ9vELw0H63igS7ugSD.jpg",
+               "id": 13963,
+               "order": 4
+            },
+            {
+               "cast_id": 7,
+               "character": "District Attorney",
+               "gender": 2,
+               "credit_id": "52fe480ec3a368484e0e7265",
+               "name": "Frank Conroy",
+               "profile_path": "/qaRzzjKlMHBOUB5QGp6Tib0Y7Ad.jpg",
+               "id": 14658,
+               "order": 5
+            },
+            {
+               "cast_id": 8,
+               "character": "Angelo Ricci",
+               "gender": 2,
+               "credit_id": "52fe480ec3a368484e0e7269",
+               "name": "Warren Hymer",
+               "profile_path": "/qKtWJTYuhNxZBH8vXQKHSXjq1Ny.jpg",
+               "id": 74876,
+               "order": 6
+            },
+            {
+               "cast_id": 9,
+               "character": "Mr. Tindle",
+               "gender": 2,
+               "credit_id": "52fe480ec3a368484e0e726d",
+               "name": "Ivan F. Simpson",
+               "profile_path": "/m2UzOBSAe71qpm7CiWJu7IcKTLu.jpg",
+               "id": 132536,
+               "order": 7
+            },
+            {
+               "cast_id": 10,
+               "character": "Mr. 'Puggy' Nestle",
+               "gender": 2,
+               "credit_id": "52fe480ec3a368484e0e7271",
+               "name": "Harold Huber",
+               "profile_path": "/iBZaid0V5z5EztkGQlfKMpckdmH.jpg",
+               "id": 32435,
+               "order": 8
+            },
+            {
+               "cast_id": 11,
+               "character": "Blimp",
+               "gender": 0,
+               "credit_id": "52fe480ec3a368484e0e7275",
+               "name": "Sandy Roth",
+               "profile_path": null,
+               "id": 86410,
+               "order": 9
+            },
+            {
+               "cast_id": 19,
+               "character": "Barbara",
+               "gender": 1,
+               "credit_id": "52fe480ec3a368484e0e72a3",
+               "name": "Martha Sleeper",
+               "profile_path": "/mwXWydYJ58cOt4vzzPws4Jk1mud.jpg",
+               "id": 80650,
+               "order": 10
+            },
+            {
+               "cast_id": 20,
+               "character": "Clerk",
+               "gender": 2,
+               "credit_id": "52fe480ec3a368484e0e72a7",
+               "name": "Charley Grapewin",
+               "profile_path": "/jUHnyU7byM0ajyrovvUXkWZnlAc.jpg",
+               "id": 8517,
+               "order": 11
+            },
+            {
+               "cast_id": 21,
+               "character": "Churchill",
+               "gender": 2,
+               "credit_id": "52fe480ec3a368484e0e72ab",
+               "name": "Halliwell Hobbes",
+               "profile_path": "/nLubN58cxw9GgYnzY5IXFWqmnRz.jpg",
+               "id": 29601,
+               "order": 12
+            },
+            {
+               "cast_id": 22,
+               "character": "Cop",
+               "gender": 0,
+               "credit_id": "52fe480ec3a368484e0e72af",
+               "name": "Robert Emmet O'Connor",
+               "profile_path": "/jtROo0QH1WIT8pLQa16JYA7cjsE.jpg",
+               "id": 10806,
+               "order": 13
+            },
+            {
+               "cast_id": 23,
+               "character": "Court Photographer",
+               "gender": 0,
+               "credit_id": "52fe480ec3a368484e0e72b3",
+               "name": "Ernie Adams",
+               "profile_path": "/jApXZ7Z3HpIbh3dXv55coEyVLdC.jpg",
+               "id": 34098,
+               "order": 14
+            },
+            {
+               "cast_id": 24,
+               "character": "Judge",
+               "gender": 2,
+               "credit_id": "52fe480ec3a368484e0e72b7",
+               "name": "Reginald Barlow",
+               "profile_path": "/2kuuPRHvnFbirv4X1F5ksHwDXIN.jpg",
+               "id": 2933,
+               "order": 15
+            },
+            {
+               "cast_id": 25,
+               "character": "Anna - Mary's Maid",
+               "gender": 1,
+               "credit_id": "52fe480ec3a368484e0e72bb",
+               "name": "Louise Beavers",
+               "profile_path": "/m0b2RGOMTa8yUhremaQMlpc72uc.jpg",
+               "id": 89101,
+               "order": 16
+            },
+            {
+               "cast_id": 26,
+               "character": "Court Photographer",
+               "gender": 2,
+               "credit_id": "52fe480ec3a368484e0e72bf",
+               "name": "Lynton Brent",
+               "profile_path": "/oZqxbNIA0vS5in5ELx4h3ma188e.jpg",
+               "id": 121240,
+               "order": 17
+            },
+            {
+               "cast_id": 27,
+               "character": "Court Photographer",
+               "gender": 0,
+               "credit_id": "52fe480ec3a368484e0e72c3",
+               "name": "Don Brodie",
+               "profile_path": "/qmVCahELUc9wtVNRNfPP5wtYf4V.jpg",
+               "id": 67369,
+               "order": 18
+            },
+            {
+               "cast_id": 28,
+               "character": "Casino Doorman",
+               "gender": 2,
+               "credit_id": "52fe480ec3a368484e0e72c7",
+               "name": "Mike Donlin",
+               "profile_path": "/1pTOSv269jklmgvP7wXHSwVmsk5.jpg",
+               "id": 14425,
+               "order": 19
+            },
+            {
+               "cast_id": 29,
+               "character": "Mannering's Night Watchman",
+               "gender": 2,
+               "credit_id": "52fe480ec3a368484e0e72cb",
+               "name": "Robert Dudley",
+               "profile_path": null,
+               "id": 217770,
+               "order": 20
+            },
+            {
+               "cast_id": 30,
+               "character": "Party Guest",
+               "gender": 2,
+               "credit_id": "52fe480ec3a368484e0e72cf",
+               "name": "Bill Elliott",
+               "profile_path": "/enmgbwZIoyZtIKCmwGU43Nmw5U6.jpg",
+               "id": 121257,
+               "order": 21
+            },
+            {
+               "cast_id": 31,
+               "character": "Potter - Tom's Butler",
+               "gender": 2,
+               "credit_id": "52fe480ec3a368484e0e72d3",
+               "name": "Robert Greig",
+               "profile_path": "/ze6PfVLC0AaaoKkwtrJtOLuZkWa.jpg",
+               "id": 30262,
+               "order": 22
+            },
+            {
+               "cast_id": 32,
+               "character": "Nightclub Bouncer",
+               "gender": 2,
+               "credit_id": "52fe480ec3a368484e0e72d7",
+               "name": "Wilfred Lucas",
+               "profile_path": null,
+               "id": 30201,
+               "order": 23
+            },
+            {
+               "cast_id": 33,
+               "character": "Detective",
+               "gender": 0,
+               "credit_id": "52fe480ec3a368484e0e72db",
+               "name": "Charles McAvoy",
+               "profile_path": null,
+               "id": 121125,
+               "order": 24
+            },
+            {
+               "cast_id": 34,
+               "character": "Masher",
+               "gender": 2,
+               "credit_id": "52fe480ec3a368484e0e72df",
+               "name": "Philo McCullough",
+               "profile_path": "/pmzSq7WkC8qQd1e6jMALKctQZP0.jpg",
+               "id": 1173173,
+               "order": 25
+            },
+            {
+               "cast_id": 35,
+               "character": "Salvation Army Leader",
+               "gender": 0,
+               "credit_id": "52fe480ec3a368484e0e72e3",
+               "name": "Nelson McDowell",
+               "profile_path": "/n1W6fMFJ1RCSsvMdeT5WF9nB1DU.jpg",
+               "id": 29272,
+               "order": 26
+            },
+            {
+               "cast_id": 36,
+               "character": "Chinese Restaurant Owner",
+               "gender": 0,
+               "credit_id": "52fe480ec3a368484e0e72e7",
+               "name": "Miki Morita",
+               "profile_path": "/yKC8sTyAEF04f0HUaZYRfzLVAWp.jpg",
+               "id": 97008,
+               "order": 27
+            },
+            {
+               "cast_id": 37,
+               "character": "Casino Floor Manager",
+               "gender": 2,
+               "credit_id": "52fe480ec3a368484e0e72eb",
+               "name": "Lee Phelps",
+               "profile_path": "/yBLIKr2IpxLzSiqBt6N9PqGQ7EZ.jpg",
+               "id": 121066,
+               "order": 28
+            },
+            {
+               "cast_id": 38,
+               "character": "Defense Attorney",
+               "gender": 2,
+               "credit_id": "52fe480ec3a368484e0e72ef",
+               "name": "Phillips Smalley",
+               "profile_path": null,
+               "id": 116187,
+               "order": 29
+            },
+            {
+               "cast_id": 39,
+               "character": "Casino Manager",
+               "gender": 2,
+               "credit_id": "52fe480ec3a368484e0e72f3",
+               "name": "Richard Tucker",
+               "profile_path": "/knGS2fF9Df9CSqJdj2RKMkN70qz.jpg",
+               "id": 14290,
+               "order": 30
+            },
+            {
+               "cast_id": 40,
+               "character": "Mrs. Ward - Landlady",
+               "gender": 0,
+               "credit_id": "52fe480ec3a368484e0e72f7",
+               "name": "Kathrin Clare Ward",
+               "profile_path": "/xVC22HHbMynojd42BjK2WnbfObl.jpg",
+               "id": 1080623,
+               "order": 31
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe480ec3a368484e0e727b",
+               "name": "William A. Wellman",
+               "profile_path": "/m0RSN7IQTXF9ZFUrqoZJUzZqu02.jpg",
+               "id": 14643,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 1,
+               "credit_id": "52fe480ec3a368484e0e7281",
+               "name": "Anita Loos",
+               "profile_path": "/lmG2K9YK8zmvwsOMmJgStgx4DLM.jpg",
+               "id": 11436,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe480ec3a368484e0e7287",
+               "name": "Gene Markey",
+               "profile_path": null,
+               "id": 131602,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe480ec3a368484e0e728d",
+               "name": "Kathryn Scola",
+               "profile_path": null,
+               "id": 105452,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe480ec3a368484e0e7293",
+               "name": "William Axt",
+               "profile_path": "/uMpiKUoeCI9iwV0gVbPuXBIwirR.jpg",
+               "id": 29967,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe480ec3a368484e0e7299",
+               "name": "James Van Trees",
+               "profile_path": "/mN09qHVEEF0QvNPV0n7J7LlyJ2Q.jpg",
+               "id": 144124,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe480ec3a368484e0e729f",
+               "name": "William S. Gray",
+               "profile_path": null,
+               "id": 1167084,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "540ada17c3a36879a20011b2",
+               "name": "Stan Rogers",
+               "profile_path": null,
+               "id": 1361209,
+               "department": "Art",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 2,
+               "credit_id": "540adae1c3a36879a20011c0",
+               "name": "Adrian",
+               "profile_path": "/fnsEX7RnTRGuh32x8WmHrtz25D5.jpg",
+               "id": 9064,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "540adb32c3a368799c00117d",
+               "name": "Douglas Shearer",
+               "profile_path": "/3kH8o524WTYSGBLcCx9v9ERP9sj.jpg",
+               "id": 27969,
+               "department": "Sound",
+               "job": "Sound Director"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Romance",
+            "id": 10749
+         },
+         {
+            "name": "Crime",
+            "id": 80
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         }
+      ],
+      "popularity": 0.488845,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 70738,
+      "vote_count": 6,
+      "budget": 0,
+      "overview": "A young woman is on trial for murder. In flashback, we learn of her struggles to overcome poverty as a teenager -- a mistaken arrest and prison term for shoplifting and lack of employment lead to involvement with gangsters. In a brothel, she meets a young lawyer, scion of a wealthy and prestigious family, who falls for her and helps her turn around her life. But her past catches up with her, and she must face the music rather than cause him scandal.",
+      "similar": [
+         2503,
+         30159,
+         10409,
+         26389,
+         15092,
+         754,
+         881,
+         489,
+         2501,
+         11216,
+         340666,
+         346685,
+         1903,
+         5503,
+         44115,
+         8834,
+         77,
+         1572,
+         1954,
+         204922
+      ],
+      "original_title": "Midnight Mary",
+      "runtime": 74,
+      "poster_path": "/kds9x7pIxk2hkRo4EL7IP0yufEO.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [{
+         "logo_path": "/zcxym93i5BTqqjhVvAhV5HPwYTR.png",
+         "name": "Metro-Goldwyn-Mayer",
+         "id": 21,
+         "origin_country": "US"
+      }],
+      "release_date": "1933-06-30",
+      "vote_average": 6.2,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Black and White",
+      "budgetCurrency": null,
+      "directors": ["William A. Wellman"],
+      "runtime": 74,
+      "synopsis": null,
+      "writers": [
+         "Anita Loos",
+         "Gene Markey"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0024334/",
+      "coverLink": "http://ia.media-imdb.com/images/M/MV5BMjAzMDU0MTA4N15BMl5BanBnXkFtZTcwOTgxMjU5Ng@@._V1_SY317_CR102,0,214,317_AL_.jpg",
+      "actors": ["Stars: Loretta Young, Franchot Tone, Ricardo Cortez | See full cast and crew »"],
+      "reviews": [
+         "This is a seldom-discussed but highly significant title in the pre-code canon, as it delineates the compromises a pretty and (originally) moral young woman must make to extricate herself from poverty during the depression. Overall, it's a predictable melodrama, very typical of its period, and the fact that Wild Bill Wellman was for some reason working at MGM for this one tends to stultify the brashness that was his trademark in his early years at Warners. Nonetheless, the tricky editing is very Warners-like and keeps the story moving at a rapid pace, particularly in the jaw-dropping montage where the eponymous character loses her virginity. Most importantly, the script is very frank about sex and absolutely cynical about American society at the time. The most notorious scene is all innuendo -- in order to distract her gangster paramour, Mary inaudibly whispers in his ear, obviously relating in quite some detail the pleasures she will endow him with if only he comes to bed with her immediately. Loretta Young is luminous as always and Ricardo Cortez has a nice time with his role as a confident hoodlum who knows he has her on a string. As for Franchot Tone and Grady Sutton...",
+         "Wow! What a movie! Definitely one of the best Pre-Codes I've seen. Swiftly paced, perfectly edited, with Loretta Young at her most beautiful and giving one of her most believable and honest performances. After seeing many of Loretta's films from the early 1930s, now I think that she gave her best performances in this period of time. There is a quality of freshness and naturalness, that gives much more truth to Loretta's portrayals in the early 1930s than to her interpretations of the late 1930s and 1940s, with few exceptions. Besides, those huge, beautiful eyes of hers, that smile, those apple cheeks, that slender figure so perfect for those early 1930s gowns, never looked better than in this period. Here she impersonates a doomed girl, who's known all the ugly aspects of life; the film begins when she's being tried for murder. The movie is told via-flashbacks and depicts how she got into this situation. It's so strange that this picture was produced by MGM; it could have been perfectly done at Warner Brothers. Well, the director, William Wellman, had been making lots of films on the Warner lot (Loretta as well), so he must have put much of the Warner's \"Touch\" and \"mood\" into it, perfectly blending it with MGM's gloss and top production values. Ricardo Cortez is excellent as the \"aparently\" suave gangster in love with Loretta and Franchot Tone is aptly cast as a society lawyer who falls for her. An excellent cast of supporting actors include Una Merkel, Warren Hymer, Martha Sleeper and those usual reliable butlers: Robert Greig and Halliwell Hobbes. I found this film so entertaining, so timeless, so modern in many ways. Pre-Code Fans don't dare to miss it!",
+         "Interesting drama about a young woman named Mary Martin (played by Loretta Young), on trial for murder, who awaits her verdict and remembers back to her past leading up to this crime. From childhood rummaging through garbage at the dump, to being placed in a \"house of correction\" as a teenager when she is unjustly accused of stealing a pocketbook, to unknowingly playing lookout for a bunch of crooks pulling a job, Mary really is a good girl - she's just had a life that went from one bad break to another, it seems. Unable to find a real job, she ends up a gangster's moll and, along with his gang of hoodlums, she's now dressing to the nines in satin gown, skullcap, and fur coat and assisting them with crimes - but when she meets a handsome, rich playboy (Franchot Tone) one night while out on a \"job\" with her gang, she asks him to help her get away from this life of crime. This film is really interesting, well-edited and fast-paced, with compelling story that completely held my interest, and a really great performance by Loretta Young who really makes this film. Una Merkel adds to the mix as Mary's gal pal Bun, and Andy Devine is fun as Franchot Tone's goofy sidekick. Franchot Tone, by the way, looks extremely handsome in this with top hat, white tie, and tails (oh, my), Loretta Young is very beautiful, as usual, and there is just tons of chemistry between the two of them in their romantic scenes. Watch for those kisses - wow!",
+         "Midnight Mary is pre-code bliss par excellence! Loretta Young stars as a down on her luck young woman who finds herself in situations that she never would've found herself in later in her career! From the opening courtroom scenes where Mary finds herself reminiscing about her past, we are taken on a roller coaster ride through the years to find out how she came to be where she is now! Mary isn't a bad girl, she's just had a lot of bad luck and made unfortunate choices in consequence. Loretta has tons of chemistry with her co-stars Ricardo Cortez (yummy) and wise-cracking, adorable Una Merkel, who has a really great philosophical drunk scene in the movie! There are many scenes that wouldn't have made it past the censors later on, such as the one at the kitchen table where Loretta and Franchot Tone discuss a subject that's on a lot of people's minds a lot of the time. And towards the end of the movie, there's a scene with Mary trying to seduce Leo, who responds by licking her fingers as she strokes his face. This is a great little morality play and a comment on the hard times encountered during the Depression Era, when many people were forced into hard choices they might never have made otherwise. All the cast is great, including Franchot Tone as the suave lawyer who befriends and saves Mary and Andy Devine as his loud-mouthed friend who's along for the ride. Midnight Mary really is Pre-Code Bliss!",
+         "Midnight Mary is the story of a girl who grows up poor, gets involved with people on the wrong side of the tracks, and tries to get out. The film opens and closes with Mary in a court room awaiting the verdict in her trial for murder. Loretta Young plays Mary; Young is absolutely beautiful and proves to be a great actress in all of her scenes. Ricardo Cortez plays her gangster boyfriend well enough. He is appropriately sinister at times and average in others. Una Merkel plays Mary's best friend, a cute and funny smart-cookie type. Franchot Tone is standout in this film, especially in his romantic scenes in which the kisses are long and passionate, the looks are meaningful, and the chemistry is hot and thick. Otherwise, Tone is sweet and lovable as always. This film was beautifully photographed and employed great costuming resembling both late 1920s and early 30s styles. This film was made before the production code that censored everything that came out of Hollywood, so it utilizes many racy scenes. One occurs when Young and Tone blatantly talk about the possibility of sex, another when the far from stiff kisses last longer than three seconds, another when Young whispers dirty things into Cortez's ear, and still another when a girl gets pregnant out of wedlock. There is also some abuse shown. The ending of the film is very satisfying and concludes a great film.",
+         "This Review is worth an 11 for the gowns, 8 for the rest. Loretta in Adrian's clothes was a knockout...I have seen this movie twice on that wonderful TCM and that beaded skullcap hat still makes me marvel...it takes a pretty face to pull that one off. Story is interesting enough but the actors were really perfect for this big little movie. Ricardo Cortez was at his sexy handsome smarmiest..Franchot Tone was at his great kind, rich and wimpiest and sweet Loretta held the whole shebang together and I cannot imagine anyone thinking/saying she wasn't right for the part. Plus, if clothes make the man then clothes really make the woman... Now about the story...Loretta of got a few bum raps along the way, love, etc., but wait, just spend 75 minutes and judge for yourself.",
+         "Midnight Mary is essential viewing for the pre-code fanatic. I am not a big fan of Loretta Young and her bug eyes, but she was superb in this, as a good girl who suffers some rotten luck along the way to becoming a gangster's doll and prized possession. Ricardo Cortez was incredibly sexy and smooth as the jealous gangster; what a fascinating performance. Franchot Tone was his usual handsome, sophisticated self, but the weakest link in the film. His energy level can't compete with Ricardo's. From the opening courtroom scenes, with Loretta reading a Hearst Cosmopolitan magazine (with only her bug eyes showing), to the inevitable ending, this film will keep any pre-code viewer on the edge of their seat. 9 out of 10.",
+         "A ravishingly beautiful 20-year-old Loretta Young is \"Midnight Mary\" in this 1933 melodrama directed by William Wellman. The film also stars Ricardo Cortez, Franchot Tone, and Una Merkel. Young, on trial for murder of Cortez character, a gangster, is waiting for the jury to come in. She tells her story in flashback. Down on her luck, recently out of prison, she meets Cortez, becomes his girl and gets the easy life. One night, during a shooting, the wealthy Tone helps her escape. After she receives secretarial training, he gets her a job in his law firm. But her past catches up with her. Loretta Young is stunning and her clothes are fantastic. She gives a very good performance. Since it's a pre-code drama, there's talk of sex, suggestive scenes, and the women get slapped around. Very entertaining and absorbing, with Young a class act all the way.",
+         "This film is done in an old fashioned style that doesn't play so well for modern audiences who aren't familiar with the style of early 30s \"Pre-Code\" films. Since I am a huge fan of older films (much more than modern ones), I could forgive all the melodrama and improbabilities that occur in the film--it was the style of the day. The film begins with Loretta Young on trial. Oddly, she refuses to do anything to defend herself and the film soon goes to a flashback of her life. Oddly, director Wellman decided to use Loretta and Una Merkel for some of the early scenes--where they were both supposed to be only 9 years-old! He used large props and changed their dress and hair styles, but they looked a heck of a lot older than 9! In the teenage portion, Loretta was able to pull this off much better since she was still rather youthful when she made this movie. All these early snippets help to show how Loretta gravitated towards a life of crime even though, in some ways, she was a nice girl. When the film moves forward to the late 1920s, the movie slows its pace and instead of brief snippets we follow her as she joins up with a gang headed by tough guy Ricardo Cortez. Here, she is reunited with Merkel--who is quite the floozy--a big departure compared to ladies she played in most other films. Aside from allowing herself to be slapped around, Una also apparently loves premarital sex, as she later gets pregnant. They never say where the kid came from, but I assume it wasn't an immaculate conception! With this and some of the other violence in the film, it's obvious that this Pre-Code film is indeed typical of the racier style of films of the early 30s--something that would be banned starting just a year later with the new and tougher Production Code. Along the way, Loretta meets up with the rich and very nice Franchot Tone. However, Loretta realizes that her checkered past will kill Tone's career as a lawyer, so she quiet disappears--turning herself into the police for her part in a robbery. When she gets out of jail, she deliberately avoids Tone and goes back to the brutal and nasty Cortez--all because she loves Tone too much to mess up his life. Exactly where it goes from there and how it all ends up in court is very entertaining, but I don't want to spoil the surprises. Despite being a tad old fashioned, the Pre-Code morality also makes the film pretty exciting, as most people don't realize how wicked these old films were (they were definitely NOT prudes like we like to think they were). A busy but highly entertaining script, decent performances and excellent direction--this is worth a look.",
+         "Midnight Mary (1934) ** 1/2 (out of 4) Famous Pre-Code has Loretta Young playing the title character, a woman who always finds herself in the wrong place at the wrong time. After a stint inside a reform school she winds up on the streets without a job but is taken under the wing of a gangster (Ricardo Cortez). She eventually tries to go straight with the help of a lawyer (Franchot Tone) but soon the gangster wants him dead. Young is one of my favorite actresses and there's no question this here is one of her most famous films but to me the story is really lacking and not too original. It really seems like MGM wanted to throw Young into the sex/vamp role but they didn't put too much thought into the screenplay. The movie certainly isn't bad but at the same time it's not the greatest that it could have been. The biggest issue with Young's vamp here is that she never does anything wrong. She's a good girl from head to toe so there's no point in trying to push her off as the vamp. What makes this film work so well are the incredibly strong performances from the three leads. Young is very sexy and believable in her role. Cortez even manages to deliver a strong performance but the scene stealer has to be Tone. Andy Devine and Una Merkel have supporting roles. To me this film works best as a love story because in heart that's exactly what it is. Throw in the sexy wardrobes of Young mixed with Wellman's direction and you've got a pretty good film that's worth watching."
+      ],
+      "genres": [
+         "Crime",
+         "Drama",
+         "Romance"
+      ],
+      "productionCompanies": ["Metro-Goldwyn-Mayer (MGM)"],
+      "summaries": ["A young woman is on trial for murder. In flashback, we learn of her struggles to overcome poverty as a teenager -- a mistaken arrest and prison term for shoplifting and lack of employment lead to involvement with gangsters. In a brothel, she meets a young lawyer, scion of a wealthy and prestigious family, who falls for her and helps her turn around her life. But her past catches up with her, and she must face the music rather than cause him scandal."],
+      "budget": 0
+   },
+   "movielensId": 121594,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1933-06-30",
+      "dvdReleaseDate": null,
+      "directors": ["William A. Wellman"],
+      "runtime": 74,
+      "movieId": 121594,
+      "title": "Midnight Mary",
+      "mpaa": "",
+      "actors": [
+         "Loretta Young",
+         "Ricardo Cortez",
+         "Franchot Tone",
+         "Andy Devine",
+         "Una Merkel",
+         "Frank Conroy",
+         "Warren Hymer",
+         "Ivan F. Simpson",
+         "Harold Huber",
+         "Sandy Roth",
+         "Martha Sleeper",
+         "Charley Grapewin",
+         "Halliwell Hobbes",
+         "Robert Emmet O'Connor",
+         "Ernie Adams",
+         "Reginald Barlow",
+         "Louise Beavers",
+         "Lynton Brent",
+         "Don Brodie",
+         "Mike Donlin",
+         "Robert Dudley",
+         "Bill Elliott",
+         "Robert Greig",
+         "Wilfred Lucas",
+         "Charles McAvoy",
+         "Philo McCullough",
+         "Nelson McDowell",
+         "Miki Morita",
+         "Lee Phelps",
+         "Phillips Smalley",
+         "Richard Tucker",
+         "Kathrin Clare Ward"
+      ],
+      "imdbMovieId": "0024334",
+      "originalTitle": "Midnight Mary",
+      "genres": [
+         "Romance",
+         "Crime",
+         "Drama"
+      ],
+      "youtubeTrailerIds": [
+         "JkJAr5L7O4Y",
+         "S0VkHACIoeM"
+      ],
+      "plotSummary": "A young woman is on trial for murder. In flashback, we learn of her struggles to overcome poverty as a teenager -- a mistaken arrest and prison term for shoplifting and lack of employment lead to involvement with gangsters. In a brothel, she meets a young lawyer, scion of a wealthy and prestigious family, who falls for her and helps her turn around her life. But her past catches up with her, and she must face the music rather than cause him scandal.",
+      "tmdbMovieId": 70738,
+      "avgRating": 3.625,
+      "releaseYear": "1933",
+      "numRatings": 4,
+      "posterPath": "/kds9x7pIxk2hkRo4EL7IP0yufEO.jpg"
+   }
+}

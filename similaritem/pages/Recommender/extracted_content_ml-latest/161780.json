@@ -1,0 +1,406 @@
+{
+   "tmdb": {
+      "original_language": "no",
+      "keywords": [
+         {
+            "name": "world war ii",
+            "id": 1956
+         },
+         {
+            "name": "haunted house",
+            "id": 3358
+         },
+         {
+            "name": "supernatural",
+            "id": 6152
+         },
+         {
+            "name": "period drama",
+            "id": 15060
+         },
+         {
+            "name": "supernatural horror",
+            "id": 185408
+         }
+      ],
+      "imdb_id": "tt3425402",
+      "video": false,
+      "title": "The House",
+      "recommendations": [],
+      "backdrop_path": "/3HTybHa8IGa19KxZGgvaZeTxJfg.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 0,
+               "character": "Max",
+               "gender": 0,
+               "credit_id": "56a0e5ccc3a36858c800db20",
+               "name": "Espen Edvartsen",
+               "profile_path": null,
+               "id": 1566570,
+               "order": 1
+            },
+            {
+               "cast_id": 1,
+               "character": "Lise",
+               "gender": 0,
+               "credit_id": "56a0e5e39251415e6700deb2",
+               "name": "Ingvild Flikkerud",
+               "profile_path": null,
+               "id": 1566571,
+               "order": 2
+            },
+            {
+               "cast_id": 2,
+               "character": "Grandmother",
+               "gender": 0,
+               "credit_id": "56a0e5f39251413849006482",
+               "name": "Anita Ihler",
+               "profile_path": null,
+               "id": 1566572,
+               "order": 3
+            },
+            {
+               "cast_id": 3,
+               "character": "Rune Henriksbø",
+               "gender": 0,
+               "credit_id": "56a0e6059251415e6700debb",
+               "name": "Sondre Krogtoft Larsen",
+               "profile_path": "/o7hqefBlSR8X1P8svdDNIYtJS22.jpg",
+               "id": 105253,
+               "order": 4
+            },
+            {
+               "cast_id": 4,
+               "character": "Woman",
+               "gender": 0,
+               "credit_id": "56a0e61392514168b1002ec9",
+               "name": "Heidi Ødegaard Mikkelsen",
+               "profile_path": null,
+               "id": 1566573,
+               "order": 5
+            },
+            {
+               "cast_id": 5,
+               "character": "Jurgen Kreiner",
+               "gender": 0,
+               "credit_id": "56a0e62892514168b1002ecf",
+               "name": "Mats Reinhardt",
+               "profile_path": null,
+               "id": 1249928,
+               "order": 6
+            },
+            {
+               "cast_id": 6,
+               "character": "Susanne",
+               "gender": 0,
+               "credit_id": "56a0e63592514168b1002ed2",
+               "name": "Evy Kasseth Røsten",
+               "profile_path": "/ds5RPMoyvCUOrc4N6bO1k3kAWX1.jpg",
+               "id": 76922,
+               "order": 7
+            },
+            {
+               "cast_id": 7,
+               "character": "Priest",
+               "gender": 0,
+               "credit_id": "56a0e64892514168b1002ed7",
+               "name": "Sigmund Sæverud",
+               "profile_path": null,
+               "id": 1146915,
+               "order": 8
+            },
+            {
+               "cast_id": 8,
+               "character": "Andreas Fleiss",
+               "gender": 0,
+               "credit_id": "56a0e661c3a36858c600ef7b",
+               "name": "Frederik Wolf",
+               "profile_path": "/iTQCEkdPikpVraqaPZKTqnWsbz1.jpg",
+               "id": 1451698,
+               "order": 9
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "56a0e777c3a3683413005038",
+               "name": "Reinert Kiil",
+               "profile_path": "/aD0uGZcdvNGfPSoQIas9P9Fu3Cm.jpg",
+               "id": 589168,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56a0e786c3a36858dc00de6b",
+               "name": "Bjørn Kleven",
+               "profile_path": null,
+               "id": 1566585,
+               "department": "Costume & Make-Up",
+               "job": "Costume Design"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56a0e678c3a36858ce00e3d2",
+               "name": "Reinert Kiil",
+               "profile_path": "/aD0uGZcdvNGfPSoQIas9P9Fu3Cm.jpg",
+               "id": 589168,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56a0e68892514137d600640e",
+               "name": "Reinert Kiil",
+               "profile_path": "/aD0uGZcdvNGfPSoQIas9P9Fu3Cm.jpg",
+               "id": 589168,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56a0e6f0c3a36858c800db4a",
+               "name": "Kim Berg",
+               "profile_path": null,
+               "id": 1566576,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56a0e69ac3a3683413005018",
+               "name": "Reinert Kiil",
+               "profile_path": "/aD0uGZcdvNGfPSoQIas9P9Fu3Cm.jpg",
+               "id": 589168,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56a0e6fe9251415e6700dee5",
+               "name": "Levi Gawron",
+               "profile_path": null,
+               "id": 1566577,
+               "department": "Sound",
+               "job": "Music"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56a0e715c3a36858c800db58",
+               "name": "John-Erling H. Fredriksen",
+               "profile_path": null,
+               "id": 1566578,
+               "department": "Crew",
+               "job": "Cinematography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56a0e72892514149bc006566",
+               "name": "Iris Jenssen Nylændet",
+               "profile_path": null,
+               "id": 1566579,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56a0e7349251415e5e00dd1d",
+               "name": "Silje Rekk",
+               "profile_path": null,
+               "id": 1566580,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 2,
+               "credit_id": "56a0e7479251415e6700def5",
+               "name": "Reinert Kiil",
+               "profile_path": "/aD0uGZcdvNGfPSoQIas9P9Fu3Cm.jpg",
+               "id": 589168,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56a0e75b925141370b0066f4",
+               "name": "Jim-Andre Taaje",
+               "profile_path": null,
+               "id": 1566581,
+               "department": "Crew",
+               "job": "Art Direction"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56a0e7699251415e5e00dd28",
+               "name": "Andreas Røslett",
+               "profile_path": null,
+               "id": 1566583,
+               "department": "Art",
+               "job": "Set Decoration"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56a0e6a99251412ec700696a",
+               "name": "Svein Andersen",
+               "profile_path": null,
+               "id": 1566574,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56a0e6bac3a36858cb00ceea",
+               "name": "Kjetil Jensberg",
+               "profile_path": null,
+               "id": 1566575,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "56a0e6cac3a36858c300def7",
+               "name": "Terje Strømstad",
+               "profile_path": "/IsrTRNgwgfiZ2XnbF3SuugwrRV.jpg",
+               "id": 473485,
+               "department": "Production",
+               "job": "Executive Producer"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Horror",
+            "id": 27
+         },
+         {
+            "name": "Thriller",
+            "id": 53
+         }
+      ],
+      "popularity": 1.499011,
+      "production_countries": [{
+         "iso_3166_1": "NO",
+         "name": "Norway"
+      }],
+      "id": 378607,
+      "vote_count": 6,
+      "budget": 0,
+      "overview": "Two German soldiers has taken a Norwegian soldier as prisoner, during one of the cold Scandianvian winter nights during WW2. They are thankful that they find a lonely house out in the wilderness, but the houses aren't that cozy after all.",
+      "similar": [
+         1771,
+         369885,
+         228150,
+         16869,
+         2253,
+         5925,
+         91586,
+         201085,
+         242512,
+         339259,
+         565,
+         77949,
+         10014,
+         397243,
+         351339,
+         19592,
+         853,
+         857,
+         424,
+         203833
+      ],
+      "original_title": "Huset",
+      "runtime": 90,
+      "poster_path": "/vJTWaeivj5cvRDOprbO73Db01wC.jpg",
+      "spoken_languages": [
+         {
+            "name": "English",
+            "iso_639_1": "en"
+         },
+         {
+            "name": "Deutsch",
+            "iso_639_1": "de"
+         },
+         {
+            "name": "Norsk",
+            "iso_639_1": "no"
+         }
+      ],
+      "production_companies": [],
+      "release_date": "2016-01-20",
+      "vote_average": 5.9,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Norway",
+      "color": "Color",
+      "budgetCurrency": "\u20ac",
+      "directors": ["Reinert Kiil"],
+      "runtime": 90,
+      "synopsis": null,
+      "writers": [
+         "Reinert Kiil",
+         "Jan Helge Lillevik"
+      ],
+      "originalLanguage": "German",
+      "imdbLink": "http://www.imdb.com/title/tt3425402/",
+      "coverLink": null,
+      "actors": [
+         "Mats Reinhardt",
+         "Frederik von Lüttichau",
+         "Espen Edvartsen"
+      ],
+      "reviews": [
+         "\"Huset\" as it's known in Norwegian is an excellent twist to an exorcist movie. It takes on the concept of limbo in a very nice matter. The feeling and dialog throughout the movie leaves you with a numb and chilling feeling. It had me thinking \"Wow, Scandinavian movies doesn't suck anymore for once\", and that just hit the jackpot. My friends didn't quite understand the movie. But I like to think that I certainly did. They said that it was unfulfilling, but it was indeed very fulfilling. Because, through the movie you were able to spot changes that were based on both the characters and surroundings. Things like the environment would have objects changing/rotating and the characters would change too. So if you're watching this movie, try to pay close attention to the details of it.",
+         "\"Huset\" or \"House - Willkommen in der Hölle\" or just \"The House\" is a Norwegian production from 2016, but don't be fooled by this fact and by the original title because the fact that this is the story of Nazi soldiers during World War II makes this a movie that is almost exclusively in the German language. It runs for slightly under 1.5 hours and is the most recent effort by writer and director Reinert Kiil. I believe it is the first film I have seen by him and I must say I am not impressed at all. First of all, the historic context adds absolutely nothing to this film at all. It is just there. There is no reason to watch this movie if you like films about this era because there is no elaboration on it at all basically, apart from the uniforms perhaps. So I am saying that this film could have played at any other point in history as well pretty much. if there is any reason to appreciate this film, then it is from the thriller/horror perspective, but actually really only from the latter as this is just not a good thriller movie at all. I myself like subtle horror films about unseen dangers, so this one is in theory also not to my liking and the same goes for practice. But this is really just subjective. The music felt overly loud at times and it seemed almost a bit desperate by the makers as they were clearly trying to hide the lack of substance here. There are many jump scares, but hardly any of them are really working. I find it a bit shocking to see a film with such low quality made by Kiil, who is a filmmaker who actually has a solid deal of experience and should know better than to release really weak outcomes like this one. Maybe he did not choose the right profession. Anyway, maybe I am doing him injustice and his other works are better. If not, then I hope he can step things up soon as he is still relatively young. All in all 4 stars out of 10 (or 2 stars out of 5 actually) is still very much on the generous side for this one. Do not watch unless you really love the horror film genre and have seen almost everything else."
+      ],
+      "genres": ["Thriller"],
+      "productionCompanies": [
+         "Kiil Produksjon",
+         "Sanctum Film"
+      ],
+      "summaries": ["Two German soldiers has taken a Norwegian soldier as prisoner, during one of the cold Scandianvian winter nights during WW2. They are thankful that they find a lonely house out in the wilderness, but the houses aren't that cozy after all."],
+      "budget": 60000
+   },
+   "movielensId": 161780,
+   "movielens": {
+      "languages": ["Norsk"],
+      "releaseDate": "2016-01-20",
+      "dvdReleaseDate": null,
+      "directors": ["Reinert Kiil"],
+      "runtime": 90,
+      "movieId": 161780,
+      "title": "The House",
+      "mpaa": null,
+      "actors": [
+         "Espen Edvartsen",
+         "Ingvild Flikkerud",
+         "Anita Ihler",
+         "Sondre Krogtoft Larsen",
+         "Heidi Ødegaard Mikkelsen",
+         "Mats Reinhardt",
+         "Evy Kasseth Røsten",
+         "Sigmund Sæverud",
+         "Frederik Wolf"
+      ],
+      "imdbMovieId": "3425402",
+      "originalTitle": "Huset",
+      "genres": [
+         "Horror",
+         "Thriller"
+      ],
+      "youtubeTrailerIds": [],
+      "plotSummary": "",
+      "tmdbMovieId": 378607,
+      "avgRating": 2.5,
+      "releaseYear": "2016",
+      "numRatings": 3,
+      "posterPath": "/vJTWaeivj5cvRDOprbO73Db01wC.jpg"
+   }
+}

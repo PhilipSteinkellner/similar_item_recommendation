@@ -1,0 +1,523 @@
+{
+   "tmdb": {
+      "original_language": "en",
+      "keywords": [
+         {
+            "name": "child abuse",
+            "id": 516
+         },
+         {
+            "name": "detective",
+            "id": 703
+         },
+         {
+            "name": "sexuality",
+            "id": 738
+         },
+         {
+            "name": "jealousy",
+            "id": 931
+         },
+         {
+            "name": "homophobia",
+            "id": 1013
+         },
+         {
+            "name": "obsession",
+            "id": 1523
+         },
+         {
+            "name": "manipulation",
+            "id": 2887
+         },
+         {
+            "name": "police",
+            "id": 6149
+         },
+         {
+            "name": "aunt",
+            "id": 6894
+         },
+         {
+            "name": "coach",
+            "id": 8338
+         },
+         {
+            "name": "slasher",
+            "id": 12339
+         },
+         {
+            "name": "orphan",
+            "id": 13014
+         },
+         {
+            "name": "gay man",
+            "id": 33458
+         },
+         {
+            "name": "incest",
+            "id": 33841
+         },
+         {
+            "name": "mental illness",
+            "id": 41329
+         }
+      ],
+      "imdb_id": "tt0082813",
+      "video": false,
+      "title": "Butcher, Baker, Nightmare Maker",
+      "recommendations": [
+         27566,
+         30670,
+         39342,
+         85160,
+         27313,
+         87905,
+         54109,
+         39868,
+         13570,
+         28156,
+         39991,
+         25028,
+         39931,
+         56702,
+         54127,
+         39889,
+         54132,
+         28264,
+         28148,
+         56383
+      ],
+      "backdrop_path": "/A2pjoZJNqTkeYuFlKDOVZBv7f5C.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 2,
+               "character": "Billy Lynch",
+               "gender": 0,
+               "credit_id": "52fe4775c3a368484e0c7f61",
+               "name": "Jimmy McNichol",
+               "profile_path": "/z3HoNTgRkSaozZrYx2PjwRP1vx4.jpg",
+               "id": 236180,
+               "order": 0
+            },
+            {
+               "cast_id": 3,
+               "character": "Aunt Cheryl",
+               "gender": 1,
+               "credit_id": "52fe4775c3a368484e0c7f65",
+               "name": "Susan Tyrrell",
+               "profile_path": "/2cQnK1bJxp9PldCeA05kohavPs8.jpg",
+               "id": 59369,
+               "order": 1
+            },
+            {
+               "cast_id": 4,
+               "character": "Detective Joe Carlson",
+               "gender": 2,
+               "credit_id": "52fe4775c3a368484e0c7f69",
+               "name": "Bo Svenson",
+               "profile_path": "/xhXC4Vx1T2NwFgadIjgdISM09ia.jpg",
+               "id": 30044,
+               "order": 2
+            },
+            {
+               "cast_id": 5,
+               "character": "Julia",
+               "gender": 1,
+               "credit_id": "52fe4775c3a368484e0c7f6d",
+               "name": "Julia Duffy",
+               "profile_path": "/xyBp5eeugdrM0DFBBPjQu47hYLQ.jpg",
+               "id": 100602,
+               "order": 3
+            },
+            {
+               "cast_id": 6,
+               "character": "Margie",
+               "gender": 1,
+               "credit_id": "52fe4775c3a368484e0c7f71",
+               "name": "Marcia Lewis",
+               "profile_path": null,
+               "id": 119714,
+               "order": 4
+            },
+            {
+               "cast_id": 8,
+               "character": "Coach Tom Landers",
+               "gender": 2,
+               "credit_id": "52fe4775c3a368484e0c7f79",
+               "name": "Steve Eastin",
+               "profile_path": "/tn3DZr8CLf9lV20T3ji019hjesX.jpg",
+               "id": 9276,
+               "order": 5
+            },
+            {
+               "cast_id": 19,
+               "character": "Sgt. Cook",
+               "gender": 2,
+               "credit_id": "5645f0409251410a4c00916e",
+               "name": "Britt Leach",
+               "profile_path": null,
+               "id": 97717,
+               "order": 6
+            },
+            {
+               "cast_id": 20,
+               "character": "Phil Brody",
+               "gender": 0,
+               "credit_id": "5645f06b92514133ab008a5f",
+               "name": "Caskey Swaim",
+               "profile_path": null,
+               "id": 176352,
+               "order": 7
+            },
+            {
+               "cast_id": 21,
+               "character": "Frank",
+               "gender": 0,
+               "credit_id": "5645f079c3a36870dd009801",
+               "name": "Cooper Neal",
+               "profile_path": null,
+               "id": 1535404,
+               "order": 8
+            },
+            {
+               "cast_id": 7,
+               "character": "Eddie",
+               "gender": 2,
+               "credit_id": "52fe4775c3a368484e0c7f75",
+               "name": "Bill Paxton",
+               "profile_path": "/53Ln1wTC0OCLzBF4HNlwhMXYgOU.jpg",
+               "id": 2053,
+               "order": 9
+            },
+            {
+               "cast_id": 22,
+               "character": "Anna Lynch",
+               "gender": 0,
+               "credit_id": "5645f095c3a36870e800922c",
+               "name": "Kay Kimler",
+               "profile_path": null,
+               "id": 1535406,
+               "order": 10
+            },
+            {
+               "cast_id": 23,
+               "character": "Bill Lynch, Sr.",
+               "gender": 0,
+               "credit_id": "5645f0a69251410a49008ea4",
+               "name": "Gary Baxley",
+               "profile_path": null,
+               "id": 1535407,
+               "order": 11
+            }
+         ],
+         "crew": [
+            {
+               "gender": 2,
+               "credit_id": "52fe4775c3a368484e0c7f5d",
+               "name": "William Asher",
+               "profile_path": "/tZw2tQwUHBTgwNjR0lWpdzliRAr.jpg",
+               "id": 95526,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "543bec3f0e0a26499e005d3f",
+               "name": "Steve Briemer",
+               "profile_path": null,
+               "id": 1373506,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "543bec4b0e0a2649a5005b35",
+               "name": "Alan Jay Glueckman",
+               "profile_path": null,
+               "id": 1373507,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "543bec55c3a3681990005b01",
+               "name": "Boon Collins",
+               "profile_path": null,
+               "id": 74675,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "543bec61c3a368199c00596c",
+               "name": "Alan Jay Glueckman",
+               "profile_path": null,
+               "id": 1373507,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "543bec6d0e0a26499e005d43",
+               "name": "Boon Collins",
+               "profile_path": null,
+               "id": 74675,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 2,
+               "credit_id": "543bec9ac3a3681990005b05",
+               "name": "Ted Nicolaou",
+               "profile_path": "/gehY5K8zUHwozdt4o1qFg3tbPGY.jpg",
+               "id": 45989,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5645f1a7c3a36870ec008d0b",
+               "name": "Joan Simmons",
+               "profile_path": null,
+               "id": 1535410,
+               "department": "Production",
+               "job": "Casting"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5645f0c39251410a530090cb",
+               "name": "Steve Briemer",
+               "profile_path": null,
+               "id": 1373506,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5645f0e3c3a36870d6009592",
+               "name": "Eugene Mazzola",
+               "profile_path": null,
+               "id": 137205,
+               "department": "Production",
+               "job": "Co-Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5645f0f692514133ab008a80",
+               "name": "Richard Carrothers",
+               "profile_path": null,
+               "id": 1535408,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5645f150c3a36870d60095ac",
+               "name": "Dennis Hennessy",
+               "profile_path": null,
+               "id": 1535409,
+               "department": "Production",
+               "job": "Executive Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5645f16dc3a36870ec008d02",
+               "name": "Bruce Langhorne",
+               "profile_path": null,
+               "id": 42625,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "5645f188c3a36870d60095b2",
+               "name": "Robbie Greenberg",
+               "profile_path": null,
+               "id": 18257,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "5645f1d1c3a36870d60095ba",
+               "name": "Allan A. Apone",
+               "profile_path": null,
+               "id": 102343,
+               "department": "Crew",
+               "job": "Makeup Effects"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Thriller",
+            "id": 53
+         },
+         {
+            "name": "Horror",
+            "id": 27
+         }
+      ],
+      "popularity": 3.689936,
+      "production_countries": [{
+         "iso_3166_1": "US",
+         "name": "United States of America"
+      }],
+      "id": 67740,
+      "vote_count": 23,
+      "budget": 0,
+      "overview": "Rejected by her lover, the only man left in Cheryl's life is the orphaned nephew she has raised as her own son. She'll stop at nothing to keep Billy with her. When her plans misfire, she is swept up into an insane frenzy that means death to anyone who comes between her and her obsession. But the investigating detective is convinced that Billy is the real killer - and determined to prove it. Madness and fanaticism work together to drag all concerned into a terrifying vortex of blood-letting that adds a nightmarish twist to the classic Oedipus story.",
+      "similar": [
+         1586,
+         402,
+         2252,
+         948,
+         949,
+         807,
+         1572,
+         44214,
+         75780,
+         395990,
+         3597,
+         1939,
+         15069,
+         96,
+         4771,
+         1278,
+         10545,
+         28468,
+         984,
+         9873
+      ],
+      "original_title": "Butcher, Baker, Nightmare Maker",
+      "runtime": 96,
+      "poster_path": "/nw1RNnyzq3gr2ebmGNQZB5Utv7O.jpg",
+      "spoken_languages": [{
+         "name": "English",
+         "iso_639_1": "en"
+      }],
+      "production_companies": [
+         {
+            "logo_path": null,
+            "name": "Royal American Pictures",
+            "id": 35208,
+            "origin_country": ""
+         },
+         {
+            "logo_path": null,
+            "name": "S2D Associates",
+            "id": 35209,
+            "origin_country": ""
+         }
+      ],
+      "release_date": "1982-02-24",
+      "vote_average": 6.8,
+      "belongs_to_collection": null,
+      "tagline": "She was lonely. He was all she had. No-one would take him from her - and live...",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "USA",
+      "color": "Color",
+      "budgetCurrency": null,
+      "directors": ["William Asher"],
+      "runtime": 96,
+      "synopsis": null,
+      "writers": [
+         "Steve Breimer",
+         "Alan Jay Glueckman"
+      ],
+      "originalLanguage": "English",
+      "imdbLink": "http://www.imdb.com/title/tt0082813/",
+      "coverLink": null,
+      "actors": [
+         "Jimmy McNichol",
+         "Susan Tyrrell",
+         "Bo Svenson"
+      ],
+      "reviews": [
+         "I don't remember what link originally took me to the listing for Night Warning, but it's been a while. I lucked out and saw a showing at a local weird-film society last year; a couple of months ago I finally found a copy with a little green price tag on the box sitting on a shelf in Tulsa, Oklahoma. Whatever it takes. Whatever you have to do to get this on your VCR and mastered directly onto your brain. Let nothing stand between you and your own personal copy of Night Warning. Night Warning is as bent as it gets in mainstream filmmaking, and that special time from the mid-seventies to the mid-eighties where a project like this could get funded and shot is gone forever. The one big problem with the film is the director. William Asher isn't up to the script and the cast. He's strictly a TV director, so when the going gets weird, he gets pedestrian. It's not laughably bad or even amusingly lame, but his direction is the only reason this thing isn't showing today at midnight movies in every college town in the Western Hemisphere. Here's what you get for the price of your ticket: Bo Swenson being hateful beyond anything you'd ever imagined he was capable of. Julia Duffy's delightful, unencumbered young paps. Jimmy McNichol-well, OK, Jimmy McNichol is at least credible as a goofy, messed-up 17-year-old. A mind-boggling script that'll make you yell, `What were these people ON?' at the screen till your date walks out on you. Did I mention Julia Duffy's mammae? And, man, do you get Susan Tyrrell, as Aunt Cheryl. You only think she went over the top in Forbidden Zone. Brudda, she wasn't even limbering UP. In Night Warning, you get her horny. You get her maternal. You get her unctuous, you get her as tigress guarding the cub. And you get her flipping out, not once, but repeatedly and at regular intervals, each time in a new and creative fashion. Is there no justice in this life? Why is Susan Tyrrell going to pass her career in obscurities and cult movies, while ambulatory bubble-wrap like Florence Henderson gets a career doing big-money denture commercials and nostalgia shows behind one crappy role from the Ford presidency? The payoff comes at around 1:17 into the movie, when Aunt Cheryl, doing ugly things in the underbrush, hears Julia Duffy breaking a window in the house. Ms. Tyrrell's reaction is the single scariest move I've ever seen an actor make on film. It will make you hide under the bed for a week, praying that God will send flying bears with spears to find you and rip out your liver before He lets Susan Tyrrell get within two area codes of your hidey-hole. Genuine nightmare fuel. Find it, learn it, live it.",
+         "An over protective aunt eventually goes crazy and murders off anybody that tries to bring harm to her teenage nephew, whom she has incestious desires toward. The plot is nothing new or very original, but this horror film is well made (by any movie standard) and very well acted by all involved. The standout in the cast though, is Susan Tyrell as the crazed aunt. Susan gives what is the performance of her career. A very over looked film, but this is very good and worth seeking out. Ignore the bad tape box though. MY RATING: 8 out of 10.",
+         "The strongest of horror films always seems to be those whose victims are sympathetic and whose villains are mercilessly frightening. Night Warning is a testament to just that! Young man becomes the unhealthy obsession of his aunt, who raised him, which leads him into a web of madness and murder! Night Warning is a relatively unknown film, which is a shame because it is a truly effective and fairly original thriller. The story is very intriguing, full of mystery, suspense, and some solid shocks. A big part of the originality factor of this film is the fact that the story dares to explore subjects very rarely touched upon by most genre pictures, such as incest, homosexuality, and the question of what morally right really is. It is a complex and emotionally strong tale, that's gripping in a way that few thrillers ever are. The excellent cast is another strong feature of this movie. Bo Svenson is solid as a homophobic police detective. A young Jimmy McNichol is touching as an attractive teen desperately trying to have a normal life. The greatest of all though is Susan Tyrrell as one of the most demented villains you'll ever see! Also among the cast is a young Bill Paxton in one of his earliest roles. Night Warning is a terrific shocker that seems to have been lost over time, but for those seeking a truly jarring genre picture it is well worth finding a copy of! **** out of ****",
+         "(***1/2 out of *****) I'm surprised this one isn't talked about more (at least, on a schlocky, cult-classic level). It's awesome! Susan Tyrrell (\"Flesh & Blood\") plays Cheryl Roberts, a frighteningly unstable woman who has to raise her nephew, Billy (Jimmy McNichol), when his parents are killed in a gruesome car accident in the opening scene. Aunt Cheryl's overaffectionate behavior towards her 17-year-old nephew sets the creepy tone for this movie from the first five minutes, but the main plot starts after she stabs a plumber to death for refusing her sexual advances. She claims that he was trying to rape her, so a police investigation starts up that uncovers dark, past secrets and a homosexual love affair between the plumber, Billy's basketball coach (Steve Eastin), and possibly Billy himself. Bo Svenson, acting a little like a gruff, B-movie Nick Nolte, chews up his scenes as the blindly homophobic Detective Carlson. But, Tyrrell is the real star here -- her progression from disturbing, obsessive aunt to all-out, screaming, homicidal madwoman is something to watch. This would probably be a two-star movie or less without her wonderfully tongue-in-cheek performance. On top of that, you get \"Newhart\"'s Julia Duffy as Billy's girlfriend (if you ever fantasized about seeing Stephanie Vanderkellen topless, here's your chance) and Bill Paxton (credited as `William'), a year after his scene-stealing role in the otherwise-mediocre slasher \"Mortuary,\" in a couple of fun scenes as an a-hole b-ball teammate. My two big complaints with the film are the director's annoying use of slow motion every time someone's about to deliver a killing blow with one sharp weapon or another and a ridiculous textual epilogue (the kind you usually see at the ends of movies based on true stories) that appears before the end credits roll. Also, the front of the video box seems to be referring to a different movie ... ? Otherwise, hunt this one down and watch it with someone you love. HIGHLIGHT: Everything that happens after Tyrrell cuts her hair short is a highlight, because that's when she goes completely off the deep end and earns her place in B-movie cinema's Hall of Over-The-Top Performances.",
+         "The first word that comes to mind when describing \"Night Warning\" is \"sophisticated\"\u2014a word I'm using loosely, though this low budget '80s shocker is definitely a cut above most. Susan Tyrrell stars as an overbearing aunt to a teenager, Billy (Jimmy McNichol), whose parents died when he was a child. As Billy nears adulthood, Billy's aunt becomes increasingly neurotic; enough to the point that she stabs a repairman to death in their house when he refuses her sexual advances. Enter a bigoted police detective who believes Billy was responsible for the murder by way of a gay love triangle between the repairman and his basketball coach, and what ensues is nothing short of mayhem. Unusual in thematic content and character makeup, \"Night Warning\" (also known as \"Butcher, Baker, Nightmare Maker\") is an apt horror-thriller that is probably ten times better than one would expect. Directed by William Asher, a veteran most known for his direction of TV classics such as \"I Love Lucy\" and \"Bewitched,\" the film has a superior edge over most of its peers in both content and execution. Solid direction and atmosphere are abundant, while the performances really bring the script to life. Susan Tyrrell is fantastic as the overbearing, sexually-repressed aunt, and Jimmy McNicol plays the \"normal teenager\" impressively. Bo Svenson is appropriately repugnant as the homophobic and misguided police detective. Aside from the classy direction, the script is also incredibly interesting in thematics; it's essentially a modern twist on Oedipus Rex, and the execution is fantastic. It's also extremely unusual (and pioneering) for its incorporation of a sympathetic, non-archetypical gay character maligned by circumstances and social bigotry. For 1982, it's definitely far from the standard\u2014 daring, in fact\u2014 and this alone makes the film a curious and unusual piece of eighties celluloid. That, and, who can't love Susan Tyrrell going on a stark-raving-mad murder spree? Overall, \"Night Warning\" is a classy and well-executed horror film-cum-twisted family drama. Asher's direction is great, the special effects are on par, and the performances are glorious, both the understated and the outrageous. Of the slew of horror films from this era, \"Night Warning\" is an honest depiction of familial trauma, unwavering violence, and social oppression. It juggles its thematics with flair and moodiness, all while maintaining the impressions of a horror picture. Watch for: an early performance from Bill Paxton, and one of the greatest car crash sequences I've ever seen. 9/10.",
+         "possible spoilers- Susan Tyrrell is her usual weird and wonderful self in a surprisingly taut horror/thriller that should have yielded more fanfare than it did.Thankfully, this one seems to finally be attaining some of the overdue attention it deserves. Jimmy McNichol is raised by his clinging, possessive aunt who is close to the edge of a serious crackup. Nearing graduation and making college plans, Jimmy and his steady find themselves suddenly entangled in the investigation of a murdered homosexual. The local law enforcement suspects Jimmy is the killer...sizing him up as a light-in-the-loafers teenage Lolita-boy with an aunt who's willing to take the rap for him. Meanwhile, Auntie's behavior grows ever stranger, and one investigator begins to have doubts about her innocence...as well as her nephew's safety. Great performances and a very offbeat story make this a standout in its genre. 6.5/10",
+         "If ever a horror movie could be accused of throwing in everything but the proverbial \"kitchen sink\", \"Night Warning\" is that movie. With homosexual bashing, a nod to \"Psycho\", and a furious mother - son fixation, this film doesn't quit till all the cliché's are covered. The opening has a rather impressive car crash, that sets a somewhat intricate story in motion. Susan Tyrrell is in full deranged mode, and Bo Svenson is despicable as the investigating lieutenant. His entire investigation is built on \"air castles' with homosexual overtones. Eventually the wheels of sanity come off, and Tyrrell gives a memorable performance that by itself carries the film into above average territory. - MERK",
+         "Teenager (Jimmy McNichol) who was orphanded at a young age after his parents were killed in a freak car accident, thinks his over protective and sexually repressed aunt (Susan Tyrrell) is losing it. That's when the murders begin to happen and a homo phobic and racist police officer (Bo Svenson) gets involved in the proceedings suspecting McNichol to be the killer. Judging from the premise you would expect this to be a pretty standard film. It isn't. There is much more going on than there appears to be. This thriller is expertly constructed and features a shocking opening sequence and some terrifying moments. It is a truly smart and intelligent film that covers ground no other horror movie would dare to cover. And while doing this, it never is tasteless or over the top. The entire cast is excellent by the way, but Susan Tyrrell really stands out in a truly demented performance that shows incredible range. Even Bo Svenson gives it his all and his performance really gets under your skin (that's a good thing!). Highly under rated! Rated R; Violence, Sexual Situations, Nudity, and Profanity.",
+         "I'd heard about Night Warning, I was fortunate enough to see it at a weird-film society showing, and I finally found it sitting in a bin in Tulsa, Oklahoma. There's one problem with the film, and we might as well deal with it up front. Director William Asher tries hard, but he's got a TV sensibility trying to cope with one of the nastiest scripts ever written and two of the wickedest performances ever turned in by SAG members. In the hands of a master, this thing'd still be playing at midnight showings all over the Western Hemisphere. That aside, Susan Tyrrell's performance alone is worth the price of admission. Bo Svenson's performance alone is worth the price of admission. Julia Duffy's charming, unwrapped little mams together are worth the price of admission. Even Jimmy McNichol doesn't embarrass himself - no, he doesn't, watch it again, he's supposed to be a goofy, horny teenager in suburban/rural Arizona, not a sensitive coffee-house habitue, for godsake. Let's go back to Susan Tyrrell. She puts on a clinic for actresses who want to know what \"over the top\" consitutes. When she flips out - lordie. All I'll say is that at approximately 1:15 into the movie, when she reacts to Julia Duffy breaking out a window, she makes a move with her head that's the single scariest thing I've ever seen an actor do on film, ever, anywhere, period. (And I've seen Jim Carrey trying to be sincere, thank you.) And Bo Svenson is evil on skates. The script doesn't give him that much to work with, but he rolls right over that little obstacle. WHY does he rant, \"I want those deviants off the streets!\" Who knows, who cares? There's a story out on the Net that he was a royal pain on the set, and I could easily believe that this was a case of him getting to say things he's always wanted to say in public, and get paid for it. Find this gem at any price. Know it. Live it.",
+         "Nightmare Maker achieved cult status through it's inclusion on the DPP 'Video Nasty' list, which has also lead to it becoming a 'lost' film. It's somewhat unfortunate that William Asher's film was included on the infamous list, as aside from a couple of gory scenes; there really isn't anything in this film that warrants it's banning. Nightmare Maker focuses on themes of insanity and incest, and the way that the director portrays these themes is bold and uncompromising\u0085although I find it hard to believe that this film was banned for it's themes by the same set of censors who made such decisions as banning 'The Driller Killer' merely for it's artwork. The plot focuses on Billy Lynch; a young man living with his aunt after his parents were killed in an unfortunate car accident. However, his relationship with his aunt isn't how she would like it; as the aunt has designs of a sexual nature on the boy, and does her best to ruin all of his plans; including his relationship with his girlfriend, and his hopes of winning a scholarship. All in all, making his life a nightmare... The film features performances from a few well known actors, including Bo Svenson as a bigoted sheriff and Susan Tyrrell as the maniacal aunt. The film also features a small early role for Bill Paxton; who, as he would in the rest of his career, doesn't appear in the film for long enough. The acting performances overall aren't bad considering the type of film; but it would be unwise to go into it expecting anything brilliant. Susan Tyrrell does get to enjoy herself as the central matriarchal figure, however, and seeing her descend into insanity is a lot of fun. The style of the film is very eighties indeed, and through gritty cinematography; director William Asher ensures that the film feels every bit like the 'Video Nasty' that it would become shortly after it's release. The scenes of gore are short and don't show much blood; although scenes involving a machete, as well as the pivotal scene that sees Billy's parents killed in a car crash are rather bloody and deserve mention. The plot never really gets going properly, which is a shame; although the final fifteen minutes are very good indeed and manage to bring closure to all the plot threads. Overall, this certainly isn't the best film on the Video Nasty list; but it's a good one, and well worth tracking down!",
+         "If you've seen a million cheap 70's/80's horror movies with bodies in the cellar, 'shocking' revelations, and dreary drama interspersed with a few gory killings then you might consider this a notch above the rest. Not that there's anything original about it, but director Asher (whose claim to fame are directing TV sitcoms and those beach party movies) has a good handle on the demented nature of this material. He deliberately paces it only to finally unleash it all for a very twisted and kinetic climax. He also shoots a very well mounted, realistic looking car accident at the beginning. Basically the story concerns a very possessive aunt (Tyrrell) who goes completely over the edge when her 18 year old Billy decides to move out. Seems hard to believe that a kid could be living with someone for 14 years and only when he's ready to leave does he realize what a nut she is. Then again if you have a part for a good looking kid that is dull, simple, and clueless then Jimmy McNichol (you know Kristi's brother) is the perfect person to fill it. Tyrrell is fantastic, but then she always is with these types of roles. Her performance though is almost equaled to that of Bo Svenson. His brash, gruff, unorthodox investigator character becomes almost as frightening as hers. Great chance to see young Bill Paxton and pre NEWHART Julia Duffy (you even get to see her topless). A real refreshing change of pace here where believe it or not, NONE of the victims are oversexed, screaming teenagers.",
+         "The notorious \"video-nasties\" formed a rather ambiguous milestone period in the horror genre. From one viewpoint, still now it's an excellent checklist for horror fans to use and track down as many rare flicks as possible with a questionable reputation. On the other hand, however, this exact same list contains way too many titles that should have been long forgotten by now, but instead gained a totally undeserved cult reputation. \"Night Warning\" is the exception to this rule, actually. Here we finally have a video-nasty that is raw, creepy and genuinely unsettling, yet it's totally unknown and nearly impossible to find. The film can be described best as some kind of demented soap opera with truly disturbing themes and the absolute most offensive one-liners you're likely hear ever. Mrs. Cheryl Roberts stands as one of the craziest ladies cinema, as her devotion for her 17-year-old nephew Billy is rather unhealthy and, well, actually quite sick! After the death of his parents when Billy was just 3 years old (in a very suspicious car accident, I may add), aunt Cheryl raised him. But now little Billy is growing up fast and aunt Cheryl loses her last bit of sanity when he becomes an independent young man and intimate with girls his own age. When she murders a plumber and tricks Billy into believing he attempted to rape her, the rather unorthodox police inspector Carlson starts digging into the family's past. The film isn't really that gory, apart from a couple of moments, but the tone and atmosphere are quite unsettling. Bo Svenson portrays the most memorable character; the cop who's even crazier than auntie Cheryl herself. He's a severely homophobic, perverted, racist, obnoxious and downright mad copper that rather neglects all the evidence in the murder case just to obtrude his own twisted world perspectives on his suspects. \"Night Warning\" is a lot more intelligent, progressive and experimental than it looks and it's definitely a couple of classes above your average 80's slasher in which barely dressed prom queens are running around screaming their guts out. It's a sick-spirited but intriguingly curious oddity that just demands a proper re-release on DVD.",
+         "When I first got a hold of this movie last year, I'd heard a little about it. When I first watched it, I thought it was boring. But after watching it a few more times, I grew to love it. Let me tell you, anyone who is a horror fan or a fan of Susan Tyrell MUST see this movie. I has great acting and a great story and a great ending. In the middle there isn't much action but the end easily makes up for that. Bo Svenson as the annoying detective was great. I was so pleased when he got his dues at the end. But Susan Tyrell easily steals the show. Her as the insane aunt was just hilarious! The way she acts is just so funny! Her performance alone is worth the whole movie! This was one of the films labeled as a 'video nasty' in the UK, and it's easy to see why. There are things in this movie like homophobia and incest(!). But this just adds to the fun! If you are a horror fan and have not seen this movie, you need to check this one out. It won't disappoint! And watch out for the crazy Susan Tyrell! 10/10",
+         "This is a real oddity of a film, dealing with insanity and family madness in the vein of all those '60s shockers starring Bette Davis, such as WHATEVER HAPPENED TO BABY JANE?. This film features a barnstorming central performance from Susan Tyrrell as an absolute nutter of an aunt, who has sexual designs on her own nephew and who bumps off anyone who gets in the way. Tyrrell hams it up and screams and shouts with relish, shearing off her hair at one point to make her look even more wacky; this is an extreme physical performance and as such, Tyrrell is very disturbing in the part. You can't imagine anyone else playing it just like her. Is the actress mad too? You'd think so on the strength of her acting here. The first hour of the plot is very slow and sedate with only a bloody knife murder to recommend it to horror fans (the subsequent blood-on-beast shots, apparently a pathological trigger for psychopaths, gained it a notorious 'video nasty' classification and a subsequent banning in the UK). Director William Asher was more at home with goofy '60s flicks like MUSCLE BEACH PARTY and he seems at home when dealing with small-town American life as he does here. However, the last twenty minutes of the film add a Grand Guignol punch to the proceedings as things become extremely over the top and the film turns into your typical slasher fare. People are stabbed, shot to pieces, impaled on pokers and have their limbs lopped off; there's also a pickled head in a jar which is always a fun plot ingredient for the horror film. Gore fans are sure to get their money's worth in this bloody climax which makes up for the slow-moving first hour. Compared to Susan Tyrrell, the rest of the cast are a little dull; certainly the young male lead seems wooden in comparison. There is one sympathetic male character, a basketball coach played by Steve Eastin, but he's hardly in the movie. B-movie fans may spot Bo Svenson, star of the original WALKING TALL; here he's another enforcer-of-the-law, except this time in the shape of an extremely nasty and homophobic small-town detective. My money's on Svenson as the real villain of the film; at least Tyrrell has madness as an excuse. Film fans may also spot Bill Paxton in a very small role as a bully; hell, this was even before his bit part in THE TERMINATOR! As for the film, well, it certainly packs its punch and delivers a powerful climax; at least it achieves some moments of true horror, and the same can't be said for many an inferior imitator.",
+         "When his parents are tragically killed Billy goes to live with his aunt who appears to be fixated on keeping him with her at all costs. When the aunt kills a man who won't sleep with her the police detective investigating suspect the aunt is protecting Billy who he thinks was having a relationship with Billy. An incredibly dark thriller with some very strange events. Bo Svenson who plays the lead cop on the case has to be one of the most unlikeable characters in horror film history, he is so unpleasantly homophobic/sexist/racist it makes it quite difficult to watch. Susan Tyrrell as the psycho aunt is brilliant and plays her with a truly demented edge, Jimmy McNichol as Billy and Julia Duffy as Julie are also very good. Writing overall is good, the character aunt Cheryl story's come out bit by bit and is always interesting(especially her relationship with Billy) as is the climax, but the detective story is so deliberately offensive it does undermine some of the story. The make-up effects are very good, the opening scene is impressive as is the violent set-pieces at the end. The atmosphere is excellent, the tension mounts and builds to a very strong finale. Not a gory or exploitative horror but a well made and brilliantly put together picture. How this well thought of film was banned as a video nasty and then rejected by the BBFC is astounding, this does deserve a release on DVD it has been on the shelf too long.",
+         "Night Warning begins as Bill (Gary Baxley) & Anna Lynch (Kay Kimler) leave their young 3 year old son Billy in the care of his Aunt, Cheryl Roberts (Susan Tyrrell) and set off for the Pacific Coast to visit their parents. While driving along a mountainside road the brakes on their car fail. Their car speeds out of control and eventually ends up over the side of the mountain and into a river, the car then explodes as a photo of Billy floats downstream. '14 Years Later', Billy (Jimmy McNichol) is now a bright happy 17 year old who lives with his Aunt Cheryl. Cheryl has raised Billy like her own child since his parents were killed, the thing is Cheryl is a little on the mad side, somewhat possessive and rather over-protective but it hasn't been a real problem until now. Now Billy is starting to develop a life of his own, Billy has a girlfriend named Julie (Julia Duffy, the IMDb listing for this character is wrong. Her name in the film is definitely Julie, not Julia) and is about to be seen by a Denver University scout and possibly win a full athlete's scholarship. Cheryl openly dislikes both Julie and the fact Billy may have to move to Denver. Having just fixed Cheryl's T.V. set Phil Brody (Caskey Swaim) is murdered by Cherly after he rejects her unwanted amorous advances towards himself. Billy comes home to find Cheryl covered in blood holding a large kitchen knife and claiming it was self defence because Brody tried to rape her. Two of Cheryl's friends also turn up, Marge (Marcia Lewis) and her husband Frank (Cooper Neal). Lieutenant Joe Carlson (Bo Svenson) & Sergeant Cook (Britt Leach) are on the case. Neither believe for a second that it was self defence, this theory appears to gain even more credibility when it turns out that Phil Brody was gay & so wouldn't be interested in raping a woman. Carlson becomes more suspicious when it turns out that Phil Brody was in a relationship with Billy's sports coach, Tom Landers (Steve Eastin) and therefore it becomes clear that there is a connection between Billy & Brody. Cheryl becomes even more possessive and resorts to drastic measures to make sure that Billy stays with her. No one will take Billy from her and live! Directed by William Asher Night Warning (I actually saw the UK version under the much better title Nightmare Maker) is a strange character driven horror film. The script by Stephen Breimer, Boon Collins & Alan Jay Glueckman concentrates on Cheryl's and Billy's relationship for most of the films running time. And a strange relationship it is too, almost incestuous, over bearing and just plain obsessive. The film tries to touch upon several issues, the weird obsessive relationship, homophobia, gay rights, teenage growing pains & all the while trying to keep the horror aspects of the story going. To be fair the film succeeds for the most part and is fascinating to watch, unfortunately it drags quite badly in places and there isn't a lot of action or violence to maintain ones interest. I wasn't impressed by the silly & slightly rushed ending, either. The acting stands up very well, Tyrrell and McNichol are fine, but it's Bo Svenson's ultra macho homophobic & racist Lieutenant that stays in the memory. I love while interrogating Tyrrell, her friend Marge says \"leave her alone\" to which Carlson replies \"are you talking to me lady?\", Marge replies \"yes\" and Carlson simply says \"don't!\". And look out for Bill Paxton (everyones favourite character in Aliens (1986)) in an early appearance as Eddie. There are some gory scenes in Night Warning, but not too many and most of them come within the last 15 odd minutes. There is a brief decapitation by tree trunk like the one in Final Destination 2 (2003), a stabbing, a cut stomach, a severed hand and a few bloody gunshot wounds. The film has a really bland, flat & made for T.V. look and feel about it. The house where most of the film takes place is dull and visually uninteresting, the music is poor and the cinematography and direction although competent both lack imagination and flair. Overall Night Warning is an interesting horror film that is certainly worth a look, just because it's a little different if nothing else.",
+         "Not bad suspense movie about a crazy aunt played by Tyrell who will stop at nothing to protect her teenage nephew from the people out to get him. Look for an early bill paxton(who is not that great an actor anyway) in an early role as a school bully. Really not a horror movie until the last half when Tyrell goes nuts. But not bad actually!",
+         "Butcher, Baker, Nightmare Maker (1982) ** 1/2 (out of 4) Billy became an orphan at the age of three when his parents were killed in an accident. He went to live with his Aunt Cheryl (Susan Tyrrell). Fourteen-years after the accident the aunt is still watching and caring for Billy (Jimmy McNichol) but when he starts to show interest in another girl and in moving away it causes the aunt to slowly breakdown into madness. BUTCHER, BAKER, NIGHTMARE MAKER is a film that i had heard about long before I actually got a chance to see it. I had heard some pretty crazy things about the picture but in all honesty, nothing you read can prepare you for what an incredibly strange picture that you're going to see. I've seen a lot of very weird and very surreal movies in my life but there's really not another picture out there like this one. Is that a good thing? Probably so because this thing is just so out there in so many ways. It's hard to label this film but it's certainly not a slasher as some have labeled it. To me it fits in with the \"hag\" movies from the 1960s like WHATEVER HAPPENED TO BABY JANE? as you've pretty much got an incredibly strange older character who is beyond anything you've ever seen. Tyrrell certainly steals the picture as the bizarre aunt who is constantly pouring out this strange sexuality towards her nephew. The entire performance is just so out there yet it's never over-the-top or campy. It's hard to even say if it's a great or bad performance. It's just so original, so different and so strange that it's hard to believe what you're watching. Another thing that really stands out is the Detective Carlson character played by Bo Svenson. There's a murder that happens early in the picture that Carlson is investigating and his main goal is to pen it on Billy who he think is a homosexual. This character has a certain hatred of gay people that is rather striking to see. Look, I know this type of thing was different in 1982 than it is today but the hatred shown here is still pretty eye-opening and shocking. The way the homophobic attitudes hang throughout the film and play into the story just adds a touch of craziness. For the most part the performances are good. As I said, Tyrrell is just something else. Svenson is excellent in his role as he plays the part extremely tough and unlikeable. You've got a nice performance by Julia Duffy as the girlfriend and McNichol is good in his role as the adult Billy. Britt Leach adds good support as does Steve Eastin. You'll also notice Bill Paxton in an early role. As weird as this movie is, there's no question that there are some major flaws with the picture. The timing isn't all that good and I'd argue that there's not enough tension throughout the picture. The middle portion of the picture also really drags in spots as the story never really progresses as it should. With that being said, BUTCHER, BAKER, NIGHTMARE MAKER is just so strange that it's impossible not to recommend it.",
+         "Bill is moving up in the world, he's got 2 separate speaking scenes, including a fight scene where he gets milk poured over his head (I have no idea who anyone in this movie is apart from Bill). Night Warning starts as a thriller, ending up as a slasher horror. The female lead is definitely a source of inspiration for Kathy Bates 9 years later. Watch the 1st 3 minutes. You wont be disappointed.",
+         "You've heard the term \"they don't make 'em like they used to?\" Well, I don't think they EVER made them like Night Warning. This film is in a class all on its own. Part Lifetime movie, part post-Baby Jane psycho biddy camp, part V.C. Andrews, and part slasher flick, Night Warning really is something special. Billy's Aunt Cheryl is a real pain. She always wants him home and doesn't think he should go off to college. She also just killed a repairman and the cops think Billy did it, because he was in a threesome relationship with the repairman and his lover (who happens to be Billy's basketball coach). As the case heats up, Cheryl gets dangerously close to the edge of sanity and everyone around her is about to pay the price. It would be a damn crime to reveal any of the delicious and juicy twists found in Night Warning, so all I'll say is that you'll be shocked and amused more times than you can count. It's one wild ride, especially thanks to Susan Tyrrell's gutsy and deranged performance. I've never seen anything quite like it. It's part Bette Davis in Baby Jane, part Glenn Close in Fatal Attraction, and part Piper Laurie in Carrie. She's a force of nature. The new DVD from Code Red has been, thankfully, taken from a nice film print and cleaned up a good deal, so you don't have to suffer with those dark and washed out messes on the VHS releases. Pick up a copy, call your friends over, open a bottle of wine, and enjoy the craziness of Night Warning.",
+         "This is a truly bad film though it had a hypnotic effect on me... I just couldn't stop watching. This is an awesome film in its alarming subject matter. As a youngster, Billy Lynch is left with his Aunty Cheryl as his parents take a trip into the city. There's an accident and Billy's parents are killed so for the next fourteen years his Aunt takes care of him and brings him up. Then one day his Aunt kills a handyman who she claims tried to rape her. Billy affirms her story, though Detective Joe Carlson doesn't believe them. It's in the course of his investigation that things begin to unravel for Billy and Aunt Cheryl. There are plenty of twists and turns in the story which keeps the viewer entertained and interested. Though it's the earnestness of the acting from Bo Svenson's portrayal of the over-the-top testosteroned bullish boor of a man in Detective Carlson that makes this humorous and enthralling. I have known people who are homophobic, to the point of brutishness, but this character could be the archetype. Then there's the wonderful Susan Tyrell who's maniacal and lunatic portrayal of Aunty Cheryl is skin-crawlingly bizarre and creepy. As the film progressed and grew more florid I was surprised to see Julia Duffy and, one of my favourite actors, Bill Paxton appear. Julia Duffy does a good job as Billy's love interest Julia and is one of the main characters that aren't too unnatural. One of the strongest and realistic characters in the movie is that of the homosexual Coach Tom Landers. When viewed in respect to the homophobic actions of Carlson I thought we'd get to see more of Landers. It is actually a shame that we don't This film is bad enough, weird enough, crazy enough, and strangely entertaining enough to be a cult film. If you have time to spare and like a film to fascinate and delight then this is one worth a watch. I loved it...",
+         "Billy is your average all=American teenager. He's a basketball star who is about to get a full ride in college. His crazed aunt has taken care of him since he was 3 years old when his parents died in a car accident. As the story evolves, Aunt Cheryl gets crazier and crazier. A few slicings, two stomach stabs, shootings, and a pretty neat beheading. The blood is pretty light, but it doesn't really need it for the kills to be effective. All of the main film making aspects were pretty positive in this one. Good lighting, creepy house sets, and decently creative angles here and there. The best thing technically was the music score. Most of the movies in this era have distracting music and effects in my opinion, but they did manage to keep an eerie and intense feeling in the suspenseful scenes. The acting is the best aspect of the movie. The main actors were all great and did exactly what they needed to do. Jimmy McNichol - Had the lead as Billy. He really didn't have too tough of a role to play. He did what was needed and played the average high school kid. Susan Tyrrell - Played the crazy Aunt. She was absolutely superb at what she did. I'd say she was the female version of Normal Bates in this movie. Never missed a beat whatsoever, and managed to grasp the role perfectly. If this part wasn't played perfectly this movie would have been hell to sit through. Bo Svenson - The homophobic cop. He also did a superb job as the dumb homophobic detective. I almost never like the detectives or cops in horror movies, but he managed to do a really good job with it. Bill Paxton has a pretty brief cameo...that was just funny. Final Thoughts: This is as close as you will get as a female version of Psycho. I don't want to give away much plot, but the Aunt's obsession with her nephew is portrayed perfectly. The scores and greatly written script gave the actors a lot to work with as well. Much props to William Asher and the writing crew. William Asher actually is famous for his 60's cheesy beach movies which I also enjoy.",
+         "Another one of the titles that made our `Video Nasties` list for seemingly no good reason. This is three-quarters TV movie, and one-quarter slasher movie. It has some interesting ideas, but somehow, it never quite works. It`s good to see the female lead go quite mad at the end; which, if you can maintain interest until then; is worth the wait. Still can`t see how this gets banned & the likes of Braindead is passed uncut. Inconsistency somewhere\u0085 (5 out of 10)",
+         "I have been waiting for so long to see this movie, to add to my Slasher movies list and finally last night I saw it, and after seeing it, I thought, pretty good, not brilliant but good. Night Warning was one of those 80's horror movies that ended up getting banned and labeled as a video nasty, which to be honest I don't get why because, it's not that gory or brutal, but then again tripe like (Don't Go In The Woods and Don't Go Into The House) also ended up on the Video nasty list and they were both awful and banned for the wrong reasons in my opinion. The movie is about a woman who is so disturbed that she resorts to murder in order to prevent her young nephew Billy from leaving. Night Warning does have a TV Movie feel to it at times, but with added on violence. Tyrrell regularly changing from Mother figure to would-be seductress is disturbing and incendiary stuff. It is also unusual for a film of this type to tackle the issue of homophobia in such a frank way. The petty prejudices of the small town mentality are thrown into sharp relief when compared to the horror being committed behind closed doors. Interestingly it is Tyrrell and Svenson ,the film's two psychos (Tyrrell is deranged; Svenson is dangerously obsessed), who are the most rabidly moralistic. Susan Tyrell truly shines as the psychotic Aunt Cheryl who at first manages to keep the mask of sanity in place for her nephew Billy, then letting it slip and slide completely as the movie progrees, she's a brilliant psycho and steals the show with every scene she's in. Jimmy McNicol (Billy) plays his part well, his chemistry with his Aunt and his girlfriend worked, he's just an all round good guy who doesn't deserve all the crap that he's been put through. Bo Svenson (The Detective) was the worst character I have ever come across in a slasher movie, he was good at being this really hatable character, and I did, I did really hate this guy and his detective skills are rubbish, I'm glad he had what was coming to him in the end. And Julia Duffy (Julie) played the part of the sympathectic girlfriend really well, she was sweet and stunning and had a really good chase scene at the end. All in all a really good movie, a great entry in the Slasher cycle of the 1980's, the performances were well played, but it's Susan Tyrell whose the best in this part. The incesterous theme in this movie I found unsettling and other than that a great movie.",
+         "The director of \"Gidget\" and the Beach Party movies - united with the writer of the uber-crappy hinterland rape plod \"Abducted\" - here bring you SUSAN TYRRELL! Doing a nightmare riff off Piper Laurie's psycho mom in \"Carrie,\" making the original look like Gidget in the process! You have never seen anything like it - even, I'm assured, if you think you've seen Tyrrell go over-the-top in other roles. Plainly bat-wacky from the first exchange, padding around the manse muttering under her breath, lurching toward total meltdown in unexpected but definitive bursts, this is an absolute high camp masterpiece of a performance, one for the ages. And damned if the movie doesn't do its best to keep up - with good pacing, adequate attention to logic and larger amounts of creative gore splooshed around than you would have thought absolutely necessary. Newhart's Julia Duffy is cute as the interloping teen photog, Jimmy McNichol is kinda bland and stupid, but does what he needs to do, and Bo Svensson is a fabulous opposite number for Tyrrell - coiled and menacing as a homophobic megalomaniac police chief. Out of nowhere, he turns the movie into a treatise about the relative perversion of the 'normal' nuclear family - bet Robin Wood loves this one. The movie can't touch Tyrrell - the Christian subtext is a propos of nothing but market placement, again cf. \"Carrie\" - but all she needs is a steady platform to careen across, and she gets more than that."
+      ],
+      "genres": [
+         "Horror",
+         "Thriller"
+      ],
+      "productionCompanies": [
+         "S2D Associates",
+         "Royal American Pictures"
+      ],
+      "summaries": [
+         "Since the death of his parents fourteen years ago, Billy Lynch has been raised by his over-protective aunt Cheryl. But once he turns seventeen, he is soon set on planning his life...without her. He's planing on going on to college and is dating local girl Julie. None of which sits well for his aunt, who's lost everyone else in her life and now with her nephew ready to leave, ensures she starts on a campaign to keep him with her...forever.But as her plans misfire she becomes swept up in a cycle of psychosis and frenzied violence all being blamed on Billy by everyone else...including a homophobic detective, who's anti-gay prejudice is steadily reaching its zenith...leading to an unforeseeable outcome.",
+         "An orphaned teenager finds himself being dominated by his aunt who's hell-bent on keeping him with her...at all costs."
+      ],
+      "budget": 0
+   },
+   "movielensId": 152575,
+   "movielens": {
+      "languages": ["English"],
+      "releaseDate": "1982-02-24",
+      "dvdReleaseDate": null,
+      "directors": ["William Asher"],
+      "runtime": 96,
+      "movieId": 152575,
+      "title": "Butcher, Baker, Nightmare Maker",
+      "mpaa": "R",
+      "actors": [
+         "Jimmy McNichol",
+         "Susan Tyrrell",
+         "Bo Svenson",
+         "Julia Duffy",
+         "Marcia Lewis",
+         "Steve Eastin",
+         "Britt Leach",
+         "Caskey Swaim",
+         "Cooper Neal",
+         "Bill Paxton",
+         "Kay Kimler",
+         "Gary Baxley"
+      ],
+      "imdbMovieId": "0082813",
+      "originalTitle": "Butcher, Baker, Nightmare Maker",
+      "genres": [
+         "Thriller",
+         "Horror"
+      ],
+      "youtubeTrailerIds": ["jO8Djh7gk7I"],
+      "plotSummary": "Rejected by her lover, the only man left in Cheryl's life is the orphaned nephew she has raised as her own son. She'll stop at nothing to keep Billy with her. When her plans misfire, she is swept up into an insane frenzy that means death to anyone who comes between her and her obsession. But the investigating detective is convinced that Billy is the real killer - and determined to prove it. Madness and fanaticism work together to drag all concerned into a terrifying vortex of blood-letting that adds a nightmarish twist to the classic Oedipus story.",
+      "tmdbMovieId": 67740,
+      "avgRating": 3.22222,
+      "releaseYear": "1982",
+      "numRatings": 9,
+      "posterPath": "/nw1RNnyzq3gr2ebmGNQZB5Utv7O.jpg"
+   }
+}

@@ -1,0 +1,465 @@
+{
+   "tmdb": {
+      "original_language": "it",
+      "keywords": [{
+         "name": "italy",
+         "id": 131
+      }],
+      "imdb_id": "tt0041506",
+      "video": false,
+      "title": "In the Name of the Law",
+      "recommendations": [],
+      "backdrop_path": "/qGfJp7V8vkwpgWHnq4PNu07f3yZ.jpg",
+      "revenue": 0,
+      "reviews": [],
+      "credits": {
+         "cast": [
+            {
+               "cast_id": 1,
+               "character": "Il pretore Guido Schiavi",
+               "gender": 0,
+               "credit_id": "52fe4d0d9251416c91109071",
+               "name": "Massimo Girotti",
+               "profile_path": "/bz4jZxPSe00wKze4vF6aGpIcKn6.jpg",
+               "id": 18340,
+               "order": 0
+            },
+            {
+               "cast_id": 2,
+               "character": "La baronessa Teresa Lo Vasto",
+               "gender": 0,
+               "credit_id": "52fe4d0d9251416c91109075",
+               "name": "Jone Salinas",
+               "profile_path": null,
+               "id": 1175724,
+               "order": 1
+            },
+            {
+               "cast_id": 3,
+               "character": "Il barone Lo Vasto",
+               "gender": 2,
+               "credit_id": "52fe4d0d9251416c91109079",
+               "name": "Camillo Mastrocinque",
+               "profile_path": null,
+               "id": 223708,
+               "order": 2
+            },
+            {
+               "cast_id": 4,
+               "character": "Massaro Turi Passalacqua",
+               "gender": 2,
+               "credit_id": "52fe4d0d9251416c9110907d",
+               "name": "Charles Vanel",
+               "profile_path": "/n2QkGhxuFmGoDyzGUHxdKQfMQX2.jpg",
+               "id": 2566,
+               "order": 3
+            },
+            {
+               "cast_id": 5,
+               "character": "Il maresciallo Grifò",
+               "gender": 0,
+               "credit_id": "52fe4d0d9251416c91109081",
+               "name": "Saro Urzì",
+               "profile_path": "/JjUgH6kyEyZ4kgfusXENCkhlk8.jpg",
+               "id": 119431,
+               "order": 4
+            },
+            {
+               "cast_id": 20,
+               "character": "Don Fifì",
+               "gender": 0,
+               "credit_id": "564e9244c3a3680719001e2d",
+               "name": "Turi Pandolfini",
+               "profile_path": null,
+               "id": 132479,
+               "order": 5
+            },
+            {
+               "cast_id": 21,
+               "character": "L'avvocato Faraglia",
+               "gender": 0,
+               "credit_id": "564e924dc3a368070f001b05",
+               "name": "Umberto Spadaro",
+               "profile_path": "/kcq8LJ2eGMJDPf1n9uPGrTznZk1.jpg",
+               "id": 1003179,
+               "order": 6
+            },
+            {
+               "cast_id": 22,
+               "character": "Il cancelliere",
+               "gender": 0,
+               "credit_id": "564e9255c3a3680708001cea",
+               "name": "Saro Arcidiacono",
+               "profile_path": null,
+               "id": 1209961,
+               "order": 7
+            },
+            {
+               "cast_id": 23,
+               "character": "Francesco Messana",
+               "gender": 2,
+               "credit_id": "564e925d9251414b07001d3c",
+               "name": "Ignazio Balsamo",
+               "profile_path": null,
+               "id": 1082124,
+               "order": 8
+            },
+            {
+               "cast_id": 24,
+               "character": "Lorenzina La Scaniota",
+               "gender": 0,
+               "credit_id": "564e92679251414b0a001e13",
+               "name": "Nanda De Santis",
+               "profile_path": null,
+               "id": 1538471,
+               "order": 9
+            },
+            {
+               "cast_id": 25,
+               "character": "Bastianedda",
+               "gender": 0,
+               "credit_id": "564e926ec3a368070a001b5e",
+               "name": "Nadia Niver",
+               "profile_path": null,
+               "id": 1538472,
+               "order": 10
+            },
+            {
+               "cast_id": 26,
+               "character": "",
+               "gender": 0,
+               "credit_id": "564e9273c3a368071b001c9d",
+               "name": "Aldo Sguazzini",
+               "profile_path": null,
+               "id": 1538473,
+               "order": 11
+            },
+            {
+               "cast_id": 27,
+               "character": "Il sindaco Leopoldo Pappalardo",
+               "gender": 0,
+               "credit_id": "564e927cc3a3680716001c5d",
+               "name": "Alfio Macrì",
+               "profile_path": null,
+               "id": 1538474,
+               "order": 12
+            },
+            {
+               "cast_id": 28,
+               "character": "Don Peppino",
+               "gender": 0,
+               "credit_id": "564e9285c3a3680708001cf2",
+               "name": "Carmelo Olivero",
+               "profile_path": null,
+               "id": 1538475,
+               "order": 13
+            },
+            {
+               "cast_id": 29,
+               "character": "Paolino",
+               "gender": 0,
+               "credit_id": "59986a2a9251414159008198",
+               "name": "Bernardo Indelicato",
+               "profile_path": null,
+               "id": 1872635,
+               "order": 14
+            },
+            {
+               "cast_id": 30,
+               "character": "Il procuratore di Palermo",
+               "gender": 0,
+               "credit_id": "59986a3a92514125c20116ef",
+               "name": "Guido Medici",
+               "profile_path": null,
+               "id": 1872636,
+               "order": 15
+            },
+            {
+               "cast_id": 31,
+               "character": "Vanni Vetriolo",
+               "gender": 0,
+               "credit_id": "59986a48925141418e00837e",
+               "name": "Franco Navarra",
+               "profile_path": null,
+               "id": 1872637,
+               "order": 16
+            },
+            {
+               "cast_id": 32,
+               "character": "Gallinella",
+               "gender": 0,
+               "credit_id": "59986a5392514125b501199c",
+               "name": "Pietro Sabella",
+               "profile_path": null,
+               "id": 1872639,
+               "order": 17
+            },
+            {
+               "cast_id": 33,
+               "character": "",
+               "gender": 0,
+               "credit_id": "59986a5c9251412601011737",
+               "name": "Natale Cirino",
+               "profile_path": null,
+               "id": 132482,
+               "order": 18
+            }
+         ],
+         "crew": [
+            {
+               "gender": 0,
+               "credit_id": "52fe4d0d9251416c91109087",
+               "name": "Pietro Germi",
+               "profile_path": "/hN3PS1lgTjkKrOeJV4LIMa25RdN.jpg",
+               "id": 95040,
+               "department": "Directing",
+               "job": "Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4d0d9251416c9110908d",
+               "name": "Giuseppe Mangione",
+               "profile_path": null,
+               "id": 138765,
+               "department": "Writing",
+               "job": "Story"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4d0d9251416c91109093",
+               "name": "Mario Monicelli",
+               "profile_path": "/3AWi7C76eGO3WxZgvRavzxq2x5q.jpg",
+               "id": 32375,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4d0d9251416c91109099",
+               "name": "Federico Fellini",
+               "profile_path": "/iNuDmm889WbZDK4k0qxsjeNnNhV.jpg",
+               "id": 4415,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4d0d9251416c9110909f",
+               "name": "Tullio Pinelli",
+               "profile_path": null,
+               "id": 5396,
+               "department": "Writing",
+               "job": "Screenplay"
+            },
+            {
+               "gender": 0,
+               "credit_id": "52fe4d0d9251416c911090a5",
+               "name": "Luigi Rovere",
+               "profile_path": null,
+               "id": 937250,
+               "department": "Production",
+               "job": "Producer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "52fe4d0d9251416c911090ab",
+               "name": "Carlo Rustichelli",
+               "profile_path": "/3LOPAqzUlWbyjzxYXMlJpJDrrrE.jpg",
+               "id": 29500,
+               "department": "Sound",
+               "job": "Original Music Composer"
+            },
+            {
+               "gender": 2,
+               "credit_id": "564e91dec3a368070d001d96",
+               "name": "Leonida Barboni",
+               "profile_path": null,
+               "id": 238464,
+               "department": "Camera",
+               "job": "Director of Photography"
+            },
+            {
+               "gender": 0,
+               "credit_id": "564e91e6c3a368071b001c82",
+               "name": "Rolando Benedetti",
+               "profile_path": null,
+               "id": 72930,
+               "department": "Editing",
+               "job": "Editor"
+            },
+            {
+               "gender": 0,
+               "credit_id": "564e91ee9251414b04001cca",
+               "name": "Gino Morici",
+               "profile_path": null,
+               "id": 1538469,
+               "department": "Art",
+               "job": "Production Design"
+            },
+            {
+               "gender": 0,
+               "credit_id": "564e91f59251414b0a001dfa",
+               "name": "Anacleto Giustini",
+               "profile_path": null,
+               "id": 1082655,
+               "department": "Costume & Make-Up",
+               "job": "Makeup Artist"
+            },
+            {
+               "gender": 0,
+               "credit_id": "564e9200c3a368070a001b43",
+               "name": "Enzo Provenzale",
+               "profile_path": null,
+               "id": 1014404,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 2,
+               "credit_id": "564e92099251414af9001a84",
+               "name": "Salvatore Rosso",
+               "profile_path": null,
+               "id": 944464,
+               "department": "Directing",
+               "job": "Assistant Director"
+            },
+            {
+               "gender": 0,
+               "credit_id": "564e9211c3a3680719001e1a",
+               "name": "Argi Rovelli",
+               "profile_path": null,
+               "id": 1538470,
+               "department": "Directing",
+               "job": "Assistant Director"
+            }
+         ]
+      },
+      "genres": [
+         {
+            "name": "Crime",
+            "id": 80
+         },
+         {
+            "name": "Drama",
+            "id": 18
+         }
+      ],
+      "popularity": 0.291593,
+      "production_countries": [{
+         "iso_3166_1": "IT",
+         "name": "Italy"
+      }],
+      "id": 195382,
+      "vote_count": 3,
+      "budget": 0,
+      "overview": "A young, by-the-book judge is appointed to a Sicilian village controlled by corrupt leaders and the mafia.",
+      "similar": [
+         175,
+         8416,
+         10895,
+         50270,
+         24167,
+         11216,
+         1213,
+         80752,
+         98,
+         324552,
+         242,
+         238,
+         240,
+         279,
+         637,
+         644,
+         398818,
+         38167,
+         13448,
+         36557
+      ],
+      "original_title": "In nome della legge",
+      "runtime": 101,
+      "poster_path": "/jt93JF3NzqOZjsUJduaC5qtdPeS.jpg",
+      "spoken_languages": [{
+         "name": "Italiano",
+         "iso_639_1": "it"
+      }],
+      "production_companies": [{
+         "logo_path": null,
+         "name": "Lux Film",
+         "id": 1679,
+         "origin_country": ""
+      }],
+      "release_date": "1949-03-13",
+      "vote_average": 7.3,
+      "belongs_to_collection": null,
+      "tagline": "",
+      "adult": false,
+      "homepage": null,
+      "status": "Released"
+   },
+   "imdb": {
+      "country": "Italy",
+      "color": "Black and White",
+      "budgetCurrency": null,
+      "directors": ["Pietro Germi"],
+      "runtime": 101,
+      "synopsis": null,
+      "writers": [
+         "Giuseppe Mangione",
+         "Giuseppe Guido Lo Schiavo"
+      ],
+      "originalLanguage": "Italian",
+      "imdbLink": "http://www.imdb.com/title/tt0041506/",
+      "coverLink": null,
+      "actors": ["Stars: Massimo Girotti, Charles Vanel, Jone Salinas | See full cast and crew »"],
+      "reviews": ["While foreign critics were lauding the so called Neo Realist classics, Italian audiences were flocking to the films of Pietro Germi. Were they right? The realist films were an uneven lot. Rosellini burned out rapidly. Visconti was always suspect. Luigi Zampa went off the radar to turn up twenty years later as a sure hand and De Sica, the movement's genuine talent, sold out often and at a high price. However Germi went from strength to strength, from realism to the films which launched the celebrated Italian Comedy still to come. I rate this his best film and one of the major achievements of Italian cinema. For a hero we get magistrate Girotti, getting the warning from his apparently mad predecessor, finding the remote rural community under the dual authority of harassed Germi regular, Urzi the cop and imposing mafia land owner Charles Vanel who arrives on horseback with a flourish that would do credit to any western. The film's ambivalence towards him, twenty years in front of THE GODFATHER is one of the film's great strengths. Craftsmanship is superior and the writing, notably of the fugitive killer whose family Girotti turns loose, continually asserts a vision we do not recognize from any level of European film. This one is a class act. Like all of Germi's films however, it is flawed and the romantic sub-plot never convinces. This is possibly the major work of a major creator who continually challenged the expectations of his audience."],
+      "genres": ["Drama"],
+      "productionCompanies": ["Lux Film"],
+      "summaries": ["A mule cart crosses the countryside. Two bandits push the driver off and, when he resists, kill him. The bandits steal the mules... The town of Capodarso, Sicily. The Baron doesn't want help from Mafia boss Passalacqua to recover his stolen mules. A new judge is arriving... At the station, the new judge Schiavi meets the departing judge Pisani. Schiavi is young, but he's Sicilian and set on changing the old ways... A man in town has been shot, Aleo, one of the bandits. Before he dies, he refuses to name his killer but looks strangely at Messana in the doorway. The other bandit, Vanni, is on the run... Schiavi learns that much of the town is unemployed because the mine is closed. The mine is owned by the Baron's beautiful wife, but the Baron runs it. Why keep the mine closed in spite of the old court order to reopen? Schiavi goes to the mine to investigate. He is confronted by Passalacqua and his band of armed horsemen..."],
+      "budget": 0
+   },
+   "movielensId": 129413,
+   "movielens": {
+      "languages": ["Italiano"],
+      "releaseDate": "1949-03-13",
+      "dvdReleaseDate": null,
+      "directors": ["Pietro Germi"],
+      "runtime": 101,
+      "movieId": 129413,
+      "title": "In the Name of the Law",
+      "mpaa": null,
+      "actors": [
+         "Massimo Girotti",
+         "Jone Salinas",
+         "Camillo Mastrocinque",
+         "Charles Vanel",
+         "Saro Urzì",
+         "Turi Pandolfini",
+         "Umberto Spadaro",
+         "Saro Arcidiacono",
+         "Ignazio Balsamo",
+         "Nanda De Santis",
+         "Nadia Niver",
+         "Aldo Sguazzini",
+         "Alfio Macrì",
+         "Carmelo Olivero",
+         "Bernardo Indelicato",
+         "Guido Medici",
+         "Franco Navarra",
+         "Pietro Sabella",
+         "Natale Cirino"
+      ],
+      "imdbMovieId": "0041506",
+      "originalTitle": "In nome della legge",
+      "genres": [
+         "Crime",
+         "Drama"
+      ],
+      "youtubeTrailerIds": [],
+      "plotSummary": "A young, by-the-book judge is appointed to a Sicilian village controlled by corrupt leaders and the mafia.",
+      "tmdbMovieId": 195382,
+      "avgRating": 3.5,
+      "releaseYear": "1949",
+      "numRatings": 2,
+      "posterPath": "/jt93JF3NzqOZjsUJduaC5qtdPeS.jpg"
+   }
+}
